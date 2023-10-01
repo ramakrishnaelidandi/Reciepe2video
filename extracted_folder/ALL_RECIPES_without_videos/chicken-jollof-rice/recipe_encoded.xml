@@ -1,0 +1,53 @@
+<recipe>
+  <title>Chicken Jollof Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-jollof-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 13278 13757 7042 976 </ingredient>
+    <ingredient num="1">3917 13278 8083 1466 10986 3789 8695 13817 14432 </ingredient>
+    <ingredient num="2">8580 13278 2192 8083 7272 3917 7200 3917 341 </ingredient>
+    <ingredient num="3">3917 13278 13560 9929 10986 5895 13940 7693 3716 </ingredient>
+    <ingredient num="4">1580 2605 13278 4168 7632 7789 8580 9486 13278 2935 8007 </ingredient>
+    <ingredient num="5">3917 715 13278 6023 7983 13917 472 13278 14577 5981 </ingredient>
+    <ingredient num="6">8580 2031 13278 11210 11703 </ingredient>
+    <ingredient num="7">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="8">8580 9517 13278 9543 3104 3790 11948 6416 13278 5348 5981 </ingredient>
+    <ingredient num="9">8580 13278 220 4530 </ingredient>
+    <ingredient num="10">9883 2605 13278 12282 13278 757 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45755/low_1501620681.m3u8</low>
+    <high>https://vid.tasty.co/output/45755/mp4_720x1280/1501620681</high>
+  </video>
+  <steps>
+    <step num="0">9179 11951 7042 8083 1466 10986 14432 12384 13817 7845 560 5994 12027 13817 1279 1681 12119 </step>
+    <step num="1">10950 5994 10083 11770 13757 14307 740 8580 9486 7632 341 8083 12384 12816 13817 11210 785 264 1681 11453 12573 12386 13817 7983 7312 7340 6285 1882 12689 6054 7983 6781 10083 13817 817 5292 </step>
+    <step num="2">9891 7855 560 2520 13817 10104 11951 5540 13799 740 2557 9668 2207 8224 1681 12781 5569 8467 </step>
+    <step num="3">9179 210 374 7632 13817 7256 2260 7990 1882 12689 </step>
+    <step num="4">12473 210 12816 14473 1391 11948 220 13817 9211 1550 </step>
+    <step num="5">4660 10083 13528 1391 11426 4660 1391 5378 13817 2864 7855 560 11286 8224 7990 238 12689 </step>
+    <step num="6">9956 7706 9490 8421 378 3386 432 3044 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 7042 8083 1466 10986 14432 12384 13817 7845 560 5994 12027 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="1">10950 5994 10083 11770 13757 14307 740 8580 9486 7632 341 8083 12384 12816 13817 11210 785 </steps_updated>
+    <steps_updated num="2">264 1681 11453 12573 12386 13817 7983 7312 7340 6285 1882 12689 </steps_updated>
+    <steps_updated num="3">6054 7983 6781 10083 13817 817 5292 </steps_updated>
+    <steps_updated num="4">9891 7855 560 2520 13817 10104 11951 5540 13799 740 2557 9668 2207 8224 1681 12781 5569 8467 </steps_updated>
+    <steps_updated num="5">9179 210 374 7632 13817 7256 2260 7990 1882 12689 </steps_updated>
+    <steps_updated num="6">12473 210 12816 14473 1391 11948 220 13817 9211 1550 </steps_updated>
+    <steps_updated num="7">4660 10083 13528 1391 11426 </steps_updated>
+    <steps_updated num="8">4660 1391 5378 13817 2864 7855 560 11286 8224 7990 238 12689 </steps_updated>
+    <steps_updated num="9">9956 7706 9490 8421 378 3386 432 3044 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

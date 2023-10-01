@@ -1,0 +1,53 @@
+<recipe>
+  <title>Easy Fish Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-fish-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 4985 747 3333 13278 1513 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 8083 12384 341 13278 3433 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 1484 13033 13278 2583 5981 </ingredient>
+    <ingredient num="3">3917 13278 7695 3701 </ingredient>
+    <ingredient num="4">12791 8071 13278 82 </ingredient>
+    <ingredient num="5">4061 13278 7729 2133 </ingredient>
+    <ingredient num="6">12791 8071 13278 499 10986 11088 </ingredient>
+    <ingredient num="7">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="8">1580 8071 13278 3170 </ingredient>
+    <ingredient num="9">1580 8071 13278 82 </ingredient>
+    <ingredient num="10">1580 8071 13278 7845 </ingredient>
+    <ingredient num="11">8268 13278 3183 5817 </ingredient>
+    <ingredient num="12">6712 560 11567 </ingredient>
+    <ingredient num="13">7695 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Healthy</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11635/low_1475862500.m3u8</low>
+    <high>https://vid.tasty.co/output/11635/mp4_720x1280/1475862500</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 14511 4120 4985 747 8083 12384 1484 1123 9712 7654 13817 12051 4080 1681 12550 560 8956 </step>
+    <step num="1">10950 5994 14511 10968 6110 11384 8117 2670 12610 13817 12375 10242 10763 7729 721 4255 6697 10860 1391 11951 2634 596 </step>
+    <step num="2">6863 3996 14307 2550 8580 2133 7811 5994 1441 7990 6735 11004 9309 14640 5362 7990 11951 374 1723 </step>
+    <step num="3">5209 5994 12747 827 3409 11951 2133 669 12286 13637 </step>
+    <step num="4">9175 432 3020 7855 11951 3183 5817 210 11951 5687 11770 8283 2082 6054 6781 11951 5687 13817 13746 11951 12229 1391 11951 2048 11897 13817 2204 </step>
+    <step num="5">13688 1391 14621 13817 9712 8587 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 4120 4985 747 8083 12384 1484 1123 9712 7654 13817 12051 </steps_updated>
+    <steps_updated num="1">4080 1681 12550 560 8956 </steps_updated>
+    <steps_updated num="2">10950 5994 14511 10968 6110 11384 8117 2670 12610 13817 12375 </steps_updated>
+    <steps_updated num="3">10242 10763 7729 721 4255 6697 10860 1391 11951 2634 596 </steps_updated>
+    <steps_updated num="4">6863 3996 14307 2550 8580 2133 7811 5994 1441 7990 6735 11004 9309 14640 </steps_updated>
+    <steps_updated num="5">5362 7990 11951 374 1723 </steps_updated>
+    <steps_updated num="6">5209 5994 12747 827 3409 11951 2133 669 12286 13637 </steps_updated>
+    <steps_updated num="7">9175 432 3020 7855 11951 3183 5817 210 11951 5687 11770 8283 2082 </steps_updated>
+    <steps_updated num="8">6054 6781 11951 5687 13817 13746 11951 12229 1391 11951 2048 11897 13817 2204 </steps_updated>
+    <steps_updated num="9">13688 1391 14621 13817 9712 8587 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

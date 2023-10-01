@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Split Ice Cream Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-split-ice-cream-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; waffle cones </ingredient>
+    <ingredient num="1">6 tablespoons ; unsalted butter, melted </ingredient>
+    <ingredient num="2">3 ; bananas, sliced </ingredient>
+    <ingredient num="3">2 pt ; chocolate ice cream, softened ; (950 g) </ingredient>
+    <ingredient num="4">2 pt ; vanilla ice cream, softened ; (950 g) </ingredient>
+    <ingredient num="5">2 pt ; strawberry ice cream, softened ; (950 g) </ingredient>
+    <ingredient num="6">whipped cream, for serving </ingredient>
+    <ingredient num="7">chopped peanut, for serving </ingredient>
+    <ingredient num="8">maraschino cherry, for serving </ingredient>
+    <ingredient num="9">chocolate syrup, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96920/hls24_1527891971.m3u8</low>
+    <high>https://vid.tasty.co/output/96920/landscape_720/1527891971</high>
+  </video>
+  <steps>
+    <step num="0">Break the waffle cones into pieces and add to a food processor. Pulse until medium crumbs form. </step>
+    <step num="1">Pour in the melted butter, and pulse for another 20 seconds until the butter is incorporated. </step>
+    <step num="2">Pour the crust mixture into a 10-inch (25 cm) springform pan and press down with a spatula into an even layer. Freeze for 10 minutes. </step>
+    <step num="3">Arrange the banana slices on top of the crust. </step>
+    <step num="4">Scoop the chocolate ice cream over the bananas and spread in an even layer. Freeze for 20 minutes. Repeat with the strawberry ice cream, then freeze for another 20 minutes. Add the vanilla ice cream, then freeze for 1 hour. </step>
+    <step num="5">Release the springform, and slice the cake. Top each slice with whipped cream, chopped peanuts, a cherry, and chocolate syrup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Break the waffle cones into pieces and add to a food processor. </steps_updated>
+    <steps_updated num="1">Pulse until medium crumbs form. </steps_updated>
+    <steps_updated num="2">Pour in the melted butter, and pulse for another 20 seconds until the butter is incorporated. </steps_updated>
+    <steps_updated num="3">Pour the crust mixture into a 10-inch (25 cm) springform pan and press down with a spatula into an even layer. </steps_updated>
+    <steps_updated num="4">Freeze for 10 minutes. </steps_updated>
+    <steps_updated num="5">Arrange the banana slices on top of the crust. </steps_updated>
+    <steps_updated num="6">Scoop the chocolate ice cream over the bananas and spread in an even layer. </steps_updated>
+    <steps_updated num="7">Freeze for 20 minutes. </steps_updated>
+    <steps_updated num="8">Repeat with the strawberry ice cream, then freeze for another 20 minutes. </steps_updated>
+    <steps_updated num="9">Add the vanilla ice cream, then freeze for 1 hour. </steps_updated>
+    <steps_updated num="10">Release the springform, and slice the cake. </steps_updated>
+    <steps_updated num="11">Top each slice with whipped cream, chopped peanuts, a cherry, and chocolate syrup. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

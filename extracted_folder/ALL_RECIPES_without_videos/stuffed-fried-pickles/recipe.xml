@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Stuffed Fried Pickles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-fried-pickles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; dill pickles </ingredient>
+    <ingredient num="1">6 sticks ; mozzarella cheese </ingredient>
+    <ingredient num="2">6 slices ; ham </ingredient>
+    <ingredient num="3">1 ½ cups ; all-purpose flour ; (185 g) </ingredient>
+    <ingredient num="4">1 ½ cups ; panko breadcrumbs ; (75 g) </ingredient>
+    <ingredient num="5">3 ; large eggs, beaten </ingredient>
+    <ingredient num="6">oil, for frying </ingredient>
+    <ingredient num="7">spicy mayonnaise, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85739/hls24_1521650649.m3u8</low>
+    <high>https://vid.tasty.co/output/85739/landscape_720/1521650649</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, slice the ends off the pickles and place vertically on the board. </step>
+    <step num="1">Using an apple corer, hollow out the pickles and reserve the centers for frying. </step>
+    <step num="2">Place a slice of ham on the cutting board and roll it around a string cheese stick. </step>
+    <step num="3">Stuff the ham-covered cheese stick in a hollow pickle. Repeat with the remaining ham, cheese, and pickles. </step>
+    <step num="4">Cut the stuffed pickles into ¼-inch (6 mm) slices. </step>
+    <step num="5">Place the flour, eggs, and bread crumbs in 3 separate medium bowls. Dip each pickle slice in the flour, eggs, then panko, making sure each slice is fully coated. </step>
+    <step num="6">Dip each cored pickle center into flour, eggs, then panko, making sure each one is fully covered. </step>
+    <step num="7">Heat the oil in a medium pot until it reaches 375˚F (190˚C). Fry the pickle slices and cores for 1-2 minutes, or until golden brown. </step>
+    <step num="8">Serve with spicy mayonnaise for dipping. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, slice the ends off the pickles and place vertically on the board. </steps_updated>
+    <steps_updated num="1">Using an apple corer, hollow out the pickles and reserve the centers for frying. </steps_updated>
+    <steps_updated num="2">Place a slice of ham on the cutting board and roll it around a string cheese stick. </steps_updated>
+    <steps_updated num="3">Stuff the ham-covered cheese stick in a hollow pickle. </steps_updated>
+    <steps_updated num="4">Repeat with the remaining ham, cheese, and pickles. </steps_updated>
+    <steps_updated num="5">Cut the stuffed pickles into ¼-inch (6 mm) slices. </steps_updated>
+    <steps_updated num="6">Place the flour, eggs, and bread crumbs in 3 separate medium bowls. </steps_updated>
+    <steps_updated num="7">Dip each pickle slice in the flour, eggs, then panko, making sure each slice is fully coated. </steps_updated>
+    <steps_updated num="8">Dip each cored pickle center into flour, eggs, then panko, making sure each one is fully covered. </steps_updated>
+    <steps_updated num="9">Heat the oil in a medium pot until it reaches 375˚F (190˚C). </steps_updated>
+    <steps_updated num="10">Fry the pickle slices and cores for 1-2 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="11">Serve with spicy mayonnaise for dipping. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

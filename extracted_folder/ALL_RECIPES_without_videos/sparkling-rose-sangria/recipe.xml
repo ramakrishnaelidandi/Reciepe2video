@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sparkling Rosé Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sparkling-rose-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/rose-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 bottle ; sparkling rosé </ingredient>
+    <ingredient num="1">1 ; lemon, sliced </ingredient>
+    <ingredient num="2">1 ; lime, sliced </ingredient>
+    <ingredient num="3">1 ; grapefruit, sliced </ingredient>
+    <ingredient num="4">1 cup ; brandy ; (240 mL) </ingredient>
+    <ingredient num="5">1 cup ; grapefruit juice ; (240 mL) </ingredient>
+    <ingredient num="6">¾ cup ; simple syrup ; (175 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Date Night</category>
+    <category num="4">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49433/low_1503686463.m3u8</low>
+    <high>https://vid.tasty.co/output/49433/mp4_720x1280/1503686463</high>
+  </video>
+  <duration>
+    <start_time>0.4700000000000002</start_time>
+    <end_time>22.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pitcher or bowl, combine fruit, grapefruit juice, brandy, and simple syrup. </step>
+    <step num="1">Stir well, cover with plastic wrap, and chill for at least 1 hour. </step>
+    <step num="2">Top with sparkling rosé, and serve with a lemon slice. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pitcher or bowl, combine fruit, grapefruit juice, brandy, and simple syrup. </steps_updated>
+    <steps_updated num="1">Stir well, cover with plastic wrap, and chill for at least 1 hour. </steps_updated>
+    <steps_updated num="2">Top with sparkling rosé, and serve with a lemon slice. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00070</start_time>
+    <end_time>00658</end_time>
+  </duration_human>
+</recipe>

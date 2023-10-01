@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lasagna-Stuffed Peppers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lasagna-stuffed-peppers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; bell peppers, various colors </ingredient>
+    <ingredient num="1">1 ; onion, chopped </ingredient>
+    <ingredient num="2">4 cloves ; garlic, chopped </ingredient>
+    <ingredient num="3">½ lb ; ground beef ; (225 g) </ingredient>
+    <ingredient num="4">½ lb ; sweet italian sausage ; (225 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">28 oz ; diced tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="8">28 oz ; tomato sauce, 1 can ; (795 g) </ingredient>
+    <ingredient num="9">15 oz ; whole milk ricotta cheese ; (425 g) </ingredient>
+    <ingredient num="10">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="11">½ cup ; fresh basil, chopped ; (20 g) </ingredient>
+    <ingredient num="12">1 ; egg </ingredient>
+    <ingredient num="13">4 ; lasagna noodles, cooked and quartered </ingredient>
+    <ingredient num="14">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="15">2 tablespoons ; oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18687/low_1482255983.m3u8</low>
+    <high>https://vid.tasty.co/output/18687/mp4_720x1280/1482255983</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Cut the top off of each pepper and remove the seeds. Transfer to a square baking dish. Bake for 20 minutes, to soften. </step>
+    <step num="2">Heat 2 tablespoons of oil in a large pot, or dutch oven, over medium high heat. Add the onion and garlic, cook until softened. </step>
+    <step num="3">Add the ground beef, sausage, salt, and pepper. Cook until the meat has browned on all sides. </step>
+    <step num="4">Add the diced tomatoes and tomato sauce. Bring the mixture to a light simmer. Simmer for 5-10 minutes, remove from heat and set aside. </step>
+    <step num="5">In a small bowl, combine ricotta, parmesan, basil, and egg. Mix together with a fork, set aside. </step>
+    <step num="6">Remove the peppers from the oven, drain any excess water that accumulated inside. </step>
+    <step num="7">Cut the lasagna noodles into quarters and set aside. </step>
+    <step num="8">Assemble the lasagna in each pepper. Alternate 2 tablespoons of sauce, 1 lasagna noodle, 2 tablespoons ricotta mixture, and 1 lasagna noodle until the peppers are full. Top with mozzarella cheese. </step>
+    <step num="9">Bake in preheated oven for 20-25 minutes, until the cheese is melted and slightly browned. </step>
+    <step num="10">Rest for 10 minutes before serving. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Cut the top off of each pepper and remove the seeds. </steps_updated>
+    <steps_updated num="2">Transfer to a square baking dish. </steps_updated>
+    <steps_updated num="3">Bake for 20 minutes, to soften. </steps_updated>
+    <steps_updated num="4">Heat 2 tablespoons of oil in a large pot, or dutch oven, over medium high heat. </steps_updated>
+    <steps_updated num="5">Add the onion and garlic, cook until softened. </steps_updated>
+    <steps_updated num="6">Add the ground beef, sausage, salt, and pepper. </steps_updated>
+    <steps_updated num="7">Cook until the meat has browned on all sides. </steps_updated>
+    <steps_updated num="8">Add the diced tomatoes and tomato sauce. </steps_updated>
+    <steps_updated num="9">Bring the mixture to a light simmer. </steps_updated>
+    <steps_updated num="10">Simmer for 5-10 minutes, remove from heat and set aside. </steps_updated>
+    <steps_updated num="11">In a small bowl, combine ricotta, parmesan, basil, and egg. </steps_updated>
+    <steps_updated num="12">Mix together with a fork, set aside. </steps_updated>
+    <steps_updated num="13">Remove the peppers from the oven, drain any excess water that accumulated inside. </steps_updated>
+    <steps_updated num="14">Cut the lasagna noodles into quarters and set aside. </steps_updated>
+    <steps_updated num="15">Assemble the lasagna in each pepper. </steps_updated>
+    <steps_updated num="16">Alternate 2 tablespoons of sauce, 1 lasagna noodle, 2 tablespoons ricotta mixture, and 1 lasagna noodle until the peppers are full. </steps_updated>
+    <steps_updated num="17">Top with mozzarella cheese. </steps_updated>
+    <steps_updated num="18">Bake in preheated oven for 20-25 minutes, until the cheese is melted and slightly browned. </steps_updated>
+    <steps_updated num="19">Rest for 10 minutes before serving. </steps_updated>
+    <steps_updated num="20">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

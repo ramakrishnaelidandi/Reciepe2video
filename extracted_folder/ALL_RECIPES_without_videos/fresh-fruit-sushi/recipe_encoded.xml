@@ -1,0 +1,70 @@
+<recipe>
+  <title>Fresh Fruit Sushi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-fruit-sushi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 1580 9517 13278 14269 3790 7706 13278 1513 5981 </ingredient>
+    <ingredient num="1">8580 9517 13278 12282 13278 6901 8007 </ingredient>
+    <ingredient num="2">13086 9486 13278 4834 </ingredient>
+    <ingredient num="3">12791 8071 13278 82 </ingredient>
+    <ingredient num="4">3917 2605 13278 6742 5802 13278 12462 8007 </ingredient>
+    <ingredient num="5">3917 1580 2031 13278 1319 </ingredient>
+    <ingredient num="6">10307 </ingredient>
+    <ingredient num="7">6114 </ingredient>
+    <ingredient num="8">14149 </ingredient>
+    <ingredient num="9">2585 </ingredient>
+    <ingredient num="10">8770 </ingredient>
+    <ingredient num="11">356 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32256/low_1495125542.m3u8</low>
+    <high>https://vid.tasty.co/output/32256/mp4_720x1280/1495125542</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 10083 4120 11951 11948 13384 4834 13817 12051 264 4255 9721 7855 7990 6285 5527 8927 5895 1681 8554 11951 7706 4938 11951 2019 </step>
+    <step num="1">9179 11951 6742 5802 13817 12048 12450 2373 5376 11484 915 264 5994 8631 8927 4860 5358 10719 13700 8960 </step>
+    <step num="2">3235 6504 371 6507 669 3104 13637 </step>
+    <step num="3">2350 8431 5994 2868 12862 560 12244 7497 8535 3482 11951 12015 </step>
+    <step num="4">4124 5994 1554 11526 8592 4255 5994 7390 386 13817 3345 5994 10459 371 3802 12 11770 143 2988 11951 7706 6285 1580 2985 10187 1645 7711 11770 11951 12 669 205 5994 11617 2985 6041 1645 9754 </step>
+    <step num="5">2275 5994 12791 2605 3477 371 6742 13334 7990 13086 12689 </step>
+    <step num="6">4124 11951 6504 13009 4255 11951 11948 13817 4536 3386 6756 4429 7706 12401 560 11951 12 13700 8803 14273 9802 3557 5994 8779 8930 </step>
+    <step num="7">309 11951 13471 1391 6811 11951 14149 4743 5895 11951 488 5244 </step>
+    <step num="8">3235 10763 4536 669 11061 13637 </step>
+    <step num="9">10936 11951 12886 371 11951 11948 4536 669 2984 9492 8576 </step>
+    <step num="10">5570 7497 8535 371 9143 5895 13873 11770 10707 1391 2532 5994 8770 4255 10707 560 6915 665 6319 8536 </step>
+    <step num="11">3262 12791 2605 1936 5981 9470 1391 12791 2605 13125 9443 12282 560 772 5994 7361 9286 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 10083 4120 11951 11948 13384 4834 13817 12051 </steps_updated>
+    <steps_updated num="1">264 4255 9721 7855 7990 6285 5527 8927 5895 1681 8554 11951 7706 4938 11951 2019 </steps_updated>
+    <steps_updated num="2">9179 11951 6742 5802 13817 12048 </steps_updated>
+    <steps_updated num="3">12450 2373 5376 11484 915 </steps_updated>
+    <steps_updated num="4">264 5994 8631 8927 4860 5358 10719 13700 8960 </steps_updated>
+    <steps_updated num="5">3235 6504 371 6507 669 3104 13637 </steps_updated>
+    <steps_updated num="6">2350 8431 5994 2868 12862 560 12244 7497 8535 3482 11951 12015 </steps_updated>
+    <steps_updated num="7">4124 5994 1554 11526 8592 4255 5994 7390 386 13817 3345 5994 10459 371 3802 12 11770 143 </steps_updated>
+    <steps_updated num="8">2988 11951 7706 6285 1580 2985 10187 1645 7711 11770 11951 12 669 205 5994 11617 2985 6041 1645 9754 </steps_updated>
+    <steps_updated num="9">2275 5994 12791 2605 3477 371 6742 13334 7990 13086 12689 </steps_updated>
+    <steps_updated num="10">4124 11951 6504 13009 4255 11951 11948 13817 4536 3386 6756 </steps_updated>
+    <steps_updated num="11">4429 7706 12401 560 11951 12 13700 8803 14273 9802 3557 5994 8779 8930 </steps_updated>
+    <steps_updated num="12">309 11951 13471 1391 6811 11951 14149 4743 5895 11951 488 5244 </steps_updated>
+    <steps_updated num="13">3235 10763 4536 669 11061 13637 </steps_updated>
+    <steps_updated num="14">10936 11951 12886 371 11951 11948 4536 669 2984 9492 8576 </steps_updated>
+    <steps_updated num="15">5570 7497 8535 371 9143 5895 13873 11770 10707 1391 2532 5994 8770 4255 10707 560 6915 665 6319 8536 </steps_updated>
+    <steps_updated num="16">3262 12791 2605 1936 5981 9470 1391 12791 2605 13125 9443 12282 560 772 5994 7361 9286 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

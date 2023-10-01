@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Potato Latkes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/potato-latkes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ ; medium yellow onion, peeled and cut into large pieces </ingredient>
+    <ingredient num="1">3 ; medium russet potatoes, peeled and cut into large pieces </ingredient>
+    <ingredient num="2">¼ cup ; all purpose flour ; (30 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="4">2 ; large eggs </ingredient>
+    <ingredient num="5">vegetable oil, for frying </ingredient>
+    <ingredient num="6">cinnamon applesauce, for serving </ingredient>
+    <ingredient num="7">sour cream, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+    <category num="3">Weeknight</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/127635/hls24_1553018381.m3u8</low>
+    <high>https://vid.tasty.co/output/127635/landscape_720/1553018381</high>
+  </video>
+  <steps>
+    <step num="0">Using a food processor fitted with a grater blade or the large holes of a box grater, grate the onion. Transfer to a bowl and set aside. </step>
+    <step num="1">Grate the potatoes in the food processor or on a box grater. </step>
+    <step num="2">Line a large bowl with paper towels or a clean kitchen towel. Squeeze the excess liquid from the potatoes into the bowl. Drain the liquid, then add the potatoes to the bowl, along with the grated onion, and toss to combine. </step>
+    <step num="3">Add the flour, salt, and eggs and stir to combine. </step>
+    <step num="4">Heat 2 inches (5 cm) of vegetable oil in a heavy-bottomed pot over medium-high heat until it reaches 350˚F (180˚C). </step>
+    <step num="5">Dollop about ¼ cup (30 G) of the latke mixture at a time into the hot oil and spread to make pancakes, about 3 inches in diameter. Do not overcrowd the pan. Reduce the heat to medium and fry until the latkes are browned on the bottom and the edges are crispy, 3-5 minutes. Flip and cook on the other side for about 5 minutes more, until browned and crispy. Transfer the latkes to a paper towel-lined plate to drain and repeat with the remaining batter. </step>
+    <step num="6">Serve the latkes with cinnamon applesauce and sour cream. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a food processor fitted with a grater blade or the large holes of a box grater, grate the onion. </steps_updated>
+    <steps_updated num="1">Transfer to a bowl and set aside. </steps_updated>
+    <steps_updated num="2">Grate the potatoes in the food processor or on a box grater. </steps_updated>
+    <steps_updated num="3">Line a large bowl with paper towels or a clean kitchen towel. </steps_updated>
+    <steps_updated num="4">Squeeze the excess liquid from the potatoes into the bowl. </steps_updated>
+    <steps_updated num="5">Drain the liquid, then add the potatoes to the bowl, along with the grated onion, and toss to combine. </steps_updated>
+    <steps_updated num="6">Add the flour, salt, and eggs and stir to combine. </steps_updated>
+    <steps_updated num="7">Heat 2 inches (5 cm) of vegetable oil in a heavy-bottomed pot over medium-high heat until it reaches 350˚F (180˚C). </steps_updated>
+    <steps_updated num="8">Dollop about ¼ cup (30 G) of the latke mixture at a time into the hot oil and spread to make pancakes, about 3 inches in diameter. </steps_updated>
+    <steps_updated num="9">Do not overcrowd the pan. </steps_updated>
+    <steps_updated num="10">Reduce the heat to medium and fry until the latkes are browned on the bottom and the edges are crispy, 3-5 minutes. </steps_updated>
+    <steps_updated num="11">Flip and cook on the other side for about 5 minutes more, until browned and crispy. </steps_updated>
+    <steps_updated num="12">Transfer the latkes to a paper towel-lined plate to drain and repeat with the remaining batter. </steps_updated>
+    <steps_updated num="13">Serve the latkes with cinnamon applesauce and sour cream. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

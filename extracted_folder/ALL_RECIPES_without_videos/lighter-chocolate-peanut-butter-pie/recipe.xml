@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lighter Chocolate Peanut Butter Pie</title>
+  <url>https://tasty.co/recipe/lighter-chocolate-peanut-butter-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; nuts, of choice ; (280 g) </ingredient>
+    <ingredient num="1">1 cup ; oat flour ; (90 g) </ingredient>
+    <ingredient num="2">½ cup ; dark cocoa powder ; (60 g) </ingredient>
+    <ingredient num="3">⅓ cup ; honey, or preferred natural sweetener ; (113 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; milk, of choice, as needed </ingredient>
+    <ingredient num="5">¼ teaspoon ; salt </ingredient>
+    <ingredient num="6">2 cups ; greek yogurt ; (570 g) </ingredient>
+    <ingredient num="7">1 ½ cups ; peanut butter ; (360 g) </ingredient>
+    <ingredient num="8">¼ cup ; honey, or preferred natural sweetener ; (85 g) </ingredient>
+    <ingredient num="9">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="10">1 pinch ; salt </ingredient>
+    <ingredient num="11">1 ; dark chocolate chip, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67231/hls24_1513023281.m3u8</low>
+    <high>https://vid.tasty.co/output/67231/landscape_720/1513023281</high>
+  </video>
+  <steps>
+    <step num="0">Place nuts in the bowl of a food processor and pulse until chunky. </step>
+    <step num="1">Add in the oat flour, dark cocoa powder, honey, milk, and salt. Pulse until just thoroughly mixed. </step>
+    <step num="2">Add mixture to a greased pie tin and press down firmly to form the crust. </step>
+    <step num="3">Chill for 1 hour. </step>
+    <step num="4">In a large bowl, combine Greek yogurt, peanut butter, honey, vanilla, and salt until consistency is smooth. </step>
+    <step num="5">Add filling to pie crust and smooth into an even layer. </step>
+    <step num="6">Top with dark chocolate chips. </step>
+    <step num="7">Chill for at least 1 hour. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place nuts in the bowl of a food processor and pulse until chunky. </steps_updated>
+    <steps_updated num="1">Add in the oat flour, dark cocoa powder, honey, milk, and salt. </steps_updated>
+    <steps_updated num="2">Pulse until just thoroughly mixed. </steps_updated>
+    <steps_updated num="3">Add mixture to a greased pie tin and press down firmly to form the crust. </steps_updated>
+    <steps_updated num="4">Chill for 1 hour. </steps_updated>
+    <steps_updated num="5">In a large bowl, combine Greek yogurt, peanut butter, honey, vanilla, and salt until consistency is smooth. </steps_updated>
+    <steps_updated num="6">Add filling to pie crust and smooth into an even layer. </steps_updated>
+    <steps_updated num="7">Top with dark chocolate chips. </steps_updated>
+    <steps_updated num="8">Chill for at least 1 hour. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

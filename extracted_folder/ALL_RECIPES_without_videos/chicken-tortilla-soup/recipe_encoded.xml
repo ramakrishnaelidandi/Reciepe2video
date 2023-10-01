@@ -1,0 +1,64 @@
+<recipe>
+  <title>Chicken Tortilla Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-tortilla-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/1-rotisserie-chicken-4-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8224 7632 371 1292 </ingredient>
+    <ingredient num="1">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="2">8580 9486 13278 4617 12384 341 </ingredient>
+    <ingredient num="3">12791 2605 13278 9491 341 13278 2264 5981 </ingredient>
+    <ingredient num="4">3917 14014 13278 4985 14429 341 </ingredient>
+    <ingredient num="5">12791 2605 13278 13584 6143 13278 336 5981 </ingredient>
+    <ingredient num="6">12791 2605 13278 11579 3183 13278 1420 5981 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">11216 8071 13278 796 5616 </ingredient>
+    <ingredient num="10">11216 8071 13278 3170 </ingredient>
+    <ingredient num="11">11216 8071 13278 13389 11703 </ingredient>
+    <ingredient num="12">3917 1580 9517 13278 7983 42 5895 629 547 13278 12067 8007 </ingredient>
+    <ingredient num="13">3917 2605 13278 482 12816 3333 13278 9373 5981 </ingredient>
+    <ingredient num="14">11237 1174 7990 4711 </ingredient>
+    <ingredient num="15">6209 6712 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59232/low_1509474932.m3u8</low>
+    <high>https://vid.tasty.co/output/59232/mp4_720x1280/1509474932</high>
+  </video>
+  <duration>
+    <start_time>118.74</start_time>
+    <end_time>155.01</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 2260 10083 11770 5994 13757 14307 740 7632 11384 13817 12034 264 1681 6334 13860 560 13593 6470 </step>
+    <step num="1">9179 7042 4985 7468 13584 13829 12655 12610 10986 11227 2670 13817 13389 785 264 1681 8554 11907 12573 494 8180 13328 13377 </step>
+    <step num="2">9179 42 6142 13817 14238 560 5994 5181 </step>
+    <step num="3">9179 7983 13817 2234 560 7855 8119 </step>
+    <step num="4">12774 1391 5994 1678 371 11237 9259 13817 1117 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 2260 10083 11770 5994 13757 14307 740 7632 11384 13817 12034 </steps_updated>
+    <steps_updated num="1">264 1681 6334 13860 560 13593 6470 </steps_updated>
+    <steps_updated num="2">9179 7042 4985 7468 13584 13829 12655 12610 10986 11227 2670 13817 13389 785 </steps_updated>
+    <steps_updated num="3">264 1681 8554 11907 12573 494 8180 13328 13377 </steps_updated>
+    <steps_updated num="4">9179 42 6142 13817 14238 560 5994 5181 </steps_updated>
+    <steps_updated num="5">9179 7983 13817 2234 560 7855 8119 </steps_updated>
+    <steps_updated num="6">12774 1391 5994 1678 371 11237 9259 13817 1117 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03617</start_time>
+    <end_time>04677</end_time>
+  </duration_human>
+</recipe>

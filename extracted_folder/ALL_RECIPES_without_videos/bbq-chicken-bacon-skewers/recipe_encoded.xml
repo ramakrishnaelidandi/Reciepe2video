@@ -1,0 +1,54 @@
+<recipe>
+  <title>BBQ Chicken Bacon Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-bacon-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/skewers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 8355 2144 7983 13917 7777 669 1318 4530 13278 4563 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 4716 2260 13278 7212 5981 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 7845 </ingredient>
+    <ingredient num="4">4061 9259 13278 8932 </ingredient>
+    <ingredient num="5">4061 6237 13278 1554 7904 8084 210 12282 7990 5527 8927 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39367/low_1498728261.m3u8</low>
+    <high>https://vid.tasty.co/output/39367/mp4_720x1280/1498728261</high>
+  </video>
+  <duration>
+    <start_time>74.37</start_time>
+    <end_time>100.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 9937 560 13757 2082 </step>
+    <step num="1">10895 11951 12816 179 7280 12610 13817 10986 13328 1681 3584 10453 </step>
+    <step num="2">9506 797 12459 371 11951 8932 1802 11951 12459 371 5994 2906 9179 5994 9152 371 12816 13817 2957 11951 8932 5412 11951 7983 13817 13352 7492 11951 7904 8362 5994 7233 4858 8830 11951 9104 2540 11951 8932 13817 11951 7983 573 11951 7904 3656 1681 11951 11649 12872 371 11951 8932 9490 792 8119 </step>
+    <step num="3">5362 4255 11951 12886 371 11951 6237 1391 11951 374 7983 13817 6106 </step>
+    <step num="4">5954 11951 12605 371 11951 9937 5569 1506 11951 14127 1391 4875 13817 2237 7753 12 671 </step>
+    <step num="5">2927 11951 6237 7990 6285 11551 8927 1391 11951 5378 14353 9309 3755 14640 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 9937 560 13757 2082 </steps_updated>
+    <steps_updated num="1">10895 11951 12816 179 7280 12610 13817 10986 13328 1681 3584 10453 </steps_updated>
+    <steps_updated num="2">9506 797 12459 371 11951 8932 1802 11951 12459 371 5994 2906 </steps_updated>
+    <steps_updated num="3">9179 5994 9152 371 12816 13817 2957 11951 8932 5412 11951 7983 13817 13352 7492 11951 7904 8362 5994 7233 4858 8830 11951 9104 </steps_updated>
+    <steps_updated num="4">2540 11951 8932 13817 11951 7983 573 11951 7904 3656 1681 11951 11649 12872 371 11951 8932 9490 792 8119 </steps_updated>
+    <steps_updated num="5">5362 4255 11951 12886 371 11951 6237 1391 11951 374 7983 13817 6106 </steps_updated>
+    <steps_updated num="6">5954 11951 12605 371 11951 9937 5569 1506 11951 14127 1391 4875 13817 2237 7753 12 671 </steps_updated>
+    <steps_updated num="7">2927 11951 6237 7990 6285 11551 8927 1391 11951 5378 14353 9309 3755 14640 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02293</start_time>
+    <end_time>03006</end_time>
+  </duration_human>
+</recipe>

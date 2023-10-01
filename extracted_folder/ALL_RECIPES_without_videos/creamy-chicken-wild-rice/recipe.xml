@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Chicken Wild Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-chicken-wild-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-creative-one-pot-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">6 ; boneless, skinless chicken thighs </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 tablespoon ; dried thyme </ingredient>
+    <ingredient num="5">1 tablespoon ; dried parsley </ingredient>
+    <ingredient num="6">2 tablespoons ; butter </ingredient>
+    <ingredient num="7">4 ; carrots, small diced </ingredient>
+    <ingredient num="8">1 ; yellow onion, small diced </ingredient>
+    <ingredient num="9">4 stalks ; celery, small diced </ingredient>
+    <ingredient num="10">½ lb ; cremini mushroom, sliced ; (225 g) </ingredient>
+    <ingredient num="11">5 cloves ; garlic, minced </ingredient>
+    <ingredient num="12">2 cups ; wild rice ; (400 g) </ingredient>
+    <ingredient num="13">8 cups ; chicken broth ; (2 L) </ingredient>
+    <ingredient num="14">2 cups ; grated parmesan cheese, plus more for garnish ; (220 g) </ingredient>
+    <ingredient num="15">1 cup ; heavy cream ; (240 mL) </ingredient>
+    <ingredient num="16">1 tablespoon ; fresh thyme </ingredient>
+    <ingredient num="17">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="18">fresh parsley, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92227/hls24_1525286591.m3u8</low>
+    <high>https://vid.tasty.co/output/92227/landscape_720/1525286591</high>
+  </video>
+  <duration>
+    <start_time>72.0</start_time>
+    <end_time>159.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, combine the chicken thighs with the salt, pepper, garlic powder, dried thyme, dried parsley, and olive oil. Toss until well coated. </step>
+    <step num="1">In a Dutch oven over medium-high heat, add the chicken and cook until it’s golden brown on one side, then flip, and cook the other side, about10 minutes total. Remove the chicken and set aside. </step>
+    <step num="2">To the pan, add the butter, carrots, onions, celery, mushrooms, and garlic. Season with salt and pepper, stir, and cook until the veggies are soft. Scoop out and set aside. </step>
+    <step num="3">Add the wild rice and the chicken broth to the pot. Bring to a boil, reduce to a simmer, and cook the rice for 45 minutes, or until tender. </step>
+    <step num="4">Once the rice is cooked, stir in the Parmesan, vegetables, heavy cream, and fresh thyme. Bring to a boil. Stir in the sour cream. </step>
+    <step num="5">Add the chicken back to the pan. </step>
+    <step num="6">Serve the chicken over the rice and garnish with grated Parmesan and fresh parsley. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the chicken thighs with the salt, pepper, garlic powder, dried thyme, dried parsley, and olive oil. </steps_updated>
+    <steps_updated num="1">Toss until well coated. </steps_updated>
+    <steps_updated num="2">In a Dutch oven over medium-high heat, add the chicken and cook until it’s golden brown on one side, then flip, and cook the other side, about10 minutes total. </steps_updated>
+    <steps_updated num="3">Remove the chicken and set aside. </steps_updated>
+    <steps_updated num="4">To the pan, add the butter, carrots, onions, celery, mushrooms, and garlic. </steps_updated>
+    <steps_updated num="5">Season with salt and pepper, stir, and cook until the veggies are soft. </steps_updated>
+    <steps_updated num="6">Scoop out and set aside. </steps_updated>
+    <steps_updated num="7">Add the wild rice and the chicken broth to the pot. </steps_updated>
+    <steps_updated num="8">Bring to a boil, reduce to a simmer, and cook the rice for 45 minutes, or until tender. </steps_updated>
+    <steps_updated num="9">Once the rice is cooked, stir in the Parmesan, vegetables, heavy cream, and fresh thyme. </steps_updated>
+    <steps_updated num="10">Bring to a boil. </steps_updated>
+    <steps_updated num="11">Stir in the sour cream. </steps_updated>
+    <steps_updated num="12">Add the chicken back to the pan. </steps_updated>
+    <steps_updated num="13">Serve the chicken over the rice and garnish with grated Parmesan and fresh parsley. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caramel Snickers Cookie Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caramel-snickers-cookie-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">chocolate chip cookie dough </ingredient>
+    <ingredient num="1">fun sized snickers, to taste </ingredient>
+    <ingredient num="2">caramel syrup, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31900/low_1495124868.m3u8</low>
+    <high>https://vid.tasty.co/output/31900/mp4_720x1280/1495124868</high>
+  </video>
+  <steps>
+    <step num="0">Get a muffin tin and coat with vegetable oil spray. </step>
+    <step num="1">Place a cookie’s worth of dough into each section of a muffin tin. Press the dough down to make a cup shape. </step>
+    <step num="2">Bake for 10-12 minutes. </step>
+    <step num="3">As soon as the cookies are removed from the oven, place one snickers bar in each cookie cup. </step>
+    <step num="4">Let cool and cover with caramel just before serving. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Get a muffin tin and coat with vegetable oil spray. </steps_updated>
+    <steps_updated num="1">Place a cookie’s worth of dough into each section of a muffin tin. </steps_updated>
+    <steps_updated num="2">Press the dough down to make a cup shape. </steps_updated>
+    <steps_updated num="3">Bake for 10-12 minutes. </steps_updated>
+    <steps_updated num="4">As soon as the cookies are removed from the oven, place one snickers bar in each cookie cup. </steps_updated>
+    <steps_updated num="5">Let cool and cover with caramel just before serving. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

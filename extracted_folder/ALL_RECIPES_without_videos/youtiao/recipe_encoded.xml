@@ -1,0 +1,80 @@
+<recipe>
+  <title>Youtiao Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/youtiao</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/street-treats-from-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 13521 890 13278 10339 5981 </ingredient>
+    <ingredient num="1">3917 1580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="2">1580 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 14014 13278 3305 5802 </ingredient>
+    <ingredient num="4">8580 9486 13278 7974 10907 564 </ingredient>
+    <ingredient num="5">3917 13278 2597 6216 </ingredient>
+    <ingredient num="6">1813 2605 13278 12282 13278 12158 8007 </ingredient>
+    <ingredient num="7">7632 7990 5291 </ingredient>
+    <ingredient num="8">11691 9889 343 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96870/hls24_1527884128.m3u8</low>
+    <high>https://vid.tasty.co/output/96870/landscape_720/1527884128</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 10968 3626 11951 6467 10765 8117 12610 9889 564 10907 13817 13784 </step>
+    <step num="1">269 740 11951 13384 13328 8830 10763 4440 </step>
+    <step num="2">6611 11951 8337 7990 5966 12689 12450 8337 5376 5410 12726 91 9801 11155 13700 7292 </step>
+    <step num="3">5954 11951 12377 1391 7632 13546 11951 8337 560 11951 14511 13817 6506 1391 8438 3711 6117 7990 238 8927 210 5994 10383 12575 </step>
+    <step num="4">5570 11951 8337 210 11951 937 371 5994 2597 9152 371 9419 5791 3557 11577 8033 11951 8337 9490 2043 9214 </step>
+    <step num="5">2356 7990 7811 767 6735 14329 </step>
+    <step num="6">6054 11951 8337 6781 11951 7524 1828 3557 12886 4255 11951 4565 7990 6620 13199 5895 1681 3557 4150 560 10302 2281 13817 9490 12386 560 11951 1744 </step>
+    <step num="7">1349 5994 7742 5895 2597 10060 1391 9815 5766 560 4603 8580 4735 6781 11951 10707 371 11951 10590 8889 11951 5766 11770 13757 7855 1681 3557 13751 9477 11454 </step>
+    <step num="8">6985 890 11951 8337 13817 11951 6540 415 13260 1487 1271 13817 4536 11951 8337 560 1978 5994 3104 7868 10881 1003 6285 7579 1841 1645 7711 13817 3942 12237 1645 13431 </step>
+    <step num="9">14100 11951 8337 1419 669 1318 9740 5421 13773 </step>
+    <step num="10">9338 3755 8580 5569 9857 </step>
+    <step num="11">5209 5994 3680 5895 7904 14484 11951 937 371 11951 8337 14398 573 7959 </step>
+    <step num="12">11982 6892 415 6657 10763 8337 14398 669 11951 14158 4429 11951 5766 2281 9490 5027 11951 8337 5376 11402 560 11951 12605 14462 6283 8431 3923 5895 4875 560 11974 4536 11951 8337 210 5994 1429 3314 7990 6285 3917 6513 </step>
+    <step num="13">8916 1681 11951 8337 9490 6949 10963 1240 6285 1106 12689 </step>
+    <step num="14">13434 4255 5994 12195 5290 </step>
+    <step num="15">12774 1391 10882 11691 5802 7990 5534 5358 13 </step>
+    <step num="16">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 10968 3626 11951 6467 10765 8117 12610 9889 564 10907 13817 13784 </steps_updated>
+    <steps_updated num="1">269 740 11951 13384 13328 8830 10763 4440 </steps_updated>
+    <steps_updated num="2">6611 11951 8337 7990 5966 12689 </steps_updated>
+    <steps_updated num="3">12450 8337 5376 5410 12726 91 9801 11155 13700 7292 </steps_updated>
+    <steps_updated num="4">5954 11951 12377 1391 7632 13546 11951 8337 560 11951 14511 13817 6506 1391 8438 3711 </steps_updated>
+    <steps_updated num="5">6117 7990 238 8927 210 5994 10383 12575 </steps_updated>
+    <steps_updated num="6">5570 11951 8337 210 11951 937 371 5994 2597 9152 371 9419 </steps_updated>
+    <steps_updated num="7">5791 3557 11577 8033 11951 8337 9490 2043 9214 </steps_updated>
+    <steps_updated num="8">2356 7990 7811 767 6735 14329 </steps_updated>
+    <steps_updated num="9">6054 11951 8337 6781 11951 7524 </steps_updated>
+    <steps_updated num="10">1828 3557 12886 4255 11951 4565 7990 6620 13199 5895 1681 3557 4150 560 10302 2281 13817 9490 12386 560 11951 1744 </steps_updated>
+    <steps_updated num="11">1349 5994 7742 5895 2597 10060 1391 9815 5766 560 4603 8580 4735 6781 11951 10707 371 11951 10590 </steps_updated>
+    <steps_updated num="12">8889 11951 5766 11770 13757 7855 1681 3557 13751 9477 11454 </steps_updated>
+    <steps_updated num="13">6985 890 11951 8337 13817 11951 6540 415 13260 1487 1271 13817 4536 11951 8337 560 1978 5994 3104 7868 10881 1003 6285 7579 1841 1645 7711 13817 3942 12237 1645 13431 </steps_updated>
+    <steps_updated num="14">14100 11951 8337 1419 669 1318 9740 5421 13773 </steps_updated>
+    <steps_updated num="15">9338 3755 8580 5569 9857 </steps_updated>
+    <steps_updated num="16">5209 5994 3680 5895 7904 14484 11951 937 371 11951 8337 14398 573 7959 </steps_updated>
+    <steps_updated num="17">11982 6892 415 6657 10763 8337 14398 669 11951 14158 </steps_updated>
+    <steps_updated num="18">4429 11951 5766 2281 9490 5027 11951 8337 5376 11402 560 11951 12605 14462 6283 </steps_updated>
+    <steps_updated num="19">8431 3923 5895 4875 560 11974 4536 11951 8337 210 5994 1429 3314 7990 6285 3917 6513 </steps_updated>
+    <steps_updated num="20">8916 1681 11951 8337 9490 6949 10963 1240 6285 1106 12689 </steps_updated>
+    <steps_updated num="21">13434 4255 5994 12195 5290 </steps_updated>
+    <steps_updated num="22">12774 1391 10882 11691 5802 7990 5534 5358 13 </steps_updated>
+    <steps_updated num="23">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05360</start_time>
+    <end_time>08302</end_time>
+  </duration_human>
+</recipe>

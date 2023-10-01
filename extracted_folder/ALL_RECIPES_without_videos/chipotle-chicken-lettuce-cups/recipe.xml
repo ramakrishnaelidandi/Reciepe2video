@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chipotle Chicken Lettuce Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chipotle-chicken-lettuce-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/chicken-lettuce-cups-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">2 teaspoons ; salt, plus more to taste </ingredient>
+    <ingredient num="2">2 teaspoons ; black peppercorn </ingredient>
+    <ingredient num="3">½ ; medium white onion, halved </ingredient>
+    <ingredient num="4">4 cloves ; garlic, whole </ingredient>
+    <ingredient num="5">2 ; bay leaves </ingredient>
+    <ingredient num="6">6 cups ; water ; (1.4 L) </ingredient>
+    <ingredient num="7">1 tablespoon ; oil </ingredient>
+    <ingredient num="8">1 cup ; yellow corn ; (175 g) </ingredient>
+    <ingredient num="9">½ ; red bell pepper, diced </ingredient>
+    <ingredient num="10">2 ; chipotle peppers, minced </ingredient>
+    <ingredient num="11">3 tablespoons ; lime juice </ingredient>
+    <ingredient num="12">4 large leaves ; romaine lettuce, for serving </ingredient>
+    <ingredient num="13">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Lunch</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/86949/hls24_1522256474.m3u8</low>
+    <high>https://vid.tasty.co/output/86949/landscape_720/1522256474</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the chicken breasts, 2 teaspoons of salt, peppercorns, onion, whole garlic cloves, bay leaves, and water in a large pot. </step>
+    <step num="1">Cover the pot and bring to a simmer over medium heat. </step>
+    <step num="2">Once the water is simmering, cook for 10 minutes, until the chicken registers 165°F (74°C) when pierced with an instant-read thermometer. </step>
+    <step num="3">Transfer the chicken to a cutting board and discard the cooking liquid. Using 2 forks, pull the chicken apart until shredded. </step>
+    <step num="4">In a large nonstick pan, heat the oil over medium-high heat until shimmering. </step>
+    <step num="5">Add the corn, bell pepper, and a pinch of salt and sauté until the vegetables have softened, about 2 minutes. </step>
+    <step num="6">Add the chipotle peppers and sauté until fragrant, about 30 seconds. </step>
+    <step num="7">Add the shredded chicken and mix until everything is well incorporated. </step>
+    <step num="8">Add the lime juice and mix to incorporate. </step>
+    <step num="9">Remove the pan from the heat and let the chicken cool for 5 minutes before spooning into the lettuce leaves. </step>
+    <step num="10">Top with a sprinkle of chopped cilantro. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the chicken breasts, 2 teaspoons of salt, peppercorns, onion, whole garlic cloves, bay leaves, and water in a large pot. </steps_updated>
+    <steps_updated num="1">Cover the pot and bring to a simmer over medium heat. </steps_updated>
+    <steps_updated num="2">Once the water is simmering, cook for 10 minutes, until the chicken registers 165°F (74°C) when pierced with an instant-read thermometer. </steps_updated>
+    <steps_updated num="3">Transfer the chicken to a cutting board and discard the cooking liquid. </steps_updated>
+    <steps_updated num="4">Using 2 forks, pull the chicken apart until shredded. </steps_updated>
+    <steps_updated num="5">In a large nonstick pan, heat the oil over medium-high heat until shimmering. </steps_updated>
+    <steps_updated num="6">Add the corn, bell pepper, and a pinch of salt and sauté until the vegetables have softened, about 2 minutes. </steps_updated>
+    <steps_updated num="7">Add the chipotle peppers and sauté until fragrant, about 30 seconds. </steps_updated>
+    <steps_updated num="8">Add the shredded chicken and mix until everything is well incorporated. </steps_updated>
+    <steps_updated num="9">Add the lime juice and mix to incorporate. </steps_updated>
+    <steps_updated num="10">Remove the pan from the heat and let the chicken cool for 5 minutes before spooning into the lettuce leaves. </steps_updated>
+    <steps_updated num="11">Top with a sprinkle of chopped cilantro. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00054</start_time>
+    <end_time>03154</end_time>
+  </duration_human>
+</recipe>

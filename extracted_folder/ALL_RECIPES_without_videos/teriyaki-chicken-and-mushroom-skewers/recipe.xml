@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Teriyaki Chicken And Mushroom Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/teriyaki-chicken-and-mushroom-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-bbq-skewers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; boneless, skinless chicken thighs, cut into 1-inch (2 1/2cm) pieces ; (400 g) </ingredient>
+    <ingredient num="1">⅓ cup ; soy sauce ; (100 mL) </ingredient>
+    <ingredient num="2">⅓ cup ; honey ; (100 mL) </ingredient>
+    <ingredient num="3">2 tablespoons ; sesame seed </ingredient>
+    <ingredient num="4">1 cup ; spring onion, chopped ; (100 g) </ingredient>
+    <ingredient num="5">mushroom, halved, as needed </ingredient>
+    <ingredient num="6">6 skewers ; bamboo skewer, soaked in water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Japanese</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">BBQ</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33287/low_1496421807.m3u8</low>
+    <high>https://vid.tasty.co/output/33287/mp4_720x1280/1496421807</high>
+  </video>
+  <duration>
+    <start_time>60.0</start_time>
+    <end_time>80.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, place the chicken soy sauce, honey, sesame seeds, and spring onion. Stir well, refrigerate and marinade for at least 2 hours. </step>
+    <step num="1">On soaked bamboo sticks, skewer on the chicken and mushrooms. Repeat until the skewer is full. </step>
+    <step num="2">On a coal BBQ, cook the chicken skewers for 3-4 minutes a side until the chicken is cooked through and the skewers are golden brown. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, place the chicken soy sauce, honey, sesame seeds, and spring onion. </steps_updated>
+    <steps_updated num="1">Stir well, refrigerate and marinade for at least 2 hours. </steps_updated>
+    <steps_updated num="2">On soaked bamboo sticks, skewer on the chicken and mushrooms. </steps_updated>
+    <steps_updated num="3">Repeat until the skewer is full. </steps_updated>
+    <steps_updated num="4">On a coal BBQ, cook the chicken skewers for 3-4 minutes a side until the chicken is cooked through and the skewers are golden brown. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01844</start_time>
+    <end_time>02426</end_time>
+  </duration_human>
+</recipe>

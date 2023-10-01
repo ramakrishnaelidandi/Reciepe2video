@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Tuscan White Bean Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-tuscan-white-bean-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cloves ; garlic, sliced </ingredient>
+    <ingredient num="1">1 ; medium onion, diced </ingredient>
+    <ingredient num="2">3 ; carrots, sliced </ingredient>
+    <ingredient num="3">4 stalks ; celery, sliced </ingredient>
+    <ingredient num="4">4 cups ; kale, chopped ; (270 g) </ingredient>
+    <ingredient num="5">14 oz ; diced tomato, 1 can ; (400 g) </ingredient>
+    <ingredient num="6">15 oz ; cannellini bean, 2 cans ; (425 g) </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="10">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="11">6 cups ; vegetable stock ; (1 ½ L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10848/low_1474994587.m3u8</low>
+    <high>https://vid.tasty.co/output/10848/mp4_720x1280/1474994587</high>
+  </video>
+  <steps>
+    <step num="0">Add the ingredients to a slow cooker. </step>
+    <step num="1">Set it to low for 8 hours or high for 4 hours. </step>
+    <step num="2">Serve while hot. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the ingredients to a slow cooker. </steps_updated>
+    <steps_updated num="1">Set it to low for 8 hours or high for 4 hours. </steps_updated>
+    <steps_updated num="2">Serve while hot. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

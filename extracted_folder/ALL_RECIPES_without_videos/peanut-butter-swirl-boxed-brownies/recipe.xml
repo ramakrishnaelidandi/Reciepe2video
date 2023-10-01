@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peanut Butter Swirl Boxed Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-swirl-boxed-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-ways-to-make-better-boxed-brownies</comp_url>
+  <ingredients>
+    <ingredient num="0">1 box ; brownie, prepared </ingredient>
+    <ingredient num="1">½ cup ; peanut butter ; (120 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39561/low_1498760855.m3u8</low>
+    <high>https://vid.tasty.co/output/39561/mp4_720x1280/1498760855</high>
+  </video>
+  <duration>
+    <start_time>48.559</start_time>
+    <end_time>63.52</end_time>
+  </duration>
+  <steps>
+    <step num="0">Swirl peanut butter into brownie batter and bake according to package. </step>
+    <step num="1">Slice and serve. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Swirl peanut butter into brownie batter and bake according to package. </steps_updated>
+    <steps_updated num="1">Slice and serve. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01514</start_time>
+    <end_time>01913</end_time>
+  </duration_human>
+</recipe>

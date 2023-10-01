@@ -1,0 +1,66 @@
+<recipe>
+  <title>Easy Jambalaya Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-jambalaya</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">8580 13278 7983 3967 341 </ingredient>
+    <ingredient num="2">3917 715 13278 6060 4437 976 13278 4563 5981 </ingredient>
+    <ingredient num="3">4061 13667 13278 11384 </ingredient>
+    <ingredient num="4">3917 13278 14038 10986 341 </ingredient>
+    <ingredient num="5">3917 13278 4617 12384 341 </ingredient>
+    <ingredient num="6">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="7">3917 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="8">3917 13278 4985 1466 10986 341 </ingredient>
+    <ingredient num="9">8580 11245 13278 4587 341 </ingredient>
+    <ingredient num="10">13086 9517 13278 7983 220 13278 4492 8007 </ingredient>
+    <ingredient num="11">8883 643 13278 9491 5614 13278 1258 5981 </ingredient>
+    <ingredient num="12">3917 1580 9517 13278 7706 13278 1513 5981 </ingredient>
+    <ingredient num="13">8580 9486 13278 10219 2634 </ingredient>
+    <ingredient num="14">3917 13278 13063 14252 </ingredient>
+    <ingredient num="15">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="16">1580 8071 13278 499 7845 </ingredient>
+    <ingredient num="17">3917 715 13278 11084 13278 4563 5981 </ingredient>
+    <ingredient num="18">12610 560 11567 </ingredient>
+    <ingredient num="19">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31902/low_1495124890.m3u8</low>
+    <high>https://vid.tasty.co/output/31902/mp4_720x1280/1495124890</high>
+  </video>
+  <steps>
+    <step num="0">8889 8244 5766 210 5994 2597 10083 11770 13757 8283 2082 9179 341 7983 7678 13817 1713 3719 9179 82 13817 7845 560 13772 13817 2550 13948 </step>
+    <step num="1">9179 5614 11384 13817 5994 341 14038 12375 </step>
+    <step num="2">10917 3872 11951 14038 1245 210 7990 3141 7717 </step>
+    <step num="3">12473 210 341 12384 5016 10848 1681 1179 2021 </step>
+    <step num="4">9179 7983 11899 7042 11948 10219 3123 13063 6638 796 5040 499 7845 13817 12224 </step>
+    <step num="5">4660 13817 11779 3155 7990 238 12689 </step>
+    <step num="6">10917 12473 6107 560 772 11901 11951 7706 8189 6870 7811 11951 551 371 11951 10590 </step>
+    <step num="7">9956 11951 7706 9490 8421 740 210 3876 12616 1391 82 13817 10986 415 4861 693 1681 11951 11084 12573 3745 8119 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 8244 5766 210 5994 2597 10083 11770 13757 8283 2082 </steps_updated>
+    <steps_updated num="1">9179 341 7983 7678 13817 1713 3719 </steps_updated>
+    <steps_updated num="2">9179 82 13817 7845 560 13772 13817 2550 13948 </steps_updated>
+    <steps_updated num="3">9179 5614 11384 13817 5994 341 14038 12375 </steps_updated>
+    <steps_updated num="4">10917 3872 11951 14038 1245 210 7990 3141 7717 </steps_updated>
+    <steps_updated num="5">12473 210 341 12384 5016 10848 1681 1179 2021 </steps_updated>
+    <steps_updated num="6">9179 7983 11899 7042 11948 10219 3123 13063 6638 796 5040 499 7845 13817 12224 </steps_updated>
+    <steps_updated num="7">4660 13817 11779 3155 7990 238 12689 </steps_updated>
+    <steps_updated num="8">10917 12473 6107 560 772 11901 11951 7706 8189 6870 7811 11951 551 371 11951 10590 </steps_updated>
+    <steps_updated num="9">9956 11951 7706 9490 8421 740 210 3876 12616 1391 82 13817 10986 415 4861 693 1681 11951 11084 12573 3745 8119 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

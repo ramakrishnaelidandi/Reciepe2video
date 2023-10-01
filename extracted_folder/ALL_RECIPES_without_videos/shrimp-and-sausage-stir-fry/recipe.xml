@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shrimp And Sausage Stir-fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shrimp-and-sausage-stir-fry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; oil, divided </ingredient>
+    <ingredient num="1">1 lb ; raw shrimp, peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="2">2 teaspoons ; chesapeake bay seasoning </ingredient>
+    <ingredient num="3">6 oz ; sausage ; (170 g) </ingredient>
+    <ingredient num="4">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="5">½ ; yellow onion, diced </ingredient>
+    <ingredient num="6">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="7">1 ; green bell pepper, diced </ingredient>
+    <ingredient num="8">1 ; zucchini, chopped </ingredient>
+    <ingredient num="9">½ cup ; corn ; (85 g) </ingredient>
+    <ingredient num="10">1 ; carrot, diced </ingredient>
+    <ingredient num="11">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="12">¼ cup ; chicken broth ; (60 mL) </ingredient>
+    <ingredient num="13">½ teaspoon ; salt </ingredient>
+    <ingredient num="14">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="15">fresh parsley, chopped, for serving </ingredient>
+    <ingredient num="16">rice, cooked, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Healthy</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/62511/low_1510856213.m3u8</low>
+    <high>https://vid.tasty.co/output/62511/mp4_720x1280/1510856213</high>
+  </video>
+  <steps>
+    <step num="0">Heat oil in a large skillet over medium-high heat. </step>
+    <step num="1">Add shrimp to skillet and season with Chesapeake Bay seasoning. </step>
+    <step num="2">Cook shrimp 3-4 minutes, or until opaque. Remove from skillet and set aside. </step>
+    <step num="3">Heat oil in a large skillet over medium-high heat. </step>
+    <step num="4">Add sausage to skillet. </step>
+    <step num="5">Cook until browned, turning links frequently. </step>
+    <step num="6">Reduce heat to medium-low and add water to skillet. </step>
+    <step num="7">Cover and simmer for 12 minutes. Remove from skillet and set aside. </step>
+    <step num="8">Add onions and bell peppers to the same skillet and cook for 2 minutes. </step>
+    <step num="9">Add chopped sausage, zucchini, corn, and carrot and cook for additional 2 minutes. </step>
+    <step num="10">Stir in shrimp and garlic. </step>
+    <step num="11">Pour chicken stock into pan and stir until well-incorporated. </step>
+    <step num="12">Add salt and pepper. </step>
+    <step num="13">Remove from heat. </step>
+    <step num="14">Top with parsley and serve over rice if desired. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="1">Add shrimp to skillet and season with Chesapeake Bay seasoning. </steps_updated>
+    <steps_updated num="2">Cook shrimp 3-4 minutes, or until opaque. </steps_updated>
+    <steps_updated num="3">Remove from skillet and set aside. </steps_updated>
+    <steps_updated num="4">Heat oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="5">Add sausage to skillet. </steps_updated>
+    <steps_updated num="6">Cook until browned, turning links frequently. </steps_updated>
+    <steps_updated num="7">Reduce heat to medium-low and add water to skillet. </steps_updated>
+    <steps_updated num="8">Cover and simmer for 12 minutes. </steps_updated>
+    <steps_updated num="9">Remove from skillet and set aside. </steps_updated>
+    <steps_updated num="10">Add onions and bell peppers to the same skillet and cook for 2 minutes. </steps_updated>
+    <steps_updated num="11">Add chopped sausage, zucchini, corn, and carrot and cook for additional 2 minutes. </steps_updated>
+    <steps_updated num="12">Stir in shrimp and garlic. </steps_updated>
+    <steps_updated num="13">Pour chicken stock into pan and stir until well-incorporated. </steps_updated>
+    <steps_updated num="14">Add salt and pepper. </steps_updated>
+    <steps_updated num="15">Remove from heat. </steps_updated>
+    <steps_updated num="16">Top with parsley and serve over rice if desired. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

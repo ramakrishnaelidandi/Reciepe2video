@@ -1,0 +1,44 @@
+<recipe>
+  <title>Chocolate Avocado Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-avocado-pudding</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 11728 10415 472 </ingredient>
+    <ingredient num="1">13086 9486 13278 5475 4680 9053 11703 </ingredient>
+    <ingredient num="2">1580 2605 13278 5475 13826 5335 13278 7289 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 638 5802 13278 13125 8007 </ingredient>
+    <ingredient num="4">8580 9486 13278 9171 6818 </ingredient>
+    <ingredient num="5">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="6">3917 2157 13278 12610 5895 13510 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33854/low_1497288234.m3u8</low>
+    <high>https://vid.tasty.co/output/33854/mp4_720x1280/1497288234</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>18.55</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 6716 560 5994 12027 5895 8016 5349 14473 1391 11951 9053 8117 5335 13826 638 9889 9171 1285 1319 10937 13817 12051 </step>
+    <step num="1">3262 1681 4376 14455 573 10860 2658 14532 </step>
+    <step num="2">12774 419 5895 11058 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 6716 560 5994 12027 5895 8016 5349 14473 1391 11951 9053 8117 5335 13826 638 9889 9171 1285 1319 10937 13817 12051 </steps_updated>
+    <steps_updated num="1">3262 1681 4376 14455 573 10860 2658 14532 </steps_updated>
+    <steps_updated num="2">12774 419 5895 11058 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00568</end_time>
+  </duration_human>
+</recipe>

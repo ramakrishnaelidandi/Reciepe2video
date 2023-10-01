@@ -1,0 +1,67 @@
+<recipe>
+  <title>Creamy Tuscan Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-tuscan-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-chicken-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 8052 9611 7983 8309 </ingredient>
+    <ingredient num="1">8580 2031 13278 12610 7990 11951 7983 </ingredient>
+    <ingredient num="2">3917 8071 13278 10986 7990 11951 7983 </ingredient>
+    <ingredient num="3">3917 14014 13278 5766 </ingredient>
+    <ingredient num="4">13086 13667 13278 4155 3962 </ingredient>
+    <ingredient num="5">1580 13278 12384 341 </ingredient>
+    <ingredient num="6">3917 13278 9491 341 </ingredient>
+    <ingredient num="7">8580 9517 13278 13220 13278 14577 5981 </ingredient>
+    <ingredient num="8">8580 9517 13278 8640 13033 13278 6901 8007 </ingredient>
+    <ingredient num="9">3917 8071 13278 82 </ingredient>
+    <ingredient num="10">3917 8071 13278 7845 </ingredient>
+    <ingredient num="11">1580 2605 13278 2431 109 14538 13278 13412 5981 </ingredient>
+    <ingredient num="12">8580 9486 13278 6209 11067 11911 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14022/low_1478543668.m3u8</low>
+    <high>https://vid.tasty.co/output/14022/mp4_720x1280/1478543668</high>
+  </video>
+  <duration>
+    <start_time>35.15</start_time>
+    <end_time>78.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">10242 11951 7983 8554 11770 1391 82 13817 12375 </step>
+    <step num="1">8889 11951 5766 210 5994 10060 11770 4531 2082 </step>
+    <step num="2">5570 11951 7983 8309 930 11801 573 210 11951 10060 13817 2550 7990 6285 1797 8927 560 5898 3386 11951 1012 2540 11951 7983 5412 6781 1441 560 1441 560 8159 3557 2027 7317 12450 930 5376 11484 3627 560 11951 1744 </step>
+    <step num="3">11423 11951 12816 415 2550 7990 6285 6646 13133 11004 1681 11951 7983 9490 3745 8119 6054 6781 10590 </step>
+    <step num="4">9179 11951 11384 13817 12384 13328 1681 11453 12573 6470 12473 210 11951 717 13817 13220 1681 11951 13220 9490 1320 </step>
+    <step num="5">9179 11951 8640 1123 12610 13817 10986 12427 560 5994 11714 </step>
+    <step num="6">9179 11951 3220 14538 13817 11911 13328 1681 11951 2260 7312 6352 12624 </step>
+    <step num="7">5570 11951 7983 13352 210 11951 11745 12521 11951 2260 4255 10707 371 11951 9104 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10242 11951 7983 1391 11951 82 9606 10986 9082 11901 560 10968 3557 210 7317 </steps_updated>
+    <steps_updated num="1">8889 5766 210 5994 10060 11770 4531 2082 </steps_updated>
+    <steps_updated num="2">5570 11951 7983 8309 930 11801 573 210 11951 10060 13817 2550 7990 6285 1797 8927 210 3191 560 5898 3386 11951 1012 </steps_updated>
+    <steps_updated num="3">2540 11951 7983 5412 6781 1441 560 1441 560 8159 3557 2027 7317 </steps_updated>
+    <steps_updated num="4">12450 930 5376 11484 3627 560 11951 1744 </steps_updated>
+    <steps_updated num="5">11423 11951 12816 415 2550 7990 6285 6646 13133 8927 1681 11951 7983 9490 7568 907 </steps_updated>
+    <steps_updated num="6">6054 6781 10590 </steps_updated>
+    <steps_updated num="7">9179 11951 11384 13817 12384 13328 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="8">12473 210 11951 717 13817 13220 1681 11951 13220 9490 1320 </steps_updated>
+    <steps_updated num="9">9179 11951 8640 1123 12610 13817 10986 12427 560 5994 11714 </steps_updated>
+    <steps_updated num="10">9179 11951 109 14538 13817 11911 13328 1681 11951 2260 7312 6352 12624 </steps_updated>
+    <steps_updated num="11">5570 11951 7983 13352 210 11951 11745 12521 11951 2260 4255 10707 371 11951 9104 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01109</start_time>
+    <end_time>02350</end_time>
+  </duration_human>
+</recipe>

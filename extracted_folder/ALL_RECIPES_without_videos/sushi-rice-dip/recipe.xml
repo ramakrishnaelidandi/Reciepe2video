@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sushi Rice Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sushi-rice-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; sushi rice ; (452 g) </ingredient>
+    <ingredient num="1">4 cups ; water ; (944 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="3">2 tablespoons ; sugar </ingredient>
+    <ingredient num="4">1 tablespoon ; oil </ingredient>
+    <ingredient num="5">2 cups ; shiitake mushrooms ; (150 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="7">2 tablespoons ; dark soy sauce </ingredient>
+    <ingredient num="8">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="9">1 cup ; green onion ; (100 g) </ingredient>
+    <ingredient num="10">black sesame seed, optional </ingredient>
+    <ingredient num="11">1 ; avocado, optional </ingredient>
+    <ingredient num="12">nori, seaweed wrap </ingredient>
+    <ingredient num="13">oil sprayer </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32077/low_1495125301.m3u8</low>
+    <high>https://vid.tasty.co/output/32077/mp4_720x1280/1495125301</high>
+  </video>
+  <steps>
+    <step num="0">Wash and rinse the rice thoroughly to remove excess starch. Cook in a medium pot at high until the water reaches a boil. turn to low heat, and let it simmer for about 20 minutes. </step>
+    <step num="1">While there is still some water in the pot, add the vinegar and sugar. Stir and remove from heat. </step>
+    <step num="2">In a separate pan, add the oil and mushrooms. Cook until they begin to brown. </step>
+    <step num="3">Add the soy sauces, green onions, and brown sugar. simmer for 2-3 minutes, adding small amounts of water if necessary. </step>
+    <step num="4">Spray a square or round bowl with cooking oil, and press the rice into the edges with the back of a spoon. </step>
+    <step num="5">Layer avocado slices around the edges and bottom of the rice. </step>
+    <step num="6">Spoon in the mushroom sauce. Cover and pat down another layer of rice to seal in the goodness! </step>
+    <step num="7">Place a serving plate on top of the bowl and flip upside-down. Remove the bowl carefully. </step>
+    <step num="8">Sprinkle with black sesame seeds. Use a seaweed snack to grab. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Wash and rinse the rice thoroughly to remove excess starch. </steps_updated>
+    <steps_updated num="1">Cook in a medium pot at high until the water reaches a boil. </steps_updated>
+    <steps_updated num="2">turn to low heat, and let it simmer for about 20 minutes. </steps_updated>
+    <steps_updated num="3">While there is still some water in the pot, add the vinegar and sugar. </steps_updated>
+    <steps_updated num="4">Stir and remove from heat. </steps_updated>
+    <steps_updated num="5">In a separate pan, add the oil and mushrooms. </steps_updated>
+    <steps_updated num="6">Cook until they begin to brown. </steps_updated>
+    <steps_updated num="7">Add the soy sauces, green onions, and brown sugar. </steps_updated>
+    <steps_updated num="8">simmer for 2-3 minutes, adding small amounts of water if necessary. </steps_updated>
+    <steps_updated num="9">Spray a square or round bowl with cooking oil, and press the rice into the edges with the back of a spoon. </steps_updated>
+    <steps_updated num="10">Layer avocado slices around the edges and bottom of the rice. </steps_updated>
+    <steps_updated num="11">Spoon in the mushroom sauce. </steps_updated>
+    <steps_updated num="12">Cover and pat down another layer of rice to seal in the goodness! </steps_updated>
+    <steps_updated num="13">Place a serving plate on top of the bowl and flip upside-down. </steps_updated>
+    <steps_updated num="14">Remove the bowl carefully. </steps_updated>
+    <steps_updated num="15">Sprinkle with black sesame seeds. </steps_updated>
+    <steps_updated num="16">Use a seaweed snack to grab. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

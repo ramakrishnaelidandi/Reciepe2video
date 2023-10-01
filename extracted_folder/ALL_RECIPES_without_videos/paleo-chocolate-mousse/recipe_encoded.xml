@@ -1,0 +1,50 @@
+<recipe>
+  <title>Paleo Chocolate Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/paleo-chocolate-mousse</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/paleo-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 4384 13826 472 13278 8118 5981 </ingredient>
+    <ingredient num="1">409 643 13278 6742 1123 10140 4277 10912 14490 13278 1536 5981 </ingredient>
+    <ingredient num="2">4061 643 13278 8554 2834 6742 5802 13278 2935 8007 </ingredient>
+    <ingredient num="3">1813 2605 13278 7796 9693 9586 13278 2935 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 1658 1319 10937 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Date Night</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35980/low_1498687381.m3u8</low>
+    <high>https://vid.tasty.co/output/35980/mp4_720x1280/1498687381</high>
+  </video>
+  <duration>
+    <start_time>130.26</start_time>
+    <end_time>160.77</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2192 9495 14511 10503 4680 4255 3996 7855 210 7628 10477 13328 210 13507 1681 4680 9490 1311 1828 435 </step>
+    <step num="1">10950 5994 11435 14511 740 11951 6742 1123 6742 9889 14240 13817 12048 283 1681 9456 </step>
+    <step num="2">12595 210 11951 5335 9769 </step>
+    <step num="3">877 3584 8794 8433 2356 7990 3917 5664 </step>
+    <step num="4">13688 560 12313 14275 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 9495 14511 10503 4680 4255 3996 7855 210 7628 10477 13328 210 13507 1681 4680 9490 1311 </steps_updated>
+    <steps_updated num="1">1828 435 </steps_updated>
+    <steps_updated num="2">10950 5994 11435 14511 740 11951 6742 1123 6742 9889 14240 13817 12048 </steps_updated>
+    <steps_updated num="3">283 1681 9456 </steps_updated>
+    <steps_updated num="4">12595 210 11951 5335 9769 </steps_updated>
+    <steps_updated num="5">877 3584 8794 8433 </steps_updated>
+    <steps_updated num="6">2356 7990 3917 5664 </steps_updated>
+    <steps_updated num="7">13688 560 12313 14275 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

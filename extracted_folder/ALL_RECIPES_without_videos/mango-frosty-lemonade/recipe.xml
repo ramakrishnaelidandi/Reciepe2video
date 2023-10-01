@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mango Frosty Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mango-frosty-lemonade</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-lemonade-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; frozen mango ; (330 g) </ingredient>
+    <ingredient num="1">1 pt ; mango sorbet ; (390 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; lemonade ; (355 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51353/low_1504741643.m3u8</low>
+    <high>https://vid.tasty.co/output/51353/mp4_720x1280/1504741643</high>
+  </video>
+  <duration>
+    <start_time>61.85</start_time>
+    <end_time>80.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">To a blender add the mangos, mango sorbet, and lemonade. </step>
+    <step num="1">Blend until smooth </step>
+    <step num="2">Serve immediately to drink or freeze for 30 minutes to eat with a spoon! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To a blender add the mangos, mango sorbet, and lemonade. </steps_updated>
+    <steps_updated num="1">Blend until smooth </steps_updated>
+    <steps_updated num="2">Serve immediately to drink or freeze for 30 minutes to eat with a spoon! </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01915</start_time>
+    <end_time>02419</end_time>
+  </duration_human>
+</recipe>

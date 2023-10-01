@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Taco Macaroni And Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-taco-macaroni-and-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">olive oil </ingredient>
+    <ingredient num="1">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="2">1 ; small white onion, diced </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="4">2 tablespoons ; taco seasoning, divided </ingredient>
+    <ingredient num="5">½ lb ; small macaroni, dry ; (225 g) </ingredient>
+    <ingredient num="6">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="7">2 cups ; beef stock ; (480 mL) </ingredient>
+    <ingredient num="8">2 cups ; shredded white cheddar, yellow cheddar works as well ; (200 g) </ingredient>
+    <ingredient num="9">1 cup ; tomato, diced ; (200 g) </ingredient>
+    <ingredient num="10">green onion, diced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34699/low_1498083523.m3u8</low>
+    <high>https://vid.tasty.co/output/34699/mp4_720x1280/1498083523</high>
+  </video>
+  <steps>
+    <step num="0">In a 4-quart chicken fryer, heat approximately 1 tablespoon olive oil over medium-high heat and cook the onions until they begin to soften. </step>
+    <step num="1">Add garlic and stir for 30 seconds. </step>
+    <step num="2">Add the ground beef and 1 tablespoon of taco seasoning. Using your spatula, break up the ground beef and stir until cooked. Drain the excess liquid from the pan. </step>
+    <step num="3">Add water, beef stock, pasta, tomatoes, and 1 tablespoon of taco seasoning back to the pan. Stir to combine. </step>
+    <step num="4">Cook over low heat for 15 minutes, stirring twice to keep the pasta from sticking to the bottom of the pan. </step>
+    <step num="5">Increase heat to medium after 15 minutes, and stir pasta until most of the liquid is gone. </step>
+    <step num="6">Turn off heat and add the shredded cheese. Stir until cheese is completely melted. </step>
+    <step num="7">Top with green onions. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a 4-quart chicken fryer, heat approximately 1 tablespoon olive oil over medium-high heat and cook the onions until they begin to soften. </steps_updated>
+    <steps_updated num="1">Add garlic and stir for 30 seconds. </steps_updated>
+    <steps_updated num="2">Add the ground beef and 1 tablespoon of taco seasoning. </steps_updated>
+    <steps_updated num="3">Using your spatula, break up the ground beef and stir until cooked. </steps_updated>
+    <steps_updated num="4">Drain the excess liquid from the pan. </steps_updated>
+    <steps_updated num="5">Add water, beef stock, pasta, tomatoes, and 1 tablespoon of taco seasoning back to the pan. </steps_updated>
+    <steps_updated num="6">Stir to combine. </steps_updated>
+    <steps_updated num="7">Cook over low heat for 15 minutes, stirring twice to keep the pasta from sticking to the bottom of the pan. </steps_updated>
+    <steps_updated num="8">Increase heat to medium after 15 minutes, and stir pasta until most of the liquid is gone. </steps_updated>
+    <steps_updated num="9">Turn off heat and add the shredded cheese. </steps_updated>
+    <steps_updated num="10">Stir until cheese is completely melted. </steps_updated>
+    <steps_updated num="11">Top with green onions. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

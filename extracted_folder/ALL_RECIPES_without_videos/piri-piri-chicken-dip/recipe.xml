@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Piri Piri Chicken Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/piri-piri-chicken-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts, small dice </ingredient>
+    <ingredient num="1">1 cup ; cream cheese ; (100 g) </ingredient>
+    <ingredient num="2">⅓ cup ; piri piri sauce ; (70 mL) </ingredient>
+    <ingredient num="3">1 handful ; cheddar cheese, grated </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Snacks</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12457/low_1476905432.m3u8</low>
+    <high>https://vid.tasty.co/output/12457/mp4_720x1280/1476905432</high>
+  </video>
+  <steps>
+    <step num="0">Fry the chicken in a little oil for a few minutes until cooked through. </step>
+    <step num="1">Stir in the cream cheese until it’s melted. </step>
+    <step num="2">Stir in the piri piri sauce. </step>
+    <step num="3">Transfer all of this to an oven-safe dish and top with grated cheese. </step>
+    <step num="4">Grill (broil) for 5 minutes or until the cheese is bubbly. </step>
+    <step num="5">Serve with a selection of crackers. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fry the chicken in a little oil for a few minutes until cooked through. </steps_updated>
+    <steps_updated num="1">Stir in the cream cheese until it’s melted. </steps_updated>
+    <steps_updated num="2">Stir in the piri piri sauce. </steps_updated>
+    <steps_updated num="3">Transfer all of this to an oven-safe dish and top with grated cheese. </steps_updated>
+    <steps_updated num="4">Grill (broil) for 5 minutes or until the cheese is bubbly. </steps_updated>
+    <steps_updated num="5">Serve with a selection of crackers. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

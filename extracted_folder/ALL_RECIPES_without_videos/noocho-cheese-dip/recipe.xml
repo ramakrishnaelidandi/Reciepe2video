@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Dairy Free Cheese Dip</title>
+  <url>https://tasty.co/recipe/noocho-cheese-dip</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/wtf-is-nutritional-yeast</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; large potatoes, peeled, cut into 1 inch (2 1/2 cm) chunks and boiled </ingredient>
+    <ingredient num="1">2 ; large carrots, peeled, cut into 1 inch (2 1/2 cm) chunks and boiled </ingredient>
+    <ingredient num="2">⅓ cup ; olive oil ; (80 mL) </ingredient>
+    <ingredient num="3">⅓ cup ; water ; (80 mL) </ingredient>
+    <ingredient num="4">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="8">½ cup ; nutritional yeast ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Snacks</category>
+    <category num="9">Game Day</category>
+    <category num="10">Casual Party</category>
+    <category num="11">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45888/low_1501693239.m3u8</low>
+    <high>https://vid.tasty.co/output/45888/mp4_720x1280/1501693239</high>
+  </video>
+  <duration>
+    <start_time>91.83</start_time>
+    <end_time>104.14</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender or food processor, add boiled potatoes, carrots, olive oil, water, lemon juice, salt, pepper, garlic powder, and nutritional yeast. Blend until smooth, adding more liquid as necessary to reach desired consistency. </step>
+    <step num="1">Serve immediately with chips or raw veggies. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender or food processor, add boiled potatoes, carrots, olive oil, water, lemon juice, salt, pepper, garlic powder, and nutritional yeast. </steps_updated>
+    <steps_updated num="1">Blend until smooth, adding more liquid as necessary to reach desired consistency. </steps_updated>
+    <steps_updated num="2">Serve immediately with chips or raw veggies. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

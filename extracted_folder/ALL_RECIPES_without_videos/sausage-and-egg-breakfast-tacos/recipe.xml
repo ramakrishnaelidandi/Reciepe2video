@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sausage And Egg Breakfast Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sausage-and-egg-breakfast-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/slow-cooker-breakfasts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; potato, peeled, diced ; (675 g) </ingredient>
+    <ingredient num="1">2 cups ; breakfast sausage, cooked ; (275 g) </ingredient>
+    <ingredient num="2">1 ; green bell pepper, diced </ingredient>
+    <ingredient num="3">½ ; white onion, chopped </ingredient>
+    <ingredient num="4">2 cups ; spinach ; (80 g) </ingredient>
+    <ingredient num="5">12 ; eggs </ingredient>
+    <ingredient num="6">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">1 cup ; milk, or milk alternative ; (240 mL) </ingredient>
+    <ingredient num="10">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="11">salsa, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59282/low_1509486319.m3u8</low>
+    <high>https://vid.tasty.co/output/59282/mp4_720x1280/1509486319</high>
+  </video>
+  <duration>
+    <start_time>106.72</start_time>
+    <end_time>144.48</end_time>
+  </duration>
+  <steps>
+    <step num="0">Layer the potatoes on the bottom of a greased slow cooker. </step>
+    <step num="1">Add the sausage, green bell peppers, onion, and spinach. </step>
+    <step num="2">In a large bowl or measuring cup whisk together the eggs, garlic powder, salt, pepper, and milk. </step>
+    <step num="3">Pour egg mixture over the potatoes, sausage, and vegetables. Top with cheddar cheese. </step>
+    <step num="4">Cover and cook on low for 6-8 hours </step>
+    <step num="5">Carefully remove lid and serve filling on a tortilla and add salsa. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Layer the potatoes on the bottom of a greased slow cooker. </steps_updated>
+    <steps_updated num="1">Add the sausage, green bell peppers, onion, and spinach. </steps_updated>
+    <steps_updated num="2">In a large bowl or measuring cup whisk together the eggs, garlic powder, salt, pepper, and milk. </steps_updated>
+    <steps_updated num="3">Pour egg mixture over the potatoes, sausage, and vegetables. </steps_updated>
+    <steps_updated num="4">Top with cheddar cheese. </steps_updated>
+    <steps_updated num="5">Cover and cook on low for 6-8 hours </steps_updated>
+    <steps_updated num="6">Carefully remove lid and serve filling on a tortilla and add salsa. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03259</start_time>
+    <end_time>04282</end_time>
+  </duration_human>
+</recipe>

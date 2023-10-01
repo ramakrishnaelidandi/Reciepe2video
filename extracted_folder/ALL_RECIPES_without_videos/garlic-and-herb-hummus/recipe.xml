@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic And Herb Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-and-herb-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hummus-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; garbanzo beans, 1 can ; (425 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic </ingredient>
+    <ingredient num="2">3 tablespoons ; tahini </ingredient>
+    <ingredient num="3">1 ; lemon, juiced </ingredient>
+    <ingredient num="4">2 tablespoons ; olive oil, more to garnish </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pine nuts, to garnish </ingredient>
+    <ingredient num="7">1 ½ tablespoons ; fresh parsley </ingredient>
+    <ingredient num="8">2 tablespoons ; water </ingredient>
+    <ingredient num="9">pita chip, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Healthy</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39341/low_1498728957.m3u8</low>
+    <high>https://vid.tasty.co/output/39341/mp4_720x1280/1498728957</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>27.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">Boil the garbanzo beans until the skins come off. Remove the skins, drain. </step>
+    <step num="1">Combine all ingredients in a food processor. </step>
+    <step num="2">Blend until smooth adding small amounts of oil and water until desired consistency is achieved. </step>
+    <step num="3">Add more lemon or tahini if needed. </step>
+    <step num="4">Garnish with pine nuts and more oil! </step>
+    <step num="5">Eat with fresh vegetables or pita chips. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Boil the garbanzo beans until the skins come off. </steps_updated>
+    <steps_updated num="1">Remove the skins, drain. </steps_updated>
+    <steps_updated num="2">Combine all ingredients in a food processor. </steps_updated>
+    <steps_updated num="3">Blend until smooth adding small amounts of oil and water until desired consistency is achieved. </steps_updated>
+    <steps_updated num="4">Add more lemon or tahini if needed. </steps_updated>
+    <steps_updated num="5">Garnish with pine nuts and more oil! </steps_updated>
+    <steps_updated num="6">Eat with fresh vegetables or pita chips. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

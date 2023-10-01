@@ -1,0 +1,49 @@
+<recipe>
+  <title>BBQ Bacon Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-bacon-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11852 643 13278 11088 1946 13278 10339 5981 </ingredient>
+    <ingredient num="1">11852 643 13278 11088 13280 13278 10339 5981 </ingredient>
+    <ingredient num="2">3591 2605 13278 4465 9031 13278 3433 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 12384 3962 13278 336 5981 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 3962 </ingredient>
+    <ingredient num="5">3917 13278 6216 </ingredient>
+    <ingredient num="6">3917 7210 13278 10865 13810 2431 </ingredient>
+    <ingredient num="7">11061 7163 13278 8932 </ingredient>
+    <ingredient num="8">4716 7280 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31851/low_1495124849.m3u8</low>
+    <high>https://vid.tasty.co/output/31851/mp4_720x1280/1495124849</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 14594 9526 12738 6395 4255 5994 7420 5247 </step>
+    <step num="1">10950 5994 2597 14511 10968 11951 11088 20 11088 4437 4465 8092 12384 4155 13817 6216 3626 1391 12313 13676 1681 4386 4309 </step>
+    <step num="2">7692 11951 2373 669 13366 6973 13202 8431 12313 9102 560 3535 5994 8330 210 11951 11517 740 5994 10222 371 10865 13817 4510 </step>
+    <step num="3">14100 11951 8932 7163 210 2532 13817 4536 5412 11951 13441 </step>
+    <step num="4">5570 11951 13391 4255 5994 3513 7238 13817 10903 7990 5527 12689 </step>
+    <step num="5">6054 6781 11951 10439 13817 10654 1391 4716 7280 415 10903 7990 2933 8927 3347 5362 93 13817 10765 4817 3954 7287 7990 2237 14196 11826 371 4716 9286 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 14594 9526 12738 6395 4255 5994 7420 5247 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 10968 11951 11088 20 11088 4437 4465 8092 12384 4155 13817 6216 3626 1391 12313 13676 1681 4386 4309 </steps_updated>
+    <steps_updated num="2">7692 11951 2373 669 13366 6973 13202 </steps_updated>
+    <steps_updated num="3">8431 12313 9102 560 3535 5994 8330 210 11951 11517 740 5994 10222 371 10865 13817 4510 </steps_updated>
+    <steps_updated num="4">14100 11951 8932 7163 210 2532 13817 4536 5412 11951 13441 </steps_updated>
+    <steps_updated num="5">5570 11951 13391 4255 5994 3513 7238 13817 10903 7990 5527 12689 </steps_updated>
+    <steps_updated num="6">6054 6781 11951 10439 13817 10654 1391 4716 7280 415 10903 7990 2933 8927 3347 </steps_updated>
+    <steps_updated num="7">5362 93 13817 10765 4817 3954 7287 7990 2237 14196 11826 371 4716 9286 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Thyme Ice Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-thyme-ice-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ cup ; sugar ; (150 g) </ingredient>
+    <ingredient num="1">2 ; fresh thymes, leaves only </ingredient>
+    <ingredient num="2">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="3">16 oz ; frozen strawberry ; (455 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Snacks</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/134979/hls24_1559668214.m3u8</low>
+    <high>https://vid.tasty.co/output/134979/landscape_720/1559668214</high>
+  </video>
+  <steps>
+    <step num="0">Make the simple syrup: In a small saucepan, combine the sugar, thyme, and water. Bring to a boil over medium-high heat. Once boiling, cook for 2-3 minutes, until the sugar has dissolved and the thyme is fragrant. Remove from the heat. </step>
+    <step num="1">Strain the herb syrup through a fine-mesh sieve set over a blender. Add the strawberries. Blend on high speed until smooth. </step>
+    <step num="2">Divide the mixture between 6 ice pop molds. Freeze until solid, at least 6 hours. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the simple syrup: In a small saucepan, combine the sugar, thyme, and water. </steps_updated>
+    <steps_updated num="1">Bring to a boil over medium-high heat. </steps_updated>
+    <steps_updated num="2">Once boiling, cook for 2-3 minutes, until the sugar has dissolved and the thyme is fragrant. </steps_updated>
+    <steps_updated num="3">Remove from the heat. </steps_updated>
+    <steps_updated num="4">Strain the herb syrup through a fine-mesh sieve set over a blender. </steps_updated>
+    <steps_updated num="5">Add the strawberries. </steps_updated>
+    <steps_updated num="6">Blend on high speed until smooth. </steps_updated>
+    <steps_updated num="7">Divide the mixture between 6 ice pop molds. </steps_updated>
+    <steps_updated num="8">Freeze until solid, at least 6 hours. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

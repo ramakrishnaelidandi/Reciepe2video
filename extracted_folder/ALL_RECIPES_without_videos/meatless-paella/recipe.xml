@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Meatless Paella Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatless-paella</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 ; medium yellow onion, minced </ingredient>
+    <ingredient num="2">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 ; yellow bell pepper, cut into strips </ingredient>
+    <ingredient num="4">1 ; red bell pepper, cut into strips </ingredient>
+    <ingredient num="5">1 cup ; green beans, halved ; (360 g) </ingredient>
+    <ingredient num="6">1 ½ cups ; short grain white rice ; (300 g) </ingredient>
+    <ingredient num="7">½ teaspoon ; smoked paprika </ingredient>
+    <ingredient num="8">½ teaspoon ; sweet paprika </ingredient>
+    <ingredient num="9">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">black pepper, to taste </ingredient>
+    <ingredient num="12">14 oz ; diced tomato ; (395 g) </ingredient>
+    <ingredient num="13">3 cups ; vegetable broth ; (720 mL) </ingredient>
+    <ingredient num="14">½ teaspoon ; saffron thread, crumbled, or 1/2 tablespoon ground turmeric </ingredient>
+    <ingredient num="15">2 ; bay leaves </ingredient>
+    <ingredient num="16">½ cup ; frozen peas ; (75 g) </ingredient>
+    <ingredient num="17">½ cup ; canned artichoke heart ; (85 g) </ingredient>
+    <ingredient num="18">½ cup ; vegan chorizon, optional ; (75 g) </ingredient>
+    <ingredient num="19">½ cup ; fresh flat-leaf parsley, chopped ; (15 g) </ingredient>
+    <ingredient num="20">1 ; lemon, quartered, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91860/hls24_1525110978.m3u8</low>
+    <high>https://vid.tasty.co/output/91860/landscape_720/1525110978</high>
+  </video>
+  <steps>
+    <step num="0">Heat the olive oil in a large skillet over medium heat. </step>
+    <step num="1">Add the onion and cook until translucent, 3-4 minutes. </step>
+    <step num="2">Add the garlic and cook for about 2 minutes until it is fragrant. </step>
+    <step num="3">Add the yellow bell peppers, red bell peppers, and green beans. Cook stirring occasionally, for 5 minutes until tender. </step>
+    <step num="4">Add the rice, smoked paprika, sweet paprika, tomato paste, salt, and pepper. Stir until incorporated. Cook for 1-2 minutes until the rice starts to sizzle. </step>
+    <step num="5">Add the canned tomatoes. Cook for 5 minutes until the liquid has evaporated slightly. </step>
+    <step num="6">Add the vegetable broth, saffron threads (crush the saffron threads between your fingertips), and bay leaves. Bring to a boil on high heat. Continue cooking, stirring occasionally, until most of the liquid is absorbed by the rice, about 10 minutes. </step>
+    <step num="7">Add in the peas, artichokes, and sausage, if using. Cover the pan, reduce the heat to low, and cook for 10 minutes. </step>
+    <step num="8">Remove the pan from the heat and let sit covered for 10 minutes. </step>
+    <step num="9">Sprinkle the fresh parsley. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil in a large skillet over medium heat. </steps_updated>
+    <steps_updated num="1">Add the onion and cook until translucent, 3-4 minutes. </steps_updated>
+    <steps_updated num="2">Add the garlic and cook for about 2 minutes until it is fragrant. </steps_updated>
+    <steps_updated num="3">Add the yellow bell peppers, red bell peppers, and green beans. </steps_updated>
+    <steps_updated num="4">Cook stirring occasionally, for 5 minutes until tender. </steps_updated>
+    <steps_updated num="5">Add the rice, smoked paprika, sweet paprika, tomato paste, salt, and pepper. </steps_updated>
+    <steps_updated num="6">Stir until incorporated. </steps_updated>
+    <steps_updated num="7">Cook for 1-2 minutes until the rice starts to sizzle. </steps_updated>
+    <steps_updated num="8">Add the canned tomatoes. </steps_updated>
+    <steps_updated num="9">Cook for 5 minutes until the liquid has evaporated slightly. </steps_updated>
+    <steps_updated num="10">Add the vegetable broth, saffron threads (crush the saffron threads between your fingertips), and bay leaves. </steps_updated>
+    <steps_updated num="11">Bring to a boil on high heat. </steps_updated>
+    <steps_updated num="12">Continue cooking, stirring occasionally, until most of the liquid is absorbed by the rice, about 10 minutes. </steps_updated>
+    <steps_updated num="13">Add in the peas, artichokes, and sausage, if using. </steps_updated>
+    <steps_updated num="14">Cover the pan, reduce the heat to low, and cook for 10 minutes. </steps_updated>
+    <steps_updated num="15">Remove the pan from the heat and let sit covered for 10 minutes. </steps_updated>
+    <steps_updated num="16">Sprinkle the fresh parsley. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

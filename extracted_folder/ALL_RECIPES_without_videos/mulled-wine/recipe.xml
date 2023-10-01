@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mulled Wine Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mulled-wine</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-slow-cooker-cocktails-to-serve-at-your-next-holiday-party</comp_url>
+  <ingredients>
+    <ingredient num="0">10 cups ; red wine ; (2.5 L) </ingredient>
+    <ingredient num="1">5 cups ; pineapple juice ; (1 ¼ mL) </ingredient>
+    <ingredient num="2">2 cups ; sugar ; (400 g) </ingredient>
+    <ingredient num="3">2 ; oranges, thinly sliced </ingredient>
+    <ingredient num="4">3 ; cinnamon sticks </ingredient>
+    <ingredient num="5">10 ; cloves </ingredient>
+    <ingredient num="6">10 ; black peppercorns </ingredient>
+    <ingredient num="7">2 ; fresh gingers, 1-inch (2-cm) </ingredient>
+    <ingredient num="8">orange, sliced into wheels, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112113/hls24_1539385219.m3u8</low>
+    <high>https://vid.tasty.co/output/112113/landscape_720/1539385219</high>
+  </video>
+  <duration>
+    <start_time>3.1660000000000004</start_time>
+    <end_time>52.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the red wine, pineapple juice, and sugar to a slow cooker. Whisk to dissolve the sugar. </step>
+    <step num="1">Add the sliced oranges, cinnamon sticks, cloves, peppercorns, and ginger. </step>
+    <step num="2">Turn the heat to high, cover, and warm for 30-60 minutes, until steaming. Once steaming, reduce the heat setting to warm. </step>
+    <step num="3">Ladle into mugs and garnish with orange wheels. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the red wine, pineapple juice, and sugar to a slow cooker. </steps_updated>
+    <steps_updated num="1">Whisk to dissolve the sugar. </steps_updated>
+    <steps_updated num="2">Add the sliced oranges, cinnamon sticks, cloves, peppercorns, and ginger. </steps_updated>
+    <steps_updated num="3">Turn the heat to high, cover, and warm for 30-60 minutes, until steaming. </steps_updated>
+    <steps_updated num="4">Once steaming, reduce the heat setting to warm. </steps_updated>
+    <steps_updated num="5">Ladle into mugs and garnish with orange wheels. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

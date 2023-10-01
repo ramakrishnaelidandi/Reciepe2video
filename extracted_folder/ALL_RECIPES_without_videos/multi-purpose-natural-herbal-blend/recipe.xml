@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Multi-Purpose Natural Herbal Blend Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/multi-purpose-natural-herbal-blend</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; mint ; (10 g) </ingredient>
+    <ingredient num="1">¼ cup ; chamomile ; (60 g) </ingredient>
+    <ingredient num="2">¼ cup ; rose petal ; (10 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; lavender </ingredient>
+    <ingredient num="4">muslin reusable tea bag, or reusable cotton </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/91589/hls24_1524851708.m3u8</low>
+    <high>https://vid.tasty.co/output/91589/landscape_720/1524851708</high>
+  </video>
+  <steps>
+    <step num="0">Combine mint, chamomile, rose petals, and lavender in a bowl. </step>
+    <step num="1">Scoop 2 tablespoons, or desired amount, into each tea bag and seal completely. </step>
+    <step num="2">Store in an airtight container and use as you’d like. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine mint, chamomile, rose petals, and lavender in a bowl. </steps_updated>
+    <steps_updated num="1">Scoop 2 tablespoons, or desired amount, into each tea bag and seal completely. </steps_updated>
+    <steps_updated num="2">Store in an airtight container and use as you’d like. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

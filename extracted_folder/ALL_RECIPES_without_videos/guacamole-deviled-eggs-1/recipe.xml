@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Guacamole Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/guacamole-deviled-eggs-1</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; eggs </ingredient>
+    <ingredient num="1">2 ; avocados </ingredient>
+    <ingredient num="2">2 tablespoons ; lime juice </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">1 ; tomato, diced </ingredient>
+    <ingredient num="6">½ cup ; red onion, diced ; (75 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; fresh cilantro </ingredient>
+    <ingredient num="8">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="9">1 tablespoon ; jalapeño, minced </ingredient>
+    <ingredient num="10">tortilla chips </ingredient>
+    <ingredient num="11">fresh cilantro </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8940/low_1472781438.m3u8</low>
+    <high>https://vid.tasty.co/output/8940/mp4_720x1280/1472781438</high>
+  </video>
+  <steps>
+    <step num="0">Place the eggs in a large pot and cover with 1 inch (2cm) of cold water. Cover with a lid. </step>
+    <step num="1">Bring to a rolling boil, and remove from heat. Let the eggs sit, covered for 8-10 minutes. </step>
+    <step num="2">Remove from water and immediately place in bath of ice water for a few minutes. </step>
+    <step num="3">Remove shells and cut the egg in half, vertically. </step>
+    <step num="4">Remove the yolk and place in a bowl. </step>
+    <step num="5">Set the cooked whites aside on a serving tray. </step>
+    <step num="6">In the bowl with the yolks, add all the ingredients for guacamole. Mash until well incorporated. </step>
+    <step num="7">Spoon guacamole mixture into the bowls of the cooked egg whites. </step>
+    <step num="8">Garnish with a broken piece of a tortilla chip and cilantro. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the eggs in a large pot and cover with 1 inch (2cm) of cold water. </steps_updated>
+    <steps_updated num="1">Cover with a lid. </steps_updated>
+    <steps_updated num="2">Bring to a rolling boil, and remove from heat. </steps_updated>
+    <steps_updated num="3">Let the eggs sit, covered for 8-10 minutes. </steps_updated>
+    <steps_updated num="4">Remove from water and immediately place in bath of ice water for a few minutes. </steps_updated>
+    <steps_updated num="5">Remove shells and cut the egg in half, vertically. </steps_updated>
+    <steps_updated num="6">Remove the yolk and place in a bowl. </steps_updated>
+    <steps_updated num="7">Set the cooked whites aside on a serving tray. </steps_updated>
+    <steps_updated num="8">In the bowl with the yolks, add all the ingredients for guacamole. </steps_updated>
+    <steps_updated num="9">Mash until well incorporated. </steps_updated>
+    <steps_updated num="10">Spoon guacamole mixture into the bowls of the cooked egg whites. </steps_updated>
+    <steps_updated num="11">Garnish with a broken piece of a tortilla chip and cilantro. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

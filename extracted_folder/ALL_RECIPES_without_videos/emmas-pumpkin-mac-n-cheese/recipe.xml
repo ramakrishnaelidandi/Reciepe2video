@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pumpkin Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/emmas-pumpkin-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ¼ cups ; pumpkin, or squash, chopped ; (500 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 teaspoon ; dried sage </ingredient>
+    <ingredient num="5">⅓ cup ; butter ; (40 g) </ingredient>
+    <ingredient num="6">⅓ cup ; flour ; (40 g) </ingredient>
+    <ingredient num="7">2 ½ cups ; milk ; (600 mL) </ingredient>
+    <ingredient num="8">¼ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="9">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="10">1 teaspoon ; pepper </ingredient>
+    <ingredient num="11">2 cups ; cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="12">¼ cup ; parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="13">2 ½ cups ; macaroni pasta, cooked and drained ; (250 g) </ingredient>
+    <ingredient num="14">½ cup ; cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="15">½ cup ; mozzarella cheese ; (50 g) </ingredient>
+    <ingredient num="16">¼ cup ; parmesan cheese ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57292/low_1508507303.m3u8</low>
+    <high>https://vid.tasty.co/output/57292/mp4_720x1280/1508507303</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 190°C (375°F) </step>
+    <step num="1">Chop up the pumpkin into chunks and place on a baking tray. </step>
+    <step num="2">Drizzle over the oil, salt, pepper, and ground sage, and coat evenly with your hands. </step>
+    <step num="3">Roast in the oven for 20 minutes. </step>
+    <step num="4">Once cooked leave to cool slightly and blend ⅓ of the pumpkin, set aside. </step>
+    <step num="5">For the sauce, in a large ovenproof pan, melt the butter over a medium-low heat. </step>
+    <step num="6">Gradually mix in the flour to create a roux. </step>
+    <step num="7">Add the milk in 4-5 parts stirring well in between. </step>
+    <step num="8">Continue to stir and cook the sauce for a further 5-10 minutes or until the sauce is simmering and thickened. </step>
+    <step num="9">Stir in the ground nutmeg, garlic powder, pepper, cheddar, and Parmesan. </step>
+    <step num="10">Stir in the blended pumpkin. </step>
+    <step num="11">Stir in the remaining whole pumpkin and macaroni, mix until combined. </step>
+    <step num="12">Top with the cheddar, mozzarella, and Parmesan. </step>
+    <step num="13">Grill for 10 minutes at 200°C (400°F) until the cheese is brown and bubbling. </step>
+    <step num="14">Serve. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 190°C (375°F) </steps_updated>
+    <steps_updated num="1">Chop up the pumpkin into chunks and place on a baking tray. </steps_updated>
+    <steps_updated num="2">Drizzle over the oil, salt, pepper, and ground sage, and coat evenly with your hands. </steps_updated>
+    <steps_updated num="3">Roast in the oven for 20 minutes. </steps_updated>
+    <steps_updated num="4">Once cooked leave to cool slightly and blend ⅓ of the pumpkin, set aside. </steps_updated>
+    <steps_updated num="5">For the sauce, in a large ovenproof pan, melt the butter over a medium-low heat. </steps_updated>
+    <steps_updated num="6">Gradually mix in the flour to create a roux. </steps_updated>
+    <steps_updated num="7">Add the milk in 4-5 parts stirring well in between. </steps_updated>
+    <steps_updated num="8">Continue to stir and cook the sauce for a further 5-10 minutes or until the sauce is simmering and thickened. </steps_updated>
+    <steps_updated num="9">Stir in the ground nutmeg, garlic powder, pepper, cheddar, and Parmesan. </steps_updated>
+    <steps_updated num="10">Stir in the blended pumpkin. </steps_updated>
+    <steps_updated num="11">Stir in the remaining whole pumpkin and macaroni, mix until combined. </steps_updated>
+    <steps_updated num="12">Top with the cheddar, mozzarella, and Parmesan. </steps_updated>
+    <steps_updated num="13">Grill for 10 minutes at 200°C (400°F) until the cheese is brown and bubbling. </steps_updated>
+    <steps_updated num="14">Serve. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<recipe>
+  <title>Pigs In A Blanket Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pigs-in-a-blanket</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-appetizers</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 213 13278 8247 5602 9157 </ingredient>
+    <ingredient num="1">11061 13278 6222 14281 </ingredient>
+    <ingredient num="2">11061 8535 13278 9784 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7967/low_1472163621.m3u8</low>
+    <high>https://vid.tasty.co/output/7967/mp4_720x1280/1472163621</high>
+  </video>
+  <duration>
+    <start_time>3.3899999999999997</start_time>
+    <end_time>21.43</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 13180 </step>
+    <step num="1">3235 11951 8247 7969 669 11061 5422 14478 5570 5994 12205 371 9784 4255 10707 371 10763 8247 7969 12793 </step>
+    <step num="2">5570 5994 6222 11056 4255 11951 9631 415 4536 3557 8857 </step>
+    <step num="3">3235 10763 4536 669 13086 5422 14243 13817 8093 11951 13009 3584 4255 5994 10765 213 10926 1391 3550 12 1391 5994 1318 9740 1992 8830 11951 13637 </step>
+    <step num="4">7831 7990 13133 11004 1681 10963 1368 13817 3999 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 13180 </steps_updated>
+    <steps_updated num="1">3235 11951 8247 7969 669 11061 5422 14478 </steps_updated>
+    <steps_updated num="2">5570 5994 12205 371 9784 4255 10707 371 10763 8247 7969 12793 </steps_updated>
+    <steps_updated num="3">5570 5994 6222 11056 4255 11951 9631 415 4536 3557 8857 </steps_updated>
+    <steps_updated num="4">3235 10763 4536 669 13086 5422 14243 13817 8093 11951 13009 3584 4255 5994 10765 213 10926 1391 3550 12 1391 5994 1318 1992 8830 11951 13637 </steps_updated>
+    <steps_updated num="5">7831 7990 13133 11004 1681 10963 1368 13817 3999 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00677</end_time>
+  </duration_human>
+</recipe>

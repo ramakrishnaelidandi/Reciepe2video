@@ -1,0 +1,49 @@
+<recipe>
+  <title>Cheeseburger Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheeseburger-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14138 13278 10912 2279 6735 12525 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 11892 13278 2935 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 10646 2260 </ingredient>
+    <ingredient num="4">3917 14014 13278 6422 </ingredient>
+    <ingredient num="5">8580 9486 13278 1368 4834 </ingredient>
+    <ingredient num="6">6735 8535 13278 13810 2192 8535 </ingredient>
+    <ingredient num="7">3297 371 12313 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32242/low_1495125507.m3u8</low>
+    <high>https://vid.tasty.co/output/32242/mp4_720x1280/1495125507</high>
+  </video>
+  <steps>
+    <step num="0">4957 13817 2550 11951 1946 210 5994 10060 14330 82 13817 7845 560 84 8756 </step>
+    <step num="1">9393 210 8675 11131 5920 13817 1368 8525 </step>
+    <step num="2">5954 5994 12841 2860 13817 2348 6735 9517 1391 11951 10912 4522 </step>
+    <step num="3">877 11951 3061 2373 8794 11951 6735 8143 </step>
+    <step num="4">7831 7811 312 14594 7990 8489 11004 1681 11951 5585 8337 9490 2147 </step>
+    <step num="5">13494 1391 14538 13817 10903 2237 3274 2933 12689 </step>
+    <step num="6">13494 1391 12313 226 5677 13817 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">4957 13817 2550 11951 1946 210 5994 10060 14330 82 13817 7845 560 84 </steps_updated>
+    <steps_updated num="1">8756 </steps_updated>
+    <steps_updated num="2">9393 210 8675 11131 5920 13817 1368 8525 </steps_updated>
+    <steps_updated num="3">5954 5994 12841 2860 13817 2348 6735 9517 1391 11951 10912 4522 </steps_updated>
+    <steps_updated num="4">877 11951 3061 2373 8794 11951 6735 8143 </steps_updated>
+    <steps_updated num="5">7831 7811 312 14594 7990 8489 11004 1681 11951 5585 8337 9490 2147 </steps_updated>
+    <steps_updated num="6">13494 1391 14538 13817 10903 2237 3274 2933 12689 </steps_updated>
+    <steps_updated num="7">13494 1391 12313 226 5677 13817 8956 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

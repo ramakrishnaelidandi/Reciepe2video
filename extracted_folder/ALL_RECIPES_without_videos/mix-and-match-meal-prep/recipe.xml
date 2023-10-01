@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mix And Match Meal Prep Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mix-and-match-meal-prep</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; large sweet potato, peeled and cubed </ingredient>
+    <ingredient num="1">1 ; red bell pepper, seeded and sliced </ingredient>
+    <ingredient num="2">olive oil, to taste </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">1 ; green bell pepper, seeded and sliced </ingredient>
+    <ingredient num="6">1 lb ; chicken thighs ; (455 g) </ingredient>
+    <ingredient num="7">4 cloves ; garlic, minced, divided </ingredient>
+    <ingredient num="8">2 cups ; brown rice, cooked, divided ; (460 g) </ingredient>
+    <ingredient num="9">2 cups ; quinoa, divided ; (360 g) </ingredient>
+    <ingredient num="10">¼ cup ; tahini ; (55 g) </ingredient>
+    <ingredient num="11">½ ; lemon, juiced </ingredient>
+    <ingredient num="12">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="13">½ cup ; salsa, divided ; (130 g) </ingredient>
+    <ingredient num="14">½ cup ; black beans, divided ; (85 g) </ingredient>
+    <ingredient num="15">½ cup ; chickpeas, divided ; (80 g) </ingredient>
+    <ingredient num="16">1 cup ; cherry tomato, divided ; (200 g) </ingredient>
+    <ingredient num="17">1 ; cucumber, sliced, divided </ingredient>
+    <ingredient num="18">1 cup ; lettuce, chopped, divided ; (70 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60754/low_1510173563.m3u8</low>
+    <high>https://vid.tasty.co/output/60754/mp4_720x1280/1510173563</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">In medium bowl, mix the sweet potatoes with olive oil, salt, and pepper. In a separate medium bowl mix the peppers with olive oil, salt, and pepper. </step>
+    <step num="2">Transfer the potatoes and peppers to a parchment paper-lined baking sheet. </step>
+    <step num="3">On a separate piece of parchment paper, place the chicken then add olive oil, garlic, salt and pepper and rub until the chicken is fully coated. </step>
+    <step num="4">Seal the chicken in the parchment paper by folding it in half then twisting the open ends together. </step>
+    <step num="5">Place the chicken onto the baking sheet and bake for 25 minutes. </step>
+    <step num="6">Carefully remove the chicken. On a cutting board, cube the chicken. </step>
+    <step num="7">In a medium bowl add the tahini, garlic, salt, pepper, lemon juice, and water. </step>
+    <step num="8">Mix well then divide the tahini sauce into 2 single-serve containers. </step>
+    <step num="9">Add salsa to 2 single-serve containers. </step>
+    <step num="10">To assemble the chicken burrito bowl, add half of the brown rice, half of the chicken, half of the peppers, half of the black beans, and half of the tomatoes. Serve with salsa. </step>
+    <step num="11">To assemble the vegetarian wrap, add the remaining brown rice, half of the sweet potatoes, half of the peppers, remainder of the black beans, half of the remaining tomatoes, and a whole wheat tortilla. Serve with salsa. </step>
+    <step num="12">To assemble the chicken pita pocket, add half of the quinoa, half of the chicken, half of the chickpeas, remaining tomatoes, half of the cucumbers, ½ of the lettuce, and a whole wheat pita. Serve with tahini sauce. </step>
+    <step num="13">To assemble the vegetarian grain bowl, add remaining quinoa, remaining sweet potatoes, remaining chickpeas, remaining tomatoes, remaining cucumbers, and remaining lettuce. Serve with tahini sauce. </step>
+    <step num="14">Store in fridge for up to one week then remove and reheat when ready to eat. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">In medium bowl, mix the sweet potatoes with olive oil, salt, and pepper. </steps_updated>
+    <steps_updated num="2">In a separate medium bowl mix the peppers with olive oil, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Transfer the potatoes and peppers to a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="4">On a separate piece of parchment paper, place the chicken then add olive oil, garlic, salt and pepper and rub until the chicken is fully coated. </steps_updated>
+    <steps_updated num="5">Seal the chicken in the parchment paper by folding it in half then twisting the open ends together. </steps_updated>
+    <steps_updated num="6">Place the chicken onto the baking sheet and bake for 25 minutes. </steps_updated>
+    <steps_updated num="7">Carefully remove the chicken. </steps_updated>
+    <steps_updated num="8">On a cutting board, cube the chicken. </steps_updated>
+    <steps_updated num="9">In a medium bowl add the tahini, garlic, salt, pepper, lemon juice, and water. </steps_updated>
+    <steps_updated num="10">Mix well then divide the tahini sauce into 2 single-serve containers. </steps_updated>
+    <steps_updated num="11">Add salsa to 2 single-serve containers. </steps_updated>
+    <steps_updated num="12">To assemble the chicken burrito bowl, add half of the brown rice, half of the chicken, half of the peppers, half of the black beans, and half of the tomatoes. </steps_updated>
+    <steps_updated num="13">Serve with salsa. </steps_updated>
+    <steps_updated num="14">To assemble the vegetarian wrap, add the remaining brown rice, half of the sweet potatoes, half of the peppers, remainder of the black beans, half of the remaining tomatoes, and a whole wheat tortilla. </steps_updated>
+    <steps_updated num="15">Serve with salsa. </steps_updated>
+    <steps_updated num="16">To assemble the chicken pita pocket, add half of the quinoa, half of the chicken, half of the chickpeas, remaining tomatoes, half of the cucumbers, ½ of the lettuce, and a whole wheat pita. </steps_updated>
+    <steps_updated num="17">Serve with tahini sauce. </steps_updated>
+    <steps_updated num="18">To assemble the vegetarian grain bowl, add remaining quinoa, remaining sweet potatoes, remaining chickpeas, remaining tomatoes, remaining cucumbers, and remaining lettuce. </steps_updated>
+    <steps_updated num="19">Serve with tahini sauce. </steps_updated>
+    <steps_updated num="20">Store in fridge for up to one week then remove and reheat when ready to eat. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

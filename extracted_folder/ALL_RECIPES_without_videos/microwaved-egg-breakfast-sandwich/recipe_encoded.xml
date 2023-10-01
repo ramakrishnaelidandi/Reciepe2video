@@ -1,0 +1,51 @@
+<recipe>
+  <title>Microwaved Egg Breakfast Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwaved-egg-breakfast-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-dorm-friendly-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 6216 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">3917 13278 3305 2168 13294 12841 </ingredient>
+    <ingredient num="4">9491 560 1966 </ingredient>
+    <ingredient num="5">6209 2602 560 1966 </ingredient>
+    <ingredient num="6">468 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57773/low_1508773504.m3u8</low>
+    <high>https://vid.tasty.co/output/57773/mp4_720x1280/1508773504</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">4652 11951 6216 669 11951 12703 415 12616 1391 82 13817 12375 </step>
+    <step num="1">8315 11951 13784 </step>
+    <step num="2">5570 11951 12703 210 11951 10503 13817 6506 1391 5994 6118 12 671 </step>
+    <step num="3">264 7990 205 11877 773 </step>
+    <step num="4">2275 11951 10207 11462 10993 10707 1391 11951 4036 9491 468 13817 11467 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">4652 11951 6216 669 11951 12703 415 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="1">8315 11951 13784 </steps_updated>
+    <steps_updated num="2">5570 11951 12703 210 11951 10503 13817 6506 1391 5994 6118 12 671 </steps_updated>
+    <steps_updated num="3">264 7990 205 11877 773 </steps_updated>
+    <steps_updated num="4">2275 11951 10207 11462 </steps_updated>
+    <steps_updated num="5">10993 10707 1391 11951 4036 9491 468 13817 11467 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-04883</start_time>
+    <end_time>05773</end_time>
+  </duration_human>
+</recipe>

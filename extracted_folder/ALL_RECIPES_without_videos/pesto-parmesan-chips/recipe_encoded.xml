@@ -1,0 +1,46 @@
+<recipe>
+  <title>Pesto Parmesan Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-parmesan-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/crispy-cheese-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 3333 109 14538 13278 6898 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 2334 13278 13412 5981 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/72969/hls24_1516125423.m3u8</low>
+    <high>https://vid.tasty.co/output/72969/landscape_720/1516125423</high>
+  </video>
+  <duration>
+    <start_time>40.0</start_time>
+    <end_time>71.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 8999 </step>
+    <step num="1">10950 5994 6389 3624 14511 4120 3220 13810 5078 12610 13817 12375 </step>
+    <step num="2">6877 14538 2373 669 5994 2362 1459 12841 5304 </step>
+    <step num="3">7831 12789 11004 5895 1681 14538 9490 5335 13817 5832 12573 4721 2147 </step>
+    <step num="4">13434 7990 13767 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 8999 </steps_updated>
+    <steps_updated num="1">10950 5994 6389 3624 14511 4120 3220 13810 5078 12610 13817 12375 </steps_updated>
+    <steps_updated num="2">6877 14538 2373 669 5994 2362 1459 12841 5304 </steps_updated>
+    <steps_updated num="3">7831 12789 11004 5895 1681 14538 9490 5335 13817 5832 12573 4721 2147 </steps_updated>
+    <steps_updated num="4">13434 7990 13767 12689 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00996</start_time>
+    <end_time>01717</end_time>
+  </duration_human>
+</recipe>

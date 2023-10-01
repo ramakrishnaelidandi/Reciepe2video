@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pot Pasta Primavera Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-pasta-primavera</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; broth, of your choice ; (960 mL) </ingredient>
+    <ingredient num="1">10 oz ; linguine, uncooked ; (285 g) </ingredient>
+    <ingredient num="2">10 oz ; broccoli floret ; (285 g) </ingredient>
+    <ingredient num="3">1 lb ; asparagus, chopped into 1-inch (2 cm) pieces ; (455 g) </ingredient>
+    <ingredient num="4">1 ; small onion, diced </ingredient>
+    <ingredient num="5">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">1 teaspoon ; olive oil, to taste </ingredient>
+    <ingredient num="10">4 oz ; mushroom, sliced ; (110 g) </ingredient>
+    <ingredient num="11">¼ cup ; heavy whipping cream ; (60 mL) </ingredient>
+    <ingredient num="12">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="13">3 tablespoons ; fresh parsley, finely chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31970/low_1495124952.m3u8</low>
+    <high>https://vid.tasty.co/output/31970/mp4_720x1280/1495124952</high>
+  </video>
+  <steps>
+    <step num="0">In a pot over high heat, combine broth, linguine, broccoli, asparagus, onion, garlic, red pepper flakes, salt, pepper, and olive oil. Stir. </step>
+    <step num="1">Add the mushrooms and bring to a boil. </step>
+    <step num="2">Once at a boil, reduce heat to medium and cook the pasta for 10 minutes, continuously tossing with tongs. </step>
+    <step num="3">Add the heavy cream, parmesan, and parsley, and toss for an additional 3 minutes. </step>
+    <step num="4">If the liquid hasn’t been completely absorbed, let the pasta sit off the heat for an additional few minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a pot over high heat, combine broth, linguine, broccoli, asparagus, onion, garlic, red pepper flakes, salt, pepper, and olive oil. </steps_updated>
+    <steps_updated num="1">Stir. </steps_updated>
+    <steps_updated num="2">Add the mushrooms and bring to a boil. </steps_updated>
+    <steps_updated num="3">Once at a boil, reduce heat to medium and cook the pasta for 10 minutes, continuously tossing with tongs. </steps_updated>
+    <steps_updated num="4">Add the heavy cream, parmesan, and parsley, and toss for an additional 3 minutes. </steps_updated>
+    <steps_updated num="5">If the liquid hasn’t been completely absorbed, let the pasta sit off the heat for an additional few minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

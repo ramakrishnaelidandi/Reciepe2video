@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beans, Rice &amp; Cheese Burritos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beans-rice-cheese-burritos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/freezer-prep-burritos</comp_url>
+  <ingredients>
+    <ingredient num="0">6 ; flour tortillas </ingredient>
+    <ingredient num="1">16 oz ; refried bean, 1 can ; (455 g) </ingredient>
+    <ingredient num="2">1 cup ; spanish rice, cooked ; (230 g) </ingredient>
+    <ingredient num="3">1 cup ; shredded mexican cheese blend ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51861/low_1505233198.m3u8</low>
+    <high>https://vid.tasty.co/output/51861/mp4_720x1280/1505233198</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Assemble the burritos by microwaving the flour tortilla for 20 seconds, and begin to layer burrito starting with refried beans, followed by the cooked rice and cheese. </step>
+    <step num="1">Fold in the left and right sides of the tortilla and roll it up from the bottom, tucking the bottom edge under the filling. Wrap in parchment paper and label. Freeze up to 1 month. </step>
+    <step num="2">To reheat from frozen, wrap the burrito in a damp paper towel and microwave for 2-3 minutes, flipping halfway or until the center is hot. Let stand 1 minute before eating. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Assemble the burritos by microwaving the flour tortilla for 20 seconds, and begin to layer burrito starting with refried beans, followed by the cooked rice and cheese. </steps_updated>
+    <steps_updated num="1">Fold in the left and right sides of the tortilla and roll it up from the bottom, tucking the bottom edge under the filling. </steps_updated>
+    <steps_updated num="2">Wrap in parchment paper and label. </steps_updated>
+    <steps_updated num="3">Freeze up to 1 month. </steps_updated>
+    <steps_updated num="4">To reheat from frozen, wrap the burrito in a damp paper towel and microwave for 2-3 minutes, flipping halfway or until the center is hot. </steps_updated>
+    <steps_updated num="5">Let stand 1 minute before eating. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00829</start_time>
+    <end_time>01309</end_time>
+  </duration_human>
+</recipe>

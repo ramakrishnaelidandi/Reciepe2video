@@ -1,0 +1,59 @@
+<recipe>
+  <title>Spaghetti With Fresh Tomato Sauce Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-with-fresh-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-pasta-dishes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 13402 13278 4563 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">8580 9517 13278 8602 9668 13278 5348 5981 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">10986 560 11567 </ingredient>
+    <ingredient num="6">3917 2605 13278 4617 13538 13278 12462 8007 </ingredient>
+    <ingredient num="7">3917 2605 13278 109 14538 13278 7289 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 6209 749 3962 13278 828 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21045/low_1484761758.m3u8</low>
+    <high>https://vid.tasty.co/output/21045/mp4_720x1280/1484761758</high>
+  </video>
+  <duration>
+    <start_time>157.0</start_time>
+    <end_time>206.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">264 13402 210 2032 10298 12282 1681 10719 3033 10959 8583 3917 2605 12462 9443 371 11951 950 12282 432 5870 </step>
+    <step num="1">4829 11951 13402 9490 10279 7855 8244 5766 210 5994 2597 5687 9670 5376 11484 2597 9815 560 1686 11951 950 1659 9179 11384 13817 7042 13817 6142 1681 13544 10242 1391 82 13817 12375 </step>
+    <step num="2">264 717 573 7990 2933 8927 1681 6665 12418 13817 11136 8177 371 2349 2341 </step>
+    <step num="3">10993 740 11951 13538 13817 2234 5312 560 2864 7990 5966 8927 1681 6851 4709 1391 5994 774 9286 </step>
+    <step num="4">9179 11951 950 560 12313 7280 14473 1391 5994 7463 371 950 12282 13817 1686 560 6798 3557 7990 6285 6620 8927 5833 11951 950 7164 8224 13817 4938 11951 9558 371 11951 9286 </step>
+    <step num="5">9179 11951 109 13817 13952 9179 6646 2192 7463 371 950 13384 5358 10428 7643 1681 11951 14538 9490 5335 573 13817 6851 4709 1391 5994 6873 9286 </step>
+    <step num="6">12633 740 2192 1730 371 950 13384 2658 2363 1681 11951 2260 13751 12313 13218 5940 </step>
+    <step num="7">13494 3482 1391 3141 109 13817 6250 13817 1966 7389 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">264 13402 210 2032 10298 12282 1681 10719 3033 10959 </steps_updated>
+    <steps_updated num="1">8583 3917 2605 12462 9443 371 11951 950 12282 432 5870 </steps_updated>
+    <steps_updated num="2">4829 11951 13402 9490 10279 7855 8244 5766 210 5994 2597 5687 9670 5376 11484 2597 9815 560 1686 11951 950 1659 </steps_updated>
+    <steps_updated num="3">9179 11384 13817 7042 13817 6142 1681 13544 </steps_updated>
+    <steps_updated num="4">10242 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="5">264 717 573 7990 2933 8927 1681 6665 12418 13817 11136 8177 371 2349 2341 </steps_updated>
+    <steps_updated num="6">10993 740 11951 13538 13817 2234 5312 560 2864 7990 5966 8927 1681 6851 4709 1391 5994 774 9286 </steps_updated>
+    <steps_updated num="7">9179 11951 950 560 12313 7280 14473 1391 5994 7463 371 950 12282 13817 1686 560 6798 3557 7990 6285 6620 8927 5833 11951 950 7164 8224 13817 4938 11951 9558 371 11951 9286 </steps_updated>
+    <steps_updated num="8">9179 11951 109 13817 13952 </steps_updated>
+    <steps_updated num="9">9179 6646 2192 7463 371 950 13384 5358 10428 </steps_updated>
+    <steps_updated num="10">7643 1681 11951 14538 9490 5335 573 13817 6851 4709 1391 5994 6873 9286 </steps_updated>
+    <steps_updated num="11">12633 740 2192 1730 371 950 13384 2658 2363 1681 11951 2260 13751 12313 13218 5940 </steps_updated>
+    <steps_updated num="12">13494 3482 1391 3141 109 13817 6250 13817 1966 7389 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

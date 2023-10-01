@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vanilla Black Tea Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-black-tea</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/caffeine-smoothies-to-kickstart-your-day</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; black tea ; (240 mL) </ingredient>
+    <ingredient num="1">½ cup ; almond milk ; (120 mL) </ingredient>
+    <ingredient num="2">1 tablespoon ; vanilla protein powder </ingredient>
+    <ingredient num="3">½ cup ; plain yogurt ; (120 g) </ingredient>
+    <ingredient num="4">1 ; banana, sliced </ingredient>
+    <ingredient num="5">1 cup ; blueberry ; (100 g) </ingredient>
+    <ingredient num="6">2 cups ; ice ; (280 g) </ingredient>
+    <ingredient num="7">sliced almond, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99086/hls24_1529361006.m3u8</low>
+    <high>https://vid.tasty.co/output/99086/landscape_720/1529361006</high>
+  </video>
+  <duration>
+    <start_time>6.0</start_time>
+    <end_time>45.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the black tea, almond milk, protein powder, yogurt, banana, blueberries, and ice to a blender. </step>
+    <step num="1">Blend until smooth. </step>
+    <step num="2">Serve in a glass topped with sliced almonds. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the black tea, almond milk, protein powder, yogurt, banana, blueberries, and ice to a blender. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">Serve in a glass topped with sliced almonds. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thai Green Prawn Noodles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-green-prawn-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/noodles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ lb ; prawn ; (200 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">2 cloves ; garlic </ingredient>
+    <ingredient num="4">1 ; green chili </ingredient>
+    <ingredient num="5">⅔ cup ; peas ; (100 g) </ingredient>
+    <ingredient num="6">3 tablespoons ; thai green curry paste </ingredient>
+    <ingredient num="7">9 oz ; noodle, cooked ; (250 g) </ingredient>
+    <ingredient num="8">lime, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Thai</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11272/low_1475518362.m3u8</low>
+    <high>https://vid.tasty.co/output/11272/mp4_720x1280/1475518362</high>
+  </video>
+  <duration>
+    <start_time>27.3</start_time>
+    <end_time>55.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fry the prawns with salt and pepper until they’ve just turned pink. Take out and set aside. </step>
+    <step num="1">In the same pan, fry the garlic and green chili for a few minutes before stirring in the peas and Thai green curry paste. </step>
+    <step num="2">Add the prawns and noodles and mix together for another couple of minutes. </step>
+    <step num="3">Serve with a little lime juice squeezed over. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fry the prawns with salt and pepper until they’ve just turned pink. </steps_updated>
+    <steps_updated num="1">Take out and set aside. </steps_updated>
+    <steps_updated num="2">In the same pan, fry the garlic and green chili for a few minutes before stirring in the peas and Thai green curry paste. </steps_updated>
+    <steps_updated num="3">Add the prawns and noodles and mix together for another couple of minutes. </steps_updated>
+    <steps_updated num="4">Serve with a little lime juice squeezed over. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00874</start_time>
+    <end_time>01663</end_time>
+  </duration_human>
+</recipe>

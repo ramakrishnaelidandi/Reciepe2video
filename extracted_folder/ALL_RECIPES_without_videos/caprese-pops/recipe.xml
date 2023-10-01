@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caprese Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caprese-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 leaves ; fresh basil </ingredient>
+    <ingredient num="1">5 ; cherry tomatoes </ingredient>
+    <ingredient num="2">5 small balls ; mozzarella cheese, ciliegine </ingredient>
+    <ingredient num="3">balsamic vinegar </ingredient>
+    <ingredient num="4">olive oil </ingredient>
+    <ingredient num="5">coarse salt </ingredient>
+    <ingredient num="6">freshly ground black pepper </ingredient>
+    <ingredient num="7">5 skewers ; small skewer, or long toothpicks for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32042/low_1495124984.m3u8</low>
+    <high>https://vid.tasty.co/output/32042/mp4_720x1280/1495124984</high>
+  </video>
+  <steps>
+    <step num="0">Place a single tomato and mozzarella ball on top of a basil leaf. </step>
+    <step num="1">Wrap the top and bottom of the leaf around the tomato and mozzarella, then thread onto a skewer or long toothpick. </step>
+    <step num="2">Drizzle with balsamic and olive oil and season with salt and pepper. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a single tomato and mozzarella ball on top of a basil leaf. </steps_updated>
+    <steps_updated num="1">Wrap the top and bottom of the leaf around the tomato and mozzarella, then thread onto a skewer or long toothpick. </steps_updated>
+    <steps_updated num="2">Drizzle with balsamic and olive oil and season with salt and pepper. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

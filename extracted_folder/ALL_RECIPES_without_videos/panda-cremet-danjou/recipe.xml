@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Panda Crémet D’anjou Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/panda-cremet-danjou</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-almost-too-cute-to-eat</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; cream cheese, room temperature ; (100 g) </ingredient>
+    <ingredient num="1">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="2">½ cup ; greek yogurt ; (100 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; lemon juice </ingredient>
+    <ingredient num="4">1 tablespoon ; water </ingredient>
+    <ingredient num="5">1 teaspoon ; gelatin </ingredient>
+    <ingredient num="6">½ cup ; heavy cream ; (100 mL) </ingredient>
+    <ingredient num="7">¾ cup ; cereal ; (20 g) </ingredient>
+    <ingredient num="8">50 g ; semisweet chocolate, melted ; 50 g </ingredient>
+    <ingredient num="9">½ cup ; mixed berries, frozen or fresh ; (100 g) </ingredient>
+    <ingredient num="10">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="11">1 tablespoon ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Snacks</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101077/hls24_1530828251.m3u8</low>
+    <high>https://vid.tasty.co/output/101077/landscape_720/1530828251</high>
+  </video>
+  <duration>
+    <start_time>322.333</start_time>
+    <end_time>404.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">To make Crémet d’Anjou, in a microwave-proof ramekin, combine water and gelatin, and mix well. Set aside. </step>
+    <step num="1">In a medium bowl, combine cream cheese and sugar with a hand mixer. </step>
+    <step num="2">Microwave the gelatin mixture for 30 seconds, mix every 15 seconds. Pour the gelatin mixture into the cream cheese mixture. Add Greek yogurt, lemon juice into cream cheese mixture and whisk until smooth. </step>
+    <step num="3">In another bowl, whip heavy cream with a hand mixer until stiff peaks form. Then mix the whipped cream and cream cheese mixture together. </step>
+    <step num="4">Lay a layer of kitchen paper into a ramekin. Scoop the mixture into the kitchen paper then twist the top of the paper and tie it with a rubber ring to drain the mixture. Refrigerate for at least 3 hours. </step>
+    <step num="5">To make the Panda’s face parts, combine chocolate and cereal until they are coated evenly. </step>
+    <step num="6">Line the cereal out onto parchment paper and set aside until set. </step>
+    <step num="7">To make the berry sauce, in a saucepan over a medium heat, combine mixed berries, sugar, and lemon juice. When the sauce comes to a boil, remove from the heat. </step>
+    <step num="8">Put a tablespoon of the sauce on a plate. Remove kitchen paper from harden cheese and place next to sauce. </step>
+    <step num="9">Make up the panda’s face with chocolate coated cereal and leftover chocolate. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To make Crémet d’Anjou, in a microwave-proof ramekin, combine water and gelatin, and mix well. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">In a medium bowl, combine cream cheese and sugar with a hand mixer. </steps_updated>
+    <steps_updated num="3">Microwave the gelatin mixture for 30 seconds, mix every 15 seconds. </steps_updated>
+    <steps_updated num="4">Pour the gelatin mixture into the cream cheese mixture. </steps_updated>
+    <steps_updated num="5">Add Greek yogurt, lemon juice into cream cheese mixture and whisk until smooth. </steps_updated>
+    <steps_updated num="6">In another bowl, whip heavy cream with a hand mixer until stiff peaks form. </steps_updated>
+    <steps_updated num="7">Then mix the whipped cream and cream cheese mixture together. </steps_updated>
+    <steps_updated num="8">Lay a layer of kitchen paper into a ramekin. </steps_updated>
+    <steps_updated num="9">Scoop the mixture into the kitchen paper then twist the top of the paper and tie it with a rubber ring to drain the mixture. </steps_updated>
+    <steps_updated num="10">Refrigerate for at least 3 hours. </steps_updated>
+    <steps_updated num="11">To make the Panda’s face parts, combine chocolate and cereal until they are coated evenly. </steps_updated>
+    <steps_updated num="12">Line the cereal out onto parchment paper and set aside until set. </steps_updated>
+    <steps_updated num="13">To make the berry sauce, in a saucepan over a medium heat, combine mixed berries, sugar, and lemon juice. </steps_updated>
+    <steps_updated num="14">When the sauce comes to a boil, remove from the heat. </steps_updated>
+    <steps_updated num="15">Put a tablespoon of the sauce on a plate. </steps_updated>
+    <steps_updated num="16">Remove kitchen paper from harden cheese and place next to sauce. </steps_updated>
+    <steps_updated num="17">Make up the panda’s face with chocolate coated cereal and leftover chocolate. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

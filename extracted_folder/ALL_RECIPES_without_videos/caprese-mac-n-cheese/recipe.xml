@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caprese Mac ‘N’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caprese-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; elbow macaroni, uncooked ; (455 g) </ingredient>
+    <ingredient num="1">¼ cup ; unsalted butter, 1/2 stick ; (55 g) </ingredient>
+    <ingredient num="2">¼ cup ; all-purpose flour ; (30 g) </ingredient>
+    <ingredient num="3">3 ½ cups ; whole milk ; (840 mL) </ingredient>
+    <ingredient num="4">¼ teaspoon ; paprika </ingredient>
+    <ingredient num="5">1 teaspoon ; ground black pepper, plus more to taste </ingredient>
+    <ingredient num="6">1 teaspoon ; kosher salt, plus more to taste </ingredient>
+    <ingredient num="7">2 cups ; baby spinach ; (80 g) </ingredient>
+    <ingredient num="8">2 cups ; shredded mozzarella cheese, divided ; (200 g) </ingredient>
+    <ingredient num="9">½ lb ; fresh mozzarella cheese, sliced, optional ; (225 g) </ingredient>
+    <ingredient num="10">3 ; small tomatoes, sliced </ingredient>
+    <ingredient num="11">3 tablespoons ; fresh basil, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105919/hls24_1534791116.m3u8</low>
+    <high>https://vid.tasty.co/output/105919/landscape_720/1534791116</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). </step>
+    <step num="1">Bring a large pot of salted water to a boil and cook the pasta according to the package instructions. Drain and transfer to a large bowl. Set aside. </step>
+    <step num="2">In a large cast-iron skillet, melt the butter over low heat until foamy. Add the flour and stir until completely smooth and slightly thickened, about 2 minutes. </step>
+    <step num="3">While stirring, gradually add the milk and cook until the sauce is thickened, about 4 minutes. Season with the paprika, pepper, and salt. </step>
+    <step num="4">Fold in the spinach and stir until wilted. Add 1½ cups (150 g) of shredded mozzarella and stir until completely melted. </step>
+    <step num="5">Add the cooked pasta and stir to coat in the sauce. </step>
+    <step num="6">Sprinkle the remaining shredded mozzarella evenly over the pasta, then top with the fresh mozzarella if using. Arrange the tomato slices on top. </step>
+    <step num="7">Bake until browned and bubbling, about 25 minutes. </step>
+    <step num="8">Top with basil before serving. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Bring a large pot of salted water to a boil and cook the pasta according to the package instructions. </steps_updated>
+    <steps_updated num="2">Drain and transfer to a large bowl. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">In a large cast-iron skillet, melt the butter over low heat until foamy. </steps_updated>
+    <steps_updated num="5">Add the flour and stir until completely smooth and slightly thickened, about 2 minutes. </steps_updated>
+    <steps_updated num="6">While stirring, gradually add the milk and cook until the sauce is thickened, about 4 minutes. </steps_updated>
+    <steps_updated num="7">Season with the paprika, pepper, and salt. </steps_updated>
+    <steps_updated num="8">Fold in the spinach and stir until wilted. </steps_updated>
+    <steps_updated num="9">Add 1½ cups (150 g) of shredded mozzarella and stir until completely melted. </steps_updated>
+    <steps_updated num="10">Add the cooked pasta and stir to coat in the sauce. </steps_updated>
+    <steps_updated num="11">Sprinkle the remaining shredded mozzarella evenly over the pasta, then top with the fresh mozzarella if using. </steps_updated>
+    <steps_updated num="12">Arrange the tomato slices on top. </steps_updated>
+    <steps_updated num="13">Bake until browned and bubbling, about 25 minutes. </steps_updated>
+    <steps_updated num="14">Top with basil before serving. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<recipe>
+  <title>Hearty Vegetable Stew Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hearty-vegetable-stew</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hearty-stews-that-will-fill-you-up</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">13767 643 13278 7905 5938 9325 14432 13278 8148 5981 </ingredient>
+    <ingredient num="2">3917 13278 11091 12384 341 </ingredient>
+    <ingredient num="3">13086 13278 8445 3962 </ingredient>
+    <ingredient num="4">8580 13278 10848 3971 3962 </ingredient>
+    <ingredient num="5">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="6">1580 8071 13278 796 7516 </ingredient>
+    <ingredient num="7">1580 8071 13278 796 9211 </ingredient>
+    <ingredient num="8">1580 8071 13278 7845 </ingredient>
+    <ingredient num="9">13086 9486 13278 9668 30 </ingredient>
+    <ingredient num="10">8580 9486 13278 9721 534 11691 2260 </ingredient>
+    <ingredient num="11">12791 2605 13278 890 13278 1258 5981 </ingredient>
+    <ingredient num="12">9883 2605 13278 5316 8083 13538 13278 10475 8007 </ingredient>
+    <ingredient num="13">4061 9517 13278 8083 6817 341 13278 5065 5981 </ingredient>
+    <ingredient num="14">4061 9517 13278 4168 547 13278 5564 8007 </ingredient>
+    <ingredient num="15">8580 2526 13278 13063 14252 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79256/hls24_1518729800.m3u8</low>
+    <high>https://vid.tasty.co/output/79256/landscape_720/1518729800</high>
+  </video>
+  <duration>
+    <start_time>0.5</start_time>
+    <end_time>62.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 2597 10083 5895 12010 11546 7855 11951 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 14094 13817 2550 7990 6285 2933 11004 5895 1681 6241 371 2349 301 11628 3977 10406 </step>
+    <step num="1">9179 11951 7272 8445 13817 4587 13817 2550 7990 12002 11004 5895 1681 11453 12573 13203 </step>
+    <step num="2">9179 11951 4155 5984 5040 10986 9668 5337 13817 11691 7280 13817 2550 7990 6865 3954 11004 1681 11951 656 12573 11564 </step>
+    <step num="3">9179 11951 890 13817 6142 1681 7568 9456 9179 11951 13538 13817 6142 1681 1954 4341 </step>
+    <step num="4">9179 11951 2274 4168 42 13817 13063 4052 13817 14238 560 5994 11714 10211 11951 7855 560 4531 13817 11779 7990 7759 11004 13328 6601 1681 11951 13233 12573 10306 13817 11951 3155 7312 3152 </step>
+    <step num="5">6054 11951 13063 1550 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 2597 10083 5895 12010 11546 7855 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 5766 10586 560 923 740 11951 14094 13817 2550 7990 6285 2933 11004 5895 1681 6241 371 2349 301 11628 3977 10406 </steps_updated>
+    <steps_updated num="2">9179 11951 7272 8445 13817 4587 13817 2550 7990 12002 11004 5895 1681 11453 12573 13203 </steps_updated>
+    <steps_updated num="3">9179 11951 4155 5984 5040 10986 9668 5337 13817 11691 7280 13817 2550 7990 6865 3954 11004 1681 11951 656 12573 11564 </steps_updated>
+    <steps_updated num="4">9179 11951 890 13817 6142 1681 7568 9456 </steps_updated>
+    <steps_updated num="5">9179 11951 13538 13817 6142 1681 1954 4341 </steps_updated>
+    <steps_updated num="6">9179 11951 2274 4168 42 13817 13063 4052 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="7">10211 11951 7855 560 4531 13817 11779 7990 7759 11004 13328 6601 1681 11951 13233 12573 10306 13817 11951 3155 7312 3152 </steps_updated>
+    <steps_updated num="8">6054 11951 13063 1550 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00052</start_time>
+    <end_time>01509</end_time>
+  </duration_human>
+</recipe>

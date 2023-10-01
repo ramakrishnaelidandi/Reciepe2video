@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Primanti’s Sandwich From Pittsburgh Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/primantis-sandwich-from-pittsburgh</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">soft italian bread </ingredient>
+    <ingredient num="1">8 slices ; capicola </ingredient>
+    <ingredient num="2">1 slice ; provolone cheese </ingredient>
+    <ingredient num="3">1 handful ; french fry </ingredient>
+    <ingredient num="4">1 handful ; coleslaw </ingredient>
+    <ingredient num="5">2 slices ; tomato </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Lunch</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>56.0</start_time>
+    <end_time>80.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Slice the Italian loaf, cutting slices about an inch (2 cm) in thickness. (Make sure the bread is room temperature for the best taste!) </step>
+    <step num="1">Place 8 slices of capicola, all stacked on top of each other, on a pan or griddle. Cook over medium heat for 3-4 minutes. </step>
+    <step num="2">Flip the capicola over and add the provolone cheese. Cook until the cheese melts. </step>
+    <step num="3">Place the capicola and cheese on one slice of bread. </step>
+    <step num="4">Top with fries, coleslaw, tomato slices, and top with the other slice of bread. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the Italian loaf, cutting slices about an inch (2 cm) in thickness. </steps_updated>
+    <steps_updated num="1">(Make sure the bread is room temperature for the best taste!) </steps_updated>
+    <steps_updated num="2">Place 8 slices of capicola, all stacked on top of each other, on a pan or griddle. </steps_updated>
+    <steps_updated num="3">Cook over medium heat for 3-4 minutes. </steps_updated>
+    <steps_updated num="4">Flip the capicola over and add the provolone cheese. </steps_updated>
+    <steps_updated num="5">Cook until the cheese melts. </steps_updated>
+    <steps_updated num="6">Place the capicola and cheese on one slice of bread. </steps_updated>
+    <steps_updated num="7">Top with fries, coleslaw, tomato slices, and top with the other slice of bread. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01741</start_time>
+    <end_time>02419</end_time>
+  </duration_human>
+</recipe>

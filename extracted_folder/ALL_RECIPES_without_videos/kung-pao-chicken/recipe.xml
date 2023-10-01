@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Kung Pao Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kung-pao-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; chicken breast, chopped ; (455 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="2">1 ; zucchini, diced </ingredient>
+    <ingredient num="3">1 ; red pepper, diced </ingredient>
+    <ingredient num="4">¼ ; peanuts ; 30 g </ingredient>
+    <ingredient num="5">8 ; dried chili pods, dried </ingredient>
+    <ingredient num="6">3 ; garlic cloves </ingredient>
+    <ingredient num="7">1 bunch ; green onion, sliced </ingredient>
+    <ingredient num="8">2 tablespoons ; ginger </ingredient>
+    <ingredient num="9">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="10">1 tablespoon ; sugar </ingredient>
+    <ingredient num="11">1 teaspoon ; rice vinegar </ingredient>
+    <ingredient num="12">2 tablespoons ; water </ingredient>
+    <ingredient num="13">2 tablespoons ; cornstarch </ingredient>
+    <ingredient num="14">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="15">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="16">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="17">1 tablespoon ; rice wine </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26817/low_1489769272.m3u8</low>
+    <high>https://vid.tasty.co/output/26817/mp4_720x1280/1489769272</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, combine chicken with all the marinade ingredients in a bowl. Let marinate for at least 10 minutes. </step>
+    <step num="1">In an oiled pan, cook chicken on medium-high heat until cooked through on both sides. Remove from pan. </step>
+    <step num="2">Add sesame oil, zucchini, and red pepper, and sauté in pan for 3 minutes. </step>
+    <step num="3">Add peanuts and sauté for another 3 minutes. </step>
+    <step num="4">Add dried chilies, garlic, ginger, and green onion, and sauté until vegetables are tender. </step>
+    <step num="5">Add chicken, soy sauce, rice vinegar, sugar, and cornstarch slurry, and sauté until well mixed. </step>
+    <step num="6">Garnish with more green onion and serve with rice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, combine chicken with all the marinade ingredients in a bowl. </steps_updated>
+    <steps_updated num="1">Let marinate for at least 10 minutes. </steps_updated>
+    <steps_updated num="2">In an oiled pan, cook chicken on medium-high heat until cooked through on both sides. </steps_updated>
+    <steps_updated num="3">Remove from pan. </steps_updated>
+    <steps_updated num="4">Add sesame oil, zucchini, and red pepper, and sauté in pan for 3 minutes. </steps_updated>
+    <steps_updated num="5">Add peanuts and sauté for another 3 minutes. </steps_updated>
+    <steps_updated num="6">Add dried chilies, garlic, ginger, and green onion, and sauté until vegetables are tender. </steps_updated>
+    <steps_updated num="7">Add chicken, soy sauce, rice vinegar, sugar, and cornstarch slurry, and sauté until well mixed. </steps_updated>
+    <steps_updated num="8">Garnish with more green onion and serve with rice. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

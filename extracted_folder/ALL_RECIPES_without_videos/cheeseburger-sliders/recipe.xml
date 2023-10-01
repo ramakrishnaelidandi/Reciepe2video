@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheeseburger Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheeseburger-sliders</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sliders-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; ground beef ; (905 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">2 teaspoons ; pepper </ingredient>
+    <ingredient num="3">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="4">½ ; white onion, diced </ingredient>
+    <ingredient num="5">6 slices ; cheddar cheese </ingredient>
+    <ingredient num="6">12 ; dinner rolls, or hawaiian sweet rolls </ingredient>
+    <ingredient num="7">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="8">1 tablespoon ; sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28925/low_1491942453.m3u8</low>
+    <high>https://vid.tasty.co/output/28925/mp4_720x1280/1491942453</high>
+  </video>
+  <duration>
+    <start_time>68.5</start_time>
+    <end_time>99.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (175°C). </step>
+    <step num="1">Combine the beef, salt, pepper, and garlic powder in a 9x13-inch (23x33-cm) rimmed baking dish, mixing thoroughly, then pressing into a flat, even layer. Bake for 20 minutes. Drain the liquid and set the cooked beef aside. </step>
+    <step num="2">Slice the rolls in half lengthwise. Place the bottom half in the same baking dish. Place the cooked beef on the rolls, followed by the onions and cheese. Top with the remaining rolls. </step>
+    <step num="3">Brush the tops of the rolls with melted butter and sprinkle the sesame seeds on top. Bake for 20 minutes, or until the bread is golden brown and the cheese is melted. </step>
+    <step num="4">Slice into individual sliders, then serve. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="1">Combine the beef, salt, pepper, and garlic powder in a 9 x 13-inch (22 x 33-cm) rimmed baking dish, mixing thoroughly, then pressing into a flat, even layer. </steps_updated>
+    <steps_updated num="2">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="3">Drain the liquid and set the cooked beef aside. </steps_updated>
+    <steps_updated num="4">Slice the rolls in half lengthwise. </steps_updated>
+    <steps_updated num="5">Place the bottom half in the same baking dish. </steps_updated>
+    <steps_updated num="6">Place the cooked beef on the rolls, followed by the onions and cheese. </steps_updated>
+    <steps_updated num="7">Top with the remaining rolls. </steps_updated>
+    <steps_updated num="8">Brush the tops of the rolls with melted butter and sprinkle the sesame seeds on top. </steps_updated>
+    <steps_updated num="9">Bake for 20 minutes, or until the bread is golden brown and the cheese is melted. </steps_updated>
+    <steps_updated num="10">Slice into individual sliders, then serve. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02116</start_time>
+    <end_time>02980</end_time>
+  </duration_human>
+</recipe>

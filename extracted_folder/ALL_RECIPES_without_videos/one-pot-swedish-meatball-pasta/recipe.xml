@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pot Swedish Meatball Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-swedish-meatball-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">½ cup ; seasoned bread crumbs ; (55 g) </ingredient>
+    <ingredient num="2">½ ; onion, finely minced </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">½ tablespoon ; salt, for meatballs </ingredient>
+    <ingredient num="5">½ tablespoon ; pepper, for meatballs </ingredient>
+    <ingredient num="6">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="7">2 cups ; beef broth ; (480 mL) </ingredient>
+    <ingredient num="8">2 cups ; milk ; (480 mL) </ingredient>
+    <ingredient num="9">½ tablespoon ; salt, for sauce </ingredient>
+    <ingredient num="10">½ tablespoon ; pepper, for souce </ingredient>
+    <ingredient num="11">1 tablespoon ; worcestershire sauce </ingredient>
+    <ingredient num="12">4 cups ; egg noodle ; (400 g) </ingredient>
+    <ingredient num="13">1 cup ; shredded parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="14">½ cup ; fresh parsley, chopped ; (15 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31947/low_1495124918.m3u8</low>
+    <high>https://vid.tasty.co/output/31947/mp4_720x1280/1495124918</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine the ground beef, breadcrumbs, onion, egg, salt, and pepper, mixing until evenly combined. </step>
+    <step num="1">Heat the canola oil in a pot over medium-high heat. Take about a golf-ball size of the meatball mixture and roll it into balls. Place the meatballs into the pot, cooking for one minute. Flip the meatballs. </step>
+    <step num="2">Add the beef broth, milk, salt, pepper, and Worcestershire sauce and give it a stir. </step>
+    <step num="3">Bring the liquid to a boil, then add the egg noodles. Stir constantly until the pasta is cooked and the liquid has reduced to a sauce that coats the noodles, about seven to eight minutes. </step>
+    <step num="4">Add the parmesan and the parsley, stirring until the cheese is melted. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the ground beef, breadcrumbs, onion, egg, salt, and pepper, mixing until evenly combined. </steps_updated>
+    <steps_updated num="1">Heat the canola oil in a pot over medium-high heat. </steps_updated>
+    <steps_updated num="2">Take about a golf-ball size of the meatball mixture and roll it into balls. </steps_updated>
+    <steps_updated num="3">Place the meatballs into the pot, cooking for one minute. </steps_updated>
+    <steps_updated num="4">Flip the meatballs. </steps_updated>
+    <steps_updated num="5">Add the beef broth, milk, salt, pepper, and Worcestershire sauce and give it a stir. </steps_updated>
+    <steps_updated num="6">Bring the liquid to a boil, then add the egg noodles. </steps_updated>
+    <steps_updated num="7">Stir constantly until the pasta is cooked and the liquid has reduced to a sauce that coats the noodles, about seven to eight minutes. </steps_updated>
+    <steps_updated num="8">Add the parmesan and the parsley, stirring until the cheese is melted. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

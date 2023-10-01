@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry-lemon Slushie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-lemon-slushie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/slushies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; blueberry ; (100 g) </ingredient>
+    <ingredient num="1">1 ; lemon, juiced </ingredient>
+    <ingredient num="2">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="3">2 cups ; ice ; (430 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33030/low_1496163388.m3u8</low>
+    <high>https://vid.tasty.co/output/33030/mp4_720x1280/1496163388</high>
+  </video>
+  <duration>
+    <start_time>51.0</start_time>
+    <end_time>67.89</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour all ingredients into a blender and blend until smooth. </step>
+    <step num="1">Garnish with a lemon slice. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour all ingredients into a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">Garnish with a lemon slice. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01574</start_time>
+    <end_time>02043</end_time>
+  </duration_human>
+</recipe>

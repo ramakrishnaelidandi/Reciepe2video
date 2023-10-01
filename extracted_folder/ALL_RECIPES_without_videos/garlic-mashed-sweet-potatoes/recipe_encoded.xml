@@ -1,0 +1,45 @@
+<recipe>
+  <title>Garlic Mashed Sweet Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-mashed-sweet-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 10882 13233 </ingredient>
+    <ingredient num="1">8580 9486 13278 9924 13278 1258 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 8640 13033 13278 13125 8007 </ingredient>
+    <ingredient num="3">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">3917 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Sides</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29433/low_1492463441.m3u8</low>
+    <high>https://vid.tasty.co/output/29433/mp4_720x1280/1492463441</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>19.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 13233 560 5994 2597 10083 371 10298 2019 5570 11770 13605 7855 13817 14238 560 5994 11714 264 1681 1514 1910 6285 666 12689 </step>
+    <step num="1">10236 8414 13817 12833 13233 1681 6665 3313 5994 6873 7799 </step>
+    <step num="2">9179 374 11907 560 12833 13817 10968 560 502 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 13233 560 5994 2597 10083 371 10298 2019 </steps_updated>
+    <steps_updated num="1">5570 11770 13605 7855 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="2">264 1681 1514 1910 6285 666 12689 </steps_updated>
+    <steps_updated num="3">10236 8414 13817 12833 13233 1681 6665 3313 5994 6873 7799 </steps_updated>
+    <steps_updated num="4">9179 374 11907 560 12833 13817 10968 560 502 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00593</end_time>
+  </duration_human>
+</recipe>

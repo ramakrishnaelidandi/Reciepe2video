@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Banana Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-banana-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-pancakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; ripe bananas </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="3">½ cup ; quick-cook oats ; (70 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; cinnamon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27116/low_1490138212.m3u8</low>
+    <high>https://vid.tasty.co/output/27116/mp4_720x1280/1490138212</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>26.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mash bananas in a large bowl until smooth. Mix in eggs and vanilla until well combined, then mix in oats and cinnamon. </step>
+    <step num="1">Heat a skillet to medium and add in a scoop* of the pancake batter. Smooth out to form an even layer. Cook for about 2-3 minutes until you start to see bubbles releasing from the top of the batter. Flip and cook until the other side is golden brown, about 1-2 minutes. </step>
+    <step num="2">Garnish your pancakes with your favorite toppings! We used banana slices, chopped walnuts &amp; maple syrup. </step>
+    <step num="3">Enjoy! </step>
+    <step num="4">*Note: Use ½ cup for scooping the batter to yield 4 thicker pancakes; Use ⅓ cup to yield 6 smaller pancakes. </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mash bananas in a large bowl until smooth. </steps_updated>
+    <steps_updated num="1">Mix in eggs and vanilla until well combined, then mix in oats and cinnamon. </steps_updated>
+    <steps_updated num="2">Heat a skillet to medium and add in a scoop* of the pancake batter. </steps_updated>
+    <steps_updated num="3">Smooth out to form an even layer. </steps_updated>
+    <steps_updated num="4">Cook for about 2-3 minutes until you start to see bubbles releasing from the top of the batter. </steps_updated>
+    <steps_updated num="5">Flip and cook until the other side is golden brown, about 1-2 minutes. </steps_updated>
+    <steps_updated num="6">Garnish your pancakes with your favorite toppings! We used banana slices, chopped walnuts &amp; maple syrup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+    <steps_updated num="8">*Note: Use ½ cup for scooping the batter to yield 4 thicker pancakes; Use ⅓ cup to yield 6 smaller pancakes. </steps_updated>
+  </steps_updated>
+</recipe>

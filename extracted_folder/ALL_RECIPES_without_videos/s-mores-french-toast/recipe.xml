@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>S'mores French Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/s-mores-french-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/french-toast-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 slices ; bread </ingredient>
+    <ingredient num="1">1 tablespoon ; butter </ingredient>
+    <ingredient num="2">4 crackers ; graham cracker, crushed </ingredient>
+    <ingredient num="3">egg, 4 </ingredient>
+    <ingredient num="4">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="5">1 tablespoon ; vanilla </ingredient>
+    <ingredient num="6">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="7">2 tablespoons ; chocolate, or chocolate-hazelnut spread, melted </ingredient>
+    <ingredient num="8">2 tablespoons ; marshmallow fluff </ingredient>
+    <ingredient num="9">mini marshmallow </ingredient>
+    <ingredient num="10">chocolate syrup </ingredient>
+    <ingredient num="11">mini chocolate chips, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/40734/low_1498787327.m3u8</low>
+    <high>https://vid.tasty.co/output/40734/mp4_720x1280/1498787327</high>
+  </video>
+  <duration>
+    <start_time>29.0</start_time>
+    <end_time>50.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Whisk eggs, cinnamon, vanilla and milk together in medium-large bowl to create egg wash. </step>
+    <step num="1">Crush graham crackers into crumbs. </step>
+    <step num="2">Dunk bread in egg wash then cover in crumbs until evenly coated. </step>
+    <step num="3">Melt butter in a skillet on medium-low heat and cook bread for 2-3 minutes or until crumbs are crispy and bread is more solid. </step>
+    <step num="4">Once you flip them over once spread fluff on one slice and melted chocolate on the other. </step>
+    <step num="5">Press slices together and stack. </step>
+    <step num="6">Garnish with mini marshmallows, mini chocolate chips (optional) and chocolate syrup. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk eggs, cinnamon, vanilla and milk together in medium-large bowl to create egg wash. </steps_updated>
+    <steps_updated num="1">Crush graham crackers into crumbs. </steps_updated>
+    <steps_updated num="2">Dunk bread in egg wash then cover in crumbs until evenly coated. </steps_updated>
+    <steps_updated num="3">Melt butter in a skillet on medium-low heat and cook bread for 2-3 minutes or until crumbs are crispy and bread is more solid. </steps_updated>
+    <steps_updated num="4">Once you flip them over once spread fluff on one slice and melted chocolate on the other. </steps_updated>
+    <steps_updated num="5">Press slices together and stack. </steps_updated>
+    <steps_updated num="6">Garnish with mini marshmallows, mini chocolate chips (optional) and chocolate syrup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00892</start_time>
+    <end_time>01517</end_time>
+  </duration_human>
+</recipe>

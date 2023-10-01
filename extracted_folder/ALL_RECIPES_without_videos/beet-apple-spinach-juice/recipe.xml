@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beet Apple Spinach Juice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beet-apple-spinach-juice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-packed-juices</comp_url>
+  <ingredients>
+    <ingredient num="0">3 stalks ; celery, diced </ingredient>
+    <ingredient num="1">1 ; gala apple, cored and diced </ingredient>
+    <ingredient num="2">2 cups ; beet, diced ; (400 g) </ingredient>
+    <ingredient num="3">3 cups ; spinach ; (120 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102625/hls24_1532112993.m3u8</low>
+    <high>https://vid.tasty.co/output/102625/landscape_720/1532112993</high>
+  </video>
+  <duration>
+    <start_time>46.333</start_time>
+    <end_time>71.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the celery, apple, beets, and spinach to a blender, and blend until smooth. </step>
+    <step num="1">Using a mesh strainer, strain the juice over a large liquid measuring cup to remove the pulp. Use a spoon to help stir the pulp and press out the liquid. Reserve the pulp to make pulp muffins. </step>
+    <step num="2">Chill the juice for at least 30 minutes (and keep up to 3 days). </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the celery, apple, beets, and spinach to a blender, and blend until smooth. </steps_updated>
+    <steps_updated num="1">Using a mesh strainer, strain the juice over a large liquid measuring cup to remove the pulp. </steps_updated>
+    <steps_updated num="2">Use a spoon to help stir the pulp and press out the liquid. </steps_updated>
+    <steps_updated num="3">Reserve the pulp to make pulp muffins. </steps_updated>
+    <steps_updated num="4">Chill the juice for at least 30 minutes (and keep up to 3 days). </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

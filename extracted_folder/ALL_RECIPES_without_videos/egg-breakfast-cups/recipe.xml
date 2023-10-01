@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Egg Breakfast Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/egg-breakfast-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; eggs </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">spinach, chopped </ingredient>
+    <ingredient num="4">tomato, diced </ingredient>
+    <ingredient num="5">onion, diced fine </ingredient>
+    <ingredient num="6">bell pepper, diced fine </ingredient>
+    <ingredient num="7">broccoli, cut into small florets </ingredient>
+    <ingredient num="8">parmesan cheese </ingredient>
+    <ingredient num="9">cheddar cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20779/low_1484351132.m3u8</low>
+    <high>https://vid.tasty.co/output/20779/mp4_720x1280/1484351132</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">In a measuring cup, beat the eggs until smooth. Set aside. </step>
+    <step num="2">In a greased muffin tin, place your desired combination of fillings into each muffin cup. </step>
+    <step num="3">Season each cup with salt and pepper. </step>
+    <step num="4">Pour the beaten eggs into each muffin cup until the liquid almost reaches the top. </step>
+    <step num="5">Bake for 20 minutes, until set. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a measuring cup, beat the eggs until smooth. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">In a greased muffin tin, place your desired combination of fillings into each muffin cup. </steps_updated>
+    <steps_updated num="4">Season each cup with salt and pepper. </steps_updated>
+    <steps_updated num="5">Pour the beaten eggs into each muffin cup until the liquid almost reaches the top. </steps_updated>
+    <steps_updated num="6">Bake for 20 minutes, until set. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

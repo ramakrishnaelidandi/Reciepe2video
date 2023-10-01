@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Raspeary Baby Food (7+ Months) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspeary-baby-food-7-months</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-baby-food-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; pears, peeled and steamed </ingredient>
+    <ingredient num="1">6 oz ; raspberry, washed well ; (170 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43713/low_1500068256.m3u8</low>
+    <high>https://vid.tasty.co/output/43713/mp4_720x1280/1500068256</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Steam pears and allow to cool. </step>
+    <step num="1">Add pears and raspberries to a blender or food processor. Blend very well, until seeds are broken down. </step>
+    <step num="2">Refrigerate up to 3 days or freeze up to 1 month. </step>
+    <step num="3">NOTE: Check with your pediatrician before introducing new foods to children under 12 months. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Steam pears and allow to cool. </steps_updated>
+    <steps_updated num="1">Add pears and raspberries to a blender or food processor. </steps_updated>
+    <steps_updated num="2">Blend very well, until seeds are broken down. </steps_updated>
+    <steps_updated num="3">Refrigerate up to 3 days or freeze up to 1 month. </steps_updated>
+    <steps_updated num="4">NOTE: Check with your pediatrician before introducing new foods to children under 12 months. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00089</start_time>
+    <end_time>00364</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Alfredo Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-alfredo-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; pizza dough </ingredient>
+    <ingredient num="1">3 tablespoons ; alfredo sauce </ingredient>
+    <ingredient num="2">½ cup ; mozzarella cheese ; (60 g) </ingredient>
+    <ingredient num="3">½ cup ; cooked chicken ; (70 g) </ingredient>
+    <ingredient num="4">1 ; roma tomato, cubed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12155/low_1476478095.m3u8</low>
+    <high>https://vid.tasty.co/output/12155/mp4_720x1280/1476478095</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450°F (230°C). </step>
+    <step num="1">Roll out dough to about 10 - 12 inches (25-30 cm) in diameter. </step>
+    <step num="2">Top pizza with alfredo sauce, chicken, and tomatoes. </step>
+    <step num="3">Bake in oven for 15-20 minutes, or until crust is crispy and cheese is melted and 5. turning golden brown. </step>
+    <step num="4">Garnish with parsley and cut into 8 slices. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450°F (230°C). </steps_updated>
+    <steps_updated num="1">Roll out dough to about 10 - 12 inches (25-30 cm) in diameter. </steps_updated>
+    <steps_updated num="2">Top pizza with alfredo sauce, chicken, and tomatoes. </steps_updated>
+    <steps_updated num="3">Bake in oven for 15-20 minutes, or until crust is crispy and cheese is melted and 5. turning golden brown. </steps_updated>
+    <steps_updated num="4">Garnish with parsley and cut into 8 slices. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

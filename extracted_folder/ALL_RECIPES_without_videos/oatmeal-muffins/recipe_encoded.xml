@@ -1,0 +1,57 @@
+<recipe>
+  <title>Oatmeal Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/oatmeal-muffins</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-muffin-tin-breakfasts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 959 </ingredient>
+    <ingredient num="1">3917 13278 6216 </ingredient>
+    <ingredient num="2">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="3">1580 2605 13278 638 5802 13278 2935 8007 </ingredient>
+    <ingredient num="4">12791 2605 13278 9171 6818 13278 13412 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 9767 3713 13278 9018 5981 </ingredient>
+    <ingredient num="6">3917 1580 9517 13278 952 1967 13278 757 5981 </ingredient>
+    <ingredient num="7">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="8">3917 8071 13278 12425 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">13098 976 </ingredient>
+    <ingredient num="11">1421 </ingredient>
+    <ingredient num="12">12545 976 </ingredient>
+    <ingredient num="13">5475 4680 8086 </ingredient>
+    <ingredient num="14">9139 3962 </ingredient>
+    <ingredient num="15">796 2467 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28808/low_1491846108.m3u8</low>
+    <high>https://vid.tasty.co/output/28808/mp4_720x1280/1491846108</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>34.39</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 9988 8999 </step>
+    <step num="1">10641 959 210 5994 2597 12377 1681 6873 13817 10968 210 8554 6118 295 12473 210 5316 11907 1681 4386 10453 </step>
+    <step num="2">1083 4428 669 2362 12841 2860 11539 10763 2141 6285 3591 11177 </step>
+    <step num="3">13494 10763 12841 1391 7857 </step>
+    <step num="4">7831 7990 6285 238 8927 5895 1681 5994 7462 4150 2696 7179 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">10641 959 210 5994 2597 12377 1681 6873 13817 10968 210 8554 6118 295 </steps_updated>
+    <steps_updated num="2">12473 210 5316 11907 1681 4386 10453 </steps_updated>
+    <steps_updated num="3">1083 4428 669 2362 12841 2860 11539 10763 2141 6285 3591 11177 </steps_updated>
+    <steps_updated num="4">13494 10763 12841 1391 7857 </steps_updated>
+    <steps_updated num="5">7831 7990 6285 238 8927 5895 1681 5994 7462 4150 2696 7179 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

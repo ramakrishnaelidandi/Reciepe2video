@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pad Thai Carbonara Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pad-thai-carbonara</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hong-thaimee-tasty-story</comp_url>
+  <ingredients>
+    <ingredient num="0">½ lb ; wide rice noodle ; (225 g) </ingredient>
+    <ingredient num="1">¼ cup ; palm sugar ; (50 g) </ingredient>
+    <ingredient num="2">¼ cup ; fish sauce ; (65 g) </ingredient>
+    <ingredient num="3">¼ cup ; tamarind paste ; (55 g) </ingredient>
+    <ingredient num="4">6 oz ; pork belly, cubed ; (170 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; oil </ingredient>
+    <ingredient num="6">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">2 ; shallots, minced </ingredient>
+    <ingredient num="8">1 teaspoon ; pickled turnip, optional </ingredient>
+    <ingredient num="9">1 ; egg </ingredient>
+    <ingredient num="10">4 oz ; tofu, cubed, optional ; (110 g) </ingredient>
+    <ingredient num="11">½ bunch ; green onion, or chinese chives, sliced, plus more for serving </ingredient>
+    <ingredient num="12">½ cup ; bean sprout, plus more for serving ; (50 g) </ingredient>
+    <ingredient num="13">1 ; egg yolk </ingredient>
+    <ingredient num="14">lime, for serving </ingredient>
+    <ingredient num="15">peanuts, for serving </ingredient>
+    <ingredient num="16">red thai chile, diced, for serving, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Brunch</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71654/hls24_1515438443.m3u8</low>
+    <high>https://vid.tasty.co/output/71654/landscape_720/1515438443</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Soak rice noodles in room temperature water 30 minutes prior to cooking. </step>
+    <step num="1">In a small saucepan over medium-high heat, whisk together palm sugar, tamarind paste, and fish sauce. Bring to a boil, reduce heat, and reduce for 5 minutes until the sauce thickens and coats the back of a wooden spoon. Remove sauce from heat and set aside. </step>
+    <step num="2">Heat a cast-iron pan or wok over high heat. </step>
+    <step num="3">Add pork belly and sear for about 3 minutes. </step>
+    <step num="4">Add oil, minced garlic, shallots, and turnips, and stir to incorporate. </step>
+    <step num="5">Move the pork belly to the side of the pan and add the egg. Break the egg up with a spatula or wooden spoon and stir to scramble. </step>
+    <step num="6">Add soaked rice noodles and stir to evenly incorporate all ingredients, stirring for 1 to 2 minutes. </step>
+    <step num="7">Add 2 or 3 tablespoons of the reduced sauce and stir. </step>
+    <step num="8">Add tofu, Chinese chives or green onions, and bean sprouts. Stir to incorporate and remove from heat. </step>
+    <step num="9">When plating, make a divot in the center of the noodles and add the egg yolk. </step>
+    <step num="10">Serve immediately with lime, peanuts, more sprouts and chives, and red chiles, if desired. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak rice noodles in room temperature water 30 minutes prior to cooking. </steps_updated>
+    <steps_updated num="1">In a small saucepan over medium-high heat, whisk together palm sugar, tamarind paste, and fish sauce. </steps_updated>
+    <steps_updated num="2">Bring to a boil, reduce heat, and reduce for 5 minutes until the sauce thickens and coats the back of a wooden spoon. </steps_updated>
+    <steps_updated num="3">Remove sauce from heat and set aside. </steps_updated>
+    <steps_updated num="4">Heat a cast-iron pan or wok over high heat. </steps_updated>
+    <steps_updated num="5">Add pork belly and sear for about 3 minutes. </steps_updated>
+    <steps_updated num="6">Add oil, minced garlic, shallots, and turnips, and stir to incorporate. </steps_updated>
+    <steps_updated num="7">Move the pork belly to the side of the pan and add the egg. </steps_updated>
+    <steps_updated num="8">Break the egg up with a spatula or wooden spoon and stir to scramble. </steps_updated>
+    <steps_updated num="9">Add soaked rice noodles and stir to evenly incorporate all ingredients, stirring for 1 to 2 minutes. </steps_updated>
+    <steps_updated num="10">Add 2 or 3 tablespoons of the reduced sauce and stir. </steps_updated>
+    <steps_updated num="11">Add tofu, Chinese chives or green onions, and bean sprouts. </steps_updated>
+    <steps_updated num="12">Stir to incorporate and remove from heat. </steps_updated>
+    <steps_updated num="13">When plating, make a divot in the center of the noodles and add the egg yolk. </steps_updated>
+    <steps_updated num="14">Serve immediately with lime, peanuts, more sprouts and chives, and red chiles, if desired. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01672</start_time>
+    <end_time>03058</end_time>
+  </duration_human>
+</recipe>

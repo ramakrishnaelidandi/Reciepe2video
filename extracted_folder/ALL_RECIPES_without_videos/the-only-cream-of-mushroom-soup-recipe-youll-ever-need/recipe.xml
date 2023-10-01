@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cream of Mushroom Soup</title>
+  <url>https://tasty.co/recipe/the-only-cream-of-mushroom-soup-recipe-youll-ever-need</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; salted butter </ingredient>
+    <ingredient num="1">1 cup ; medium yellow onion, chopped ; (150 g) </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 cup ; white button mushroom, chopped ; (75 g) </ingredient>
+    <ingredient num="4">1 cup ; cremini mushroom, chopped ; (75 g) </ingredient>
+    <ingredient num="5">1 cup ; shiitake mushroom, chopped ; (75 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper </ingredient>
+    <ingredient num="8">2 tablespoons ; all-purpose flour </ingredient>
+    <ingredient num="9">¼ cup ; white wine ; (60 mg) </ingredient>
+    <ingredient num="10">4 cups ; vegetable stock ; (960 mL) </ingredient>
+    <ingredient num="11">⅓ cup ; heavy cream ; (80 mL) </ingredient>
+    <ingredient num="12">1 sprig ; fresh parsley, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93964/hls24_1526322496.m3u8</low>
+    <high>https://vid.tasty.co/output/93964/landscape_720/1526322496</high>
+  </video>
+  <steps>
+    <step num="0">In a large saucepan over medium-high heat, melt the butter, then add the onion and saute until translucent, 3 minutes. Add the garlic and stir, then cook for 1 more minute. </step>
+    <step num="1">Add the mushrooms, salt, and pepper and cook until they begin to turn golden brown, about 5 minutes. </step>
+    <step num="2">Add the flour and stir to coat the mushrooms, until combined. </step>
+    <step num="3">Add the white wine, stir, and cook until combined, about 1 minute. </step>
+    <step num="4">Add the vegetable stock, stir, and simmer for 15 minutes. </step>
+    <step num="5">Add the heavy cream and stir to combine. </step>
+    <step num="6">Blend soup to your desired consistency with an immersion blender or standing blender. </step>
+    <step num="7">Serve hot, garnished with parsley. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large saucepan over medium-high heat, melt the butter, then add the onion and saute until translucent, 3 minutes. </steps_updated>
+    <steps_updated num="1">Add the garlic and stir, then cook for 1 more minute. </steps_updated>
+    <steps_updated num="2">Add the mushrooms, salt, and pepper and cook until they begin to turn golden brown, about 5 minutes. </steps_updated>
+    <steps_updated num="3">Add the flour and stir to coat the mushrooms, until combined. </steps_updated>
+    <steps_updated num="4">Add the white wine, stir, and cook until combined, about 1 minute. </steps_updated>
+    <steps_updated num="5">Add the vegetable stock, stir, and simmer for 15 minutes. </steps_updated>
+    <steps_updated num="6">Add the heavy cream and stir to combine. </steps_updated>
+    <steps_updated num="7">Blend soup to your desired consistency with an immersion blender or standing blender. </steps_updated>
+    <steps_updated num="8">Serve hot, garnished with parsley. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

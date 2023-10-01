@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 packs ; cinnamon roll, with icing </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">2 tablespoons ; butter </ingredient>
+    <ingredient num="6">2 ; granny smith apples, diced </ingredient>
+    <ingredient num="7">1 cup ; brown sugar, packed ; (220 g) </ingredient>
+    <ingredient num="8">vanilla ice cream, as topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31965/low_1495124965.m3u8</low>
+    <high>https://vid.tasty.co/output/31965/mp4_720x1280/1495124965</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">Cut the cinnamon roll dough into 3 even strips, then cut those strip in 3 pieces, making 9 pieces total per cinnamon roll. Set aside the icing. </step>
+    <step num="2">In a medium bowl, combine eggs, milk, cinnamon, and extract, stirring until smooth. Set aside. </step>
+    <step num="3">In a pan over medium-high heat, combine butter, apples, and brown sugar, cooking until sugar starts to caramelize, about 10 minutes. Remove from heat. </step>
+    <step num="4">Sprinkle the cinnamon roll dough pieces evenly in a 9×9in (23 x 23cm) baking tray. Pour the egg mixture on top, followed by the apples. Drizzle the reserved icing on top. </step>
+    <step num="5">Bake for 25–30 minutes, until golden brown. Serve with ice cream! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Cut the cinnamon roll dough into 3 even strips, then cut those strip in 3 pieces, making 9 pieces total per cinnamon roll. </steps_updated>
+    <steps_updated num="2">Set aside the icing. </steps_updated>
+    <steps_updated num="3">In a medium bowl, combine eggs, milk, cinnamon, and extract, stirring until smooth. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a pan over medium-high heat, combine butter, apples, and brown sugar, cooking until sugar starts to caramelize, about 10 minutes. </steps_updated>
+    <steps_updated num="6">Remove from heat. </steps_updated>
+    <steps_updated num="7">Sprinkle the cinnamon roll dough pieces evenly in a 9×9in (23 x 23cm) baking tray. </steps_updated>
+    <steps_updated num="8">Pour the egg mixture on top, followed by the apples. </steps_updated>
+    <steps_updated num="9">Drizzle the reserved icing on top. </steps_updated>
+    <steps_updated num="10">Bake for 25–30 minutes, until golden brown. </steps_updated>
+    <steps_updated num="11">Serve with ice cream! </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

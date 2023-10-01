@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana French Toast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-french-toast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; butter ; (115 g) </ingredient>
+    <ingredient num="1">¾ cup ; brown sugar ; (150 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">5 ; bananas, sliced </ingredient>
+    <ingredient num="5">8 ; eggs </ingredient>
+    <ingredient num="6">¾ cup ; brown sugar ; (150 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="8">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="9">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="10">1 cup ; heavy cream ; (235 mL) </ingredient>
+    <ingredient num="11">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="12">1 loaf ; french bread, cut into 1 inch (2 1/2 cm) cubes </ingredient>
+    <ingredient num="13">powdered sugar, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10530/low_1474566080.m3u8</low>
+    <high>https://vid.tasty.co/output/10530/mp4_720x1280/1474566080</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Over medium-high heat, melt butter and stir together brown sugar, cinnamon, and vanilla. Bring to a simmer and add the sliced bananas. </step>
+    <step num="2">In a large bowl, whisk 8 eggs, brown sugar, cinnamon, nutmeg, vanilla, heavy cream, and milk. </step>
+    <step num="3">Add the cubes of French bread, and gently stir until the bread has soaked up all the liquid. </step>
+    <step num="4">Pour the bread into a greased 9x13 inch (23x33 cm) baking dish. Top with the banana and sugar glaze. </step>
+    <step num="5">Bake for 45-50 minutes until golden brown and slightly crispy around the edges and top. (Times and temperatures may vary based on oven). </step>
+    <step num="6">Serve with powdered sugar on top. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Over medium-high heat, melt butter and stir together brown sugar, cinnamon, and vanilla. </steps_updated>
+    <steps_updated num="2">Bring to a simmer and add the sliced bananas. </steps_updated>
+    <steps_updated num="3">In a large bowl, whisk 8 eggs, brown sugar, cinnamon, nutmeg, vanilla, heavy cream, and milk. </steps_updated>
+    <steps_updated num="4">Add the cubes of French bread, and gently stir until the bread has soaked up all the liquid. </steps_updated>
+    <steps_updated num="5">Pour the bread into a greased 9x13 inch (23x33 cm) baking dish. </steps_updated>
+    <steps_updated num="6">Top with the banana and sugar glaze. </steps_updated>
+    <steps_updated num="7">Bake for 45-50 minutes until golden brown and slightly crispy around the edges and top. </steps_updated>
+    <steps_updated num="8">(Times and temperatures may vary based on oven). </steps_updated>
+    <steps_updated num="9">Serve with powdered sugar on top. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

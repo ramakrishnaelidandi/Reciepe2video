@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spaghetti With Garlic And Oil Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-with-garlic-and-oil</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pantry-pastas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">salt, to taste </ingredient>
+    <ingredient num="1">½ lb ; spaghetti ; (225 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; extra virgin olive oil </ingredient>
+    <ingredient num="3">4 cloves ; garlic, sliced </ingredient>
+    <ingredient num="4">1 teaspoon ; red chili flakes </ingredient>
+    <ingredient num="5">2 tablespoons ; fresh parsley, finely chopped, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98211/hls24_1528823656.m3u8</low>
+    <high>https://vid.tasty.co/output/98211/landscape_720/1528823656</high>
+  </video>
+  <duration>
+    <start_time>43.0</start_time>
+    <end_time>79.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a large pot of salted water to a boil. Cook the pasta according to package instructions. Save ¼ cup (60 ml) of pasta water, then drain. </step>
+    <step num="1">Add the olive oil and garlic to a large cold sauté pan. Turn the heat to medium-low and slowly heat up until the garlic is fragrant and lightly colored, about 3 minutes. </step>
+    <step num="2">Add the chile flakes and cook for another minute. </step>
+    <step num="3">Add the reserved pasta water and bring to a simmer. Add the cooked spaghetti and parsley, if using. Stir until the pasta is well-coated. Season with salt to taste. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a large pot of salted water to a boil. </steps_updated>
+    <steps_updated num="1">Cook the pasta according to package instructions. </steps_updated>
+    <steps_updated num="2">Save ¼ cup (60 ml) of pasta water, then drain. </steps_updated>
+    <steps_updated num="3">Add the olive oil and garlic to a large cold sauté pan. </steps_updated>
+    <steps_updated num="4">Turn the heat to medium-low and slowly heat up until the garlic is fragrant and lightly colored, about 3 minutes. </steps_updated>
+    <steps_updated num="5">Add the chile flakes and cook for another minute. </steps_updated>
+    <steps_updated num="6">Add the reserved pasta water and bring to a simmer. </steps_updated>
+    <steps_updated num="7">Add the cooked spaghetti and parsley, if using. </steps_updated>
+    <steps_updated num="8">Stir until the pasta is well-coated. </steps_updated>
+    <steps_updated num="9">Season with salt to taste. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

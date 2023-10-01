@@ -1,0 +1,69 @@
+<recipe>
+  <title>Pan-Fried Cabbage Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pan-fried-cabbage-rolls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 2526 13278 2048 </ingredient>
+    <ingredient num="1">1580 2605 13278 11088 5234 13278 11953 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 11088 1946 13278 11953 5981 </ingredient>
+    <ingredient num="3">12791 13278 12384 11588 3962 </ingredient>
+    <ingredient num="4">1580 13278 4036 9917 </ingredient>
+    <ingredient num="5">1813 8071 13278 82 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+    <ingredient num="7">4061 8535 13278 10865 14538 </ingredient>
+    <ingredient num="8">7632 7990 8224 </ingredient>
+    <ingredient num="9">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="10">3917 14014 13278 6885 13356 </ingredient>
+    <ingredient num="11">3917 14014 13278 9924 </ingredient>
+    <ingredient num="12">3917 715 13278 5450 341 9668 13278 5348 5981 </ingredient>
+    <ingredient num="13">12610 560 11567 </ingredient>
+    <ingredient num="14">10986 560 11567 </ingredient>
+    <ingredient num="15">2431 109 13810 7990 7818 </ingredient>
+    <ingredient num="16">6209 11911 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58460/low_1509040105.m3u8</low>
+    <high>https://vid.tasty.co/output/58460/mp4_720x1280/1509040105</high>
+  </video>
+  <steps>
+    <step num="0">764 11951 2048 2526 210 2032 12282 7990 13086 11004 415 10231 7567 560 5994 2597 12377 371 2439 2019 </step>
+    <step num="1">6054 11951 6375 4133 11588 11188 13817 817 5292 </step>
+    <step num="2">10950 5994 13757 14511 4120 11951 11088 10720 11088 20 341 2048 8898 12384 4036 12610 13817 10986 13817 10968 1681 8460 877 669 12645 14311 13330 </step>
+    <step num="3">12595 11951 10865 8535 210 2532 13817 4536 3755 8857 </step>
+    <step num="4">745 10763 13601 371 3061 669 5994 2029 9179 5994 4536 371 14538 560 10763 8050 13817 1978 11951 3061 5412 11951 14538 5833 3557 9490 2043 2582 </step>
+    <step num="5">10838 5994 3061 8050 4255 5994 2048 6638 7475 210 8481 13817 14462 7780 13817 4536 8857 </step>
+    <step num="6">12595 11951 4709 11801 14608 8542 11951 3061 11539 560 4510 5362 1391 11951 374 3061 13817 8113 </step>
+    <step num="7">8889 5994 10222 371 5766 210 5994 13757 5687 11770 13757 2082 9179 5272 13471 13817 7256 7990 13086 11004 1681 870 4255 797 145 </step>
+    <step num="8">426 2048 13471 11770 13817 740 11951 13384 2045 13817 14057 </step>
+    <step num="9">9956 11951 12282 9490 12859 740 11951 5450 8720 4660 13817 2550 7990 13133 12689 </step>
+    <step num="10">10242 1391 82 13817 12375 </step>
+    <step num="11">6252 1391 3220 14538 13817 11911 415 8956 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">764 11951 2048 2526 210 2032 12282 7990 13086 11004 415 10231 7567 560 5994 2597 12377 371 2439 2019 </steps_updated>
+    <steps_updated num="1">6054 11951 6375 4133 11588 11188 13817 817 5292 </steps_updated>
+    <steps_updated num="2">10950 5994 13757 14511 4120 11951 11088 10720 11088 20 341 2048 8898 12384 4036 12610 13817 10986 13817 10968 1681 8460 </steps_updated>
+    <steps_updated num="3">877 669 12645 14311 13330 </steps_updated>
+    <steps_updated num="4">12595 11951 10865 8535 210 2532 13817 4536 3755 8857 </steps_updated>
+    <steps_updated num="5">745 10763 13601 371 3061 669 5994 2029 </steps_updated>
+    <steps_updated num="6">9179 5994 4536 371 14538 560 10763 8050 13817 1978 11951 3061 5412 11951 14538 5833 3557 9490 2043 2582 </steps_updated>
+    <steps_updated num="7">10838 5994 3061 8050 4255 5994 2048 6638 7475 210 8481 13817 14462 7780 13817 4536 8857 </steps_updated>
+    <steps_updated num="8">12595 11951 4709 11801 14608 8542 11951 3061 11539 560 4510 </steps_updated>
+    <steps_updated num="9">5362 1391 11951 374 3061 13817 8113 </steps_updated>
+    <steps_updated num="10">8889 5994 10222 371 5766 210 5994 13757 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="11">9179 5272 13471 13817 7256 7990 13086 11004 1681 870 4255 797 145 </steps_updated>
+    <steps_updated num="12">426 2048 13471 11770 13817 740 11951 13384 2045 13817 14057 </steps_updated>
+    <steps_updated num="13">9956 11951 12282 9490 12859 740 11951 5450 8720 </steps_updated>
+    <steps_updated num="14">4660 13817 2550 7990 13133 12689 </steps_updated>
+    <steps_updated num="15">10242 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="16">6252 1391 3220 14538 13817 11911 415 8956 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

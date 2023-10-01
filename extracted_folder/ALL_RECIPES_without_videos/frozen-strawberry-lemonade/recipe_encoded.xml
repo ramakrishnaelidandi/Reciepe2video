@@ -1,0 +1,38 @@
+<recipe>
+  <title>Frozen Strawberry Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-strawberry-lemonade</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-alcohol-optional-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 3901 3247 13278 3465 8007 </ingredient>
+    <ingredient num="1">11061 13278 7234 2173 13817 7218 7789 3305 13873 7990 4711 </ingredient>
+    <ingredient num="2">1813 2605 13278 2230 2101 5895 13086 3927 585 9443 819 13278 12158 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106659/hls24_1535158158.m3u8</low>
+    <high>https://vid.tasty.co/output/106659/landscape_720/1535158158</high>
+  </video>
+  <duration>
+    <start_time>30.0</start_time>
+    <end_time>51.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">1349 2237 2439 10224 7238 1391 8580 9517 4551 9443 371 11018 13855 7990 7811 767 8580 14329 </step>
+    <step num="1">9179 11951 8758 14159 7234 11951 374 2605 371 3901 13817 2230 3294 560 5994 12027 13817 1279 4255 8283 12398 1681 12119 </step>
+    <step num="2">1083 669 1754 13817 4711 1391 1927 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1349 2237 2439 10224 7238 1391 8580 9517 4551 9443 371 11018 </steps_updated>
+    <steps_updated num="1">13855 7990 7811 767 8580 14329 </steps_updated>
+    <steps_updated num="2">9179 11951 8758 14159 7234 11951 374 2605 371 3901 13817 2230 3294 560 5994 12027 13817 1279 4255 8283 12398 1681 12119 </steps_updated>
+    <steps_updated num="3">1083 669 1754 13817 4711 1391 1927 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

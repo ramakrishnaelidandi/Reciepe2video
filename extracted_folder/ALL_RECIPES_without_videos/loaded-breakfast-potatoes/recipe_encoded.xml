@@ -1,0 +1,46 @@
+<recipe>
+  <title>Loaded Breakfast Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-breakfast-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/weekend-brunch-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 13757 2274 341 </ingredient>
+    <ingredient num="1">1580 13278 12384 3962 </ingredient>
+    <ingredient num="2">13086 9259 13278 7035 3745 13817 885 </ingredient>
+    <ingredient num="3">12791 2605 13278 4985 12384 976 13278 336 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 7845 </ingredient>
+    <ingredient num="6">3917 14014 13278 10176 2634 </ingredient>
+    <ingredient num="7">3917 14014 13278 8244 5766 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22555/low_1485886490.m3u8</low>
+    <high>https://vid.tasty.co/output/22555/mp4_720x1280/1485886490</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>18.92</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">10895 8554 11907 210 5994 5924 2985 8886 1645 10459 10765 3830 13817 10968 7317 </step>
+    <step num="2">7831 7990 238 11004 9309 5452 13767 8927 13817 8956 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">10895 8554 11907 210 5994 5924 2985 8886 1645 10459 10765 3830 13817 10968 7317 </steps_updated>
+    <steps_updated num="2">7831 7990 238 11004 9309 5452 13767 8927 13817 8956 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00652</end_time>
+  </duration_human>
+</recipe>

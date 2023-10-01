@@ -1,0 +1,59 @@
+<recipe>
+  <title>Meatless Sloppy Joes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatless-sloppy-joes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8244 7632 560 11567 </ingredient>
+    <ingredient num="1">1580 13278 13757 11091 12384 341 </ingredient>
+    <ingredient num="2">1580 13278 4985 1466 10986 341 </ingredient>
+    <ingredient num="3">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">1580 8071 13278 13389 11703 </ingredient>
+    <ingredient num="5">1580 8071 13278 3170 </ingredient>
+    <ingredient num="6">1580 8071 13278 9496 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">3917 2605 13278 7960 4168 8393 13278 2685 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 4168 547 13278 7503 8007 </ingredient>
+    <ingredient num="10">13133 643 13278 9668 7280 3917 14138 13278 13345 5981 </ingredient>
+    <ingredient num="11">3917 8071 13278 2991 10646 2260 </ingredient>
+    <ingredient num="12">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="13">3917 8071 13278 1368 4834 </ingredient>
+    <ingredient num="14">8580 2031 13278 11091 6422 </ingredient>
+    <ingredient num="15">4061 13278 11795 9574 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100497/hls24_1530295788.m3u8</low>
+    <high>https://vid.tasty.co/output/100497/landscape_720/1530295788</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 6326 7855 5994 13630 371 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 6334 13817 2550 7990 6865 11004 1681 13203 </step>
+    <step num="1">9179 11951 1466 7845 13817 2550 7990 6646 6865 11004 1681 11951 6334 9490 6470 </step>
+    <step num="2">9179 11951 4155 13389 8117 2670 6958 13817 82 13817 2550 6865 8927 7191 1681 11951 11384 9490 12386 13817 11564 10242 1391 12051 </step>
+    <step num="3">9179 11951 7960 4168 1833 4168 42 13817 9668 2260 13817 6142 3145 1681 4309 4660 13817 2550 7990 13133 11004 1681 6241 371 11951 881 7312 3977 4341 </step>
+    <step num="4">6054 11951 5378 13817 740 11951 5050 7280 11691 7280 1368 6145 13817 11091 2536 9393 560 4120 13817 2550 7990 199 3954 11004 1681 11951 374 881 7312 3977 4341 </step>
+    <step num="5">12774 4255 11795 13612 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 6326 7855 5994 13630 371 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 5766 10586 560 923 740 11951 6334 13817 2550 7990 6865 11004 1681 13203 </steps_updated>
+    <steps_updated num="2">9179 11951 1466 7845 13817 2550 7990 6646 6865 11004 1681 11951 6334 9490 6470 </steps_updated>
+    <steps_updated num="3">9179 11951 4155 13389 8117 2670 6958 13817 82 13817 2550 6865 8927 7191 1681 11951 11384 9490 12386 13817 11564 </steps_updated>
+    <steps_updated num="4">10242 1391 12051 </steps_updated>
+    <steps_updated num="5">9179 11951 7960 4168 1833 4168 42 13817 9668 2260 13817 6142 3145 1681 4309 </steps_updated>
+    <steps_updated num="6">4660 13817 2550 7990 13133 11004 1681 6241 371 11951 881 7312 3977 4341 </steps_updated>
+    <steps_updated num="7">6054 11951 5378 13817 740 11951 5050 7280 11691 7280 1368 6145 13817 11091 2536 </steps_updated>
+    <steps_updated num="8">9393 560 4120 13817 2550 7990 199 3954 11004 1681 11951 374 881 7312 3977 4341 </steps_updated>
+    <steps_updated num="9">12774 4255 11795 13612 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

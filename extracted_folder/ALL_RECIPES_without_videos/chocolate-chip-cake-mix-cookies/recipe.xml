@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Chip Cake Mix Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-chip-cake-mix-cookies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cake-mix-cookies-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 package ; yellow cake mix </ingredient>
+    <ingredient num="1">1 cup ; chocolate chips ; (175 g) </ingredient>
+    <ingredient num="2">½ cup ; oil ; (120 mL) </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32667/low_1495577713.m3u8</low>
+    <high>https://vid.tasty.co/output/32667/mp4_720x1280/1495577713</high>
+  </video>
+  <duration>
+    <start_time>0.48</start_time>
+    <end_time>22.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine cake mix, chocolate chips, oil, and eggs in a mixing bowl. </step>
+    <step num="1">Using an ice cream scoop or your hand, form golf ball-sized balls of cookie dough and transfer to a parchment paper-lined baking sheet. </step>
+    <step num="2">Bake at 350°F (180°C) for 10-12 minutes. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine cake mix, chocolate chips, oil, and eggs in a mixing bowl. </steps_updated>
+    <steps_updated num="1">Using an ice cream scoop or your hand, form golf ball-sized balls of cookie dough and transfer to a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="2">Bake at 350°F (180°C) for 10-12 minutes. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

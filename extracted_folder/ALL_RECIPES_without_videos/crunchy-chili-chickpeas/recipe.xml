@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Crunchy Chili Chickpeas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crunchy-chili-chickpeas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray, for greasing </ingredient>
+    <ingredient num="1">15 oz ; chickpeas, 1 can ; (425 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="3">¼ teaspoon ; chili powder </ingredient>
+    <ingredient num="4">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">¼ teaspoon ; kosher salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121934/hls24_1546897597.m3u8</low>
+    <high>https://vid.tasty.co/output/121934/landscape_720/1546897597</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 375°F (190°C). Grease a baking sheet with nonstick spray. </step>
+    <step num="1">Drain, rinse, and dry the chickpeas. Spread on the prepared baking sheet in a single layer. </step>
+    <step num="2">Bake the chickpeas for 40-45 minutes, until golden and slightly dry. Remove from the oven and carefully transfer to a medium bowl. Keep the oven on. </step>
+    <step num="3">Add the olive oil, chili powder, garlic powder, and salt. Toss until the chickpeas are well coated. </step>
+    <step num="4">Return the chickpeas to the baking sheet and bake for another 10-15 minutes, until golden brown and crunchy. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Grease a baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="2">Drain, rinse, and dry the chickpeas. </steps_updated>
+    <steps_updated num="3">Spread on the prepared baking sheet in a single layer. </steps_updated>
+    <steps_updated num="4">Bake the chickpeas for 40-45 minutes, until golden and slightly dry. </steps_updated>
+    <steps_updated num="5">Remove from the oven and carefully transfer to a medium bowl. </steps_updated>
+    <steps_updated num="6">Keep the oven on. </steps_updated>
+    <steps_updated num="7">Add the olive oil, chili powder, garlic powder, and salt. </steps_updated>
+    <steps_updated num="8">Toss until the chickpeas are well coated. </steps_updated>
+    <steps_updated num="9">Return the chickpeas to the baking sheet and bake for another 10-15 minutes, until golden brown and crunchy. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

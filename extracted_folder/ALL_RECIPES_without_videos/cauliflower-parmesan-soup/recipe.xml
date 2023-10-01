@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Parmesan Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-parmesan-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-healthy-hearty-fall-soups</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; butter </ingredient>
+    <ingredient num="1">8 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">1 ; onion, chopped </ingredient>
+    <ingredient num="3">2 heads ; cauliflower, riced </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">8 cups ; vegetable broth ; (1.9 L) </ingredient>
+    <ingredient num="7">2 cups ; water ; (470 mL) </ingredient>
+    <ingredient num="8">2 sprigs ; fresh thyme </ingredient>
+    <ingredient num="9">½ cup ; vegetarian parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="10">¼ cup ; fresh chives ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58030/low_1508864010.m3u8</low>
+    <high>https://vid.tasty.co/output/58030/mp4_720x1280/1508864010</high>
+  </video>
+  <duration>
+    <start_time>150.39</start_time>
+    <end_time>195.31</end_time>
+  </duration>
+  <steps>
+    <step num="0">Melt butter on medium heat in a large pot. Add the garlic and onion, and sauté 1-2 minutes until onion is translucent. Stir in salt and pepper. </step>
+    <step num="1">Add the cauliflower, vegetable broth, and water, then stir. </step>
+    <step num="2">Bring to a boil. </step>
+    <step num="3">Add the thyme then cover and reduce to a simmer for 15 minutes. </step>
+    <step num="4">Uncover and remove the thyme. </step>
+    <step num="5">Use an immersion or countertop blender to blend the soup until smooth. </step>
+    <step num="6">Mix in vegetarian Parmesan and chives. </step>
+    <step num="7">Allow to cool 2 minutes then serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt butter on medium heat in a large pot. </steps_updated>
+    <steps_updated num="1">Add the garlic and onion, and sauté 1-2 minutes until onion is translucent. </steps_updated>
+    <steps_updated num="2">Stir in salt and pepper. </steps_updated>
+    <steps_updated num="3">Add the cauliflower, vegetable broth, and water, then stir. </steps_updated>
+    <steps_updated num="4">Bring to a boil. </steps_updated>
+    <steps_updated num="5">Add the thyme then cover and reduce to a simmer for 15 minutes. </steps_updated>
+    <steps_updated num="6">Uncover and remove the thyme. </steps_updated>
+    <steps_updated num="7">Use an immersion or countertop blender to blend the soup until smooth. </steps_updated>
+    <steps_updated num="8">Mix in vegetarian Parmesan and chives. </steps_updated>
+    <steps_updated num="9">Allow to cool 2 minutes then serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04567</start_time>
+    <end_time>05866</end_time>
+  </duration_human>
+</recipe>

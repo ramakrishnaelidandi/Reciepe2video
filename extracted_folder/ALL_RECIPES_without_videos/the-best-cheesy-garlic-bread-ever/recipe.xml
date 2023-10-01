@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Best Cheesy Garlic Bread Ever Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-best-cheesy-garlic-bread-ever</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ stick ; butter, softened </ingredient>
+    <ingredient num="1">⅓ cup ; fresh parsley, finely chopped ; (15 g) </ingredient>
+    <ingredient num="2">⅓ cup ; green onions, sliced ; (50 g) </ingredient>
+    <ingredient num="3">⅓ cup ; fresh oregano, minced ; (15 g) </ingredient>
+    <ingredient num="4">5 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="6">½ cup ; fresh mozzarella cheese, chopped ; (60 g) </ingredient>
+    <ingredient num="7">½ cup ; shredded parmesan cheese ; (50 g) </ingredient>
+    <ingredient num="8">1 ; baguette, 8-inch (20-cm) piece </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44421/low_1500584038.m3u8</low>
+    <high>https://vid.tasty.co/output/44421/mp4_720x1280/1500584038</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">In a bowl, combine the butter, herbs, garlic, and cheese, and mix until smooth. </step>
+    <step num="2">Slice the baguette in half lengthwise, then spread the butter mixture evenly on the cut sides of the baguette. </step>
+    <step num="3">Place the baguette a parchment paper-lined baking sheet and bake for 15 minutes, until cheese is bubbly and starting to brown on the edges. </step>
+    <step num="4">Slice, cool, and serve! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">In a bowl, combine the butter, herbs, garlic, and cheese, and mix until smooth. </steps_updated>
+    <steps_updated num="2">Slice the baguette in half lengthwise, then spread the butter mixture evenly on the cut sides of the baguette. </steps_updated>
+    <steps_updated num="3">Place the baguette a parchment paper-lined baking sheet and bake for 15 minutes, until cheese is bubbly and starting to brown on the edges. </steps_updated>
+    <steps_updated num="4">Slice, cool, and serve! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pink Grapefruit Margaritas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pink-grapefruit-margaritas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 ; ruby red grapefruits </ingredient>
+    <ingredient num="1">6 fl oz ; silver tequila ; (175 mL) </ingredient>
+    <ingredient num="2">sugar, for rim </ingredient>
+    <ingredient num="3">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="4">¼ cup ; sugar ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+    <category num="4">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31928/low_1495124893.m3u8</low>
+    <high>https://vid.tasty.co/output/31928/mp4_720x1280/1495124893</high>
+  </video>
+  <steps>
+    <step num="0">To make the simple syrup, bring the sugar and water to a boil in a saucepan. Wait until they’re completely combined, then set aside to cool. </step>
+    <step num="1">Squeeze the juice out of all the grapefruits, and combine with the tequila and the simple syrup you just made. </step>
+    <step num="2">Wet the rim of your glasses (you can do this with a slice of grapefruit), and dip in sugar. Serve over ice! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To make the simple syrup, bring the sugar and water to a boil in a saucepan. </steps_updated>
+    <steps_updated num="1">Wait until they’re completely combined, then set aside to cool. </steps_updated>
+    <steps_updated num="2">Squeeze the juice out of all the grapefruits, and combine with the tequila and the simple syrup you just made. </steps_updated>
+    <steps_updated num="3">Wet the rim of your glasses (you can do this with a slice of grapefruit), and dip in sugar. </steps_updated>
+    <steps_updated num="4">Serve over ice! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

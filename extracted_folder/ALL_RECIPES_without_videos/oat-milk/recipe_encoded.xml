@@ -1,0 +1,45 @@
+<recipe>
+  <title>Oat Milk Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/oat-milk</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 952 1967 13278 11953 5981 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">3917 8071 13278 1319 9525 2517 </ingredient>
+    <ingredient num="3">8580 13278 11637 5216 2517 </ingredient>
+    <ingredient num="4">4061 9517 13278 12282 13278 10187 1767 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Breakfast</category>
+    <category num="7">Brunch</category>
+    <category num="8">Drinks</category>
+    <category num="9">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/86635/hls24_1522080673.m3u8</low>
+    <high>https://vid.tasty.co/output/86635/landscape_720/1522080673</high>
+  </video>
+  <steps>
+    <step num="0">5570 11951 952 1967 210 5994 12095 </step>
+    <step num="1">9179 82 560 8686 2715 10159 740 11951 1319 10937 11374 11951 9185 11637 5358 10283 7156 </step>
+    <step num="2">9179 11951 12282 13817 1279 4255 8283 7990 3917 6513 </step>
+    <step num="3">7946 1746 11951 881 669 5994 6389 3801 10104 5994 2898 569 </step>
+    <step num="4">12774 6908 5895 173 210 5994 8466 3801 7990 3386 560 13086 2497 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 952 1967 210 5994 12095 </steps_updated>
+    <steps_updated num="1">9179 82 560 8686 </steps_updated>
+    <steps_updated num="2">2715 10159 740 11951 1319 10937 11374 11951 9185 11637 5358 10283 7156 </steps_updated>
+    <steps_updated num="3">9179 11951 12282 13817 1279 4255 8283 7990 3917 6513 </steps_updated>
+    <steps_updated num="4">7946 1746 11951 881 669 5994 6389 3801 10104 5994 2898 569 </steps_updated>
+    <steps_updated num="5">12774 6908 5895 173 210 5994 8466 3801 7990 3386 560 13086 2497 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

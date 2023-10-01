@@ -1,0 +1,78 @@
+<recipe>
+  <title>Scalloped Sweet Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/scalloped-sweet-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lighter-dinner-bakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 10882 2868 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">8580 9517 13278 12384 976 13278 1513 5981 </ingredient>
+    <ingredient num="3">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">13086 9486 13278 3305 2168 890 </ingredient>
+    <ingredient num="5">3917 2605 13278 7983 11899 5895 4168 220 13278 12462 8007 </ingredient>
+    <ingredient num="6">3917 2605 13278 9889 5895 5802 9662 13278 12462 8007 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">8580 2031 13278 6209 5040 3247 </ingredient>
+    <ingredient num="10">3917 1580 9517 13278 9784 13810 3247 13278 757 5981 </ingredient>
+    <ingredient num="11">1580 2605 13278 109 14538 13278 13412 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59421/low_1509559454.m3u8</low>
+    <high>https://vid.tasty.co/output/59421/mp4_720x1280/1509559454</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 312 1610 </step>
+    <step num="1">5209 5994 8103 12205 11951 10882 2868 13817 740 2237 5422 11826 371 8535 560 5994 10765 6325 </step>
+    <step num="2">8889 5994 5687 11770 13757 7855 415 740 11951 8244 14158 </step>
+    <step num="3">9179 6334 415 6805 7990 199 12689 </step>
+    <step num="4">9179 11384 415 6805 7990 6620 12689 </step>
+    <step num="5">9179 890 415 2550 1681 3145 4309 </step>
+    <step num="6">9179 11951 220 415 8341 1681 3145 4309 </step>
+    <step num="7">9179 11951 9889 12610 10986 13817 2532 371 11951 9019 </step>
+    <step num="8">283 1681 3479 415 11779 7990 6620 12689 </step>
+    <step num="9">6054 6781 7855 13817 817 5292 </step>
+    <step num="10">1083 2532 371 11951 13033 2260 4255 10707 371 11951 13950 </step>
+    <step num="11">6252 11951 9784 13817 109 13795 </step>
+    <step num="12">9179 2237 5422 11826 371 2868 8535 4255 143 13494 1391 11951 374 13033 2260 13817 9784 4496 </step>
+    <step num="13">4660 11951 10765 3830 1391 6385 3615 13817 10903 7990 5527 12689 </step>
+    <step num="14">12775 5103 13817 2234 560 10694 7990 5966 12689 </step>
+    <step num="15">6252 1391 11951 374 5040 5358 13218 13817 8956 </step>
+    <step num="16">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1610 </steps_updated>
+    <steps_updated num="1">5209 5994 8103 12205 11951 10882 2868 13817 740 2237 5422 11826 371 8535 560 5994 10765 6325 </steps_updated>
+    <steps_updated num="2">8889 5994 5687 11770 13757 7855 415 740 11951 8244 14158 </steps_updated>
+    <steps_updated num="3">9179 6334 415 6805 7990 199 12689 </steps_updated>
+    <steps_updated num="4">9179 11384 415 6805 7990 6620 12689 </steps_updated>
+    <steps_updated num="5">9179 890 415 2550 1681 3145 4309 </steps_updated>
+    <steps_updated num="6">9179 11951 220 415 8341 1681 3145 4309 </steps_updated>
+    <steps_updated num="7">9179 11951 9889 12610 10986 13817 2532 371 11951 9019 </steps_updated>
+    <steps_updated num="8">283 1681 3479 415 11779 7990 6620 12689 </steps_updated>
+    <steps_updated num="9">6054 6781 7855 13817 817 5292 </steps_updated>
+    <steps_updated num="10">1083 2532 371 11951 13033 2260 4255 10707 371 11951 13950 </steps_updated>
+    <steps_updated num="11">6252 11951 9784 13817 109 13795 </steps_updated>
+    <steps_updated num="12">9179 2237 5422 11826 371 2868 8535 4255 143 </steps_updated>
+    <steps_updated num="13">13494 1391 11951 374 13033 2260 13817 9784 4496 </steps_updated>
+    <steps_updated num="14">4660 11951 10765 3830 1391 6385 3615 13817 10903 7990 5527 12689 </steps_updated>
+    <steps_updated num="15">12775 5103 13817 2234 560 10694 7990 5966 12689 </steps_updated>
+    <steps_updated num="16">6252 1391 11951 374 5040 5358 13218 13817 8956 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-03917</start_time>
+    <end_time>05460</end_time>
+  </duration_human>
+</recipe>

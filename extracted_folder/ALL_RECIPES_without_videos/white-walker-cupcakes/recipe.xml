@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>White Walker Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/white-walker-cupcakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/emmy-s-inspired-cupcakes</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; blue hard candies </ingredient>
+    <ingredient num="1">12 ; green hard candies </ingredient>
+    <ingredient num="2">12 ; vanilla cupcakes </ingredient>
+    <ingredient num="3">3 cups ; cream cheese frosting ; (345 g) </ingredient>
+    <ingredient num="4">¼ cup ; shredded coconut flakes ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107911/hls24_1536098453.m3u8</low>
+    <high>https://vid.tasty.co/output/107911/landscape_720/1536098453</high>
+  </video>
+  <duration>
+    <start_time>91.5</start_time>
+    <end_time>122.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 375˚F (190˚C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Arrange the hard candies on the prepared baking sheet. Bake for 3-4 minutes, or until melted and fused together in a thin layer. Let cool. </step>
+    <step num="2">Once cool to the touch, drop the baking sheet onto a flat surface to break the candy, then separate into large chunks. </step>
+    <step num="3">Add the frosting to a piping bag fitted with a round tip, then pipe onto the cupcakes. Sprinkle coconut flakes over the frosting. Top with the broken candy pieces. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Arrange the hard candies on the prepared baking sheet. </steps_updated>
+    <steps_updated num="3">Bake for 3-4 minutes, or until melted and fused together in a thin layer. </steps_updated>
+    <steps_updated num="4">Let cool. </steps_updated>
+    <steps_updated num="5">Once cool to the touch, drop the baking sheet onto a flat surface to break the candy, then separate into large chunks. </steps_updated>
+    <steps_updated num="6">Add the frosting to a piping bag fitted with a round tip, then pipe onto the cupcakes. </steps_updated>
+    <steps_updated num="7">Sprinkle coconut flakes over the frosting. </steps_updated>
+    <steps_updated num="8">Top with the broken candy pieces. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

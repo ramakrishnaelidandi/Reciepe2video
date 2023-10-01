@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Salmon Dinner Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-salmon-dinner</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-vs-gourmet-salmon-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; potato ; (455 g) </ingredient>
+    <ingredient num="1">olive oil, to taste </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">3 tablespoons ; lemon juice </ingredient>
+    <ingredient num="5">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="7">½ teaspoon ; paprika </ingredient>
+    <ingredient num="8">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="9">½ teaspoon ; dried parsley </ingredient>
+    <ingredient num="10">2 tablespoons ; honey </ingredient>
+    <ingredient num="11">2 ; salmon fillets </ingredient>
+    <ingredient num="12">1 bunch ; asparagus </ingredient>
+    <ingredient num="13">6 slices ; lemon </ingredient>
+    <ingredient num="14">4 sprigs ; fresh thyme </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/53655/low_1506464710.m3u8</low>
+    <high>https://vid.tasty.co/output/53655/mp4_720x1280/1506464710</high>
+  </video>
+  <duration>
+    <start_time>1.8900000000000001</start_time>
+    <end_time>57.74</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C) </step>
+    <step num="1">Add potatoes to a parchment paper-lined baking sheet. </step>
+    <step num="2">Season with olive oil, thyme, salt, and pepper. </step>
+    <step num="3">Bake for 20 minutes. </step>
+    <step num="4">To prepare salmon marinade, combine lemon juice, garlic, onion powder, paprika, thyme, parsley, and honey, and stir until evenly combined. </step>
+    <step num="5">On the same baking tray, push the potatoes to one side of the tray and add salmon and asparagus. </step>
+    <step num="6">Season the salmon and asparagus with olive oil, salt, and pepper. Brush the marinade on the salmon. </step>
+    <step num="7">Top salmon with lemon slices and thyme springs. </step>
+    <step num="8">Bake for 12-14 minutes or until salmon is cooked. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C) </steps_updated>
+    <steps_updated num="1">Add potatoes to a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="2">Season with olive oil, thyme, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="4">To prepare salmon marinade, combine lemon juice, garlic, onion powder, paprika, thyme, parsley, and honey, and stir until evenly combined. </steps_updated>
+    <steps_updated num="5">On the same baking tray, push the potatoes to one side of the tray and add salmon and asparagus. </steps_updated>
+    <steps_updated num="6">Season the salmon and asparagus with olive oil, salt, and pepper. </steps_updated>
+    <steps_updated num="7">Brush the marinade on the salmon. </steps_updated>
+    <steps_updated num="8">Top salmon with lemon slices and thyme springs. </steps_updated>
+    <steps_updated num="9">Bake for 12-14 minutes or until salmon is cooked. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00114</start_time>
+    <end_time>01754</end_time>
+  </duration_human>
+</recipe>

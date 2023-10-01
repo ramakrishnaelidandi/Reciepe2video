@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rainbow Crepe Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-crepe-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 tablespoons ; butter, melted </ingredient>
+    <ingredient num="1">3 cups ; milk ; (710 mL) </ingredient>
+    <ingredient num="2">6 ; eggs </ingredient>
+    <ingredient num="3">2 ¼ cups ; flour ; (280 g) </ingredient>
+    <ingredient num="4">7 tablespoons ; sugar </ingredient>
+    <ingredient num="5">red food coloring </ingredient>
+    <ingredient num="6">orange food coloring </ingredient>
+    <ingredient num="7">yellow food coloring </ingredient>
+    <ingredient num="8">green food coloring </ingredient>
+    <ingredient num="9">blue food coloring </ingredient>
+    <ingredient num="10">purple food coloring </ingredient>
+    <ingredient num="11">6 cups ; whipped cream ; (360 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46981/low_1502402055.m3u8</low>
+    <high>https://vid.tasty.co/output/46981/mp4_720x1280/1502402055</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, whisk flour and sugar. Mix in eggs, then gradually mix in butter and warm milk, alternating between the two. </step>
+    <step num="1">Evenly divide the batter into 6 bowls. Add a few drops of food coloring to each bowl, and whisk until fully incorporated and the batter is colored. </step>
+    <step num="2">On a nonstick skillet over medium heat, pour ⅓ of the purple crepe batter, and tip the pan to cover the entire bottom surface. Cook the crepe begins to gently bubble and cook through, then flip. Repeat until all of the different color crepe batter is used. </step>
+    <step num="3">Stack crepes on top of each other, starting with purple, then blue, green, yellow, orange, and red, with whipped cream between each layer. </step>
+    <step num="4">Cover the crepe cake in whipped cream, so that it’s fully white on the outside. </step>
+    <step num="5">Slice, and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, whisk flour and sugar. </steps_updated>
+    <steps_updated num="1">Mix in eggs, then gradually mix in butter and warm milk, alternating between the two. </steps_updated>
+    <steps_updated num="2">Evenly divide the batter into 6 bowls. </steps_updated>
+    <steps_updated num="3">Add a few drops of food coloring to each bowl, and whisk until fully incorporated and the batter is colored. </steps_updated>
+    <steps_updated num="4">On a nonstick skillet over medium heat, pour ⅓ of the purple crepe batter, and tip the pan to cover the entire bottom surface. </steps_updated>
+    <steps_updated num="5">Cook the crepe begins to gently bubble and cook through, then flip. </steps_updated>
+    <steps_updated num="6">Repeat until all of the different color crepe batter is used. </steps_updated>
+    <steps_updated num="7">Stack crepes on top of each other, starting with purple, then blue, green, yellow, orange, and red, with whipped cream between each layer. </steps_updated>
+    <steps_updated num="8">Cover the crepe cake in whipped cream, so that it’s fully white on the outside. </steps_updated>
+    <steps_updated num="9">Slice, and serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

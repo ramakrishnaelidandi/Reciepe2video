@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Mayonnaise Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-mayonnaise</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; large pasteurized egg, room temperature </ingredient>
+    <ingredient num="1">1 teaspoon ; dry mustard powder </ingredient>
+    <ingredient num="2">1 tablespoon ; distilled white vinegar </ingredient>
+    <ingredient num="3">1 cup ; neutral oil, such as canola or vegetable ; (240 mL) </ingredient>
+    <ingredient num="4">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="5">1 teaspoon ; kosher salt </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/129119/hls24_1554414449.m3u8</low>
+    <high>https://vid.tasty.co/output/129119/landscape_720/1554414449</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, combine the egg, mustard powder, and vinegar. Puree for 1 minute, until pale yellow. </step>
+    <step num="1">With the processor running, very slowly start to add the oil, 1 tablespoon at a time. Once you’ve added half of the oil, add the rest in a slow, steady stream. The mayonnaise should begin to thicken to the consistency of prepared mayo, or a bit looser. Add the lemon juice and salt and pulse to incorporate. </step>
+    <step num="2">Transfer to a clean, airtight container and store in the refrigerator. The mayonnaise should keep for up to 1 week. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, combine the egg, mustard powder, and vinegar. </steps_updated>
+    <steps_updated num="1">Puree for 1 minute, until pale yellow. </steps_updated>
+    <steps_updated num="2">With the processor running, very slowly start to add the oil, 1 tablespoon at a time. </steps_updated>
+    <steps_updated num="3">Once you’ve added half of the oil, add the rest in a slow, steady stream. </steps_updated>
+    <steps_updated num="4">The mayonnaise should begin to thicken to the consistency of prepared mayo, or a bit looser. </steps_updated>
+    <steps_updated num="5">Add the lemon juice and salt and pulse to incorporate. </steps_updated>
+    <steps_updated num="6">Transfer to a clean, airtight container and store in the refrigerator. </steps_updated>
+    <steps_updated num="7">The mayonnaise should keep for up to 1 week. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

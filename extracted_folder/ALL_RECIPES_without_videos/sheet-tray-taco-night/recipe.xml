@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet Tray Taco Night Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-tray-taco-night</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-weeknight-meals-to-make-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="1">1 teaspoon ; ground black pepper </ingredient>
+    <ingredient num="2">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="5">2 lb ; flank steak ; (905 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; extra virgin olive oil, divided </ingredient>
+    <ingredient num="7">1 ; green bell pepper, seeded and sliced </ingredient>
+    <ingredient num="8">1 cup ; mushroom, sliced ; (75 g) </ingredient>
+    <ingredient num="9">1 ; red bell pepper, seeded and sliced </ingredient>
+    <ingredient num="10">1 ; medium red onion, thinly sliced </ingredient>
+    <ingredient num="11">1 head ; broccoli, cut into florets </ingredient>
+    <ingredient num="12">12 ; small corn tortillas </ingredient>
+    <ingredient num="13">½ cup ; greek yogurt ; (140 g) </ingredient>
+    <ingredient num="14">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="15">¼ teaspoon ; lime zest </ingredient>
+    <ingredient num="16">kosher salt, to taste </ingredient>
+    <ingredient num="17">black beans </ingredient>
+    <ingredient num="18">fresh cilantro, chopped </ingredient>
+    <ingredient num="19">pico de gallo </ingredient>
+    <ingredient num="20">corn and black bean salsa </ingredient>
+    <ingredient num="21">shredded cheddar cheese </ingredient>
+    <ingredient num="22">guacamole </ingredient>
+    <ingredient num="23">lime wedge </ingredient>
+    <ingredient num="24">hot sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105979/hls24_1534803703.m3u8</low>
+    <high>https://vid.tasty.co/output/105979/landscape_720/1534803703</high>
+  </video>
+  <duration>
+    <start_time>3.6660000000000004</start_time>
+    <end_time>98.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C) and line two baking sheets with parchment paper. </step>
+    <step num="1">Make the DIY taco seasoning: Mix the salt, pepper, cumin, garlic powder, and chili powder together in a small bowl. </step>
+    <step num="2">Add the flank steak to a baking sheet. Drizzle with 2 teaspoons of olive oil and rub to coat, then sprinkle with 2 teaspoons of the taco seasoning and rub to coat evenly. To the other baking sheet, add the green bell pepper, mushrooms, red bell pepper, red onion, and broccoli. Drizzle with 1 tablespoon of olive oil and sprinkle with 2 teaspoons of taco seasoning. Toss to coat. </step>
+    <step num="3">Wrap the tortillas in foil, add to the baking sheet with veggies, and bake until the vegetables are browned and the steak is cooked to your liking, about 20 minutes. Let rest for 5 minutes, then thinly slice the steak against the grain. </step>
+    <step num="4">Make the lime crema: combine the Greek yogurt, lime juice, and zest in a small bowl. Season with salt. </step>
+    <step num="5">Serve the roasted steak and vegetables with the lime crema and your family's favorite toppings to create a DIY taco bar. </step>
+    <step num="6">Note: Feel free to serve with your family’s favorite toppings to create a taco bar that’ll make everyone happy. </step>
+    <step num="7">*Vegan/Vegetarian Substitution: Omit the steak and serve with 1 cup black beans for added protein. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C) and line two baking sheets with parchment paper. </steps_updated>
+    <steps_updated num="1">Make the DIY taco seasoning: Mix the salt, pepper, cumin, garlic powder, and chili powder together in a small bowl. </steps_updated>
+    <steps_updated num="2">Add the flank steak to a baking sheet. </steps_updated>
+    <steps_updated num="3">Drizzle with 2 teaspoons of olive oil and rub to coat, then sprinkle with 2 teaspoons of the taco seasoning and rub to coat evenly. </steps_updated>
+    <steps_updated num="4">To the other baking sheet, add the green bell pepper, mushrooms, red bell pepper, red onion, and broccoli. </steps_updated>
+    <steps_updated num="5">Drizzle with 1 tablespoon of olive oil and sprinkle with 2 teaspoons of taco seasoning. </steps_updated>
+    <steps_updated num="6">Toss to coat. </steps_updated>
+    <steps_updated num="7">Wrap the tortillas in foil, add to the baking sheet with veggies, and bake until the vegetables are browned and the steak is cooked to your liking, about 20 minutes. </steps_updated>
+    <steps_updated num="8">Let rest for 5 minutes, then thinly slice the steak against the grain. </steps_updated>
+    <steps_updated num="9">Make the lime crema: combine the Greek yogurt, lime juice, and zest in a small bowl. </steps_updated>
+    <steps_updated num="10">Season with salt. </steps_updated>
+    <steps_updated num="11">Serve the roasted steak and vegetables with the lime crema and your family's favorite toppings to create a DIY taco bar. </steps_updated>
+    <steps_updated num="12">Note: Feel free to serve with your family’s favorite toppings to create a taco bar that’ll make everyone happy. </steps_updated>
+    <steps_updated num="13">*Vegan/Vegetarian Substitution: Omit the steak and serve with 1 cup black beans for added protein. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

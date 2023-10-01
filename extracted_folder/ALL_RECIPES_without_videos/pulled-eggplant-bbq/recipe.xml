@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pulled Eggplant BBQ Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pulled-eggplant-bbq</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; medium eggplants </ingredient>
+    <ingredient num="1">1 teaspoon ; cumin </ingredient>
+    <ingredient num="2">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; paprika </ingredient>
+    <ingredient num="5">1 teaspoon ; smoked paprika </ingredient>
+    <ingredient num="6">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="7">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 ½ cups ; vegetarian barbecue sauce ; (435 g) </ingredient>
+    <ingredient num="11">6 ; buns </ingredient>
+    <ingredient num="12">coleslaw, for serving, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">BBQ</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105147/hls24_1534177104.m3u8</low>
+    <high>https://vid.tasty.co/output/105147/landscape_720/1534177104</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200°C). </step>
+    <step num="1">Place the eggplant on a non-stick baking sheet and prick all over with a fork. Bake for 20 minutes, until the skin is wrinkled. Reduce the oven temperature to 180°F (80°C). </step>
+    <step num="2">Transfer the eggplant to a large bowl and cover. Let cool and sweat for 10-15 minutes, until the skin peels off easily, and they are cool enough to handle. </step>
+    <step num="3">Trim the stems from the eggplant and remove the skin completely. Tear the eggplant flesh into thin strips and set aside. </step>
+    <step num="4">In a small bowl, combine the cumin, chili powder, garlic powder, paprika, smoked paprika, cayenne, brown sugar, salt, and pepper and mix well. </step>
+    <step num="5">Add the eggplant strips to a non-stick baking sheet and sprinkle with the spice mix. Mix well with your hands to coat. </step>
+    <step num="6">Bake for 45-50 minutes, until the ends of the eggplant strips start to dry out. </step>
+    <step num="7">Increase the oven temperature to 250°F (120°C) </step>
+    <step num="8">Pour the barbecue sauce over the eggplant and toss well to coat. </step>
+    <step num="9">Bake for 15 minutes more, until the sauce has been absorbed by the eggplant. </step>
+    <step num="10">Pile the eggplant on the buns and top with coleslaw, if desired. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Place the eggplant on a non-stick baking sheet and prick all over with a fork. </steps_updated>
+    <steps_updated num="2">Bake for 20 minutes, until the skin is wrinkled. </steps_updated>
+    <steps_updated num="3">Reduce the oven temperature to 180°F (80°C). </steps_updated>
+    <steps_updated num="4">Transfer the eggplant to a large bowl and cover. </steps_updated>
+    <steps_updated num="5">Let cool and sweat for 10-15 minutes, until the skin peels off easily, and they are cool enough to handle. </steps_updated>
+    <steps_updated num="6">Trim the stems from the eggplant and remove the skin completely. </steps_updated>
+    <steps_updated num="7">Tear the eggplant flesh into thin strips and set aside. </steps_updated>
+    <steps_updated num="8">In a small bowl, combine the cumin, chili powder, garlic powder, paprika, smoked paprika, cayenne, brown sugar, salt, and pepper and mix well. </steps_updated>
+    <steps_updated num="9">Add the eggplant strips to a non-stick baking sheet and sprinkle with the spice mix. </steps_updated>
+    <steps_updated num="10">Mix well with your hands to coat. </steps_updated>
+    <steps_updated num="11">Bake for 45-50 minutes, until the ends of the eggplant strips start to dry out. </steps_updated>
+    <steps_updated num="12">Increase the oven temperature to 250°F (120°C) </steps_updated>
+    <steps_updated num="13">Pour the barbecue sauce over the eggplant and toss well to coat. </steps_updated>
+    <steps_updated num="14">Bake for 15 minutes more, until the sauce has been absorbed by the eggplant. </steps_updated>
+    <steps_updated num="15">Pile the eggplant on the buns and top with coleslaw, if desired. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

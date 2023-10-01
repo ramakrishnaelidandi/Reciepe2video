@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shahi Paneer Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ritu-swasti-s-shahi-paneer</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 tablespoons ; unsalted butter, 1/2 stick </ingredient>
+    <ingredient num="1">2 ; green chillis, sliced </ingredient>
+    <ingredient num="2">1 ; large onion, finely chopped </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic, crushed </ingredient>
+    <ingredient num="4">1 tablespoon ; ginger, crushed </ingredient>
+    <ingredient num="5">1 ½ cups ; tomato puree </ingredient>
+    <ingredient num="6">1 teaspoon ; ground coriander </ingredient>
+    <ingredient num="7">1 tablespoon ; paneer masala </ingredient>
+    <ingredient num="8">1 ; red bell pepper, sliced lengthwise </ingredient>
+    <ingredient num="9">1 teaspoon ; salt, to taste </ingredient>
+    <ingredient num="10">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="11">14 oz ; paneer cheese, 1 block, cubed ; (395 g) </ingredient>
+    <ingredient num="12">fresh cilantro, for garnish </ingredient>
+    <ingredient num="13">naan bread </ingredient>
+    <ingredient num="14">rice, cooked </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93008/hls24_1525740576.m3u8</low>
+    <high>https://vid.tasty.co/output/93008/landscape_720/1525740576</high>
+  </video>
+  <steps>
+    <step num="0">Melt the butter in a 5qt-pot over medium heat. </step>
+    <step num="1">Add chili, and cook for 2-3 minutes, stirring occasionally. Add the onion and saute until translucent, about 5 minutes. Add the crushed garlic and ginger and cook for 2-3 minutes, until fragrant. Stirring occasionally. Reduce the heat to low, cover, and cook until the onion is completely softened, about 10 minutes. Stir occasionally to make sure bottom doesn’t burn. </step>
+    <step num="2">Add the tomato puree. Stir well and cover again. Cook until tomato looks like it’s almost separating, and is reduced in volume by half, about 10 minutes. </step>
+    <step num="3">Add the coriander and paneer masala. Stir well. Add the red bell pepper and cook until the pepper is half-cooked, about 5 minutes. Add the salt, cover again, and cook for another 5 minutes. </step>
+    <step num="4">Add the heavy cream. Stir well, then add the cubed paneer and cover. Cook for 25 minutes all the ingredients are tender. </step>
+    <step num="5">Garnish with cilantro and serve with naan or rice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt the butter in a 5qt-pot over medium heat. </steps_updated>
+    <steps_updated num="1">Add chili, and cook for 2-3 minutes, stirring occasionally. </steps_updated>
+    <steps_updated num="2">Add the onion and saute until translucent, about 5 minutes. </steps_updated>
+    <steps_updated num="3">Add the crushed garlic and ginger and cook for 2-3 minutes, until fragrant. </steps_updated>
+    <steps_updated num="4">Stirring occasionally. </steps_updated>
+    <steps_updated num="5">Reduce the heat to low, cover, and cook until the onion is completely softened, about 10 minutes. </steps_updated>
+    <steps_updated num="6">Stir occasionally to make sure bottom doesn’t burn. </steps_updated>
+    <steps_updated num="7">Add the tomato puree. </steps_updated>
+    <steps_updated num="8">Stir well and cover again. </steps_updated>
+    <steps_updated num="9">Cook until tomato looks like it’s almost separating, and is reduced in volume by half, about 10 minutes. </steps_updated>
+    <steps_updated num="10">Add the coriander and paneer masala. </steps_updated>
+    <steps_updated num="11">Stir well. </steps_updated>
+    <steps_updated num="12">Add the red bell pepper and cook until the pepper is half-cooked, about 5 minutes. </steps_updated>
+    <steps_updated num="13">Add the salt, cover again, and cook for another 5 minutes. </steps_updated>
+    <steps_updated num="14">Add the heavy cream. </steps_updated>
+    <steps_updated num="15">Stir well, then add the cubed paneer and cover. </steps_updated>
+    <steps_updated num="16">Cook for 25 minutes all the ingredients are tender. </steps_updated>
+    <steps_updated num="17">Garnish with cilantro and serve with naan or rice. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

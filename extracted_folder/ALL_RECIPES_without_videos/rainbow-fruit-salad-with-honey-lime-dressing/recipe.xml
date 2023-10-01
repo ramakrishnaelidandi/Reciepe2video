@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rainbow Fruit Salad With Honey Lime Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-fruit-salad-with-honey-lime-dressing</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; fresh strawberry , quartered ; (455 g) </ingredient>
+    <ingredient num="1">4 ; kiwis, peeled and diced </ingredient>
+    <ingredient num="2">2 ; mangoes, diced </ingredient>
+    <ingredient num="3">2 ; bananas, sliced </ingredient>
+    <ingredient num="4">12 oz ; fresh blurberry ; (340 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; honey </ingredient>
+    <ingredient num="6">1 ; lime, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Sides</category>
+    <category num="9">Snacks</category>
+    <category num="10">Casual Party</category>
+    <category num="11">BBQ</category>
+    <category num="12">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22628/low_1485904636.m3u8</low>
+    <high>https://vid.tasty.co/output/22628/mp4_720x1280/1485904636</high>
+  </video>
+  <steps>
+    <step num="0">Quarter the strawberries and place into a large bowl. </step>
+    <step num="1">Dice the mango and place on top of the strawberries. </step>
+    <step num="2">Peel and dice the kiwi. Add into the bowl. </step>
+    <step num="3">Slice bananas and place in the bowl. Add in the blueberries. </step>
+    <step num="4">In a small bowl mix honey and lime juice. </step>
+    <step num="5">Pour syrup over the fruit and mix. Mix well. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Quarter the strawberries and place into a large bowl. </steps_updated>
+    <steps_updated num="1">Dice the mango and place on top of the strawberries. </steps_updated>
+    <steps_updated num="2">Peel and dice the kiwi. </steps_updated>
+    <steps_updated num="3">Add into the bowl. </steps_updated>
+    <steps_updated num="4">Slice bananas and place in the bowl. </steps_updated>
+    <steps_updated num="5">Add in the blueberries. </steps_updated>
+    <steps_updated num="6">In a small bowl mix honey and lime juice. </steps_updated>
+    <steps_updated num="7">Pour syrup over the fruit and mix. </steps_updated>
+    <steps_updated num="8">Mix well. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

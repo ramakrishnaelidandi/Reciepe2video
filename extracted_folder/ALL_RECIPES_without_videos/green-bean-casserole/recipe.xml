@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Green Bean Casserole Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/green-bean-casserole</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-staples-if-you-only-have-a-microwave</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; green beans ; (425 g) </ingredient>
+    <ingredient num="1">15 oz ; cream of mushroom soup ; (425 g) </ingredient>
+    <ingredient num="2">1 cup ; fried onion ; (150 g) </ingredient>
+    <ingredient num="3">scallion, sliced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114497/hls24_1541542908.m3u8</low>
+    <high>https://vid.tasty.co/output/114497/landscape_720/1541542908</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">To an 8-inch (20 cm) microwave-safe pie dish, add the green beans and cream of mushroom soup, then sprinkle the fried onions evenly over the top. </step>
+    <step num="1">Microwave for 5 minutes at half power until onions have become a little crispy. </step>
+    <step num="2">Top with scallions and serve warm. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To an 8-inch (20 cm) microwave-safe pie dish, add the green beans and cream of mushroom soup, then sprinkle the fried onions evenly over the top. </steps_updated>
+    <steps_updated num="1">Microwave for 5 minutes at half power until onions have become a little crispy. </steps_updated>
+    <steps_updated num="2">Top with scallions and serve warm. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00095</start_time>
+    <end_time>00657</end_time>
+  </duration_human>
+</recipe>

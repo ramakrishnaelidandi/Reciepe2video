@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Parm Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parm-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="4">5 ; eggs, divided </ingredient>
+    <ingredient num="5">2 cups ; italian bread crumbs ; (230 g) </ingredient>
+    <ingredient num="6">vegetable oil, for frying </ingredient>
+    <ingredient num="7">2 cups ; ricotta cheese </ingredient>
+    <ingredient num="8">24 oz ; marinara sauce ; (680 g) </ingredient>
+    <ingredient num="9">8 ; lasagna noodles </ingredient>
+    <ingredient num="10">1 ½ cups ; shredded mozzarella cheese </ingredient>
+    <ingredient num="11">1 ½ cups ; shredded parmesan cheese </ingredient>
+    <ingredient num="12">fresh basil, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13401/low_1477934557.m3u8</low>
+    <high>https://vid.tasty.co/output/13401/mp4_720x1280/1477934557</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Cut chicken breasts in half widthwise (pound thin if necessary) and season with salt and pepper. </step>
+    <step num="2">Coat the chicken in flour, egg, and finally in bread crumbs. </step>
+    <step num="3">Heat oil in a cast iron skillet and fry the chicken on both sides until brown (about 4 minutes each side). Set aside. </step>
+    <step num="4">In a bowl, whisk one egg into the ricotta, then set aside. </step>
+    <step num="5">In a casserole dish, spread ⅓ of the jar of marinara on the bottom, top with lasagna noodle overlapping with each noodle. </step>
+    <step num="6">Spread half of the ricotta mixture on top of the noodles and layer with chicken. </step>
+    <step num="7">Top the chicken with ½ cup (50 gram) of mozzarella and a ½ cup (50 gram) of parmesan. </step>
+    <step num="8">Continue layering in the same order and top with remaining cheeses. </step>
+    <step num="9">Cover with foil and bake for 45-60 minutes uncovering the lasagna for the last 10 minutes of baking. </step>
+    <step num="10">Serve with a sprinkle of fresh basil. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Cut chicken breasts in half widthwise (pound thin if necessary) and season with salt and pepper. </steps_updated>
+    <steps_updated num="2">Coat the chicken in flour, egg, and finally in bread crumbs. </steps_updated>
+    <steps_updated num="3">Heat oil in a cast iron skillet and fry the chicken on both sides until brown (about 4 minutes each side). </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a bowl, whisk one egg into the ricotta, then set aside. </steps_updated>
+    <steps_updated num="6">In a casserole dish, spread ⅓ of the jar of marinara on the bottom, top with lasagna noodle overlapping with each noodle. </steps_updated>
+    <steps_updated num="7">Spread half of the ricotta mixture on top of the noodles and layer with chicken. </steps_updated>
+    <steps_updated num="8">Top the chicken with ½ cup (50 gram) of mozzarella and a ½ cup (50 gram) of parmesan. </steps_updated>
+    <steps_updated num="9">Continue layering in the same order and top with remaining cheeses. </steps_updated>
+    <steps_updated num="10">Cover with foil and bake for 45-60 minutes uncovering the lasagna for the last 10 minutes of baking. </steps_updated>
+    <steps_updated num="11">Serve with a sprinkle of fresh basil. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

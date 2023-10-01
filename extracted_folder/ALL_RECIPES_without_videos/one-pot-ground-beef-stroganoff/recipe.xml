@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Ground Beef Stroganoff Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-ground-beef-stroganoff</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">2 cups ; mushrooms, sliced ; (150 g) </ingredient>
+    <ingredient num="2">½ cup ; onion ; (75 g) </ingredient>
+    <ingredient num="3">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 lb ; ground beef ; (225 g) </ingredient>
+    <ingredient num="5">2 teaspoons ; paprika </ingredient>
+    <ingredient num="6">4 cups ; beef stock ; (945 mL) </ingredient>
+    <ingredient num="7">8 oz ; egg noodles, uncooked </ingredient>
+    <ingredient num="8">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="9">1 tablespoon ; cornstarch slurry </ingredient>
+    <ingredient num="10">fresh parsley, for garnish </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32139/low_1495125415.m3u8</low>
+    <high>https://vid.tasty.co/output/32139/mp4_720x1280/1495125415</high>
+  </video>
+  <steps>
+    <step num="0">In a 6-quart Dutch oven, heat olive oil. Add mushrooms and season with salt and pepper. </step>
+    <step num="1">Add the onions and garlic. Cook until onions are translucent. </step>
+    <step num="2">Add the ground beef and cook until brown. Stir in the paprika. </step>
+    <step num="3">Add beef stock and egg noodles. Give it a stir and cover. Simmer for 15-20 minutes. Lower the heat. </step>
+    <step num="4">Add the sour cream and cornstarch slurry. Stir until thickened. </step>
+    <step num="5">Serve and garnish with parsley. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a 6-quart Dutch oven, heat olive oil. </steps_updated>
+    <steps_updated num="1">Add mushrooms and season with salt and pepper. </steps_updated>
+    <steps_updated num="2">Add the onions and garlic. </steps_updated>
+    <steps_updated num="3">Cook until onions are translucent. </steps_updated>
+    <steps_updated num="4">Add the ground beef and cook until brown. </steps_updated>
+    <steps_updated num="5">Stir in the paprika. </steps_updated>
+    <steps_updated num="6">Add beef stock and egg noodles. </steps_updated>
+    <steps_updated num="7">Give it a stir and cover. </steps_updated>
+    <steps_updated num="8">Simmer for 15-20 minutes. </steps_updated>
+    <steps_updated num="9">Lower the heat. </steps_updated>
+    <steps_updated num="10">Add the sour cream and cornstarch slurry. </steps_updated>
+    <steps_updated num="11">Stir until thickened. </steps_updated>
+    <steps_updated num="12">Serve and garnish with parsley. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

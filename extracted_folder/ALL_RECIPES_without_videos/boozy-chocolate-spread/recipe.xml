@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Boozy Chocolate Spread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boozy-chocolate-spread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ⅔ cups ; hazelnut ; (200 g) </ingredient>
+    <ingredient num="1">¾ cup ; double cream ; (200 mL) </ingredient>
+    <ingredient num="2">½ cup ; irish cream liqueur ; (100 mL) </ingredient>
+    <ingredient num="3">7 oz ; milk chocolate, melted ; (200 g) </ingredient>
+    <ingredient num="4">⅓ cup ; icing sugar ; (50 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; cocoa powder </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18502/low_1482171064.m3u8</low>
+    <high>https://vid.tasty.co/output/18502/mp4_720x1280/1482171064</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 180°C (350°F). </step>
+    <step num="1">In a single layer, bake the hazelnuts for 20 minutes. </step>
+    <step num="2">Wrap the hazelnuts in a clean towel and rub vigorously for a few minutes to remove the skins. </step>
+    <step num="3">Pour the hazelnuts into a food processor (discarding the skins) and blend on high. </step>
+    <step num="4">Slowly add the Irish cream liqueur and the double cream. </step>
+    <step num="5">Take off the lid and add the icing sugar, cocoa powder, and melted chocolate, then blend again until smooth. (Unless you have a very good quality food processor, there will be little bits in there - which simply add texture!) </step>
+    <step num="6">Transfer into your favourite jar, where it will keep in the fridge for up to 2 weeks! </step>
+    <step num="7">Spread on crusty bread and crepes, or stir 1 heaped tablespoon into 250 millilitres (1 cup) of warm milk for an indulgent hot chocolate! </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="1">In a single layer, bake the hazelnuts for 20 minutes. </steps_updated>
+    <steps_updated num="2">Wrap the hazelnuts in a clean towel and rub vigorously for a few minutes to remove the skins. </steps_updated>
+    <steps_updated num="3">Pour the hazelnuts into a food processor (discarding the skins) and blend on high. </steps_updated>
+    <steps_updated num="4">Slowly add the Irish cream liqueur and the double cream. </steps_updated>
+    <steps_updated num="5">Take off the lid and add the icing sugar, cocoa powder, and melted chocolate, then blend again until smooth. </steps_updated>
+    <steps_updated num="6">(Unless you have a very good quality food processor, there will be little bits in there - which simply add texture!) </steps_updated>
+    <steps_updated num="7">Transfer into your favourite jar, where it will keep in the fridge for up to 2 weeks! </steps_updated>
+    <steps_updated num="8">Spread on crusty bread and crepes, or stir 1 heaped tablespoon into 250 millilitres (1 cup) of warm milk for an indulgent hot chocolate! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Samoas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-samoas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; butter ; (225 g) </ingredient>
+    <ingredient num="1">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="2">2 cups ; flour, more for dusting ; (250 g) </ingredient>
+    <ingredient num="3">¼ teaspoon ; baking powder </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">2 tablespoons ; milk </ingredient>
+    <ingredient num="6">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">2 cups ; soft caramel ; (400 g) </ingredient>
+    <ingredient num="8">¼ teaspoon ; salt </ingredient>
+    <ingredient num="9">3 tablespoons ; heavy cream </ingredient>
+    <ingredient num="10">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="11">3 cups ; toasted coconut ; (225 g) </ingredient>
+    <ingredient num="12">1 cup ; chocolate, melted ; (175 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31908/low_1495124909.m3u8</low>
+    <high>https://vid.tasty.co/output/31908/mp4_720x1280/1495124909</high>
+  </video>
+  <steps>
+    <step num="0">Cream butter and sugar in a mixing bowl. </step>
+    <step num="1">In a separate bowl, sift together flour, baking powder and salt. </step>
+    <step num="2">Add the dry ingredients to the creamed butter and sugar. Make sure it’s well incorporate, it will have a crumbly texture. </step>
+    <step num="3">Add the milk and vanilla. Bring together and refrigerate for 30 min. </step>
+    <step num="4">Melt the caramel with salt, heavy cream and vanilla in the microwave (2 min). </step>
+    <step num="5">Add the melted caramel to the the toasted coconut. Make sure to save about ¼ cup of the melted caramel. The reserved caramel will be used to ‘glue’ the caramel coconut mix to the cookie. </step>
+    <step num="6">Roll out cookie dough and cut out your cookies. Place on a parchment paper and bake for 10-13 minutes at 350°F (175°C). Set aside to cool down. </step>
+    <step num="7">Once the cookie is cool enough to touch, add some of the reserved caramel to the top, then add a layer of caramel coconut. </step>
+    <step num="8">Dip in melted chocolate and drizzle chocolate over the top. Let chocolate set. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cream butter and sugar in a mixing bowl. </steps_updated>
+    <steps_updated num="1">In a separate bowl, sift together flour, baking powder and salt. </steps_updated>
+    <steps_updated num="2">Add the dry ingredients to the creamed butter and sugar. </steps_updated>
+    <steps_updated num="3">Make sure it’s well incorporate, it will have a crumbly texture. </steps_updated>
+    <steps_updated num="4">Add the milk and vanilla. </steps_updated>
+    <steps_updated num="5">Bring together and refrigerate for 30 min. </steps_updated>
+    <steps_updated num="6">Melt the caramel with salt, heavy cream and vanilla in the microwave (2 min). </steps_updated>
+    <steps_updated num="7">Add the melted caramel to the the toasted coconut. </steps_updated>
+    <steps_updated num="8">Make sure to save about ¼ cup of the melted caramel. </steps_updated>
+    <steps_updated num="9">The reserved caramel will be used to ‘glue’ the caramel coconut mix to the cookie. </steps_updated>
+    <steps_updated num="10">Roll out cookie dough and cut out your cookies. </steps_updated>
+    <steps_updated num="11">Place on a parchment paper and bake for 10-13 minutes at 350°F (175°C). </steps_updated>
+    <steps_updated num="12">Set aside to cool down. </steps_updated>
+    <steps_updated num="13">Once the cookie is cool enough to touch, add some of the reserved caramel to the top, then add a layer of caramel coconut. </steps_updated>
+    <steps_updated num="14">Dip in melted chocolate and drizzle chocolate over the top. </steps_updated>
+    <steps_updated num="15">Let chocolate set. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,36 @@
+<recipe>
+  <title>Simple Lime Soda Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-lime-soda</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/natural-fruit-herb-sodas-x-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 8899 12282 13278 7503 8007 </ingredient>
+    <ingredient num="1">3917 14014 13278 9712 10522 </ingredient>
+    <ingredient num="2">3917 14014 13278 3575 6818 </ingredient>
+    <ingredient num="3">7695 7777 669 2790 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121304/hls24_1545866741.m3u8</low>
+    <high>https://vid.tasty.co/output/121304/landscape_720/1545866741</high>
+  </video>
+  <duration>
+    <start_time>24.833</start_time>
+    <end_time>40.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10450 5994 13426 7860 1391 531 740 11951 8899 13384 9712 7654 13817 3575 12911 12473 560 1011 13688 1391 9712 2790 5358 13 </step>
+    <step num="1">6676 10535 13767 221 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10450 5994 13426 7860 1391 531 740 11951 8899 13384 9712 7654 13817 3575 12911 </steps_updated>
+    <steps_updated num="1">12473 560 1011 </steps_updated>
+    <steps_updated num="2">13688 1391 9712 2790 5358 13 </steps_updated>
+    <steps_updated num="3">6676 10535 13767 221 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<recipe>
+  <title>Avocado Wedges Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-wedges</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-wedges-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 10415 11728 </ingredient>
+    <ingredient num="1">8580 13278 14463 8574 9917 </ingredient>
+    <ingredient num="2">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="3">8580 9517 13278 12956 1230 13278 11953 5981 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">499 10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28129/low_1490984630.m3u8</low>
+    <high>https://vid.tasty.co/output/28129/mp4_720x1280/1490984630</high>
+  </video>
+  <duration>
+    <start_time>91.0</start_time>
+    <end_time>123.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">3235 10763 4485 210 1991 415 669 14160 9679 2696 371 11951 10092 </step>
+    <step num="2">9393 12956 1230 1391 82 13817 2408 </step>
+    <step num="3">2668 10763 4485 5157 210 6467 415 14463 415 5094 415 3345 4255 5994 8372 10765 8800 </step>
+    <step num="4">7831 10052 11004 9309 6072 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">3235 10763 4485 210 1991 415 669 14160 </steps_updated>
+    <steps_updated num="2">9679 2696 371 11951 10092 </steps_updated>
+    <steps_updated num="3">9393 12956 1230 1391 82 13817 2408 </steps_updated>
+    <steps_updated num="4">2668 10763 4485 5157 210 6467 415 14463 415 5094 415 3345 4255 5994 8372 10765 8800 </steps_updated>
+    <steps_updated num="5">7831 10052 11004 9309 6072 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02755</start_time>
+    <end_time>03711</end_time>
+  </duration_human>
+</recipe>

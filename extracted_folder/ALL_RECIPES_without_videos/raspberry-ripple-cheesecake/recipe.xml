@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Raspberry Ripple Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-ripple-cheesecake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-for-all-raspberry-lovers</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; digestive biscuit ; (300 g) </ingredient>
+    <ingredient num="1">½ cup ; unsalted butter, melted ; (125 g) </ingredient>
+    <ingredient num="2">2 ¼ cups ; cream cheese ; (500 g) </ingredient>
+    <ingredient num="3">14 oz ; condensed milk, 1 can ; (385 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">2 ½ cups ; raspberry ; (300 g) </ingredient>
+    <ingredient num="6">¼ cup ; caster sugar ; (30 g) </ingredient>
+    <ingredient num="7">½ cup ; water ; (100 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/116868/hls24_1543303007.m3u8</low>
+    <high>https://vid.tasty.co/output/116868/landscape_720/1543303007</high>
+  </video>
+  <duration>
+    <start_time>45.0</start_time>
+    <end_time>92.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">For the crust, whirl biscuits and melted butter in a food processor until a chunky crumb develops. Then dump the buttery cookie crumble into a springform pan, spreading the mixture evenly over the bottom and pushing it up against the edges so a nice crust develops. </step>
+    <step num="1">For the ripple, combine raspberries, sugar, and water in a pot over medium heat. Bring the mixture to a steady simmer, and let it bubble for 20-40 minutes, stirring occasionally, until the raspberries break down and it thickens into a cohesive sauce. </step>
+    <step num="2">For the filling, whisk together cream cheese and condensed milk, adding the extract along the way. Whisk until the ingredients are combined and the mixture is smooth. Pour the filling over the crust, spreading it evenly. Then add several dabs of the raspberry mixture on top. Run a couple of toothpicks or a skewer through the filling, from raspberry dab to raspberry dab, creating swirls throughout. </step>
+    <step num="3">Refrigerate for at least 3 hours. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the crust, whirl biscuits and melted butter in a food processor until a chunky crumb develops. </steps_updated>
+    <steps_updated num="1">Then dump the buttery cookie crumble into a springform pan, spreading the mixture evenly over the bottom and pushing it up against the edges so a nice crust develops. </steps_updated>
+    <steps_updated num="2">For the ripple, combine raspberries, sugar, and water in a pot over medium heat. </steps_updated>
+    <steps_updated num="3">Bring the mixture to a steady simmer, and let it bubble for 20-40 minutes, stirring occasionally, until the raspberries break down and it thickens into a cohesive sauce. </steps_updated>
+    <steps_updated num="4">For the filling, whisk together cream cheese and condensed milk, adding the extract along the way. </steps_updated>
+    <steps_updated num="5">Whisk until the ingredients are combined and the mixture is smooth. </steps_updated>
+    <steps_updated num="6">Pour the filling over the crust, spreading it evenly. </steps_updated>
+    <steps_updated num="7">Then add several dabs of the raspberry mixture on top. </steps_updated>
+    <steps_updated num="8">Run a couple of toothpicks or a skewer through the filling, from raspberry dab to raspberry dab, creating swirls throughout. </steps_updated>
+    <steps_updated num="9">Refrigerate for at least 3 hours. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

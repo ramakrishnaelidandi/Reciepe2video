@@ -1,0 +1,53 @@
+<recipe>
+  <title>Cookies And Cream Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookies-and-cream-mousse</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/three-ingredient-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">6735 13278 4680 125 13087 7789 3954 7990 3297 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 8640 13033 13278 1536 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 6885 4834 13278 12158 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94702/hls24_1526596823.m3u8</low>
+    <high>https://vid.tasty.co/output/94702/landscape_720/1526596823</high>
+  </video>
+  <duration>
+    <start_time>66.0</start_time>
+    <end_time>137.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">8519 11951 13033 6781 11951 4680 125 3116 5570 11951 8992 210 5994 8438 12854 13817 11951 13033 210 5994 2192 7616 </step>
+    <step num="1">5209 5994 11526 2040 4455 11951 8992 1681 6665 12573 11588 2265 </step>
+    <step num="2">6688 11951 13033 6781 11951 4680 125 8992 7990 8580 12689 </step>
+    <step num="3">10950 5994 2189 13757 14511 3930 11951 8640 13033 10104 5994 5768 9091 1681 7711 13817 12784 </step>
+    <step num="4">9179 11951 13033 6781 11951 8992 13817 11951 6885 8525 8315 1681 13448 5464 5563 </step>
+    <step num="5">12595 210 11951 4680 125 7155 8092 4883 8177 2658 3297 7990 1916 </step>
+    <step num="6">6877 669 5994 14361 12854 5895 8438 12854 1391 5994 14361 13823 2062 669 7818 1066 5895 140 </step>
+    <step num="7">13494 1391 374 4680 125 7155 9031 13817 2532 371 5994 4680 125 3767 5358 13 </step>
+    <step num="8">12774 6908 5895 173 1681 12550 560 8956 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8519 11951 13033 6781 11951 4680 125 3116 </steps_updated>
+    <steps_updated num="1">5570 11951 8992 210 5994 8438 12854 13817 11951 13033 210 5994 2192 7616 </steps_updated>
+    <steps_updated num="2">5209 5994 11526 2040 4455 11951 8992 1681 6665 12573 11588 2265 </steps_updated>
+    <steps_updated num="3">6688 11951 13033 6781 11951 4680 125 8992 7990 8580 12689 </steps_updated>
+    <steps_updated num="4">10950 5994 2189 13757 14511 3930 11951 8640 13033 10104 5994 5768 9091 1681 7711 13817 12784 </steps_updated>
+    <steps_updated num="5">9179 11951 13033 6781 11951 8992 13817 11951 6885 8525 </steps_updated>
+    <steps_updated num="6">8315 1681 13448 5464 5563 </steps_updated>
+    <steps_updated num="7">12595 210 11951 4680 125 7155 8092 4883 8177 2658 3297 7990 1916 </steps_updated>
+    <steps_updated num="8">6877 669 5994 14361 12854 5895 8438 12854 1391 5994 14361 13823 </steps_updated>
+    <steps_updated num="9">2062 669 7818 1066 5895 140 </steps_updated>
+    <steps_updated num="10">13494 1391 374 4680 125 7155 9031 13817 2532 371 5994 4680 125 3767 5358 13 </steps_updated>
+    <steps_updated num="11">12774 6908 5895 173 1681 12550 560 8956 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

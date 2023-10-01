@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Smoked Salmon Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smoked-salmon-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-toasts-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 slice ; bread, toasted </ingredient>
+    <ingredient num="1">cream cheese, to taste </ingredient>
+    <ingredient num="2">1 ; smoked salmon </ingredient>
+    <ingredient num="3">red onion, to taste </ingredient>
+    <ingredient num="4">pepper, to taste, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45881/low_1501691049.m3u8</low>
+    <high>https://vid.tasty.co/output/45881/mp4_720x1280/1501691049</high>
+  </video>
+  <duration>
+    <start_time>41.24</start_time>
+    <end_time>55.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread cream cheese on the toast, and top with smoked salmon and red onions. </step>
+    <step num="1">Add a sprinkle of pepper (optional). </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread cream cheese on the toast, and top with smoked salmon and red onions. </steps_updated>
+    <steps_updated num="1">Add a sprinkle of pepper (optional). </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01260</start_time>
+    <end_time>01730</end_time>
+  </duration_human>
+</recipe>

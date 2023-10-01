@@ -1,0 +1,49 @@
+<recipe>
+  <title>Banoffee Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banoffee-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 959 </ingredient>
+    <ingredient num="1">13086 9486 13278 13832 2260 </ingredient>
+    <ingredient num="2">9883 2605 13278 1368 4834 13278 757 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 9924 13278 11953 5981 </ingredient>
+    <ingredient num="4">8580 13278 12708 </ingredient>
+    <ingredient num="5">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="6">3917 2605 13278 12347 890 13278 9373 5981 </ingredient>
+    <ingredient num="7">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="8">1580 8071 13278 82 </ingredient>
+    <ingredient num="9">3591 2605 13278 4680 11318 13278 11953 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20406/low_1484155568.m3u8</low>
+    <high>https://vid.tasty.co/output/20406/mp4_720x1280/1484155568</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 55 3727 13817 2348 5994 10765 7238 1391 9794 8831 </step>
+    <step num="1">10641 11951 959 13817 10968 210 11951 13832 9286 </step>
+    <step num="2">283 210 11951 1368 4834 13817 10907 6960 5569 11951 12708 13817 1319 6708 </step>
+    <step num="3">12595 210 11951 6467 10765 8117 12610 13817 4680 4668 </step>
+    <step num="4">4080 11951 7155 8337 210 11951 10437 7990 6285 2237 5664 </step>
+    <step num="5">6877 1802 11951 7238 13817 10903 7990 6285 409 11004 5895 1681 10963 2147 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 55 3727 13817 2348 5994 10765 7238 1391 9794 8831 </steps_updated>
+    <steps_updated num="1">10641 11951 959 13817 10968 210 11951 13832 9286 </steps_updated>
+    <steps_updated num="2">283 210 11951 1368 4834 13817 10907 6960 5569 11951 12708 13817 1319 6708 </steps_updated>
+    <steps_updated num="3">12595 210 11951 6467 10765 8117 12610 13817 4680 4668 </steps_updated>
+    <steps_updated num="4">4080 11951 7155 8337 210 11951 10437 7990 6285 2237 5664 </steps_updated>
+    <steps_updated num="5">6877 1802 11951 7238 13817 10903 7990 6285 409 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

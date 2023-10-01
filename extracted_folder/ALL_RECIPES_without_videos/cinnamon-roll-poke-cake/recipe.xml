@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll Poke Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-poke-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; white cake mix, prepared </ingredient>
+    <ingredient num="1">8 tablespoons ; butter, melted </ingredient>
+    <ingredient num="2">⅓ cup ; brown sugar ; (75 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="4">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">½ cup ; sweetened condensed milk ; (155 g) </ingredient>
+    <ingredient num="6">8 oz ; whipped topping ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9418/low_1472604431.m3u8</low>
+    <high>https://vid.tasty.co/output/9418/mp4_720x1280/1472604431</high>
+  </video>
+  <steps>
+    <step num="0">Prepare white cake mix according to the box instructions and bake according to the 9x13 inch (22cm x 33cm) dish instructions. </step>
+    <step num="1">In a bowl, mix the butter, sugar, vanilla, cinnamon, and condensed milk until smooth. </step>
+    <step num="2">With the end of a wooden spoon, poke 24 holes in the cooled white cake. </step>
+    <step num="3">Pour the butter mixture over the cake, smoothing it out into the holes. Cover with a layer of whipped topping. </step>
+    <step num="4">Chill for 4 hours. </step>
+    <step num="5">Slice cake and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare white cake mix according to the box instructions and bake according to the 9x13 inch (22cm x 33cm) dish instructions. </steps_updated>
+    <steps_updated num="1">In a bowl, mix the butter, sugar, vanilla, cinnamon, and condensed milk until smooth. </steps_updated>
+    <steps_updated num="2">With the end of a wooden spoon, poke 24 holes in the cooled white cake. </steps_updated>
+    <steps_updated num="3">Pour the butter mixture over the cake, smoothing it out into the holes. </steps_updated>
+    <steps_updated num="4">Cover with a layer of whipped topping. </steps_updated>
+    <steps_updated num="5">Chill for 4 hours. </steps_updated>
+    <steps_updated num="6">Slice cake and serve. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

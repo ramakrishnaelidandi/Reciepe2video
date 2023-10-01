@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Slow Cooker BBQ Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-slow-cooker-bbq</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; ketchup ; (240 g) </ingredient>
+    <ingredient num="1">¼ cup ; yellow mustard ; (60 g) </ingredient>
+    <ingredient num="2">⅓ cup ; apricot preserve ; (80 g) </ingredient>
+    <ingredient num="3">½ cup ; chipotle pepper, canned and diced ; (50 g) </ingredient>
+    <ingredient num="4">6 cloves ; garlic, diced </ingredient>
+    <ingredient num="5">1 tablespoon ; ginger, diced </ingredient>
+    <ingredient num="6">1 tablespoon ; worcestershire sauce </ingredient>
+    <ingredient num="7">2 tablespoons ; apple cider vinegar </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; ground black pepper </ingredient>
+    <ingredient num="10">2 lb ; pork shoulder, or pork butt ; (910 g) </ingredient>
+    <ingredient num="11">1 lb ; sausage link ; (455 g) </ingredient>
+    <ingredient num="12">½ lb ; baby back ribs ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12844/low_1477348227.m3u8</low>
+    <high>https://vid.tasty.co/output/12844/mp4_720x1280/1477348227</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, mix all ingredients for the sweet ‘n’ spicy sauce. </step>
+    <step num="1">In a slow cooker, place all protein and pour sauce over until evenly coated. </step>
+    <step num="2">On high, cook for 4 hours, or on low for 8 hours. </step>
+    <step num="3">Portion any meat with a side of veggies and the spicy sauce. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, mix all ingredients for the sweet ‘n’ spicy sauce. </steps_updated>
+    <steps_updated num="1">In a slow cooker, place all protein and pour sauce over until evenly coated. </steps_updated>
+    <steps_updated num="2">On high, cook for 4 hours, or on low for 8 hours. </steps_updated>
+    <steps_updated num="3">Portion any meat with a side of veggies and the spicy sauce. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

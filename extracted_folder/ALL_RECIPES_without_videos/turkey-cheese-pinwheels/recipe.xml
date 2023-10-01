@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Turkey &amp; Cheese Pinwheels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turkey-cheese-pinwheels</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-school-lunch-prep-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; large tortilla </ingredient>
+    <ingredient num="1">2 tablespoons ; mustard </ingredient>
+    <ingredient num="2">2 ½ slices ; cheese, your choice </ingredient>
+    <ingredient num="3">3 slices ; turkey </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23479/low_1486600260.m3u8</low>
+    <high>https://vid.tasty.co/output/23479/mp4_720x1280/1486600260</high>
+  </video>
+  <duration>
+    <start_time>27.0</start_time>
+    <end_time>44.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread the mustard on the tortilla, and lay down the cheese and turkey. </step>
+    <step num="1">Tightly roll up the tortilla, and cut into slices. </step>
+    <step num="2">Serve with a clementine and sliced bell pepper. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread the mustard on the tortilla, and lay down the cheese and turkey. </steps_updated>
+    <steps_updated num="1">Tightly roll up the tortilla, and cut into slices. </steps_updated>
+    <steps_updated num="2">Serve with a clementine and sliced bell pepper. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

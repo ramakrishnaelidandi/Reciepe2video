@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Invigorating Cucumber Mint Cocktail Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/invigorating-cucumber-mint-cocktail</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; cold water ; (120 mL) </ingredient>
+    <ingredient num="1">½ cup ; sugar ; (120 g) </ingredient>
+    <ingredient num="2">1 cup ; mint leaf, loosely packed, roughly chopped, plus 8-10 whole leaves ; (25 g) </ingredient>
+    <ingredient num="3">1 piece ; cucumber, 2 in (5 cm) sliced, plus 2 cucumber ribbons for garnish </ingredient>
+    <ingredient num="4">2 tablespoons ; lime juice, fresh-squeezed </ingredient>
+    <ingredient num="5">3 oz ; vodka ; (85 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129788/hls24_1555016811.m3u8</low>
+    <high>https://vid.tasty.co/output/129788/landscape_720/1555016811</high>
+  </video>
+  <steps>
+    <step num="0">Make the mint simple syrup: In a small saucepan over medium heat, combine the water, sugar, and roughly chopped mint leaves. Bring to a low boil, then reduce the heat to low and simmer for 5 minutes, until the sugar is fully dissolved and the mint is fragrant. Remove from the heat and let cool for 5-10 minutes. Strain through a fine-mesh sieve. Store remaining mint syrup in the refrigerator for up to 1 month. </step>
+    <step num="1">In a cocktail shaker, combine the cucumber rounds, lime juice, whole mint leaves, and 1 tablespoon of the mint simple syrup. Muddle for 1-2 minutes, until the cucumber and mint have released their flavors, but are not mushy. </step>
+    <step num="2">Pour in the vodka and fill the shaker halfway with ice. Shake vigorously for 30 seconds. </step>
+    <step num="3">Fill a Collins glass with ice and pour in the strained cocktail. </step>
+    <step num="4">Garnish with the cucumber ribbons. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the mint simple syrup: In a small saucepan over medium heat, combine the water, sugar, and roughly chopped mint leaves. </steps_updated>
+    <steps_updated num="1">Bring to a low boil, then reduce the heat to low and simmer for 5 minutes, until the sugar is fully dissolved and the mint is fragrant. </steps_updated>
+    <steps_updated num="2">Remove from the heat and let cool for 5-10 minutes. </steps_updated>
+    <steps_updated num="3">Strain through a fine-mesh sieve. </steps_updated>
+    <steps_updated num="4">Store remaining mint syrup in the refrigerator for up to 1 month. </steps_updated>
+    <steps_updated num="5">In a cocktail shaker, combine the cucumber rounds, lime juice, whole mint leaves, and 1 tablespoon of the mint simple syrup. </steps_updated>
+    <steps_updated num="6">Muddle for 1-2 minutes, until the cucumber and mint have released their flavors, but are not mushy. </steps_updated>
+    <steps_updated num="7">Pour in the vodka and fill the shaker halfway with ice. </steps_updated>
+    <steps_updated num="8">Shake vigorously for 30 seconds. </steps_updated>
+    <steps_updated num="9">Fill a Collins glass with ice and pour in the strained cocktail. </steps_updated>
+    <steps_updated num="10">Garnish with the cucumber ribbons. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

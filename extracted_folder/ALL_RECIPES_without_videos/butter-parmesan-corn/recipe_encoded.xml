@@ -1,0 +1,48 @@
+<recipe>
+  <title>Butter Parmesan Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/butter-parmesan-corn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-3-ingredient-vegetable-side-dishes</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 2532 2492 13278 12655 2958 8765 </ingredient>
+    <ingredient num="1">8580 9486 13278 10907 564 </ingredient>
+    <ingredient num="2">1580 2605 13278 109 13810 2431 13278 13412 5981 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">BBQ</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10654/low_1474665412.m3u8</low>
+    <high>https://vid.tasty.co/output/10654/mp4_720x1280/1474665412</high>
+  </video>
+  <duration>
+    <start_time>42.43</start_time>
+    <end_time>59.26</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 3471 2249 </step>
+    <step num="1">309 10763 579 371 3183 210 5994 7497 11826 371 9924 13817 4536 210 11951 109 14538 560 515 </step>
+    <step num="2">5570 3183 210 5994 10459 10765 3830 13817 1678 1391 82 13817 12375 </step>
+    <step num="3">7831 7990 2800 12689 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 3471 2249 </steps_updated>
+    <steps_updated num="1">309 10763 579 371 3183 210 5994 7497 11826 371 9924 13817 4536 210 11951 109 14538 560 515 </steps_updated>
+    <steps_updated num="2">5570 3183 210 5994 10459 10765 3830 13817 1678 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">7831 7990 2800 12689 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01171</start_time>
+    <end_time>01787</end_time>
+  </duration_human>
+</recipe>

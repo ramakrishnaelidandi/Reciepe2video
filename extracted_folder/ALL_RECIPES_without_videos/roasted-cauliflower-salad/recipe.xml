@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roasted Cauliflower Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-cauliflower-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 medium head ; cauliflower, cut into florets </ingredient>
+    <ingredient num="1">3 ; large carrots, cut into 1 inch (2.5 cm) pieces </ingredient>
+    <ingredient num="2">1 tablespoon ; ground cumin </ingredient>
+    <ingredient num="3">2 teaspoons ; paprika </ingredient>
+    <ingredient num="4">kosher salt, to taste </ingredient>
+    <ingredient num="5">black pepper, to taste </ingredient>
+    <ingredient num="6">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="7">¼ ; medium red onion, thinly sliced </ingredient>
+    <ingredient num="8">1 cup ; fresh italian parsley, roughly chopped ; (35 g) </ingredient>
+    <ingredient num="9">¼ cup ; tahini ; (60 mL) </ingredient>
+    <ingredient num="10">1 clove ; garlic, grated </ingredient>
+    <ingredient num="11">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="12">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="13">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="14">kosher salt, to taste </ingredient>
+    <ingredient num="15">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/122086/hls24_1546986445.m3u8</low>
+    <high>https://vid.tasty.co/output/122086/landscape_720/1546986445</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">In a large bowl, combine the cauliflower, carrots, cumin, paprika, salt, pepper and olive oil. Toss until well-coated. </step>
+    <step num="2">Spread the vegetables on the baking sheet in a single layer and roast for 20-25 minutes, until the carrots are tender. </step>
+    <step num="3">Make the dressing: In a medium bowl, whisk together the tahini, garlic, lemon juice, and water. While whisking, slowly drizzle in the olive oil until the dressing is emulsified. Season with salt and pepper. </step>
+    <step num="4">In a large bowl, mix together the onion and parsley. Add the roasted cauliflower and carrots, and toss well. </step>
+    <step num="5">Drizzle the salad with the dressing, then serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine the cauliflower, carrots, cumin, paprika, salt, pepper and olive oil. </steps_updated>
+    <steps_updated num="3">Toss until well-coated. </steps_updated>
+    <steps_updated num="4">Spread the vegetables on the baking sheet in a single layer and roast for 20-25 minutes, until the carrots are tender. </steps_updated>
+    <steps_updated num="5">Make the dressing: In a medium bowl, whisk together the tahini, garlic, lemon juice, and water. </steps_updated>
+    <steps_updated num="6">While whisking, slowly drizzle in the olive oil until the dressing is emulsified. </steps_updated>
+    <steps_updated num="7">Season with salt and pepper. </steps_updated>
+    <steps_updated num="8">In a large bowl, mix together the onion and parsley. </steps_updated>
+    <steps_updated num="9">Add the roasted cauliflower and carrots, and toss well. </steps_updated>
+    <steps_updated num="10">Drizzle the salad with the dressing, then serve. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

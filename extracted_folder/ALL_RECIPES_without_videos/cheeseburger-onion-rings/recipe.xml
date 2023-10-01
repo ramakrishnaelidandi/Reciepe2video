@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheeseburger Onion Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheeseburger-onion-rings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="4">¼ lb ; cheddar cheese, cut into 1-inch (2 cm) squares ; (115 g) </ingredient>
+    <ingredient num="5">1 ; large white onion </ingredient>
+    <ingredient num="6">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="7">5 ; eggs, beaten </ingredient>
+    <ingredient num="8">3 cups ; panko breadcrumbs ; (150 g) </ingredient>
+    <ingredient num="9">oil, for frying </ingredient>
+    <ingredient num="10">ketchup </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51480/low_1504824845.m3u8</low>
+    <high>https://vid.tasty.co/output/51480/mp4_720x1280/1504824845</high>
+  </video>
+  <steps>
+    <step num="0">Heat oil in a pot over medium heat to 350°F (180°C). </step>
+    <step num="1">In a bowl, mix together the ground beef, salt, pepper, and onion powder. </step>
+    <step num="2">Peel and slice the onion into 1-centimeter (½ inch) rings. Detach the rings from each other. </step>
+    <step num="3">Take a spoonful of the beef mixture and press it into the bottom of a ring. </step>
+    <step num="4">Push a cheddar square into the center of the beef. </step>
+    <step num="5">Seal the top with another spoonful of the beef, pressing it flat. </step>
+    <step num="6">Repeat with the rest of the rings. </step>
+    <step num="7">Place the flour, eggs, and bread crumbs into three separate bowls. </step>
+    <step num="8">Dip a ring into the flour, shaking off excess, then into the egg, the bread crumbs, then back to the eggs, and one last time into the breadcrumbs. </step>
+    <step num="9">Repeat with the remaining rings. </step>
+    <step num="10">Fry the rings for 5-6 minutes, until deep golden-brown. </step>
+    <step num="11">Drain on a paper towel, then serve with ketchup! </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a pot over medium heat to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a bowl, mix together the ground beef, salt, pepper, and onion powder. </steps_updated>
+    <steps_updated num="2">Peel and slice the onion into 1-centimeter (½ inch) rings. </steps_updated>
+    <steps_updated num="3">Detach the rings from each other. </steps_updated>
+    <steps_updated num="4">Take a spoonful of the beef mixture and press it into the bottom of a ring. </steps_updated>
+    <steps_updated num="5">Push a cheddar square into the center of the beef. </steps_updated>
+    <steps_updated num="6">Seal the top with another spoonful of the beef, pressing it flat. </steps_updated>
+    <steps_updated num="7">Repeat with the rest of the rings. </steps_updated>
+    <steps_updated num="8">Place the flour, eggs, and bread crumbs into three separate bowls. </steps_updated>
+    <steps_updated num="9">Dip a ring into the flour, shaking off excess, then into the egg, the bread crumbs, then back to the eggs, and one last time into the breadcrumbs. </steps_updated>
+    <steps_updated num="10">Repeat with the remaining rings. </steps_updated>
+    <steps_updated num="11">Fry the rings for 5-6 minutes, until deep golden-brown. </steps_updated>
+    <steps_updated num="12">Drain on a paper towel, then serve with ketchup! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

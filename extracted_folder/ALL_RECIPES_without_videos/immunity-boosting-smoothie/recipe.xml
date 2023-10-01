@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Immunity-Boosting Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/immunity-boosting-smoothie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; clementines, peeled </ingredient>
+    <ingredient num="1">1 ; ripe banana, sliced </ingredient>
+    <ingredient num="2">1 ; skinny carrot, 6 inch (15 cm), peeled and shaved </ingredient>
+    <ingredient num="3">1 piece ; fresh ginger, 1 inch (2 cm) peeled and minced </ingredient>
+    <ingredient num="4">¼ cup ; plain yogurt ; (60 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; honey </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">1 ½ cups ; ice ; (190 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+    <category num="7">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97078/hls24_1528135889.m3u8</low>
+    <high>https://vid.tasty.co/output/97078/landscape_720/1528135889</high>
+  </video>
+  <steps>
+    <step num="0">Add the clementines, banana, carrot, ginger, yogurt, honey, salt, and ice to a blender. </step>
+    <step num="1">Blend until smooth. </step>
+    <step num="2">Serve in a glass or in a bowl topped with fresh fruit. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the clementines, banana, carrot, ginger, yogurt, honey, salt, and ice to a blender. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">Serve in a glass or in a bowl topped with fresh fruit. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

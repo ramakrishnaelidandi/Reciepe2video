@@ -1,0 +1,61 @@
+<recipe>
+  <title>Cauliflower Steaks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-steaks</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2597 3173 13278 10426 </ingredient>
+    <ingredient num="1">4061 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="3">3917 8071 13278 796 6250 </ingredient>
+    <ingredient num="4">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="5">3917 8071 13278 6209 9211 </ingredient>
+    <ingredient num="6">3917 8071 13278 796 7516 </ingredient>
+    <ingredient num="7">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="8">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Dinner</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Lunch</category>
+    <category num="10">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90432/hls24_1524249787.m3u8</low>
+    <high>https://vid.tasty.co/output/90432/landscape_720/1524249787</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 1867 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">6054 11951 4985 2526 6781 11951 10426 7693 1391 5994 4144 </step>
+    <step num="2">5570 11951 10426 6391 4255 5994 4669 4330 13817 9839 8580 10860 5833 6665 13593 1339 </step>
+    <step num="3">14100 11951 10426 210 2532 13817 415 7777 10763 2532 210 4817 560 5821 4061 4007 </step>
+    <step num="4">7069 13817 5316 11951 10426 1721 </step>
+    <step num="5">10950 5994 2192 14511 4120 11951 8244 7632 597 7654 749 11227 5040 5984 12384 13817 4155 7789 82 13817 7845 560 8686 9393 3631 </step>
+    <step num="6">5570 11951 10426 10577 4255 11951 10765 213 13817 10654 7686 1391 11951 5766 10665 </step>
+    <step num="7">7831 7990 6285 2800 11004 9309 2571 1681 14371 </step>
+    <step num="8">12774 2658 5968 2807 2658 4255 5994 125 1391 2334 13817 8083 10986 5895 1391 8961 2260 13817 6097 2274 5895 1391 2991 13902 2615 13817 8716 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">6054 11951 4985 2526 6781 11951 10426 7693 1391 5994 4144 </steps_updated>
+    <steps_updated num="3">5570 11951 10426 6391 4255 5994 4669 4330 13817 9839 8580 10860 5833 6665 13593 1339 </steps_updated>
+    <steps_updated num="4">14100 11951 10426 210 2532 13817 415 7777 10763 2532 210 4817 560 5821 4061 4007 </steps_updated>
+    <steps_updated num="5">7069 13817 5316 11951 10426 1721 </steps_updated>
+    <steps_updated num="6">10950 5994 2192 14511 4120 11951 8244 7632 597 7654 749 11227 5040 5984 12384 13817 4155 7789 82 13817 7845 560 8686 </steps_updated>
+    <steps_updated num="7">9393 3631 </steps_updated>
+    <steps_updated num="8">5570 11951 10426 10577 4255 11951 10765 213 13817 10654 7686 1391 11951 5766 10665 </steps_updated>
+    <steps_updated num="9">7831 7990 6285 2800 11004 9309 2571 1681 14371 </steps_updated>
+    <steps_updated num="10">12774 2658 5968 2807 2658 4255 5994 125 1391 2334 13817 8083 10986 5895 1391 8961 2260 13817 6097 2274 5895 1391 2991 13902 2615 13817 8716 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

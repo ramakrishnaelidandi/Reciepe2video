@@ -1,0 +1,56 @@
+<recipe>
+  <title>Cheese Shell Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-shell-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unique-recipes-for-taco-night</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 9784 13810 5895 14538 371 4399 14585 3333 13278 1513 5981 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="2">3917 13278 2192 12384 341 </ingredient>
+    <ingredient num="3">13086 13667 13278 4155 3962 </ingredient>
+    <ingredient num="4">3917 13278 3579 8695 13817 341 </ingredient>
+    <ingredient num="5">3917 8532 13278 10176 2634 </ingredient>
+    <ingredient num="6">1813 2605 13278 13384 5358 13615 13278 12158 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108354/hls24_1536355321.m3u8</low>
+    <high>https://vid.tasty.co/output/108354/landscape_720/1536355321</high>
+  </video>
+  <duration>
+    <start_time>2.833</start_time>
+    <end_time>54.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 12313 10439 560 9988 8999 </step>
+    <step num="1">8147 3781 11951 4496 5570 12313 14538 210 9406 2009 4255 2237 2243 10765 8800 </step>
+    <step num="2">7831 7990 6285 6735 11004 1681 8554 11951 7714 13334 6983 669 797 6040 4872 148 11155 560 3945 11951 14538 9075 13700 12017 </step>
+    <step num="3">9956 6665 12573 8554 4318 3945 3755 10694 7990 8580 8927 4255 12313 10765 11020 415 5556 3755 1802 12 10285 560 13185 3482 7115 1198 11468 </step>
+    <step num="4">10450 1978 11951 4300 7454 3755 11770 5994 5605 3386 6913 12943 1762 14138 11003 4494 210 12313 12242 5994 5421 12377 5895 11844 10861 9316 8965 2257 1895 10261 560 435 </step>
+    <step num="5">10450 772 11951 10176 12680 1368 11951 11088 1946 4255 8283 2082 6823 5994 3145 210 11951 5543 740 210 11951 12384 1005 4155 13817 1678 210 11951 10176 2634 10834 12473 560 1011 9179 12282 5358 1762 12533 3557 7990 5994 4567 11446 198 </step>
+    <step num="6">8431 5994 1514 560 14634 12313 14538 9636 210 3345 13817 13262 1391 11951 1946 2207 13817 5677 371 12313 13316 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 12313 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">8147 3781 11951 4496 </steps_updated>
+    <steps_updated num="2">5570 12313 14538 210 9406 2009 4255 2237 2243 10765 8800 </steps_updated>
+    <steps_updated num="3">7831 7990 6285 6735 11004 1681 8554 11951 7714 13334 6983 669 797 6040 </steps_updated>
+    <steps_updated num="4">4872 148 11155 560 3945 11951 14538 9075 13700 12017 </steps_updated>
+    <steps_updated num="5">9956 6665 12573 8554 4318 3945 3755 10694 7990 8580 8927 4255 12313 10765 11020 415 5556 3755 1802 12 10285 560 13185 3482 7115 1198 11468 </steps_updated>
+    <steps_updated num="6">10450 1978 11951 4300 7454 3755 11770 5994 5605 3386 6913 </steps_updated>
+    <steps_updated num="7">12943 1762 14138 11003 4494 210 12313 12242 5994 5421 12377 5895 11844 10861 9316 8965 2257 1895 10261 560 435 </steps_updated>
+    <steps_updated num="8">10450 772 11951 10176 12680 1368 11951 11088 1946 4255 8283 2082 </steps_updated>
+    <steps_updated num="9">6823 5994 3145 210 11951 5543 740 210 11951 12384 1005 4155 13817 1678 210 11951 10176 2634 10834 </steps_updated>
+    <steps_updated num="10">12473 560 1011 </steps_updated>
+    <steps_updated num="11">9179 12282 5358 1762 12533 3557 7990 5994 4567 11446 198 </steps_updated>
+    <steps_updated num="12">8431 5994 1514 560 14634 12313 14538 9636 210 3345 13817 13262 1391 11951 1946 2207 13817 5677 371 12313 13316 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

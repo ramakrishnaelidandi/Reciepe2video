@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Salad Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-salad-sliders</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/chicken-sliders-2-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; chicken, cooked, shredded ; (375 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; paprika </ingredient>
+    <ingredient num="2">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="3">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">1 cup ; celery, chopped ; (225 g) </ingredient>
+    <ingredient num="8">½ cup ; fresh chives, chopped ; (20 g) </ingredient>
+    <ingredient num="9">3 tablespoons ; fresh dill, chopped </ingredient>
+    <ingredient num="10">3 tablespoons ; lemon juice </ingredient>
+    <ingredient num="11">⅓ cup ; mayonnaise ; (75 g) </ingredient>
+    <ingredient num="12">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="13">2 tablespoons ; dijon mustard </ingredient>
+    <ingredient num="14">12 ; slider buns </ingredient>
+    <ingredient num="15">1 lb ; bacon, cooked, chopped ; (455 g) </ingredient>
+    <ingredient num="16">lettuce, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Lunch</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56760/low_1508287730.m3u8</low>
+    <high>https://vid.tasty.co/output/56760/mp4_720x1280/1508287730</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a bowl, mix together chicken, paprika, cayenne pepper, onion powder, garlic powder, pepper, salt, celery, chives, dill, lemon juice, mayonnaise, sour cream, and Dijon mustard. </step>
+    <step num="1">Place chicken salad mixture on a slider bun. Top with bacon and lettuce. Place top bun. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, mix together chicken, paprika, cayenne pepper, onion powder, garlic powder, pepper, salt, celery, chives, dill, lemon juice, mayonnaise, sour cream, and Dijon mustard. </steps_updated>
+    <steps_updated num="1">Place chicken salad mixture on a slider bun. </steps_updated>
+    <steps_updated num="2">Top with bacon and lettuce. </steps_updated>
+    <steps_updated num="3">Place top bun. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00001</start_time>
+    <end_time>00617</end_time>
+  </duration_human>
+</recipe>

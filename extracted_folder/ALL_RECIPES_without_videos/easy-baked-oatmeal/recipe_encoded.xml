@@ -1,0 +1,54 @@
+<recipe>
+  <title>Easy Baked Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-baked-oatmeal</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 1580 9486 13278 6742 7632 4318 3247 </ingredient>
+    <ingredient num="1">8580 9517 13278 6277 3247 13278 10339 5981 </ingredient>
+    <ingredient num="2">3917 9883 9517 13278 12060 5166 952 6172 13278 7642 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 5432 3962 13278 2264 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 4384 6742 8302 7789 8580 13728 3247 13278 828 5981 </ingredient>
+    <ingredient num="5">3917 1580 2031 13278 12425 </ingredient>
+    <ingredient num="6">1580 8071 13278 11088 14418 </ingredient>
+    <ingredient num="7">3917 8071 13278 82 </ingredient>
+    <ingredient num="8">8580 9517 13278 5802 13278 4551 8007 </ingredient>
+    <ingredient num="9">12791 2605 13278 9171 1285 7789 3954 560 7818 13278 13412 5981 </ingredient>
+    <ingredient num="10">3917 13278 6216 </ingredient>
+    <ingredient num="11">8580 2031 13278 1319 10937 </ingredient>
+    <ingredient num="12">9889 5895 2694 7990 7818 </ingredient>
+    <ingredient num="13">4961 13510 12610 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/74575/hls24_1516823229.m3u8</low>
+    <high>https://vid.tasty.co/output/74575/landscape_720/1516823229</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 8999 </step>
+    <step num="1">9060 5994 8023 1765 10765 3830 1391 1580 14014 371 11951 6742 5766 13817 740 5965 9517 9494 5981 371 11951 567 210 5994 3622 14614 </step>
+    <step num="2">10950 5994 2597 14511 10968 3626 11951 952 1103 5432 12791 2605 828 5981 6742 8635 4654 14635 13817 12051 </step>
+    <step num="3">10950 5994 10909 14511 8341 3626 11951 374 8580 9486 6742 7632 9889 9171 1285 4036 13817 12048 1083 11951 6118 2373 669 11951 5316 2373 13817 6142 644 560 1011 </step>
+    <step num="4">1083 11951 6172 2373 11770 11951 2467 11826 210 11951 10765 3830 13817 1678 1391 11951 374 567 13817 6742 13342 </step>
+    <step num="5">7831 1681 11951 10707 371 11951 12893 9490 6346 11877 12689 </step>
+    <step num="6">12774 10383 1391 5802 5895 2694 4961 12610 13817 9171 1285 5358 13 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 8999 </steps_updated>
+    <steps_updated num="1">9060 5994 8023 1765 10765 3830 1391 1580 14014 371 11951 6742 5766 13817 740 5965 9517 9494 5981 371 11951 567 210 5994 3622 14614 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 10968 3626 11951 952 1103 5432 12791 2605 828 5981 6742 8635 4654 14635 13817 12051 </steps_updated>
+    <steps_updated num="3">10950 5994 10909 14511 8341 3626 11951 374 8580 9486 6742 7632 9889 9171 1285 4036 13817 12048 </steps_updated>
+    <steps_updated num="4">1083 11951 6118 2373 669 11951 5316 2373 13817 6142 644 560 1011 </steps_updated>
+    <steps_updated num="5">1083 11951 6172 2373 11770 11951 2467 11826 210 11951 10765 3830 13817 1678 1391 11951 374 567 13817 6742 13342 </steps_updated>
+    <steps_updated num="6">7831 1681 11951 10707 371 11951 12893 9490 6346 11877 12689 </steps_updated>
+    <steps_updated num="7">12774 10383 1391 5802 5895 2694 4961 12610 13817 9171 1285 5358 13 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

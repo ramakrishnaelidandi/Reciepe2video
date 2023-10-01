@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Pork And Asparagus Stir-fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-pork-and-asparagus-stir-fry</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-stir-fry-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; pork loin ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 cup ; asparagus, trimmed and cut ; (125 g) </ingredient>
+    <ingredient num="4">1 cup ; red pepper, diced ; (100 g) </ingredient>
+    <ingredient num="5">½ cup ; soy sauce ; (120 mL) </ingredient>
+    <ingredient num="6">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="7">2 cloves ; garlic </ingredient>
+    <ingredient num="8">1 teaspoon ; ginger </ingredient>
+    <ingredient num="9">1 tablespoon ; sesame seed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20739/low_1484338324.m3u8</low>
+    <high>https://vid.tasty.co/output/20739/mp4_720x1280/1484338324</high>
+  </video>
+  <duration>
+    <start_time>31.0</start_time>
+    <end_time>52.91</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix together all sauce ingredients in a small bowl. </step>
+    <step num="1">Heat oil over a nonstick pan and add pork stirring until cooked. </step>
+    <step num="2">Pour sauce in pan and stir to coat meat. </step>
+    <step num="3">Once the sauce is bubbling, add the veggies to the pan and stir again to coat. </step>
+    <step num="4">Cook until meat is cooked through and veggies are soft. </step>
+    <step num="5">Serve over rice or alone. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together all sauce ingredients in a small bowl. </steps_updated>
+    <steps_updated num="1">Heat oil over a nonstick pan and add pork stirring until cooked. </steps_updated>
+    <steps_updated num="2">Pour sauce in pan and stir to coat meat. </steps_updated>
+    <steps_updated num="3">Once the sauce is bubbling, add the veggies to the pan and stir again to coat. </steps_updated>
+    <steps_updated num="4">Cook until meat is cooked through and veggies are soft. </steps_updated>
+    <steps_updated num="5">Serve over rice or alone. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00986</start_time>
+    <end_time>01602</end_time>
+  </duration_human>
+</recipe>

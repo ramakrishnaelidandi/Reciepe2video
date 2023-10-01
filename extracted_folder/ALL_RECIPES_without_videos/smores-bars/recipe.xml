@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>S’mores Bars Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smores-bars</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cereal-bars-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; mini marshmallows, divided ; (50 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; butter ; (30 g) </ingredient>
+    <ingredient num="2">3 cups ; wheat cereal ; (100 g) </ingredient>
+    <ingredient num="3">1 cup ; graham cracker, chopped ; (90 g) </ingredient>
+    <ingredient num="4">2 bars ; chocolate, chopped, plus more to top </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43413/low_1499893442.m3u8</low>
+    <high>https://vid.tasty.co/output/43413/mp4_720x1280/1499893442</high>
+  </video>
+  <duration>
+    <start_time>54.52</start_time>
+    <end_time>86.65</end_time>
+  </duration>
+  <steps>
+    <step num="0">Microwave ½ of the marshmallows and butter in a bowl, stirring every 15 seconds, until fully melted. </step>
+    <step num="1">Add cereal and graham crackers into the bowl and mix until well coated. Let the mixture cool to room temperature. </step>
+    <step num="2">Add the chopped chocolate bars and mix just until combined. </step>
+    <step num="3">Line a baking dish with parchment paper and pour the cooled mixture into the pan. </step>
+    <step num="4">Press into the edges of the pan and top with more chocolate pieces and remaining mini marshmallows. </step>
+    <step num="5">Cool in the refrigerator for at least 2 hours. Cut and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Microwave ½ of the marshmallows and butter in a bowl, stirring every 15 seconds, until fully melted. </steps_updated>
+    <steps_updated num="1">Add cereal and graham crackers into the bowl and mix until well coated. </steps_updated>
+    <steps_updated num="2">Let the mixture cool to room temperature. </steps_updated>
+    <steps_updated num="3">Add the chopped chocolate bars and mix just until combined. </steps_updated>
+    <steps_updated num="4">Line a baking dish with parchment paper and pour the cooled mixture into the pan. </steps_updated>
+    <steps_updated num="5">Press into the edges of the pan and top with more chocolate pieces and remaining mini marshmallows. </steps_updated>
+    <steps_updated num="6">Cool in the refrigerator for at least 2 hours. </steps_updated>
+    <steps_updated num="7">Cut and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01688</start_time>
+    <end_time>02623</end_time>
+  </duration_human>
+</recipe>

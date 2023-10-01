@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Soy Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-soy-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-salmon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6 oz ; skinless salmon ; (170 g) </ingredient>
+    <ingredient num="1">2 cups ; broccoli floret ; (300 g) </ingredient>
+    <ingredient num="2">olive oil, to taste </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">1 tablespoon ; green onion, sliced </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic </ingredient>
+    <ingredient num="7">1 teaspoon ; ginger </ingredient>
+    <ingredient num="8">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="9">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="10">1 tablespoon ; honey </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9818/low_1473382399.m3u8</low>
+    <high>https://vid.tasty.co/output/9818/mp4_720x1280/1473382399</high>
+  </video>
+  <duration>
+    <start_time>39.1</start_time>
+    <end_time>62.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">In a small bowl, mix honey soy marinade ingredients. </step>
+    <step num="2">Lay the salmon on a baking sheet. Pour the marinade over the salmon. </step>
+    <step num="3">Lay the broccoli beside the salmon, but not touching. Drizzle olive oil over the broccoli, then season with salt and pepper. </step>
+    <step num="4">Bake for 10-12 minutes. </step>
+    <step num="5">Top with sliced green onions. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">In a small bowl, mix honey soy marinade ingredients. </steps_updated>
+    <steps_updated num="2">Lay the salmon on a baking sheet. </steps_updated>
+    <steps_updated num="3">Pour the marinade over the salmon. </steps_updated>
+    <steps_updated num="4">Lay the broccoli beside the salmon, but not touching. </steps_updated>
+    <steps_updated num="5">Drizzle olive oil over the broccoli, then season with salt and pepper. </steps_updated>
+    <steps_updated num="6">Bake for 10-12 minutes. </steps_updated>
+    <steps_updated num="7">Top with sliced green onions. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01237</start_time>
+    <end_time>01874</end_time>
+  </duration_human>
+</recipe>

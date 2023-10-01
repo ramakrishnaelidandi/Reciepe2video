@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zucchini Hash Browns Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-hash-browns</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; zucchinis </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">½ cup ; parmesan cheese, grated ; (55 g) </ingredient>
+    <ingredient num="3">⅓ cup ; fresh chives ; (15 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="5">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">¼ teaspoon ; black pepper </ingredient>
+    <ingredient num="7">1 ; egg </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26353/low_1489420955.m3u8</low>
+    <high>https://vid.tasty.co/output/26353/mp4_720x1280/1489420955</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F/200°C. </step>
+    <step num="1">Using a box grater, grate the zucchini on the coarse side. </step>
+    <step num="2">Transfer the grated zucchini to a large bowl and sprinkle with salt. Mix the zucchini and set aside for 20 minutes while the salt draws moisture from the zucchini. </step>
+    <step num="3">Transfer the zucchini to a large kitchen towel and strain the excess liquid into a bowl. </step>
+    <step num="4">Place the zucchini back to the large bowl and toss in the chives, parmesan, oregano, garlic powder, black pepper, and egg, and mix until well combined. </step>
+    <step num="5">Portion the zucchini mixture into 6 even hash brown patties on a parchment-lined baking sheet. </step>
+    <step num="6">Bake for 35 minutes, until golden brown. </step>
+    <step num="7">Cool the hash browns for 10-15 minutes to set. </step>
+    <step num="8">Serve with desired dipping sauce. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F/200°C. </steps_updated>
+    <steps_updated num="1">Using a box grater, grate the zucchini on the coarse side. </steps_updated>
+    <steps_updated num="2">Transfer the grated zucchini to a large bowl and sprinkle with salt. </steps_updated>
+    <steps_updated num="3">Mix the zucchini and set aside for 20 minutes while the salt draws moisture from the zucchini. </steps_updated>
+    <steps_updated num="4">Transfer the zucchini to a large kitchen towel and strain the excess liquid into a bowl. </steps_updated>
+    <steps_updated num="5">Place the zucchini back to the large bowl and toss in the chives, parmesan, oregano, garlic powder, black pepper, and egg, and mix until well combined. </steps_updated>
+    <steps_updated num="6">Portion the zucchini mixture into 6 even hash brown patties on a parchment-lined baking sheet. </steps_updated>
+    <steps_updated num="7">Bake for 35 minutes, until golden brown. </steps_updated>
+    <steps_updated num="8">Cool the hash browns for 10-15 minutes to set. </steps_updated>
+    <steps_updated num="9">Serve with desired dipping sauce. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

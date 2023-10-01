@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-ingredient Pumpkin Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-pumpkin-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; spice cake mix </ingredient>
+    <ingredient num="1">1 can ; pureed pumpkin, 14 ounces </ingredient>
+    <ingredient num="2">frosting, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32208/low_1495125477.m3u8</low>
+    <high>https://vid.tasty.co/output/32208/mp4_720x1280/1495125477</high>
+  </video>
+  <steps>
+    <step num="0">Mix the spice cake mix and pureed pumpkin. </step>
+    <step num="1">Spread into a greased loaf pan. Bake at 350°F (177°C) for 55-60 min. Cool completely. </step>
+    <step num="2">Frost to your liking! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix the spice cake mix and pureed pumpkin. </steps_updated>
+    <steps_updated num="1">Spread into a greased loaf pan. </steps_updated>
+    <steps_updated num="2">Bake at 350°F (177°C) for 55-60 min. </steps_updated>
+    <steps_updated num="3">Cool completely. </steps_updated>
+    <steps_updated num="4">Frost to your liking! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

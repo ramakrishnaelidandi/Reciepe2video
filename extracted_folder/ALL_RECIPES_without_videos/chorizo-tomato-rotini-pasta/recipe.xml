@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chorizo Tomato Rotini Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chorizo-tomato-rotini-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/rotini-pasta-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">4 oz ; chorizo, chopped ; (110 g) </ingredient>
+    <ingredient num="2">½ ; onion, chopped </ingredient>
+    <ingredient num="3">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="4">2 teaspoons ; salt </ingredient>
+    <ingredient num="5">2 teaspoons ; pepper </ingredient>
+    <ingredient num="6">3 cups ; tomato sauce ; (450 g) </ingredient>
+    <ingredient num="7">1 ¼ cups ; rotini pasta ; (250 g) </ingredient>
+    <ingredient num="8">½ cup ; parmesan cheese ; (50 g) </ingredient>
+    <ingredient num="9">½ cup ; fresh basil, chopped ; (12 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9424/low_1472654502.m3u8</low>
+    <high>https://vid.tasty.co/output/9424/mp4_720x1280/1472654502</high>
+  </video>
+  <duration>
+    <start_time>77.0</start_time>
+    <end_time>107.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat oil in a large pot over medium-high heat. </step>
+    <step num="1">Cook chorizo until slightly crispy. </step>
+    <step num="2">Add the onions and cook until translucent. </step>
+    <step num="3">Add the beef, salt, and pepper, cooking until no pink is showing. </step>
+    <step num="4">Pour in the tomato sauce, and cook until sauce thickens. </step>
+    <step num="5">Add the pasta, parmesan, and basil, stirring until the pasta is evenly coated. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a large pot over medium-high heat. </steps_updated>
+    <steps_updated num="1">Cook chorizo until slightly crispy. </steps_updated>
+    <steps_updated num="2">Add the onions and cook until translucent. </steps_updated>
+    <steps_updated num="3">Add the beef, salt, and pepper, cooking until no pink is showing. </steps_updated>
+    <steps_updated num="4">Pour in the tomato sauce, and cook until sauce thickens. </steps_updated>
+    <steps_updated num="5">Add the pasta, parmesan, and basil, stirring until the pasta is evenly coated. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02371</start_time>
+    <end_time>03228</end_time>
+  </duration_human>
+</recipe>

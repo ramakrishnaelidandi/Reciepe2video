@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Pizza Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-pizza-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">2 teaspoons ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; paprika </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">¼ cup ; barbecue sauce ; (30 g) </ingredient>
+    <ingredient num="6">¼ cup ; honey ; (30 g) </ingredient>
+    <ingredient num="7">1 tablespoon ; oil </ingredient>
+    <ingredient num="8">1 cup ; shredded cheese blend ; (100 g) </ingredient>
+    <ingredient num="9">8 strips ; bacon, cooked, finely chopped </ingredient>
+    <ingredient num="10">½ ; red onion, finely chopped </ingredient>
+    <ingredient num="11">1 tablespoon ; fresh parsley, finely chopped </ingredient>
+    <ingredient num="12">15 ; small tortillas </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97035/hls24_1528131390.m3u8</low>
+    <high>https://vid.tasty.co/output/97035/landscape_720/1528131390</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C) and line a baking sheet with parchment paper. </step>
+    <step num="1">Cut the chicken breasts into ¾-inch (2 cm) cubes and transfer to a medium bowl. Add the salt, paprika, pepper, garlic powder, barbecue sauce, and honey, and mix with your hands until the chicken is well-coated. </step>
+    <step num="2">Heat the oil in a large cast-iron skillet over high heat. </step>
+    <step num="3">Add the chicken and cook for 10 minutes, or until golden and charred on the edges. Remove the pan from the heat. </step>
+    <step num="4">Place the tortillas side by side on the baking sheet with the edges overlapping slightly. </step>
+    <step num="5">Sprinkle the shredded cheese, red onion, bacon, cooked chicken, and parsley evenly over the tortillas. </step>
+    <step num="6">Bake for 10 minutes, or until the cheese is melted. Serve warm. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C) and line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="1">Cut the chicken breasts into ¾-inch (2 cm) cubes and transfer to a medium bowl. </steps_updated>
+    <steps_updated num="2">Add the salt, paprika, pepper, garlic powder, barbecue sauce, and honey, and mix with your hands until the chicken is well-coated. </steps_updated>
+    <steps_updated num="3">Heat the oil in a large cast-iron skillet over high heat. </steps_updated>
+    <steps_updated num="4">Add the chicken and cook for 10 minutes, or until golden and charred on the edges. </steps_updated>
+    <steps_updated num="5">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="6">Place the tortillas side by side on the baking sheet with the edges overlapping slightly. </steps_updated>
+    <steps_updated num="7">Sprinkle the shredded cheese, red onion, bacon, cooked chicken, and parsley evenly over the tortillas. </steps_updated>
+    <steps_updated num="8">Bake for 10 minutes, or until the cheese is melted. </steps_updated>
+    <steps_updated num="9">Serve warm. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

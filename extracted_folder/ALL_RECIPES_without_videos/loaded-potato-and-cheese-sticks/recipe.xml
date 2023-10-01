@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Potato and Cheese Sticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-potato-and-cheese-sticks</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; russet potatoes, cooked and cubed </ingredient>
+    <ingredient num="1">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="2">¼ cup ; green onion, diced ; (25 g) </ingredient>
+    <ingredient num="3">¼ cup ; bacon, diced ; (55 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 block ; cheddar cheese, cut into strips </ingredient>
+    <ingredient num="7">oil, for frying </ingredient>
+    <ingredient num="8">salt, to season </ingredient>
+    <ingredient num="9">flour </ingredient>
+    <ingredient num="10">egg </ingredient>
+    <ingredient num="11">panko breadcrumbs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20556/low_1484244046.m3u8</low>
+    <high>https://vid.tasty.co/output/20556/mp4_720x1280/1484244046</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine cooked potatoes, sour cream, green onions, bacon, salt, and pepper. </step>
+    <step num="1">Mash the ingredients together until most of the potatoes are mashed. (Some chunks are good!) </step>
+    <step num="2">Cut cheese into ¼-inch (6 mm) strips. Take a spoonful of potatoes and make a ball. </step>
+    <step num="3">Place the cheese strip in the middle and wrap the potato around the cheese until it is evenly covered. </step>
+    <step num="4">Dredge the sticks in flour, egg, and panko. </step>
+    <step num="5">Option 1 - If you're going to bake, Preheat oven to 400°F (200°C). </step>
+    <step num="6">Option 1 - To Bake: Transfer dredged sticks onto baking sheet and drizzle olive oil and salt. 
+Option 2 - Fry in oil that is heated at 350°F (180°C) for 3 minutes or until golden brown. </step>
+    <step num="7">Option 1 - Bake for 15 minutes or until cheese is completely melted in the middle and the outside is a light golden brown. </step>
+    <step num="8">Option 2 - Transfer from oil to drying rack and season with salt. </step>
+    <step num="9">Let it cool for a few minutes as they will be HOT. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine cooked potatoes, sour cream, green onions, bacon, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Mash the ingredients together until most of the potatoes are mashed. </steps_updated>
+    <steps_updated num="2">(Some chunks are good!) </steps_updated>
+    <steps_updated num="3">Cut cheese into ¼-inch (6 mm) strips. </steps_updated>
+    <steps_updated num="4">Take a spoonful of potatoes and make a ball. </steps_updated>
+    <steps_updated num="5">Place the cheese strip in the middle and wrap the potato around the cheese until it is evenly covered. </steps_updated>
+    <steps_updated num="6">Dredge the sticks in flour, egg, and panko. </steps_updated>
+    <steps_updated num="7">Option 1 - If you're going to bake, Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="8">Option 1 - To Bake: Transfer dredged sticks onto baking sheet and drizzle olive oil and salt. </steps_updated>
+    <steps_updated num="9">Option 2 - Fry in oil that is heated at 350°F (180°C) for 3 minutes or until golden brown. </steps_updated>
+    <steps_updated num="10">Option 1 - Bake for 15 minutes or until cheese is completely melted in the middle and the outside is a light golden brown. </steps_updated>
+    <steps_updated num="11">Option 2 - Transfer from oil to drying rack and season with salt. </steps_updated>
+    <steps_updated num="12">Let it cool for a few minutes as they will be HOT. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

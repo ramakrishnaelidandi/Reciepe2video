@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>British S’mores Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/british-smores</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; digestive biscuits </ingredient>
+    <ingredient num="1">4 squares ; milk chocolate </ingredient>
+    <ingredient num="2">2 ; marshmallows </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32230/low_1495125508.m3u8</low>
+    <high>https://vid.tasty.co/output/32230/mp4_720x1280/1495125508</high>
+  </video>
+  <steps>
+    <step num="0">Place a digestive biscuit onto a baking tray, stack 4 squares of chocolate and two marshmallows on top of it. </step>
+    <step num="1">Grill under a high heat until the marshmallow toasts and the chocolate starts to melt. </step>
+    <step num="2">Make a sandwich with a second digestive and eat it warm. Careful of the hot marshmallow! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a digestive biscuit onto a baking tray, stack 4 squares of chocolate and two marshmallows on top of it. </steps_updated>
+    <steps_updated num="1">Grill under a high heat until the marshmallow toasts and the chocolate starts to melt. </steps_updated>
+    <steps_updated num="2">Make a sandwich with a second digestive and eat it warm. </steps_updated>
+    <steps_updated num="3">Careful of the hot marshmallow! </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

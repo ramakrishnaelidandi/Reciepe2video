@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caramel Apple Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caramel-apple-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">7 ; apples, granny smith or pink lady are recommended </ingredient>
+    <ingredient num="1">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="2">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">2 tablespoons ; flour </ingredient>
+    <ingredient num="5">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="6">½ cup ; butter, chopped into small pieces ; (115 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="8">½ cup ; white sugar ; (100 g) </ingredient>
+    <ingredient num="9">½ cup ; brown sugar ; (110 g) </ingredient>
+    <ingredient num="10">⅓ cup ; flour ; (40 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11060/low_1475173231.m3u8</low>
+    <high>https://vid.tasty.co/output/11060/mp4_720x1280/1475173231</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350ºF (180ºC). </step>
+    <step num="1">Core apples and cut into ¼-inch slices, then cut those slices in half width-wise. </step>
+    <step num="2">In a large bowl, combine apples and all filling ingredients. Stir well and transfer to a 13x9 inch (23x33 cm) baking dish. </step>
+    <step num="3">For the topping - in a separate bowl, combine all topping ingredients and mash together with a fork until it forms into small and medium-sized clumps. </step>
+    <step num="4">Sprinkle the topping evenly over the apples. </step>
+    <step num="5">Bake for 40-45 minutes or until the liquid has thickened and the apples are tender. </step>
+    <step num="6">Cool for 10 minutes and serve with a scoop of vanilla ice cream. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="1">Core apples and cut into ¼-inch slices, then cut those slices in half width-wise. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine apples and all filling ingredients. </steps_updated>
+    <steps_updated num="3">Stir well and transfer to a 13x9 inch (23x33 cm) baking dish. </steps_updated>
+    <steps_updated num="4">For the topping - in a separate bowl, combine all topping ingredients and mash together with a fork until it forms into small and medium-sized clumps. </steps_updated>
+    <steps_updated num="5">Sprinkle the topping evenly over the apples. </steps_updated>
+    <steps_updated num="6">Bake for 40-45 minutes or until the liquid has thickened and the apples are tender. </steps_updated>
+    <steps_updated num="7">Cool for 10 minutes and serve with a scoop of vanilla ice cream. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

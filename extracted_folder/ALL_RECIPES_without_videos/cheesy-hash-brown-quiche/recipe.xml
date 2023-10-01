@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Hash Brown Quiche Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-hash-brown-quiche</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; frozen hash brown, thawed ; (630 g) </ingredient>
+    <ingredient num="1">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">¼ cup ; onion, chopped ; (35 g) </ingredient>
+    <ingredient num="4">½ lb ; seasoned sausage, of your choice, we used Italian chicken ; (225 g) </ingredient>
+    <ingredient num="5">4 ; eggs, beaten </ingredient>
+    <ingredient num="6">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="7">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31904/low_1495124893.m3u8</low>
+    <high>https://vid.tasty.co/output/31904/mp4_720x1280/1495124893</high>
+  </video>
+  <steps>
+    <step num="0">Mix hash browns with butter and salt, and press into a 9-inch (20cm) pie plate. </step>
+    <step num="1">Bake at 450°F (230°C) for 20 minutes until golden brown. </step>
+    <step num="2">Meanwhile, cook sausage and onions in a skillet until onions are clear and sausage is cooked and crumbled. </step>
+    <step num="3">Transfer to a bowl and cool. </step>
+    <step num="4">Add the eggs, cheese, milk, salt, and pepper. Mix. </step>
+    <step num="5">Pour into the hash brown crust. </step>
+    <step num="6">Bake at 350°F (175°C) for an additional 30 minutes, until a knife inserted in the center comes out clean. </step>
+    <step num="7">Cut and serve with your favorite toppings. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix hash browns with butter and salt, and press into a 9-inch (20cm) pie plate. </steps_updated>
+    <steps_updated num="1">Bake at 450°F (230°C) for 20 minutes until golden brown. </steps_updated>
+    <steps_updated num="2">Meanwhile, cook sausage and onions in a skillet until onions are clear and sausage is cooked and crumbled. </steps_updated>
+    <steps_updated num="3">Transfer to a bowl and cool. </steps_updated>
+    <steps_updated num="4">Add the eggs, cheese, milk, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Mix. </steps_updated>
+    <steps_updated num="6">Pour into the hash brown crust. </steps_updated>
+    <steps_updated num="7">Bake at 350°F (175°C) for an additional 30 minutes, until a knife inserted in the center comes out clean. </steps_updated>
+    <steps_updated num="8">Cut and serve with your favorite toppings. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

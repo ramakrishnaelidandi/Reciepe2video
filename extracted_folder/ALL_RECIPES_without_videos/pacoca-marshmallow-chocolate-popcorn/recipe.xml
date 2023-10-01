@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pacoca Marshmallow Chocolate Popcorn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pacoca-marshmallow-chocolate-popcorn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/movie-night-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 bag ; microwavable popcorn, popped </ingredient>
+    <ingredient num="1">pacocas, crushed </ingredient>
+    <ingredient num="2">⅔ cup ; semisweet chocolate, melted </ingredient>
+    <ingredient num="3">½ cup ; mini marshmallows </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/66993/hls24_1512780078.m3u8</low>
+    <high>https://vid.tasty.co/output/66993/landscape_720/1512780078</high>
+  </video>
+  <duration>
+    <start_time>6.0</start_time>
+    <end_time>58.583</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a bowl, mix the popped popcorn with the crushed pacocas. </step>
+    <step num="1">Add the melted chocolate and stir until the popcorn is fully coated. </step>
+    <step num="2">Add the marshmallows and mix. </step>
+    <step num="3">Divide in smaller paper bags or just serve in a big bowl. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, mix the popped popcorn with the crushed pacocas. </steps_updated>
+    <steps_updated num="1">Add the melted chocolate and stir until the popcorn is fully coated. </steps_updated>
+    <steps_updated num="2">Add the marshmallows and mix. </steps_updated>
+    <steps_updated num="3">Divide in smaller paper bags or just serve in a big bowl. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00151</start_time>
+    <end_time>00650</end_time>
+  </duration_human>
+</recipe>

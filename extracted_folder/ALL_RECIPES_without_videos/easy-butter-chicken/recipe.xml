@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Butter Chicken</title>
+  <url>https://tasty.co/recipe/easy-butter-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; boneless, skinless chicken breast, cubed ; (910 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">2 teaspoons ; chili powder, divided </ingredient>
+    <ingredient num="4">½ teaspoon ; turmeric </ingredient>
+    <ingredient num="5">6 tablespoons ; butter, divided </ingredient>
+    <ingredient num="6">1 ½ cups ; yellow onion, diced ; (225 g) </ingredient>
+    <ingredient num="7">3 teaspoons ; garam masala </ingredient>
+    <ingredient num="8">1 teaspoon ; cumin </ingredient>
+    <ingredient num="9">1 teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="10">1 tablespoon ; ginger, grated </ingredient>
+    <ingredient num="11">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="12">1 ; cinnamon, 3 inch (8 cm) stick </ingredient>
+    <ingredient num="13">14 oz ; tomato sauce ; (395 g) </ingredient>
+    <ingredient num="14">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="15">1 cup ; heavy cream ; (240 mL) </ingredient>
+    <ingredient num="16">rice, for serving </ingredient>
+    <ingredient num="17">fresh cilantro, chopped for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31956/low_1495124950.m3u8</low>
+    <high>https://vid.tasty.co/output/31956/mp4_720x1280/1495124950</high>
+  </video>
+  <steps>
+    <step num="0">Marinate chicken breast in chili powder, turmeric, salt and pepper. </step>
+    <step num="1">Let it sit for 15 minutes. </step>
+    <step num="2">Brown chicken in 2 Tbsp. of butter, remove and set aside. </step>
+    <step num="3">Melt another 2 Tbsp. of butter over medium heat, add onions, garlic, garam masala, grated ginger, chili powder, ground cumin, cayenne pepper, cinnamon, salt and pepper. Cook until fragrant. </step>
+    <step num="4">Add the tomato sauce and bring to a simmer. </step>
+    <step num="5">Add the water and cream, bring back to a simmer. </step>
+    <step num="6">Return the chicken and simmer covered for another 10 -15 minutes. </step>
+    <step num="7">Stir in the last 2 tbsp of butter and additional salt and pepper to taste. </step>
+    <step num="8">Serve garnished with cilantro on top of rice. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Marinate chicken breast in chili powder, turmeric, salt and pepper. </steps_updated>
+    <steps_updated num="1">Let it sit for 15 minutes. </steps_updated>
+    <steps_updated num="2">Brown chicken in 2 Tbsp. </steps_updated>
+    <steps_updated num="3">of butter, remove and set aside. </steps_updated>
+    <steps_updated num="4">Melt another 2 Tbsp. </steps_updated>
+    <steps_updated num="5">of butter over medium heat, add onions, garlic, garam masala, grated ginger, chili powder, ground cumin, cayenne pepper, cinnamon, salt and pepper. </steps_updated>
+    <steps_updated num="6">Cook until fragrant. </steps_updated>
+    <steps_updated num="7">Add the tomato sauce and bring to a simmer. </steps_updated>
+    <steps_updated num="8">Add the water and cream, bring back to a simmer. </steps_updated>
+    <steps_updated num="9">Return the chicken and simmer covered for another 10 -15 minutes. </steps_updated>
+    <steps_updated num="10">Stir in the last 2 tbsp of butter and additional salt and pepper to taste. </steps_updated>
+    <steps_updated num="11">Serve garnished with cilantro on top of rice. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

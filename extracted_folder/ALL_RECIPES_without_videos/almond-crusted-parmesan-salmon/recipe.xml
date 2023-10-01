@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Almond-Crusted Parmesan Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/almond-crusted-parmesan-salmon</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; salmon ; (340 g) </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">⅓ cup ; almond, crushed ; (45 g) </ingredient>
+    <ingredient num="4">⅓ cup ; grated parmesan cheese ; (35 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; dried basil </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">½ teaspoon ; salt </ingredient>
+    <ingredient num="8">½ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21449/low_1484950990.m3u8</low>
+    <high>https://vid.tasty.co/output/21449/mp4_720x1280/1484950990</high>
+  </video>
+  <steps>
+    <step num="0">Mix breading ingredients together in large bowl. Set aside. </step>
+    <step num="1">*NOTE: You can crush almonds by pulsing them in a food processor or high-speed blender, or by carefully cutting almonds with a sharp knife. </step>
+    <step num="2">Whisk egg in a separate bowl. </step>
+    <step num="3">Dredge the salmon in the egg, then the breading mixture. </step>
+    <step num="4">Heat olive oil in a skillet on medium heat. </step>
+    <step num="5">Once the pan is ready, add the salmon and let cook on one side for 3-4 minutes until golden brown. Flip and cook for an additional 2-3 minutes on the other side. </step>
+    <step num="6">Serve salmon with a side of your favorite veggies. We used asparagus. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix breading ingredients together in large bowl. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">*NOTE: You can crush almonds by pulsing them in a food processor or high-speed blender, or by carefully cutting almonds with a sharp knife. </steps_updated>
+    <steps_updated num="3">Whisk egg in a separate bowl. </steps_updated>
+    <steps_updated num="4">Dredge the salmon in the egg, then the breading mixture. </steps_updated>
+    <steps_updated num="5">Heat olive oil in a skillet on medium heat. </steps_updated>
+    <steps_updated num="6">Once the pan is ready, add the salmon and let cook on one side for 3-4 minutes until golden brown. </steps_updated>
+    <steps_updated num="7">Flip and cook for an additional 2-3 minutes on the other side. </steps_updated>
+    <steps_updated num="8">Serve salmon with a side of your favorite veggies. </steps_updated>
+    <steps_updated num="9">We used asparagus. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

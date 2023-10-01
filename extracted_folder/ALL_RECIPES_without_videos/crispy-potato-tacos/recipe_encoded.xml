@@ -1,0 +1,61 @@
+<recipe>
+  <title>Crispy Potato Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crispy-potato-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 9780 13233 </ingredient>
+    <ingredient num="1">9883 2605 13278 1484 13033 13278 8118 5981 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">1580 8071 13278 3170 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">1580 8071 13278 5616 </ingredient>
+    <ingredient num="6">6735 13278 3183 5817 </ingredient>
+    <ingredient num="7">7632 7990 5291 </ingredient>
+    <ingredient num="8">1484 1123 560 11567 </ingredient>
+    <ingredient num="9">10599 560 11567 </ingredient>
+    <ingredient num="10">4951 13810 560 11567 </ingredient>
+    <ingredient num="11">6712 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31925/low_1495124922.m3u8</low>
+    <high>https://vid.tasty.co/output/31925/mp4_720x1280/1495124922</high>
+  </video>
+  <steps>
+    <step num="0">3708 10086 11951 13233 13817 7368 11951 930 11353 14100 669 4127 13009 13817 3345 210 5994 10083 371 278 2019 </step>
+    <step num="1">8785 560 5994 1002 11770 13757 8283 7855 13817 2234 13233 560 2550 1681 6665 12573 2021 </step>
+    <step num="2">5570 564 13233 669 5994 2597 7616 9393 210 1484 1123 2670 82 13817 10986 13817 12833 1681 3145 4309 </step>
+    <step num="3">5791 11951 5817 210 5994 4392 1811 5895 12 1811 13817 10503 7990 666 6659 5833 6665 953 11946 </step>
+    <step num="4">12474 2532 371 11951 6640 3345 6285 797 1184 371 11951 2868 2373 13817 11434 3557 8298 12595 11951 11237 210 2532 13817 6190 1391 11951 12886 371 11951 4291 </step>
+    <step num="5">8889 797 2985 371 4168 5766 210 5994 10590 2500 3345 11951 2868 12229 210 11951 11745 222 3755 560 2550 7990 6285 4817 8927 4255 10763 145 </step>
+    <step num="6">9956 6665 11628 977 5994 10963 9804 5103 6781 5766 13817 1746 1198 5766 3482 4255 5994 12 671 </step>
+    <step num="7">12774 1391 12313 226 7857 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3708 10086 11951 13233 13817 7368 11951 930 11353 </steps_updated>
+    <steps_updated num="1">14100 669 4127 13009 13817 3345 210 5994 10083 371 278 2019 </steps_updated>
+    <steps_updated num="2">8785 560 5994 1002 11770 13757 8283 7855 13817 2234 13233 560 2550 1681 6665 12573 2021 </steps_updated>
+    <steps_updated num="3">5570 564 13233 669 5994 2597 7616 </steps_updated>
+    <steps_updated num="4">9393 210 1484 1123 2670 82 13817 10986 13817 12833 1681 3145 4309 </steps_updated>
+    <steps_updated num="5">5791 11951 5817 210 5994 4392 1811 5895 12 1811 13817 10503 7990 666 6659 5833 6665 953 11946 </steps_updated>
+    <steps_updated num="6">12474 2532 371 11951 6640 3345 6285 797 1184 </steps_updated>
+    <steps_updated num="7">371 11951 2868 2373 13817 11434 3557 8298 </steps_updated>
+    <steps_updated num="8">12595 11951 11237 210 2532 13817 6190 1391 11951 12886 371 11951 4291 </steps_updated>
+    <steps_updated num="9">8889 797 2985 371 4168 5766 210 5994 10590 </steps_updated>
+    <steps_updated num="10">2500 3345 11951 2868 12229 210 11951 11745 222 3755 560 2550 7990 6285 4817 8927 4255 10763 145 </steps_updated>
+    <steps_updated num="11">9956 6665 11628 977 5994 10963 9804 5103 6781 5766 13817 1746 1198 5766 3482 4255 5994 12 671 </steps_updated>
+    <steps_updated num="12">12774 1391 12313 226 7857 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

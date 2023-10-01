@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Masala Veggie Burgers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-masala-veggie-burgers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; red potatoes, finely chopped </ingredient>
+    <ingredient num="1">2 ; large carrots, finely chopped </ingredient>
+    <ingredient num="2">½ ; bell pepper, finely chopped </ingredient>
+    <ingredient num="3">½ cup ; corn ; (90 g) </ingredient>
+    <ingredient num="4">½ cup ; edamame ; (80 g) </ingredient>
+    <ingredient num="5">½ cup ; oats </ingredient>
+    <ingredient num="6">½ teaspoon ; ginger </ingredient>
+    <ingredient num="7">½ teaspoon ; turmeric </ingredient>
+    <ingredient num="8">1 teaspoon ; garam masala </ingredient>
+    <ingredient num="9">¼ teaspoon ; mustard seed </ingredient>
+    <ingredient num="10">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="11">2 cloves ; garlic </ingredient>
+    <ingredient num="12">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="13">½ teaspoon ; salt </ingredient>
+    <ingredient num="14">1 tablespoon ; oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31996/low_1495125036.m3u8</low>
+    <high>https://vid.tasty.co/output/31996/mp4_720x1280/1495125036</high>
+  </video>
+  <steps>
+    <step num="0">Finely chop two red potatoes, and two large carrots. Sauté in a little oil for a few minutes. </step>
+    <step num="1">Add the bell pepper, corn, and edamame. Continue to cook until the potatoes are soft. </step>
+    <step num="2">In a food processor, grind the oats until they are a grainy powder. </step>
+    <step num="3">Add the veggies, olive oil, and spices. Blend. </step>
+    <step num="4">Shape the mixture into patties, and fry, grill, bake, or freeze them for later! </step>
+    <step num="5">Serve with toppings of choice! (Topping in this video: Vegan mayo, mustard, ketchup, dill pickles, onion, lettuce, tomatoes, and avocado.) </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Finely chop two red potatoes, and two large carrots. </steps_updated>
+    <steps_updated num="1">Sauté in a little oil for a few minutes. </steps_updated>
+    <steps_updated num="2">Add the bell pepper, corn, and edamame. </steps_updated>
+    <steps_updated num="3">Continue to cook until the potatoes are soft. </steps_updated>
+    <steps_updated num="4">In a food processor, grind the oats until they are a grainy powder. </steps_updated>
+    <steps_updated num="5">Add the veggies, olive oil, and spices. </steps_updated>
+    <steps_updated num="6">Blend. </steps_updated>
+    <steps_updated num="7">Shape the mixture into patties, and fry, grill, bake, or freeze them for later! </steps_updated>
+    <steps_updated num="8">Serve with toppings of choice! </steps_updated>
+    <steps_updated num="9">(Topping in this video: Vegan mayo, mustard, ketchup, dill pickles, onion, lettuce, tomatoes, and avocado.) </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buffalo Chicken Toaster "Quesadilla" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-chicken-toaster-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/toaster-quesadillas</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; large flour tortilla </ingredient>
+    <ingredient num="1">2 tablespoons ; cream cheese </ingredient>
+    <ingredient num="2">⅓ cup ; shredded chicken, finely shredded ; (40 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; buffalo sauce </ingredient>
+    <ingredient num="4">1 tablespoon ; scallions, chopped </ingredient>
+    <ingredient num="5">ranch dressing, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111008/hls24_1538432924.m3u8</low>
+    <high>https://vid.tasty.co/output/111008/landscape_720/1538432924</high>
+  </video>
+  <duration>
+    <start_time>32.0</start_time>
+    <end_time>63.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Using a butter knife, spread the cream cheese in an even layer over the tortilla. </step>
+    <step num="1">In a small bowl, mix together the chicken and buffalo sauce. </step>
+    <step num="2">Add the chicken to the top half of the tortilla. Sprinkle with scallions. </step>
+    <step num="3">Fold the tortilla in half from the bottom, then fold in the sides, being careful not to tear the tortilla. </step>
+    <step num="4">Toast on medium-high, until golden brown. Watch to make sure it doesn’t burn. Let cool for 1-2 minutes before removing from the toaster. </step>
+    <step num="5">Serve with ranch, if desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a butter knife, spread the cream cheese in an even layer over the tortilla. </steps_updated>
+    <steps_updated num="1">In a small bowl, mix together the chicken and buffalo sauce. </steps_updated>
+    <steps_updated num="2">Add the chicken to the top half of the tortilla. </steps_updated>
+    <steps_updated num="3">Sprinkle with scallions. </steps_updated>
+    <steps_updated num="4">Fold the tortilla in half from the bottom, then fold in the sides, being careful not to tear the tortilla. </steps_updated>
+    <steps_updated num="5">Toast on medium-high, until golden brown. </steps_updated>
+    <steps_updated num="6">Watch to make sure it doesn’t burn. </steps_updated>
+    <steps_updated num="7">Let cool for 1-2 minutes before removing from the toaster. </steps_updated>
+    <steps_updated num="8">Serve with ranch, if desired. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

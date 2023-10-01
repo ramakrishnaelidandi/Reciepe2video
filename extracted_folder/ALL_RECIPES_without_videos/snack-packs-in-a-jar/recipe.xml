@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Snack Packs In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snack-packs-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/clever-mason-jar-hacks</comp_url>
+  <ingredients>
+    <ingredient num="0">2 stalks ; celery, chopped into sticks </ingredient>
+    <ingredient num="1">¼ cup ; almond butter ; (120 g) </ingredient>
+    <ingredient num="2">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="3">¼ cup ; mixed fresh berry ; (30 g) </ingredient>
+    <ingredient num="4">¼ cup ; granola ; (30 g) </ingredient>
+    <ingredient num="5">½ ; cucumber, chopped into sticks </ingredient>
+    <ingredient num="6">1 ; large carrot, chopped into sticks </ingredient>
+    <ingredient num="7">¼ cup ; hummus ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50560/low_1504212116.m3u8</low>
+    <high>https://vid.tasty.co/output/50560/mp4_720x1280/1504212116</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>23.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">Clean out an applesauce or snack pack container. Wash well. </step>
+    <step num="1">For the celery and almond butter, fill the container with almond butter then fill a wide-mouth mason jar with the celery sticks. Secure the almond butter container on top of the mason jar and screw on the lid tightly. </step>
+    <step num="2">For the yogurt, granola, and berries, fill one container with the berries then fill the other container with the granola. Then fill a wide-mouth mason jar with the Greek yogurt. Place the berry container inside of the mason jar. Place the mason jar’s protective cap over the granola container then flip upside down onto the mason jar. Screw into place tightly. </step>
+    <step num="3">For the vegetable sticks and hummus, fill the container with hummus then fill a wide-mouth mason jar with the vegetable sticks. Secure the hummus container inside of the mason jar and screw on the lid tightly. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Clean out an applesauce or snack pack container. </steps_updated>
+    <steps_updated num="1">Wash well. </steps_updated>
+    <steps_updated num="2">For the celery and almond butter, fill the container with almond butter then fill a wide-mouth mason jar with the celery sticks. </steps_updated>
+    <steps_updated num="3">Secure the almond butter container on top of the mason jar and screw on the lid tightly. </steps_updated>
+    <steps_updated num="4">For the yogurt, granola, and berries, fill one container with the berries then fill the other container with the granola. </steps_updated>
+    <steps_updated num="5">Then fill a wide-mouth mason jar with the Greek yogurt. </steps_updated>
+    <steps_updated num="6">Place the berry container inside of the mason jar. </steps_updated>
+    <steps_updated num="7">Place the mason jar’s protective cap over the granola container then flip upside down onto the mason jar. </steps_updated>
+    <steps_updated num="8">Screw into place tightly. </steps_updated>
+    <steps_updated num="9">For the vegetable sticks and hummus, fill the container with hummus then fill a wide-mouth mason jar with the vegetable sticks. </steps_updated>
+    <steps_updated num="10">Secure the hummus container inside of the mason jar and screw on the lid tightly. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00045</start_time>
+    <end_time>00688</end_time>
+  </duration_human>
+</recipe>

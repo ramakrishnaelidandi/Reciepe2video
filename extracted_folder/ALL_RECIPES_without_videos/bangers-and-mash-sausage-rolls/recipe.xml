@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bangers And Mash Sausage Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bangers-and-mash-sausage-rolls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; sausages </ingredient>
+    <ingredient num="1">mashed potato, cold </ingredient>
+    <ingredient num="2">4 pieces ; puff pastry, thawed </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">onion gravy, optional for a side </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32005/low_1495125025.m3u8</low>
+    <high>https://vid.tasty.co/output/32005/mp4_720x1280/1495125025</high>
+  </video>
+  <steps>
+    <step num="0">Brown the Sausages on all sides in a large skillet - until mostly cooked through. Set aside to cool slightly. </step>
+    <step num="1">Unroll each sheet of puff pastry and cut into 4 pieces. </step>
+    <step num="2">Spread mash over each pastry, top with cooked sausage and additional mash. </step>
+    <step num="3">Roll up each sheet - pinch together to seal and trim off any excess. </step>
+    <step num="4">Place on a greased baking sheet - seam side down - and brush each roll with beaten egg. </step>
+    <step num="5">Bake in a preheated oven at 190˚C (375˚F) for 25-30 minutes - until the pastry is golden and crispy on all sides and the meat has cooked through. Serve with a side of Onion Gravy. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Brown the Sausages on all sides in a large skillet - until mostly cooked through. </steps_updated>
+    <steps_updated num="1">Set aside to cool slightly. </steps_updated>
+    <steps_updated num="2">Unroll each sheet of puff pastry and cut into 4 pieces. </steps_updated>
+    <steps_updated num="3">Spread mash over each pastry, top with cooked sausage and additional mash. </steps_updated>
+    <steps_updated num="4">Roll up each sheet - pinch together to seal and trim off any excess. </steps_updated>
+    <steps_updated num="5">Place on a greased baking sheet - seam side down - and brush each roll with beaten egg. </steps_updated>
+    <steps_updated num="6">Bake in a preheated oven at 190˚C (375˚F) for 25-30 minutes - until the pastry is golden and crispy on all sides and the meat has cooked through. </steps_updated>
+    <steps_updated num="7">Serve with a side of Onion Gravy. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

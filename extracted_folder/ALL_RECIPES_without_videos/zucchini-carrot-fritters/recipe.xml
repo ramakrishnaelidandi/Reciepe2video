@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zucchini Carrot Fritters Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-carrot-fritters</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; chickpeas ; (200 g) </ingredient>
+    <ingredient num="1">1 ; zucchini, grated </ingredient>
+    <ingredient num="2">1 ; carrot, grated </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">½ cup ; whole wheat panko ; (10 g) </ingredient>
+    <ingredient num="5">2 teaspoons ; fresh basil, chopped </ingredient>
+    <ingredient num="6">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">½ teaspoon ; salt </ingredient>
+    <ingredient num="8">½ teaspoon ; pepper </ingredient>
+    <ingredient num="9">olive oil </ingredient>
+    <ingredient num="10">plain greek yogurt </ingredient>
+    <ingredient num="11">green onion, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14443/low_1478805580.m3u8</low>
+    <high>https://vid.tasty.co/output/14443/mp4_720x1280/1478805580</high>
+  </video>
+  <steps>
+    <step num="0">Mash chickpeas with a fork in a large bowl. Set aside. </step>
+    <step num="1">Grate zucchini. Place in a clean dish towel or cloth. </step>
+    <step num="2">Grate carrots. Place in a clean dish towel or cloth with zucchini. </step>
+    <step num="3">Squeeze out as much moisture as possible. </step>
+    <step num="4">Add veggies, panko, egg, basil, garlic powder, salt, and pepper to the bowl with the mashed chickpeas. </step>
+    <step num="5">Stir until completely combined. </step>
+    <step num="6">Heat olive oil in a large skillet on medium heat. </step>
+    <step num="7">Scoop 2 tablespoons of mixture into your hand press to compress it into a patty. </step>
+    <step num="8">Cook for about 1-2 minutes, until the underside is golden brown then flip and repeat. </step>
+    <step num="9">Serve with a dollop of plain greek yogurt and diced green onion. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mash chickpeas with a fork in a large bowl. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Grate zucchini. </steps_updated>
+    <steps_updated num="3">Place in a clean dish towel or cloth. </steps_updated>
+    <steps_updated num="4">Grate carrots. </steps_updated>
+    <steps_updated num="5">Place in a clean dish towel or cloth with zucchini. </steps_updated>
+    <steps_updated num="6">Squeeze out as much moisture as possible. </steps_updated>
+    <steps_updated num="7">Add veggies, panko, egg, basil, garlic powder, salt, and pepper to the bowl with the mashed chickpeas. </steps_updated>
+    <steps_updated num="8">Stir until completely combined. </steps_updated>
+    <steps_updated num="9">Heat olive oil in a large skillet on medium heat. </steps_updated>
+    <steps_updated num="10">Scoop 2 tablespoons of mixture into your hand press to compress it into a patty. </steps_updated>
+    <steps_updated num="11">Cook for about 1-2 minutes, until the underside is golden brown then flip and repeat. </steps_updated>
+    <steps_updated num="12">Serve with a dollop of plain greek yogurt and diced green onion. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

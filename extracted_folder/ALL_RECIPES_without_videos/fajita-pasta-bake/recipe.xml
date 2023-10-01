@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fajita Pasta Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-pasta-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; yellow bell pepper, seeded and sliced </ingredient>
+    <ingredient num="1">1 ; green bell pepper, seeded and sliced </ingredient>
+    <ingredient num="2">1 ; red bell pepper, seeded and sliced </ingredient>
+    <ingredient num="3">2 ½ cups ; mushroom, sliced ; (185 g) </ingredient>
+    <ingredient num="4">1 ; medium yellow onion, diced </ingredient>
+    <ingredient num="5">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="6">1 tablespoon ; paprika </ingredient>
+    <ingredient num="7">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="8">1 tablespoon ; cumin </ingredient>
+    <ingredient num="9">1 teaspoon ; salt </ingredient>
+    <ingredient num="10">1 teaspoon ; pepper </ingredient>
+    <ingredient num="11">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="12">4 cups ; penne pasta, uncooked ; (400 g) </ingredient>
+    <ingredient num="13">1 ½ cups ; sour cream ; (345 g) </ingredient>
+    <ingredient num="14">3 cups ; shredded pepper jack cheese ; (300 g) </ingredient>
+    <ingredient num="15">fresh parsley, chopped. for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103831/hls24_1533149667.m3u8</low>
+    <high>https://vid.tasty.co/output/103831/landscape_720/1533149667</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200°C). </step>
+    <step num="1">In a nonstick baking dish, add the bell peppers, mushrooms, and onion. </step>
+    <step num="2">In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and pepper. </step>
+    <step num="3">Pour the olive oil and half of the spice mix over the vegetables and toss well to coat. </step>
+    <step num="4">Bake the vegetables for about 30 minutes, stirring occasionally, until tender. </step>
+    <step num="5">In a large pot of boiling water, cook the pasta according to the package instructions, until tender. </step>
+    <step num="6">Drain the pasta, reserving about 1 cup (240 ml) of cooking water. </step>
+    <step num="7">Return the drained pasta to the pot and add the roasted vegetables. Add the rest of the spice mix, the reserved pasta water, and the sour cream and mix to combine. </step>
+    <step num="8">Transfer the pasta mixture to the baking dish used for roasting the vegetables and spread evenly. Sprinkle the cheese over the top. </step>
+    <step num="9">Bake for about 15 minutes, until the cheese is golden brown. </step>
+    <step num="10">Let cool for about 5 minutes, then serve. Garnish with parsley, if desired. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">In a nonstick baking dish, add the bell peppers, mushrooms, and onion. </steps_updated>
+    <steps_updated num="2">In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Pour the olive oil and half of the spice mix over the vegetables and toss well to coat. </steps_updated>
+    <steps_updated num="4">Bake the vegetables for about 30 minutes, stirring occasionally, until tender. </steps_updated>
+    <steps_updated num="5">In a large pot of boiling water, cook the pasta according to the package instructions, until tender. </steps_updated>
+    <steps_updated num="6">Drain the pasta, reserving about 1 cup (240 ml) of cooking water. </steps_updated>
+    <steps_updated num="7">Return the drained pasta to the pot and add the roasted vegetables. </steps_updated>
+    <steps_updated num="8">Add the rest of the spice mix, the reserved pasta water, and the sour cream and mix to combine. </steps_updated>
+    <steps_updated num="9">Transfer the pasta mixture to the baking dish used for roasting the vegetables and spread evenly. </steps_updated>
+    <steps_updated num="10">Sprinkle the cheese over the top. </steps_updated>
+    <steps_updated num="11">Bake for about 15 minutes, until the cheese is golden brown. </steps_updated>
+    <steps_updated num="12">Let cool for about 5 minutes, then serve. </steps_updated>
+    <steps_updated num="13">Garnish with parsley, if desired. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

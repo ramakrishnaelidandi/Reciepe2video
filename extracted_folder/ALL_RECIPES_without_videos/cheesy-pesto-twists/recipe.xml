@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Pesto Twists Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-pesto-twists</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 sheets ; puff pastry </ingredient>
+    <ingredient num="1">6 oz ; fresh pesto ; (150 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; mozzarella cheese, grated ; (150 g) </ingredient>
+    <ingredient num="3">1 ; egg, beaten </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">½ cup ; parmesan cheese ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Sides</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31879/low_1495124871.m3u8</low>
+    <high>https://vid.tasty.co/output/31879/mp4_720x1280/1495124871</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180°C). </step>
+    <step num="1">Roll out a sheet of puff pastry and spread the pesto evenly over it, leaving a small amount of room at the edges. Sprinkle over the mozzarella and place another sheet of puff pastry on top, making a sandwich. </step>
+    <step num="2">Cut into thin strips with a sharp knife. Grab both ends of each strip, press down firmly to seal the edges and twist. </step>
+    <step num="3">Transfer onto a baking tray lined with baking paper, and brush with beaten egg. Season with salt and pepper and sprinkle over the parmesan. </step>
+    <step num="4">Bake for 25 minutes until golden brown. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180°C). </steps_updated>
+    <steps_updated num="1">Roll out a sheet of puff pastry and spread the pesto evenly over it, leaving a small amount of room at the edges. </steps_updated>
+    <steps_updated num="2">Sprinkle over the mozzarella and place another sheet of puff pastry on top, making a sandwich. </steps_updated>
+    <steps_updated num="3">Cut into thin strips with a sharp knife. </steps_updated>
+    <steps_updated num="4">Grab both ends of each strip, press down firmly to seal the edges and twist. </steps_updated>
+    <steps_updated num="5">Transfer onto a baking tray lined with baking paper, and brush with beaten egg. </steps_updated>
+    <steps_updated num="6">Season with salt and pepper and sprinkle over the parmesan. </steps_updated>
+    <steps_updated num="7">Bake for 25 minutes until golden brown. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

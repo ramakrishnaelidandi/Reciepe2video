@@ -1,0 +1,61 @@
+<recipe>
+  <title>Tofu Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-easy-ways-to-replace-ground-beef</comp_url>
+  <ingredients>
+    <ingredient num="0">8883 643 13278 3141 10524 14412 3917 12074 6124 13278 8902 5981 </ingredient>
+    <ingredient num="1">13086 9486 13278 9721 534 11691 2260 </ingredient>
+    <ingredient num="2">12791 2605 13278 9668 2260 13278 9377 5981 </ingredient>
+    <ingredient num="3">8580 2031 13278 13389 11703 </ingredient>
+    <ingredient num="4">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="5">3917 8071 13278 3170 </ingredient>
+    <ingredient num="6">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="7">3917 2157 13278 499 </ingredient>
+    <ingredient num="8">8244 7632 7990 4189 </ingredient>
+    <ingredient num="9">4061 13278 2192 3183 5817 </ingredient>
+    <ingredient num="10">7334 3333 </ingredient>
+    <ingredient num="11">9491 341 </ingredient>
+    <ingredient num="12">2991 3333 13810 5895 7371 </ingredient>
+    <ingredient num="13">11905 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101779/hls24_1531429513.m3u8</low>
+    <high>https://vid.tasty.co/output/101779/landscape_720/1531429513</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 5281 13018 </step>
+    <step num="1">8431 12313 13676 560 12147 11951 11366 669 5994 13757 7616 9179 11951 11691 7280 9668 7280 13389 8117 11384 8117 2670 10986 13817 499 13817 6142 1681 8460 </step>
+    <step num="2">9179 5994 13630 371 8244 5766 560 5994 2597 10765 8800 12785 11951 11366 560 11951 10765 11020 10104 5994 7700 560 11434 3557 2696 2658 9741 2658 9724 </step>
+    <step num="3">7831 7990 5169 11004 13328 14166 8180 1681 10963 1368 13817 4721 2111 </step>
+    <step num="4">1349 11951 5817 1391 11951 14412 7334 9491 3333 13810 13817 8559 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 5281 13018 </steps_updated>
+    <steps_updated num="1">8431 12313 13676 560 12147 11951 11366 669 5994 13757 7616 </steps_updated>
+    <steps_updated num="2">9179 11951 11691 7280 9668 7280 13389 8117 11384 8117 2670 10986 13817 499 13817 6142 1681 8460 </steps_updated>
+    <steps_updated num="3">9179 5994 13630 371 8244 5766 560 5994 2597 10765 8800 </steps_updated>
+    <steps_updated num="4">12785 11951 11366 560 11951 10765 11020 10104 5994 7700 560 11434 3557 2696 2658 9741 2658 9724 </steps_updated>
+    <steps_updated num="5">7831 7990 5169 11004 13328 14166 8180 1681 10963 1368 13817 4721 2111 </steps_updated>
+    <steps_updated num="6">1349 11951 5817 1391 11951 14412 7334 9491 3333 13810 13817 8559 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00052</start_time>
+    <end_time>01072</end_time>
+  </duration_human>
+</recipe>

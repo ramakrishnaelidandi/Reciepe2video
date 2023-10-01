@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Steak and Veggies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-steak-and-veggies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; lean top sirloin steak ; (905 g) </ingredient>
+    <ingredient num="1">1 ; large white onion, quartered </ingredient>
+    <ingredient num="2">½ cup ; low sodium soy sauce ; (120 mL) </ingredient>
+    <ingredient num="3">¼ cup ; sesame oil ; (60 mL) </ingredient>
+    <ingredient num="4">2 tablespoons ; fresh ginger, minced </ingredient>
+    <ingredient num="5">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">1 lb ; brussels sprouts, hulled and halved ; (455 g) </ingredient>
+    <ingredient num="7">2 ; red bell peppers, diced </ingredient>
+    <ingredient num="8">2 ; large carrots, diced </ingredient>
+    <ingredient num="9">2 cups ; brown rice, cooked ; (450 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31829/low_1495124223.m3u8</low>
+    <high>https://vid.tasty.co/output/31829/mp4_720x1280/1495124223</high>
+  </video>
+  <steps>
+    <step num="0">Slice the top sirloin steaks into half-inch (1 ¼ cm) thick strips. </step>
+    <step num="1">Place soy sauce, sesame oil, ginger, garlic, onion and meat in a large slow cooker and mix thoroughly. </step>
+    <step num="2">Place the lid on top. </step>
+    <step num="3">Set the slow cooker on the low setting for 3 hours. </step>
+    <step num="4">Remove the onions from the slow cooker. </step>
+    <step num="5">Pour in the Brussels sprouts, bell pepper, and carrots. Mix thoroughly. </step>
+    <step num="6">Cook on low for 1 more hour. </step>
+    <step num="7">Serve with a portion of brown rice. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the top sirloin steaks into half-inch (1 ¼ cm) thick strips. </steps_updated>
+    <steps_updated num="1">Place soy sauce, sesame oil, ginger, garlic, onion and meat in a large slow cooker and mix thoroughly. </steps_updated>
+    <steps_updated num="2">Place the lid on top. </steps_updated>
+    <steps_updated num="3">Set the slow cooker on the low setting for 3 hours. </steps_updated>
+    <steps_updated num="4">Remove the onions from the slow cooker. </steps_updated>
+    <steps_updated num="5">Pour in the Brussels sprouts, bell pepper, and carrots. </steps_updated>
+    <steps_updated num="6">Mix thoroughly. </steps_updated>
+    <steps_updated num="7">Cook on low for 1 more hour. </steps_updated>
+    <steps_updated num="8">Serve with a portion of brown rice. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

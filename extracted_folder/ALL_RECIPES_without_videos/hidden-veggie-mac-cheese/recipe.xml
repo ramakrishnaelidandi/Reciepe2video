@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hidden Veggie Mac &amp; Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hidden-veggie-mac-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; elbow macaroni, cooked al dente ; (455 g) </ingredient>
+    <ingredient num="1">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="2">1 cup ; cauliflower florets ; (300 g) </ingredient>
+    <ingredient num="3">1 cup ; butternut squash, diced ; (205 g) </ingredient>
+    <ingredient num="4">1 cup ; carrot, sliced ; (120 g) </ingredient>
+    <ingredient num="5">2 cups ; milk ; (480 mL) </ingredient>
+    <ingredient num="6">2 cups ; cheddar cheese, shredded ; (200 g) </ingredient>
+    <ingredient num="7">4 oz ; cream cheese ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23858/low_1487036021.m3u8</low>
+    <high>https://vid.tasty.co/output/23858/mp4_720x1280/1487036021</high>
+  </video>
+  <steps>
+    <step num="0">Add water, cauliflower, squash, and carrots in a pot over medium heat. Cover and cook until vegetables are tender. </step>
+    <step num="1">Add everything into a blender, including cooking water, and blend until smooth. </step>
+    <step num="2">Return blended veggies to the pot over medium heat, and add the milk, cheese, and cream cheese. Stir until smooth. </step>
+    <step num="3">Add macaroni, reduce heat, mix thoroughly, and cover for 20 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add water, cauliflower, squash, and carrots in a pot over medium heat. </steps_updated>
+    <steps_updated num="1">Cover and cook until vegetables are tender. </steps_updated>
+    <steps_updated num="2">Add everything into a blender, including cooking water, and blend until smooth. </steps_updated>
+    <steps_updated num="3">Return blended veggies to the pot over medium heat, and add the milk, cheese, and cream cheese. </steps_updated>
+    <steps_updated num="4">Stir until smooth. </steps_updated>
+    <steps_updated num="5">Add macaroni, reduce heat, mix thoroughly, and cover for 20 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

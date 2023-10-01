@@ -1,0 +1,53 @@
+<recipe>
+  <title>Apple Cider Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-cider</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-apple-cider-and-apple-cider-cupcakes</comp_url>
+  <ingredients>
+    <ingredient num="0">409 13278 3064 7341 5895 3073 7341 10304 13817 472 </ingredient>
+    <ingredient num="1">8580 13278 4985 7341 10304 13817 472 </ingredient>
+    <ingredient num="2">13086 13278 12425 12401 </ingredient>
+    <ingredient num="3">3917 13278 14635 9102 7682 4125 </ingredient>
+    <ingredient num="4">8580 2031 13278 3305 2414 </ingredient>
+    <ingredient num="5">3917 2157 13278 3855 82 </ingredient>
+    <ingredient num="6">6735 9517 13278 12282 13278 10839 1767 </ingredient>
+    <ingredient num="7">3917 2605 13278 1368 4834 13278 6952 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Date Night</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/113683/hls24_1540918773.m3u8</low>
+    <high>https://vid.tasty.co/output/113683/landscape_720/1540918773</high>
+  </video>
+  <duration>
+    <start_time>3.833</start_time>
+    <end_time>56.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 7341 12425 11078 14635 6459 13817 82 210 2237 6316 296 3025 4500 1083 11951 12282 11770 11951 10048 </step>
+    <step num="1">4660 13817 2550 4255 8283 7990 7811 767 6735 13199 5895 14490 701 560 11598 3815 </step>
+    <step num="2">6054 11951 3088 6781 11951 6410 3291 11951 10374 560 10937 2658 9741 881 2658 9724 </step>
+    <step num="3">283 210 11951 1368 4834 1681 10033 </step>
+    <step num="4">12774 1725 5895 1023 210 11951 7111 560 1966 1916 5448 432 3044 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 7341 12425 11078 14635 6459 13817 82 210 2237 6316 296 3025 4500 </steps_updated>
+    <steps_updated num="1">1083 11951 12282 11770 11951 10048 </steps_updated>
+    <steps_updated num="2">4660 13817 2550 4255 8283 7990 7811 767 6735 13199 5895 14490 701 560 11598 3815 </steps_updated>
+    <steps_updated num="3">6054 11951 3088 6781 11951 6410 3291 11951 10374 560 10937 2658 9741 881 2658 9724 </steps_updated>
+    <steps_updated num="4">283 210 11951 1368 4834 1681 10033 </steps_updated>
+    <steps_updated num="5">12774 1725 5895 1023 210 11951 7111 560 1966 1916 </steps_updated>
+    <steps_updated num="6">5448 432 3044 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

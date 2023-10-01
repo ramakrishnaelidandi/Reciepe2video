@@ -1,0 +1,47 @@
+<recipe>
+  <title>Healthy Banana Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-banana-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-pancakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 11728 4850 </ingredient>
+    <ingredient num="1">8580 13278 12708 </ingredient>
+    <ingredient num="2">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="3">1580 2605 13278 9541 1967 13278 9234 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 12425 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27116/low_1490138212.m3u8</low>
+    <high>https://vid.tasty.co/output/27116/mp4_720x1280/1490138212</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>26.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">10641 4850 210 5994 2597 12377 1681 12119 9393 210 12708 13817 1319 1681 3145 10058 415 10968 210 1967 13817 14242 </step>
+    <step num="1">8889 5994 10060 560 13757 13817 740 210 5994 1199 371 11951 2650 9368 11942 2696 560 1978 2237 5422 14614 264 7990 6285 6865 8927 1681 1762 12207 560 7734 8693 5341 6781 11951 10707 371 11951 9368 11423 13817 2550 1681 11951 11649 11801 9490 10963 1240 6285 6620 12689 </step>
+    <step num="2">13688 12313 8897 1391 12313 226 424 818 612 959 4743 3962 13271 9606 9171 12911 </step>
+    <step num="3">9092 </step>
+    <step num="4">2350 8431 1580 2605 7990 14514 11951 4428 560 11482 4061 8212 11849 8431 1813 2605 560 11482 11061 4127 10018 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10641 4850 210 5994 2597 12377 1681 12119 </steps_updated>
+    <steps_updated num="1">9393 210 12708 13817 1319 1681 3145 10058 415 10968 210 1967 13817 14242 </steps_updated>
+    <steps_updated num="2">8889 5994 10060 560 13757 13817 740 210 5994 1199 371 11951 2650 9368 </steps_updated>
+    <steps_updated num="3">11942 2696 560 1978 2237 5422 14614 </steps_updated>
+    <steps_updated num="4">264 7990 6285 6865 8927 1681 1762 12207 560 7734 8693 5341 6781 11951 10707 371 11951 9368 </steps_updated>
+    <steps_updated num="5">11423 13817 2550 1681 11951 11649 11801 9490 10963 1240 6285 6620 12689 </steps_updated>
+    <steps_updated num="6">13688 12313 8897 1391 12313 226 424 818 612 959 4743 3962 13271 9606 9171 12911 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+    <steps_updated num="8">2350 8431 1580 2605 7990 14514 11951 4428 560 11482 4061 8212 11849 8431 1813 2605 560 11482 11061 4127 10018 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry French Toast In A Mug Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-french-toast-in-a-mug</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fast-easy-breakfast-in-a-mug-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 slice ; bread </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">2 tablespoons ; milk </ingredient>
+    <ingredient num="3">¼ teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">blueberry, to taste </ingredient>
+    <ingredient num="6">maple syrup, to drizzle </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20921/low_1484677868.m3u8</low>
+    <high>https://vid.tasty.co/output/20921/mp4_720x1280/1484677868</high>
+  </video>
+  <duration>
+    <start_time>50.43</start_time>
+    <end_time>74.85</end_time>
+  </duration>
+  <steps>
+    <step num="0">Slice bread into cubes. </step>
+    <step num="1">In a bowl, add egg, milk, cinnamon, and vanilla, and mix. </step>
+    <step num="2">In a microwave-safe mug, place half of the cubed bread and desired amount of blueberries. </step>
+    <step num="3">Place the rest of the bread, berries, and the egg mixture into the mug. </step>
+    <step num="4">Microwave for 1½ minutes or until egg is fully cooked. </step>
+    <step num="5">Drizzle maple syrup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice bread into cubes. </steps_updated>
+    <steps_updated num="1">In a bowl, add egg, milk, cinnamon, and vanilla, and mix. </steps_updated>
+    <steps_updated num="2">In a microwave-safe mug, place half of the cubed bread and desired amount of blueberries. </steps_updated>
+    <steps_updated num="3">Place the rest of the bread, berries, and the egg mixture into the mug. </steps_updated>
+    <steps_updated num="4">Microwave for 1½ minutes or until egg is fully cooked. </steps_updated>
+    <steps_updated num="5">Drizzle maple syrup. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01574</start_time>
+    <end_time>02254</end_time>
+  </duration_human>
+</recipe>

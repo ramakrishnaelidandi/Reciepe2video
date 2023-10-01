@@ -1,0 +1,48 @@
+<recipe>
+  <title>Smoked Salmon Fillet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smoked-salmon-fillet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/unexpected-cooking-techniques</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 7630 13481 8086 13278 585 5981 </ingredient>
+    <ingredient num="1">8580 9517 13278 12282 13278 4551 8007 </ingredient>
+    <ingredient num="2">6735 643 13278 7989 721 13278 9473 5981 </ingredient>
+    <ingredient num="3">12060 13063 3123 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80534/hls24_1519324259.m3u8</low>
+    <high>https://vid.tasty.co/output/80534/landscape_720/1519324259</high>
+  </video>
+  <duration>
+    <start_time>69.0</start_time>
+    <end_time>93.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 12221 11951 13481 11318 210 11951 12282 7990 6865 14329 </step>
+    <step num="1">11720 11951 11318 13817 10231 560 5994 13757 6541 4782 10590 </step>
+    <step num="2">5570 5994 9152 371 3550 12 11770 11951 13481 4668 </step>
+    <step num="3">10242 11951 7989 1391 12752 9330 11837 </step>
+    <step num="4">5570 11951 7989 4255 10707 371 11951 3550 12 13817 6506 11951 5687 1391 6385 11426 </step>
+    <step num="5">264 11770 3996 7855 7990 9810 11004 1681 2237 5075 8408 9270 7127 210 11951 937 371 11951 6319 7075 3198 1704 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 12221 11951 13481 11318 210 11951 12282 7990 6865 14329 </steps_updated>
+    <steps_updated num="1">11720 11951 11318 13817 10231 560 5994 13757 6541 4782 10590 </steps_updated>
+    <steps_updated num="2">5570 5994 9152 371 3550 12 11770 11951 13481 4668 </steps_updated>
+    <steps_updated num="3">10242 11951 7989 1391 12752 9330 11837 </steps_updated>
+    <steps_updated num="4">5570 11951 7989 4255 10707 371 11951 3550 12 13817 6506 11951 5687 1391 6385 11426 </steps_updated>
+    <steps_updated num="5">264 11770 3996 7855 7990 9810 11004 1681 2237 5075 8408 9270 7127 210 11951 937 371 11951 6319 7075 3198 1704 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01644</start_time>
+    <end_time>02655</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Paleo Strawberry Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/paleo-strawberry-cheesecake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/paleo-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; raw cashew ; (260 g) </ingredient>
+    <ingredient num="1">2 cups ; strawberry, hulled ; (300 g) </ingredient>
+    <ingredient num="2">1 ; ripe banana </ingredient>
+    <ingredient num="3">¼ cup ; raw honey ; (90 g) </ingredient>
+    <ingredient num="4">¼ cup ; virgin coconut oil ; (50 g) </ingredient>
+    <ingredient num="5">1 ; lemon, juiced </ingredient>
+    <ingredient num="6">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">1 ½ cups ; almond ; (210 g) </ingredient>
+    <ingredient num="8">½ cup ; medjool date, pitted ; (90 g) </ingredient>
+    <ingredient num="9">¼ cup ; unsweetened shredded coconut ; (20 g) </ingredient>
+    <ingredient num="10">½ teaspoon ; pure vanilla extract </ingredient>
+    <ingredient num="11">1 pinch ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Date Night</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35980/low_1498687381.m3u8</low>
+    <high>https://vid.tasty.co/output/35980/mp4_720x1280/1498687381</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium-size bowl filled with water, add cashews. Refrigerate overnight. Discard cashew water. </step>
+    <step num="1">In a food processor, place cashews, strawberries, banana, honey, coconut oil, lemon juice, and vanilla extract. Process until smooth. Remove and set aside. </step>
+    <step num="2">In the food processor, place almonds, dates, coconut, vanilla, and salt. Pulse until mixture resembles a coarse crumble. </step>
+    <step num="3">Divide the crust mixture evenly among lightly greased ramekins. </step>
+    <step num="4">Press the mixture into the bottom and sides of the ramekins. </step>
+    <step num="5">Evenly divide strawberry filling among the ramekins. </step>
+    <step num="6">Refrigerate for 1 hour. </step>
+    <step num="7">Garnish to your liking. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium-size bowl filled with water, add cashews. </steps_updated>
+    <steps_updated num="1">Refrigerate overnight. </steps_updated>
+    <steps_updated num="2">Discard cashew water. </steps_updated>
+    <steps_updated num="3">In a food processor, place cashews, strawberries, banana, honey, coconut oil, lemon juice, and vanilla extract. </steps_updated>
+    <steps_updated num="4">Process until smooth. </steps_updated>
+    <steps_updated num="5">Remove and set aside. </steps_updated>
+    <steps_updated num="6">In the food processor, place almonds, dates, coconut, vanilla, and salt. </steps_updated>
+    <steps_updated num="7">Pulse until mixture resembles a coarse crumble. </steps_updated>
+    <steps_updated num="8">Divide the crust mixture evenly among lightly greased ramekins. </steps_updated>
+    <steps_updated num="9">Press the mixture into the bottom and sides of the ramekins. </steps_updated>
+    <steps_updated num="10">Evenly divide strawberry filling among the ramekins. </steps_updated>
+    <steps_updated num="11">Refrigerate for 1 hour. </steps_updated>
+    <steps_updated num="12">Garnish to your liking. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01315</start_time>
+    <end_time>02971</end_time>
+  </duration_human>
+</recipe>

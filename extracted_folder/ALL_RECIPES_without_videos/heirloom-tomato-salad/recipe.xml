@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Heirloom Tomato Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/heirloom-tomato-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; medium heirloom tomatoes </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">2 teaspoons ; balsamic vinegar </ingredient>
+    <ingredient num="3">3 tablespoons ; feta cheese, crumbled </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>119.5</start_time>
+    <end_time>153.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Using a serrated knife, slice the tomatoes into ½-inch (1 cm) thick rounds. </step>
+    <step num="1">Arrange the sliced tomatoes on a plate, alternating colors if desired. </step>
+    <step num="2">Drizzle with the olive oil and balsamic vinegar, and sprinkle the feta and parsley on top. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a serrated knife, slice the tomatoes into ½-inch (1 cm) thick rounds. </steps_updated>
+    <steps_updated num="1">Arrange the sliced tomatoes on a plate, alternating colors if desired. </steps_updated>
+    <steps_updated num="2">Drizzle with the olive oil and balsamic vinegar, and sprinkle the feta and parsley on top. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

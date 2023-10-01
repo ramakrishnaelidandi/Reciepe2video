@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Baked Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-baked-oatmeal</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ½ tablespoons ; coconut oil, melted, divided </ingredient>
+    <ingredient num="1">2 cups ; cranberry, divided ; (250 g) </ingredient>
+    <ingredient num="2">1 ¾ cups ; old fashioned rolled oat ; (175 g) </ingredient>
+    <ingredient num="3">½ cup ; walnuts, chopped ; (50 g) </ingredient>
+    <ingredient num="4">¼ cup ; unsweetened coconut flake, plus 2 tablespoons, divided ; (20 g) </ingredient>
+    <ingredient num="5">1 ½ teaspoons ; cinnamon </ingredient>
+    <ingredient num="6">½ teaspoon ; ground ginger </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">2 cups ; milk ; (480 mL) </ingredient>
+    <ingredient num="9">¼ cup ; maple syrup, plus more to serving ; (55 g) </ingredient>
+    <ingredient num="10">1 ; egg </ingredient>
+    <ingredient num="11">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="12">milk, or yogurt, for serving </ingredient>
+    <ingredient num="13">flaky sea salt, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/74575/hls24_1516823229.m3u8</low>
+    <high>https://vid.tasty.co/output/74575/landscape_720/1516823229</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180˚C). </step>
+    <step num="1">Oil a 9x9-inch (22x22-cm) baking dish with ½ tablespoon of the coconut oil and add 1½ cups (190 g) of the cranberries in a single layer. </step>
+    <step num="2">In a large bowl, mix together the rolled oats, walnuts, ¼ cup (20 g) coconut flakes, cinnamon, ginger, and salt. </step>
+    <step num="3">In a separate bowl, whisk together the remaining 2 tablespoons coconut oil, milk, maple syrup, egg, and vanilla. Pour the wet mixture into the dry mixture and stir just to combine. </step>
+    <step num="4">Pour the oat mixture over the cranberry layer in the baking dish and sprinkle with the remaining cranberries and coconut flakes. </step>
+    <step num="5">Bake until the top of the oatmeal is set, 30-40 minutes. </step>
+    <step num="6">Serve warm with milk or yogurt, flaky salt, and maple syrup, if desired. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180˚C). </steps_updated>
+    <steps_updated num="1">Oil a 9x9-inch (22x22-cm) baking dish with ½ tablespoon of the coconut oil and add 1½ cups (190 g) of the cranberries in a single layer. </steps_updated>
+    <steps_updated num="2">In a large bowl, mix together the rolled oats, walnuts, ¼ cup (20 g) coconut flakes, cinnamon, ginger, and salt. </steps_updated>
+    <steps_updated num="3">In a separate bowl, whisk together the remaining 2 tablespoons coconut oil, milk, maple syrup, egg, and vanilla. </steps_updated>
+    <steps_updated num="4">Pour the wet mixture into the dry mixture and stir just to combine. </steps_updated>
+    <steps_updated num="5">Pour the oat mixture over the cranberry layer in the baking dish and sprinkle with the remaining cranberries and coconut flakes. </steps_updated>
+    <steps_updated num="6">Bake until the top of the oatmeal is set, 30-40 minutes. </steps_updated>
+    <steps_updated num="7">Serve warm with milk or yogurt, flaky salt, and maple syrup, if desired. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-fruit-veggie-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; large sweet potato or yam </ingredient>
+    <ingredient num="1">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 teaspoon ; dried thyme </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Sides</category>
+    <category num="7">Snacks</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12061/low_1476400695.m3u8</low>
+    <high>https://vid.tasty.co/output/12061/mp4_720x1280/1476400695</high>
+  </video>
+  <duration>
+    <start_time>21.266</start_time>
+    <end_time>48.083</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 400˚F (200˚C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Cut the sweet potato into ⅛-inch to ¼-inch (3- to 6-mm) slices. In a medium bowl, toss the sweet potato slices with olive oil until fully coated. Add the seasonings and toss to coat. Arrange the slices on a baking sheet without overlapping the potatoes. </step>
+    <step num="2">Bake for 25 - 35 minutes, flipping halfway, until golden brown. Let the slices cool to room temperature. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Cut sweet potato into ⅛ inch (3 mm) to ¼ inch (6 mm) slices. </steps_updated>
+    <steps_updated num="2">In a medium bowl, toss slices with olive oil until fully coated. </steps_updated>
+    <steps_updated num="3">Add seasonings and toss until fully coated. </steps_updated>
+    <steps_updated num="4">Arrange slices on a baking sheet. </steps_updated>
+    <steps_updated num="5">Bake for 25 - 35 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="6">Allow slices to cool to room temperature. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00694</start_time>
+    <end_time>01451</end_time>
+  </duration_human>
+</recipe>

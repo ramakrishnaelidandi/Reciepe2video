@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hash-Brown Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hash-brown-waffles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ lb ; russet potato, peeled ; (680 g) </ingredient>
+    <ingredient num="1">¾ cup ; shredded sharp cheddar cheese ; (75 g) </ingredient>
+    <ingredient num="2">½ cup ; French Crispy Fried Onions ; (50 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; black pepper, pure ground </ingredient>
+    <ingredient num="5">2 ; eggs, whisked </ingredient>
+    <ingredient num="6">scallions, sliced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/127586/hls24_1552955153.m3u8</low>
+    <high>https://vid.tasty.co/output/127586/landscape_720/1552955153</high>
+  </video>
+  <steps>
+    <step num="0">Preheat waffle iron on high. Spray iron with cooking spray. Evenly spread half of the potato batter in the waffle iron and close. Cook for 5–7 minutes until nicely browned. </step>
+    <step num="1">Using a fork, remove hash-brown waffle from iron. Cook the second waffle using the rest of the potato batter. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat waffle iron on high. </steps_updated>
+    <steps_updated num="1">Spray iron with cooking spray. </steps_updated>
+    <steps_updated num="2">Evenly spread half of the potato batter in the waffle iron and close. </steps_updated>
+    <steps_updated num="3">Cook for 5–7 minutes until nicely browned. </steps_updated>
+    <steps_updated num="4">Using a fork, remove hash-brown waffle from iron. </steps_updated>
+    <steps_updated num="5">Cook the second waffle using the rest of the potato batter. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

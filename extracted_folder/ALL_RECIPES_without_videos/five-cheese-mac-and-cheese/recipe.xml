@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Five-cheese Mac and Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/five-cheese-mac-and-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; elbow macaroni </ingredient>
+    <ingredient num="1">12 oz ; evaporated milk, 1 can ; (355 mL) </ingredient>
+    <ingredient num="2">3 ; eggs </ingredient>
+    <ingredient num="3">½ cup ; unsalted butter ; (115 g) </ingredient>
+    <ingredient num="4">2 cups ; shredded cheddar cheese, shredded and divided ; (200 g) </ingredient>
+    <ingredient num="5">1 cup ; shredded mozzarella cheese, shredded ; (100 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; feta cheese, crumbled </ingredient>
+    <ingredient num="7">1 cup ; provolone cheese, cut into small pieces ; (115 g) </ingredient>
+    <ingredient num="8">½ cup ; smoked gouda cheese, shredded ; (50 g) </ingredient>
+    <ingredient num="9">4 teaspoons ; salt, divided </ingredient>
+    <ingredient num="10">2 teaspoons ; black pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+    <category num="6">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27205/low_1490206933.m3u8</low>
+    <high>https://vid.tasty.co/output/27205/mp4_720x1280/1490206933</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a large pot or dutch oven, cook macaroni according to package directions, salting the water with 2 teaspoons of salt. Drain and return to the warm pot. </step>
+    <step num="2">Add butter to warm macaroni and mix until melted. Season with the remaining salt and pepper. </step>
+    <step num="3">Add half of the cheddar cheese, mozzarella, provolone, gouda, and feta cheese. Mix well. </step>
+    <step num="4">Add eggs and evaporated milk, mix until fully incorporated. </step>
+    <step num="5">Transfer to a 9x13-inch (23 x 33 cm) baking dish and top with the remaining cheddar cheese. </step>
+    <step num="6">Bake in a preheated oven for 40-45 minutes, until the top has nicely browned. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large pot or dutch oven, cook macaroni according to package directions, salting the water with 2 teaspoons of salt. </steps_updated>
+    <steps_updated num="2">Drain and return to the warm pot. </steps_updated>
+    <steps_updated num="3">Add butter to warm macaroni and mix until melted. </steps_updated>
+    <steps_updated num="4">Season with the remaining salt and pepper. </steps_updated>
+    <steps_updated num="5">Add half of the cheddar cheese, mozzarella, provolone, gouda, and feta cheese. </steps_updated>
+    <steps_updated num="6">Mix well. </steps_updated>
+    <steps_updated num="7">Add eggs and evaporated milk, mix until fully incorporated. </steps_updated>
+    <steps_updated num="8">Transfer to a 9x13-inch (23 x 33 cm) baking dish and top with the remaining cheddar cheese. </steps_updated>
+    <steps_updated num="9">Bake in a preheated oven for 40-45 minutes, until the top has nicely browned. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

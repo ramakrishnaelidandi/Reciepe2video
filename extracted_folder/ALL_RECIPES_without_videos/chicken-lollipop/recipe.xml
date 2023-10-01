@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Lollipop Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-lollipop</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; full-size chicken wings </ingredient>
+    <ingredient num="1">2 cups ; oil, for frying ; (500 mL) </ingredient>
+    <ingredient num="2">2 teaspoons ; chilli powder </ingredient>
+    <ingredient num="3">2 tablespoons ; ginger garlic paste </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="7">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="8">½ cup ; cornflour ; (60 g) </ingredient>
+    <ingredient num="9">1 tablespoon ; chilli powder </ingredient>
+    <ingredient num="10">1 ; egg </ingredient>
+    <ingredient num="11">¼ cup ; water ; (60 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45715/low_1501605776.m3u8</low>
+    <high>https://vid.tasty.co/output/45715/mp4_720x1280/1501605776</high>
+  </video>
+  <steps>
+    <step num="0">Add all the marinade ingredients to a bowl and mix until fully combined, set aside. </step>
+    <step num="1">Slice a full-size chicken wing into three parts along the joints. Discard the wing-tip (or you can save them for making a chicken stock). </step>
+    <step num="2">For the drummet (the upper, meaty, one-bone part of the wing), cut along the circumference of the thin end so that the bone and the meat are no longer connected. Then push down the meat so the drummet becomes a lollipop. </step>
+    <step num="3">For the winglet (the middle, two-bone part of the wing), separate where the two bones join, and also cut along the circumferences of both ends, so the bone and the meat are no longer connected. Take out the thinner bone, and push down the meat into one end of the thinner bone. </step>
+    <step num="4">Place the prepared chicken lollipops in the marinade. Stir and cover. Marinate in the fridge for at least 1 hour. </step>
+    <step num="5">Mix all batter ingredients until smooth without lumps. </step>
+    <step num="6">Dip the meat end of the chicken lollipops into the batter. </step>
+    <step num="7">In a medium-sized pot, heat the oil to 170˚C (340˚F). Deep fry the chicken for 5 minutes or until the batter becomes golden brown and the chicken is cooked throughout. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all the marinade ingredients to a bowl and mix until fully combined, set aside. </steps_updated>
+    <steps_updated num="1">Slice a full-size chicken wing into three parts along the joints. </steps_updated>
+    <steps_updated num="2">Discard the wing-tip (or you can save them for making a chicken stock). </steps_updated>
+    <steps_updated num="3">For the drummet (the upper, meaty, one-bone part of the wing), cut along the circumference of the thin end so that the bone and the meat are no longer connected. </steps_updated>
+    <steps_updated num="4">Then push down the meat so the drummet becomes a lollipop. </steps_updated>
+    <steps_updated num="5">For the winglet (the middle, two-bone part of the wing), separate where the two bones join, and also cut along the circumferences of both ends, so the bone and the meat are no longer connected. </steps_updated>
+    <steps_updated num="6">Take out the thinner bone, and push down the meat into one end of the thinner bone. </steps_updated>
+    <steps_updated num="7">Place the prepared chicken lollipops in the marinade. </steps_updated>
+    <steps_updated num="8">Stir and cover. </steps_updated>
+    <steps_updated num="9">Marinate in the fridge for at least 1 hour. </steps_updated>
+    <steps_updated num="10">Mix all batter ingredients until smooth without lumps. </steps_updated>
+    <steps_updated num="11">Dip the meat end of the chicken lollipops into the batter. </steps_updated>
+    <steps_updated num="12">In a medium-sized pot, heat the oil to 170˚C (340˚F). </steps_updated>
+    <steps_updated num="13">Deep fry the chicken for 5 minutes or until the batter becomes golden brown and the chicken is cooked throughout. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

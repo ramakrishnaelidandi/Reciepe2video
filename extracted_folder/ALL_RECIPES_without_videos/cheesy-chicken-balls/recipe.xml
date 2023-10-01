@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Chicken Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-chicken-balls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts, cooked </ingredient>
+    <ingredient num="1">2 ; egg yolks </ingredient>
+    <ingredient num="2">¼ cup ; plain flour ; (30 g) </ingredient>
+    <ingredient num="3">1 ¾ cups ; shredded mozzarella cheese ; (175 g) </ingredient>
+    <ingredient num="4">2 ; spring onions, chopped </ingredient>
+    <ingredient num="5">½ teaspoon ; paprika </ingredient>
+    <ingredient num="6">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="7">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 cup ; bread crumbs ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32263/low_1495125540.m3u8</low>
+    <high>https://vid.tasty.co/output/32263/mp4_720x1280/1495125540</high>
+  </video>
+  <steps>
+    <step num="0">Shred the cooked chicken breasts in a bowl using 2 forks. </step>
+    <step num="1">Transfer the chicken to a larger bowl and pour in the egg yolks, flour, cheese, spring onions, paprika, rosemary, garlic powder, salt, and pepper. </step>
+    <step num="2">Mix together and then roll the mixture into balls using your hands. </step>
+    <step num="3">Coat the balls in breadcrumbs. </step>
+    <step num="4">Heat up a litre of oil in a frying pan and deep fry the balls for about 3 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Shred the cooked chicken breasts in a bowl using 2 forks. </steps_updated>
+    <steps_updated num="1">Transfer the chicken to a larger bowl and pour in the egg yolks, flour, cheese, spring onions, paprika, rosemary, garlic powder, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Mix together and then roll the mixture into balls using your hands. </steps_updated>
+    <steps_updated num="3">Coat the balls in breadcrumbs. </steps_updated>
+    <steps_updated num="4">Heat up a litre of oil in a frying pan and deep fry the balls for about 3 minutes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

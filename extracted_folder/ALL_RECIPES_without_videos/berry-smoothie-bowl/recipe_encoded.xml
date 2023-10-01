@@ -1,0 +1,44 @@
+<recipe>
+  <title>Berry Smoothie Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/berry-smoothie-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 6114 13278 13170 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 356 13278 7008 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 8770 13278 13412 5981 </ingredient>
+    <ingredient num="3">3917 13278 76 976 </ingredient>
+    <ingredient num="4">1580 2605 13278 9767 3713 13278 7015 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 638 9889 5895 11691 5802 13278 11660 8007 </ingredient>
+    <ingredient num="6">12791 2605 13278 13798 9924 13278 13125 5981 </ingredient>
+    <ingredient num="7">13098 516 560 11567 </ingredient>
+    <ingredient num="8">76 516 560 11567 </ingredient>
+    <ingredient num="9">10010 13969 560 11567 </ingredient>
+    <ingredient num="10">4406 560 11567 </ingredient>
+    <ingredient num="11">3333 13415 560 11567 </ingredient>
+    <ingredient num="12">8570 12320 560 11567 </ingredient>
+    <ingredient num="13">5375 12320 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31865/low_1495124879.m3u8</low>
+    <high>https://vid.tasty.co/output/31865/mp4_720x1280/1495124879</high>
+  </video>
+  <steps>
+    <step num="0">3262 13592 6738 9767 2694 638 9889 13817 13798 9924 1681 12119 </step>
+    <step num="1">13494 1391 12313 226 7857 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3262 13592 6738 9767 2694 638 9889 13817 13798 9924 1681 12119 </steps_updated>
+    <steps_updated num="1">13494 1391 12313 226 7857 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+</recipe>

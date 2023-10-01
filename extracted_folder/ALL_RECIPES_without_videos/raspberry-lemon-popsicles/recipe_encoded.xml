@@ -1,0 +1,46 @@
+<recipe>
+  <title>Raspberry Lemon Popsicles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-lemon-popsicles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fruit-popsicles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 356 13278 9373 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 6209 597 10522 13278 7503 8007 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 12282 13278 1536 8007 </ingredient>
+    <ingredient num="3">5298 4818 1391 11061 8203 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31130/low_1494260052.m3u8</low>
+    <high>https://vid.tasty.co/output/31130/mp4_720x1280/1494260052</high>
+  </video>
+  <duration>
+    <start_time>22.0</start_time>
+    <end_time>44.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">8845 6209 597 8587 </step>
+    <step num="1">1083 2963 371 597 10522 210 10763 4524 371 11951 5298 13891 </step>
+    <step num="2">1349 11951 14426 1391 11253 </step>
+    <step num="3">1349 210 11951 1618 371 5910 1391 2019 </step>
+    <step num="4">13855 11951 4327 7990 7811 767 2933 14329 </step>
+    <step num="5">12946 11951 11579 4327 2696 371 11951 2439 8100 13817 8497 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8845 6209 597 8587 </steps_updated>
+    <steps_updated num="1">1083 2963 371 597 10522 210 10763 4524 371 11951 5298 13891 </steps_updated>
+    <steps_updated num="2">1349 11951 14426 1391 11253 </steps_updated>
+    <steps_updated num="3">1349 210 11951 1618 371 5910 1391 2019 </steps_updated>
+    <steps_updated num="4">13855 11951 4327 7990 7811 767 2933 14329 </steps_updated>
+    <steps_updated num="5">12946 11951 11579 4327 2696 371 11951 2439 8100 13817 8497 </steps_updated>
+  </steps_updated>
+</recipe>

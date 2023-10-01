@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Mac &amp; Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-mac-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-3-ingredient-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">5 cups ; milk ; (1 ¼ L) </ingredient>
+    <ingredient num="1">1 lb ; elbow macaroni, dry ; (455 g) </ingredient>
+    <ingredient num="2">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10402/low_1474401236.m3u8</low>
+    <high>https://vid.tasty.co/output/10402/mp4_720x1280/1474401236</high>
+  </video>
+  <duration>
+    <start_time>3.13</start_time>
+    <end_time>27.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pot, bring the milk to a boil. </step>
+    <step num="1">Add the pasta and stir constantly until the pasta is cooked, about 10 minutes. </step>
+    <step num="2">Turn off the heat, then add the cheddar. Stir until the cheese is melted and the pasta is evenly coated. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot, bring the milk to a boil. </steps_updated>
+    <steps_updated num="1">Add the pasta and stir constantly until the pasta is cooked, about 10 minutes. </steps_updated>
+    <steps_updated num="2">Turn off the heat, then add the cheddar. </steps_updated>
+    <steps_updated num="3">Stir until the cheese is melted and the pasta is evenly coated. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00827</end_time>
+  </duration_human>
+</recipe>

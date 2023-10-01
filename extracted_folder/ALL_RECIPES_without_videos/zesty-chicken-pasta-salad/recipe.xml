@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zesty Chicken Pasta Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zesty-chicken-pasta-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; bowtie pasta, cooked ; (200 g) </ingredient>
+    <ingredient num="1">½ cup ; shredded chicken ; (65 g) </ingredient>
+    <ingredient num="2">¼ cup ; cucumber, diced ; (35 g) </ingredient>
+    <ingredient num="3">¼ cup ; celery, diced ; (60 g) </ingredient>
+    <ingredient num="4">¼ cup ; black olive, sliced </ingredient>
+    <ingredient num="5">6 ; cherry tomatoes, sliced in half </ingredient>
+    <ingredient num="6">½ cup ; carrot, julienned ; (60 g) </ingredient>
+    <ingredient num="7">3 tablespoons ; italian dressing </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>29.0</start_time>
+    <end_time>53.24</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a bowl, combine pasta, chicken, cucumber, celery, black olives, sliced tomatoes, carrots, and Italian dressing. </step>
+    <step num="1">Mix well and pour pasta salad into a reusable container. Pack with fruits and veggies for sides. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, combine pasta, chicken, cucumber, celery, black olives, sliced tomatoes, carrots, and Italian dressing. </steps_updated>
+    <steps_updated num="1">Mix well and pour pasta salad into a reusable container. </steps_updated>
+    <steps_updated num="2">Pack with fruits and veggies for sides. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00924</start_time>
+    <end_time>01642</end_time>
+  </duration_human>
+</recipe>

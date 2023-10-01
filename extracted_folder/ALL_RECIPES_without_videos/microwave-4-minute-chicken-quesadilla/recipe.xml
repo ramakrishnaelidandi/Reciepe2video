@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Microwave 4-minute Chicken Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwave-4-minute-chicken-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-dorm-friendly-microwave-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; medium flour tortillas </ingredient>
+    <ingredient num="1">½ cup ; chicken strip, or shredded chicken, cooked ; (60 g) </ingredient>
+    <ingredient num="2">½ ; bell pepper, diced </ingredient>
+    <ingredient num="3">1 tablespoon ; taco seasoning </ingredient>
+    <ingredient num="4">¼ cup ; shredded cheddar cheese ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/52822/low_1505933071.m3u8</low>
+    <high>https://vid.tasty.co/output/52822/mp4_720x1280/1505933071</high>
+  </video>
+  <duration>
+    <start_time>57.02</start_time>
+    <end_time>96.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">Microwave the tortillas on a plate until slightly crispy. They will dry out a bit as they cool. </step>
+    <step num="1">Mix the chicken, peppers, and taco seasoning in a bowl until evenly combined, then cook for about 1-2 minutes until the peppers are soft. </step>
+    <step num="2">Spread the mixture evenly on one tortilla, cover evenly with the cheese, then top with the other tortilla. </step>
+    <step num="3">Cook for another 30 seconds to 1 minute, slice, then serve. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Microwave the tortillas on a plate until slightly crispy. </steps_updated>
+    <steps_updated num="1">They will dry out a bit as they cool. </steps_updated>
+    <steps_updated num="2">Mix the chicken, peppers, and taco seasoning in a bowl until evenly combined, then cook for about 1-2 minutes until the peppers are soft. </steps_updated>
+    <steps_updated num="3">Spread the mixture evenly on one tortilla, cover evenly with the cheese, then top with the other tortilla. </steps_updated>
+    <steps_updated num="4">Cook for another 30 seconds to 1 minute, slice, then serve. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01767</start_time>
+    <end_time>02918</end_time>
+  </duration_human>
+</recipe>

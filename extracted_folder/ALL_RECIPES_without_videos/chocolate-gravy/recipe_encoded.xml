@@ -1,0 +1,42 @@
+<recipe>
+  <title>Chocolate Gravy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-gravy</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="1">1813 2605 13278 9053 11703 13278 336 5981 </ingredient>
+    <ingredient num="2">13086 9486 13278 6844 890 </ingredient>
+    <ingredient num="3">3917 2157 13278 3855 82 </ingredient>
+    <ingredient num="4">3917 9883 9517 13278 3305 5802 13278 4332 8007 </ingredient>
+    <ingredient num="5">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="6">13086 9486 13278 7974 9924 </ingredient>
+    <ingredient num="7">9378 5585 </ingredient>
+    <ingredient num="8">6202 14124 </ingredient>
+    <ingredient num="9">2439 13033 </ingredient>
+    <ingredient num="10">6114 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Indulgent Sweets</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124600/hls24_1549670839.m3u8</low>
+    <high>https://vid.tasty.co/output/124600/landscape_720/1549670839</high>
+  </video>
+  <steps>
+    <step num="0">4026 11951 6145 9053 8117 6467 13817 82 669 5994 2597 10060 5895 9065 9179 11951 5802 13817 8341 560 1011 264 11770 13757 14307 13328 3273 1681 4721 7242 10561 12689 6054 6781 11951 2082 </step>
+    <step num="1">12473 210 11951 1319 13817 9924 1681 11951 9924 9490 5335 13817 3145 9456 </step>
+    <step num="2">12774 6908 11770 9378 13320 6202 625 2439 1123 5895 2658 5994 10852 7990 12313 226 11682 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">4026 11951 6145 9053 8117 6467 13817 82 669 5994 2597 10060 5895 9065 </steps_updated>
+    <steps_updated num="1">9179 11951 5802 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="2">264 11770 13757 14307 13328 3273 1681 4721 7242 10561 12689 </steps_updated>
+    <steps_updated num="3">6054 6781 11951 2082 </steps_updated>
+    <steps_updated num="4">12473 210 11951 1319 13817 9924 1681 11951 9924 9490 5335 13817 3145 9456 </steps_updated>
+    <steps_updated num="5">12774 6908 11770 9378 13320 6202 625 2439 1123 5895 2658 5994 10852 7990 12313 226 11682 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

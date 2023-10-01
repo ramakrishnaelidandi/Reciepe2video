@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Tea Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-tea</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; medium apples, washed and peeled </ingredient>
+    <ingredient num="1">1 ; cinnamon stick </ingredient>
+    <ingredient num="2">2 teaspoons ; sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>65.333</start_time>
+    <end_time>77.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Toss the peels in a small pot of boiling water. </step>
+    <step num="1">Add the cinnamon stick and sugar. </step>
+    <step num="2">Let simmer for about 10 minutes. </step>
+    <step num="3">Strain out the peels. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Toss the peels in a small pot of boiling water. </steps_updated>
+    <steps_updated num="1">Add the cinnamon stick and sugar. </steps_updated>
+    <steps_updated num="2">Let simmer for about 10 minutes. </steps_updated>
+    <steps_updated num="3">Strain out the peels. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

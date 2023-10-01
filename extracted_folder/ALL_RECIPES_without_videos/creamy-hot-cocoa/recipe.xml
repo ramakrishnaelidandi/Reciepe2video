@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Hot Cocoa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-hot-cocoa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dairy-free-holiday-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; dark chocolate chip ; (175 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; maple syrup </ingredient>
+    <ingredient num="2">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="3">1 pinch ; salt </ingredient>
+    <ingredient num="4">1 cup ; sweet potato puree ; (200 g) </ingredient>
+    <ingredient num="5">2 ½ cups ; almond milk ; (590 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Drinks</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68345/hls24_1513364143.m3u8</low>
+    <high>https://vid.tasty.co/output/68345/landscape_720/1513364143</high>
+  </video>
+  <duration>
+    <start_time>76.289</start_time>
+    <end_time>112.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add dark chocolate, maple syrup, vanilla extract, salt, sweet potato puree and almond milk to a medium saucepan over medium low heat. Whisk to combine and bring to a simmer, stirring occasionally to incorporate chocolate. </step>
+    <step num="1">Once mixture is smooth and heated through, remove from heat. </step>
+    <step num="2">Serve warm. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add dark chocolate, maple syrup, vanilla extract, salt, sweet potato puree and almond milk to a medium saucepan over medium low heat. </steps_updated>
+    <steps_updated num="1">Whisk to combine and bring to a simmer, stirring occasionally to incorporate chocolate. </steps_updated>
+    <steps_updated num="2">Once mixture is smooth and heated through, remove from heat. </steps_updated>
+    <steps_updated num="3">Serve warm. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

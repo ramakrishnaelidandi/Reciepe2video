@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Cornbread Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-cornbread-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; bananas </ingredient>
+    <ingredient num="1">⅓ cup ; granulated sugar ; (65 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="3">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="4">1 ½ cups ; milk ; (360 mL) </ingredient>
+    <ingredient num="5">2 cups ; cornmeal ; (250 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="8">2 teaspoons ; cinnamon </ingredient>
+    <ingredient num="9">1 teaspoon ; butter, for griddling </ingredient>
+    <ingredient num="10">butter, for serving </ingredient>
+    <ingredient num="11">honey, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96512/hls24_1527722457.m3u8</low>
+    <high>https://vid.tasty.co/output/96512/landscape_720/1527722457</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, mash the bananas. Add the granulated sugar, brown sugar, and vanilla and whisk until evenly incorporated. </step>
+    <step num="1">Add the milk and whisk to combine. </step>
+    <step num="2">Sift in the cornmeal, salt, baking powder, and cinnamon and whisk until fully incorporated. </step>
+    <step num="3">In a medium pan over medium heat, melt the butter and add ⅓ cup (40 g) of pancake batter. </step>
+    <step num="4">Cook for 3-5 minutes, or until lightly golden brown, then flip. Cook for 2-3 minutes more on the other side, then remove from the pan. Repeat with the remaining batter. </step>
+    <step num="5">Serve with honey and butter. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, mash the bananas. </steps_updated>
+    <steps_updated num="1">Add the granulated sugar, brown sugar, and vanilla and whisk until evenly incorporated. </steps_updated>
+    <steps_updated num="2">Add the milk and whisk to combine. </steps_updated>
+    <steps_updated num="3">Sift in the cornmeal, salt, baking powder, and cinnamon and whisk until fully incorporated. </steps_updated>
+    <steps_updated num="4">In a medium pan over medium heat, melt the butter and add ⅓ cup (40 g) of pancake batter. </steps_updated>
+    <steps_updated num="5">Cook for 3-5 minutes, or until lightly golden brown, then flip. </steps_updated>
+    <steps_updated num="6">Cook for 2-3 minutes more on the other side, then remove from the pan. </steps_updated>
+    <steps_updated num="7">Repeat with the remaining batter. </steps_updated>
+    <steps_updated num="8">Serve with honey and butter. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,78 @@
+<recipe>
+  <title>Sanjana&#8217;s Momo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sanjanas-momo</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dumplings-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 11088 7983 13278 4563 5981 </ingredient>
+    <ingredient num="1">1580 13278 8083 12384 11588 3962 </ingredient>
+    <ingredient num="2">1580 2605 13278 10286 11588 3962 13278 2264 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 6209 6712 11588 3962 13278 828 5981 </ingredient>
+    <ingredient num="4">3917 14014 13278 4155 10015 </ingredient>
+    <ingredient num="5">3917 14014 13278 14635 2431 </ingredient>
+    <ingredient num="6">3917 8071 13278 13056 </ingredient>
+    <ingredient num="7">3917 8071 13278 8083 13389 11703 </ingredient>
+    <ingredient num="8">3917 8071 13278 12490 1032 </ingredient>
+    <ingredient num="9">8580 9486 13278 6618 4318 5895 9924 </ingredient>
+    <ingredient num="10">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="11">3095 13278 2192 9324 13438 </ingredient>
+    <ingredient num="12">2175 747 5895 3550 1715 560 2348 11951 360 </ingredient>
+    <ingredient num="13">8855 2517 </ingredient>
+    <ingredient num="14">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="15">4061 13278 13757 7042 3962 </ingredient>
+    <ingredient num="16">4061 13278 7149 1669 3962 </ingredient>
+    <ingredient num="17">3917 14014 13278 4155 10015 </ingredient>
+    <ingredient num="18">3917 14014 13278 14635 2431 </ingredient>
+    <ingredient num="19">1580 8071 13278 13056 </ingredient>
+    <ingredient num="20">3917 8071 13278 9970 10986 5895 796 246 </ingredient>
+    <ingredient num="21">12610 560 11567 </ingredient>
+    <ingredient num="22">8580 9486 13278 488 9110 1245 </ingredient>
+    <ingredient num="23">12791 2605 13278 6209 14621 13278 12237 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92132/hls24_1525222676.m3u8</low>
+    <high>https://vid.tasty.co/output/92132/landscape_720/1525222676</high>
+  </video>
+  <duration>
+    <start_time>160.166</start_time>
+    <end_time>218.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">6823 11951 13171 10950 5994 2597 14511 4120 11951 11088 12816 8083 12384 10286 6712 4155 14635 948 13389 8117 12490 11137 6618 13817 8244 14158 9393 3145 1391 12313 6292 </step>
+    <step num="1">5570 5994 14014 371 11539 210 11951 8365 371 5994 9324 10568 5209 12313 9654 8574 6118 11951 2202 2567 1391 2019 </step>
+    <step num="2">11511 11951 10707 371 11951 12210 10104 12313 12065 560 1030 13817 8301 2658 1762 1739 5833 3557 475 665 5994 8779 2321 5362 1391 11951 374 13438 13817 198 </step>
+    <step num="3">8785 5994 2597 10083 7860 5994 3990 371 11951 10772 1391 12282 560 1002 11770 8283 7855 13817 10707 1391 5994 9324 360 471 9207 11951 4596 1391 2048 1550 8563 11951 2128 210 10470 7990 10052 11004 1681 11951 14021 175 4721 6470 </step>
+    <step num="4">6823 11951 7361 7611 10950 5994 13757 7110 7855 11951 8244 5766 11770 13757 2082 9179 11951 7042 7149 3601 4155 14635 948 13817 11802 12963 10242 1391 12051 3633 13328 6601 1681 11951 9668 9490 10348 7990 2933 12689 6054 11951 5687 6781 11951 14307 13817 3945 10694 7990 5966 12689 </step>
+    <step num="5">12785 11951 9668 2373 560 5994 12027 13817 740 11951 9110 1245 13817 1117 3262 1681 12119 </step>
+    <step num="6">12774 11951 2128 1391 11951 7361 9408 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6823 11951 13171 10950 5994 2597 14511 4120 11951 11088 12816 8083 12384 10286 6712 4155 14635 948 13389 8117 12490 11137 6618 13817 8244 14158 </steps_updated>
+    <steps_updated num="1">9393 3145 1391 12313 6292 </steps_updated>
+    <steps_updated num="2">5570 5994 14014 371 11539 210 11951 8365 371 5994 9324 10568 </steps_updated>
+    <steps_updated num="3">5209 12313 9654 8574 6118 11951 2202 2567 1391 2019 </steps_updated>
+    <steps_updated num="4">11511 11951 10707 371 11951 12210 10104 12313 12065 560 1030 13817 8301 2658 1762 1739 5833 3557 475 665 5994 8779 2321 </steps_updated>
+    <steps_updated num="5">5362 1391 11951 374 13438 13817 198 </steps_updated>
+    <steps_updated num="6">8785 5994 2597 10083 7860 5994 3990 371 11951 10772 1391 12282 560 1002 11770 8283 7855 13817 10707 1391 5994 9324 360 471 </steps_updated>
+    <steps_updated num="7">9207 11951 4596 1391 2048 1550 </steps_updated>
+    <steps_updated num="8">8563 11951 2128 210 10470 7990 10052 11004 1681 11951 14021 175 4721 6470 </steps_updated>
+    <steps_updated num="9">6823 11951 7361 7611 10950 5994 13757 7110 7855 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="10">9179 11951 7042 7149 3601 4155 14635 948 13817 11802 12963 </steps_updated>
+    <steps_updated num="11">10242 1391 12051 </steps_updated>
+    <steps_updated num="12">3633 13328 6601 1681 11951 9668 9490 10348 7990 2933 12689 </steps_updated>
+    <steps_updated num="13">6054 11951 5687 6781 11951 14307 13817 3945 10694 7990 5966 12689 </steps_updated>
+    <steps_updated num="14">12785 11951 9668 2373 560 5994 12027 13817 740 11951 9110 1245 13817 1117 </steps_updated>
+    <steps_updated num="15">3262 1681 12119 </steps_updated>
+    <steps_updated num="16">12774 11951 2128 1391 11951 7361 9408 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

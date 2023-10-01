@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Waffle Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/waffle-omelette</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; eggs, beaten </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">nonstick cooking spray </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>150.0</start_time>
+    <end_time>185.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, add the beaten eggs, any of your favorite toppings, salt, and pepper. Mix well. </step>
+    <step num="1">Grease a waffle iron with nonstick spray. Add the egg mixture and cook according to machine instruction to until the eggs are fully set and slightly browned, 2 minutes. </step>
+    <step num="2">Remove the egg from the waffle iron and serve. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add the beaten eggs, any of your favorite toppings, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Mix well. </steps_updated>
+    <steps_updated num="2">Grease a waffle iron with nonstick spray. </steps_updated>
+    <steps_updated num="3">Add the egg mixture and cook according to machine instruction to until the eggs are fully set and slightly browned, 2 minutes. </steps_updated>
+    <steps_updated num="4">Remove the egg from the waffle iron and serve. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

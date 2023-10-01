@@ -1,0 +1,55 @@
+<recipe>
+  <title>Microwave &#8220;Fried&#8221; Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwave-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-dorm-friendly-microwave-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 7706 13278 11953 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 12282 13278 12462 8007 </ingredient>
+    <ingredient num="2">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="3">3917 8071 13278 9110 5766 </ingredient>
+    <ingredient num="4">8580 9259 13278 7035 3962 </ingredient>
+    <ingredient num="5">1580 2605 13278 11579 4011 13817 11021 13278 9377 5981 </ingredient>
+    <ingredient num="6">8580 13278 12708 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">6209 6293 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/52822/low_1505933071.m3u8</low>
+    <high>https://vid.tasty.co/output/52822/mp4_720x1280/1505933071</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 4120 11951 11948 13384 11691 7280 9110 7632 13817 6106 7794 415 14186 13709 7990 6285 14115 8927 1681 11951 7706 9490 7568 907 </step>
+    <step num="1">9393 11951 11579 13144 13817 9151 669 11951 8860 </step>
+    <step num="2">10950 5994 12837 3946 3930 11951 12708 1391 11951 12051 </step>
+    <step num="3">6688 11951 12708 13817 11951 7706 2798 7990 6285 6620 11004 1681 11951 12708 12573 7568 907 </step>
+    <step num="4">906 3386 11951 6216 669 2192 13372 415 10968 3557 210 1391 11951 8860 </step>
+    <step num="5">13688 1391 10286 415 7329 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 4120 11951 11948 13384 11691 7280 9110 7632 13817 6106 </steps_updated>
+    <steps_updated num="1">7794 415 14186 13709 7990 6285 14115 8927 1681 11951 7706 9490 7568 907 </steps_updated>
+    <steps_updated num="2">9393 11951 11579 13144 13817 9151 669 11951 8860 </steps_updated>
+    <steps_updated num="3">10950 5994 12837 3946 3930 11951 12708 1391 11951 12051 </steps_updated>
+    <steps_updated num="4">6688 11951 12708 13817 11951 7706 2798 7990 6285 6620 11004 1681 11951 12708 12573 7568 907 </steps_updated>
+    <steps_updated num="5">906 3386 11951 6216 669 2192 13372 415 10968 3557 210 1391 11951 8860 </steps_updated>
+    <steps_updated num="6">13688 1391 10286 415 7329 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05708</start_time>
+    <end_time>07172</end_time>
+  </duration_human>
+</recipe>

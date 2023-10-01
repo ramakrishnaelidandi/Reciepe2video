@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hummus And Carrot Sticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hummus-and-carrot-sticks</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-3</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; chickpeas, 1 can, drained ; (400 g) </ingredient>
+    <ingredient num="1">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="2">½ ; lemon, juiced </ingredient>
+    <ingredient num="3">1 small clove ; garlic </ingredient>
+    <ingredient num="4">¼ teaspoon ; ground cumin </ingredient>
+    <ingredient num="5">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="6">2 ; medium carrots </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94177/hls24_1526421103.m3u8</low>
+    <high>https://vid.tasty.co/output/94177/landscape_720/1526421103</high>
+  </video>
+  <duration>
+    <start_time>81.5</start_time>
+    <end_time>106.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine the chickpeas, olive oil, lemon juice, garlic, cumin, and salt in a blender or food processor and blend until completely smooth. </step>
+    <step num="1">Transfer to an airtight container and store in the fridge up to 7 days. </step>
+    <step num="2">Peel and cut the carrots into spears. </step>
+    <step num="3">Serve with ⅓ cup (80 g) hummus. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the chickpeas, olive oil, lemon juice, garlic, cumin, and salt in a blender or food processor and blend until completely smooth. </steps_updated>
+    <steps_updated num="1">Transfer to an airtight container and store in the fridge up to 7 days. </steps_updated>
+    <steps_updated num="2">Peel and cut the carrots into spears. </steps_updated>
+    <steps_updated num="3">Serve with ⅓ cup (80 g) hummus. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

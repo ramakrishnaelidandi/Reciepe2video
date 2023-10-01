@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Froyo Fruit Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/froyo-fruit-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/no-bake-snack-bites</comp_url>
+  <ingredients>
+    <ingredient num="0">blueberry </ingredient>
+    <ingredient num="1">raspberry </ingredient>
+    <ingredient num="2">1 ½ cups ; vanilla greek yogurt ; (370 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49829/low_1503968354.m3u8</low>
+    <high>https://vid.tasty.co/output/49829/mp4_720x1280/1503968354</high>
+  </video>
+  <duration>
+    <start_time>85.0</start_time>
+    <end_time>113.3</end_time>
+  </duration>
+  <steps>
+    <step num="0">Arrange 12 cupcake liners in a muffin tin. </step>
+    <step num="1">Using a spoon, dollop two tablespoons of yogurt into the bottom of each liner. </step>
+    <step num="2">Top with blueberries and raspberries. </step>
+    <step num="3">Freeze for at least two hours. </step>
+    <step num="4">Remove cupcake liners before serving. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Arrange 12 cupcake liners in a muffin tin. </steps_updated>
+    <steps_updated num="1">Using a spoon, dollop two tablespoons of yogurt into the bottom of each liner. </steps_updated>
+    <steps_updated num="2">Top with blueberries and raspberries. </steps_updated>
+    <steps_updated num="3">Freeze for at least two hours. </steps_updated>
+    <steps_updated num="4">Remove cupcake liners before serving. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02606</start_time>
+    <end_time>03405</end_time>
+  </duration_human>
+</recipe>

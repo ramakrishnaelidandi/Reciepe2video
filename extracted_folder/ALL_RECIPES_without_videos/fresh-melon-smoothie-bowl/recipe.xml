@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fresh Melon Smoothie Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-melon-smoothie-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-beautiful-smoothie-bowls</comp_url>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; almond milk ; (80 g) </ingredient>
+    <ingredient num="1">¾ cup ; cantaloupe, peeled and cubed ; (130 g) </ingredient>
+    <ingredient num="2">½ cup ; banana, sliced ; (150 g) </ingredient>
+    <ingredient num="3">1 cup ; mango, peeled and cubed ; (165 g) </ingredient>
+    <ingredient num="4">1 cup ; ice ; (215 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31665/low_1494962693.m3u8</low>
+    <high>https://vid.tasty.co/output/31665/mp4_720x1280/1494962693</high>
+  </video>
+  <duration>
+    <start_time>24.86</start_time>
+    <end_time>50.48</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add all the ingredients to a blender and mix on high. </step>
+    <step num="1">Pour into a bowl or half a hollowed out cantaloupe, and top with desired fruit and other toppings. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all the ingredients to a blender and mix on high. </steps_updated>
+    <steps_updated num="1">Pour into a bowl or half a hollowed out cantaloupe, and top with desired fruit and other toppings. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00798</start_time>
+    <end_time>01519</end_time>
+  </duration_human>
+</recipe>

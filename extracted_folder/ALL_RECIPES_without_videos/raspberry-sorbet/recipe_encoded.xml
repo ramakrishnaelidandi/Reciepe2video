@@ -1,0 +1,49 @@
+<recipe>
+  <title>Raspberry Sorbet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-sorbet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/2-ingredient-sorbet-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 11579 356 13278 4563 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 14240 5895 12648 10733 13278 7005 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Date Night</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48193/low_1503093017.m3u8</low>
+    <high>https://vid.tasty.co/output/48193/mp4_720x1280/1503093017</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>25.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">3262 8554 11907 210 5994 8016 9909 5895 11861 12027 1681 4386 4309 </step>
+    <step num="1">1083 669 5994 10640 10881 5687 13817 6873 669 2237 5422 14614 </step>
+    <step num="2">13855 7990 8580 13199 5895 1681 11579 9801 8161 5994 8779 12386 7990 14408 7737 9897 758 6506 1391 5994 5378 5895 8438 9885 9801 3945 3557 1788 2696 7811 10302 2281 7990 6285 5966 8927 432 674 </step>
+    <step num="3">9679 669 5994 7616 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3262 8554 11907 210 5994 8016 9909 5895 11861 12027 1681 4386 4309 </steps_updated>
+    <steps_updated num="1">1083 669 5994 10640 10881 5687 13817 6873 669 2237 5422 14614 </steps_updated>
+    <steps_updated num="2">13855 7990 8580 13199 5895 1681 11579 9801 8161 5994 8779 12386 7990 14408 </steps_updated>
+    <steps_updated num="3">7737 9897 758 6506 1391 5994 5378 5895 8438 9885 9801 3945 3557 1788 2696 7811 10302 2281 7990 6285 5966 8927 432 674 </steps_updated>
+    <steps_updated num="4">9679 669 5994 7616 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00773</end_time>
+  </duration_human>
+</recipe>

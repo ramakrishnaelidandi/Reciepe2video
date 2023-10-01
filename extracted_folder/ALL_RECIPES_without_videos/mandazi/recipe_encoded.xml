@@ -1,0 +1,46 @@
+<recipe>
+  <title>Mandazi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mandazi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 13521 6467 7789 3954 7990 580 13278 7006 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="2">3917 1580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="3">8580 2031 13278 11088 126 </ingredient>
+    <ingredient num="4">1580 8071 13278 3855 82 </ingredient>
+    <ingredient num="5">3917 13278 4036 9917 </ingredient>
+    <ingredient num="6">1797 1580 643 13278 6742 9889 3917 14138 13278 5348 8007 </ingredient>
+    <ingredient num="7">7632 7990 5291 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Casual Party</category>
+    <category num="2">African</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125983/hls24_1551318352.m3u8</low>
+    <high>https://vid.tasty.co/output/125983/landscape_720/1551318352</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 14511 8341 3626 11951 6467 6145 10765 8117 3407 13817 12051 6823 5994 3145 210 11951 5543 415 11003 5994 10258 7700 560 10968 210 11951 6216 13817 6742 5802 1681 11951 8337 4150 6690 </step>
+    <step num="1">426 11951 8337 2696 1802 5994 13004 12605 13817 3039 1681 12119 583 11951 8337 669 4061 6868 7692 2696 3917 13601 371 8337 669 5994 372 6285 7579 1745 9443 13025 14100 669 6735 13738 5362 1391 11951 374 8337 6868 </step>
+    <step num="2">8889 11951 5766 210 5994 2597 10083 1681 3557 13751 9988 8999 </step>
+    <step num="3">153 210 3997 7256 11951 11363 7990 6865 8927 4884 7780 1681 10963 2147 11720 4255 12 3566 12774 2658 6616 5895 5994 10445 1391 6199 8011 7988 5895 14428 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 8341 3626 11951 6467 6145 10765 8117 3407 13817 12051 </steps_updated>
+    <steps_updated num="1">6823 5994 3145 210 11951 5543 415 11003 5994 10258 7700 560 10968 210 11951 6216 13817 6742 5802 1681 11951 8337 4150 6690 </steps_updated>
+    <steps_updated num="2">426 11951 8337 2696 1802 5994 13004 12605 13817 3039 1681 12119 </steps_updated>
+    <steps_updated num="3">583 11951 8337 669 4061 6868 </steps_updated>
+    <steps_updated num="4">7692 2696 3917 13601 371 8337 669 5994 372 6285 7579 1745 9443 13025 </steps_updated>
+    <steps_updated num="5">14100 669 6735 13738 </steps_updated>
+    <steps_updated num="6">5362 1391 11951 374 8337 6868 </steps_updated>
+    <steps_updated num="7">8889 11951 5766 210 5994 2597 10083 1681 3557 13751 9988 8999 </steps_updated>
+    <steps_updated num="8">153 210 3997 7256 11951 11363 7990 6865 8927 4884 7780 1681 10963 2147 </steps_updated>
+    <steps_updated num="9">11720 4255 12 3566 </steps_updated>
+    <steps_updated num="10">12774 2658 6616 5895 5994 10445 1391 6199 </steps_updated>
+    <steps_updated num="11">8011 7988 5895 14428 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

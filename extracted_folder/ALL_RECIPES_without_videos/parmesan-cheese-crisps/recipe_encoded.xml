@@ -1,0 +1,35 @@
+<recipe>
+  <title>Parmesan Cheese Crisps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/parmesan-cheese-crisps</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8088 13278 3917 2605 13278 3333 109 14538 </ingredient>
+    <ingredient num="1">3917 8071 13278 796 6250 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82158/hls24_1520020061.m3u8</low>
+    <high>https://vid.tasty.co/output/82158/landscape_720/1520020061</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">5570 11951 3220 14538 5569 11951 9014 210 2192 2009 4255 11951 10765 8800 9772 11951 2009 2696 3584 13817 1678 796 6250 11770 11951 4496 </step>
+    <step num="2">7831 7990 1106 11004 5895 1681 10963 1368 13817 11951 5832 12207 560 5898 8857 </step>
+    <step num="3">14343 4732 144 9556 8186 11760 162 4884 7818 10228 1407 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">5570 11951 3220 14538 5569 11951 9014 210 2192 2009 4255 11951 10765 8800 </steps_updated>
+    <steps_updated num="3">9772 11951 2009 2696 3584 13817 1678 796 6250 11770 11951 4496 </steps_updated>
+    <steps_updated num="4">7831 7990 1106 11004 5895 1681 10963 1368 13817 11951 5832 12207 560 5898 8857 </steps_updated>
+    <steps_updated num="5">14343 4732 144 9556 8186 11760 162 4884 7818 10228 1407 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

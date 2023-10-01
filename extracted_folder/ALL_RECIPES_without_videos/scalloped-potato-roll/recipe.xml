@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Scalloped Potato Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/scalloped-potato-roll</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; potatoes, peeled </ingredient>
+    <ingredient num="1">2 cups ; grated parmesan cheese, divided ; (220 g) </ingredient>
+    <ingredient num="2">3 teaspoons ; salt, divided </ingredient>
+    <ingredient num="3">4 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="4">1 ; sweet onion, diced </ingredient>
+    <ingredient num="5">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="6">14 ½ oz ; diced tomato, 1 can, drained ; (410 g) </ingredient>
+    <ingredient num="7">4 tablespoons ; fresh parsley, chopped, divided </ingredient>
+    <ingredient num="8">1 teaspoon ; paprika ; (2 g) </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">6 cups ; spinach ; (240 g) </ingredient>
+    <ingredient num="11">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="12">1 cup ; ricotta cheese ; (250 g) </ingredient>
+    <ingredient num="13">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68637/hls24_1513616831.m3u8</low>
+    <high>https://vid.tasty.co/output/68637/landscape_720/1513616831</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Using a knife or mandolin cut the potatoes into slices ⅛-inch (3 mm) thick. </step>
+    <step num="2">On a parchment paper-lined baking sheet, sprinkle half of the Parmesan cheese and spread until it is evenly covering the parchment paper. </step>
+    <step num="3">Place the potatoes over the parmesan so each potato is overlapping the previous potato both vertically and horizontally. Continue until the entire pan is filled with potatoes. </step>
+    <step num="4">Sprinkle to rest of the Parmesan evenly over the potatoes. Season with 1 teaspoon of salt. Bake for 30 minutes, until golden and the potatoes are flexible and slightly crispy. </step>
+    <step num="5">In a skillet heat 2 tablespoons of olive oil over medium heat. Once the oil begins to shimmer, add the onions, and cook until caramelized, about 15 minutes. </step>
+    <step num="6">Add the beef break up and mix with the onion until cooked. Mix in the tomatoes, 3 tablespoons of parsley, paprika, 1 teaspoon of salt, and pepper. Stir, cooking until the beef is browned and cooked through. Remove from heat. </step>
+    <step num="7">In a skillet heat 2 tablespoons of olive oil over medium heat. Add the spinach, cook until wilted. Add 1 teaspoon of salt and the garlic. Stir to combine. Remove from heat. </step>
+    <step num="8">In a bowl combine the spinach mixture and the ricotta. Set aside. </step>
+    <step num="9">Evenly spread the spinach mixture over the cooked potato sheet. </step>
+    <step num="10">Evenly spread the beef mixture over the spinach. Sprinkle mozzarella over the beef. </step>
+    <step num="11">Take one end of the potato sheet holding the parchment paper begin rolling upward, making sure the ingredients are not coming out the ends. </step>
+    <step num="12">Once the it is completely rolled place the potato roll on the parchment paper and bake for 15 minutes. </step>
+    <step num="13">Sprinkle with parsley for garnish. Slice and serve immediately. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Using a knife or mandolin cut the potatoes into slices ⅛-inch (3 mm) thick. </steps_updated>
+    <steps_updated num="2">On a parchment paper-lined baking sheet, sprinkle half of the Parmesan cheese and spread until it is evenly covering the parchment paper. </steps_updated>
+    <steps_updated num="3">Place the potatoes over the parmesan so each potato is overlapping the previous potato both vertically and horizontally. </steps_updated>
+    <steps_updated num="4">Continue until the entire pan is filled with potatoes. </steps_updated>
+    <steps_updated num="5">Sprinkle to rest of the Parmesan evenly over the potatoes. </steps_updated>
+    <steps_updated num="6">Season with 1 teaspoon of salt. </steps_updated>
+    <steps_updated num="7">Bake for 30 minutes, until golden and the potatoes are flexible and slightly crispy. </steps_updated>
+    <steps_updated num="8">In a skillet heat 2 tablespoons of olive oil over medium heat. </steps_updated>
+    <steps_updated num="9">Once the oil begins to shimmer, add the onions, and cook until caramelized, about 15 minutes. </steps_updated>
+    <steps_updated num="10">Add the beef break up and mix with the onion until cooked. </steps_updated>
+    <steps_updated num="11">Mix in the tomatoes, 3 tablespoons of parsley, paprika, 1 teaspoon of salt, and pepper. </steps_updated>
+    <steps_updated num="12">Stir, cooking until the beef is browned and cooked through. </steps_updated>
+    <steps_updated num="13">Remove from heat. </steps_updated>
+    <steps_updated num="14">In a skillet heat 2 tablespoons of olive oil over medium heat. </steps_updated>
+    <steps_updated num="15">Add the spinach, cook until wilted. </steps_updated>
+    <steps_updated num="16">Add 1 teaspoon of salt and the garlic. </steps_updated>
+    <steps_updated num="17">Stir to combine. </steps_updated>
+    <steps_updated num="18">Remove from heat. </steps_updated>
+    <steps_updated num="19">In a bowl combine the spinach mixture and the ricotta. </steps_updated>
+    <steps_updated num="20">Set aside. </steps_updated>
+    <steps_updated num="21">Evenly spread the spinach mixture over the cooked potato sheet. </steps_updated>
+    <steps_updated num="22">Evenly spread the beef mixture over the spinach. </steps_updated>
+    <steps_updated num="23">Sprinkle mozzarella over the beef. </steps_updated>
+    <steps_updated num="24">Take one end of the potato sheet holding the parchment paper begin rolling upward, making sure the ingredients are not coming out the ends. </steps_updated>
+    <steps_updated num="25">Once the it is completely rolled place the potato roll on the parchment paper and bake for 15 minutes. </steps_updated>
+    <steps_updated num="26">Sprinkle with parsley for garnish. </steps_updated>
+    <steps_updated num="27">Slice and serve immediately. </steps_updated>
+    <steps_updated num="28">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

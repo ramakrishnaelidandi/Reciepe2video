@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Dippers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-dippers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pizza-dippers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tube ; refrigerated pizza dough, refrigerated </ingredient>
+    <ingredient num="1">1 ½ cups ; shredded chicken ; (190 g) </ingredient>
+    <ingredient num="2">1 cup ; BBQ sauce, divided ; (260 g) </ingredient>
+    <ingredient num="3">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="4">½ cup ; red onion, diced ; (75 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; fresh parsley </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">BBQ</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30448/low_1493421048.m3u8</low>
+    <high>https://vid.tasty.co/output/30448/mp4_720x1280/1493421048</high>
+  </video>
+  <duration>
+    <start_time>6.83</start_time>
+    <end_time>39.56</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">In a bowl, mix shredded chicken with ½ cup (115) barbecue sauce. Set aside. </step>
+    <step num="2">Spread pizza dough out on a parchment-lined pan. </step>
+    <step num="3">Bake 10 minutes. </step>
+    <step num="4">Top with remaining barbecue sauce, cheddar, chicken, mozzarella, red onion, and parsley. </step>
+    <step num="5">Bake an additional 10 minutes. </step>
+    <step num="6">Slice and dip! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">In a bowl, mix shredded chicken with ½ cup (115) barbecue sauce. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">Spread pizza dough out on a parchment-lined pan. </steps_updated>
+    <steps_updated num="4">Bake 10 minutes. </steps_updated>
+    <steps_updated num="5">Top with remaining barbecue sauce, cheddar, chicken, mozzarella, red onion, and parsley. </steps_updated>
+    <steps_updated num="6">Bake an additional 10 minutes. </steps_updated>
+    <steps_updated num="7">Slice and dip! </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01207</end_time>
+  </duration_human>
+</recipe>

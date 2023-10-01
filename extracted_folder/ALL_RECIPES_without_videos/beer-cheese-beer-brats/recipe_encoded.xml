@@ -1,0 +1,40 @@
+<recipe>
+  <title>Beer Cheese Beer Brats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beer-cheese-beer-brats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11598 13695 643 13278 13285 371 6507 13278 4492 8007 </ingredient>
+    <ingredient num="1">2933 13278 7151 </ingredient>
+    <ingredient num="2">2933 13278 6222 11056 9574 </ingredient>
+    <ingredient num="3">3917 2605 13278 13033 14538 13278 9473 5981 </ingredient>
+    <ingredient num="4">8580 9517 13278 3333 13810 371 12313 6507 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Game Day</category>
+    <category num="3">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31981/low_1495125050.m3u8</low>
+    <high>https://vid.tasty.co/output/31981/mp4_720x1280/1495125050</high>
+  </video>
+  <steps>
+    <step num="0">9179 4615 13817 14491 560 2260 10590 </step>
+    <step num="1">264 4255 13757 8283 7855 7990 8489 12689 </step>
+    <step num="2">5570 14491 4255 9937 13817 2550 1681 1559 3888 6646 8489 3224 </step>
+    <step num="3">10936 3917 2605 12462 9443 371 4615 210 11951 13799 740 13033 14538 13817 11450 </step>
+    <step num="4">12473 1681 14538 9490 10453 </step>
+    <step num="5">9179 11951 14538 2373 4255 10707 371 11951 4615 2713 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 4615 13817 14491 560 2260 10590 </steps_updated>
+    <steps_updated num="1">264 4255 13757 8283 7855 7990 8489 12689 </steps_updated>
+    <steps_updated num="2">5570 14491 4255 9937 13817 2550 1681 1559 3888 6646 8489 3224 </steps_updated>
+    <steps_updated num="3">10936 3917 2605 12462 9443 371 4615 210 11951 13799 740 13033 14538 13817 11450 </steps_updated>
+    <steps_updated num="4">12473 1681 14538 9490 10453 </steps_updated>
+    <steps_updated num="5">9179 11951 14538 2373 4255 10707 371 11951 4615 2713 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

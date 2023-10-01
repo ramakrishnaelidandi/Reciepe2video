@@ -1,0 +1,59 @@
+<recipe>
+  <title>Avocado Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hummus-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8883 643 13278 2955 3917 14138 13278 8902 5981 </ingredient>
+    <ingredient num="1">3917 13278 4485 </ingredient>
+    <ingredient num="2">3917 2414 13278 11384 </ingredient>
+    <ingredient num="3">3917 13278 14038 10986 8695 </ingredient>
+    <ingredient num="4">12791 2605 13278 6209 14621 13278 12237 5981 </ingredient>
+    <ingredient num="5">3917 8071 13278 3170 </ingredient>
+    <ingredient num="6">3917 14014 13278 9712 10522 </ingredient>
+    <ingredient num="7">1580 8071 13278 82 </ingredient>
+    <ingredient num="8">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="9">8580 9486 13278 3141 7549 8244 5766 </ingredient>
+    <ingredient num="10">6209 6712 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Middle Eastern</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Healthy</category>
+    <category num="6">Low-Carb</category>
+    <category num="7">Vegan</category>
+    <category num="8">Vegetarian</category>
+    <category num="9">Kid-Friendly</category>
+    <category num="10">Sides</category>
+    <category num="11">Snacks</category>
+    <category num="12">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46539/low_1502212838.m3u8</low>
+    <high>https://vid.tasty.co/output/46539/mp4_720x1280/1502212838</high>
+  </video>
+  <duration>
+    <start_time>82.97</start_time>
+    <end_time>109.059</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 2955 468 4155 9712 7654 13817 7074 560 11951 12377 371 5994 725 8016 41 3262 1681 12119 </step>
+    <step num="1">4829 6014 12723 740 210 11951 8244 5766 1681 840 9490 7160 13817 12119 </step>
+    <step num="2">13688 1391 3962 6712 8177 341 7042 13817 5994 13630 371 8244 14158 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 2955 468 4155 9712 7654 13817 7074 560 11951 12377 371 5994 725 8016 41 </steps_updated>
+    <steps_updated num="1">3262 1681 12119 </steps_updated>
+    <steps_updated num="2">4829 6014 12723 740 210 11951 8244 5766 1681 840 9490 7160 13817 12119 </steps_updated>
+    <steps_updated num="3">13688 1391 3962 6712 8177 341 7042 13817 5994 13630 371 8244 14158 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02549</start_time>
+    <end_time>03278</end_time>
+  </duration_human>
+</recipe>

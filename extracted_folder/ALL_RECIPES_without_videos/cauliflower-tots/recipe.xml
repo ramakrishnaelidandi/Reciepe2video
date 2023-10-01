@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 oz ; cauliflower, minced ; (455 g) </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">⅔ cup ; bread crumbs ; (75 g) </ingredient>
+    <ingredient num="3">1 cup ; cheddar cheese, shredded ; (100 g) </ingredient>
+    <ingredient num="4">1 cup ; parmesan cheese, shredded ; (110 g) </ingredient>
+    <ingredient num="5">2 large cloves ; garlic, minced </ingredient>
+    <ingredient num="6">¼ teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24519/low_1487728734.m3u8</low>
+    <high>https://vid.tasty.co/output/24519/mp4_720x1280/1487728734</high>
+  </video>
+  <steps>
+    <step num="0">Preheat your oven to 400°F (200°C). </step>
+    <step num="1">Fill a saucepan with water and bring to a boil. Aggressively season it with salt. Blanch the cauliflower in boiling water for about 5 minutes. Drain and finely chop the cooked cauliflower. </step>
+    <step num="2">In a mixing bowl, add cauliflower, egg, bread crumbs, cheddar cheese, parmesan cheese, garlic, and salt. Chill in the refrigerator for 15-20 minutes. </step>
+    <step num="3">Spray a nonstick baking sheet with nonstick spray. </step>
+    <step num="4">Shape the mixture into tot shapes and spread them evenly on the sheet. Bake for 10 minutes at 400°F (200°C). Flip and then bake for an additional 10 minutes on the other side until golden brown. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat your oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Fill a saucepan with water and bring to a boil. </steps_updated>
+    <steps_updated num="2">Aggressively season it with salt. </steps_updated>
+    <steps_updated num="3">Blanch the cauliflower in boiling water for about 5 minutes. </steps_updated>
+    <steps_updated num="4">Drain and finely chop the cooked cauliflower. </steps_updated>
+    <steps_updated num="5">In a mixing bowl, add cauliflower, egg, bread crumbs, cheddar cheese, parmesan cheese, garlic, and salt. </steps_updated>
+    <steps_updated num="6">Chill in the refrigerator for 15-20 minutes. </steps_updated>
+    <steps_updated num="7">Spray a nonstick baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="8">Shape the mixture into tot shapes and spread them evenly on the sheet. </steps_updated>
+    <steps_updated num="9">Bake for 10 minutes at 400°F (200°C). </steps_updated>
+    <steps_updated num="10">Flip and then bake for an additional 10 minutes on the other side until golden brown. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

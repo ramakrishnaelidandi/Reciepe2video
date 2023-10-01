@@ -1,0 +1,50 @@
+<recipe>
+  <title>German Pancake (aka Dutch Baby) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/german-pancake-aka-dutch-baby</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 2597 12708 </ingredient>
+    <ingredient num="1">3917 1580 9486 13278 8653 4834 </ingredient>
+    <ingredient num="2">3917 2157 13278 82 </ingredient>
+    <ingredient num="3">9883 2605 13278 9889 10383 13278 10475 8007 </ingredient>
+    <ingredient num="4">8580 2031 13278 1319 10937 </ingredient>
+    <ingredient num="5">9883 2605 13278 13521 890 13278 2685 5981 </ingredient>
+    <ingredient num="6">3917 14014 13278 10907 5335 </ingredient>
+    <ingredient num="7">8580 9486 13278 9924 </ingredient>
+    <ingredient num="8">6885 6145 7990 7818 </ingredient>
+    <ingredient num="9">976 7234 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">German</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Desserts</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32236/low_1495125477.m3u8</low>
+    <high>https://vid.tasty.co/output/32236/mp4_720x1280/1495125477</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 312 13635 </step>
+    <step num="1">10895 11951 14463 6145 12610 10383 9889 308 890 13817 5335 9924 210 5994 12027 5895 9909 1681 12119 </step>
+    <step num="2">12305 8580 1184 9924 210 5994 2641 1083 11951 4428 669 11951 2641 </step>
+    <step num="3">12785 10060 560 11951 10439 13817 10903 7811 312 2463 7990 7562 12689 </step>
+    <step num="4">6054 6781 10060 13817 3945 10694 4721 4255 12195 5290 </step>
+    <step num="5">9852 1391 4834 13817 1966 1391 976 1927 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 13635 </steps_updated>
+    <steps_updated num="1">10895 11951 14463 6145 12610 10383 9889 308 890 13817 5335 9924 210 5994 12027 5895 9909 1681 12119 </steps_updated>
+    <steps_updated num="2">12305 8580 1184 </steps_updated>
+    <steps_updated num="3">9924 210 5994 2641 </steps_updated>
+    <steps_updated num="4">1083 11951 4428 669 11951 2641 </steps_updated>
+    <steps_updated num="5">12785 10060 560 11951 10439 13817 10903 7811 312 2463 7990 7562 12689 </steps_updated>
+    <steps_updated num="6">6054 6781 10060 13817 3945 10694 4721 4255 12195 5290 </steps_updated>
+    <steps_updated num="7">9852 1391 4834 13817 1966 1391 976 1927 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

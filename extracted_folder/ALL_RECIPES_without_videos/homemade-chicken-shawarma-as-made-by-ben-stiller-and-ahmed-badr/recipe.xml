@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Shawarma</title>
+  <url>https://tasty.co/recipe/homemade-chicken-shawarma-as-made-by-ben-stiller-and-ahmed-badr</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ½ lb ; boneless, skinless chicken thighs, trimmed ; (1.1 kg) </ingredient>
+    <ingredient num="1">1 teaspoon ; cumin </ingredient>
+    <ingredient num="2">1 teaspoon ; ground cardamom </ingredient>
+    <ingredient num="3">1 tablespoon ; paprika </ingredient>
+    <ingredient num="4">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">1 teaspoon ; turmeric </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">1 tablespoon ; sumac </ingredient>
+    <ingredient num="8">¼ teaspoon ; cayenne </ingredient>
+    <ingredient num="9">1 tablespoon ; kosher salt </ingredient>
+    <ingredient num="10">1 teaspoon ; fresh ground black pepper </ingredient>
+    <ingredient num="11">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="12">1 tablespoon ; fresh lemon juice </ingredient>
+    <ingredient num="13">3 cloves ; garlic, sliced </ingredient>
+    <ingredient num="14">1 cup ; whole milk greek yogurt ; (245 g) </ingredient>
+    <ingredient num="15">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="16">1 clove ; garlic, minced </ingredient>
+    <ingredient num="17">1 teaspoon ; sumac </ingredient>
+    <ingredient num="18">⅛ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="19">¼ teaspoon ; salt </ingredient>
+    <ingredient num="20">¼ teaspoon ; black pepper </ingredient>
+    <ingredient num="21">pita bread, warmed </ingredient>
+    <ingredient num="22">cucumber, sliced </ingredient>
+    <ingredient num="23">tomato, sliced </ingredient>
+    <ingredient num="24">pickle </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99253/hls24_1529444329.m3u8</low>
+    <high>https://vid.tasty.co/output/99253/landscape_720/1529444329</high>
+  </video>
+  <steps>
+    <step num="0">Combine all marinade ingredients in a large bowl and whisk together. </step>
+    <step num="1">Add the chicken thighs and coat evenly. </step>
+    <step num="2">Cover and chill for at least 1 hour and up to 12 hours </step>
+    <step num="3">Prepare the sauce by adding all sauce ingredients to a small bowl. Mix together and chill until ready to serve. </step>
+    <step num="4">Adjust the oven rack about 6 inches (15 cm) from the top heat source in your oven, then preheat the broiler. </step>
+    <step num="5">Line a baking sheet with foil and a wire rack. </step>
+    <step num="6">Place chicken in single layer on prepared wire rack, with the smooth sides down. Broil until chicken is well browned and registers at least 165˚F (74˚C), about 16-20 minutes. You may need to rotate the sheet pan halfway through if your broiler heats unevenly. Remove and rest the chicken for 5 minutes before handling, and turn off the oven. </step>
+    <step num="7">While chicken rests, warm your pitas in the still-warm oven for a few minutes. </step>
+    <step num="8">Slice the chicken into thin strips and transfer to platter. </step>
+    <step num="9">Serve with sliced cucumbers, tomatoes, pickles, prepared yogurt sauce, and warm pita. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine all marinade ingredients in a large bowl and whisk together. </steps_updated>
+    <steps_updated num="1">Add the chicken thighs and coat evenly. </steps_updated>
+    <steps_updated num="2">Cover and chill for at least 1 hour and up to 12 hours </steps_updated>
+    <steps_updated num="3">Prepare the sauce by adding all sauce ingredients to a small bowl. </steps_updated>
+    <steps_updated num="4">Mix together and chill until ready to serve. </steps_updated>
+    <steps_updated num="5">Adjust the oven rack about 6 inches (15 cm) from the top heat source in your oven, then preheat the broiler. </steps_updated>
+    <steps_updated num="6">Line a baking sheet with foil and a wire rack. </steps_updated>
+    <steps_updated num="7">Place chicken in single layer on prepared wire rack, with the smooth sides down. </steps_updated>
+    <steps_updated num="8">Broil until chicken is well browned and registers at least 165˚F (74˚C), about 16-20 minutes. </steps_updated>
+    <steps_updated num="9">You may need to rotate the sheet pan halfway through if your broiler heats unevenly. </steps_updated>
+    <steps_updated num="10">Remove and rest the chicken for 5 minutes before handling, and turn off the oven. </steps_updated>
+    <steps_updated num="11">While chicken rests, warm your pitas in the still-warm oven for a few minutes. </steps_updated>
+    <steps_updated num="12">Slice the chicken into thin strips and transfer to platter. </steps_updated>
+    <steps_updated num="13">Serve with sliced cucumbers, tomatoes, pickles, prepared yogurt sauce, and warm pita. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

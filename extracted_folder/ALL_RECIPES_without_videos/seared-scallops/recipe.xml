@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Seared Scallops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/seared-scallops</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-summer-seafood-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; sea scallop, side muscles removed ; (455 g) </ingredient>
+    <ingredient num="1">fine sea salt </ingredient>
+    <ingredient num="2">black pepper, freshly ground </ingredient>
+    <ingredient num="3">1 tablespoon ; extra virgin olive oil </ingredient>
+    <ingredient num="4">2 tablespoons ; unsalted butter, cut into small pieces </ingredient>
+    <ingredient num="5">1 clove ; garlic, grated </ingredient>
+    <ingredient num="6">1 tablespoon ; dry white wine </ingredient>
+    <ingredient num="7">2 tablespoons ; fresh chives, finely chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99245/hls24_1529441653.m3u8</low>
+    <high>https://vid.tasty.co/output/99245/landscape_720/1529441653</high>
+  </video>
+  <duration>
+    <start_time>147.0</start_time>
+    <end_time>198.083</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pat the scallops dry with a paper towel. </step>
+    <step num="1">Season with salt and pepper. </step>
+    <step num="2">In a large skillet set over medium-high heat, add the oil. </step>
+    <step num="3">When the oil is hot, add the scallops and cook until golden brown on one side, 2-3 minutes. </step>
+    <step num="4">Gently turn the scallops, and add the butter and garlic to the pan. </step>
+    <step num="5">Continue to cook, spooning the butter over the scallops until they are cooked through, about 3 minutes more. </step>
+    <step num="6">Add the white wine, cook another 10 seconds. </step>
+    <step num="7">Serve with chives. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pat the scallops dry with a paper towel. </steps_updated>
+    <steps_updated num="1">Season with salt and pepper. </steps_updated>
+    <steps_updated num="2">In a large skillet set over medium-high heat, add the oil. </steps_updated>
+    <steps_updated num="3">When the oil is hot, add the scallops and cook until golden brown on one side, 2-3 minutes. </steps_updated>
+    <steps_updated num="4">Gently turn the scallops, and add the butter and garlic to the pan. </steps_updated>
+    <steps_updated num="5">Continue to cook, spooning the butter over the scallops until they are cooked through, about 3 minutes more. </steps_updated>
+    <steps_updated num="6">Add the white wine, cook another 10 seconds. </steps_updated>
+    <steps_updated num="7">Serve with chives. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

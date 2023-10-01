@@ -1,0 +1,53 @@
+<recipe>
+  <title>Tropical Fizz Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tropical-fizz</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-fruit-packed-refreshers</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 3110 472 13278 2242 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 13098 976 13278 3433 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 13956 10522 13278 2935 8007 </ingredient>
+    <ingredient num="3">3917 9712 13278 9712 10522 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 11276 12282 </ingredient>
+    <ingredient num="5">2439 10224 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Drinks</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Casual Party</category>
+    <category num="10">BBQ</category>
+    <category num="11">Weeknight</category>
+    <category num="12">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45559/low_1501534065.m3u8</low>
+    <high>https://vid.tasty.co/output/45559/mp4_720x1280/1501534065</high>
+  </video>
+  <duration>
+    <start_time>18.56</start_time>
+    <end_time>41.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 13956 7654 3110 7234 13817 9712 10522 210 5994 6212 13817 1279 1681 12119 </step>
+    <step num="1">426 3482 12027 432 13328 210 11276 2019 </step>
+    <step num="2">12774 11770 13710 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 13956 7654 3110 7234 13817 9712 10522 210 5994 6212 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="1">426 3482 12027 432 13328 210 11276 2019 </steps_updated>
+    <steps_updated num="2">12774 11770 13710 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00610</start_time>
+    <end_time>01260</end_time>
+  </duration_human>
+</recipe>

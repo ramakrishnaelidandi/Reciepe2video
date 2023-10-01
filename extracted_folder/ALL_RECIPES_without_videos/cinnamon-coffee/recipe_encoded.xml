@@ -1,0 +1,41 @@
+<recipe>
+  <title>Cinnamon Coffee Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-coffee</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/caffeine-smoothies-to-kickstart-your-day</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 76 976 </ingredient>
+    <ingredient num="1">1580 2605 13278 1967 13278 2264 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 1319 3713 13278 2935 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 4654 7789 3954 7990 7818 </ingredient>
+    <ingredient num="4">3917 14014 13278 7484 10471 </ingredient>
+    <ingredient num="5">3917 2605 13278 7988 13278 7503 8007 </ingredient>
+    <ingredient num="6">3917 2605 13278 14084 5802 13278 7503 8007 </ingredient>
+    <ingredient num="7">8580 9517 13278 2439 13278 12922 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99086/hls24_1529361006.m3u8</low>
+    <high>https://vid.tasty.co/output/99086/landscape_720/1529361006</high>
+  </video>
+  <duration>
+    <start_time>74.833</start_time>
+    <end_time>113.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 76 1103 2694 4654 14080 14109 14084 9889 13817 2439 560 5994 12095 </step>
+    <step num="1">3262 1681 12119 </step>
+    <step num="2">12774 210 5994 13426 10366 1391 5994 1678 371 14242 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 76 1103 2694 4654 14080 14109 14084 9889 13817 2439 560 5994 12095 </steps_updated>
+    <steps_updated num="1">3262 1681 12119 </steps_updated>
+    <steps_updated num="2">12774 210 5994 13426 10366 1391 5994 1678 371 14242 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

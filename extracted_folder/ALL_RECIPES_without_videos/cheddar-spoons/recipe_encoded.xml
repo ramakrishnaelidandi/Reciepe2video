@@ -1,0 +1,58 @@
+<recipe>
+  <title>Cheddar Spoons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-spoons</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/edible-spoons</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 3333 9784 14538 13278 6898 5981 </ingredient>
+    <ingredient num="1">4061 9486 13278 7974 10907 10302 2281 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 2605 13278 13521 890 13278 9373 5981 </ingredient>
+    <ingredient num="4">8580 9486 13278 2439 12282 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91620/hls24_1524854113.m3u8</low>
+    <high>https://vid.tasty.co/output/91620/landscape_720/1524854113</high>
+  </video>
+  <duration>
+    <start_time>1.666</start_time>
+    <end_time>72.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 1346 5386 </step>
+    <step num="1">5209 2237 4918 5768 9091 5895 794 11823 3930 11951 13810 10907 13817 82 210 5994 2597 7616 </step>
+    <step num="2">9956 10058 10968 210 11951 890 13817 740 11951 2439 12282 797 14014 7811 5994 13312 12450 8337 5376 14634 3626 10570 14093 9801 12147 3409 5358 1762 827 3557 3386 210 12313 1716 4429 3557 13130 13700 2068 740 5994 8779 3954 2439 2019 </step>
+    <step num="3">877 11951 8337 210 2532 13817 7210 3626 669 8580 7180 5791 210 3550 12 13817 1780 210 11951 7111 7990 238 12689 </step>
+    <step num="4">7692 2696 11951 8337 560 12791 2985 1745 51 10127 14439 3626 11951 10836 4255 11951 10663 </step>
+    <step num="5">7607 13817 7777 2696 11061 1798 7134 6781 10763 3248 371 9453 </step>
+    <step num="6">5570 11951 1111 14538 4352 4255 10707 371 4854 3093 4352 4255 5994 3550 8797 10765 8800 6985 14484 573 560 14426 11951 8337 560 10763 14141 2992 </step>
+    <step num="7">7831 7990 2800 11004 5895 1681 10963 2147 </step>
+    <step num="8">12774 1391 7477 10176 3845 5358 13 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 1346 5386 </steps_updated>
+    <steps_updated num="1">5209 2237 4918 5768 9091 5895 794 11823 3930 11951 13810 10907 13817 82 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="2">9956 10058 10968 210 11951 890 13817 740 11951 2439 12282 797 14014 7811 5994 13312 </steps_updated>
+    <steps_updated num="3">12450 8337 5376 14634 3626 10570 14093 9801 12147 3409 5358 1762 827 3557 3386 210 12313 1716 </steps_updated>
+    <steps_updated num="4">4429 3557 13130 13700 2068 740 5994 8779 3954 2439 2019 </steps_updated>
+    <steps_updated num="5">877 11951 8337 210 2532 13817 7210 3626 669 8580 7180 </steps_updated>
+    <steps_updated num="6">5791 210 3550 12 13817 1780 210 11951 7111 7990 238 12689 </steps_updated>
+    <steps_updated num="7">7692 2696 11951 8337 560 12791 2985 1745 51 10127 14439 3626 11951 10836 4255 11951 10663 </steps_updated>
+    <steps_updated num="8">7607 13817 7777 2696 11061 1798 7134 6781 10763 3248 371 9453 </steps_updated>
+    <steps_updated num="9">5570 11951 1111 14538 4352 4255 10707 371 4854 3093 4352 4255 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="10">6985 14484 573 560 14426 11951 8337 560 10763 14141 2992 </steps_updated>
+    <steps_updated num="11">7831 7990 2800 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="12">12774 1391 7477 10176 3845 5358 13 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

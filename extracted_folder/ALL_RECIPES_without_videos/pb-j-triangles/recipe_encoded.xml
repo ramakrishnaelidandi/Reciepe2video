@@ -1,0 +1,35 @@
+<recipe>
+  <title>PB&amp;J Triangles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pb-j-triangles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-school-lunch-prep-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 12870 5285 5817 </ingredient>
+    <ingredient num="1">8580 9486 13278 8570 10907 5895 8988 </ingredient>
+    <ingredient num="2">8580 9486 13278 12118 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23479/low_1486600260.m3u8</low>
+    <high>https://vid.tasty.co/output/23479/mp4_720x1280/1486600260</high>
+  </video>
+  <duration>
+    <start_time>100.0</start_time>
+    <end_time>117.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">2988 8988 5895 8570 9924 13817 12118 4255 5994 328 </step>
+    <step num="1">13494 1391 11951 437 6640 13817 7777 669 13738 </step>
+    <step num="2">12774 1391 5994 4457 4036 4406 13817 1927 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2988 8988 5895 8570 9924 13817 12118 4255 5994 328 </steps_updated>
+    <steps_updated num="1">13494 1391 11951 437 6640 13817 7777 669 13738 </steps_updated>
+    <steps_updated num="2">12774 1391 5994 4457 4036 4406 13817 1927 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

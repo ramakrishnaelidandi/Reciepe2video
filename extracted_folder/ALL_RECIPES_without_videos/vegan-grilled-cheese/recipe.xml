@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Grilled Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-grilled-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; cashews ; (65 g) </ingredient>
+    <ingredient num="1">1 ; medium carrot, sliced </ingredient>
+    <ingredient num="2">3 tablespoons ; nutritional yeast </ingredient>
+    <ingredient num="3">2 tablespoons ; tapioca starch </ingredient>
+    <ingredient num="4">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">⅛ teaspoon ; turmeric </ingredient>
+    <ingredient num="8">vegan butter, to taste </ingredient>
+    <ingredient num="9">8 slices ; white bread </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100750/hls24_1530561759.m3u8</low>
+    <high>https://vid.tasty.co/output/100750/landscape_720/1530561759</high>
+  </video>
+  <steps>
+    <step num="0">In a medium pot, bring 4 cups (960 ml) of water to a boil. Add the cashews and carrot and boil for 10 minutes, or until the carrot is fork tender. </step>
+    <step num="1">Use a slotted spoon to transfer the cashews and carrot to a high-speed blender. Do not discard the cooking water. </step>
+    <step num="2">To the blender, add the nutritional yeast, tapioca starch, lemon juice, salt, garlic powder, turmeric, and 1 cup ( 240 ml) plus 2 tablespoons of reserved cooking water (discard any remaining water). Blend the sauce for 2-3 minutes on high speed, until completely smooth. </step>
+    <step num="3">Pour the “cheese” sauce back into the pot and stir with a spatula over low heat. Clumps should begin to form. Continue stirring for 2-4 minutes, or until the sauce is thickened and stretchy. Remove the pot from the heat and set aside. </step>
+    <step num="4">Butter each slice of bread on 1 side. In a medium nonstick skillet, heat a dollop of vegan butter over medium heat. Once the butter begins to bubble, add a slice of bread, butter side down, and use a spatula to spread cheese sauce on top. Top with another slice of bread, butter side up. Cook for 2-4 minutes, or until the bottom of the bread is golden brown. Flip and cook for 2-4 minutes more, until the other slice of bread is golden brown as well, then remove from pan. Repeat with the remaining ingredients. </step>
+    <step num="5">Slice the sandwiches in half and serve immediately. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium pot, bring 4 cups (960 ml) of water to a boil. </steps_updated>
+    <steps_updated num="1">Add the cashews and carrot and boil for 10 minutes, or until the carrot is fork tender. </steps_updated>
+    <steps_updated num="2">Use a slotted spoon to transfer the cashews and carrot to a high-speed blender. </steps_updated>
+    <steps_updated num="3">Do not discard the cooking water. </steps_updated>
+    <steps_updated num="4">To the blender, add the nutritional yeast, tapioca starch, lemon juice, salt, garlic powder, turmeric, and 1 cup ( 240 ml) plus 2 tablespoons of reserved cooking water (discard any remaining water). </steps_updated>
+    <steps_updated num="5">Blend the sauce for 2-3 minutes on high speed, until completely smooth. </steps_updated>
+    <steps_updated num="6">Pour the “cheese” sauce back into the pot and stir with a spatula over low heat. </steps_updated>
+    <steps_updated num="7">Clumps should begin to form. </steps_updated>
+    <steps_updated num="8">Continue stirring for 2-4 minutes, or until the sauce is thickened and stretchy. </steps_updated>
+    <steps_updated num="9">Remove the pot from the heat and set aside. </steps_updated>
+    <steps_updated num="10">Butter each slice of bread on 1 side. </steps_updated>
+    <steps_updated num="11">In a medium nonstick skillet, heat a dollop of vegan butter over medium heat. </steps_updated>
+    <steps_updated num="12">Once the butter begins to bubble, add a slice of bread, butter side down, and use a spatula to spread cheese sauce on top. </steps_updated>
+    <steps_updated num="13">Top with another slice of bread, butter side up. </steps_updated>
+    <steps_updated num="14">Cook for 2-4 minutes, or until the bottom of the bread is golden brown. </steps_updated>
+    <steps_updated num="15">Flip and cook for 2-4 minutes more, until the other slice of bread is golden brown as well, then remove from pan. </steps_updated>
+    <steps_updated num="16">Repeat with the remaining ingredients. </steps_updated>
+    <steps_updated num="17">Slice the sandwiches in half and serve immediately. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

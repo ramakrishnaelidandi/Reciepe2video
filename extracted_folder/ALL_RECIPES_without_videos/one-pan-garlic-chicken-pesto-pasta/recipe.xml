@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Garlic Chicken Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-garlic-chicken-pesto-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; canola oil </ingredient>
+    <ingredient num="1">2 ; chicken breasts, sliced into 1/2 inch (2cm) strips </ingredient>
+    <ingredient num="2">2 tablespoons ; garlic, chopped </ingredient>
+    <ingredient num="3">½ tablespoon ; kosher salt </ingredient>
+    <ingredient num="4">½ tablespoon ; black pepper, freshly ground </ingredient>
+    <ingredient num="5">¾ cup ; heavy cream ; (175 mL) </ingredient>
+    <ingredient num="6">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="7">¼ cup ; pesto ; (55 g) </ingredient>
+    <ingredient num="8">3 cups ; penne pasta, cooked and drained ; (600 g) </ingredient>
+    <ingredient num="9">¾ cup ; cherry tomato, halved ; (150 g) </ingredient>
+    <ingredient num="10">parmesan cheese, to garnish </ingredient>
+    <ingredient num="11">fresh basil, chopped, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32159/low_1495125364.m3u8</low>
+    <high>https://vid.tasty.co/output/32159/mp4_720x1280/1495125364</high>
+  </video>
+  <steps>
+    <step num="0">Heat the oil in a pan over high heat. Combine the chicken, garlic, salt, and pepper, cooking until chicken is browned. </step>
+    <step num="1">Then, mix in the heavy cream, parmesan, and pesto, stirring until evenly combined. </step>
+    <step num="2">Next, bring to a boil and cook until the sauce has reduced, about five to seven minutes. </step>
+    <step num="3">Toss in the pasta and cherry tomatoes, stirring until evenly coated. Remove from heat. </step>
+    <step num="4">To serve, sprinkle parmesan cheese and basil on top! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the oil in a pan over high heat. </steps_updated>
+    <steps_updated num="1">Combine the chicken, garlic, salt, and pepper, cooking until chicken is browned. </steps_updated>
+    <steps_updated num="2">Then, mix in the heavy cream, parmesan, and pesto, stirring until evenly combined. </steps_updated>
+    <steps_updated num="3">Next, bring to a boil and cook until the sauce has reduced, about five to seven minutes. </steps_updated>
+    <steps_updated num="4">Toss in the pasta and cherry tomatoes, stirring until evenly coated. </steps_updated>
+    <steps_updated num="5">Remove from heat. </steps_updated>
+    <steps_updated num="6">To serve, sprinkle parmesan cheese and basil on top! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

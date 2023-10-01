@@ -1,0 +1,52 @@
+<recipe>
+  <title>Breakfast Veggie Pocket Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-veggie-pocket</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/eggcellent-ways-to-start-your-day</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 2031 13278 8244 5766 </ingredient>
+    <ingredient num="1">1580 13278 8083 1466 10986 976 </ingredient>
+    <ingredient num="2">12791 2605 13278 5450 13584 12690 6124 13817 4980 13278 336 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 11579 12655 9157 13278 1420 5981 </ingredient>
+    <ingredient num="4">1580 13278 2192 11091 12384 1088 976 </ingredient>
+    <ingredient num="5">8580 13278 12708 </ingredient>
+    <ingredient num="6">12791 8071 13278 82 </ingredient>
+    <ingredient num="7">12791 8071 13278 11088 13584 7845 </ingredient>
+    <ingredient num="8">12791 2605 13278 3333 9784 14538 13278 1936 5981 </ingredient>
+    <ingredient num="9">3917 13278 3305 2168 5149 13757 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/70026/hls24_1513990390.m3u8</low>
+    <high>https://vid.tasty.co/output/70026/landscape_720/1513990390</high>
+  </video>
+  <duration>
+    <start_time>98.0</start_time>
+    <end_time>145.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 8244 5766 210 5994 9637 10060 11770 13757 2082 </step>
+    <step num="1">9179 11951 1466 10986 13584 13829 12655 13817 7272 13817 2550 1681 9363 6285 2933 12689 </step>
+    <step num="2">6054 11951 284 6781 11951 5687 13817 817 5292 </step>
+    <step num="3">10211 7855 560 11286 13817 14463 13817 1678 1391 82 13817 12375 3633 13328 5465 1681 3896 6346 6285 8580 12689 </step>
+    <step num="4">5570 11951 14303 3699 14463 13817 14538 210 11951 937 371 5994 6640 13817 7475 11951 10860 669 11951 5543 2043 6322 11951 198 </step>
+    <step num="5">9179 11951 11583 13305 11801 258 560 11951 10060 13817 2550 11770 13757 7855 1681 11951 8459 9490 488 13817 14538 9490 1311 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 8244 5766 210 5994 9637 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 1466 10986 13584 13829 12655 13817 7272 13817 2550 1681 9363 6285 2933 12689 </steps_updated>
+    <steps_updated num="2">6054 11951 284 6781 11951 5687 13817 817 5292 </steps_updated>
+    <steps_updated num="3">10211 7855 560 11286 13817 14463 13817 1678 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="4">3633 13328 5465 1681 3896 6346 6285 8580 12689 </steps_updated>
+    <steps_updated num="5">5570 11951 14303 3699 14463 13817 14538 210 11951 937 371 5994 6640 13817 7475 11951 10860 669 11951 5543 2043 6322 11951 198 </steps_updated>
+    <steps_updated num="6">9179 11951 11583 13305 11801 258 560 11951 10060 13817 2550 11770 13757 7855 1681 11951 8459 9490 488 13817 14538 9490 1311 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

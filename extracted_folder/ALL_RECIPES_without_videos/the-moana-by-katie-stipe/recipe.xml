@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>“The Moana” By Katie Stipe Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-moana-by-katie-stipe</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 oz ; gran reserva rum ; (60 mL) </ingredient>
+    <ingredient num="1">1 oz ; passion fruit puree ; (30 g) </ingredient>
+    <ingredient num="2">0.75 fl oz ; lime juice ; (25 mL) </ingredient>
+    <ingredient num="3">0.75 fl oz ; simple syrup ; (25 mL) </ingredient>
+    <ingredient num="4">.5 oz ; pedro ximenez sherry ; (15 mL) </ingredient>
+    <ingredient num="5">1 ; pineapple leaf </ingredient>
+    <ingredient num="6">1 slice ; lime </ingredient>
+    <ingredient num="7">1 ; cherry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/78320/hls24_1518462527.m3u8</low>
+    <high>https://vid.tasty.co/output/78320/landscape_720/1518462527</high>
+  </video>
+  <steps>
+    <step num="0">Pour all ingredients into a cocktail shaker. Shake with ice. </step>
+    <step num="1">Strain over ice in a glass. </step>
+    <step num="2">Garnish with a pineapple leaf, lime slice, and cherry. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour all ingredients into a cocktail shaker. </steps_updated>
+    <steps_updated num="1">Shake with ice. </steps_updated>
+    <steps_updated num="2">Strain over ice in a glass. </steps_updated>
+    <steps_updated num="3">Garnish with a pineapple leaf, lime slice, and cherry. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beer Brat Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beer-brat-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; bratwurst ; (455 g) </ingredient>
+    <ingredient num="1">2 cans ; lager, or pilsner beer </ingredient>
+    <ingredient num="2">1 cup ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="3">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; cayenne pepper </ingredient>
+    <ingredient num="5">1 tablespoon ; brown mustard </ingredient>
+    <ingredient num="6">1 bag ; torilla chip </ingredient>
+    <ingredient num="7">½ cup ; green onion, sliced ; (50 g) </ingredient>
+    <ingredient num="8">½ cup ; white onion, or yellow onions, diced ; (75 g) </ingredient>
+    <ingredient num="9">½ cup ; pickled jalapenos ; (50 g) </ingredient>
+    <ingredient num="10">½ cup ; tomato, diced ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">German</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8045/low_1472251103.m3u8</low>
+    <high>https://vid.tasty.co/output/8045/mp4_720x1280/1472251103</high>
+  </video>
+  <steps>
+    <step num="0">In a large skillet, brown the bratwurst on both sides over medium high heat. </step>
+    <step num="1">Add both cans of beer to the skillet. Simmer over medium-low heat for 20 minutes. </step>
+    <step num="2">Remove bratwurst from skillet and set aside. </step>
+    <step num="3">Continuing to simmer beer over medium low, add cream cheese and cheddar cheese to the skillet. </step>
+    <step num="4">Stir occasionally until mixture is smooth, about 5 minutes. </step>
+    <step num="5">Add cayenne and mustard to beer cheese, stirring to incorporate. </step>
+    <step num="6">Remove beer cheese from heat. </step>
+    <step num="7">Cover a large plate with a layer of tortilla chips. Top with beer cheese. </step>
+    <step num="8">Slice bratwurst and arrange over nachos and add desired amount of nacho fixings. </step>
+    <step num="9">Repeat with another layer of chips and fixings. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large skillet, brown the bratwurst on both sides over medium high heat. </steps_updated>
+    <steps_updated num="1">Add both cans of beer to the skillet. </steps_updated>
+    <steps_updated num="2">Simmer over medium-low heat for 20 minutes. </steps_updated>
+    <steps_updated num="3">Remove bratwurst from skillet and set aside. </steps_updated>
+    <steps_updated num="4">Continuing to simmer beer over medium low, add cream cheese and cheddar cheese to the skillet. </steps_updated>
+    <steps_updated num="5">Stir occasionally until mixture is smooth, about 5 minutes. </steps_updated>
+    <steps_updated num="6">Add cayenne and mustard to beer cheese, stirring to incorporate. </steps_updated>
+    <steps_updated num="7">Remove beer cheese from heat. </steps_updated>
+    <steps_updated num="8">Cover a large plate with a layer of tortilla chips. </steps_updated>
+    <steps_updated num="9">Top with beer cheese. </steps_updated>
+    <steps_updated num="10">Slice bratwurst and arrange over nachos and add desired amount of nacho fixings. </steps_updated>
+    <steps_updated num="11">Repeat with another layer of chips and fixings. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

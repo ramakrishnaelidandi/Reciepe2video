@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Watermelon Lime Sangria Ice Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-lime-sangria-ice-pops</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-sangria-pops</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; watermelon, chopped ; (450 g) </ingredient>
+    <ingredient num="1">2 cups ; white wine ; (480 mL) </ingredient>
+    <ingredient num="2">¼ cup ; lime juice ; (60 mL) </ingredient>
+    <ingredient num="3">3 tablespoons ; simple syrup </ingredient>
+    <ingredient num="4">2 oz ; rum ; (60 mL) </ingredient>
+    <ingredient num="5">ice pop mold, mold </ingredient>
+    <ingredient num="6">ice pop stick </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Happy Hour</category>
+    <category num="1">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99529/hls24_1529602710.m3u8</low>
+    <high>https://vid.tasty.co/output/99529/landscape_720/1529602710</high>
+  </video>
+  <duration>
+    <start_time>4.0</start_time>
+    <end_time>35.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, combine the watermelon, wine, lime juice, simple syrup, and rum and blend until smooth. </step>
+    <step num="1">Pour the mixture into the ice pop molds, seal with the lids, and add the ice pop sticks. </step>
+    <step num="2">Freeze until solid, at least 4 hours, or overnight. </step>
+    <step num="3">Carefully remove the ice pops from the molds. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine the watermelon, wine, lime juice, simple syrup, and rum and blend until smooth. </steps_updated>
+    <steps_updated num="1">Pour the mixture into the ice pop molds, seal with the lids, and add the ice pop sticks. </steps_updated>
+    <steps_updated num="2">Freeze until solid, at least 4 hours, or overnight. </steps_updated>
+    <steps_updated num="3">Carefully remove the ice pops from the molds. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

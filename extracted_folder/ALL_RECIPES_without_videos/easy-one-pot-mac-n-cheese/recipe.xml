@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy One-pot Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-one-pot-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-vs-ultimate-mac-n-cheese</comp_url>
+  <ingredients>
+    <ingredient num="0">5 cups ; whole milk ; (1.18 L) </ingredient>
+    <ingredient num="1">1 box ; elbow macaroni </ingredient>
+    <ingredient num="2">½ cup ; butter ; (115 g) </ingredient>
+    <ingredient num="3">2 cups ; cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">fresh parsley, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/64207/low_1511818798.m3u8</low>
+    <high>https://vid.tasty.co/output/64207/mp4_720x1280/1511818798</high>
+  </video>
+  <duration>
+    <start_time>2.6799999999999997</start_time>
+    <end_time>40.42</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pot on medium-high heat, gently heat the milk to a simmer. </step>
+    <step num="1">Add in the elbow macaroni. Cook until the pasta is tender. </step>
+    <step num="2">Once the noodles are cooked, turn off the heat. Add in the butter, cheddar, salt, and pepper. Fold these ingredients with the pasta until the cheese and butter melt into the milk to create a thick sauce. </step>
+    <step num="3">Sprinkle with parsley and serve! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot on medium-high heat, gently heat the milk to a simmer. </steps_updated>
+    <steps_updated num="1">Add in the elbow macaroni. </steps_updated>
+    <steps_updated num="2">Cook until the pasta is tender. </steps_updated>
+    <steps_updated num="3">Once the noodles are cooked, turn off the heat. </steps_updated>
+    <steps_updated num="4">Add in the butter, cheddar, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Fold these ingredients with the pasta until the cheese and butter melt into the milk to create a thick sauce. </steps_updated>
+    <steps_updated num="6">Sprinkle with parsley and serve! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00132</start_time>
+    <end_time>01227</end_time>
+  </duration_human>
+</recipe>

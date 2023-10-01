@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>White Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-you-should-know-how-to-make-in-your-20-s</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; long grain rice ; (200 g) </ingredient>
+    <ingredient num="1">1 ¾ cups ; water ; (420 mL) </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97925/hls24_1528493552.m3u8</low>
+    <high>https://vid.tasty.co/output/97925/landscape_720/1528493552</high>
+  </video>
+  <duration>
+    <start_time>46.333</start_time>
+    <end_time>68.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Rinse the rice in a sieve three times, or until the water runs clear. </step>
+    <step num="1">Add the water and salt to a saucepan and bring to a boil over high heat. </step>
+    <step num="2">Add the rice and stir, letting the water come to a boil again. </step>
+    <step num="3">Place the lid on the saucepan and lower the heat to a simmer. Simmer for 18 minutes. </step>
+    <step num="4">Turn off the heat and let the rice steam for 5 minutes. </step>
+    <step num="5">Fluff the rice with a fork. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Rinse the rice in a sieve three times, or until the water runs clear. </steps_updated>
+    <steps_updated num="1">Add the water and salt to a saucepan and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="2">Add the rice and stir, letting the water come to a boil again. </steps_updated>
+    <steps_updated num="3">Place the lid on the saucepan and lower the heat to a simmer. </steps_updated>
+    <steps_updated num="4">Simmer for 18 minutes. </steps_updated>
+    <steps_updated num="5">Turn off the heat and let the rice steam for 5 minutes. </steps_updated>
+    <steps_updated num="6">Fluff the rice with a fork. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

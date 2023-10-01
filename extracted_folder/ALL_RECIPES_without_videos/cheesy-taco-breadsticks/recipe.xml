@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Taco Breadsticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-taco-breadsticks</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; small onion, diced </ingredient>
+    <ingredient num="1">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="2">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="4">1 lb ; pizza dough, rolled out into a rectangle ; (455 g) </ingredient>
+    <ingredient num="5">1 cup ; mexican cheese blend ; (100 g) </ingredient>
+    <ingredient num="6">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="7">salsa, for dipping </ingredient>
+    <ingredient num="8">guacamole, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27335/low_1490286536.m3u8</low>
+    <high>https://vid.tasty.co/output/27335/mp4_720x1280/1490286536</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425˚F (220˚C). </step>
+    <step num="1">Sauté onions and garlic until transparent. Add the ground beef and taco seasoning. Cook until browned. Remove from heat and set aside. </step>
+    <step num="2">On a floured surface, cut the pizza dough into 5 strips and place spoonfuls of the beef mixture into the middle of each strip, followed by the Mexican cheese blend. </step>
+    <step num="3">Fold and pinch the dough around the cheese and meat along the entire strip, ensuring to close off the ends. </step>
+    <step num="4">Brush each breadstick with olive oil and transfer to a baking sheet. </step>
+    <step num="5">Bake for 10 minutes. </step>
+    <step num="6">Remove from the oven and top each breadstick with more cheese. </step>
+    <step num="7">Bake for another 5 minutes or until the cheese is golden brown. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">Sauté onions and garlic until transparent. </steps_updated>
+    <steps_updated num="2">Add the ground beef and taco seasoning. </steps_updated>
+    <steps_updated num="3">Cook until browned. </steps_updated>
+    <steps_updated num="4">Remove from heat and set aside. </steps_updated>
+    <steps_updated num="5">On a floured surface, cut the pizza dough into 5 strips and place spoonfuls of the beef mixture into the middle of each strip, followed by the Mexican cheese blend. </steps_updated>
+    <steps_updated num="6">Fold and pinch the dough around the cheese and meat along the entire strip, ensuring to close off the ends. </steps_updated>
+    <steps_updated num="7">Brush each breadstick with olive oil and transfer to a baking sheet. </steps_updated>
+    <steps_updated num="8">Bake for 10 minutes. </steps_updated>
+    <steps_updated num="9">Remove from the oven and top each breadstick with more cheese. </steps_updated>
+    <steps_updated num="10">Bake for another 5 minutes or until the cheese is golden brown. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

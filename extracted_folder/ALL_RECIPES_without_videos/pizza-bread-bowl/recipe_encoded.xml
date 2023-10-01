@@ -1,0 +1,49 @@
+<recipe>
+  <title>Pizza Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-bread-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 4465 12991 </ingredient>
+    <ingredient num="1">3917 2605 13278 9122 2260 13278 12751 5981 </ingredient>
+    <ingredient num="2">6735 643 13278 6209 10865 14538 13278 9473 5981 </ingredient>
+    <ingredient num="3">11061 643 13278 5243 13278 8118 5981 </ingredient>
+    <ingredient num="4">1580 13278 12384 976 </ingredient>
+    <ingredient num="5">1580 2605 13278 6209 6250 13278 828 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 4437 3745 13278 9018 5981 </ingredient>
+    <ingredient num="7">3917 13278 4985 1466 10986 976 </ingredient>
+    <ingredient num="8">3917 2605 13278 4617 9784 13810 3333 13278 11953 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31946/low_1495124906.m3u8</low>
+    <high>https://vid.tasty.co/output/31946/mp4_720x1280/1495124906</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 11323 </step>
+    <step num="1">3235 11951 10707 371 11951 4465 12991 3482 13817 5103 11951 3887 </step>
+    <step num="2">2988 1580 2605 371 11951 9122 4255 11951 551 371 11951 1175 415 11826 1391 2532 371 11951 8111 2933 3927 371 11951 6447 7272 749 4437 5016 11951 11649 1580 2605 371 1400 11951 374 8111 13817 2532 371 11951 4617 9631 13817 3345 11951 2142 371 11951 4465 12991 4255 143 </step>
+    <step num="3">5791 11951 4465 12377 210 8450 415 14484 1391 5994 8640 7662 7990 238 12689 </step>
+    <step num="4">6054 11951 3615 13817 1678 11951 374 9784 13817 5243 4255 143 7831 7990 238 11004 1681 14538 9490 10963 2147 </step>
+    <step num="5">13434 7990 13767 8927 13817 2519 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 11323 </steps_updated>
+    <steps_updated num="1">3235 11951 10707 371 11951 4465 12991 3482 13817 5103 11951 3887 </steps_updated>
+    <steps_updated num="2">2988 1580 2605 371 11951 9122 4255 11951 551 371 11951 1175 415 11826 1391 2532 371 11951 8111 2933 3927 371 11951 6447 7272 749 4437 5016 11951 11649 1580 2605 371 1400 11951 374 8111 13817 2532 371 11951 4617 9631 13817 3345 11951 2142 371 11951 4465 12991 4255 143 </steps_updated>
+    <steps_updated num="3">5791 11951 4465 12377 210 8450 415 14484 1391 5994 8640 7662 7990 238 12689 </steps_updated>
+    <steps_updated num="4">6054 11951 3615 13817 1678 11951 374 9784 13817 5243 4255 143 </steps_updated>
+    <steps_updated num="5">7831 7990 238 11004 1681 14538 9490 10963 2147 </steps_updated>
+    <steps_updated num="6">13434 7990 13767 8927 13817 2519 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

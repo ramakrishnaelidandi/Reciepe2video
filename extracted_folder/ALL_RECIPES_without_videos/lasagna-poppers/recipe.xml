@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lasagna Poppers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lasagna-poppers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="1">½ cup ; onion, chopped ; (75 g) </ingredient>
+    <ingredient num="2">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; marinara sauce ; (390 g) </ingredient>
+    <ingredient num="4">8 oz ; shredded mozzarella cheese ; (230 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">1 ½ cups ; flour ; (190 g) </ingredient>
+    <ingredient num="8">2 cups ; panko breadcrumbs ; (100 g) </ingredient>
+    <ingredient num="9">4 ; eggs </ingredient>
+    <ingredient num="10">3 cups ; canola oil, for frying - depending on size of pot used ; (720 mL) </ingredient>
+    <ingredient num="11">8 ; lasagna noodles, depending on amount of each filling </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31937/low_1495124932.m3u8</low>
+    <high>https://vid.tasty.co/output/31937/mp4_720x1280/1495124932</high>
+  </video>
+  <steps>
+    <step num="0">Coat a 10-inch (25 cm) frying pan with olive oil. Add minced garlic and chopped onion, stirring consistently until lightly browned. </step>
+    <step num="1">Add ground beef, and stir to mix with onion and garlic. </step>
+    <step num="2">Once beef has begun to brown and water has been released drain water and fat then continue cooking until beef begins to brown and become tender and crispy. </step>
+    <step num="3">Add marinara sauce and mix together. Sprinkle salt and pepper to taste, remove heat. </step>
+    <step num="4">Add mozzarella. Stir until mozzarella binds to mixture. </step>
+    <step num="5">While mixture cools boil four cups of water in medium pot and add lasagna noodles, lay them in across each other in a star formation so they do not bind together, stir regularly. </step>
+    <step num="6">After eight to 10 minutes drain pasta and allow to cool for five minutes. </step>
+    <step num="7">Cut noodles down to 3- to 4-inch (8-10cm) slices and place mixture inside and roll. </step>
+    <step num="8">Place poppers in freezer for 12 minutes. </step>
+    <step num="9">Dip poppers in egg wash, flour, and bread crumbs, then once more in the egg wash and bread crumbs. </step>
+    <step num="10">Freeze for additional 12 minutes. </step>
+    <step num="11">Heat 3–4 inches (8-10cm) of canola oil at medium heat in a pot for 15 minutes — test by splashing drops of water into oil (it should sizzle). </step>
+    <step num="12">Place poppers in oil three or four at a time until they are golden brown on all sides, allow them to cool for 10–12 minutes and serve with marinara sauce as dip. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Coat a 10-inch (25 cm) frying pan with olive oil. </steps_updated>
+    <steps_updated num="1">Add minced garlic and chopped onion, stirring consistently until lightly browned. </steps_updated>
+    <steps_updated num="2">Add ground beef, and stir to mix with onion and garlic. </steps_updated>
+    <steps_updated num="3">Once beef has begun to brown and water has been released drain water and fat then continue cooking until beef begins to brown and become tender and crispy. </steps_updated>
+    <steps_updated num="4">Add marinara sauce and mix together. </steps_updated>
+    <steps_updated num="5">Sprinkle salt and pepper to taste, remove heat. </steps_updated>
+    <steps_updated num="6">Add mozzarella. </steps_updated>
+    <steps_updated num="7">Stir until mozzarella binds to mixture. </steps_updated>
+    <steps_updated num="8">While mixture cools boil four cups of water in medium pot and add lasagna noodles, lay them in across each other in a star formation so they do not bind together, stir regularly. </steps_updated>
+    <steps_updated num="9">After eight to 10 minutes drain pasta and allow to cool for five minutes. </steps_updated>
+    <steps_updated num="10">Cut noodles down to 3- to 4-inch (8-10cm) slices and place mixture inside and roll. </steps_updated>
+    <steps_updated num="11">Place poppers in freezer for 12 minutes. </steps_updated>
+    <steps_updated num="12">Dip poppers in egg wash, flour, and bread crumbs, then once more in the egg wash and bread crumbs. </steps_updated>
+    <steps_updated num="13">Freeze for additional 12 minutes. </steps_updated>
+    <steps_updated num="14">Heat 3–4 inches (8-10cm) of canola oil at medium heat in a pot for 15 minutes — test by splashing drops of water into oil (it should sizzle). </steps_updated>
+    <steps_updated num="15">Place poppers in oil three or four at a time until they are golden brown on all sides, allow them to cool for 10–12 minutes and serve with marinara sauce as dip. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

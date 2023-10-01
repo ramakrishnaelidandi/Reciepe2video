@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>S'mores Crepes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/s-mores-crepes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/crepes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="1">3 ; eggs </ingredient>
+    <ingredient num="2">¼ cup ; butter, melted ; (55 g) </ingredient>
+    <ingredient num="3">3 tablespoons ; granulated sugar </ingredient>
+    <ingredient num="4">3 cups ; milk ; (720 mL) </ingredient>
+    <ingredient num="5">graham cracker, as desired </ingredient>
+    <ingredient num="6">chocolate, as desired </ingredient>
+    <ingredient num="7">marshmallow, as desired </ingredient>
+    <ingredient num="8">chocolate syrup, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44985/low_1501028201.m3u8</low>
+    <high>https://vid.tasty.co/output/44985/mp4_720x1280/1501028201</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, combine flour, eggs, butter, and sugar, stirring until ingredients are slightly mixed. </step>
+    <step num="1">Add the milk ½ cup (120 ml) at a time, stirring vigorously, making sure the milk is completely incorporated into the batter and that the batter is smooth before adding more milk. </step>
+    <step num="2">Repeat with the rest of the milk. The batter should be very liquidy and have no lumps. </step>
+    <step num="3">In a pan over medium heat, pour ⅓ cup (95 g) of the batter in the center and swirl the batter around the edges of the pan until set. </step>
+    <step num="4">To know when the crepe is ready to flip, lift up one of the edges about ⅓ of the way. The bottom side should be golden brown. Flip the crepe. </step>
+    <step num="5">Cook until the edges are starting to slightly crisp. </step>
+    <step num="6">Remove from heat and cover with a paper towel to make sure the crepes stay moist. </step>
+    <step num="7">Add graham crackers, chocolate, and marshmallows to crepe. Fold crepe over twice. </step>
+    <step num="8">Bake at 350˚F (175˚C) for 10 minutes. </step>
+    <step num="9">Remove from heat and cool. </step>
+    <step num="10">Serve with chocolate syrup and crumbled graham crackers. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine flour, eggs, butter, and sugar, stirring until ingredients are slightly mixed. </steps_updated>
+    <steps_updated num="1">Add the milk ½ cup (120 ml) at a time, stirring vigorously, making sure the milk is completely incorporated into the batter and that the batter is smooth before adding more milk. </steps_updated>
+    <steps_updated num="2">Repeat with the rest of the milk. </steps_updated>
+    <steps_updated num="3">The batter should be very liquidy and have no lumps. </steps_updated>
+    <steps_updated num="4">In a pan over medium heat, pour ⅓ cup (95 g) of the batter in the center and swirl the batter around the edges of the pan until set. </steps_updated>
+    <steps_updated num="5">To know when the crepe is ready to flip, lift up one of the edges about ⅓ of the way. </steps_updated>
+    <steps_updated num="6">The bottom side should be golden brown. </steps_updated>
+    <steps_updated num="7">Flip the crepe. </steps_updated>
+    <steps_updated num="8">Cook until the edges are starting to slightly crisp. </steps_updated>
+    <steps_updated num="9">Remove from heat and cover with a paper towel to make sure the crepes stay moist. </steps_updated>
+    <steps_updated num="10">Add graham crackers, chocolate, and marshmallows to crepe. </steps_updated>
+    <steps_updated num="11">Fold crepe over twice. </steps_updated>
+    <steps_updated num="12">Bake at 350˚F (175˚C) for 10 minutes. </steps_updated>
+    <steps_updated num="13">Remove from heat and cool. </steps_updated>
+    <steps_updated num="14">Serve with chocolate syrup and crumbled graham crackers. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00000</start_time>
+    <end_time>02724</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthier Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-healthier-food-substitutions</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; yellow potatoes, peeled and cubed </ingredient>
+    <ingredient num="1">1 ; medium carrot, sliced </ingredient>
+    <ingredient num="2">1 ; medium onion, peeled and quartered </ingredient>
+    <ingredient num="3">½ cup ; cashews ; (65 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="8">2 tablespoons ; nutritional yeast </ingredient>
+    <ingredient num="9">1 lb ; whole wheat macaroni, cooked ; (455 g) </ingredient>
+    <ingredient num="10">paprika, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46809/low_1502320486.m3u8</low>
+    <high>https://vid.tasty.co/output/46809/mp4_720x1280/1502320486</high>
+  </video>
+  <duration>
+    <start_time>202.75</start_time>
+    <end_time>227.44</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add potatoes, carrot, and onion to a boiling pot of water. Cook for 10 minutes or until fork-tender. Reserve two cups of boiled water, and drain the rest through a colander. </step>
+    <step num="1">Add cooked vegetables, cashews, salt, pepper, garlic powder, onion powder, and nutritional yeast. Put 1 cup (235 ml) of reserved boiled water into blend. Blend until well combined. If a smoother texture is desired, add more of the boiled water. </step>
+    <step num="2">Pour mix over cooked pasta and coat evenly. </step>
+    <step num="3">Garnish with paprika (optional). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add potatoes, carrot, and onion to a boiling pot of water. </steps_updated>
+    <steps_updated num="1">Cook for 10 minutes or until fork-tender. </steps_updated>
+    <steps_updated num="2">Reserve two cups of boiled water, and drain the rest through a colander. </steps_updated>
+    <steps_updated num="3">Add cooked vegetables, cashews, salt, pepper, garlic powder, onion powder, and nutritional yeast. </steps_updated>
+    <steps_updated num="4">Put 1 cup (235 ml) of reserved boiled water into blend. </steps_updated>
+    <steps_updated num="5">Blend until well combined. </steps_updated>
+    <steps_updated num="6">If a smoother texture is desired, add more of the boiled water. </steps_updated>
+    <steps_updated num="7">Pour mix over cooked pasta and coat evenly. </steps_updated>
+    <steps_updated num="8">Garnish with paprika (optional). </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05994</start_time>
+    <end_time>06938</end_time>
+  </duration_human>
+</recipe>

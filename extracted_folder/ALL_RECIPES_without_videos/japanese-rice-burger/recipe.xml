@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Japanese Rice Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/japanese-rice-burger</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-burgers-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; white rice, cooked ; (460 g) </ingredient>
+    <ingredient num="1">cooking spray </ingredient>
+    <ingredient num="2">1 tablespoon ; oil </ingredient>
+    <ingredient num="3">1 lb ; 80% lean ground beef ; (455 g) </ingredient>
+    <ingredient num="4">½ ; onion, finely chopped </ingredient>
+    <ingredient num="5">½ cup ; panko breadcrumbs ; (25 g) </ingredient>
+    <ingredient num="6">1 ; egg </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">1 teaspoon ; pepper </ingredient>
+    <ingredient num="9">1 cup ; beef gravy, or demi-glace ; (240 g) </ingredient>
+    <ingredient num="10">3 ; eggs, fried </ingredient>
+    <ingredient num="11">⅓ cup ; green onion, thinly sliced ; (35 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">BBQ</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10187/low_1473975104.m3u8</low>
+    <high>https://vid.tasty.co/output/10187/mp4_720x1280/1473975104</high>
+  </video>
+  <duration>
+    <start_time>54.86</start_time>
+    <end_time>85.899</end_time>
+  </duration>
+  <steps>
+    <step num="0">Press ⅓ cup (75 g) of rice into the bottom of a greased 1 cup measure, then remove. Repeat with the rice until you have 6 buns. </step>
+    <step num="1">In a pan over medium-high heat, fry the buns until lightly browned on both sides. </step>
+    <step num="2">Set aside on a paper towel. </step>
+    <step num="3">Mix together the the patty ingredients until evenly combined. </step>
+    <step num="4">Form the beef into 3 patties. </step>
+    <step num="5">Heat oil in a pan over medium heat. </step>
+    <step num="6">Cook the burgers for 3 minutes on the first side, flip, then cook for 6 more minutes. </step>
+    <step num="7">Assemble the burgers with the rice buns, beef gravy, egg, and green onions. scallions. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Press ⅓ cup (75 g) of rice into the bottom of a greased 1 cup measure, then remove. </steps_updated>
+    <steps_updated num="1">Repeat with the rice until you have 6 buns. </steps_updated>
+    <steps_updated num="2">In a pan over medium-high heat, fry the buns until lightly browned on both sides. </steps_updated>
+    <steps_updated num="3">Set aside on a paper towel. </steps_updated>
+    <steps_updated num="4">Mix together the the patty ingredients until evenly combined. </steps_updated>
+    <steps_updated num="5">Form the beef into 3 patties. </steps_updated>
+    <steps_updated num="6">Heat oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="7">Cook the burgers for 3 minutes on the first side, flip, then cook for 6 more minutes. </steps_updated>
+    <steps_updated num="8">Assemble the burgers with the rice buns, beef gravy, egg, and green onions. </steps_updated>
+    <steps_updated num="9">scallions. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01705</start_time>
+    <end_time>02604</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chickpea Sweet Potato Stew Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chickpea-sweet-potato-stew</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hearty-stews-that-will-fill-you-up</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; refined coconut oil </ingredient>
+    <ingredient num="1">1 ; small onion, diced </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 teaspoon ; ginger, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; sweet paprika </ingredient>
+    <ingredient num="5">½ teaspoon ; cumin </ingredient>
+    <ingredient num="6">¼ teaspoon ; dried coriander </ingredient>
+    <ingredient num="7">⅛ teaspoon ; cayenne </ingredient>
+    <ingredient num="8">15 oz ; chickpeas, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="9">2 cups ; sweet potato, peeled and diced ; (400 g) </ingredient>
+    <ingredient num="10">15 oz ; fire roasted crushed tomato, 1 can ; (425 g) </ingredient>
+    <ingredient num="11">3 cups ; vegetable broth ; (720 mL) </ingredient>
+    <ingredient num="12">5 oz ; fresh spinach ; (140 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Lunch</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79256/hls24_1518729800.m3u8</low>
+    <high>https://vid.tasty.co/output/79256/landscape_720/1518729800</high>
+  </video>
+  <duration>
+    <start_time>135.0</start_time>
+    <end_time>190.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">In large pot or Dutch oven, heat the coconut oil over medium heat. Once the oil begins to shimmer, add the onion and cook for 4-5 minutes, or until the onion is semi-translucent. </step>
+    <step num="1">Add the garlic and ginger, and cook for 2-3 more minutes, until fragrant. Then add the sweet paprika, cumin, coriander, and cayenne and cook for 2 more minutes, until fragrant. </step>
+    <step num="2">Add the chickpeas, sweet potatoes, crushed tomatoes, and vegetable broth, and bring to a boil. Reduce the heat to medium-low and simmer for 15-20 minutes, or until the sweet potatoes are tender. </step>
+    <step num="3">Add the spinach and stir until wilted. </step>
+    <step num="4">Serve immediately. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In large pot or Dutch oven, add the coconut oil over medium heat. </steps_updated>
+    <steps_updated num="1">Once the oil begins to shimmer, add the onions and cook for about 4-5 minutes, or until onions are semi-translucent. </steps_updated>
+    <steps_updated num="2">Add in the garlic and ginger, and cook for 2-3 more minutes until fragrant. </steps_updated>
+    <steps_updated num="3">Then add sweet paprika, cumin, coriander, and cayenne, and cook for 2 more minutes until fragrant. </steps_updated>
+    <steps_updated num="4">Add in the chickpeas, sweet potatoes, crushed tomatoes, and vegetable broth, and bring to a boil. </steps_updated>
+    <steps_updated num="5">Reduce heat to medium-high and simmer for 15-20 minutes or until sweet potatoes are tender. </steps_updated>
+    <steps_updated num="6">Add in spinach and stir until wilted. </steps_updated>
+    <steps_updated num="7">Serve immediately. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03282</start_time>
+    <end_time>04506</end_time>
+  </duration_human>
+</recipe>

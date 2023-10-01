@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Summer Vegetable Minestrone Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/summer-vegetable-minestrone-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">2 ; carrots, chopped </ingredient>
+    <ingredient num="2">2 stalks ; celery, chopped </ingredient>
+    <ingredient num="3">1 ; onion, chopped </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="6">1 ; potato, peeled and cubed </ingredient>
+    <ingredient num="7">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">28 oz ; diced tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="9">8 cups ; vegetable stock ; (1.8 L) </ingredient>
+    <ingredient num="10">2 ; zucchinis, diced </ingredient>
+    <ingredient num="11">15 oz ; cannellini bean, 1 can, rinsed and drained ; (425 g) </ingredient>
+    <ingredient num="12">3 cups ; spinach ; (120 g) </ingredient>
+    <ingredient num="13">2 cups ; elbow pasta ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46706/low_1502297236.m3u8</low>
+    <high>https://vid.tasty.co/output/46706/mp4_720x1280/1502297236</high>
+  </video>
+  <steps>
+    <step num="0">Combine oil, carrots, celery, onion, salt, pepper, and potato in a large pot over medium heat for 3 minutes. </step>
+    <step num="1">Add garlic and stir for one minute. Mix in diced tomatoes, vegetable stock, and zucchini. </step>
+    <step num="2">Bring to a boil. </step>
+    <step num="3">Place the lid on the pot, and simmer for 45 minutes. </step>
+    <step num="4">Add cannellini beans, spinach, and pasta. Cover and simmer 10 minutes. </step>
+    <step num="5">Allow to cool before serving. </step>
+    <step num="6">Enjoy </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine oil, carrots, celery, onion, salt, pepper, and potato in a large pot over medium heat for 3 minutes. </steps_updated>
+    <steps_updated num="1">Add garlic and stir for one minute. </steps_updated>
+    <steps_updated num="2">Mix in diced tomatoes, vegetable stock, and zucchini. </steps_updated>
+    <steps_updated num="3">Bring to a boil. </steps_updated>
+    <steps_updated num="4">Place the lid on the pot, and simmer for 45 minutes. </steps_updated>
+    <steps_updated num="5">Add cannellini beans, spinach, and pasta. </steps_updated>
+    <steps_updated num="6">Cover and simmer 10 minutes. </steps_updated>
+    <steps_updated num="7">Allow to cool before serving. </steps_updated>
+    <steps_updated num="8">Enjoy </steps_updated>
+  </steps_updated>
+</recipe>

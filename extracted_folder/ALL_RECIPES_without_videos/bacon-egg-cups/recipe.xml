@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon Egg Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-egg-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/strawberry-shortcake-pancake-breakfast-in-bed</comp_url>
+  <ingredients>
+    <ingredient num="0">6 slices ; bacon </ingredient>
+    <ingredient num="1">6 ; eggs </ingredient>
+    <ingredient num="2">salt, taste </ingredient>
+    <ingredient num="3">pepper, taste </ingredient>
+    <ingredient num="4">¼ cup ; shredded cheddar cheese ; (25 g) </ingredient>
+    <ingredient num="5">chives, to taste </ingredient>
+    <ingredient num="6">muffin tin </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31174/low_1494276313.m3u8</low>
+    <high>https://vid.tasty.co/output/31174/mp4_720x1280/1494276313</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>21.69</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200°C). </step>
+    <step num="1">Place the slices of bacon in the muffin tin, wrapping in a circle. </step>
+    <step num="2">Bake the bacon for 10 minutes. </step>
+    <step num="3">Remove the bacon from the oven and pour out any excess grease, if desired. Crack 1 egg into each of the cups, then sprinkle with salt, pepper, and cheddar cheese. </step>
+    <step num="4">Bake for another 10 minutes, or until the egg yolks reach your desired consistency. </step>
+    <step num="5">Run a knife around the edge of each cup to loosen and remove. Sprinkle with chives, if desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Place the slices of bacon in the muffin tin wrapping in a circle. </steps_updated>
+    <steps_updated num="2">Bake the bacon for 10 minutes. </steps_updated>
+    <steps_updated num="3">Crack one egg into each of the cups and sprinkle with salt, pepper, and cheddar cheese. </steps_updated>
+    <steps_updated num="4">Bake again for another 10 minutes or until egg yolk is at desired consistency. </steps_updated>
+    <steps_updated num="5">Run a knife around the edge of each cup to loosen and remove. </steps_updated>
+    <steps_updated num="6">Sprinkle with chives, if desired. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00661</end_time>
+  </duration_human>
+</recipe>

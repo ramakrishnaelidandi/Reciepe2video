@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Geode Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/geode-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; white cake, or cake of your choice </ingredient>
+    <ingredient num="1">fondant </ingredient>
+    <ingredient num="2">buttercream frosting </ingredient>
+    <ingredient num="3">white rum, or vodka </ingredient>
+    <ingredient num="4">black food coloring </ingredient>
+    <ingredient num="5">piping gel </ingredient>
+    <ingredient num="6">rock candy, ranging from white to dark teal/blue, or colors of your preference </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Bakery Goods</category>
+    <category num="5">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13586/low_1478044828.m3u8</low>
+    <high>https://vid.tasty.co/output/13586/mp4_720x1280/1478044828</high>
+  </video>
+  <steps>
+    <step num="0">Cover cake in smooth layers of fondant. </step>
+    <step num="1">Cut the geode shape out of the side of the cake. </step>
+    <step num="2">Spread buttercream frosting all along the inside of the cut. </step>
+    <step num="3">Mix alcohol with food coloring until it reaches the desired shade of gray. </step>
+    <step num="4">Paint a thin dark line around the edge of the cut. </step>
+    <step num="5">Apply a row of piping gel in the center of the cut. </step>
+    <step num="6">Press rock candy into the piping gel, starting with the darkest shade. </step>
+    <step num="7">Continue laying out rows of piping gel and pressing in the rock candy, applying lighter colors and smaller pieces as you move farther out toward the edge of the cut. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cover cake in smooth layers of fondant. </steps_updated>
+    <steps_updated num="1">Cut the geode shape out of the side of the cake. </steps_updated>
+    <steps_updated num="2">Spread buttercream frosting all along the inside of the cut. </steps_updated>
+    <steps_updated num="3">Mix alcohol with food coloring until it reaches the desired shade of gray. </steps_updated>
+    <steps_updated num="4">Paint a thin dark line around the edge of the cut. </steps_updated>
+    <steps_updated num="5">Apply a row of piping gel in the center of the cut. </steps_updated>
+    <steps_updated num="6">Press rock candy into the piping gel, starting with the darkest shade. </steps_updated>
+    <steps_updated num="7">Continue laying out rows of piping gel and pressing in the rock candy, applying lighter colors and smaller pieces as you move farther out toward the edge of the cut. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

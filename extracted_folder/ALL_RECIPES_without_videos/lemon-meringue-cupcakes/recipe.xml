@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lemon Meringue Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lemon-meringue-cupcakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; butter, at room temperature ; (230 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; sugar ; (250 g) </ingredient>
+    <ingredient num="2">4 ; eggs </ingredient>
+    <ingredient num="3">2 ½ cups ; flour ; (310 g) </ingredient>
+    <ingredient num="4">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="7">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="8">½ cup ; lemon juice ; (120 mL) </ingredient>
+    <ingredient num="9">6 ; egg yolks </ingredient>
+    <ingredient num="10">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="11">½ cup ; lemon juice ; (120 g) </ingredient>
+    <ingredient num="12">1 tablespoon ; lemon zest </ingredient>
+    <ingredient num="13">6 tablespoons ; butter </ingredient>
+    <ingredient num="14">6 ; egg whites </ingredient>
+    <ingredient num="15">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="16">1 teaspoon ; cream of tartar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48188/low_1503092370.m3u8</low>
+    <high>https://vid.tasty.co/output/48188/mp4_720x1280/1503092370</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 325ºF (170ºC). </step>
+    <step num="1">In a medium bowl, cream the butter and slowly add the sugar. Beat until light and fluffy. </step>
+    <step num="2">Add the eggs one at a time, mixing until incorporated. </step>
+    <step num="3">Sift the flour and baking powder into the sugar mixture. Add salt and mix until just combined. </step>
+    <step num="4">Add the vanilla, milk, and lemon juice, and mix until incorporated. </step>
+    <step num="5">Scoop mixture into a lined cupcake tin about ¾ full. </step>
+    <step num="6">Bake 12-15 minutes, or until a toothpick comes out cleanly from the center of the cupcakes. Let cupcakes cool. </step>
+    <step num="7">Prepare the lemon curd by whisking the yolks and sugar in a heatproof bowl over a pot of simmering water. </step>
+    <step num="8">Once the sugar is dissolved, add the lemon juice and zest. Stir until the mixture thickens, about 10 minutes. </step>
+    <step num="9">Once the curd coats the back of a spoon, add the butter and stir until melted. </step>
+    <step num="10">Remove from the heat, cover with plastic wrap, and refrigerate. Make sure the cling film touches the surface of the curd so that a film doesn’t form on top. </step>
+    <step num="11">Prepare the frosting by whisking the egg whites and sugar in a heatproof bowl over simmering water until it thickens and the sugar dissolves completely. Tempering the eggs will ensure the frosting is food safe without being baked. </step>
+    <step num="12">Remove from the heat, add the cream of tartar, and beat about 10 minutes until soft peaks form. </step>
+    <step num="13">Using a piping tip or a knife, cut a hole into the top of the cupcakes and press down to make a well for the curd. </step>
+    <step num="14">Add lemon curd into the cupcakes and frost them with the meringue. </step>
+    <step num="15">Torch the frosting or carefully broil for about 3 to 4 minutes. Be sure that you use foil cupcake liners if broiling! </step>
+    <step num="16">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 325ºF (170ºC). </steps_updated>
+    <steps_updated num="1">In a medium bowl, cream the butter and slowly add the sugar. </steps_updated>
+    <steps_updated num="2">Beat until light and fluffy. </steps_updated>
+    <steps_updated num="3">Add the eggs one at a time, mixing until incorporated. </steps_updated>
+    <steps_updated num="4">Sift the flour and baking powder into the sugar mixture. </steps_updated>
+    <steps_updated num="5">Add salt and mix until just combined. </steps_updated>
+    <steps_updated num="6">Add the vanilla, milk, and lemon juice, and mix until incorporated. </steps_updated>
+    <steps_updated num="7">Scoop mixture into a lined cupcake tin about ¾ full. </steps_updated>
+    <steps_updated num="8">Bake 12-15 minutes, or until a toothpick comes out cleanly from the center of the cupcakes. </steps_updated>
+    <steps_updated num="9">Let cupcakes cool. </steps_updated>
+    <steps_updated num="10">Prepare the lemon curd by whisking the yolks and sugar in a heatproof bowl over a pot of simmering water. </steps_updated>
+    <steps_updated num="11">Once the sugar is dissolved, add the lemon juice and zest. </steps_updated>
+    <steps_updated num="12">Stir until the mixture thickens, about 10 minutes. </steps_updated>
+    <steps_updated num="13">Once the curd coats the back of a spoon, add the butter and stir until melted. </steps_updated>
+    <steps_updated num="14">Remove from the heat, cover with plastic wrap, and refrigerate. </steps_updated>
+    <steps_updated num="15">Make sure the cling film touches the surface of the curd so that a film doesn’t form on top. </steps_updated>
+    <steps_updated num="16">Prepare the frosting by whisking the egg whites and sugar in a heatproof bowl over simmering water until it thickens and the sugar dissolves completely. </steps_updated>
+    <steps_updated num="17">Tempering the eggs will ensure the frosting is food safe without being baked. </steps_updated>
+    <steps_updated num="18">Remove from the heat, add the cream of tartar, and beat about 10 minutes until soft peaks form. </steps_updated>
+    <steps_updated num="19">Using a piping tip or a knife, cut a hole into the top of the cupcakes and press down to make a well for the curd. </steps_updated>
+    <steps_updated num="20">Add lemon curd into the cupcakes and frost them with the meringue. </steps_updated>
+    <steps_updated num="21">Torch the frosting or carefully broil for about 3 to 4 minutes. </steps_updated>
+    <steps_updated num="22">Be sure that you use foil cupcake liners if broiling! </steps_updated>
+    <steps_updated num="23">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Egg Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-egg-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-unique-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; ripe avocados </ingredient>
+    <ingredient num="1">4 ; large eggs </ingredient>
+    <ingredient num="2">tomato, diced </ingredient>
+    <ingredient num="3">fresh basil, chopped </ingredient>
+    <ingredient num="4">feta cheese, crumbled </ingredient>
+    <ingredient num="5">bell pepper, diced </ingredient>
+    <ingredient num="6">onion, diced </ingredient>
+    <ingredient num="7">turkey bacon, chopped </ingredient>
+    <ingredient num="8">chives, chopped </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105971/hls24_1534801160.m3u8</low>
+    <high>https://vid.tasty.co/output/105971/landscape_720/1534801160</high>
+  </video>
+  <duration>
+    <start_time>2.1660000000000004</start_time>
+    <end_time>51.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220°C). </step>
+    <step num="1">Cut the avocados in half and carefully remove the pits. </step>
+    <step num="2">Scoop out 1-2 tablespoons of avocado from the center of each half (save it for another meal!). </step>
+    <step num="3">Transfer the avocado halves to a baking sheet and carefully crack an egg into each avocado cup. If the divot is too small, it may be easier to separate the egg yolks and whites before placing them in the avocado. </step>
+    <step num="4">Add your favorite topping combo, such as tomato and basil, feta cheese, bell pepper and onion, and bacon and chives. Season with salt and pepper to taste </step>
+    <step num="5">Bake for 18 minutes, or until the egg whites have cooked completely. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Cut the avocados in half and carefully remove the pits. </steps_updated>
+    <steps_updated num="2">Scoop out 1-2 tablespoons of avocado from the center of each half (save it for another meal!). </steps_updated>
+    <steps_updated num="3">Transfer the avocado halves to a baking sheet and carefully crack an egg into each avocado cup. </steps_updated>
+    <steps_updated num="4">If the divot is too small, it may be easier to separate the egg yolks and whites before placing them in the avocado. </steps_updated>
+    <steps_updated num="5">Add your favorite topping combo, such as tomato and basil, feta cheese, bell pepper and onion, and bacon and chives. </steps_updated>
+    <steps_updated num="6">Season with salt and pepper to taste </steps_updated>
+    <steps_updated num="7">Bake for 18 minutes, or until the egg whites have cooked completely. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

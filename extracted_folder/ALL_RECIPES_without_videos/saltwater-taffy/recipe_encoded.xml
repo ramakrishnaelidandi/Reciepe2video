@@ -1,0 +1,51 @@
+<recipe>
+  <title>Saltwater Taffy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/saltwater-taffy</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 12367 </ingredient>
+    <ingredient num="2">3917 14014 13278 7974 9924 </ingredient>
+    <ingredient num="3">3591 2605 13278 6949 3183 6818 13278 4337 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="6">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="7">1580 8071 13278 8429 9525 371 12313 6507 </ingredient>
+    <ingredient num="8">8580 667 13278 8016 4397 7781 371 12313 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107634/hls24_1535743207.m3u8</low>
+    <high>https://vid.tasty.co/output/107634/landscape_720/1535743207</high>
+  </video>
+  <steps>
+    <step num="0">9179 11951 4834 560 5994 2597 10083 7321 1391 5994 3076 4794 4026 210 11951 12367 13817 8341 669 11951 4834 1681 8460 9179 11951 10907 3183 1285 12610 13384 308 13817 9558 10937 371 6507 560 11951 4771 283 560 4398 415 837 11951 7855 560 13757 13817 2550 1681 11951 2373 13751 1295 5762 </step>
+    <step num="1">9179 11951 8016 7781 13817 6142 560 1011 </step>
+    <step num="2">1083 11951 3076 669 5994 2362 12787 3830 13817 10694 1681 1762 12573 4050 560 9665 2996 5966 12689 </step>
+    <step num="3">5552 11951 2373 2696 409 4735 1258 1645 9526 1816 13817 7475 3557 11770 8150 2798 13817 2798 7990 8489 12689 12450 5604 217 837 6781 8991 560 5400 </step>
+    <step num="4">11233 11951 5604 175 12084 560 1487 4536 3557 560 6285 5994 5813 8662 3104 13817 1318 9740 7711 10760 4255 5994 2362 9061 14100 11951 10760 210 8467 10993 12205 11951 5604 669 12286 10506 </step>
+    <step num="5">5791 10763 9152 371 5604 210 5994 10459 371 3550 12 13817 10069 11951 672 560 4510 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 4834 560 5994 2597 10083 7321 1391 5994 3076 4794 </steps_updated>
+    <steps_updated num="1">4026 210 11951 12367 13817 8341 669 11951 4834 1681 8460 </steps_updated>
+    <steps_updated num="2">9179 11951 10907 3183 1285 12610 13384 308 13817 9558 10937 371 6507 560 11951 4771 </steps_updated>
+    <steps_updated num="3">283 560 4398 415 837 11951 7855 560 13757 13817 2550 1681 11951 2373 13751 1295 5762 </steps_updated>
+    <steps_updated num="4">9179 11951 8016 7781 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="5">1083 11951 3076 669 5994 2362 12787 3830 13817 10694 1681 1762 12573 4050 560 9665 2996 5966 12689 </steps_updated>
+    <steps_updated num="6">5552 11951 2373 2696 409 4735 1258 1645 9526 1816 13817 7475 3557 11770 8150 2798 13817 2798 7990 8489 12689 </steps_updated>
+    <steps_updated num="7">12450 5604 217 837 6781 8991 560 5400 </steps_updated>
+    <steps_updated num="8">11233 11951 5604 175 12084 560 1487 4536 3557 560 6285 5994 5813 8662 3104 13817 1318 9740 7711 10760 4255 5994 2362 9061 </steps_updated>
+    <steps_updated num="9">14100 11951 10760 210 8467 </steps_updated>
+    <steps_updated num="10">10993 12205 11951 5604 669 12286 10506 </steps_updated>
+    <steps_updated num="11">5791 10763 9152 371 5604 210 5994 10459 371 3550 12 13817 10069 11951 672 560 4510 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Soy Chicken Wings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-soy-chicken-wings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 ; chicken wings </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">potato starch, to dredge </ingredient>
+    <ingredient num="4">frying oil, as needed </ingredient>
+    <ingredient num="5">½ cup ; soy sauce ; (120 mL) </ingredient>
+    <ingredient num="6">¼ cup ; mirin ; (50 mL) </ingredient>
+    <ingredient num="7">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="8">¼ cup ; sake ; (50 mL) </ingredient>
+    <ingredient num="9">1 clove ; garlic, grated </ingredient>
+    <ingredient num="10">toasted white sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27512/low_1490388394.m3u8</low>
+    <high>https://vid.tasty.co/output/27512/mp4_720x1280/1490388394</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oil to about 160˚C (320˚F). </step>
+    <step num="1">Season both sides of the chicken wings with salt and pepper. Coat with potato starch. </step>
+    <step num="2">Fry the wings at 160˚C (320˚F) approximately 7 minutes. </step>
+    <step num="3">Heat oil to about 180˚C (350˚F). Fry the wings until golden brown, about 3 minutes. Drain them on paper towels. Set aside. </step>
+    <step num="4">Make the glaze. Combine all the glaze ingredients in a shallow pan and bring it to a simmer. Reduce until thick. Toss in the wings. </step>
+    <step num="5">Sprinkle toasted white sesame. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oil to about 160˚C (320˚F). </steps_updated>
+    <steps_updated num="1">Season both sides of the chicken wings with salt and pepper. </steps_updated>
+    <steps_updated num="2">Coat with potato starch. </steps_updated>
+    <steps_updated num="3">Fry the wings at 160˚C (320˚F) approximately 7 minutes. </steps_updated>
+    <steps_updated num="4">Heat oil to about 180˚C (350˚F). </steps_updated>
+    <steps_updated num="5">Fry the wings until golden brown, about 3 minutes. </steps_updated>
+    <steps_updated num="6">Drain them on paper towels. </steps_updated>
+    <steps_updated num="7">Set aside. </steps_updated>
+    <steps_updated num="8">Make the glaze. </steps_updated>
+    <steps_updated num="9">Combine all the glaze ingredients in a shallow pan and bring it to a simmer. </steps_updated>
+    <steps_updated num="10">Reduce until thick. </steps_updated>
+    <steps_updated num="11">Toss in the wings. </steps_updated>
+    <steps_updated num="12">Sprinkle toasted white sesame. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

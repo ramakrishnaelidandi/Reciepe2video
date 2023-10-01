@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-summer-seafood-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">8 oz ; skin-on salmon, 4 fillets ; (225 g) </ingredient>
+    <ingredient num="1">fine sea salt </ingredient>
+    <ingredient num="2">freshly ground black pepper </ingredient>
+    <ingredient num="3">2 ; lemons, halved crosswise </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99245/hls24_1529441653.m3u8</low>
+    <high>https://vid.tasty.co/output/99245/landscape_720/1529441653</high>
+  </video>
+  <duration>
+    <start_time>117.0</start_time>
+    <end_time>147.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat a grill to medium-high heat. </step>
+    <step num="1">Season the salmon with salt and pepper. </step>
+    <step num="2">Brush the grill grates with oil and place the salmon, skin side down on the oiled grates. </step>
+    <step num="3">Grill until lightly browned, 3-5 minutes, then gently flip and continue to cook until just opaque in center. </step>
+    <step num="4">Add the lemon halves to the grill, cut side down and grill until lightly charred, about 2 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a grill to medium-high heat. </steps_updated>
+    <steps_updated num="1">Season the salmon with salt and pepper. </steps_updated>
+    <steps_updated num="2">Brush the grill grates with oil and place the salmon, skin side down on the oiled grates. </steps_updated>
+    <steps_updated num="3">Grill until lightly browned, 3-5 minutes, then gently flip and continue to cook until just opaque in center. </steps_updated>
+    <steps_updated num="4">Add the lemon halves to the grill, cut side down and grill until lightly charred, about 2 minutes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

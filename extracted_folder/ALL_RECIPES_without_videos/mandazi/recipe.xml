@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mandazi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mandazi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; all-purpose flour, plus more for dusting ; (375 g) </ingredient>
+    <ingredient num="1">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="2">1 ½ teaspoons ; baking powder </ingredient>
+    <ingredient num="3">2 teaspoons ; ground cardamom </ingredient>
+    <ingredient num="4">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="5">1 ; egg, beaten </ingredient>
+    <ingredient num="6">13 ½ oz ; coconut milk, 1 can ; (400 mL) </ingredient>
+    <ingredient num="7">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Casual Party</category>
+    <category num="2">African</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125983/hls24_1551318352.m3u8</low>
+    <high>https://vid.tasty.co/output/125983/landscape_720/1551318352</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, whisk together the flour, sugar, baking powder, cardamom, and salt. Make a well in the center, then use a rubber spatula to mix in the egg and coconut milk until the dough comes together. </step>
+    <step num="1">Turn the dough out onto a floured surface and knead until smooth. Dive the dough into 4 portions. Roll out 1 portion of dough into a circle about ¼-inch (6 ml) thick. Cut into 8 triangles. Repeat with the remaining dough portions. </step>
+    <step num="2">Heat the oil in a large pot until it reaches 350˚F (180˚C). </step>
+    <step num="3">Working in batches, fry the mandazi for 2-3 minutes per side, until golden brown. Drain on paper towels. Serve as breakfast or a snack with 5. Kenyan coffee or chai. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, whisk together the flour, sugar, baking powder, cardamom, and salt. </steps_updated>
+    <steps_updated num="1">Make a well in the center, then use a rubber spatula to mix in the egg and coconut milk until the dough comes together. </steps_updated>
+    <steps_updated num="2">Turn the dough out onto a floured surface and knead until smooth. </steps_updated>
+    <steps_updated num="3">Dive the dough into 4 portions. </steps_updated>
+    <steps_updated num="4">Roll out 1 portion of dough into a circle about ¼-inch (6 ml) thick. </steps_updated>
+    <steps_updated num="5">Cut into 8 triangles. </steps_updated>
+    <steps_updated num="6">Repeat with the remaining dough portions. </steps_updated>
+    <steps_updated num="7">Heat the oil in a large pot until it reaches 350˚F (180˚C). </steps_updated>
+    <steps_updated num="8">Working in batches, fry the mandazi for 2-3 minutes per side, until golden brown. </steps_updated>
+    <steps_updated num="9">Drain on paper towels. </steps_updated>
+    <steps_updated num="10">Serve as breakfast or a snack with 5. </steps_updated>
+    <steps_updated num="11">Kenyan coffee or chai. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

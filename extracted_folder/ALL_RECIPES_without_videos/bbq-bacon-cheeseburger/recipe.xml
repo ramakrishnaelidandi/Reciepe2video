@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Bacon Cheeseburger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-bacon-cheeseburger</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-stuffed-burger-upgrades</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ lb ; ground beef ; (340 g) </ingredient>
+    <ingredient num="1">½ tablespoon ; garlic powder </ingredient>
+    <ingredient num="2">½ tablespoon ; dried parsley </ingredient>
+    <ingredient num="3">½ tablespoon ; salt </ingredient>
+    <ingredient num="4">½ tablespoon ; pepper </ingredient>
+    <ingredient num="5">½ tablespoon ; paprika </ingredient>
+    <ingredient num="6">1 tablespoon ; barbecue sauce </ingredient>
+    <ingredient num="7">6 strips ; center cut bacon </ingredient>
+    <ingredient num="8">3 tablespoons ; shredded cheddar cheese </ingredient>
+    <ingredient num="9">1 ; sesame oil, butter toasted </ingredient>
+    <ingredient num="10">1 ; green leaf lettuce </ingredient>
+    <ingredient num="11">1 slice ; tomato </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Game Day</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107006/hls24_1535480746.m3u8</low>
+    <high>https://vid.tasty.co/output/107006/landscape_720/1535480746</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>46.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, combine the ground beef, garlic powder, parsley, salt, pepper, and paprika. </step>
+    <step num="1">Brush the ramekin with barbecue sauce. Lay down the bacon strips, rotating clockwise, spacing evenly on the edges. </step>
+    <step num="2">Place half of the beef patty on top of the bacon. </step>
+    <step num="3">Press the beef patty evenly into the ramekin, leaving a small divot in the middle. </step>
+    <step num="4">Place the cheddar cheese in the divot. </step>
+    <step num="5">Preheat the oven to 425°F (220°C). </step>
+    <step num="6">Place the second half of beef patty on top of the cheese and pat to flatten. Lay the ends of the bacon strips over the patty. Brush the remaining barbecue sauce on top. </step>
+    <step num="7">Place the ramekin on a baking sheet along with the sesame bun, face down. </step>
+    <step num="8">Bake for 25 minutes, or until the bacon is crisp to your liking. </step>
+    <step num="9">Assemble the burger with the toasted sesame bun, lettuce and tomato. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the ground beef, garlic powder, parsley, salt, pepper, and paprika. </steps_updated>
+    <steps_updated num="1">Brush the ramekin with barbecue sauce. </steps_updated>
+    <steps_updated num="2">Lay down the bacon strips, rotating clockwise, spacing evenly on the edges. </steps_updated>
+    <steps_updated num="3">Place half of the beef patty on top of the bacon. </steps_updated>
+    <steps_updated num="4">Press the beef patty evenly into the ramekin, leaving a small divot in the middle. </steps_updated>
+    <steps_updated num="5">Place the cheddar cheese in the divot. </steps_updated>
+    <steps_updated num="6">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="7">Place the second half of beef patty on top of the cheese and pat to flatten. </steps_updated>
+    <steps_updated num="8">Lay the ends of the bacon strips over the patty. </steps_updated>
+    <steps_updated num="9">Brush the remaining barbecue sauce on top. </steps_updated>
+    <steps_updated num="10">Place the ramekin on a baking sheet along with the sesame bun, face down. </steps_updated>
+    <steps_updated num="11">Bake for 25 minutes, or until the bacon is crisp to your liking. </steps_updated>
+    <steps_updated num="12">Assemble the burger with the toasted sesame bun, lettuce and tomato. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

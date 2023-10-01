@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggs In A Cloud Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggs-in-a-cloud</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; eggs, yolks separated </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">⅓ cup ; shredded parmesan cheese ; (35 g) </ingredient>
+    <ingredient num="4">⅓ cup ; crumbled bacon ; (75 g) </ingredient>
+    <ingredient num="5">¼ cup ; chives, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28936/low_1491943322.m3u8</low>
+    <high>https://vid.tasty.co/output/28936/mp4_720x1280/1491943322</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450°F/230°C. </step>
+    <step num="1">Separate the eggs: egg whites in one bowl and egg yolks each into their own bowls. </step>
+    <step num="2">Using an electric mixer or whisk, mix the egg whites until thick and fluffy. </step>
+    <step num="3">Salt and pepper to taste. Fold in bacon, parmesan cheese, and chives. Do not overfold. </step>
+    <step num="4">Scoop onto baking tray and make an indent in the middle using the back of a spoon. </step>
+    <step num="5">Bake for 5-8 minutes or until egg whites start to brown. </step>
+    <step num="6">Place the egg yolks into center of the egg whites. Bake for 3 more minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450°F/230°C. </steps_updated>
+    <steps_updated num="1">Separate the eggs: egg whites in one bowl and egg yolks each into their own bowls. </steps_updated>
+    <steps_updated num="2">Using an electric mixer or whisk, mix the egg whites until thick and fluffy. </steps_updated>
+    <steps_updated num="3">Salt and pepper to taste. </steps_updated>
+    <steps_updated num="4">Fold in bacon, parmesan cheese, and chives. </steps_updated>
+    <steps_updated num="5">Do not overfold. </steps_updated>
+    <steps_updated num="6">Scoop onto baking tray and make an indent in the middle using the back of a spoon. </steps_updated>
+    <steps_updated num="7">Bake for 5-8 minutes or until egg whites start to brown. </steps_updated>
+    <steps_updated num="8">Place the egg yolks into center of the egg whites. </steps_updated>
+    <steps_updated num="9">Bake for 3 more minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

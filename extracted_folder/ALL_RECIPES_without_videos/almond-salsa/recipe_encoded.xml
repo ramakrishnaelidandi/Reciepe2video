@@ -1,0 +1,59 @@
+<recipe>
+  <title>Almond Salsa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/almond-salsa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-guerrilla-tacos-with-almond-salsa</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 8083 1466 7845 </ingredient>
+    <ingredient num="1">3917 14014 13278 5766 </ingredient>
+    <ingredient num="2">3917 643 13278 24 13650 13270 856 3716 9801 4709 3305 13278 1258 5981 </ingredient>
+    <ingredient num="3">3917 13278 1569 10986 7972 3449 </ingredient>
+    <ingredient num="4">8580 9486 13278 5607 9656 </ingredient>
+    <ingredient num="5">13086 9486 13278 976 638 </ingredient>
+    <ingredient num="6">3917 715 13278 2192 13999 4980 13817 4125 13278 4563 5981 </ingredient>
+    <ingredient num="7">8580 13278 4408 7042 14432 </ingredient>
+    <ingredient num="8">3917 2605 13278 12282 13278 5567 5981 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">8580 9486 13278 8083 13538 10769 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14751/low_1479233437.m3u8</low>
+    <high>https://vid.tasty.co/output/14751/mp4_720x1280/1479233437</high>
+  </video>
+  <duration>
+    <start_time>67.0</start_time>
+    <end_time>100.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3122 11951 1466 7845 11770 5994 13770 5895 1896 5994 13148 1681 3557 9490 10081 4255 8554 6701 5791 210 5994 8438 12854 13817 817 10261 1681 10694 9815 560 2554 415 7368 13817 5315 11951 12375 2257 5292 </step>
+    <step num="1">8889 11951 5766 210 5994 2597 10060 11770 8283 2082 9179 11951 24 13650 10099 13817 1569 13817 4870 1681 94 6285 13086 118 7542 11951 12459 371 7409 740 11951 5607 9656 13817 9169 13817 4870 1681 11564 </step>
+    <step num="2">9179 11951 13999 7042 12282 13817 14060 8071 12610 13817 2550 11770 8283 7855 1681 11951 3913 12573 1910 6285 13767 12689 </step>
+    <step num="3">12785 2373 560 5994 12027 14473 1391 11951 1466 7845 13817 741 1681 12119 9179 11951 8083 13538 10769 13817 3567 1869 12450 5218 5376 11484 7711 9815 560 7686 6798 11951 13352 371 5994 1818 4123 3336 5218 217 8410 8090 11577 210 11951 7111 7990 5994 2812 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3122 11951 1466 7845 11770 5994 13770 5895 1896 5994 13148 1681 3557 9490 10081 4255 8554 6701 </steps_updated>
+    <steps_updated num="1">5791 210 5994 8438 12854 13817 817 10261 1681 10694 9815 560 2554 415 7368 13817 5315 11951 12375 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">8889 11951 5766 210 5994 2597 10060 11770 8283 2082 </steps_updated>
+    <steps_updated num="4">9179 11951 24 13650 10099 13817 1569 13817 4870 1681 94 6285 13086 118 7542 11951 12459 371 7409 740 11951 5607 9656 13817 9169 13817 4870 1681 11564 </steps_updated>
+    <steps_updated num="5">9179 11951 13999 7042 12282 13817 14060 8071 12610 13817 2550 11770 8283 7855 1681 11951 3913 12573 1910 6285 13767 12689 </steps_updated>
+    <steps_updated num="6">12785 2373 560 5994 12027 14473 1391 11951 1466 7845 13817 741 1681 12119 </steps_updated>
+    <steps_updated num="7">9179 11951 8083 13538 10769 13817 3567 1869 </steps_updated>
+    <steps_updated num="8">12450 5218 5376 11484 7711 9815 560 7686 6798 11951 13352 371 5994 1818 </steps_updated>
+    <steps_updated num="9">4123 3336 5218 217 8410 8090 11577 210 11951 7111 7990 5994 2812 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

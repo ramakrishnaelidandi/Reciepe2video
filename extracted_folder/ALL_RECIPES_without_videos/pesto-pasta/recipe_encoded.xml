@@ -1,0 +1,35 @@
+<recipe>
+  <title>Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-school-lunch-prep-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 715 13278 12128 1454 5444 3745 13278 9473 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 2334 </ingredient>
+    <ingredient num="2">1580 2605 13278 6209 10865 13810 3962 13278 13125 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 8602 9491 10844 13278 11953 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23479/low_1486600260.m3u8</low>
+    <high>https://vid.tasty.co/output/23479/mp4_720x1280/1486600260</high>
+  </video>
+  <duration>
+    <start_time>67.0</start_time>
+    <end_time>84.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">9393 8554 11907 210 5994 7616 </step>
+    <step num="1">12774 1391 5994 4457 6216 13817 976 1466 12375 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9393 8554 11907 210 5994 7616 </steps_updated>
+    <steps_updated num="1">12774 1391 5994 4457 6216 13817 976 1466 12375 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+</recipe>

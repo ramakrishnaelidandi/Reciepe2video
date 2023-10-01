@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Bombs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-bombs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 slices ; bacon, roughly chopped </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">9 ; large eggs, divided </ingredient>
+    <ingredient num="3">¼ cup ; scallions, chopped ; (25 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">6 ; yellow potatoes, peeled, grated, excess moisture squeezed out </ingredient>
+    <ingredient num="7">¾ cup ; all-purpose flour ; (95 g) </ingredient>
+    <ingredient num="8">1 cup ; shredded cheddar cheese, divided ; (100 g) </ingredient>
+    <ingredient num="9">1 ; egg, beaten </ingredient>
+    <ingredient num="10">fresh parsley, chopped, for garnish </ingredient>
+    <ingredient num="11">ketchup, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102550/hls24_1532040621.m3u8</low>
+    <high>https://vid.tasty.co/output/102550/landscape_720/1532040621</high>
+  </video>
+  <steps>
+    <step num="0">In a large skillet over medium-high heat, cook the bacon until crispy, 4-6 minutes. Remove the bacon from the pan and drain on a paper towel-lined plate. </step>
+    <step num="1">In the same pan, add the garlic. Cook over low heat for about 30 seconds, or until it starts to brown. In a medium bowl, beat 8 eggs and add to the pan, along with the scallions, salt, and pepper. Scramble the eggs until mostly set but still a little wet, about 3 minutes. Remove the pan from the heat. </step>
+    <step num="2">Peel the potatoes and grate on the large holes of a box grater onto a clean kitchen towel set over a bowl. Wring out any excess liquid. </step>
+    <step num="3">Transfer the shredded potatoes to a clean, large bowl and add the remaining egg, the flour, and ½ cup (50 g) cheddar cheese, and season with salt and pepper. Mix to combine. </step>
+    <step num="4">Line a 4-inch (10 cm) diameter bowl with plastic wrap. </step>
+    <step num="5">Place ½ cup (75 g) of the grated potato mixture in the bowl. Use the back of a spoon to smooth the potatoes against the sides of the bowl in an even layer, creating a divot in the center. </step>
+    <step num="6">Fill the well with a bit of cheddar cheese, a spoonful of scrambled eggs, a bit of bacon, and top with another sprinkle of cheese. </step>
+    <step num="7">Pick up the sides of the plastic wrap, twisting to create a sealed ball. Repeat with the remaining ingredients. </step>
+    <step num="8">Chill the potato balls for 20 minutes. </step>
+    <step num="9">Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper or foil and grease with nonstick cooking spray. </step>
+    <step num="10">Unwrap the balls, place them on the prepared baking sheet, and brush with egg wash. Bake for 35-45 minutes, or until the potatoes are crispy and brown. </step>
+    <step num="11">Sprinkle with parsley and serve with ketchup on the side. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large skillet over medium-high heat, cook the bacon until crispy, 4-6 minutes. </steps_updated>
+    <steps_updated num="1">Remove the bacon from the pan and drain on a paper towel-lined plate. </steps_updated>
+    <steps_updated num="2">In the same pan, add the garlic. </steps_updated>
+    <steps_updated num="3">Cook over low heat for about 30 seconds, or until it starts to brown. </steps_updated>
+    <steps_updated num="4">In a medium bowl, beat 8 eggs and add to the pan, along with the scallions, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Scramble the eggs until mostly set but still a little wet, about 3 minutes. </steps_updated>
+    <steps_updated num="6">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="7">Peel the potatoes and grate on the large holes of a box grater onto a clean kitchen towel set over a bowl. </steps_updated>
+    <steps_updated num="8">Wring out any excess liquid. </steps_updated>
+    <steps_updated num="9">Transfer the shredded potatoes to a clean, large bowl and add the remaining egg, the flour, and ½ cup (50 g) cheddar cheese, and season with salt and pepper. </steps_updated>
+    <steps_updated num="10">Mix to combine. </steps_updated>
+    <steps_updated num="11">Line a 4-inch (10 cm) diameter bowl with plastic wrap. </steps_updated>
+    <steps_updated num="12">Place ½ cup (75 g) of the grated potato mixture in the bowl. </steps_updated>
+    <steps_updated num="13">Use the back of a spoon to smooth the potatoes against the sides of the bowl in an even layer, creating a divot in the center. </steps_updated>
+    <steps_updated num="14">Fill the well with a bit of cheddar cheese, a spoonful of scrambled eggs, a bit of bacon, and top with another sprinkle of cheese. </steps_updated>
+    <steps_updated num="15">Pick up the sides of the plastic wrap, twisting to create a sealed ball. </steps_updated>
+    <steps_updated num="16">Repeat with the remaining ingredients. </steps_updated>
+    <steps_updated num="17">Chill the potato balls for 20 minutes. </steps_updated>
+    <steps_updated num="18">Preheat the oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="19">Line a baking sheet with parchment paper or foil and grease with nonstick cooking spray. </steps_updated>
+    <steps_updated num="20">Unwrap the balls, place them on the prepared baking sheet, and brush with egg wash. </steps_updated>
+    <steps_updated num="21">Bake for 35-45 minutes, or until the potatoes are crispy and brown. </steps_updated>
+    <steps_updated num="22">Sprinkle with parsley and serve with ketchup on the side. </steps_updated>
+    <steps_updated num="23">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

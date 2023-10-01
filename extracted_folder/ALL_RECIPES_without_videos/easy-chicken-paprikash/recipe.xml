@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Chicken Paprikash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-chicken-paprikash</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">1 tablespoon ; garlic </ingredient>
+    <ingredient num="2">2 ; chicken thighs, cut into bite-sized pieces </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">1 cup ; onion, chopped ; (150 g) </ingredient>
+    <ingredient num="6">½ cup ; bell pepper, chopped ; (50 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; sweet paprika </ingredient>
+    <ingredient num="8">¼ teaspoon ; chili flakes </ingredient>
+    <ingredient num="9">½ cup ; chicken broth ; (120 mL) </ingredient>
+    <ingredient num="10">15 oz ; crushed tomato, 1 can ; (425 g) </ingredient>
+    <ingredient num="11">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="12">1 tablespoon ; flour </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">German</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32044/low_1495124991.m3u8</low>
+    <high>https://vid.tasty.co/output/32044/mp4_720x1280/1495124991</high>
+  </video>
+  <steps>
+    <step num="0">Heat oil over medium, add garlic, chicken, salt and pepper. Stir and cook until the chicken has some color. </step>
+    <step num="1">Add the onion and bell pepper, cook until onions have slightly softened. </step>
+    <step num="2">Add the sweet paprika, chili flakes, chicken broth and crushed tomatoes. Simmer covered for 40 minutes. </step>
+    <step num="3">Take a ladle of the sauce and add to sour cream in a separate bowl. Mix until well combined. Add flour to the mix and stir. </step>
+    <step num="4">Once it is well combined, add the mix to the pot. Stir in the mix, cover and simmer for an additional 5 minutes or until it has thickened. </step>
+    <step num="5">Serve with pasta, rice or potatoes. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil over medium, add garlic, chicken, salt and pepper. </steps_updated>
+    <steps_updated num="1">Stir and cook until the chicken has some color. </steps_updated>
+    <steps_updated num="2">Add the onion and bell pepper, cook until onions have slightly softened. </steps_updated>
+    <steps_updated num="3">Add the sweet paprika, chili flakes, chicken broth and crushed tomatoes. </steps_updated>
+    <steps_updated num="4">Simmer covered for 40 minutes. </steps_updated>
+    <steps_updated num="5">Take a ladle of the sauce and add to sour cream in a separate bowl. </steps_updated>
+    <steps_updated num="6">Mix until well combined. </steps_updated>
+    <steps_updated num="7">Add flour to the mix and stir. </steps_updated>
+    <steps_updated num="8">Once it is well combined, add the mix to the pot. </steps_updated>
+    <steps_updated num="9">Stir in the mix, cover and simmer for an additional 5 minutes or until it has thickened. </steps_updated>
+    <steps_updated num="10">Serve with pasta, rice or potatoes. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

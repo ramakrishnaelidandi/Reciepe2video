@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zucchini Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; zucchinis </ingredient>
+    <ingredient num="1">1 tablespoon ; salt </ingredient>
+    <ingredient num="2">1 ; large egg </ingredient>
+    <ingredient num="3">1 cup ; ricotta cheese ; (250 g) </ingredient>
+    <ingredient num="4">1 cup ; bread crumbs ; (115 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; italian seasoning </ingredient>
+    <ingredient num="6">3 tablespoons ; fresh basil, chopped </ingredient>
+    <ingredient num="7">3 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="8">1 teaspoon ; pepper </ingredient>
+    <ingredient num="9">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="10">1 ; medium onion, diced </ingredient>
+    <ingredient num="11">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="12">cooked pasta </ingredient>
+    <ingredient num="13">marinara sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30931/low_1493928932.m3u8</low>
+    <high>https://vid.tasty.co/output/30931/mp4_720x1280/1493928932</high>
+  </video>
+  <steps>
+    <step num="0">Remove each end of the zucchinis and use a cheese grater to shred into a large mixing bowl. </step>
+    <step num="1">Sprinkle salt over shredded zucchini, toss, and let rest for 20 minutes to pull out excess moisture. </step>
+    <step num="2">Preheat oven to 375˚F (190˚C). </step>
+    <step num="3">Using a dish towel/cloth squeeze out excess liquid from the shredded zucchini. </step>
+    <step num="4">Move the zucchini to a dry mixing bowl and add the remaining ingredients. </step>
+    <step num="5">Stir until evenly mixed and form into golf ball-sized balls. </step>
+    <step num="6">Bake in a preheated oven for 30-40 minutes or until browned, flipping halfway through. </step>
+    <step num="7">Serve over pasta with your choice of sauce. </step>
+    <step num="8">Enoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove each end of the zucchinis and use a cheese grater to shred into a large mixing bowl. </steps_updated>
+    <steps_updated num="1">Sprinkle salt over shredded zucchini, toss, and let rest for 20 minutes to pull out excess moisture. </steps_updated>
+    <steps_updated num="2">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="3">Using a dish towel/cloth squeeze out excess liquid from the shredded zucchini. </steps_updated>
+    <steps_updated num="4">Move the zucchini to a dry mixing bowl and add the remaining ingredients. </steps_updated>
+    <steps_updated num="5">Stir until evenly mixed and form into golf ball-sized balls. </steps_updated>
+    <steps_updated num="6">Bake in a preheated oven for 30-40 minutes or until browned, flipping halfway through. </steps_updated>
+    <steps_updated num="7">Serve over pasta with your choice of sauce. </steps_updated>
+    <steps_updated num="8">Enoy! </steps_updated>
+  </steps_updated>
+</recipe>

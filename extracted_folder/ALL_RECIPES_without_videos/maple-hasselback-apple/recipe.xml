@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Maple Baked Hasselback Apple Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/maple-hasselback-apple</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; large apple </ingredient>
+    <ingredient num="1">1 tablespoon ; maple syrup </ingredient>
+    <ingredient num="2">½ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="3">½ teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="4">frozen yogurt </ingredient>
+    <ingredient num="5">almonds, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Snacks</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13414/low_1477940704.m3u8</low>
+    <high>https://vid.tasty.co/output/13414/mp4_720x1280/1477940704</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Peel the apple and cut in half. Using a melon baller, carve out the core of the apple halves. </step>
+    <step num="2">Using a sharp knife, make vertical incisions into the apple, about a quarter of an inch apart, without cutting all the way through the apple halves. (You can use a set of chopsticks as safety bumpers to make sure that your knife can’t cut all the way through.) </step>
+    <step num="3">In a small bowl, mix together the maple syrup, nutmeg, and cinnamon. Use a pastry brush to coat the apple halves with the maple spice mixture. </step>
+    <step num="4">Bake for 30 minutes until the apples are tender and lightly browned. </step>
+    <step num="5">Top each apple half with a small scoop of frozen yogurt and a sprinkle of chopped almonds and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Peel the apple and cut in half. </steps_updated>
+    <steps_updated num="2">Using a melon baller, carve out the core of the apple halves. </steps_updated>
+    <steps_updated num="3">Using a sharp knife, make vertical incisions into the apple, about a quarter of an inch apart, without cutting all the way through the apple halves. </steps_updated>
+    <steps_updated num="4">(You can use a set of chopsticks as safety bumpers to make sure that your knife can’t cut all the way through.) </steps_updated>
+    <steps_updated num="5">In a small bowl, mix together the maple syrup, nutmeg, and cinnamon. </steps_updated>
+    <steps_updated num="6">Use a pastry brush to coat the apple halves with the maple spice mixture. </steps_updated>
+    <steps_updated num="7">Bake for 30 minutes until the apples are tender and lightly browned. </steps_updated>
+    <steps_updated num="8">Top each apple half with a small scoop of frozen yogurt and a sprinkle of chopped almonds and serve. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

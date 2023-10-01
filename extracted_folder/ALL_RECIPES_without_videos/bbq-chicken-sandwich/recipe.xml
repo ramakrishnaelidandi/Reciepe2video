@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-bbq-recipes-for-a-great-bbq</comp_url>
+  <ingredients>
+    <ingredient num="0">vegetable oil </ingredient>
+    <ingredient num="1">1 ½ lb ; large, boneless, skinless chicken breast, about 3 ; (680 g) </ingredient>
+    <ingredient num="2">2 teaspoons ; fine sea salt </ingredient>
+    <ingredient num="3">2 teaspoons ; freshly ground black pepper </ingredient>
+    <ingredient num="4">1 ½ cups ; barbecue sauce ; (435 g) </ingredient>
+    <ingredient num="5">6 ; pretzel buns </ingredient>
+    <ingredient num="6">2 cups ; coleslaw ; (250 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99711/hls24_1529684842.m3u8</low>
+    <high>https://vid.tasty.co/output/99711/landscape_720/1529684842</high>
+  </video>
+  <duration>
+    <start_time>43.0</start_time>
+    <end_time>88.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat a grill over medium-high heat and clean and lightly oil the hot grates. </step>
+    <step num="1">Season the chicken breasts with salt and pepper and place on the grill. Grill the breast for 5 minutes, then flip, brush with some of the barbecue sauce, and continue to grill until cooked through, 5-7 minutes more. </step>
+    <step num="2">Transfer the chicken to a plate and set aside to cool slightly. </step>
+    <step num="3">Use 2 forks to shred the chicken, add to a bowl, and toss with the remaining barbecue sauce. </step>
+    <step num="4">Serve on pretzel buns with coleslaw. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a grill over medium-high heat and clean and lightly oil the hot grates. </steps_updated>
+    <steps_updated num="1">Season the chicken breasts with salt and pepper and place on the grill. </steps_updated>
+    <steps_updated num="2">Grill the breast for 5 minutes, then flip, brush with some of the barbecue sauce, and continue to grill until cooked through, 5-7 minutes more. </steps_updated>
+    <steps_updated num="3">Transfer the chicken to a plate and set aside to cool slightly. </steps_updated>
+    <steps_updated num="4">Use 2 forks to shred the chicken, add to a bowl, and toss with the remaining barbecue sauce. </steps_updated>
+    <steps_updated num="5">Serve on pretzel buns with coleslaw. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

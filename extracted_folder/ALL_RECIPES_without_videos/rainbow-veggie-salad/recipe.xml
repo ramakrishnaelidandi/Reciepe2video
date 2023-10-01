@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rainbow Veggie Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-veggie-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-chicken-parmesan-dinner-for-2</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; large head romain lettuce, chopped </ingredient>
+    <ingredient num="1">1 cup ; cherry tomatoes, halved </ingredient>
+    <ingredient num="2">1 cup ; carrot, shredded </ingredient>
+    <ingredient num="3">1 ; yellow bell pepper, diced </ingredient>
+    <ingredient num="4">1 ; cucumber, sliced &amp; halved </ingredient>
+    <ingredient num="5">½ ; red onion, diced </ingredient>
+    <ingredient num="6">3 tablespoons ; red wine vinegar </ingredient>
+    <ingredient num="7">3 tablespoons ; honey </ingredient>
+    <ingredient num="8">3 tablespoons ; dijon mustard </ingredient>
+    <ingredient num="9">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="10">1 ; garlic cloves, minced </ingredient>
+    <ingredient num="11">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="12">salt, to taste </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Sides</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23652/low_1486751842.m3u8</low>
+    <high>https://vid.tasty.co/output/23652/mp4_720x1280/1486751842</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>34.19</end_time>
+  </duration>
+  <steps>
+    <step num="0">On a cutting board, chop head of lettuce. </step>
+    <step num="1">In a large bowl, combine the romaine lettuce, cherry tomatoes, shredded carrots, yellow bell pepper, cucumber, and diced red onion. </step>
+    <step num="2">To make the dressing, combine the red wine vinegar, honey, dijon mustard, dried oregano, garlic, salt, and pepper in a medium bowl, and whisk together until the dressing is thick. </step>
+    <step num="3">Pour the dressing over the salad just before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, chop head of lettuce. </steps_updated>
+    <steps_updated num="1">In a large bowl, combine the romaine lettuce, cherry tomatoes, shredded carrots, yellow bell pepper, cucumber, and diced red onion. </steps_updated>
+    <steps_updated num="2">To make the dressing, combine the red wine vinegar, honey, dijon mustard, dried oregano, garlic, salt, and pepper in a medium bowl, and whisk together until the dressing is thick. </steps_updated>
+    <steps_updated num="3">Pour the dressing over the salad just before serving. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

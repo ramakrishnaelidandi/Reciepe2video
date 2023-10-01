@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Greek Yogurt Green Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/greek-yogurt-green-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-3</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; baby spinach ; (40 g) </ingredient>
+    <ingredient num="1">1 ; banana, sliced </ingredient>
+    <ingredient num="2">¼ cup ; greek yogurt ; (60 g) </ingredient>
+    <ingredient num="3">½ cup ; ice ; (70 g) </ingredient>
+    <ingredient num="4">½ cup ; water ; (120 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94177/hls24_1526421103.m3u8</low>
+    <high>https://vid.tasty.co/output/94177/landscape_720/1526421103</high>
+  </video>
+  <duration>
+    <start_time>3.6660000000000004</start_time>
+    <end_time>28.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the spinach, banana, Greek yogurt, ice, and water to a blender, and blend until smooth. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the spinach, banana, Greek yogurt, ice, and water to a blender, and blend until smooth. </steps_updated>
+    <steps_updated num="1">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

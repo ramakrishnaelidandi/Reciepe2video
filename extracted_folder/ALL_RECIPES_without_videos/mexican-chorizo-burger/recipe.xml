@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mexican Chorizo Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mexican-chorizo-burger</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-burgers-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef, 80% lean ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="3">⅓ lb ; ground chorizo ; (150 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; oil </ingredient>
+    <ingredient num="5">3 ; hamburger buns </ingredient>
+    <ingredient num="6">3 oz ; manchego cheese, sliced ; (85 g) </ingredient>
+    <ingredient num="7">½ cup ; guacamole ; (130 g) </ingredient>
+    <ingredient num="8">⅓ cup ; pico de gallo ; (70 g) </ingredient>
+    <ingredient num="9">⅓ cup ; cotija cheese ; (35 g) </ingredient>
+    <ingredient num="10">¼ cup ; sour cream ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10187/low_1473975104.m3u8</low>
+    <high>https://vid.tasty.co/output/10187/mp4_720x1280/1473975104</high>
+  </video>
+  <duration>
+    <start_time>85.05</start_time>
+    <end_time>116.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix together the patty ingredients until combined. </step>
+    <step num="1">Form the beef mixture into 3 round patties. </step>
+    <step num="2">Heat oil in a pan over medium heat. </step>
+    <step num="3">Cook the burgers for 3 minutes on the first side, flip, and place a slice of manchego cheese on top. </step>
+    <step num="4">Cook for 6 more minutes until the cheese is melted. </step>
+    <step num="5">Assemble the burgers on the buns with guacamole, cotija, pico de gallo, and sour cream. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together the patty ingredients until combined. </steps_updated>
+    <steps_updated num="1">Form the beef mixture into 3 round patties. </steps_updated>
+    <steps_updated num="2">Heat oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="3">Cook the burgers for 3 minutes on the first side, flip, and place a slice of manchego cheese on top. </steps_updated>
+    <steps_updated num="4">Cook for 6 more minutes until the cheese is melted. </steps_updated>
+    <steps_updated num="5">Assemble the burgers on the buns with guacamole, cotija, pico de gallo, and sour cream. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02605</start_time>
+    <end_time>03503</end_time>
+  </duration_human>
+</recipe>

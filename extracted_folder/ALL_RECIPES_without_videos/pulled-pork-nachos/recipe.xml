@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pulled Pork Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pulled-pork-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; pork shoulder ; (905 g) </ingredient>
+    <ingredient num="1">¼ cup ; brown sugar ; (55 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="3">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="7">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="8">1 ; medium red onion, quartered </ingredient>
+    <ingredient num="9">¼ cup ; ketchup ; (60 g) </ingredient>
+    <ingredient num="10">¼ cup ; mustard ; (60 g) </ingredient>
+    <ingredient num="11">tortilla chips </ingredient>
+    <ingredient num="12">red onion </ingredient>
+    <ingredient num="13">BBQ sauce </ingredient>
+    <ingredient num="14">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="15">1 cup ; shredded monterey jack cheese ; (100 g) </ingredient>
+    <ingredient num="16">diced tomato </ingredient>
+    <ingredient num="17">sour cream </ingredient>
+    <ingredient num="18">salsa </ingredient>
+    <ingredient num="19">fresh cilantro </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22455/low_1485799744.m3u8</low>
+    <high>https://vid.tasty.co/output/22455/mp4_720x1280/1485799744</high>
+  </video>
+  <steps>
+    <step num="0">Place pork, onion, and seasonings into a 6-quart slow cooker. Mix to coat meat in seasonings. </step>
+    <step num="1">Add ketchup and mustard, spreading evenly over the outside of the meat. </step>
+    <step num="2">Set slow cooker to High and cook for 4 hours, until the meat pulls apart easily. Alternatively, the meat can be cooked on the Low setting for 8 hours. </step>
+    <step num="3">Remove meat from slow cooker and transfer it to a bowl or cutting board. Using two forks, shred the meat into bite-sized pieces. </step>
+    <step num="4">Preheat oven to 400˚F (200˚C). </step>
+    <step num="5">Using a cast-iron pan or other oven-safe dish, assemble the nachos layer by layer. Chips, then pork, onion, BBQ sauce, and cheese. Repeat as desired for additional layers. </step>
+    <step num="6">Bake for 8-10 minutes until cheese is melted and bubbling. </step>
+    <step num="7">Top with sour cream, salsa, and cilantro. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place pork, onion, and seasonings into a 6-quart slow cooker. </steps_updated>
+    <steps_updated num="1">Mix to coat meat in seasonings. </steps_updated>
+    <steps_updated num="2">Add ketchup and mustard, spreading evenly over the outside of the meat. </steps_updated>
+    <steps_updated num="3">Set slow cooker to High and cook for 4 hours, until the meat pulls apart easily. </steps_updated>
+    <steps_updated num="4">Alternatively, the meat can be cooked on the Low setting for 8 hours. </steps_updated>
+    <steps_updated num="5">Remove meat from slow cooker and transfer it to a bowl or cutting board. </steps_updated>
+    <steps_updated num="6">Using two forks, shred the meat into bite-sized pieces. </steps_updated>
+    <steps_updated num="7">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="8">Using a cast-iron pan or other oven-safe dish, assemble the nachos layer by layer. </steps_updated>
+    <steps_updated num="9">Chips, then pork, onion, BBQ sauce, and cheese. </steps_updated>
+    <steps_updated num="10">Repeat as desired for additional layers. </steps_updated>
+    <steps_updated num="11">Bake for 8-10 minutes until cheese is melted and bubbling. </steps_updated>
+    <steps_updated num="12">Top with sour cream, salsa, and cilantro. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

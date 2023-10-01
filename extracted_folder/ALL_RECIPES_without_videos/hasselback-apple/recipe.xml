@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hasselback Apple Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hasselback-apple</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; apple, peeled and cored </ingredient>
+    <ingredient num="1">1 tablespoon ; butter, melted </ingredient>
+    <ingredient num="2">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="3">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">½ tablespoon ; butter, frozen </ingredient>
+    <ingredient num="5">3 tablespoons ; flour </ingredient>
+    <ingredient num="6">1 tablespoon ; sugar </ingredient>
+    <ingredient num="7">ice cream, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31993/low_1495124966.m3u8</low>
+    <high>https://vid.tasty.co/output/31993/mp4_720x1280/1495124966</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C) </step>
+    <step num="1">Peel, halve, and core an apple of your choice. Honeycrisp and Granny Smith are both great options for baking. </step>
+    <step num="2">Make vertical slices in each apple 1 cm (⅓ inch) thick, stopping 2 cms (¾ inch) from the bottom of each apple half. </step>
+    <step num="3">Baste with a mixture of 1 Tbsp melted butter, 1 Tbsp brown sugar, and ½ tsp cinnamon. </step>
+    <step num="4">Bake at 400°F (205°C) for 20 minutes. </step>
+    <step num="5">Optional crumble topping. Cut frozen butter into small nibs. Toss in a combination of 3 Tbsp AP flour and 1 Tbsp white sugar until flour and sugar clump up around butter. </step>
+    <step num="6">Spoon the crumble topping on top of the apples. </step>
+    <step num="7">Bake an additional 15 minutes at 425°F (220°C). </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C) </steps_updated>
+    <steps_updated num="1">Peel, halve, and core an apple of your choice. </steps_updated>
+    <steps_updated num="2">Honeycrisp and Granny Smith are both great options for baking. </steps_updated>
+    <steps_updated num="3">Make vertical slices in each apple 1 cm (⅓ inch) thick, stopping 2 cms (¾ inch) from the bottom of each apple half. </steps_updated>
+    <steps_updated num="4">Baste with a mixture of 1 Tbsp melted butter, 1 Tbsp brown sugar, and ½ tsp cinnamon. </steps_updated>
+    <steps_updated num="5">Bake at 400°F (205°C) for 20 minutes. </steps_updated>
+    <steps_updated num="6">Optional crumble topping. </steps_updated>
+    <steps_updated num="7">Cut frozen butter into small nibs. </steps_updated>
+    <steps_updated num="8">Toss in a combination of 3 Tbsp AP flour and 1 Tbsp white sugar until flour and sugar clump up around butter. </steps_updated>
+    <steps_updated num="9">Spoon the crumble topping on top of the apples. </steps_updated>
+    <steps_updated num="10">Bake an additional 15 minutes at 425°F (220°C). </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Brownie Fudge Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/brownie-fudge-pudding</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; brown sugar ; (100 g) </ingredient>
+    <ingredient num="1">½ cup ; butter, melted ; (100 g) </ingredient>
+    <ingredient num="2">1 ; egg yolk </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">¾ cup ; plain flour ; (100 g) </ingredient>
+    <ingredient num="5">¼ cup ; cocoa powder ; (50 g) </ingredient>
+    <ingredient num="6">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="7">½ teaspoon ; salt </ingredient>
+    <ingredient num="8">¼ cup ; dark chocolate chip ; (50 g) </ingredient>
+    <ingredient num="9">¼ cup ; white chocolate chip ; (50 g) </ingredient>
+    <ingredient num="10">whipped cream, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15835/low_1479930711.m3u8</low>
+    <high>https://vid.tasty.co/output/15835/mp4_720x1280/1479930711</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180°C). </step>
+    <step num="1">Whisk the brown sugar and butter in a bowl. </step>
+    <step num="2">Whisk in the egg and vanilla. </step>
+    <step num="3">Fold in the flour, cocoa powder, baking soda, and salt. </step>
+    <step num="4">Stir in the chocolate chips. </step>
+    <step num="5">Divide the batter between 4 ramekins, or any other oven-proof pots you may have lying around in the kitchen. </step>
+    <step num="6">Bake for 15 minutes, or until cooked but still fudgey inside. </step>
+    <step num="7">Serve with whipped cream. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180°C). </steps_updated>
+    <steps_updated num="1">Whisk the brown sugar and butter in a bowl. </steps_updated>
+    <steps_updated num="2">Whisk in the egg and vanilla. </steps_updated>
+    <steps_updated num="3">Fold in the flour, cocoa powder, baking soda, and salt. </steps_updated>
+    <steps_updated num="4">Stir in the chocolate chips. </steps_updated>
+    <steps_updated num="5">Divide the batter between 4 ramekins, or any other oven-proof pots you may have lying around in the kitchen. </steps_updated>
+    <steps_updated num="6">Bake for 15 minutes, or until cooked but still fudgey inside. </steps_updated>
+    <steps_updated num="7">Serve with whipped cream. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

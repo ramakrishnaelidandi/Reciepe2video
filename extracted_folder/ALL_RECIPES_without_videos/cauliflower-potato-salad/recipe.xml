@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower "Potato Salad" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-potato-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="4">3 ; eggs, hard-boiled, chopped </ingredient>
+    <ingredient num="5">3 stalks ; celery, diced </ingredient>
+    <ingredient num="6">½ ; red onion, diced </ingredient>
+    <ingredient num="7">½ cup ; greek yogurt ; (140 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; dijon mustard </ingredient>
+    <ingredient num="9">1 tablespoon ; honey </ingredient>
+    <ingredient num="10">2 tablespoons ; dill, chopped </ingredient>
+    <ingredient num="11">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="12">1 clove ; garlic, crushed </ingredient>
+    <ingredient num="13">½ ; lemon, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Sides</category>
+    <category num="6">Game Day</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25902/low_1488932967.m3u8</low>
+    <high>https://vid.tasty.co/output/25902/mp4_720x1280/1488932967</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Slice cauliflower into small florets. </step>
+    <step num="2">Place cauliflower onto baking sheet and season with salt, pepper, and olive oil. </step>
+    <step num="3">Bake in preheated oven for 25 minutes or until lightly browned and a bit crispy. </step>
+    <step num="4">In a large bowl, combine all dressing ingredients. Set aside. </step>
+    <step num="5">Once cauliflower is cooked, set aside and let cool slightly. </step>
+    <step num="6">Dice eggs, onion, and celery. </step>
+    <step num="7">In a large bowl, combine cauliflower, eggs, onion, celery, and dressing. </step>
+    <step num="8">Garnish with more freshly chopped dill before serving. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Slice cauliflower into small florets. </steps_updated>
+    <steps_updated num="2">Place cauliflower onto baking sheet and season with salt, pepper, and olive oil. </steps_updated>
+    <steps_updated num="3">Bake in preheated oven for 25 minutes or until lightly browned and a bit crispy. </steps_updated>
+    <steps_updated num="4">In a large bowl, combine all dressing ingredients. </steps_updated>
+    <steps_updated num="5">Set aside. </steps_updated>
+    <steps_updated num="6">Once cauliflower is cooked, set aside and let cool slightly. </steps_updated>
+    <steps_updated num="7">Dice eggs, onion, and celery. </steps_updated>
+    <steps_updated num="8">In a large bowl, combine cauliflower, eggs, onion, celery, and dressing. </steps_updated>
+    <steps_updated num="9">Garnish with more freshly chopped dill before serving. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+  <title>Snickerdoodle Hot Chocolate On A Stick Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snickerdoodle-hot-chocolate-on-a-stick</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hot-chocolate-on-a-stick-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 8640 13033 13278 2935 8007 </ingredient>
+    <ingredient num="1">9883 2605 13278 3063 5802 13278 2583 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 4617 4680 11318 13278 11904 5981 </ingredient>
+    <ingredient num="3">3917 1580 2031 13278 11088 12425 </ingredient>
+    <ingredient num="4">12791 8071 13278 11088 12159 </ingredient>
+    <ingredient num="5">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="6">12425 9528 2517 </ingredient>
+    <ingredient num="7">5527 13278 5298 12401 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Desserts</category>
+    <category num="2">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/70033/hls24_1513991883.m3u8</low>
+    <high>https://vid.tasty.co/output/70033/landscape_720/1513991883</high>
+  </video>
+  <duration>
+    <start_time>75.35</start_time>
+    <end_time>111.259</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 11844 817 11770 13757 14307 10383 11951 8640 1123 3063 5802 13817 4654 12159 13817 308 13817 14238 560 5994 5181 </step>
+    <step num="1">5570 4680 11318 210 5994 14401 14511 13817 5406 4255 10707 11951 10707 13033 10665 12251 560 794 7990 3917 12110 432 13328 560 1011 </step>
+    <step num="2">5209 5994 7155 9607 1798 11951 2373 669 5994 10486 1459 12841 10590 13688 1391 12425 2132 12251 560 817 7811 10302 2281 7990 5527 12689 7621 5994 5298 1297 669 11951 8365 371 4593 </step>
+    <step num="3">13855 7990 8580 13199 5895 173 7990 4061 14329 </step>
+    <step num="4">10450 7397 2319 5994 1297 669 5994 12703 371 6222 9529 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 11844 817 11770 13757 14307 10383 11951 8640 1123 3063 5802 13817 4654 12159 13817 308 13817 14238 560 5994 5181 </steps_updated>
+    <steps_updated num="1">5570 4680 11318 210 5994 14401 14511 13817 5406 4255 10707 11951 10707 13033 10665 </steps_updated>
+    <steps_updated num="2">12251 560 794 7990 3917 12110 432 13328 560 1011 </steps_updated>
+    <steps_updated num="3">5209 5994 7155 9607 1798 11951 2373 669 5994 10486 1459 12841 10590 </steps_updated>
+    <steps_updated num="4">13688 1391 12425 2132 </steps_updated>
+    <steps_updated num="5">12251 560 817 7811 10302 2281 7990 5527 12689 </steps_updated>
+    <steps_updated num="6">7621 5994 5298 1297 669 11951 8365 371 4593 </steps_updated>
+    <steps_updated num="7">13855 7990 8580 13199 5895 173 7990 4061 14329 </steps_updated>
+    <steps_updated num="8">10450 7397 2319 5994 1297 669 5994 12703 371 6222 9529 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01855</start_time>
+    <end_time>02678</end_time>
+  </duration_human>
+</recipe>

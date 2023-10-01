@@ -1,0 +1,54 @@
+<recipe>
+  <title>Fajita Hasselback Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-hasselback-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hasselback-chicken-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 7983 7678 </ingredient>
+    <ingredient num="1">1580 13278 12384 341 </ingredient>
+    <ingredient num="2">1580 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="3">1580 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="4">1580 13278 4985 10986 341 </ingredient>
+    <ingredient num="5">8580 9486 13278 12265 7717 10968 </ingredient>
+    <ingredient num="6">13086 9486 13278 5218 </ingredient>
+    <ingredient num="7">1580 2605 13278 9784 13810 2431 13278 2264 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/38809/low_1498727674.m3u8</low>
+    <high>https://vid.tasty.co/output/38809/mp4_720x1280/1498727674</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>28.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 </step>
+    <step num="1">3235 669 11951 7983 7679 3009 6285 12791 2985 1841 1645 10639 9801 11189 7777 6285 5141 371 11951 10772 8180 9304 11951 551 2576 </step>
+    <step num="2">264 11951 11453 13817 2986 11770 5994 13757 7855 1681 10348 415 6142 210 11951 12265 596 </step>
+    <step num="3">12473 210 11951 5218 13817 1678 11951 14538 9386 </step>
+    <step num="4">9393 3626 1681 11951 14538 7312 1311 </step>
+    <step num="5">12251 560 10694 560 11951 3084 13817 415 13262 10763 1890 371 11951 7983 376 1391 6285 3917 8071 371 11951 10665 </step>
+    <step num="6">7831 210 11951 3292 371 11951 10439 7990 3641 8927 1681 11951 7983 9490 3745 7492 13817 11951 301 5728 10784 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">3235 669 11951 7983 7679 3009 6285 1580 1043 2367 636 10639 9801 11189 7777 6285 5141 371 11951 10772 8180 9304 11951 551 2576 </steps_updated>
+    <steps_updated num="2">264 11951 11453 13817 2986 11770 5994 13757 7855 1681 10348 415 6142 210 11951 12265 596 </steps_updated>
+    <steps_updated num="3">12473 210 11951 5218 13817 1678 11951 14538 9386 </steps_updated>
+    <steps_updated num="4">9393 3626 1681 11951 14538 7312 1311 </steps_updated>
+    <steps_updated num="5">12251 560 10694 560 11951 3084 13817 415 13262 10763 1890 371 11951 7983 376 1391 6285 3917 8071 371 11951 10665 </steps_updated>
+    <steps_updated num="6">7831 210 11951 3292 371 11951 10439 7990 3641 8927 1681 11951 7983 9490 3745 7492 13817 11951 301 5728 10784 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00878</end_time>
+  </duration_human>
+</recipe>

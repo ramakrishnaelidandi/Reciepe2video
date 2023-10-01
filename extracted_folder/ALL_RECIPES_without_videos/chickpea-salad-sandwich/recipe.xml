@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chickpea Salad Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chickpea-salad-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-to-pack-vegan-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; chickpeas, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="1">¼ cup ; red onion, diced ; (40 g) </ingredient>
+    <ingredient num="2">½ ; red bell pepper, diced </ingredient>
+    <ingredient num="3">3 tablespoons ; vegan mayonnaise </ingredient>
+    <ingredient num="4">½ teaspoon ; dijon mustard </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">1 tablespoon ; fresh dill, chopped </ingredient>
+    <ingredient num="10">leafy green, to serve </ingredient>
+    <ingredient num="11">bread, sliced, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76566/hls24_1517619562.m3u8</low>
+    <high>https://vid.tasty.co/output/76566/landscape_720/1517619562</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>130.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium mixing bowl, add chickpeas and mash with potato masher until a chunky texture is reached. </step>
+    <step num="1">Add the red onion, red pepper, vegan mayo, Dijon mustard, garlic powder, onion powder, salt, pepper, and dill, and stir until well combined. </step>
+    <step num="2">Store chickpea salad in refrigerator for up to five days. To assemble sandwich, spread mixture onto bread and top with leafy greens of choice. </step>
+    <step num="3">Wrap in parchment paper and secure with rubber band. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium mixing bowl, add chickpeas and mash with potato masher until a chunky texture is reached. </steps_updated>
+    <steps_updated num="1">Add the red onion, red pepper, vegan mayo, Dijon mustard, garlic powder, onion powder, salt, pepper, and dill, and stir until well combined. </steps_updated>
+    <steps_updated num="2">Store chickpea salad in refrigerator for up to five days. </steps_updated>
+    <steps_updated num="3">To assemble sandwich, spread mixture onto bread and top with leafy greens of choice. </steps_updated>
+    <steps_updated num="4">Wrap in parchment paper and secure with rubber band. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01928</start_time>
+    <end_time>03131</end_time>
+  </duration_human>
+</recipe>

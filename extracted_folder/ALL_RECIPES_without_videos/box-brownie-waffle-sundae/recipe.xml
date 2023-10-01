@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Box Brownie Waffle Sundae Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/box-brownie-waffle-sundae</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 box ; brownie mix, prepared according to package instructions </ingredient>
+    <ingredient num="1">vanilla ice cream </ingredient>
+    <ingredient num="2">caramel sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51247/low_1504720315.m3u8</low>
+    <high>https://vid.tasty.co/output/51247/mp4_720x1280/1504720315</high>
+  </video>
+  <duration>
+    <start_time>49.0</start_time>
+    <end_time>63.44</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place 4 large dollops of brownie batter in a preheated, greased waffle iron. </step>
+    <step num="1">Cook for 2-3 minutes, until brownies are semi-firm to the touch. </step>
+    <step num="2">Serve with vanilla ice cream and caramel sauce. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place 4 large dollops of brownie batter in a preheated, greased waffle iron. </steps_updated>
+    <steps_updated num="1">Cook for 2-3 minutes, until brownies are semi-firm to the touch. </steps_updated>
+    <steps_updated num="2">Serve with vanilla ice cream and caramel sauce. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01463</start_time>
+    <end_time>01925</end_time>
+  </duration_human>
+</recipe>

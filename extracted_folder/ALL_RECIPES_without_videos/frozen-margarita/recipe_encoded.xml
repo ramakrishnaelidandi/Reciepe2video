@@ -1,0 +1,38 @@
+<recipe>
+  <title>Frozen &#8220;Margarita&#8221; Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-margarita</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-alcohol-optional-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 1499 3247 13278 3465 8007 </ingredient>
+    <ingredient num="1">12791 2605 13278 13956 10522 13278 13125 8007 </ingredient>
+    <ingredient num="2">1813 2605 13278 9712 8899 13384 5895 13086 3927 585 9443 7245 13278 12158 8007 </ingredient>
+    <ingredient num="3">1580 13278 7695 3701 </ingredient>
+    <ingredient num="4">7695 976 669 2790 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106659/hls24_1535158158.m3u8</low>
+    <high>https://vid.tasty.co/output/106659/landscape_720/1535158158</high>
+  </video>
+  <duration>
+    <start_time>50.166</start_time>
+    <end_time>74.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">1349 2237 2439 10224 7238 1391 8580 9517 4551 9443 371 6526 13855 7990 7811 767 8580 14329 </step>
+    <step num="1">9179 11951 11885 14159 374 2605 371 1499 13956 7654 9712 8899 13384 13817 9712 10522 560 5994 12027 13817 1279 4255 8283 12398 1681 12119 </step>
+    <step num="2">1083 669 1754 13817 4711 1391 9712 5021 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1349 2237 2439 10224 7238 1391 8580 9517 4551 9443 371 6526 </steps_updated>
+    <steps_updated num="1">13855 7990 7811 767 8580 14329 </steps_updated>
+    <steps_updated num="2">9179 11951 11885 14159 374 2605 371 1499 13956 7654 9712 8899 13384 13817 9712 10522 560 5994 12027 13817 1279 4255 8283 12398 1681 12119 </steps_updated>
+    <steps_updated num="3">1083 669 1754 13817 4711 1391 9712 5021 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

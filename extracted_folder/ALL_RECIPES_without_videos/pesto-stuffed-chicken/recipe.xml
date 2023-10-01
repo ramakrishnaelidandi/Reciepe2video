@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pesto Stuffed Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-stuffed-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts </ingredient>
+    <ingredient num="1">1 tablespoon ; salt </ingredient>
+    <ingredient num="2">1 tablespoon ; pepper </ingredient>
+    <ingredient num="3">12 ; sundried tomatoes </ingredient>
+    <ingredient num="4">3 tablespoons ; pesto </ingredient>
+    <ingredient num="5">3 oz ; shredded mozzarella cheese, shredded ; (85 g) </ingredient>
+    <ingredient num="6">3 tablespoons ; oil, for pan frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28406/low_1491345884.m3u8</low>
+    <high>https://vid.tasty.co/output/28406/mp4_720x1280/1491345884</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, salt and pepper both sides of each chicken breast with approximately ½ teaspoon salt and ½ teaspoon pepper, per side. </step>
+    <step num="1">Slice each chicken breast horizontally along the side to create a pocket for the filling. </step>
+    <step num="2">Stuff each breast with approximately one third of mozzarella cheese, one tablespoon pesto and four sundried tomatoes. If the chicken breast does not close fully with the filling, try securing with a wooden toothpick. </step>
+    <step num="3">Heat oil in a skillet over medium heat. </step>
+    <step num="4">Pan fry for about 5-8 minutes, per side, depending on the size of the chicken breasts, until the cheese is melted and the chicken is cooked through. Serve warm. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, salt and pepper both sides of each chicken breast with approximately ½ teaspoon salt and ½ teaspoon pepper, per side. </steps_updated>
+    <steps_updated num="1">Slice each chicken breast horizontally along the side to create a pocket for the filling. </steps_updated>
+    <steps_updated num="2">Stuff each breast with approximately one third of mozzarella cheese, one tablespoon pesto and four sundried tomatoes. </steps_updated>
+    <steps_updated num="3">If the chicken breast does not close fully with the filling, try securing with a wooden toothpick. </steps_updated>
+    <steps_updated num="4">Heat oil in a skillet over medium heat. </steps_updated>
+    <steps_updated num="5">Pan fry for about 5-8 minutes, per side, depending on the size of the chicken breasts, until the cheese is melted and the chicken is cooked through. </steps_updated>
+    <steps_updated num="6">Serve warm. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+  <title>Fortune Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fortune-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 6216 4072 </ingredient>
+    <ingredient num="1">1580 8071 13278 1319 10937 </ingredient>
+    <ingredient num="2">1580 2605 13278 8554 5735 890 13278 13125 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="4">3917 2157 13278 82 </ingredient>
+    <ingredient num="5">13086 9486 13278 12282 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88511/hls24_1523061783.m3u8</low>
+    <high>https://vid.tasty.co/output/88511/landscape_720/1523061783</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 13194 13180 </step>
+    <step num="1">9179 11951 6216 4072 13817 1319 10937 560 5994 13757 12377 13817 11003 5994 8341 5895 5768 9091 560 3930 1681 5043 6285 3917 6513 </step>
+    <step num="2">4026 210 11951 6467 6145 13817 82 7492 5994 9423 13492 </step>
+    <step num="3">5209 5994 5633 6183 9010 669 11951 4428 1681 3795 </step>
+    <step num="4">9179 11951 13384 3917 14014 7811 5994 7555 1681 11951 4428 9490 6873 13817 3452 669 12168 10570 11951 7700 9490 287 8857 </step>
+    <step num="5">5570 3917 14014 371 4428 1802 5994 130 10765 213 13817 11434 669 5994 12097 1548 10783 </step>
+    <step num="6">5362 1391 6646 14014 371 3417 9082 11901 560 11189 1752 4817 3988 4255 11951 9133 </step>
+    <step num="7">7831 7990 6735 11004 1681 11951 5832 13593 10963 2147 </step>
+    <step num="8">153 12107 11003 5994 7700 560 5103 11951 8992 6781 11951 10590 9179 5994 4256 210 11951 12255 7475 11951 8992 210 1991 415 3345 11951 7868 11801 4255 11951 5288 371 5994 202 9753 11951 5832 573 669 5994 4256 7155 2992 5570 11951 11405 4256 8992 210 5994 1459 12841 2141 1681 13046 560 2878 2349 2992 </step>
+    <step num="9">5362 1391 374 9368 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 13194 13180 </steps_updated>
+    <steps_updated num="1">9179 11951 6216 4072 13817 1319 10937 560 5994 13757 12377 13817 11003 5994 8341 5895 5768 9091 560 3930 1681 5043 6285 3917 6513 </steps_updated>
+    <steps_updated num="2">4026 210 11951 6467 6145 13817 82 7492 5994 9423 13492 </steps_updated>
+    <steps_updated num="3">5209 5994 5633 6183 9010 669 11951 4428 1681 3795 </steps_updated>
+    <steps_updated num="4">9179 11951 13384 3917 14014 7811 5994 7555 1681 11951 4428 9490 6873 13817 3452 669 12168 10570 11951 7700 9490 287 8857 </steps_updated>
+    <steps_updated num="5">5570 3917 14014 371 4428 1802 5994 130 10765 213 13817 11434 669 5994 12097 1548 10783 </steps_updated>
+    <steps_updated num="6">5362 1391 6646 14014 371 3417 9082 11901 560 11189 1752 4817 3988 4255 11951 9133 </steps_updated>
+    <steps_updated num="7">7831 7990 6735 11004 1681 11951 5832 13593 10963 2147 </steps_updated>
+    <steps_updated num="8">153 12107 11003 5994 7700 560 5103 11951 8992 6781 11951 10590 </steps_updated>
+    <steps_updated num="9">9179 5994 4256 210 11951 12255 7475 11951 8992 210 1991 415 3345 11951 7868 11801 4255 11951 5288 371 5994 202 9753 11951 5832 573 669 5994 4256 7155 2992 </steps_updated>
+    <steps_updated num="10">5570 11951 11405 4256 8992 210 5994 1459 12841 2141 1681 13046 560 2878 2349 2992 </steps_updated>
+    <steps_updated num="11">5362 1391 374 9368 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

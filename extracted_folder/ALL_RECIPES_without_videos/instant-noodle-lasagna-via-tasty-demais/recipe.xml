@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Instant Noodle Lasagna by Tasty Demais Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/instant-noodle-lasagna-via-tasty-demais</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 packs ; instant ramen </ingredient>
+    <ingredient num="1">¾ cup ; water, plus 2 tablespoons ; (200 mL) </ingredient>
+    <ingredient num="2">¾ cup ; heavy cream, plus 2 tablespoons ; (200 mL) </ingredient>
+    <ingredient num="3">16 oz ; tomato sauce ; (500 mL) </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">ham </ingredient>
+    <ingredient num="7">cheese </ingredient>
+    <ingredient num="8">2 cups ; shredded parmesan cheese ; (200 g) </ingredient>
+    <ingredient num="9">3 tablespoons ; fresh parsley </ingredient>
+    <ingredient num="10">dried oregano </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17117/low_1481220527.m3u8</low>
+    <high>https://vid.tasty.co/output/17117/mp4_720x1280/1481220527</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 180˚C (350˚F). </step>
+    <step num="1">Mix water, heavy cream, tomato sauce, pepper, and salt. Set aside. </step>
+    <step num="2">In a baking pan, lay down one row of raw ramen noodles and cover with half the tomato sauce mixture. </step>
+    <step num="3">Layer ham slices, then cheese slices, and repeat. Sprinkle with parsley. </step>
+    <step num="4">Add another layer of raw ramen noodles and cover them with the rest of sauce. </step>
+    <step num="5">Top with another layer of ham and cheese, and sprinkle with parmesan cheese and oregano. </step>
+    <step num="6">Bake for 25 minutes, or until noodles are cooked through and cheese is golden brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 180˚C (350˚F). </steps_updated>
+    <steps_updated num="1">Mix water, heavy cream, tomato sauce, pepper, and salt. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">In a baking pan, lay down one row of raw ramen noodles and cover with half the tomato sauce mixture. </steps_updated>
+    <steps_updated num="4">Layer ham slices, then cheese slices, and repeat. </steps_updated>
+    <steps_updated num="5">Sprinkle with parsley. </steps_updated>
+    <steps_updated num="6">Add another layer of raw ramen noodles and cover them with the rest of sauce. </steps_updated>
+    <steps_updated num="7">Top with another layer of ham and cheese, and sprinkle with parmesan cheese and oregano. </steps_updated>
+    <steps_updated num="8">Bake for 25 minutes, or until noodles are cooked through and cheese is golden brown. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

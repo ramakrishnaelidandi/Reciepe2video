@@ -1,0 +1,56 @@
+<recipe>
+  <title>Easy Classic Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-classic-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-hummus-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13133 643 13278 368 13829 3917 9067 6124 13817 4980 13278 13345 5981 </ingredient>
+    <ingredient num="1">1580 8071 13278 82 </ingredient>
+    <ingredient num="2">1580 8071 13278 11088 3170 </ingredient>
+    <ingredient num="3">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="4">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="5">3917 14014 13278 3141 7549 8244 5766 </ingredient>
+    <ingredient num="6">12791 8071 13278 9110 5766 </ingredient>
+    <ingredient num="7">12791 2605 13278 12282 13278 13125 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Sides</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16374/low_1480614782.m3u8</low>
+    <high>https://vid.tasty.co/output/16374/mp4_720x1280/1480614782</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>31.17</end_time>
+  </duration>
+  <steps>
+    <step num="0">1083 11951 4980 6940 1802 2532 11951 4117 371 5994 3895 671 12595 11951 11649 2532 371 11951 1811 4255 10707 371 11951 13829 13817 7094 3755 5833 5312 11951 899 12207 560 4603 11353 </step>
+    <step num="1">5570 8554 371 11951 4125 6143 210 11951 12377 371 5994 8016 5349 14473 1391 11951 12610 2670 13817 1937 426 11951 9909 4255 560 827 3386 11951 10665 </step>
+    <step num="2">10936 11951 8016 9909 1196 5406 210 11951 597 7654 8244 7632 9110 7632 13817 13384 13817 3945 11951 9909 5728 1681 11951 2373 9490 12119 </step>
+    <step num="3">12774 1391 12313 6507 371 7361 11318 5895 10300 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1083 11951 4980 6940 1802 2532 11951 4117 371 5994 3895 671 </steps_updated>
+    <steps_updated num="1">12595 11951 11649 2532 371 11951 1811 4255 10707 371 11951 13829 13817 7094 3755 5833 5312 11951 899 12207 560 4603 11353 </steps_updated>
+    <steps_updated num="2">5570 8554 371 11951 4125 6143 210 11951 12377 371 5994 8016 5349 14473 1391 11951 12610 2670 13817 1937 </steps_updated>
+    <steps_updated num="3">426 11951 9909 4255 560 827 3386 11951 10665 </steps_updated>
+    <steps_updated num="4">10936 11951 8016 9909 1196 5406 210 11951 597 7654 8244 7632 9110 7632 13817 13384 13817 3945 11951 9909 5728 1681 11951 2373 9490 12119 </steps_updated>
+    <steps_updated num="5">12774 1391 12313 6507 371 7361 11318 5895 10300 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00942</end_time>
+  </duration_human>
+</recipe>

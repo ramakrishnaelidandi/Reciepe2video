@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Tortilla Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-tortilla-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">½ ; lime, juiced </ingredient>
+    <ingredient num="3">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="4">½ teaspoon ; paprika </ingredient>
+    <ingredient num="5">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Game Day</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28947/low_1491944531.m3u8</low>
+    <high>https://vid.tasty.co/output/28947/mp4_720x1280/1491944531</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F/190˚C. </step>
+    <step num="1">Chop the head of cauliflower into small pieces. </step>
+    <step num="2">Pulse in a food processor until cauliflower is finer than rice. Place in a bowl and salt, to taste. </step>
+    <step num="3">Microwave for 4 minutes. </step>
+    <step num="4">Drain the cauliflower using a kitchen towel and squeeze out all the excess water. </step>
+    <step num="5">After draining add the cauliflower into a bowl and mix in the eggs, lime juice, pepper, dried oregano, paprika, and chili powder. </step>
+    <step num="6">Mix together. </step>
+    <step num="7">Roll out 6 balls of the mixture and then press onto a baking sheet. </step>
+    <step num="8">Bake for 10 minutes, flip and then bake for another 10 minutes, or until edges are crispy. </step>
+    <step num="9">After cooling, fill with your desired fillings </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F/190˚C. </steps_updated>
+    <steps_updated num="1">Chop the head of cauliflower into small pieces. </steps_updated>
+    <steps_updated num="2">Pulse in a food processor until cauliflower is finer than rice. </steps_updated>
+    <steps_updated num="3">Place in a bowl and salt, to taste. </steps_updated>
+    <steps_updated num="4">Microwave for 4 minutes. </steps_updated>
+    <steps_updated num="5">Drain the cauliflower using a kitchen towel and squeeze out all the excess water. </steps_updated>
+    <steps_updated num="6">After draining add the cauliflower into a bowl and mix in the eggs, lime juice, pepper, dried oregano, paprika, and chili powder. </steps_updated>
+    <steps_updated num="7">Mix together. </steps_updated>
+    <steps_updated num="8">Roll out 6 balls of the mixture and then press onto a baking sheet. </steps_updated>
+    <steps_updated num="9">Bake for 10 minutes, flip and then bake for another 10 minutes, or until edges are crispy. </steps_updated>
+    <steps_updated num="10">After cooling, fill with your desired fillings </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,50 @@
+<recipe>
+  <title>White Walker Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/white-walker-cupcakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/emmy-s-inspired-cupcakes</comp_url>
+  <ingredients>
+    <ingredient num="0">409 13278 13204 3627 3102 </ingredient>
+    <ingredient num="1">409 13278 4985 3627 3102 </ingredient>
+    <ingredient num="2">409 13278 1319 1731 </ingredient>
+    <ingredient num="3">13086 9517 13278 13033 14538 10209 13278 11181 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 3333 6742 10876 13278 1936 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107911/hls24_1536098453.m3u8</low>
+    <high>https://vid.tasty.co/output/107911/landscape_720/1536098453</high>
+  </video>
+  <duration>
+    <start_time>91.5</start_time>
+    <end_time>122.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 3963 12013 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">6695 11951 3627 3102 4255 11951 9864 10765 8800 7831 7990 199 11004 5895 1681 5335 13817 12819 3626 210 5994 7497 14614 1828 435 </step>
+    <step num="2">9956 10694 560 11951 3084 7416 11951 10765 213 1802 5994 7868 12605 560 827 11951 8799 415 10909 669 2597 10506 </step>
+    <step num="3">9179 11951 10209 560 5994 14361 12854 7321 1391 5994 14032 955 415 6944 1802 11951 1481 6252 6742 10876 11770 11951 9982 13494 1391 11951 14339 3076 13637 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">6695 11951 3627 3102 4255 11951 9864 10765 8800 </steps_updated>
+    <steps_updated num="3">7831 7990 199 11004 5895 1681 5335 13817 12819 3626 210 5994 7497 14614 </steps_updated>
+    <steps_updated num="4">1828 435 </steps_updated>
+    <steps_updated num="5">9956 10694 560 11951 3084 7416 11951 10765 213 1802 5994 7868 12605 560 827 11951 8799 415 10909 669 2597 10506 </steps_updated>
+    <steps_updated num="6">9179 11951 10209 560 5994 14361 12854 7321 1391 5994 14032 955 415 6944 1802 11951 1481 </steps_updated>
+    <steps_updated num="7">6252 6742 10876 11770 11951 9982 </steps_updated>
+    <steps_updated num="8">13494 1391 11951 14339 3076 13637 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

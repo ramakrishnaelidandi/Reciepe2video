@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Avocado Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-avocado-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; avocados </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">bacon bits </ingredient>
+    <ingredient num="5">cherry tomato, quartered </ingredient>
+    <ingredient num="6">fresh basil, chopped </ingredient>
+    <ingredient num="7">shredded cheddar cheese </ingredient>
+    <ingredient num="8">fresh chives, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26247/low_1489177224.m3u8</low>
+    <high>https://vid.tasty.co/output/26247/mp4_720x1280/1489177224</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Slice the avocados in half and remove the pits. </step>
+    <step num="2">Place the avocado halves on a baking sheet and scoop out some of the flesh to make a bigger hole. </step>
+    <step num="3">Crack one egg into each hole and season with salt and pepper. </step>
+    <step num="4">Top with toppings of choice and bake for 15 minutes or until yolk reaches desired consistency. </step>
+    <step num="5">Sprinkle with fresh herbs, as desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Slice the avocados in half and remove the pits. </steps_updated>
+    <steps_updated num="2">Place the avocado halves on a baking sheet and scoop out some of the flesh to make a bigger hole. </steps_updated>
+    <steps_updated num="3">Crack one egg into each hole and season with salt and pepper. </steps_updated>
+    <steps_updated num="4">Top with toppings of choice and bake for 15 minutes or until yolk reaches desired consistency. </steps_updated>
+    <steps_updated num="5">Sprinkle with fresh herbs, as desired. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

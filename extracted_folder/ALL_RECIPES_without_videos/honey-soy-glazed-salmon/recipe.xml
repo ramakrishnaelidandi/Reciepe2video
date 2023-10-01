@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Soy Glazed Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-soy-glazed-salmon</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; skinless salmon ; (340 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">2 teaspoons ; ginger, minced </ingredient>
+    <ingredient num="4">½ teaspoon ; red pepper </ingredient>
+    <ingredient num="5">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="6">⅓ cup ; less sodium soy sauce ; (80 mL) </ingredient>
+    <ingredient num="7">⅓ cup ; honey ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Dinner</category>
+    <category num="7">Lunch</category>
+    <category num="8">Date Night</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20368/low_1484095035.m3u8</low>
+    <high>https://vid.tasty.co/output/20368/mp4_720x1280/1484095035</high>
+  </video>
+  <steps>
+    <step num="0">Place salmon in a sealable bag or medium bowl. </step>
+    <step num="1">In a small bowl or measuring cup, mix marinade ingredients. </step>
+    <step num="2">Pour half of the marinade on the salmon. Save the other half for later. </step>
+    <step num="3">Let the salmon marinate in the refrigerator for at least 30 minutes. </step>
+    <step num="4">In a medium pan, heat oil. Add salmon to the pan, but discard the used marinade. Cook salmon on one side for about 2-3 minutes, then flip over and cook for an additional 1-2 minutes. </step>
+    <step num="5">Remove salmon from pan. Pour in remaining marinade and reduce. </step>
+    <step num="6">Serve the salmon with sauce and a side of veggies. We used broccoli. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place salmon in a sealable bag or medium bowl. </steps_updated>
+    <steps_updated num="1">In a small bowl or measuring cup, mix marinade ingredients. </steps_updated>
+    <steps_updated num="2">Pour half of the marinade on the salmon. </steps_updated>
+    <steps_updated num="3">Save the other half for later. </steps_updated>
+    <steps_updated num="4">Let the salmon marinate in the refrigerator for at least 30 minutes. </steps_updated>
+    <steps_updated num="5">In a medium pan, heat oil. </steps_updated>
+    <steps_updated num="6">Add salmon to the pan, but discard the used marinade. </steps_updated>
+    <steps_updated num="7">Cook salmon on one side for about 2-3 minutes, then flip over and cook for an additional 1-2 minutes. </steps_updated>
+    <steps_updated num="8">Remove salmon from pan. </steps_updated>
+    <steps_updated num="9">Pour in remaining marinade and reduce. </steps_updated>
+    <steps_updated num="10">Serve the salmon with sauce and a side of veggies. </steps_updated>
+    <steps_updated num="11">We used broccoli. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

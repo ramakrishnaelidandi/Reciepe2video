@@ -1,0 +1,50 @@
+<recipe>
+  <title>Roseberry Mule Mocktail Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roseberry-mule-mocktail</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-mocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2629 13278 8770 </ingredient>
+    <ingredient num="1">3917 1113 13278 6209 7516 </ingredient>
+    <ingredient num="2">3917 14014 13278 7484 8524 5895 9586 </ingredient>
+    <ingredient num="3">14418 13285 560 11567 </ingredient>
+    <ingredient num="4">3917 13695 643 13278 7695 10522 13278 1258 8007 </ingredient>
+    <ingredient num="5">2439 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34828/low_1498238088.m3u8</low>
+    <high>https://vid.tasty.co/output/34828/mp4_720x1280/1498238088</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>46.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 1026 3199 5895 5994 13490 1278 5331 3121 13817 4777 </step>
+    <step num="1">9179 10733 13817 531 7934 1681 3145 4309 7737 1762 3987 11155 11628 5994 1026 12120 5463 5406 13352 13817 14405 8830 4817 1754 1681 13095 </step>
+    <step num="2">8845 2373 11770 2439 13817 740 14418 4615 13817 5994 882 371 9712 560 8686 </step>
+    <step num="3">13688 1391 3121 13817 5994 1113 371 4777 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 1026 3199 5895 5994 13490 1278 5331 3121 13817 4777 </steps_updated>
+    <steps_updated num="1">9179 10733 13817 531 7934 1681 3145 4309 </steps_updated>
+    <steps_updated num="2">7737 1762 3987 11155 11628 5994 1026 12120 5463 5406 13352 13817 14405 8830 4817 1754 1681 13095 </steps_updated>
+    <steps_updated num="3">8845 2373 11770 2439 13817 740 14418 4615 13817 5994 882 371 9712 560 8686 </steps_updated>
+    <steps_updated num="4">13688 1391 3121 13817 5994 1113 371 4777 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00648</start_time>
+    <end_time>01406</end_time>
+  </duration_human>
+</recipe>

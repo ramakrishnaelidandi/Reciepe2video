@@ -1,0 +1,46 @@
+<recipe>
+  <title>Lavender London Fog Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lavender-london-fog</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tea-lattes</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 11751 7276 13796 </ingredient>
+    <ingredient num="1">12791 8071 13278 12757 913 </ingredient>
+    <ingredient num="2">1580 2605 13278 6222 12282 13278 2935 8007 </ingredient>
+    <ingredient num="3">9883 2605 13278 5802 13278 10475 8007 </ingredient>
+    <ingredient num="4">12791 8071 13278 1319 10937 </ingredient>
+    <ingredient num="5">1580 14014 13278 7484 8524 2517 </ingredient>
+    <ingredient num="6">11088 4654 7990 4480 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114059/hls24_1541113086.m3u8</low>
+    <high>https://vid.tasty.co/output/114059/landscape_720/1541113086</high>
+  </video>
+  <duration>
+    <start_time>102.5</start_time>
+    <end_time>153.133</end_time>
+  </duration>
+  <steps>
+    <step num="0">1575 11951 13796 13817 913 210 11951 6222 12282 7990 14058 12689 </step>
+    <step num="1">14239 11951 5802 5569 14330 3557 560 5994 7354 13531 1709 11264 1681 13145 8693 5563 13827 10503 11951 5802 7990 7759 131 560 3917 6560 6854 217 5829 3535 5014 2761 </step>
+    <step num="2">6054 11951 9648 415 6142 210 11951 3847 9889 308 13817 4054 </step>
+    <step num="3">4058 1391 5994 10222 371 4654 5358 13 </step>
+    <step num="4">9092 </step>
+    <step num="5">10326 4884 7818 8861 9022 7925 7426 1673 8580 5102 7660 7574 14223 7426 4270 8883 5102 9718 3427 1975 14367 6421 11061 5102 12898 4061 221 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1575 11951 13796 13817 913 210 11951 6222 12282 7990 14058 12689 </steps_updated>
+    <steps_updated num="1">14239 11951 5802 5569 14330 3557 560 5994 7354 13531 </steps_updated>
+    <steps_updated num="2">1709 11264 1681 13145 8693 5563 </steps_updated>
+    <steps_updated num="3">13827 10503 11951 5802 7990 7759 131 560 3917 6560 6854 217 5829 3535 5014 2761 </steps_updated>
+    <steps_updated num="4">6054 11951 9648 415 6142 210 11951 3847 9889 308 13817 4054 </steps_updated>
+    <steps_updated num="5">4058 1391 5994 10222 371 4654 5358 13 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+    <steps_updated num="7">10326 4884 7818 8861 9022 7925 7426 1673 8580 5102 7660 7574 14223 7426 4270 8883 5102 9718 3427 1975 14367 6421 11061 5102 12898 4061 221 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,52 @@
+<recipe>
+  <title>Spaghetti With Cheese And Pepper Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-with-cheese-and-pepper</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pantry-pastas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">12610 560 11567 </ingredient>
+    <ingredient num="1">1580 715 13278 13402 13278 9473 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="3">8580 9486 13278 7974 9924 </ingredient>
+    <ingredient num="4">8580 2031 13278 4533 11088 13584 7845 </ingredient>
+    <ingredient num="5">4061 643 13278 2431 109 13810 5895 13541 10544 14538 13278 6518 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98211/hls24_1528823656.m3u8</low>
+    <high>https://vid.tasty.co/output/98211/landscape_720/1528823656</high>
+  </video>
+  <duration>
+    <start_time>115.166</start_time>
+    <end_time>145.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 2597 10083 371 10298 12282 560 5994 11714 264 11951 950 7990 3917 12110 13078 12339 11951 3756 6169 1681 3033 10959 11288 3917 2605 7503 9443 950 13384 415 8681 </step>
+    <step num="1">8889 5994 2597 9347 5687 11770 13757 2082 9179 11951 8244 7632 10907 13817 10986 13817 6142 560 1011 </step>
+    <step num="2">12473 210 11951 8276 950 2019 </step>
+    <step num="3">7643 210 11951 3745 4466 10211 11951 7855 560 11813 </step>
+    <step num="4">9179 11951 3220 13817 1686 1681 11951 14538 9490 5335 13817 11951 950 9490 10681 </step>
+    <step num="5">10242 1391 12610 5358 13 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 2597 10083 371 10298 12282 560 5994 11714 </steps_updated>
+    <steps_updated num="1">264 11951 950 7990 3917 12110 13078 12339 11951 3756 6169 1681 3033 10959 </steps_updated>
+    <steps_updated num="2">11288 3917 2605 7503 9443 950 13384 415 8681 </steps_updated>
+    <steps_updated num="3">8889 5994 2597 9347 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="4">9179 11951 8244 7632 10907 13817 10986 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="5">12473 210 11951 8276 950 2019 </steps_updated>
+    <steps_updated num="6">7643 210 11951 3745 4466 </steps_updated>
+    <steps_updated num="7">10211 11951 7855 560 11813 </steps_updated>
+    <steps_updated num="8">9179 11951 3220 13817 1686 1681 11951 14538 9490 5335 13817 11951 950 9490 10681 </steps_updated>
+    <steps_updated num="9">10242 1391 12610 5358 13 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

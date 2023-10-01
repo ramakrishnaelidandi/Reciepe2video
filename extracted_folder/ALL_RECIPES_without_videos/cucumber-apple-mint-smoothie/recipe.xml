@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cucumber Apple Mint Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cucumber-apple-mint-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-packed-smoothies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; large cucumber, peeled and sliced </ingredient>
+    <ingredient num="1">¼ cup ; mint leaf ; (10 g) </ingredient>
+    <ingredient num="2">1 ; green apple, diced </ingredient>
+    <ingredient num="3">1 tablespoon ; honey </ingredient>
+    <ingredient num="4">½ ; avocado, diced </ingredient>
+    <ingredient num="5">1 ½ cups ; ice ; (210 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43506/low_1499967409.m3u8</low>
+    <high>https://vid.tasty.co/output/43506/mp4_720x1280/1499967409</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>17.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the cucumber, mint, apple, honey, and avocado in a blender or food processor and blend until just combined. </step>
+    <step num="1">Add in the ice and continue to blend until the mixture is smooth. </step>
+    <step num="2">Serve immediately. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the cucumber, mint, apple, honey, and avocado in a blender or food processor and blend until just combined. </steps_updated>
+    <steps_updated num="1">Add in the ice and continue to blend until the mixture is smooth. </steps_updated>
+    <steps_updated num="2">Serve immediately. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

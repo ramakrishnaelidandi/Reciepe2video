@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie (Macerated) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-macerated</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/the-perfect-pie</comp_url>
+  <ingredients>
+    <ingredient num="0">5 lb ; granny smith apple ; (2.2 kg) </ingredient>
+    <ingredient num="1">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="2">¼ teaspoon ; fine salt </ingredient>
+    <ingredient num="3">2 teaspoons ; ground cinnamon </ingredient>
+    <ingredient num="4">⅓ cup ; fresh lemon juice ; (80 mL) </ingredient>
+    <ingredient num="5">3 ½ tablespoons ; cornstarch, divided </ingredient>
+    <ingredient num="6">3 tablespoons ; water </ingredient>
+    <ingredient num="7">3 ½ tablespoons ; unsalted butter </ingredient>
+    <ingredient num="8">2 ; premade pie crusts, rolled out into ⅛-inch (3-mm) thick </ingredient>
+    <ingredient num="9">egg wash </ingredient>
+    <ingredient num="10">sanding sugar, for sprinkling </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114207/hls24_1541199334.m3u8</low>
+    <high>https://vid.tasty.co/output/114207/landscape_720/1541199334</high>
+  </video>
+  <duration>
+    <start_time>487.5</start_time>
+    <end_time>691.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel and thinly slice the apples (keep the apples in a bowl of lemon water as you go to keep them from browning). </step>
+    <step num="1">In a large bowl, toss the apples with the brown sugar, salt, cinnamon, lemon juice, and half of the cornstarch. Once the apples are well coated, let sit and macerate for 30 minutes, stirring occasionally. </step>
+    <step num="2">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="3">Transfer the apples to a colander set over a medium bowl and let drain for about 15 minutes, until all of the liquid is drawn out. </step>
+    <step num="4">Transfer the liquid released from the apples to a small pot over low heat. </step>
+    <step num="5">In a small bowl, mix the rest of the cornstarch and the water to make a slurry. Add the slurry to the apple liquid and quickly stir to incorporate. Bring to a boil, then add the butter and stir until melted. Immediately remove from the heat and pour over the apples, stirring to coat. </step>
+    <step num="6">Gently lay 1 rolled-out pie crust in a 10-inch (25-cm) pie dish. </step>
+    <step num="7">Lay the apples in the pie crust, making sure they are flat and facing the rounded edges out in order to fit as many apples as possible in the crust. Pour any leftover liquid from the bowl over the apples. </step>
+    <step num="8">Top with the other rolled-out pie crust. Trim the excess dough from the edges. </step>
+    <step num="9">Press the 2 crusts together to seal, then fold the edges under. Crimp the edges. </step>
+    <step num="10">Then brush all over with egg wash and sprinkle the with sanding sugar. </step>
+    <step num="11">Use a paring knife to cut a few vents in the top for steam to escape. </step>
+    <step num="12">Bake for 40-45 minutes, until golden brown. </step>
+    <step num="13">Let cool for at least an hour </step>
+    <step num="14">Slice and serve. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel and thinly slice the apples (keep the apples in a bowl of lemon water as you go to keep them from browning). </steps_updated>
+    <steps_updated num="1">In a large bowl, toss the apples with the brown sugar, salt, cinnamon, lemon juice, and half of the cornstarch. </steps_updated>
+    <steps_updated num="2">Once the apples are well coated, let sit and macerate for 30 minutes, stirring occasionally. </steps_updated>
+    <steps_updated num="3">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="4">Transfer the apples to a colander set over a medium bowl and let drain for about 15 minutes, until all of the liquid is drawn out. </steps_updated>
+    <steps_updated num="5">Transfer the liquid released from the apples to a small pot over low heat. </steps_updated>
+    <steps_updated num="6">In a small bowl, mix the rest of the cornstarch and the water to make a slurry. </steps_updated>
+    <steps_updated num="7">Add the slurry to the apple liquid and quickly stir to incorporate. </steps_updated>
+    <steps_updated num="8">Bring to a boil, then add the butter and stir until melted. </steps_updated>
+    <steps_updated num="9">Immediately remove from the heat and pour over the apples, stirring to coat. </steps_updated>
+    <steps_updated num="10">Gently lay 1 rolled-out pie crust in a 10-inch (25-cm) pie dish. </steps_updated>
+    <steps_updated num="11">Lay the apples in the pie crust, making sure they are flat and facing the rounded edges out in order to fit as many apples as possible in the crust. </steps_updated>
+    <steps_updated num="12">Pour any leftover liquid from the bowl over the apples. </steps_updated>
+    <steps_updated num="13">Top with the other rolled-out pie crust. </steps_updated>
+    <steps_updated num="14">Trim the excess dough from the edges. </steps_updated>
+    <steps_updated num="15">Press the 2 crusts together to seal, then fold the edges under. </steps_updated>
+    <steps_updated num="16">Crimp the edges. </steps_updated>
+    <steps_updated num="17">Then brush all over with egg wash and sprinkle the with sanding sugar. </steps_updated>
+    <steps_updated num="18">Use a paring knife to cut a few vents in the top for steam to escape. </steps_updated>
+    <steps_updated num="19">Bake for 40-45 minutes, until golden brown. </steps_updated>
+    <steps_updated num="20">Let cool for at least an hour </steps_updated>
+    <steps_updated num="21">Slice and serve. </steps_updated>
+    <steps_updated num="22">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

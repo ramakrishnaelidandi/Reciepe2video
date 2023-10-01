@@ -1,0 +1,56 @@
+<recipe>
+  <title>Neapolitan Dairy-free Milkshake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/neapolitan-dairy-free-milkshake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dairy-free-milkshakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 11579 4850 </ingredient>
+    <ingredient num="1">13086 10548 13278 2409 1319 2439 13033 </ingredient>
+    <ingredient num="2">3591 2605 13278 2409 5802 13278 8178 8007 </ingredient>
+    <ingredient num="3">12791 2605 13278 2439 10224 13278 2264 5981 </ingredient>
+    <ingredient num="4">3917 2605 13278 6114 13278 757 5981 </ingredient>
+    <ingredient num="5">3917 14014 13278 9053 11703 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Drinks</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32780/low_1495660029.m3u8</low>
+    <high>https://vid.tasty.co/output/32780/mp4_720x1280/1495660029</high>
+  </video>
+  <duration>
+    <start_time>55.29</start_time>
+    <end_time>104.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 6212 4120 11579 1938 2409 1319 2439 1123 2409 9889 13817 2439 1170 </step>
+    <step num="1">3262 1681 4309 </step>
+    <step num="2">7427 2965 2373 669 13086 351 13643 9883 2605 6898 9443 4593 2257 797 2605 560 11951 145 </step>
+    <step num="3">9179 797 2373 13352 210 11951 12027 13817 740 1927 9393 1681 3145 8544 13817 817 5292 </step>
+    <step num="4">9179 11951 10465 2373 210 11951 12027 13817 740 9053 785 9393 1681 3145 8544 13817 817 5292 </step>
+    <step num="5">10950 5994 202 5406 4680 2373 1537 5209 5994 13908 5406 11951 6114 2373 1802 11951 1798 13817 11434 3557 5412 11951 6369 5209 5994 13908 5406 11951 1319 2373 4255 143 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 6212 4120 11579 1938 2409 1319 2439 1123 2409 9889 13817 2439 1170 </steps_updated>
+    <steps_updated num="1">3262 1681 4309 </steps_updated>
+    <steps_updated num="2">7427 2965 2373 669 13086 351 13643 9883 2605 6898 9443 4593 </steps_updated>
+    <steps_updated num="3">2257 797 2605 560 11951 145 </steps_updated>
+    <steps_updated num="4">9179 797 2373 13352 210 11951 12027 13817 740 1927 </steps_updated>
+    <steps_updated num="5">9393 1681 3145 8544 13817 817 5292 </steps_updated>
+    <steps_updated num="6">9179 11951 10465 2373 210 11951 12027 13817 740 9053 785 </steps_updated>
+    <steps_updated num="7">9393 1681 3145 8544 13817 817 5292 </steps_updated>
+    <steps_updated num="8">10950 5994 202 5406 4680 2373 1537 </steps_updated>
+    <steps_updated num="9">5209 5994 13908 5406 11951 6114 2373 1802 11951 1798 13817 11434 3557 5412 11951 6369 </steps_updated>
+    <steps_updated num="10">5209 5994 13908 5406 11951 1319 2373 4255 143 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01714</start_time>
+    <end_time>03176</end_time>
+  </duration_human>
+</recipe>

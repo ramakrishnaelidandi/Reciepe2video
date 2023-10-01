@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Japanese Fried Chicken Bento Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/japanese-fried-chicken-bento</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">½ lb ; boneless, skinless chicken thighs ; (250 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; curry powder </ingredient>
+    <ingredient num="2">1 teaspoon ; sugar </ingredient>
+    <ingredient num="3">½ ; garlic, grated </ingredient>
+    <ingredient num="4">½ ; ginger, grated </ingredient>
+    <ingredient num="5">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="6">1 tablespoon ; sake </ingredient>
+    <ingredient num="7">4 tablespoons ; flour </ingredient>
+    <ingredient num="8">4 tablespoons ; potato starch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>183.0</start_time>
+    <end_time>196.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut chicken thigh to bite-size pieces and put in a plastic bag. Combine curry powder, sugar, grated garlic, grated ginger, soy sauce, and sake, and rub well. Marinate for 1 hour in the fridge. </step>
+    <step num="1">In a bowl, combine flour and potato starch, and mix well. Dredge marinated chicken in mixture, shaking off excess. </step>
+    <step num="2">Fry chicken until golden brown, then drain on a paper towel. Place into the bento box. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut chicken thigh to bite-size pieces and put in a plastic bag. </steps_updated>
+    <steps_updated num="1">Combine curry powder, sugar, grated garlic, grated ginger, soy sauce, and sake, and rub well. </steps_updated>
+    <steps_updated num="2">Marinate for 1 hour in the fridge. </steps_updated>
+    <steps_updated num="3">In a bowl, combine flour and potato starch, and mix well. </steps_updated>
+    <steps_updated num="4">Dredge marinated chicken in mixture, shaking off excess. </steps_updated>
+    <steps_updated num="5">Fry chicken until golden brown, then drain on a paper towel. </steps_updated>
+    <steps_updated num="6">Place into the bento box. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

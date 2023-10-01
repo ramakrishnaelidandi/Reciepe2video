@@ -1,0 +1,37 @@
+<recipe>
+  <title>Heirloom Tomato Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/heirloom-tomato-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 13757 5353 717 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">8580 2031 13278 3352 10769 </ingredient>
+    <ingredient num="3">13086 9486 13278 11039 13810 885 </ingredient>
+    <ingredient num="4">3917 14014 13278 6209 11911 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>119.5</start_time>
+    <end_time>153.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">5209 5994 12235 5097 12205 11951 717 669 10894 10187 1645 7711 9584 </step>
+    <step num="1">6695 11951 976 717 4255 5994 2773 14174 4910 5358 13 </step>
+    <step num="2">1594 1391 11951 8244 5766 13817 3352 4450 13817 1678 11951 11039 13817 2768 4255 143 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 12235 5097 12205 11951 717 669 10894 10187 1645 7711 9584 </steps_updated>
+    <steps_updated num="1">6695 11951 976 717 4255 5994 2773 14174 4910 5358 13 </steps_updated>
+    <steps_updated num="2">1594 1391 11951 8244 5766 13817 3352 4450 13817 1678 11951 11039 13817 2768 4255 143 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

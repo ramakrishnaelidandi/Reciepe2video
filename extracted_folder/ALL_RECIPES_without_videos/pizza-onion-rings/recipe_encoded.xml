@@ -1,0 +1,60 @@
+<recipe>
+  <title>Pizza Onion Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-onion-rings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 13757 6334 </ingredient>
+    <ingredient num="1">3917 7210 13278 4801 6447 1088 976 </ingredient>
+    <ingredient num="2">3917 6267 13278 10865 13810 7777 669 4530 </ingredient>
+    <ingredient num="3">3917 7051 13278 6146 7280 1148 14138 11484 5994 8297 950 2260 5895 9376 4675 </ingredient>
+    <ingredient num="4">3917 2605 13278 2431 109 14538 13278 11953 5981 </ingredient>
+    <ingredient num="5">13086 9486 13278 796 5616 </ingredient>
+    <ingredient num="6">7632 7990 11358 5291 </ingredient>
+    <ingredient num="7">13086 13278 12708 </ingredient>
+    <ingredient num="8">8580 9517 13278 12956 1230 13278 11953 5981 </ingredient>
+    <ingredient num="9">8580 9486 13278 890 </ingredient>
+    <ingredient num="10">8580 2031 13278 796 5616 </ingredient>
+    <ingredient num="11">8580 2031 13278 9496 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/38817/low_1498725942.m3u8</low>
+    <high>https://vid.tasty.co/output/38817/mp4_720x1280/1498725942</high>
+  </video>
+  <steps>
+    <step num="0">14100 6334 669 8580 1043 10187 636 10832 12775 10909 11951 10260 669 7714 13607 </step>
+    <step num="1">12474 5994 7238 10926 1391 10765 1715 7454 2696 6334 3571 13817 3345 5994 12205 371 5243 210 11951 1581 9888 11951 5243 12205 573 560 13176 11951 13935 371 11951 6334 13817 772 5994 7616 </step>
+    <step num="2">10452 210 5994 14014 371 6146 7280 8111 8177 11493 13817 5994 1678 371 3875 </step>
+    <step num="3">5570 7238 210 7668 1681 12866 12363 4817 3815 </step>
+    <step num="4">9179 6467 9917 14463 13817 12956 1230 560 2734 10909 7139 12473 9496 13817 5616 669 11951 890 </step>
+    <step num="5">6054 11579 6146 3571 6781 10933 </step>
+    <step num="6">7692 10763 3859 210 13504 6467 415 4036 415 608 </step>
+    <step num="7">10950 5994 2597 7110 7855 5766 560 7606 13362 </step>
+    <step num="8">8916 6146 6334 3571 210 10470 1681 9861 870 4255 8554 1523 6285 13086 12689 </step>
+    <step num="9">5570 4255 12 14550 4157 560 3499 3482 7115 1198 14158 6252 1391 3954 796 3875 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 6334 669 8580 1043 10187 636 10832 </steps_updated>
+    <steps_updated num="1">12775 10909 11951 10260 669 7714 13607 </steps_updated>
+    <steps_updated num="2">12474 5994 7238 10926 1391 10765 1715 7454 2696 6334 3571 13817 3345 5994 12205 371 5243 210 11951 1581 9888 11951 5243 12205 573 560 13176 11951 13935 371 11951 6334 13817 772 5994 7616 </steps_updated>
+    <steps_updated num="3">10452 210 5994 14014 371 6146 7280 8111 8177 11493 13817 5994 1678 371 3875 </steps_updated>
+    <steps_updated num="4">5570 7238 210 7668 1681 12866 12363 4817 3815 </steps_updated>
+    <steps_updated num="5">9179 6467 9917 14463 13817 12956 1230 560 2734 10909 7139 </steps_updated>
+    <steps_updated num="6">12473 9496 13817 5616 669 11951 890 </steps_updated>
+    <steps_updated num="7">6054 11579 6146 3571 6781 10933 </steps_updated>
+    <steps_updated num="8">7692 10763 3859 210 13504 6467 415 4036 415 608 </steps_updated>
+    <steps_updated num="9">10950 5994 2597 7110 7855 5766 560 7606 13362 </steps_updated>
+    <steps_updated num="10">8916 6146 6334 3571 210 10470 1681 9861 870 4255 8554 1523 6285 13086 12689 </steps_updated>
+    <steps_updated num="11">5570 4255 12 14550 4157 560 3499 3482 7115 1198 14158 </steps_updated>
+    <steps_updated num="12">6252 1391 3954 796 3875 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

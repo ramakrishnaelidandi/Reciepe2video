@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shrimp and Avocado Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shrimp-and-avocado-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; jumbo shrimp ; (455 g) </ingredient>
+    <ingredient num="1">3 ; limes </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 head ; romaine lettuce, chopped </ingredient>
+    <ingredient num="5">½ cup ; cherry tomato, or grape tomato, halved ; (100 g) </ingredient>
+    <ingredient num="6">⅓ cup ; fresh cilantro, roughly chopped ; (15 g) </ingredient>
+    <ingredient num="7">2 ; avocados, chopped </ingredient>
+    <ingredient num="8">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="9">1 tablespoon ; honey </ingredient>
+    <ingredient num="10">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="11">blue corn tortilla chips </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32282/low_1495125519.m3u8</low>
+    <high>https://vid.tasty.co/output/32282/mp4_720x1280/1495125519</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, toss shrimp with salt, pepper, and juice from one lime. </step>
+    <step num="1">Sauté shrimp around 1-2 minutes each side, until the shrimp is pink and cooked through. Avoid overcrowding the pan, so you may need to sauté the shrimp in batches. Set aside. </step>
+    <step num="2">Place chopped lettuce, tomatoes, cilantro, and avocados, in a large salad bowl. </step>
+    <step num="3">In a small bowl, mix olive oil, juice from 2 limes, honey, chili powder, salt and pepper to form the dressing. </step>
+    <step num="4">Toss salad with dressing. Add Shrimp and toss. </step>
+    <step num="5">Add tortilla chips to the sides of the bowls. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, toss shrimp with salt, pepper, and juice from one lime. </steps_updated>
+    <steps_updated num="1">Sauté shrimp around 1-2 minutes each side, until the shrimp is pink and cooked through. </steps_updated>
+    <steps_updated num="2">Avoid overcrowding the pan, so you may need to sauté the shrimp in batches. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">Place chopped lettuce, tomatoes, cilantro, and avocados, in a large salad bowl. </steps_updated>
+    <steps_updated num="5">In a small bowl, mix olive oil, juice from 2 limes, honey, chili powder, salt and pepper to form the dressing. </steps_updated>
+    <steps_updated num="6">Toss salad with dressing. </steps_updated>
+    <steps_updated num="7">Add Shrimp and toss. </steps_updated>
+    <steps_updated num="8">Add tortilla chips to the sides of the bowls. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

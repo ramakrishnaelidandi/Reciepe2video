@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pepper Pot Shrimp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pepper-pot-shrimp</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; chicken stock ; (945 mL) </ingredient>
+    <ingredient num="1">4 cups ; whole milk ; (945 mL) </ingredient>
+    <ingredient num="2">½ cup ; butter ; (115 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; salt </ingredient>
+    <ingredient num="4">2 cups ; cornmeal ; (280 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; oil </ingredient>
+    <ingredient num="6">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="8">1 ; yellow bell pepper, diced </ingredient>
+    <ingredient num="9">1 ; green bell pepper, diced </ingredient>
+    <ingredient num="10">½ ; large red onion, diced </ingredient>
+    <ingredient num="11">½ ; scotch bonnet pepper </ingredient>
+    <ingredient num="12">12 spears ; okra, chopped </ingredient>
+    <ingredient num="13">1 ; large tomato, diced </ingredient>
+    <ingredient num="14">½ cup ; chicken stock ; (120 mL) </ingredient>
+    <ingredient num="15">2 tablespoons ; jerk seasoning </ingredient>
+    <ingredient num="16">10 ; jumbo shrimps, peeled and deveined </ingredient>
+    <ingredient num="17">2 teaspoons ; salt </ingredient>
+    <ingredient num="18">1 teaspoon ; sugar </ingredient>
+    <ingredient num="19">2 bunches ; fresh italian parsley, chopped to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71951/hls24_1515536826.m3u8</low>
+    <high>https://vid.tasty.co/output/71951/landscape_720/1515536826</high>
+  </video>
+  <steps>
+    <step num="0">In a heavy pot, add the chicken stock, butter, and milk, and bring to a simmer over medium heat. Gradually add in the grits a little at a time, stirring until creamy. Remove from the heat. </step>
+    <step num="1">Add oil to a large pan over medium-high heat. </step>
+    <step num="2">Once the oil begins to shimmer, add the garlic and cook until aromatic, about 30 seconds. </step>
+    <step num="3">Add in the red bell pepper, yellow bell pepper, green bell pepper, red onion, and Scotch bonnet pepper, and cook until onions are translucent. </step>
+    <step num="4">Add in the okra and cook for 1 minute. </step>
+    <step num="5">Add in the diced tomatoes and juices, jerk spice, and chicken stock, and simmer on low heat for 10 minutes. </step>
+    <step num="6">Season the stew with salt and sugar. </step>
+    <step num="7">Place shrimp on top of the okra stew. After two minutes, flip the shrimp and cook for 1-2 minutes, until cooked through. Sprinkle the stew with chopped parsley. </step>
+    <step num="8">Serve the shrimp stew over the grits. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a heavy pot, add the chicken stock, butter, and milk, and bring to a simmer over medium heat. </steps_updated>
+    <steps_updated num="1">Gradually add in the grits a little at a time, stirring until creamy. </steps_updated>
+    <steps_updated num="2">Remove from the heat. </steps_updated>
+    <steps_updated num="3">Add oil to a large pan over medium-high heat. </steps_updated>
+    <steps_updated num="4">Once the oil begins to shimmer, add the garlic and cook until aromatic, about 30 seconds. </steps_updated>
+    <steps_updated num="5">Add in the red bell pepper, yellow bell pepper, green bell pepper, red onion, and Scotch bonnet pepper, and cook until onions are translucent. </steps_updated>
+    <steps_updated num="6">Add in the okra and cook for 1 minute. </steps_updated>
+    <steps_updated num="7">Add in the diced tomatoes and juices, jerk spice, and chicken stock, and simmer on low heat for 10 minutes. </steps_updated>
+    <steps_updated num="8">Season the stew with salt and sugar. </steps_updated>
+    <steps_updated num="9">Place shrimp on top of the okra stew. </steps_updated>
+    <steps_updated num="10">After two minutes, flip the shrimp and cook for 1-2 minutes, until cooked through. </steps_updated>
+    <steps_updated num="11">Sprinkle the stew with chopped parsley. </steps_updated>
+    <steps_updated num="12">Serve the shrimp stew over the grits. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

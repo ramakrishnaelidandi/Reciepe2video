@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Indian-Style Mango Lassi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/indian-style-mango-lassi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; ripe mangoes </ingredient>
+    <ingredient num="1">2 cups ; natural yogurt ; (500 g) </ingredient>
+    <ingredient num="2">20 ; ice cubes </ingredient>
+    <ingredient num="3">½ cup ; milk ; (100 mL) </ingredient>
+    <ingredient num="4">½ cup ; water ; (100 mL) </ingredient>
+    <ingredient num="5">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="6">1 teaspoon ; ground cardamom </ingredient>
+    <ingredient num="7">1 pinch ; saffron, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41892/low_1498850612.m3u8</low>
+    <high>https://vid.tasty.co/output/41892/mp4_720x1280/1498850612</high>
+  </video>
+  <steps>
+    <step num="0">Remove the skin and cores of the mangoes and add the flesh to a blender. </step>
+    <step num="1">Add in all the ingredients apart from saffron. Blend till smooth. </step>
+    <step num="2">Serve with a pinch of saffron. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the skin and cores of the mangoes and add the flesh to a blender. </steps_updated>
+    <steps_updated num="1">Add in all the ingredients apart from saffron. </steps_updated>
+    <steps_updated num="2">Blend till smooth. </steps_updated>
+    <steps_updated num="3">Serve with a pinch of saffron. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Parmesan Cheese Crisps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/parmesan-cheese-crisps</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">100 ; 1 cup ; shredded parmesan cheese </ingredient>
+    <ingredient num="1">1 teaspoon ; dried basil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82158/hls24_1520020061.m3u8</low>
+    <high>https://vid.tasty.co/output/82158/landscape_720/1520020061</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Place the Parmesan cheese by the tablespoonful in small piles on the baking sheet. Flatten the piles out evenly and sprinkle dried basil over the cheese. </step>
+    <step num="2">Bake for 5-7 minutes, or until golden brown and the edges start to crisp up. </step>
+    <step num="3">0.33g total carbs
+0.3g dietary fiber
+0.30g net carbs per serving (12 crisps) </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Place the Parmesan cheese by the tablespoonful in small piles on the baking sheet. </steps_updated>
+    <steps_updated num="3">Flatten the piles out evenly and sprinkle dried basil over the cheese. </steps_updated>
+    <steps_updated num="4">Bake for 5-7 minutes, or until golden brown and the edges start to crisp up. </steps_updated>
+    <steps_updated num="5">0.33g total carbs
+0.3g dietary fiber
+0.30g net carbs per serving (12 crisps) </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

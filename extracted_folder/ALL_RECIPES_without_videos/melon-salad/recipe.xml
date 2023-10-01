@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Melon Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/melon-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; small seedless watermelon </ingredient>
+    <ingredient num="1">½ ; small cantaloupe </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">½ cup ; greek yogurt ; (140 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="5">1 tablespoon ; water </ingredient>
+    <ingredient num="6">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="7">fresh mint leaf, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>151.5</start_time>
+    <end_time>185.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Using a melon baller or a teaspoon, scoop out rounds of watermelon and cantaloupe and place in a large bowl. Season with a pinch of salt. </step>
+    <step num="1">In a liquid measuring cup or small bowl, combine the Greek yogurt, olive oil, water, and lemon juice. Stir until smooth. </step>
+    <step num="2">Serve the melon in bowls and top with the dressing and fresh mint leaves. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a melon baller or a teaspoon, scoop out rounds of watermelon and cantaloupe and place in a large bowl. </steps_updated>
+    <steps_updated num="1">Season with a pinch of salt. </steps_updated>
+    <steps_updated num="2">In a liquid measuring cup or small bowl, combine the Greek yogurt, olive oil, water, and lemon juice. </steps_updated>
+    <steps_updated num="3">Stir until smooth. </steps_updated>
+    <steps_updated num="4">Serve the melon in bowls and top with the dressing and fresh mint leaves. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

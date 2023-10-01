@@ -1,0 +1,46 @@
+<recipe>
+  <title>Smashed Cucumber Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smashed-cucumber-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 13757 13294 1387 </ingredient>
+    <ingredient num="1">3917 14014 13278 8083 12384 10015 </ingredient>
+    <ingredient num="2">1580 8071 13278 3855 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 4834 </ingredient>
+    <ingredient num="4">3917 8071 13278 11691 2260 </ingredient>
+    <ingredient num="5">3917 8071 13278 7706 10769 </ingredient>
+    <ingredient num="6">1580 8071 13278 9110 5766 </ingredient>
+    <ingredient num="7">3917 14014 13278 488 9110 1245 </ingredient>
+    <ingredient num="8">8083 7845 8635 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>4.5</start_time>
+    <end_time>56.983</end_time>
+  </duration>
+  <steps>
+    <step num="0">5209 5994 3061 10150 5895 11526 2040 13663 11951 6367 415 12205 669 12286 13009 13817 10231 560 5994 2597 7616 </step>
+    <step num="1">9179 11951 8083 12384 12610 13817 6145 13817 1686 560 1011 </step>
+    <step num="2">10950 5994 2192 14511 4120 11951 11691 7280 7706 4450 13817 9110 14158 </step>
+    <step num="3">1594 11951 11708 11770 11951 6367 415 1686 560 515 </step>
+    <step num="4">13688 1391 488 9110 1245 13817 8083 7845 13342 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 3061 10150 5895 11526 2040 13663 11951 6367 415 12205 669 12286 13009 13817 10231 560 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">9179 11951 8083 12384 12610 13817 6145 13817 1686 560 1011 </steps_updated>
+    <steps_updated num="2">10950 5994 2192 14511 4120 11951 11691 7280 7706 4450 13817 9110 14158 </steps_updated>
+    <steps_updated num="3">1594 11951 11708 11770 11951 6367 415 1686 560 515 </steps_updated>
+    <steps_updated num="4">13688 1391 488 9110 1245 13817 8083 7845 13342 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

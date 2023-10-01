@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mixed Berry Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mixed-berry-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sangria-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; blackberry ; (150 g) </ingredient>
+    <ingredient num="1">1 cup ; strawberry, slicked ; (150 g) </ingredient>
+    <ingredient num="2">1 cup ; blueberry ; (100 g) </ingredient>
+    <ingredient num="3">1 bottle ; red wine </ingredient>
+    <ingredient num="4">1 cup ; brandy ; (240 mL) </ingredient>
+    <ingredient num="5">3 cups ; apple juice ; (720 mL) </ingredient>
+    <ingredient num="6">2 cups ; lemon-lime soda ; (480 mL) </ingredient>
+    <ingredient num="7">strawberry, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28206/low_1491005895.m3u8</low>
+    <high>https://vid.tasty.co/output/28206/mp4_720x1280/1491005895</high>
+  </video>
+  <duration>
+    <start_time>22.0</start_time>
+    <end_time>45.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pitcher, combine the blackberries, strawberries, blueberries, red wine, brandy, and apple juice. </step>
+    <step num="1">Stir until mixed. </step>
+    <step num="2">Chill for at least 4 hours. </step>
+    <step num="3">Add the lemon-lime soda, then serve with a strawberry on each glass. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pitcher, combine the blackberries, strawberries, blueberries, red wine, brandy, and apple juice. </steps_updated>
+    <steps_updated num="1">Stir until mixed. </steps_updated>
+    <steps_updated num="2">Chill for at least 4 hours. </steps_updated>
+    <steps_updated num="3">Add the lemon-lime soda, then serve with a strawberry on each glass. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00714</start_time>
+    <end_time>01385</end_time>
+  </duration_human>
+</recipe>

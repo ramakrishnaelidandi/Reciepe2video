@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 block ; low-moisture mozzarella, small block </ingredient>
+    <ingredient num="1">12 slices ; pepperoni </ingredient>
+    <ingredient num="2">3 ½ cups ; hash brown ; (455 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; italian seasoning </ingredient>
+    <ingredient num="4">1 tablespoon ; salt </ingredient>
+    <ingredient num="5">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="6">1 ; egg, beaten </ingredient>
+    <ingredient num="7">oil, for frying </ingredient>
+    <ingredient num="8">marinara sauce, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31924/low_1495124920.m3u8</low>
+    <high>https://vid.tasty.co/output/31924/mp4_720x1280/1495124920</high>
+  </video>
+  <steps>
+    <step num="0">Cut block of mozzarella into small cubes, about a ½ inch (1½ cm). </step>
+    <step num="1">Cut pepperoni in half. </step>
+    <step num="2">In a mixing bowl, combine hash browns, Italian seasoning, salt, garlic powder, and egg. Mix well. </step>
+    <step num="3">Grab a small handful of the hash brown mixture and flatten out in the palm of your hand. </step>
+    <step num="4">Place 1 or 2 slices of pepperoni and a cube of cheese on top. </step>
+    <step num="5">Fold the hash brown mixture around the cheese and pepperoni. Squeeze and compress until the mixture completely covers the filling and stays in a cylindrical form. Repeat until all of the mixture is used. </step>
+    <step num="6">Freeze tots for 20+ minutes. </step>
+    <step num="7">In a large saucepan, heat oil to 350˚F (180˚C). Fry tots in batches, three at a time, until golden brown. Drain on paper towel. </step>
+    <step num="8">Serve immediately with marinara sauce. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut block of mozzarella into small cubes, about a ½ inch (1½ cm). </steps_updated>
+    <steps_updated num="1">Cut pepperoni in half. </steps_updated>
+    <steps_updated num="2">In a mixing bowl, combine hash browns, Italian seasoning, salt, garlic powder, and egg. </steps_updated>
+    <steps_updated num="3">Mix well. </steps_updated>
+    <steps_updated num="4">Grab a small handful of the hash brown mixture and flatten out in the palm of your hand. </steps_updated>
+    <steps_updated num="5">Place 1 or 2 slices of pepperoni and a cube of cheese on top. </steps_updated>
+    <steps_updated num="6">Fold the hash brown mixture around the cheese and pepperoni. </steps_updated>
+    <steps_updated num="7">Squeeze and compress until the mixture completely covers the filling and stays in a cylindrical form. </steps_updated>
+    <steps_updated num="8">Repeat until all of the mixture is used. </steps_updated>
+    <steps_updated num="9">Freeze tots for 20+ minutes. </steps_updated>
+    <steps_updated num="10">In a large saucepan, heat oil to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="11">Fry tots in batches, three at a time, until golden brown. </steps_updated>
+    <steps_updated num="12">Drain on paper towel. </steps_updated>
+    <steps_updated num="13">Serve immediately with marinara sauce. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

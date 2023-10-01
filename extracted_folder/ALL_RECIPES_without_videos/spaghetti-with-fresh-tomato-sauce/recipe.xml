@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spaghetti With Fresh Tomato Sauce Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-with-fresh-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-pasta-dishes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; spaghetti ; (455 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">2 cups ; cherry tomato ; (400 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">1 cup ; white wine ; (235 mL) </ingredient>
+    <ingredient num="7">1 cup ; parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="8">½ cup ; fresh basil, chopped ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21045/low_1484761758.m3u8</low>
+    <high>https://vid.tasty.co/output/21045/mp4_720x1280/1484761758</high>
+  </video>
+  <duration>
+    <start_time>157.0</start_time>
+    <end_time>206.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cook spaghetti in boiling salted water until it’s al dente. Reserve 1 cup (235 ml) of the pasta water before draining. </step>
+    <step num="1">While the spaghetti is cooking, heat olive oil in a large pan (it should be large enough to toss the pasta in). Add garlic and tomatoes, and stir until well-incorporated. Season with salt and pepper. </step>
+    <step num="2">Cook tomatoes down for 5 minutes until they soften and release some of their juices. </step>
+    <step num="3">Then add the wine and allow that to reduce for 5-10 minutes until you’re left with a syrupy sauce. </step>
+    <step num="4">Add the pasta to your sauce, along with a splash of pasta water and toss to coat it for about 1-2 minutes so the pasta finishes cooking and absorbs the flavor of the sauce. </step>
+    <step num="5">Add the parmesan and basil. Add another small splash of pasta water, if needed. Toss until the cheese is melted down and you’re left with a smooth sauce. </step>
+    <step num="6">Gradually add small amounts of pasta water, as needed, until the sauce reaches your desired smoothness. </step>
+    <step num="7">Top off with extra parmesan and basil and serve immediately. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook spaghetti in boiling salted water until it’s al dente. </steps_updated>
+    <steps_updated num="1">Reserve 1 cup (235 ml) of the pasta water before draining. </steps_updated>
+    <steps_updated num="2">While the spaghetti is cooking, heat olive oil in a large pan (it should be large enough to toss the pasta in). </steps_updated>
+    <steps_updated num="3">Add garlic and tomatoes, and stir until well-incorporated. </steps_updated>
+    <steps_updated num="4">Season with salt and pepper. </steps_updated>
+    <steps_updated num="5">Cook tomatoes down for 5 minutes until they soften and release some of their juices. </steps_updated>
+    <steps_updated num="6">Then add the wine and allow that to reduce for 5-10 minutes until you’re left with a syrupy sauce. </steps_updated>
+    <steps_updated num="7">Add the pasta to your sauce, along with a splash of pasta water and toss to coat it for about 1-2 minutes so the pasta finishes cooking and absorbs the flavor of the sauce. </steps_updated>
+    <steps_updated num="8">Add the parmesan and basil. </steps_updated>
+    <steps_updated num="9">Add another small splash of pasta water, if needed. </steps_updated>
+    <steps_updated num="10">Toss until the cheese is melted down and you’re left with a smooth sauce. </steps_updated>
+    <steps_updated num="11">Gradually add small amounts of pasta water, as needed, until the sauce reaches your desired smoothness. </steps_updated>
+    <steps_updated num="12">Top off with extra parmesan and basil and serve immediately. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

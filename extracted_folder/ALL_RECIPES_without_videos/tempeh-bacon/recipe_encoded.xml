@@ -1,0 +1,49 @@
+<recipe>
+  <title>Tempeh Bacon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tempeh-bacon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-bacon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 643 13278 4539 2532 5994 3756 13278 6518 5981 </ingredient>
+    <ingredient num="1">8244 7632 560 11567 </ingredient>
+    <ingredient num="2">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="3">3917 14014 13278 9171 6818 </ingredient>
+    <ingredient num="4">1580 8071 13278 881 7459 2517 </ingredient>
+    <ingredient num="5">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">13584 10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56942/low_1508350261.m3u8</low>
+    <high>https://vid.tasty.co/output/56942/mp4_720x1280/1508350261</high>
+  </video>
+  <duration>
+    <start_time>47.55</start_time>
+    <end_time>89.93</end_time>
+  </duration>
+  <steps>
+    <step num="0">12474 5994 4669 8667 7777 3912 7579 1745 51 7711 10832 </step>
+    <step num="1">9179 8244 5766 560 5994 5687 11770 13757 7855 13817 740 11951 1411 264 7990 2933 8927 4255 10763 11801 1681 1368 13817 2111 </step>
+    <step num="2">9179 3917 14014 371 12282 560 11951 5687 13817 12224 </step>
+    <step num="3">9179 11691 7280 9171 1285 881 7459 11384 8117 13817 13584 10986 13817 6142 1681 3912 9490 3584 229 </step>
+    <step num="4">1828 1368 7990 6865 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 7777 3912 7579 1745 51 7711 10832 </steps_updated>
+    <steps_updated num="1">9179 8244 5766 560 5994 5687 11770 13757 7855 13817 740 11951 1411 </steps_updated>
+    <steps_updated num="2">264 7990 2933 8927 4255 10763 11801 1681 1368 13817 2111 </steps_updated>
+    <steps_updated num="3">9179 3917 14014 371 12282 560 11951 5687 13817 12224 </steps_updated>
+    <steps_updated num="4">9179 11691 7280 9171 1285 881 7459 11384 8117 13817 13584 10986 13817 6142 1681 3912 9490 3584 229 </steps_updated>
+    <steps_updated num="5">1828 1368 7990 6865 12689 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

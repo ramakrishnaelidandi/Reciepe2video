@@ -1,0 +1,57 @@
+<recipe>
+  <title>Loaded Breakfast Egg Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/epic-egg-breakfast-roll</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11598 13278 12708 </ingredient>
+    <ingredient num="1">1580 2605 13278 3305 5802 13278 2935 8007 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="4">8580 9517 13278 13220 13278 12158 5981 </ingredient>
+    <ingredient num="5">5527 8535 13278 10865 14538 </ingredient>
+    <ingredient num="6">8268 8535 13278 11986 12868 </ingredient>
+    <ingredient num="7">11598 9259 13278 8932 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80218/hls24_1519234621.m3u8</low>
+    <high>https://vid.tasty.co/output/80218/landscape_720/1519234621</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">10950 5994 14511 8341 11951 14463 9889 12610 13817 7845 1681 12119 </step>
+    <step num="2">1083 11951 4428 669 2362 10765 213 </step>
+    <step num="3">7831 7990 5527 12689 </step>
+    <step num="4">5570 5994 11826 371 13220 4255 10707 371 6216 213 1681 13709 9304 8580 4735 103 1645 9560 7811 11951 143 </step>
+    <step num="5">5570 5994 11826 371 10865 4255 11951 13220 1681 13709 9304 3917 2985 8891 1645 9560 7811 11951 13545 </step>
+    <step num="6">5570 5994 11826 371 12868 4255 10707 371 10865 1681 13709 9304 3917 2985 8891 1645 9560 7811 11951 13545 </step>
+    <step num="7">5570 5994 11826 371 8932 4255 10707 371 12868 1681 13709 9304 3917 2985 8891 1645 9560 7811 11951 13545 </step>
+    <step num="8">11982 4536 11951 6216 4536 8857 </step>
+    <step num="9">5570 11951 6616 4536 1802 3550 12 13817 4536 1681 7568 9214 </step>
+    <step num="10">7831 7990 13767 12689 </step>
+    <step num="11">6054 11951 3550 8831 </step>
+    <step num="12">3235 11951 6616 4536 13817 1966 10316 </step>
+    <step num="13">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">10950 5994 14511 8341 11951 14463 9889 12610 13817 7845 1681 12119 </steps_updated>
+    <steps_updated num="2">1083 11951 4428 669 2362 10765 213 </steps_updated>
+    <steps_updated num="3">7831 7990 5527 12689 </steps_updated>
+    <steps_updated num="4">5570 5994 11826 371 13220 4255 10707 371 6216 213 1681 13709 9304 8580 4735 103 1645 9560 7811 11951 143 </steps_updated>
+    <steps_updated num="5">5570 5994 11826 371 10865 4255 11951 13220 1681 13709 9304 3917 2985 8891 1645 9560 7811 11951 13545 </steps_updated>
+    <steps_updated num="6">5570 5994 11826 371 12868 4255 10707 371 10865 1681 13709 9304 3917 2985 8891 1645 9560 7811 11951 13545 </steps_updated>
+    <steps_updated num="7">5570 5994 11826 371 8932 4255 10707 371 12868 1681 13709 9304 3917 2985 8891 1645 9560 7811 11951 13545 </steps_updated>
+    <steps_updated num="8">11982 4536 11951 6216 4536 8857 </steps_updated>
+    <steps_updated num="9">5570 11951 6616 4536 1802 3550 12 13817 4536 1681 7568 9214 </steps_updated>
+    <steps_updated num="10">7831 7990 13767 12689 </steps_updated>
+    <steps_updated num="11">6054 11951 3550 8831 </steps_updated>
+    <steps_updated num="12">3235 11951 6616 4536 13817 1966 10316 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

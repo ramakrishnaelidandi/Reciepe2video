@@ -1,0 +1,51 @@
+<recipe>
+  <title>Spiced Rice Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spiced-rice-pudding</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/leftover-rice-6-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 11948 3745 13278 7689 5981 </ingredient>
+    <ingredient num="1">13086 9517 13278 9889 3247 13278 4492 8007 </ingredient>
+    <ingredient num="2">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">3917 13278 6216 </ingredient>
+    <ingredient num="5">12791 8071 13278 12159 </ingredient>
+    <ingredient num="6">12791 8071 13278 11088 12425 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/64788/hls24_1511995151.m3u8</low>
+    <high>https://vid.tasty.co/output/64788/landscape_720/1511995151</high>
+  </video>
+  <duration>
+    <start_time>312.7</start_time>
+    <end_time>351.41</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 2260 13799 4120 11951 11948 8580 9517 6901 9443 371 9889 6145 13817 5994 2157 371 12051 8785 560 5994 7303 11779 11770 13757 2082 264 7990 13133 11004 5895 1681 7711 13817 13764 </step>
+    <step num="1">10950 5994 2192 14511 4120 374 5802 13817 11951 13784 283 3631 </step>
+    <step num="2">9179 11951 6216 2373 560 11951 10083 371 8860 12473 3145 13817 2550 7990 13086 12689 </step>
+    <step num="3">9179 11951 12159 13817 4654 13817 10968 3631 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 2260 13799 4120 11951 11948 8580 9517 6901 9443 371 9889 6145 13817 5994 2157 371 12051 </steps_updated>
+    <steps_updated num="1">8785 560 5994 7303 11779 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">264 7990 13133 11004 5895 1681 7711 13817 13764 </steps_updated>
+    <steps_updated num="3">10950 5994 2192 14511 4120 374 5802 13817 11951 13784 </steps_updated>
+    <steps_updated num="4">283 3631 </steps_updated>
+    <steps_updated num="5">9179 11951 6216 2373 560 11951 10083 371 8860 </steps_updated>
+    <steps_updated num="6">12473 3145 13817 2550 7990 13086 12689 </steps_updated>
+    <steps_updated num="7">9179 11951 12159 13817 4654 13817 10968 3631 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>07544</start_time>
+    <end_time>08440</end_time>
+  </duration_human>
+</recipe>

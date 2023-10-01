@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Nori Cheese Tamagoyaki Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nori-cheese-tamagoyaki</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; eggs </ingredient>
+    <ingredient num="1">1 splash ; mirin </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+    <ingredient num="3">2 sheets ; nori </ingredient>
+    <ingredient num="4">2 sheets ; cheese </ingredient>
+    <ingredient num="5">mayonnaise, as needed </ingredient>
+    <ingredient num="6">tobiko, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>17.333</start_time>
+    <end_time>59.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix eggs, mirin and salt well. </step>
+    <step num="1">Heat a Tamagoyaki pan at low heat. Brush a thin layer of oil on the pan. Wipe off excess with a paper towel. </step>
+    <step num="2">Pour ¼ of egg mixture into pan and quickly swirl to cover the entire pan. </step>
+    <step num="3">When the egg is set, put a sheet of nori and cheese on top. Roll the egg. </step>
+    <step num="4">Pour in ¼ of the egg mixture, lift up the cooked egg roll and let the mixture to flow under it. When the egg is set, roll the omelette toward you. Repeat this procedure one more time. </step>
+    <step num="5">Cut the omelette into bite sized pieces, garnish with mayonnaise and tobiko. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix eggs, mirin and salt well. </steps_updated>
+    <steps_updated num="1">Heat a Tamagoyaki pan at low heat. </steps_updated>
+    <steps_updated num="2">Brush a thin layer of oil on the pan. </steps_updated>
+    <steps_updated num="3">Wipe off excess with a paper towel. </steps_updated>
+    <steps_updated num="4">Pour ¼ of egg mixture into pan and quickly swirl to cover the entire pan. </steps_updated>
+    <steps_updated num="5">When the egg is set, put a sheet of nori and cheese on top. </steps_updated>
+    <steps_updated num="6">Roll the egg. </steps_updated>
+    <steps_updated num="7">Pour in ¼ of the egg mixture, lift up the cooked egg roll and let the mixture to flow under it. </steps_updated>
+    <steps_updated num="8">When the egg is set, roll the omelette toward you. </steps_updated>
+    <steps_updated num="9">Repeat this procedure one more time. </steps_updated>
+    <steps_updated num="10">Cut the omelette into bite sized pieces, garnish with mayonnaise and tobiko. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

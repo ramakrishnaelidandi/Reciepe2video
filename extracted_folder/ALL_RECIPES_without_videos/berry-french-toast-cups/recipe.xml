@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Berry French Toast Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/berry-french-toast-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; eggs </ingredient>
+    <ingredient num="1">1 cup ; almond milk ; (235 mL) </ingredient>
+    <ingredient num="2">1 tablespoon ; vanilla </ingredient>
+    <ingredient num="3">2 teaspoons ; cinnamon </ingredient>
+    <ingredient num="4">12 slices ; whole grain bread </ingredient>
+    <ingredient num="5">½ cup ; strawberry, quartered ; (75 g) </ingredient>
+    <ingredient num="6">½ cup ; blueberry ; (50 g) </ingredient>
+    <ingredient num="7">½ cup ; raspberry, halved ; (65 g) </ingredient>
+    <ingredient num="8">½ cup ; blackberry, halved ; (70 g) </ingredient>
+    <ingredient num="9">2 cups ; plain greek yogurt ; (570 g) </ingredient>
+    <ingredient num="10">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="11">½ teaspoon ; cinnamon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25108/low_1488322534.m3u8</low>
+    <high>https://vid.tasty.co/output/25108/mp4_720x1280/1488322534</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Combine eggs, milk, vanilla, and cinnamon in a large bowl. </step>
+    <step num="2">Dip bread slices into egg mixture and gently press into muffin tin coated with cooking spray. </step>
+    <step num="3">Bake for 20-25 minutes or until golden brown. </step>
+    <step num="4">Prepare filling and fruit slices while cups bake. </step>
+    <step num="5">Fill up the slices with the filling and fruit. </step>
+    <step num="6">Serve with a drizzle of maple syrup. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Combine eggs, milk, vanilla, and cinnamon in a large bowl. </steps_updated>
+    <steps_updated num="2">Dip bread slices into egg mixture and gently press into muffin tin coated with cooking spray. </steps_updated>
+    <steps_updated num="3">Bake for 20-25 minutes or until golden brown. </steps_updated>
+    <steps_updated num="4">Prepare filling and fruit slices while cups bake. </steps_updated>
+    <steps_updated num="5">Fill up the slices with the filling and fruit. </steps_updated>
+    <steps_updated num="6">Serve with a drizzle of maple syrup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

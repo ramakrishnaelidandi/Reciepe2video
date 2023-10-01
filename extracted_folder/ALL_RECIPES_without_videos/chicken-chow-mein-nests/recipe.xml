@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Chow Mein Nests Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-chow-mein-nests</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 teaspoon ; grated ginger </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">3 tablespoons ; ketchup </ingredient>
+    <ingredient num="3">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="4">2 tablespoons ; oyster sauce </ingredient>
+    <ingredient num="5">2 ; chicken breasts, diced </ingredient>
+    <ingredient num="6">1 ; red bell pepper, chopped </ingredient>
+    <ingredient num="7">½ cup ; spring onion, chopped ; (50 g) </ingredient>
+    <ingredient num="8">2 ½ cups ; bean sprout ; (250 g) </ingredient>
+    <ingredient num="9">1 pack ; fresh egg noodle </ingredient>
+    <ingredient num="10">muffin tin </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32194/low_1495125435.m3u8</low>
+    <high>https://vid.tasty.co/output/32194/mp4_720x1280/1495125435</high>
+  </video>
+  <steps>
+    <step num="0">To make the sauce, mix the grated ginger, garlic, ketchup, soy sauce and oyster sauce in a small bowl until combined. Set aside </step>
+    <step num="1">Fry the chicken until cooked through. </step>
+    <step num="2">Add the red pepper and spring onion and fry for 2 minutes. </step>
+    <step num="3">Add the beansprouts and fry for a further 3-4 minutes. </step>
+    <step num="4">Add the sauce and fry for another minute or two. </step>
+    <step num="5">Add noodles to each hole of the muffin tin and pat down to make a small indent. </step>
+    <step num="6">Bake for 15 minutes at 180°C (350°F). </step>
+    <step num="7">Remove nests from muffin tin. </step>
+    <step num="8">Spoon the chow mien onto the baked noodles. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To make the sauce, mix the grated ginger, garlic, ketchup, soy sauce and oyster sauce in a small bowl until combined. </steps_updated>
+    <steps_updated num="1">Set aside </steps_updated>
+    <steps_updated num="2">Fry the chicken until cooked through. </steps_updated>
+    <steps_updated num="3">Add the red pepper and spring onion and fry for 2 minutes. </steps_updated>
+    <steps_updated num="4">Add the beansprouts and fry for a further 3-4 minutes. </steps_updated>
+    <steps_updated num="5">Add the sauce and fry for another minute or two. </steps_updated>
+    <steps_updated num="6">Add noodles to each hole of the muffin tin and pat down to make a small indent. </steps_updated>
+    <steps_updated num="7">Bake for 15 minutes at 180°C (350°F). </steps_updated>
+    <steps_updated num="8">Remove nests from muffin tin. </steps_updated>
+    <steps_updated num="9">Spoon the chow mien onto the baked noodles. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,33 @@
+<recipe>
+  <title>Simple Mustard Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-mustard-dressing</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 5920 4529 </ingredient>
+    <ingredient num="1">3917 14014 13278 4617 10769 </ingredient>
+    <ingredient num="2">1580 2605 13278 8244 5766 13278 2935 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>48.0</start_time>
+    <end_time>59.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 4617 10769 13817 8244 5766 7567 560 6422 5128 510 13817 1401 </step>
+    <step num="1">1594 11770 4803 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 4617 10769 13817 8244 5766 7567 560 6422 5128 510 13817 1401 </steps_updated>
+    <steps_updated num="1">1594 11770 4803 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+</recipe>

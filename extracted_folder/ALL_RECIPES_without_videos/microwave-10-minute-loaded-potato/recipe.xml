@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Microwave 10-minute Loaded Potato Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwave-10-minute-loaded-potato</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-dorm-friendly-microwave-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; russet potato, washed and scrubbed </ingredient>
+    <ingredient num="1">1 tablespoon ; oil </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">2 slices ; bacon </ingredient>
+    <ingredient num="4">¼ cup ; shredded cheddar cheese ; (25 g) </ingredient>
+    <ingredient num="5">sour cream, to serve </ingredient>
+    <ingredient num="6">fresh chives, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/52822/low_1505933071.m3u8</low>
+    <high>https://vid.tasty.co/output/52822/mp4_720x1280/1505933071</high>
+  </video>
+  <duration>
+    <start_time>95.35</start_time>
+    <end_time>140.69</end_time>
+  </duration>
+  <steps>
+    <step num="0">Poke holes in the potato with a fork, then rub with oil and salt. </step>
+    <step num="1">Place the bacon slices on the same plate as the potato, microwave for 7-9 minutes until the bacon is crispy and the potato is tender. Make sure the bacon does not burn. </step>
+    <step num="2">Crumble the bacon after it’s cooled down. </step>
+    <step num="3">Slice the potato in half, then use a fork to fluff up the insides. </step>
+    <step num="4">Sprinkle the cheese on top, then microwave for another 30 seconds. </step>
+    <step num="5">Top with sour cream, the crushed bacon bits, and the chives. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Poke holes in the potato with a fork, then rub with oil and salt. </steps_updated>
+    <steps_updated num="1">Place the bacon slices on the same plate as the potato, microwave for 7-9 minutes until the bacon is crispy and the potato is tender. </steps_updated>
+    <steps_updated num="2">Make sure the bacon does not burn. </steps_updated>
+    <steps_updated num="3">Crumble the bacon after it’s cooled down. </steps_updated>
+    <steps_updated num="4">Slice the potato in half, then use a fork to fluff up the insides. </steps_updated>
+    <steps_updated num="5">Sprinkle the cheese on top, then microwave for another 30 seconds. </steps_updated>
+    <steps_updated num="6">Top with sour cream, the crushed bacon bits, and the chives. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02919</start_time>
+    <end_time>04233</end_time>
+  </duration_human>
+</recipe>

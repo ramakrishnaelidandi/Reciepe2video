@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Orange Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-orange-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; boneless, skinless chicken breasts, cubed </ingredient>
+    <ingredient num="1">¼ cup ; soy sauce ; (60 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; orange juice </ingredient>
+    <ingredient num="3">¼ cup ; cornstarch ; (30 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; oil </ingredient>
+    <ingredient num="5">¾ cup ; orange juice ; (180 mL) </ingredient>
+    <ingredient num="6">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="7">1 tablespoon ; hoisin sauce </ingredient>
+    <ingredient num="8">1 tablespoon ; rice vinegar </ingredient>
+    <ingredient num="9">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="10">1 tablespoon ; cornstarch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34952/low_1498504563.m3u8</low>
+    <high>https://vid.tasty.co/output/34952/mp4_720x1280/1498504563</high>
+  </video>
+  <steps>
+    <step num="0">Slice chicken breast into cubes. </step>
+    <step num="1">In a bowl, combine marinade ingredients. Add chicken and stir to coat. </step>
+    <step num="2">Let marinate at least 1 hour. </step>
+    <step num="3">In a pan, heat oil on medium-high heat. Remove chicken from marinade with a slotted spoon, and cook all sides until golden brown, about 5 minutes. </step>
+    <step num="4">Add sauce ingredients to pan and bring to a boil, mixing continuously, until mixture thickens, about 5 minutes. </step>
+    <step num="5">Serve over rice if desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice chicken breast into cubes. </steps_updated>
+    <steps_updated num="1">In a bowl, combine marinade ingredients. </steps_updated>
+    <steps_updated num="2">Add chicken and stir to coat. </steps_updated>
+    <steps_updated num="3">Let marinate at least 1 hour. </steps_updated>
+    <steps_updated num="4">In a pan, heat oil on medium-high heat. </steps_updated>
+    <steps_updated num="5">Remove chicken from marinade with a slotted spoon, and cook all sides until golden brown, about 5 minutes. </steps_updated>
+    <steps_updated num="6">Add sauce ingredients to pan and bring to a boil, mixing continuously, until mixture thickens, about 5 minutes. </steps_updated>
+    <steps_updated num="7">Serve over rice if desired. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

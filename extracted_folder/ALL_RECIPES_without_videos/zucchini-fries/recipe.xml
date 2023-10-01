@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zucchini Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-fries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-fries-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; zucchinis </ingredient>
+    <ingredient num="1">1 cup ; panko breadcrumbs ; (50 g) </ingredient>
+    <ingredient num="2">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 tablespoon ; dried basil </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">2 ; eggs </ingredient>
+    <ingredient num="8">1 cup ; plain greek yogurt ; (285 g) </ingredient>
+    <ingredient num="9">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="10">2 tablespoons ; fresh chives </ingredient>
+    <ingredient num="11">¼ teaspoon ; salt </ingredient>
+    <ingredient num="12">¼ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17783/low_1481738771.m3u8</low>
+    <high>https://vid.tasty.co/output/17783/mp4_720x1280/1481738771</high>
+  </video>
+  <duration>
+    <start_time>33.0</start_time>
+    <end_time>55.116</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">Cut zucchini into fries and set aside. </step>
+    <step num="2">In a large bowl combine panko, parmesan, garlic powder, basil, salt, and pepper. </step>
+    <step num="3">Whisk eggs in a shallow bowl or dish. </step>
+    <step num="4">Dip zucchini in eggs, coating evenly, and then toss in bread crumb mixture. </step>
+    <step num="5">Place on a baking sheet lined with parchment paper. Bake for 15-20 minutes, flipping halfway. </step>
+    <step num="6">Prepare dip while fries are baking. Combine all dip ingredients in a small bowl and set aside in the refrigerator until ready to use. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Cut zucchini into fries and set aside. </steps_updated>
+    <steps_updated num="2">In a large bowl combine panko, parmesan, garlic powder, basil, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Whisk eggs in a shallow bowl or dish. </steps_updated>
+    <steps_updated num="4">Dip zucchini in eggs, coating evenly, and then toss in bread crumb mixture. </steps_updated>
+    <steps_updated num="5">Place on a baking sheet lined with parchment paper. </steps_updated>
+    <steps_updated num="6">Bake for 15-20 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="7">Prepare dip while fries are baking. </steps_updated>
+    <steps_updated num="8">Combine all dip ingredients in a small bowl and set aside in the refrigerator until ready to use. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01041</start_time>
+    <end_time>01811</end_time>
+  </duration_human>
+</recipe>

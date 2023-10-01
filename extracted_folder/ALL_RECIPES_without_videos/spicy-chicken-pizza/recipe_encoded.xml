@@ -1,0 +1,49 @@
+<recipe>
+  <title>Spicy Chicken Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-chicken-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9883 2605 13278 6146 2260 13278 10475 8007 </ingredient>
+    <ingredient num="1">3917 1580 9486 13278 9074 14272 111 1217 7789 3954 7990 4189 </ingredient>
+    <ingredient num="2">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="3">3917 1580 2031 13278 9723 </ingredient>
+    <ingredient num="4">3917 715 13278 6146 8337 13278 4563 5981 </ingredient>
+    <ingredient num="5">3917 1580 9517 13278 3333 10865 14538 13278 757 5981 </ingredient>
+    <ingredient num="6">3917 1580 9517 13278 3333 7983 13278 9494 5981 </ingredient>
+    <ingredient num="7">13086 13009 13278 7035 13985 669 10894 10187 8478 1645 13009 </ingredient>
+    <ingredient num="8">3917 2192 2629 13278 6209 7905 13220 </ingredient>
+    <ingredient num="9">9883 2605 13278 8602 9491 10844 13278 757 5981 </ingredient>
+    <ingredient num="10">8580 9486 13278 8083 12384 10015 </ingredient>
+    <ingredient num="11">13076 3948 7990 4189 </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/132661/hls24_1557802187.m3u8</low>
+    <high>https://vid.tasty.co/output/132661/landscape_720/1557802187</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 14423 14231 </step>
+    <step num="1">10950 5994 2192 14511 8341 3626 6146 2260 1391 407 14272 111 2587 2257 5292 </step>
+    <step num="2">1594 5994 8598 1258 1580 1645 6541 4782 10060 1391 8244 14158 8431 12313 5768 5895 5994 12 1811 560 3584 6798 11951 5687 1391 14158 6252 5687 1391 133 </step>
+    <step num="3">8724 6146 8337 669 11951 5687 5833 5312 3557 6113 11951 3305 12605 7317 </step>
+    <step num="4">2988 10534 6146 2260 4255 11951 9453 13494 1391 8111 12816 13817 6106 7731 2602 8602 7042 13817 8083 6334 4255 143 </step>
+    <step num="5">7831 6146 7990 8470 8927 1681 5832 12573 870 13817 7167 </step>
+    <step num="6">6054 6781 10439 13817 3945 10694 7990 2933 11004 415 13630 1391 407 14272 111 5916 13817 13076 5342 3235 13817 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 14423 14231 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 14511 8341 3626 6146 2260 1391 407 14272 111 2587 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">1594 5994 8598 1258 1580 1645 6541 4782 10060 1391 8244 14158 </steps_updated>
+    <steps_updated num="4">8431 12313 5768 5895 5994 12 1811 560 3584 6798 11951 5687 1391 14158 </steps_updated>
+    <steps_updated num="5">6252 5687 1391 133 </steps_updated>
+    <steps_updated num="6">8724 6146 8337 669 11951 5687 5833 5312 3557 6113 11951 3305 12605 7317 </steps_updated>
+    <steps_updated num="7">2988 10534 6146 2260 4255 11951 9453 </steps_updated>
+    <steps_updated num="8">13494 1391 8111 12816 13817 6106 </steps_updated>
+    <steps_updated num="9">7731 2602 8602 7042 13817 8083 6334 4255 143 </steps_updated>
+    <steps_updated num="10">7831 6146 7990 8470 8927 1681 5832 12573 870 13817 7167 </steps_updated>
+    <steps_updated num="11">6054 6781 10439 13817 3945 10694 7990 2933 11004 415 13630 1391 407 14272 111 5916 13817 13076 5342 </steps_updated>
+    <steps_updated num="12">3235 13817 8956 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

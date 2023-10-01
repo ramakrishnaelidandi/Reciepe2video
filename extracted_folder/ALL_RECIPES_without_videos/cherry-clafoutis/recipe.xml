@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cherry Clafoutis Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cherry-clafoutis</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 ; cherries </ingredient>
+    <ingredient num="1">⅔ cup ; all purpose flour ; (85 g) </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">¼ teaspoon ; kosher salt </ingredient>
+    <ingredient num="4">2 ; large eggs </ingredient>
+    <ingredient num="5">1 cup ; half &amp; half ; (240 mL) </ingredient>
+    <ingredient num="6">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">2 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="8">1 tablespoon ; powdered sugar, for dusting </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/136384/hls24_1560893788.m3u8</low>
+    <high>https://vid.tasty.co/output/136384/landscape_720/1560893788</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). </step>
+    <step num="1">Pit the cherries by placing them on top of an empty glass bottle, one at a time. Using a chopstick, push through the cherry to remove the pit. Set aside. </step>
+    <step num="2">In a medium bowl, mix together the flour, sugar, and salt. Add the eggs and stir well to combine. Add the half-and-half and vanilla and whisk until smooth. </step>
+    <step num="3">Melt the butter in an 8-inch (20 cm) cast-iron skillet over medium heat. Once the butter has melted, remove the pan from the heat. </step>
+    <step num="4">Spread the cherries evenly in the pan. Pour the batter over the cherries. </step>
+    <step num="5">Bake for 40-45 minutes, until the clafoutis is golden brown and firm to the touch. </step>
+    <step num="6">Dust the powdered sugar on top. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Pit the cherries by placing them on top of an empty glass bottle, one at a time. </steps_updated>
+    <steps_updated num="2">Using a chopstick, push through the cherry to remove the pit. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">In a medium bowl, mix together the flour, sugar, and salt. </steps_updated>
+    <steps_updated num="5">Add the eggs and stir well to combine. </steps_updated>
+    <steps_updated num="6">Add the half-and-half and vanilla and whisk until smooth. </steps_updated>
+    <steps_updated num="7">Melt the butter in an 8-inch (20 cm) cast-iron skillet over medium heat. </steps_updated>
+    <steps_updated num="8">Once the butter has melted, remove the pan from the heat. </steps_updated>
+    <steps_updated num="9">Spread the cherries evenly in the pan. </steps_updated>
+    <steps_updated num="10">Pour the batter over the cherries. </steps_updated>
+    <steps_updated num="11">Bake for 40-45 minutes, until the clafoutis is golden brown and firm to the touch. </steps_updated>
+    <steps_updated num="12">Dust the powdered sugar on top. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

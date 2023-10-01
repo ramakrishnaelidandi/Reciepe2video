@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Peach Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-peach-sangria</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 ; strawberries </ingredient>
+    <ingredient num="1">2 ; peaches </ingredient>
+    <ingredient num="2">2 cups ; water ; (470 mL) </ingredient>
+    <ingredient num="3">1 ½ cups ; sugar ; (300 g) </ingredient>
+    <ingredient num="4">1 bottle ; white wine, chilled </ingredient>
+    <ingredient num="5">¾ cup ; rum ; (175 mL) </ingredient>
+    <ingredient num="6">1 bottle ; champagne, or sparkling white wine, chilled </ingredient>
+    <ingredient num="7">ice cube, to chill </ingredient>
+    <ingredient num="8">10 ; strawberries, extra for serving, sliced </ingredient>
+    <ingredient num="9">2 ; peaches, extra for serving, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+    <category num="7">Happy Hour</category>
+    <category num="8">Casual Party</category>
+    <category num="9">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9436/low_1472666200.m3u8</low>
+    <high>https://vid.tasty.co/output/9436/mp4_720x1280/1472666200</high>
+  </video>
+  <steps>
+    <step num="0">Discard the green tops of the strawberries and slice the peaches. </step>
+    <step num="1">In a saucepan, dissolve sugar in water. </step>
+    <step num="2">Add the strawberries and peaches. </step>
+    <step num="3">Bring to a rolling boil and reduce to medium heat. Boil for approximately 15 minutes, or until the strawberries become pale and the peaches are soft. </step>
+    <step num="4">Strain the syrup and refrigerate for 2 hours, or until cooled. Discard boiled fruit. </step>
+    <step num="5">In a pitcher, combine the cooled syrup, sliced extra fruit, white wine, and rum. </step>
+    <step num="6">Chill for 2-4 hours. </step>
+    <step num="7">Scoop fruit into glasses with ice, pour sangria, and top with champagne or sparkling wine. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Discard the green tops of the strawberries and slice the peaches. </steps_updated>
+    <steps_updated num="1">In a saucepan, dissolve sugar in water. </steps_updated>
+    <steps_updated num="2">Add the strawberries and peaches. </steps_updated>
+    <steps_updated num="3">Bring to a rolling boil and reduce to medium heat. </steps_updated>
+    <steps_updated num="4">Boil for approximately 15 minutes, or until the strawberries become pale and the peaches are soft. </steps_updated>
+    <steps_updated num="5">Strain the syrup and refrigerate for 2 hours, or until cooled. </steps_updated>
+    <steps_updated num="6">Discard boiled fruit. </steps_updated>
+    <steps_updated num="7">In a pitcher, combine the cooled syrup, sliced extra fruit, white wine, and rum. </steps_updated>
+    <steps_updated num="8">Chill for 2-4 hours. </steps_updated>
+    <steps_updated num="9">Scoop fruit into glasses with ice, pour sangria, and top with champagne or sparkling wine. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

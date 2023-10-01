@@ -1,0 +1,57 @@
+<recipe>
+  <title>Sweet Potato "Fried" Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-rice-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 6389 10882 2274 4125 13817 3962 </ingredient>
+    <ingredient num="1">3917 14014 13278 8224 7632 371 4153 5895 12282 </ingredient>
+    <ingredient num="2">1580 13278 4617 12384 341 </ingredient>
+    <ingredient num="3">8580 13278 2597 8445 4125 13817 976 </ingredient>
+    <ingredient num="4">1580 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 7845 </ingredient>
+    <ingredient num="6">1580 2605 13278 4168 547 13278 2935 8007 </ingredient>
+    <ingredient num="7">1580 2605 13278 13844 3745 13278 3433 5981 </ingredient>
+    <ingredient num="8">8580 13278 14463 3699 </ingredient>
+    <ingredient num="9">8580 9486 13278 9721 534 11691 2260 </ingredient>
+    <ingredient num="10">4985 12384 1404 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54054/low_1506622144.m3u8</low>
+    <high>https://vid.tasty.co/output/54054/mp4_720x1280/1506622144</high>
+  </video>
+  <duration>
+    <start_time>26.64</start_time>
+    <end_time>56.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 8016 5349 8287 11951 10882 2868 7306 1681 6665 3313 12313 13218 7751 7799 </step>
+    <step num="1">10950 5994 2597 10060 11770 13757 14307 7855 7632 415 740 11453 13817 3945 2550 1681 6470 </step>
+    <step num="2">9179 10882 2868 11948 8445 12610 10986 13817 4168 547 13817 2550 1681 11951 881 7312 12385 13817 11951 10882 2868 9490 1910 13328 13377 </step>
+    <step num="3">9179 12644 14463 13817 11691 7280 13817 4398 222 3557 560 7855 8119 </step>
+    <step num="4">13688 1391 4985 914 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8016 5349 8287 11951 10882 2868 7306 1681 6665 3313 12313 13218 7751 7799 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 10060 11770 13757 14307 7855 7632 415 740 11453 13817 3945 2550 1681 6470 </steps_updated>
+    <steps_updated num="2">9179 10882 2868 11948 8445 12610 10986 13817 4168 547 13817 2550 1681 11951 881 7312 12385 13817 11951 10882 2868 9490 1910 13328 13377 </steps_updated>
+    <steps_updated num="3">9179 12644 14463 13817 11691 7280 13817 4398 222 3557 560 7855 8119 </steps_updated>
+    <steps_updated num="4">13688 1391 4985 914 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00856</start_time>
+    <end_time>01724</end_time>
+  </duration_human>
+</recipe>

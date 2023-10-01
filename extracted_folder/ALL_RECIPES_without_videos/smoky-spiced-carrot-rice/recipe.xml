@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Smoky Spiced Carrot Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smoky-spiced-carrot-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-rice-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 bunch ; carrot, peeled and sliced </ingredient>
+    <ingredient num="1">1 tablespoon ; cooking oil, of preference, or water </ingredient>
+    <ingredient num="2">½ ; white onion, diced </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">1 teaspoon ; smoked paprika </ingredient>
+    <ingredient num="7">fresh parsley, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Sides</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54054/low_1506622144.m3u8</low>
+    <high>https://vid.tasty.co/output/54054/mp4_720x1280/1506622144</high>
+  </video>
+  <duration>
+    <start_time>55.63</start_time>
+    <end_time>81.49</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a food processor, pulse the carrots until they reach your desired “rice” consistency. </step>
+    <step num="1">In a large skillet over medium heat, heat oil, then add onions and let cook until translucent. </step>
+    <step num="2">Add carrot rice, salt, pepper, garlic powder and paprika, and cook until the tender, stirring occasionally. </step>
+    <step num="3">Garnish with parsley. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, pulse the carrots until they reach your desired “rice” consistency. </steps_updated>
+    <steps_updated num="1">In a large skillet over medium heat, heat oil, then add onions and let cook until translucent. </steps_updated>
+    <steps_updated num="2">Add carrot rice, salt, pepper, garlic powder and paprika, and cook until the tender, stirring occasionally. </steps_updated>
+    <steps_updated num="3">Garnish with parsley. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01724</start_time>
+    <end_time>02457</end_time>
+  </duration_human>
+</recipe>

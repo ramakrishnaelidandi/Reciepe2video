@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rainbow Cauliflower Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-veggie-cauliflower-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower, trimmed, cut into pieces </ingredient>
+    <ingredient num="1">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="2">½ teaspoon ; dried basil </ingredient>
+    <ingredient num="3">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">¼ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="5">½ teaspoon ; sea salt </ingredient>
+    <ingredient num="6">¼ cup ; parmesan cheese, plus more for serving ; (30 g) </ingredient>
+    <ingredient num="7">1 ; large egg </ingredient>
+    <ingredient num="8">pizza sauce </ingredient>
+    <ingredient num="9">low-fat mozzarella, shredded </ingredient>
+    <ingredient num="10">sun-dried tomato </ingredient>
+    <ingredient num="11">1 ; orange bell pepper, sliced </ingredient>
+    <ingredient num="12">1 ; yellow bell pepper, sliced </ingredient>
+    <ingredient num="13">3 oz ; baby spinach, pre-washed, chopped ; (85 g) </ingredient>
+    <ingredient num="14">¼ ; red onion </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27119/low_1490138591.m3u8</low>
+    <high>https://vid.tasty.co/output/27119/mp4_720x1280/1490138591</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450˚F (230˚C). </step>
+    <step num="1">Place cauliflower pieces into bowl of food processor and pulse for 30 seconds, or until cauliflower is the texture of cornmeal. </step>
+    <step num="2">Transfer cauliflower to a microwave-safe bowl and microwave on high for 4 minutes. Let cool. </step>
+    <step num="3">Transfer the cooked cauliflower into a clean dish towel and wring out the excess water. </step>
+    <step num="4">Discard water. </step>
+    <step num="5">Place cauliflower into a bowl. Add oregano, basil, garlic powder, sea salt, red pepper flakes, and egg. Mix thoroughly by hand. </step>
+    <step num="6">Transfer cauliflower mixture onto a greased parchment-lined pizza tray or cookie sheet. </step>
+    <step num="7">Pat out the dough into a disk approximately ¼-inch thick. </step>
+    <step num="8">Bake for 8-10 minutes. Remove from oven. </step>
+    <step num="9">Spread a layer of pizza sauce on the crust. </step>
+    <step num="10">Add cheese (optional). </step>
+    <step num="11">Top with your favorite rainbow vegetables. </step>
+    <step num="12">Bake for 8- 10 minutes, or until the spinach is wilted and the cheese is melted. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">Place cauliflower pieces into bowl of food processor and pulse for 30 seconds, or until cauliflower is the texture of cornmeal. </steps_updated>
+    <steps_updated num="2">Transfer cauliflower to a microwave-safe bowl and microwave on high for 4 minutes. </steps_updated>
+    <steps_updated num="3">Let cool. </steps_updated>
+    <steps_updated num="4">Transfer the cooked cauliflower into a clean dish towel and wring out the excess water. </steps_updated>
+    <steps_updated num="5">Discard water. </steps_updated>
+    <steps_updated num="6">Place cauliflower into a bowl. </steps_updated>
+    <steps_updated num="7">Add oregano, basil, garlic powder, sea salt, red pepper flakes, and egg. </steps_updated>
+    <steps_updated num="8">Mix thoroughly by hand. </steps_updated>
+    <steps_updated num="9">Transfer cauliflower mixture onto a greased parchment-lined pizza tray or cookie sheet. </steps_updated>
+    <steps_updated num="10">Pat out the dough into a disk approximately ¼-inch thick. </steps_updated>
+    <steps_updated num="11">Bake for 8-10 minutes. </steps_updated>
+    <steps_updated num="12">Remove from oven. </steps_updated>
+    <steps_updated num="13">Spread a layer of pizza sauce on the crust. </steps_updated>
+    <steps_updated num="14">Add cheese (optional). </steps_updated>
+    <steps_updated num="15">Top with your favorite rainbow vegetables. </steps_updated>
+    <steps_updated num="16">Bake for 8- 10 minutes, or until the spinach is wilted and the cheese is melted. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

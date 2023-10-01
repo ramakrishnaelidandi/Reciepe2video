@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Beef Stew Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-beef-stew</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; kroger beef chuck roast ; (910 g) </ingredient>
+    <ingredient num="1">½ teaspoon ; kosher salt, plus more for taste </ingredient>
+    <ingredient num="2">½ teaspoon ; black pepper, plus more to taste </ingredient>
+    <ingredient num="3">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="4">2 cups ; yellow onion, diced ; (300 g) </ingredient>
+    <ingredient num="5">2 cups ; celery ; (450 g) </ingredient>
+    <ingredient num="6">2 cups ; carrot, diced ; (240 g) </ingredient>
+    <ingredient num="7">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">2 tablespoons ; tomato paste </ingredient>
+    <ingredient num="9">1 cup ; red wine ; (240 mL) </ingredient>
+    <ingredient num="10">2 cups ; beef stock ; (480 mL) </ingredient>
+    <ingredient num="11">28 oz ; diced tomatoes ; (425 g) </ingredient>
+    <ingredient num="12">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="13">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="14">1 ; bay leaf </ingredient>
+    <ingredient num="15">egg noodle, cooked, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/122696/hls24_1547589146.m3u8</low>
+    <high>https://vid.tasty.co/output/122696/landscape_720/1547589146</high>
+  </video>
+  <steps>
+    <step num="0">Cut the beef into cubes, then season generously with salt and pepper. </step>
+    <step num="1">Heat the canola oil in a large Dutch oven or pot over medium high heat. Working in batches, sear the beef on all sides until well browned. Do not overcrowd the pan. Transfer the meat to a plate and set aside. </step>
+    <step num="2">Add the onion, celery, carrots, and garlic to the pan and cook until tender, about 5 minutes. </step>
+    <step num="3">Add the tomato paste to the center of the pot and cook for 1 minute. Stir the tomato paste into the vegetables and continue cooking until fragrant, about 5 minutes. </step>
+    <step num="4">Pour in the wine to deglaze the pan, scraping up any browned bits from the bottom of the pot with a wooden spoon. </step>
+    <step num="5">Add the beef stock and tomatoes and stir to combine, then add the rosemary, thyme, pepper, salt, and bay leaf. Return the beef to the pot, making sure it is submerged in the braising liquid. </step>
+    <step num="6">Bring to a boil, then cover, reduce the heat to low, and simmer until the meat is tender, about 3 hours. </step>
+    <step num="7">Shred larger pieces of beef with a fork or tongs. Serve the braised beef and sauce over cooked egg noodles. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the beef into cubes, then season generously with salt and pepper. </steps_updated>
+    <steps_updated num="1">Heat the canola oil in a large Dutch oven or pot over medium high heat. </steps_updated>
+    <steps_updated num="2">Working in batches, sear the beef on all sides until well browned. </steps_updated>
+    <steps_updated num="3">Do not overcrowd the pan. </steps_updated>
+    <steps_updated num="4">Transfer the meat to a plate and set aside. </steps_updated>
+    <steps_updated num="5">Add the onion, celery, carrots, and garlic to the pan and cook until tender, about 5 minutes. </steps_updated>
+    <steps_updated num="6">Add the tomato paste to the center of the pot and cook for 1 minute. </steps_updated>
+    <steps_updated num="7">Stir the tomato paste into the vegetables and continue cooking until fragrant, about 5 minutes. </steps_updated>
+    <steps_updated num="8">Pour in the wine to deglaze the pan, scraping up any browned bits from the bottom of the pot with a wooden spoon. </steps_updated>
+    <steps_updated num="9">Add the beef stock and tomatoes and stir to combine, then add the rosemary, thyme, pepper, salt, and bay leaf. </steps_updated>
+    <steps_updated num="10">Return the beef to the pot, making sure it is submerged in the braising liquid. </steps_updated>
+    <steps_updated num="11">Bring to a boil, then cover, reduce the heat to low, and simmer until the meat is tender, about 3 hours. </steps_updated>
+    <steps_updated num="12">Shred larger pieces of beef with a fork or tongs. </steps_updated>
+    <steps_updated num="13">Serve the braised beef and sauce over cooked egg noodles. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

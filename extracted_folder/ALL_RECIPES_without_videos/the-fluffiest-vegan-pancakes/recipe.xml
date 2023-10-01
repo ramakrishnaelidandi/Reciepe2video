@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Fluffiest Vegan Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-fluffiest-vegan-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; organic sugar </ingredient>
+    <ingredient num="2">1 tablespoon ; baking powder </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">1 cup ; non-dairy milk ; (240 mL) </ingredient>
+    <ingredient num="5">1 tablespoon ; apple cider vinegar </ingredient>
+    <ingredient num="6">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="7">maple syrup, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/74910/hls24_1516922425.m3u8</low>
+    <high>https://vid.tasty.co/output/74910/landscape_720/1516922425</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, add the flour, sugar, baking powder, and salt, and stir to combine. </step>
+    <step num="1">In a medium bowl or liquid measuring cup, add almond milk, apple cider vinegar, and vanilla, and stir to combine </step>
+    <step num="2">Pour the liquid mixture into the dry mixture and whisk until smooth. </step>
+    <step num="3">Let batter rest for 5 minutes. </step>
+    <step num="4">Pour about ½ cup (65 grams) of batter onto a nonstick pan or griddle over medium heat. </step>
+    <step num="5">When the top begins to bubble, flip the pancake and cook until golden. </step>
+    <step num="6">Serve warm with maple syrup. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add the flour, sugar, baking powder, and salt, and stir to combine. </steps_updated>
+    <steps_updated num="1">In a medium bowl or liquid measuring cup, add almond milk, apple cider vinegar, and vanilla, and stir to combine </steps_updated>
+    <steps_updated num="2">Pour the liquid mixture into the dry mixture and whisk until smooth. </steps_updated>
+    <steps_updated num="3">Let batter rest for 5 minutes. </steps_updated>
+    <steps_updated num="4">Pour about ½ cup (65 grams) of batter onto a nonstick pan or griddle over medium heat. </steps_updated>
+    <steps_updated num="5">When the top begins to bubble, flip the pancake and cook until golden. </steps_updated>
+    <steps_updated num="6">Serve warm with maple syrup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

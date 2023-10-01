@@ -1,0 +1,61 @@
+<recipe>
+  <title>Grilled Peach Summer Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-peach-summer-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 3352 10769 13278 13125 8007 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">12791 2605 13278 9586 13278 7005 5981 </ingredient>
+    <ingredient num="3">8580 2031 13278 82 </ingredient>
+    <ingredient num="4">3917 8071 13278 7845 </ingredient>
+    <ingredient num="5">4061 13278 12776 </ingredient>
+    <ingredient num="6">8580 13278 8355 2144 7983 7678 </ingredient>
+    <ingredient num="7">7632 560 11567 </ingredient>
+    <ingredient num="8">12610 560 11567 </ingredient>
+    <ingredient num="9">10986 560 11567 </ingredient>
+    <ingredient num="10">2933 643 13278 13592 3117 13278 9018 5981 </ingredient>
+    <ingredient num="11">3917 2605 13278 5071 7042 10844 13278 6898 5981 </ingredient>
+    <ingredient num="12">1580 13278 10837 3962 </ingredient>
+    <ingredient num="13">1580 13278 8083 12384 976 </ingredient>
+    <ingredient num="14">1580 2605 13278 8175 13278 13125 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Date Night</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45616/low_1501541170.m3u8</low>
+    <high>https://vid.tasty.co/output/45616/mp4_720x1280/1501541170</high>
+  </video>
+  <steps>
+    <step num="0">9179 11951 3352 4450 8244 7632 14240 12610 13817 7845 560 5994 12377 13817 10968 1681 3145 4309 8583 2532 7990 11812 5342 </step>
+    <step num="1">7655 11951 12776 13817 5103 11951 8918 6985 10654 11951 7777 11801 1391 3352 10972 </step>
+    <step num="2">2927 7990 2933 8927 11770 13757 8283 14307 5895 1681 506 </step>
+    <step num="3">12474 5994 4669 8667 1678 11951 7983 1391 7632 12610 13817 12375 </step>
+    <step num="4">2927 11951 7983 1681 870 4255 797 11801 13817 2493 11881 1391 6650 4255 3745 11801 13817 6190 1956 11649 11801 9490 506 </step>
+    <step num="5">10346 11951 12776 13817 7983 7990 11951 11812 5569 7582 12026 </step>
+    <step num="6">9179 11951 10742 12776 13817 7983 560 5994 12377 1391 11951 13592 5550 5071 7042 10837 8083 12384 13817 11581 13817 13630 1391 11951 374 3352 10972 9393 13948 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 3352 4450 8244 7632 14240 12610 13817 7845 560 5994 12377 13817 10968 1681 3145 4309 </steps_updated>
+    <steps_updated num="1">8583 2532 7990 11812 5342 </steps_updated>
+    <steps_updated num="2">7655 11951 12776 13817 5103 11951 8918 </steps_updated>
+    <steps_updated num="3">6985 10654 11951 7777 11801 1391 3352 10972 </steps_updated>
+    <steps_updated num="4">2927 7990 2933 8927 11770 13757 8283 14307 5895 1681 506 </steps_updated>
+    <steps_updated num="5">12474 5994 4669 8667 1678 11951 7983 1391 7632 12610 13817 12375 </steps_updated>
+    <steps_updated num="6">2927 11951 7983 1681 870 4255 797 11801 13817 2493 </steps_updated>
+    <steps_updated num="7">11881 1391 6650 4255 3745 11801 13817 6190 1956 11649 11801 9490 506 </steps_updated>
+    <steps_updated num="8">10346 11951 12776 13817 7983 7990 11951 11812 5569 7582 12026 </steps_updated>
+    <steps_updated num="9">9179 11951 10742 12776 13817 7983 560 5994 12377 1391 11951 13592 5550 5071 7042 10837 8083 12384 13817 11581 13817 13630 1391 11951 374 3352 10972 </steps_updated>
+    <steps_updated num="10">9393 13948 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

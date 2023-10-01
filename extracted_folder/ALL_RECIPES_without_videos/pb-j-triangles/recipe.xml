@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>PB&amp;J Triangles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pb-j-triangles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-school-lunch-prep-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; burrito size tortillas </ingredient>
+    <ingredient num="1">2 tablespoons ; sunflower butter, or nut </ingredient>
+    <ingredient num="2">2 tablespoons ; jelly </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23479/low_1486600260.m3u8</low>
+    <high>https://vid.tasty.co/output/23479/mp4_720x1280/1486600260</high>
+  </video>
+  <duration>
+    <start_time>100.0</start_time>
+    <end_time>117.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread nut or sunflower butter and jelly on a tortilla. </step>
+    <step num="1">Top with the second tortilla, and cut into triangles. </step>
+    <step num="2">Serve with a hard-boiled egg, blueberries, and strawberries. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread nut or sunflower butter and jelly on a tortilla. </steps_updated>
+    <steps_updated num="1">Top with the second tortilla, and cut into triangles. </steps_updated>
+    <steps_updated num="2">Serve with a hard-boiled egg, blueberries, and strawberries. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

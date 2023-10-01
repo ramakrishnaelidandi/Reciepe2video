@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Peppermint Silk Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peppermint-silk-pie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-pies-for-your-holiday-season</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; eggs </ingredient>
+    <ingredient num="1">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; water ; (360 mL) </ingredient>
+    <ingredient num="3">1 ; pie crust, prepared </ingredient>
+    <ingredient num="4">1 teaspoon ; peppermint extract </ingredient>
+    <ingredient num="5">8 oz ; chocolate, melted ; (225 g) </ingredient>
+    <ingredient num="6">8 tablespoons ; butter, cubed </ingredient>
+    <ingredient num="7">½ cup ; whipped cream, plus more for garnish ; (120 mL) </ingredient>
+    <ingredient num="8">shaved chocolate, for garnish </ingredient>
+    <ingredient num="9">crushed peppermint candies, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65084/hls24_1512082348.m3u8</low>
+    <high>https://vid.tasty.co/output/65084/landscape_720/1512082348</high>
+  </video>
+  <duration>
+    <start_time>106.0</start_time>
+    <end_time>176.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425˚F (220˚C). </step>
+    <step num="1">In a medium heat-proof bowl, beat the eggs and sugar with an electric hand mixer until combined. </step>
+    <step num="2">Add the water to a small pot over low heat and rest the bowl on top. Constantly beat the egg mixture on low speed until it reaches 160˚F (71˚C). Remove the bowl from the heat and stir as it cools. </step>
+    <step num="3">Lay a prepared pie crust in a 9-inch (23 cm) pie dish. Lay a sheet of parchment paper over crust and place 4 spoons or dried beans in the center, weighing down the crust. </step>
+    <step num="4">Bake for 15 minutes, until golden brown. Let cool. </step>
+    <step num="5">Add the peppermint extract and melted chocolate to the egg mixture. Stir until combined. </step>
+    <step num="6">Gradually beat in the butter until well combined. </step>
+    <step num="7">Gradually fold in the whipped cream until just incorporated. </step>
+    <step num="8">Carefully spoon the filling into the prepared pie crust and chill for at least 2 hours. </step>
+    <step num="9">Garnish with whipped cream, shaved chocolate, and crushed peppermint candies. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Place a prepared pie crust into a 9-inch (23 cm) pie pan. </steps_updated>
+    <steps_updated num="2">Line a sheet of parchment paper over crust and place 4 spoons in pan or dried beans in on the parchment, weighing down the crust. </steps_updated>
+    <steps_updated num="3">Bake for 15 minutes. </steps_updated>
+    <steps_updated num="4">In a medium sized heat-safe mixing bowl, mix eggs and sugar until combined. </steps_updated>
+    <steps_updated num="5">Bring bowl over pot filled with water on low heat and rest on top. </steps_updated>
+    <steps_updated num="6">Constantly beat egg mixture on low speed unit it reaches 160˚F (77˚C). </steps_updated>
+    <steps_updated num="7">Remove the bowl from the heat and stir as it cools. </steps_updated>
+    <steps_updated num="8">Add peppermint extract and melted chocolate. </steps_updated>
+    <steps_updated num="9">Stir until combined. </steps_updated>
+    <steps_updated num="10">Gradually beat in cubes of butter, stirring until combined. </steps_updated>
+    <steps_updated num="11">Gradually fold in whipped cream and mix until just incorporated. </steps_updated>
+    <steps_updated num="12">Carefully spoon filling into prepared pie crust and chill for at least 2 hours. </steps_updated>
+    <steps_updated num="13">Garnish with whipped cream, shaved chocolate, and crushed peppermints. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02585</start_time>
+    <end_time>04243</end_time>
+  </duration_human>
+</recipe>

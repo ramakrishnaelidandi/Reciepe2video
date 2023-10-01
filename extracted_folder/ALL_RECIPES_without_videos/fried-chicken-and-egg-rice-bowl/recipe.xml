@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fried Chicken And Egg Rice Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fried-chicken-and-egg-rice-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">pepper, to taste </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">flour </ingredient>
+    <ingredient num="4">1 ; egg </ingredient>
+    <ingredient num="5">panko breadcrumbs </ingredient>
+    <ingredient num="6">oil, for deep-frying </ingredient>
+    <ingredient num="7">½ cup ; onion, sliced ; (75 g) </ingredient>
+    <ingredient num="8">⅔ cup ; chicken stock ; (158 mL) </ingredient>
+    <ingredient num="9">1 ½ tablespoons ; soy sauce </ingredient>
+    <ingredient num="10">1 ½ tablespoons ; sake </ingredient>
+    <ingredient num="11">1 ½ tablespoons ; mirin </ingredient>
+    <ingredient num="12">½ tablespoon ; sugar </ingredient>
+    <ingredient num="13">2 ; eggs, beaten </ingredient>
+    <ingredient num="14">rice, cooked </ingredient>
+    <ingredient num="15">scallions, chopped </ingredient>
+    <ingredient num="16">nori, shredded </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31855/low_1495124861.m3u8</low>
+    <high>https://vid.tasty.co/output/31855/mp4_720x1280/1495124861</high>
+  </video>
+  <steps>
+    <step num="0">First, salt and pepper the chicken breast, dredge in flour, then egg and coat in panko. </step>
+    <step num="1">Deep-fry until chicken is done, brown and crispy. Slice and set aside. </step>
+    <step num="2">In a small pan over medium heat, add onions, stock, soy sauce, sake, mirin, and sugar. Bring to a boil. </step>
+    <step num="3">Add the sliced fried chicken, pour in the eggs around the chicken. Cover with a lid and cook until eggs are at your desired doneness. </step>
+    <step num="4">Slide the egg and chicken over cooked rice, garnish with chopped scallions and shredded nori. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">First, salt and pepper the chicken breast, dredge in flour, then egg and coat in panko. </steps_updated>
+    <steps_updated num="1">Deep-fry until chicken is done, brown and crispy. </steps_updated>
+    <steps_updated num="2">Slice and set aside. </steps_updated>
+    <steps_updated num="3">In a small pan over medium heat, add onions, stock, soy sauce, sake, mirin, and sugar. </steps_updated>
+    <steps_updated num="4">Bring to a boil. </steps_updated>
+    <steps_updated num="5">Add the sliced fried chicken, pour in the eggs around the chicken. </steps_updated>
+    <steps_updated num="6">Cover with a lid and cook until eggs are at your desired doneness. </steps_updated>
+    <steps_updated num="7">Slide the egg and chicken over cooked rice, garnish with chopped scallions and shredded nori. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

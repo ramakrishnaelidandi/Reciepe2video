@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3 Ingredient Peanut Butter Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-peanut-butter-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; peanut butter ; (240 g) </ingredient>
+    <ingredient num="1">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="2">1 ; egg </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27093/low_1490128758.m3u8</low>
+    <high>https://vid.tasty.co/output/27093/mp4_720x1280/1490128758</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350ºF (180ºC). </step>
+    <step num="1">In a large bowl, mix together the peanut butter, sugar, and egg. </step>
+    <step num="2">Scoop out a spoonful of dough and roll it into a ball. Place the cookie balls onto a nonstick baking sheet. </step>
+    <step num="3">For extra decoration and to make them cook more evenly, flatten the cookie balls by pressing a fork down on top of them, then press it down again at a 90º angle to make a criss-cross pattern. </step>
+    <step num="4">Bake for 8-10 minutes or until the bottom of the cookies are golden brown. </step>
+    <step num="5">Remove from baking sheet and cool. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="1">In a large bowl, mix together the peanut butter, sugar, and egg. </steps_updated>
+    <steps_updated num="2">Scoop out a spoonful of dough and roll it into a ball. </steps_updated>
+    <steps_updated num="3">Place the cookie balls onto a nonstick baking sheet. </steps_updated>
+    <steps_updated num="4">For extra decoration and to make them cook more evenly, flatten the cookie balls by pressing a fork down on top of them, then press it down again at a 90º angle to make a criss-cross pattern. </steps_updated>
+    <steps_updated num="5">Bake for 8-10 minutes or until the bottom of the cookies are golden brown. </steps_updated>
+    <steps_updated num="6">Remove from baking sheet and cool. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

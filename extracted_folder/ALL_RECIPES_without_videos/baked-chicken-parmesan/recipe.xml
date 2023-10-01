@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Chicken Parmesan Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-chicken-parmesan</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-chicken-parmesan-dinner-for-2</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">2 ; eggs, beaten </ingredient>
+    <ingredient num="2">1 ball ; fresh mozzarella cheese, thinly sliced </ingredient>
+    <ingredient num="3">1 jar ; marinara sauce, heated </ingredient>
+    <ingredient num="4">whole wheat pasta </ingredient>
+    <ingredient num="5">fresh basil, for garnish </ingredient>
+    <ingredient num="6">½ cup ; panko bread crumbs ; (25 g) </ingredient>
+    <ingredient num="7">½ cup ; parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; fresh basil </ingredient>
+    <ingredient num="9">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="10">2 teaspoons ; dried oregano </ingredient>
+    <ingredient num="11">¼ teaspoon ; salt </ingredient>
+    <ingredient num="12">¼ teaspoon ; black pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23652/low_1486751842.m3u8</low>
+    <high>https://vid.tasty.co/output/23652/mp4_720x1280/1486751842</high>
+  </video>
+  <duration>
+    <start_time>35.0</start_time>
+    <end_time>63.67</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F (215°C). </step>
+    <step num="1">In a medium bowl, combine the panko, parmesan cheese, basil, garlic powder, oregano, salt, and pepper. </step>
+    <step num="2">Beat the 2 eggs in a shallow dish. Dredge the chicken in the egg wash, then coat with the bread crumb mixture. </step>
+    <step num="3">Transfer the breaded chicken breasts to a greased roasting pan. Top the chicken with 2 small slices of mozzarella. </step>
+    <step num="4">Bake for 20-25 min, until the cheese and bread crumbs have turned golden brown and the chicken is cooked through, or until it has reached an internal temperature of 165°F (73°C). </step>
+    <step num="5">Serve with whole wheat spaghetti, marinara sauce, and a sprinkle of fresh basil. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (215°C). </steps_updated>
+    <steps_updated num="1">In a medium bowl, combine the panko, parmesan cheese, basil, garlic powder, oregano, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Beat the 2 eggs in a shallow dish. </steps_updated>
+    <steps_updated num="3">Dredge the chicken in the egg wash, then coat with the bread crumb mixture. </steps_updated>
+    <steps_updated num="4">Transfer the breaded chicken breasts to a greased roasting pan. </steps_updated>
+    <steps_updated num="5">Top the chicken with 2 small slices of mozzarella. </steps_updated>
+    <steps_updated num="6">Bake for 20-25 min, until the cheese and bread crumbs have turned golden brown and the chicken is cooked through, or until it has reached an internal temperature of 165°F (73°C). </steps_updated>
+    <steps_updated num="7">Serve with whole wheat spaghetti, marinara sauce, and a sprinkle of fresh basil. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

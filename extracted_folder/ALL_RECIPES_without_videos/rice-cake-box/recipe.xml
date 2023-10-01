@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rice Cake Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rice-cake-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; rice cakes </ingredient>
+    <ingredient num="1">1 ; egg, hard boiled </ingredient>
+    <ingredient num="2">½ ; avocado, sliced </ingredient>
+    <ingredient num="3">1 teaspoon ; red pepper flakes </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>71.64</start_time>
+    <end_time>84.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut rice cakes into smaller pieces. </step>
+    <step num="1">Place rice cakes and the cooled hardboiled egg in the box. </step>
+    <step num="2">Place the avocado into the box and pour some red pepper flakes into a separate section. </step>
+    <step num="3">Refrigerate until ready to eat. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut rice cakes into smaller pieces. </steps_updated>
+    <steps_updated num="1">Place rice cakes and the cooled hardboiled egg in the box. </steps_updated>
+    <steps_updated num="2">Place the avocado into the box and pour some red pepper flakes into a separate section. </steps_updated>
+    <steps_updated num="3">Refrigerate until ready to eat. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02211</start_time>
+    <end_time>02553</end_time>
+  </duration_human>
+</recipe>

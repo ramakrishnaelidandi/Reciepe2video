@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Carnitas</title>
+  <url>https://tasty.co/recipe/slow-cooker-carnitas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 lb ; boneless pork butt, or shoulder, cut into six equal pieces ; (1.8 kg) </ingredient>
+    <ingredient num="1">2 teaspoons ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="4">1 tablespoon ; cumin </ingredient>
+    <ingredient num="5">8 cloves ; garlic, crushed </ingredient>
+    <ingredient num="6">1 ; medium onion, quartered </ingredient>
+    <ingredient num="7">3 leaves ; bay leaf </ingredient>
+    <ingredient num="8">1 ; lime, juiced </ingredient>
+    <ingredient num="9">1 ; large orange, juiced, save the spent halves </ingredient>
+    <ingredient num="10">tortilla, taco shell </ingredient>
+    <ingredient num="11">rice </ingredient>
+    <ingredient num="12">black beans </ingredient>
+    <ingredient num="13">salsa </ingredient>
+    <ingredient num="14">guacamole </ingredient>
+    <ingredient num="15">sour cream </ingredient>
+    <ingredient num="16">fresh cilantro </ingredient>
+    <ingredient num="17">cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8201/low_1472566412.m3u8</low>
+    <high>https://vid.tasty.co/output/8201/mp4_720x1280/1472566412</high>
+  </video>
+  <steps>
+    <step num="0">Cut pork into 6 equal pieces. Add it to the slow cooker. </step>
+    <step num="1">Add salt, pepper, oregano, cumin, garlic, onion, bay leaves, lime juice and juice the orange. Add orange to the cooker as well. Mix together until the meat is well-coated. </step>
+    <step num="2">Cover and cook on low for 8-10 hours, or until the meat pulls apart easily. </step>
+    <step num="3">Remove the pork and transfer to a foil-lined baking sheet. Shred the pork and spread across the baking sheet in a single layer. </step>
+    <step num="4">Pour about 1 cup (235 ml) of the liquid remaining in the slow cooker over the shredded pork. Broil for 5-10 minutes until the meat browns and crisps along the edges. </step>
+    <step num="5">Serve immediately. Great as a filling in tacos, burritos, salads, or nachos! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut pork into 6 equal pieces. </steps_updated>
+    <steps_updated num="1">Add it to the slow cooker. </steps_updated>
+    <steps_updated num="2">Add salt, pepper, oregano, cumin, garlic, onion, bay leaves, lime juice and juice the orange. </steps_updated>
+    <steps_updated num="3">Add orange to the cooker as well. </steps_updated>
+    <steps_updated num="4">Mix together until the meat is well-coated. </steps_updated>
+    <steps_updated num="5">Cover and cook on low for 8-10 hours, or until the meat pulls apart easily. </steps_updated>
+    <steps_updated num="6">Remove the pork and transfer to a foil-lined baking sheet. </steps_updated>
+    <steps_updated num="7">Shred the pork and spread across the baking sheet in a single layer. </steps_updated>
+    <steps_updated num="8">Pour about 1 cup (235 ml) of the liquid remaining in the slow cooker over the shredded pork. </steps_updated>
+    <steps_updated num="9">Broil for 5-10 minutes until the meat browns and crisps along the edges. </steps_updated>
+    <steps_updated num="10">Serve immediately. </steps_updated>
+    <steps_updated num="11">Great as a filling in tacos, burritos, salads, or nachos! </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

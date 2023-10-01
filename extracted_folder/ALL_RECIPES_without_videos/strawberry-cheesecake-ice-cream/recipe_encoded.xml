@@ -1,0 +1,49 @@
+<recipe>
+  <title>Strawberry Cheesecake Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-cheesecake-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-ice-cream-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 8640 13033 13278 6901 8007 </ingredient>
+    <ingredient num="1">8883 643 13278 3063 9889 3917 14138 13278 7 8007 </ingredient>
+    <ingredient num="2">4061 643 13278 13033 13810 564 13278 6518 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 13098 856 11464 3962 13278 3433 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 6114 9282 13278 8604 5981 </ingredient>
+    <ingredient num="5">4061 13278 4661 9703 3274 1928 7990 3297 5358 13218 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32829/low_1495728240.m3u8</low>
+    <high>https://vid.tasty.co/output/32829/mp4_720x1280/1495728240</high>
+  </video>
+  <duration>
+    <start_time>53.85</start_time>
+    <end_time>68.309</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 740 11951 13033 13817 3063 9889 415 12073 1681 12386 5464 5563 </step>
+    <step num="1">9179 11951 13033 13810 7234 13817 6114 379 13817 10968 13948 </step>
+    <step num="2">11982 7475 11951 1928 669 11951 2207 415 10231 560 10765 5687 2974 1391 1928 5358 8664 </step>
+    <step num="3">13855 7990 199 14329 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 740 11951 13033 13817 3063 9889 415 12073 1681 12386 5464 5563 </steps_updated>
+    <steps_updated num="1">9179 11951 13033 13810 7234 13817 6114 379 13817 10968 13948 </steps_updated>
+    <steps_updated num="2">11982 7475 11951 1928 669 11951 2207 415 10231 560 10765 5687 2974 1391 1928 5358 8664 </steps_updated>
+    <steps_updated num="3">13855 7990 199 14329 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01645</start_time>
+    <end_time>02302</end_time>
+  </duration_human>
+</recipe>

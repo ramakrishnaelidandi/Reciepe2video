@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mac and Cheese Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mac-and-cheese-balls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 cups ; macaroni ; (500 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; butter </ingredient>
+    <ingredient num="2">2 teaspoons ; flour </ingredient>
+    <ingredient num="3">1 ¾ cups ; milk ; (400 mL) </ingredient>
+    <ingredient num="4">2 ½ cups ; cheddar cheese ; (250 g) </ingredient>
+    <ingredient num="5">2 ½ cups ; red leicester ; (250 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">2 ; eggs, for egg wash </ingredient>
+    <ingredient num="9">breadcrumb, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32239/low_1495125459.m3u8</low>
+    <high>https://vid.tasty.co/output/32239/mp4_720x1280/1495125459</high>
+  </video>
+  <steps>
+    <step num="0">Boil water, add macaroni and cook until al dente </step>
+    <step num="1">Melt butter in a pan and mix 2 tsp flour into it. </step>
+    <step num="2">Add the milk gradually. </step>
+    <step num="3">Add both cheeses and cook until melted and the sauce is thick </step>
+    <step num="4">Season with salt and pepper. </step>
+    <step num="5">Add cooked macaroni and thoroughly cover. </step>
+    <step num="6">Refrigerate mixture for one hour. </step>
+    <step num="7">Take mixture out and form into balls on another plate. </step>
+    <step num="8">Refrigerate for 2 hours. </step>
+    <step num="9">Dip the solid balls in egg wash, then breadcrumbs. </step>
+    <step num="10">Fry in hot pan of oil until golden brown on both sides. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Boil water, add macaroni and cook until al dente </steps_updated>
+    <steps_updated num="1">Melt butter in a pan and mix 2 tsp flour into it. </steps_updated>
+    <steps_updated num="2">Add the milk gradually. </steps_updated>
+    <steps_updated num="3">Add both cheeses and cook until melted and the sauce is thick </steps_updated>
+    <steps_updated num="4">Season with salt and pepper. </steps_updated>
+    <steps_updated num="5">Add cooked macaroni and thoroughly cover. </steps_updated>
+    <steps_updated num="6">Refrigerate mixture for one hour. </steps_updated>
+    <steps_updated num="7">Take mixture out and form into balls on another plate. </steps_updated>
+    <steps_updated num="8">Refrigerate for 2 hours. </steps_updated>
+    <steps_updated num="9">Dip the solid balls in egg wash, then breadcrumbs. </steps_updated>
+    <steps_updated num="10">Fry in hot pan of oil until golden brown on both sides. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

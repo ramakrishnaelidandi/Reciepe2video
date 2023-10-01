@@ -1,0 +1,64 @@
+<recipe>
+  <title>Saltfish Buljol Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/saltfish-buljol</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/trinidadian-roti</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 82 1293 6319 13278 6730 5981 </ingredient>
+    <ingredient num="1">13086 2952 13278 12282 13278 8891 1580 1767 </ingredient>
+    <ingredient num="2">13086 13278 5689 14432 </ingredient>
+    <ingredient num="3">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="4">1580 13278 13757 4617 12384 341 </ingredient>
+    <ingredient num="5">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="6">12791 2605 13278 6209 6293 3962 13278 1936 5981 </ingredient>
+    <ingredient num="7">1580 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="8">1580 13278 13956 1466 10986 341 </ingredient>
+    <ingredient num="9">3917 2605 13278 9491 3962 13278 6898 5981 </ingredient>
+    <ingredient num="10">3917 8071 13278 6209 2768 </ingredient>
+    <ingredient num="11">10986 560 11567 </ingredient>
+    <ingredient num="12">1580 13278 9712 </ingredient>
+    <ingredient num="13">6209 6712 7990 4711 </ingredient>
+    <ingredient num="14">468 516 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81799/hls24_1519864109.m3u8</low>
+    <high>https://vid.tasty.co/output/81799/landscape_720/1519864109</high>
+  </video>
+  <duration>
+    <start_time>59.0</start_time>
+    <end_time>94.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">906 11951 6319 210 14243 484 7115 8745 13817 3345 210 2597 11844 1391 11951 12282 13817 4283 9731 11770 3996 7855 7990 8489 12689 </step>
+    <step num="1">3368 11951 6319 7811 1148 1185 560 4920 11951 82 2014 4429 3557 9490 8161 13700 11999 6190 10416 8132 </step>
+    <step num="2">11720 13817 3781 11951 6319 1391 12313 10628 </step>
+    <step num="3">8889 11951 5766 210 5994 2597 10060 11770 13757 2082 9179 11951 12384 4155 10286 1466 5016 7042 13817 11911 13817 2550 7990 6620 12689 </step>
+    <step num="4">9179 11951 8828 13817 2550 7990 6646 2933 12689 </step>
+    <step num="5">10242 1391 13584 7845 13817 9712 7654 13817 4711 1391 1117 12774 1391 976 2214 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">906 11951 6319 210 14243 484 7115 8745 13817 3345 210 2597 11844 1391 11951 12282 13817 4283 </steps_updated>
+    <steps_updated num="1">9731 11770 3996 7855 7990 8489 12689 </steps_updated>
+    <steps_updated num="2">3368 11951 6319 7811 1148 1185 560 4920 11951 82 2014 </steps_updated>
+    <steps_updated num="3">4429 3557 9490 8161 13700 11999 6190 10416 8132 </steps_updated>
+    <steps_updated num="4">11720 13817 3781 11951 6319 1391 12313 10628 </steps_updated>
+    <steps_updated num="5">8889 11951 5766 210 5994 2597 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="6">9179 11951 12384 4155 10286 1466 5016 7042 13817 11911 13817 2550 7990 6620 12689 </steps_updated>
+    <steps_updated num="7">9179 11951 8828 13817 2550 7990 6646 2933 12689 </steps_updated>
+    <steps_updated num="8">10242 1391 13584 7845 13817 9712 7654 13817 4711 1391 1117 </steps_updated>
+    <steps_updated num="9">12774 1391 976 2214 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01454</start_time>
+    <end_time>02261</end_time>
+  </duration_human>
+</recipe>

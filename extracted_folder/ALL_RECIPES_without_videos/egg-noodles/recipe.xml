@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Egg Noodles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/egg-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray </ingredient>
+    <ingredient num="1">egg, beaten </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>99.333</start_time>
+    <end_time>117.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat a frying pan over medium heat and grease with nonstick spray. </step>
+    <step num="1">Add the beaten eggs to the pan, cover, reduce the heat to low, and cook until the eggs are set, about 5 minutes. Remove the pan from the heat. </step>
+    <step num="2">Transfer the cooked egg disc to a cutting board and cut into ½-inch (1 cm) wide strips. </step>
+    <step num="3">Toss with any sauce or in soup for easy egg noodles. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a frying pan over medium heat and grease with nonstick spray. </steps_updated>
+    <steps_updated num="1">Add the beaten eggs to the pan, cover, reduce the heat to low, and cook until the eggs are set, about 5 minutes. </steps_updated>
+    <steps_updated num="2">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="3">Transfer the cooked egg disc to a cutting board and cut into ½-inch (1 cm) wide strips. </steps_updated>
+    <steps_updated num="4">Toss with any sauce or in soup for easy egg noodles. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Chicken Piccata Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-chicken-piccata</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; large, boneless, skinless chicken breast </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">flour, as needed </ingredient>
+    <ingredient num="4">3 tablespoons ; butter </ingredient>
+    <ingredient num="5">½ cup ; chicken broth ; (120 mL) </ingredient>
+    <ingredient num="6">1 ; lemon, Juiced </ingredient>
+    <ingredient num="7">2 tablespoons ; caper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32095/low_1495125390.m3u8</low>
+    <high>https://vid.tasty.co/output/32095/mp4_720x1280/1495125390</high>
+  </video>
+  <steps>
+    <step num="0">Butterfly the chicken breast and pound it thin. Salt and pepper to taste. </step>
+    <step num="1">Dredge each piece in flour, shaking off the excess. </step>
+    <step num="2">In a skillet over high heat, melt three Tbsp. butter, and brown the chicken, the browner and crispier the better, 3–5 minutes on each side. </step>
+    <step num="3">Remove chicken from the skillet, and, in the same pan, add chicken stock, lemon, and capers. </step>
+    <step num="4">Boil until the sauce reduces by ⅓, and return the chicken to the skillet. </step>
+    <step num="5">Spoon sauce over the chicken several times. </step>
+    <step num="6">Serve immediately, with the remaining sauce poured over the chicken. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Butterfly the chicken breast and pound it thin. </steps_updated>
+    <steps_updated num="1">Salt and pepper to taste. </steps_updated>
+    <steps_updated num="2">Dredge each piece in flour, shaking off the excess. </steps_updated>
+    <steps_updated num="3">In a skillet over high heat, melt three Tbsp. </steps_updated>
+    <steps_updated num="4">butter, and brown the chicken, the browner and crispier the better, 3–5 minutes on each side. </steps_updated>
+    <steps_updated num="5">Remove chicken from the skillet, and, in the same pan, add chicken stock, lemon, and capers. </steps_updated>
+    <steps_updated num="6">Boil until the sauce reduces by ⅓, and return the chicken to the skillet. </steps_updated>
+    <steps_updated num="7">Spoon sauce over the chicken several times. </steps_updated>
+    <steps_updated num="8">Serve immediately, with the remaining sauce poured over the chicken. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

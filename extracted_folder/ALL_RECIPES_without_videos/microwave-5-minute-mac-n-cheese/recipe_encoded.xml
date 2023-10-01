@@ -1,0 +1,49 @@
+<recipe>
+  <title>Microwave 5-Minute Mac 'N' Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwave-5-minute-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-dorm-friendly-microwave-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 4302 996 13278 2264 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="2">13086 9486 13278 5802 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">12791 2605 13278 3333 9784 14538 13278 1936 5981 </ingredient>
+    <ingredient num="6">6209 11292 560 4313 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/52822/low_1505933071.m3u8</low>
+    <high>https://vid.tasty.co/output/52822/mp4_720x1280/1505933071</high>
+  </video>
+  <duration>
+    <start_time>12.06</start_time>
+    <end_time>36.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">9393 11951 10370 13384 13817 82 210 5994 12837 5734 </step>
+    <step num="1">6688 7990 6865 11004 415 12224 </step>
+    <step num="2">9179 11951 9889 13810 12610 13817 10986 415 12224 </step>
+    <step num="3">6688 7990 6646 238 6659 6991 13817 4711 1391 5994 1678 371 7532 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9393 11951 10370 13384 13817 82 210 5994 12837 5734 </steps_updated>
+    <steps_updated num="1">6688 7990 6865 11004 415 12224 </steps_updated>
+    <steps_updated num="2">9179 11951 9889 13810 12610 13817 10986 415 12224 </steps_updated>
+    <steps_updated num="3">6688 7990 6646 238 6659 6991 13817 4711 1391 5994 1678 371 7532 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00077</start_time>
+    <end_time>01137</end_time>
+  </duration_human>
+</recipe>

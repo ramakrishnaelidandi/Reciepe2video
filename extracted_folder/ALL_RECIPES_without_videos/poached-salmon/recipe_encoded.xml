@@ -1,0 +1,47 @@
+<recipe>
+  <title>Poached Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/poached-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-cook-salmon</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 2144 7989 721 13278 8118 5981 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">11371 560 11567 </ingredient>
+    <ingredient num="4">3917 13278 5516 976 </ingredient>
+    <ingredient num="5">6209 5040 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24516/low_1487727857.m3u8</low>
+    <high>https://vid.tasty.co/output/24516/mp4_720x1280/1487727857</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>21.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">1349 5994 5687 1391 9815 12282 560 4585 5994 10332 8785 11951 12282 560 5994 5181 </step>
+    <step num="1">9179 12610 10335 976 5516 13817 9211 560 2019 </step>
+    <step num="2">9179 9069 6506 11951 11745 13817 2550 7990 5527 12689 </step>
+    <step num="3">6054 7989 6781 11745 13817 12616 1391 12610 10986 13817 6209 6279 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1349 5994 5687 1391 9815 12282 560 4585 5994 10332 </steps_updated>
+    <steps_updated num="1">8785 11951 12282 560 5994 5181 </steps_updated>
+    <steps_updated num="2">9179 12610 10335 976 5516 13817 9211 560 2019 </steps_updated>
+    <steps_updated num="3">9179 9069 6506 11951 11745 13817 2550 7990 5527 12689 </steps_updated>
+    <steps_updated num="4">6054 7989 6781 11745 13817 12616 1391 12610 10986 13817 6209 6279 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00668</end_time>
+  </duration_human>
+</recipe>

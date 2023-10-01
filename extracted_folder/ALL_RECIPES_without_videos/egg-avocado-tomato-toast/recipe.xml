@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Egg, Avocado, &amp; Tomato Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/egg-avocado-tomato-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-under-10-minutes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 slice ; bread </ingredient>
+    <ingredient num="1">1 ; avocado </ingredient>
+    <ingredient num="2">2 ; cherry tomatoes, sliced </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57653/low_1508540059.m3u8</low>
+    <high>https://vid.tasty.co/output/57653/mp4_720x1280/1508540059</high>
+  </video>
+  <duration>
+    <start_time>0.8599999999999999</start_time>
+    <end_time>21.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Sliced two cherry tomatoes. </step>
+    <step num="1">Mash ½ of 1 avocado with salt. (Use the other half for another toast.) </step>
+    <step num="2">Prepare bread in a toaster to desired crispiness. </step>
+    <step num="3">In a pan, fry an egg sunny side up. </step>
+    <step num="4">Assemble the toast by spreading avocado on the toast, then the tomatoes and topping everything with the egg. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Sliced two cherry tomatoes. </steps_updated>
+    <steps_updated num="1">Mash ½ of 1 avocado with salt. </steps_updated>
+    <steps_updated num="2">(Use the other half for another toast.) </steps_updated>
+    <steps_updated num="3">Prepare bread in a toaster to desired crispiness. </steps_updated>
+    <steps_updated num="4">In a pan, fry an egg sunny side up. </steps_updated>
+    <steps_updated num="5">Assemble the toast by spreading avocado on the toast, then the tomatoes and topping everything with the egg. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00080</start_time>
+    <end_time>00652</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Twists Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-twists</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/puff-pasty-decorating</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray </ingredient>
+    <ingredient num="1">8.6 oz ; puff pastry, 1 sheet, thawed if frozen ; (245 g) </ingredient>
+    <ingredient num="2">½ cup ; chocolate hazelnut spread ; (150 g) </ingredient>
+    <ingredient num="3">1 ; egg, beaten </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105922/hls24_1534791579.m3u8</low>
+    <high>https://vid.tasty.co/output/105922/landscape_720/1534791579</high>
+  </video>
+  <duration>
+    <start_time>66.0</start_time>
+    <end_time>105.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut the puff pastry sheet into quarters. </step>
+    <step num="1">Use a spatula to spread ⅛ cup (35 g) of chocolate hazelnut spread over a square, then roll it up. </step>
+    <step num="2">Preheat the oven to 400˚F (200˚C). Grease a baking sheet with nonstick spray. </step>
+    <step num="3">Slice the roll in half lengthwise. Braid the halves around each other and use egg wash to seal the ends. </step>
+    <step num="4">Transfer the twists to the prepared baking sheet and brush with egg wash. </step>
+    <step num="5">Bake for 14 minutes, or until golden brown. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the puff pastry sheet into quarters. </steps_updated>
+    <steps_updated num="1">Use a spatula to spread ⅛ cup (35 g) of chocolate hazelnut spread over a square, then roll it up. </steps_updated>
+    <steps_updated num="2">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="3">Grease a baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="4">Slice the roll in half lengthwise. </steps_updated>
+    <steps_updated num="5">Braid the halves around each other and use egg wash to seal the ends. </steps_updated>
+    <steps_updated num="6">Transfer the twists to the prepared baking sheet and brush with egg wash. </steps_updated>
+    <steps_updated num="7">Bake for 14 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

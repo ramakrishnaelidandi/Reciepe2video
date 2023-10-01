@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Piña Colada In A Pineapple Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pina-colada-in-a-pineapple</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; pineapple </ingredient>
+    <ingredient num="1">1 cup ; coconut cream ; (240 g) </ingredient>
+    <ingredient num="2">¼ cup ; coconut milk ; (60 mL) </ingredient>
+    <ingredient num="3">1 cup ; white rum ; (235 mL) </ingredient>
+    <ingredient num="4">3 cups ; ice ; (420 g) </ingredient>
+    <ingredient num="5">1 ; lime, juiced </ingredient>
+    <ingredient num="6">1 ; pineapple corer </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51630/low_1504904419.m3u8</low>
+    <high>https://vid.tasty.co/output/51630/mp4_720x1280/1504904419</high>
+  </video>
+  <steps>
+    <step num="0">Using a pineapple corer, core the pineapple and slice the pineapple into chunks. </step>
+    <step num="1">Place the pineapple chunks flat on a baking sheet and freeze solid, about 2 hours. </step>
+    <step num="2">In a blender, add the frozen pineapple, coconut cream, coconut milk, white rum, ice, and lime juice. </step>
+    <step num="3">Place the blender back in the freezer for 20 minutes or until thickened. </step>
+    <step num="4">Blend one more time until fully incorporated. </step>
+    <step num="5">Pour piña colada back into the pineapple. </step>
+    <step num="6">Top with a maraschino cherry. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a pineapple corer, core the pineapple and slice the pineapple into chunks. </steps_updated>
+    <steps_updated num="1">Place the pineapple chunks flat on a baking sheet and freeze solid, about 2 hours. </steps_updated>
+    <steps_updated num="2">In a blender, add the frozen pineapple, coconut cream, coconut milk, white rum, ice, and lime juice. </steps_updated>
+    <steps_updated num="3">Place the blender back in the freezer for 20 minutes or until thickened. </steps_updated>
+    <steps_updated num="4">Blend one more time until fully incorporated. </steps_updated>
+    <steps_updated num="5">Pour piña colada back into the pineapple. </steps_updated>
+    <steps_updated num="6">Top with a maraschino cherry. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

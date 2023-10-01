@@ -1,0 +1,65 @@
+<recipe>
+  <title>Steak And Potato Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-and-potato-nachos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cheesecakes-vs-cheese-steaks</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 9780 2274 976 </ingredient>
+    <ingredient num="1">3917 715 13278 10976 11009 13278 4563 5981 </ingredient>
+    <ingredient num="2">4061 9486 13278 8244 5766 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">8580 2031 13278 9496 </ingredient>
+    <ingredient num="6">3917 2605 13278 3333 9784 14538 13278 11953 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 3333 900 8572 14538 13278 2264 5981 </ingredient>
+    <ingredient num="8">1484 13033 </ingredient>
+    <ingredient num="9">10599 2517 </ingredient>
+    <ingredient num="10">8580 13278 4985 7272 10015 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68100/hls24_1513283473.m3u8</low>
+    <high>https://vid.tasty.co/output/68100/landscape_720/1513283473</high>
+  </video>
+  <duration>
+    <start_time>72.75</start_time>
+    <end_time>127.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 976 13233 210 5994 2597 7616 7643 1391 8244 7632 12610 10986 13817 4700 </step>
+    <step num="1">4124 11951 13233 4255 5994 10765 213 13817 10903 7811 11854 10341 7990 5527 12689 </step>
+    <step num="2">10242 10976 11009 1391 82 13817 12375 264 4255 8283 7855 7990 7461 2734 8927 10763 7780 7990 10166 </step>
+    <step num="3">1828 11951 11009 12886 7990 13767 11004 415 12205 669 1170 </step>
+    <step num="4">10950 5994 6541 4782 10060 5895 10765 11020 8093 3745 13233 669 5994 2752 13494 1391 8710 415 9784 13817 900 8572 4496 </step>
+    <step num="5">8151 7990 7460 8927 5895 1681 11951 14538 9490 1311 </step>
+    <step num="6">12774 6908 1391 1484 1123 10599 4985 11453 5895 7115 3297 371 13316 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 976 13233 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">7643 1391 8244 7632 12610 10986 13817 4700 </steps_updated>
+    <steps_updated num="2">4124 11951 13233 4255 5994 10765 213 13817 10903 7811 11854 10341 7990 5527 12689 </steps_updated>
+    <steps_updated num="3">10242 10976 11009 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="4">264 4255 8283 7855 7990 7461 2734 8927 10763 7780 7990 10166 </steps_updated>
+    <steps_updated num="5">1828 11951 11009 12886 7990 13767 11004 415 12205 669 1170 </steps_updated>
+    <steps_updated num="6">10950 5994 6541 4782 10060 5895 10765 11020 8093 3745 13233 669 5994 2752 </steps_updated>
+    <steps_updated num="7">13494 1391 8710 415 9784 13817 900 8572 4496 </steps_updated>
+    <steps_updated num="8">8151 7990 7460 8927 5895 1681 11951 14538 9490 1311 </steps_updated>
+    <steps_updated num="9">12774 6908 1391 1484 1123 10599 4985 11453 5895 7115 3297 371 13316 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01782</start_time>
+    <end_time>03059</end_time>
+  </duration_human>
+</recipe>

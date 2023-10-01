@@ -1,0 +1,53 @@
+<recipe>
+  <title>Barbecue Beer Can Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-beer-can-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1813 2605 13278 1368 4834 13278 3433 5981 </ingredient>
+    <ingredient num="1">8580 2031 13278 6334 11703 </ingredient>
+    <ingredient num="2">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="3">3917 8071 13278 6422 11703 </ingredient>
+    <ingredient num="4">8580 2031 13278 11986 9496 </ingredient>
+    <ingredient num="5">3917 8071 13278 7845 </ingredient>
+    <ingredient num="6">8580 2031 13278 796 7576 </ingredient>
+    <ingredient num="7">8580 2031 13278 82 </ingredient>
+    <ingredient num="8">2933 715 13278 3305 12816 3917 3305 12816 2361 3716 13278 8891 12791 10482 </ingredient>
+    <ingredient num="9">3917 14138 13278 4615 </ingredient>
+    <ingredient num="10">1580 2605 13278 8961 2260 13278 4337 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45728/low_1501610489.m3u8</low>
+    <high>https://vid.tasty.co/output/45728/mp4_720x1280/1501610489</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 14511 740 11951 1368 6145 6334 8117 11384 8117 6422 8117 11986 6958 10986 11448 13817 82 13817 6142 560 1011 8431 2532 371 11951 7717 7094 560 12616 11951 887 9104 4660 1391 8438 7558 13817 173 7990 7811 767 8580 12721 5895 3386 560 14142 </step>
+    <step num="1">3915 11951 9937 560 12738 11454 </step>
+    <step num="2">6054 11951 7983 6781 11951 10437 13817 12616 1391 11951 374 7717 10540 13469 2696 2532 11951 14138 371 13505 5570 11951 6022 14138 210 11951 7983 9756 13817 794 3557 4088 </step>
+    <step num="3">2927 11951 7983 11770 6580 7855 7990 11877 12689 1878 11951 7983 1391 8961 2260 13817 2550 7990 6646 8489 11004 1681 11951 1124 2281 13751 4734 7446 </step>
+    <step num="4">6054 7983 6781 11951 9937 13817 3945 12886 7990 13133 8927 432 6479 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 740 11951 1368 6145 6334 8117 11384 8117 6422 8117 11986 6958 10986 11448 13817 82 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="1">8431 2532 371 11951 7717 7094 560 12616 11951 887 9104 </steps_updated>
+    <steps_updated num="2">4660 1391 8438 7558 13817 173 7990 7811 767 8580 12721 5895 3386 560 14142 </steps_updated>
+    <steps_updated num="3">3915 11951 9937 560 12738 11454 </steps_updated>
+    <steps_updated num="4">6054 11951 7983 6781 11951 10437 13817 12616 1391 11951 374 7717 10540 </steps_updated>
+    <steps_updated num="5">13469 2696 2532 11951 14138 371 13505 </steps_updated>
+    <steps_updated num="6">5570 11951 6022 14138 210 11951 7983 9756 13817 794 3557 4088 </steps_updated>
+    <steps_updated num="7">2927 11951 7983 11770 6580 7855 7990 11877 12689 </steps_updated>
+    <steps_updated num="8">1878 11951 7983 1391 8961 2260 13817 2550 7990 6646 8489 11004 1681 11951 1124 2281 13751 4734 7446 </steps_updated>
+    <steps_updated num="9">6054 7983 6781 11951 9937 13817 3945 12886 7990 13133 8927 432 6479 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

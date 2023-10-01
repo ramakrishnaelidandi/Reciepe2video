@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cranberry Pecan Cheese Ball Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cranberry-pecan-cheese-ball</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; cream cheese, softened ; (225 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; shredded sharp cheddar cheese ; (150 g) </ingredient>
+    <ingredient num="2">⅓ cup ; dried cranberry ; (40 g) </ingredient>
+    <ingredient num="3">⅓ cup ; chopped pecan, plus more for coating ; (40 g) </ingredient>
+    <ingredient num="4">¼ cup ; sliced green onion ; (50 g) </ingredient>
+    <ingredient num="5">crackers, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32037/low_1495125037.m3u8</low>
+    <high>https://vid.tasty.co/output/32037/mp4_720x1280/1495125037</high>
+  </video>
+  <steps>
+    <step num="0">Mix softened cream cheese, sharp cheddar, dried cranberries, pecans, and green onions until well-combined. </step>
+    <step num="1">Form into a ball, then roll in chopped pecans to coat. </step>
+    <step num="2">Serve with crackers of your choice. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix softened cream cheese, sharp cheddar, dried cranberries, pecans, and green onions until well-combined. </steps_updated>
+    <steps_updated num="1">Form into a ball, then roll in chopped pecans to coat. </steps_updated>
+    <steps_updated num="2">Serve with crackers of your choice. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Curry Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-curry-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">1 teaspoon ; curry powder </ingredient>
+    <ingredient num="2">1 tablespoon ; oil </ingredient>
+    <ingredient num="3">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">2 tablespoons ; oil </ingredient>
+    <ingredient num="6">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="7">1 tablespoon ; grated ginger </ingredient>
+    <ingredient num="8">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="9">1 cup ; tomato, diced ; (200 g) </ingredient>
+    <ingredient num="10">1 tablespoon ; curry powder </ingredient>
+    <ingredient num="11">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="12">1 cup ; chicken stock ; (240 mL) </ingredient>
+    <ingredient num="13">½ cup ; greek yogurt ; (120 g) </ingredient>
+    <ingredient num="14">french fries </ingredient>
+    <ingredient num="15">fresh cilantro, for garnish </ingredient>
+    <ingredient num="16">½ cup ; chicken stock ; (120 mL) </ingredient>
+    <ingredient num="17">1 tablespoon ; cornstarch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32258/low_1495125465.m3u8</low>
+    <high>https://vid.tasty.co/output/32258/mp4_720x1280/1495125465</high>
+  </video>
+  <steps>
+    <step num="0">Slice chicken breast into strips. </step>
+    <step num="1">Add the curry powder, oil, pepper, and salt to the prepared chicken. Rub in the dry ingredients and make sure the chicken is evenly coated. </step>
+    <step num="2">Heat oil in a skillet over medium heat. </step>
+    <step num="3">Add the chicken and cook until partially done. Remove from skillet and place in a clean bowl. </step>
+    <step num="4">Add onions, ginger, and garlic to skillet. Cook until the onions are translucent. </step>
+    <step num="5">Add the diced tomato, curry powder, cayenne pepper, and chicken stock. </step>
+    <step num="6">Return the partially cooked chicken. Stir and cook until chicken is done. </step>
+    <step num="7">Stir in the chicken stock cornstarch slurry. Cook until the curry has thickened. </step>
+    <step num="8">Turn off the heat and stir in the Greek yogurt. </step>
+    <step num="9">Preheat oven to 450°F (230°C), place french fries on baking sheet, bake for 18 minutes (either from scratch or frozen). </step>
+    <step num="10">Pour chicken curry over french fries, garnish with cilantro, as desired. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice chicken breast into strips. </steps_updated>
+    <steps_updated num="1">Add the curry powder, oil, pepper, and salt to the prepared chicken. </steps_updated>
+    <steps_updated num="2">Rub in the dry ingredients and make sure the chicken is evenly coated. </steps_updated>
+    <steps_updated num="3">Heat oil in a skillet over medium heat. </steps_updated>
+    <steps_updated num="4">Add the chicken and cook until partially done. </steps_updated>
+    <steps_updated num="5">Remove from skillet and place in a clean bowl. </steps_updated>
+    <steps_updated num="6">Add onions, ginger, and garlic to skillet. </steps_updated>
+    <steps_updated num="7">Cook until the onions are translucent. </steps_updated>
+    <steps_updated num="8">Add the diced tomato, curry powder, cayenne pepper, and chicken stock. </steps_updated>
+    <steps_updated num="9">Return the partially cooked chicken. </steps_updated>
+    <steps_updated num="10">Stir and cook until chicken is done. </steps_updated>
+    <steps_updated num="11">Stir in the chicken stock cornstarch slurry. </steps_updated>
+    <steps_updated num="12">Cook until the curry has thickened. </steps_updated>
+    <steps_updated num="13">Turn off the heat and stir in the Greek yogurt. </steps_updated>
+    <steps_updated num="14">Preheat oven to 450°F (230°C), place french fries on baking sheet, bake for 18 minutes (either from scratch or frozen). </steps_updated>
+    <steps_updated num="15">Pour chicken curry over french fries, garnish with cilantro, as desired. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

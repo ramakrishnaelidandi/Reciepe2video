@@ -1,0 +1,55 @@
+<recipe>
+  <title>Pesto And Prosciutto Zucchini Linguine Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-and-prosciutto-zucchini-linguine</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-no-cook-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 13757 9244 6416 13817 3147 </ingredient>
+    <ingredient num="1">8580 9517 13278 13220 13278 12158 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 6209 6250 4052 7789 3954 7990 4711 13278 336 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 5607 9656 13278 13125 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 3333 109 13810 7789 3954 7990 4711 13278 1936 5981 </ingredient>
+    <ingredient num="5">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="6">12791 2605 13278 8244 7632 7789 3954 2658 13615 13278 13125 8007 </ingredient>
+    <ingredient num="7">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="8">12610 560 11567 </ingredient>
+    <ingredient num="9">10986 560 11567 </ingredient>
+    <ingredient num="10">3917 2605 13278 8602 7042 10844 13278 6898 5981 </ingredient>
+    <ingredient num="11">8580 8535 13278 9362 13985 5895 7777 669 12286 4917 </ingredient>
+    <ingredient num="12">597 14461 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100410/hls24_1530231269.m3u8</low>
+    <high>https://vid.tasty.co/output/100410/landscape_720/1530231269</high>
+  </video>
+  <duration>
+    <start_time>7.5</start_time>
+    <end_time>69.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">8431 5994 7299 560 7777 11951 7601 669 478 9179 11951 8061 560 5994 7818 12377 13817 817 5292 </step>
+    <step num="1">6823 11951 5087 210 5994 8016 9909 5895 6212 740 11951 2602 749 5607 9400 6696 4155 8244 7632 597 7654 12610 13817 12375 3262 560 13218 9265 14330 3954 8244 5766 2658 10428 </step>
+    <step num="2">9679 11951 2334 11770 11951 7601 12279 415 740 11951 8602 717 13817 7557 7643 1681 11951 8061 12573 10681 </step>
+    <step num="3">6252 1391 3220 13817 4711 1391 6250 13817 597 14160 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8431 5994 7299 560 7777 11951 7601 669 478 </steps_updated>
+    <steps_updated num="1">9179 11951 8061 560 5994 7818 12377 13817 817 5292 </steps_updated>
+    <steps_updated num="2">6823 11951 5087 210 5994 8016 9909 5895 6212 740 11951 2602 749 5607 9400 6696 4155 8244 7632 597 7654 12610 13817 12375 </steps_updated>
+    <steps_updated num="3">3262 560 13218 9265 14330 3954 8244 5766 2658 10428 </steps_updated>
+    <steps_updated num="4">9679 11951 2334 11770 11951 7601 12279 415 740 11951 8602 717 13817 7557 </steps_updated>
+    <steps_updated num="5">7643 1681 11951 8061 12573 10681 </steps_updated>
+    <steps_updated num="6">6252 1391 3220 13817 4711 1391 6250 13817 597 14160 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

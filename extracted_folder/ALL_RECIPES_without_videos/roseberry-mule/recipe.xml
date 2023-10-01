@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roseberry Mule Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roseberry-mule</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-summer-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">5 ; blackberries </ingredient>
+    <ingredient num="1">1 sprig ; fresh rosemary, plus 1 for garnish </ingredient>
+    <ingredient num="2">1 tablespoon ; agave nectar, or honey </ingredient>
+    <ingredient num="3">1 ½ fl oz ; vodka ; (45 mL) </ingredient>
+    <ingredient num="4">1 cup ; ginger beer ; (240 mL) </ingredient>
+    <ingredient num="5">1 slice ; lime </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94686/hls24_1526593742.m3u8</low>
+    <high>https://vid.tasty.co/output/94686/landscape_720/1526593742</high>
+  </video>
+  <duration>
+    <start_time>55.0</start_time>
+    <end_time>85.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">To a cocktail shaker, add blackberries and rosemary. Muddle until juicy. </step>
+    <step num="1">Add agave, vodka, and ice. Attach cocktail shaker lid and shake well. </step>
+    <step num="2">Strain blackberry mixture over a copper mug filled with ice. Top with ginger beer, and squeeze a slice of lime into it. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To a cocktail shaker, add blackberries and rosemary. </steps_updated>
+    <steps_updated num="1">Muddle until juicy. </steps_updated>
+    <steps_updated num="2">Add agave, vodka, and ice. </steps_updated>
+    <steps_updated num="3">Attach cocktail shaker lid and shake well. </steps_updated>
+    <steps_updated num="4">Strain blackberry mixture over a copper mug filled with ice. </steps_updated>
+    <steps_updated num="5">Top with ginger beer, and squeeze a slice of lime into it. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

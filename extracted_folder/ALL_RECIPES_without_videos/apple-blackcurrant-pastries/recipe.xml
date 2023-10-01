@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple &amp; Blackcurrant Pastries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-blackcurrant-pastries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 sheet ; puff pastry </ingredient>
+    <ingredient num="1">8 teaspoons ; blackcurrant jam </ingredient>
+    <ingredient num="2">4 ; apples, sliced </ingredient>
+    <ingredient num="3">2 tablespoons ; sugar </ingredient>
+    <ingredient num="4">2 tablespoons ; cinnamon </ingredient>
+    <ingredient num="5">1 ; egg, beaten </ingredient>
+    <ingredient num="6">1 cup ; icing sugar ; (150 g) </ingredient>
+    <ingredient num="7">3 tablespoons ; milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Fusion</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14528/low_1478887586.m3u8</low>
+    <high>https://vid.tasty.co/output/14528/mp4_720x1280/1478887586</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Roll out the sheet of puff pastry and cut into 8 equal rectangles. </step>
+    <step num="2">Cut a border about 1 cm (½ inch) from the outside, not cutting all the way through the pastry. </step>
+    <step num="3">Spread the blackcurrant jam all over the center. Layer apples in an overlapping pattern. </step>
+    <step num="4">Sprinkle with sugar and cinnamon. </step>
+    <step num="5">Transfer to parchment-lined tray and brush with egg wash. </step>
+    <step num="6">Bake for 25 minutes, then cool. </step>
+    <step num="7">Mix together the icing sugar and milk until it is a thick paste. </step>
+    <step num="8">Drizzle over the cooled pastries. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Roll out the sheet of puff pastry and cut into 8 equal rectangles. </steps_updated>
+    <steps_updated num="2">Cut a border about 1 cm (½ inch) from the outside, not cutting all the way through the pastry. </steps_updated>
+    <steps_updated num="3">Spread the blackcurrant jam all over the center. </steps_updated>
+    <steps_updated num="4">Layer apples in an overlapping pattern. </steps_updated>
+    <steps_updated num="5">Sprinkle with sugar and cinnamon. </steps_updated>
+    <steps_updated num="6">Transfer to parchment-lined tray and brush with egg wash. </steps_updated>
+    <steps_updated num="7">Bake for 25 minutes, then cool. </steps_updated>
+    <steps_updated num="8">Mix together the icing sugar and milk until it is a thick paste. </steps_updated>
+    <steps_updated num="9">Drizzle over the cooled pastries. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,48 @@
+<recipe>
+  <title>Veggie Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-nuggets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 8445 4125 13817 7777 669 7306 </ingredient>
+    <ingredient num="1">1580 3173 13278 1633 14339 3386 </ingredient>
+    <ingredient num="2">3917 3173 13278 8741 14339 3386 </ingredient>
+    <ingredient num="3">8580 13667 13278 4155 3962 </ingredient>
+    <ingredient num="4">3917 13278 6216 </ingredient>
+    <ingredient num="5">1580 8071 13278 6334 11703 </ingredient>
+    <ingredient num="6">3917 8071 13278 82 </ingredient>
+    <ingredient num="7">1580 8071 13278 7845 </ingredient>
+    <ingredient num="8">3917 9883 9517 13278 4465 9031 13278 6904 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20092/low_1483744153.m3u8</low>
+    <high>https://vid.tasty.co/output/20092/mp4_720x1280/1483744153</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 8016 5349 1279 8445 1633 8741 4155 4036 6334 8117 12610 13817 7845 1681 4309 </step>
+    <step num="1">9179 1414 2605 4337 14386 371 4465 9031 13817 1279 644 1681 9456 </step>
+    <step num="2">9679 5994 14014 371 11951 2373 13817 1978 5994 2192 9823 2124 </step>
+    <step num="3">5570 11951 374 1580 2605 13125 14386 371 4465 9031 210 5994 12377 13817 6506 10763 1647 1391 11951 4465 10745 </step>
+    <step num="4">10948 7256 1391 5994 2192 13630 371 5766 11770 3996 7855 1681 6697 10860 12573 10963 1240 6285 13767 12689 5295 1762 14138 10903 3755 4255 5994 9152 371 3550 12 7811 11480 13129 7990 2800 11004 9309 9994 11951 3859 13133 12689 </step>
+    <step num="5">12774 1391 12313 226 7361 9286 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8016 5349 1279 8445 1633 8741 4155 4036 6334 8117 12610 13817 7845 1681 4309 </steps_updated>
+    <steps_updated num="1">9179 1414 2605 4337 14386 371 4465 9031 13817 1279 644 1681 9456 </steps_updated>
+    <steps_updated num="2">9679 5994 14014 371 11951 2373 13817 1978 5994 2192 9823 2124 </steps_updated>
+    <steps_updated num="3">5570 11951 374 1580 2605 13125 14386 371 4465 9031 210 5994 12377 13817 6506 10763 1647 1391 11951 4465 10745 </steps_updated>
+    <steps_updated num="4">10948 7256 1391 5994 2192 13630 371 5766 11770 3996 7855 1681 6697 10860 12573 10963 1240 6285 13767 12689 </steps_updated>
+    <steps_updated num="5">5295 1762 14138 10903 3755 4255 5994 9152 371 3550 12 7811 11480 13129 7990 2800 11004 9309 9994 11951 3859 13133 12689 </steps_updated>
+    <steps_updated num="6">12774 1391 12313 226 7361 9286 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

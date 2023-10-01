@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese-Stuffed Blooming Onion Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-stuffed-blooming-onion</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; medium sweet onions, peeled </ingredient>
+    <ingredient num="1">1 ½ cups ; milk ; (355 mL) </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">1 ½ cups ; flour ; (185 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; garlic salt </ingredient>
+    <ingredient num="5">1 tablespoon ; black pepper </ingredient>
+    <ingredient num="6">1 tablespoon ; paprika </ingredient>
+    <ingredient num="7">canola oil, for frying </ingredient>
+    <ingredient num="8">marinara sauce, for serving </ingredient>
+    <ingredient num="9">2 slices ; mozzarella </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18727/low_1482259552.m3u8</low>
+    <high>https://vid.tasty.co/output/18727/mp4_720x1280/1482259552</high>
+  </video>
+  <steps>
+    <step num="0">Cut just the top off an onion and place it cut-side down. </step>
+    <step num="1">Using a sharp knife, go around the root of the onion and make 4 evenly spaced cuts, being careful not to cut all the way through. Go back around and make 2 additional cuts between each quarter. </step>
+    <step num="2">Flip the onion over and coax apart its layers (or “petals”). </step>
+    <step num="3">Place 2 slices of mozzarella cheese on top of each other, cut them into ½-inch (1 cm) slices, then cut them in half. </step>
+    <step num="4">Place a piece of cheese in between all of the onion petals. </step>
+    <step num="5">Freeze the onion for 1 hour. </step>
+    <step num="6">In a medium bowl, whisk together the milk and the eggs. </step>
+    <step num="7">In large bowl, whisk together the flour, garlic salt, black pepper, and paprika. </step>
+    <step num="8">Place the onion in the wet mixture, turning it until every petal is coated. </step>
+    <step num="9">Place the onion in the dry mixture, coating every petal. </step>
+    <step num="10">Coat the onion in the egg wash and dry mixture one more time. </step>
+    <step num="11">Place onion in the freezer for 20 minutes. </step>
+    <step num="12">Heat canola oil to 375ºF (190ºC) in a deep-fryer or Dutch oven. </step>
+    <step num="13">With tongs, add the onion to the oil for 2 minutes or until it is browned and crispy on all sides. </step>
+    <step num="14">Move onion to plate covered in paper towels and allow to drain for 5 minutes. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut just the top off an onion and place it cut-side down. </steps_updated>
+    <steps_updated num="1">Using a sharp knife, go around the root of the onion and make 4 evenly spaced cuts, being careful not to cut all the way through. </steps_updated>
+    <steps_updated num="2">Go back around and make 2 additional cuts between each quarter. </steps_updated>
+    <steps_updated num="3">Flip the onion over and coax apart its layers (or “petals”). </steps_updated>
+    <steps_updated num="4">Place 2 slices of mozzarella cheese on top of each other, cut them into ½-inch (1 cm) slices, then cut them in half. </steps_updated>
+    <steps_updated num="5">Place a piece of cheese in between all of the onion petals. </steps_updated>
+    <steps_updated num="6">Freeze the onion for 1 hour. </steps_updated>
+    <steps_updated num="7">In a medium bowl, whisk together the milk and the eggs. </steps_updated>
+    <steps_updated num="8">In large bowl, whisk together the flour, garlic salt, black pepper, and paprika. </steps_updated>
+    <steps_updated num="9">Place the onion in the wet mixture, turning it until every petal is coated. </steps_updated>
+    <steps_updated num="10">Place the onion in the dry mixture, coating every petal. </steps_updated>
+    <steps_updated num="11">Coat the onion in the egg wash and dry mixture one more time. </steps_updated>
+    <steps_updated num="12">Place onion in the freezer for 20 minutes. </steps_updated>
+    <steps_updated num="13">Heat canola oil to 375ºF (190ºC) in a deep-fryer or Dutch oven. </steps_updated>
+    <steps_updated num="14">With tongs, add the onion to the oil for 2 minutes or until it is browned and crispy on all sides. </steps_updated>
+    <steps_updated num="15">Move onion to plate covered in paper towels and allow to drain for 5 minutes. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

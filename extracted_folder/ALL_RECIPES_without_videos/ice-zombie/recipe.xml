@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>GoT Cocktails: Pineapple, Blue Curaçao, And Rum Ice Zombie</title>
+  <url>https://tasty.co/recipe/ice-zombie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">14 fl oz ; canned coconut milk, chilled ; (420 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; powdered sugar </ingredient>
+    <ingredient num="2">ice </ingredient>
+    <ingredient num="3">1 tablespoon ; blue sanding sugar </ingredient>
+    <ingredient num="4">1 tablespoon ; white sanding sugar </ingredient>
+    <ingredient num="5">2 fl oz ; pineapple juice, divided ; (60 mL) </ingredient>
+    <ingredient num="6">1 ½ oz ; white rum ; (45 mL) </ingredient>
+    <ingredient num="7">1 fl oz ; blue curaçao ; (30 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129055/hls24_1554398806.m3u8</low>
+    <high>https://vid.tasty.co/output/129055/landscape_720/1554398806</high>
+  </video>
+  <steps>
+    <step num="0">Carefully scoop the solid layer from the can of chilled coconut milk into a medium bowl. Blend with an electric hand mixer until fluffy. </step>
+    <step num="1">Add the powdered sugar and continue mixing until fully incorporated, scraping down the bowl as needed. While mixer is still running, add in a splash of coconut milk from the can, and mix until cream is silky and just falls from a spoon. Set aside. </step>
+    <step num="2">On a small plate, mix together the blue and white sugars. Pour 1 ounce pineapple juice into a small bowl. </step>
+    <step num="3">Dip the rim of a highball glass into the pineapple juice, then in the sugar mixture. Fill glass with ice. </step>
+    <step num="4">In a cocktail shaker filled with ice, combine the rum, blue curaçao, and remaining 1 ounce pineapple juice. Shake vigorously for 20 seconds. </step>
+    <step num="5">Strain into the sugared highball glass and top with 2 tablespoons of the coconut whipped cream. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Carefully scoop the solid layer from the can of chilled coconut milk into a medium bowl. </steps_updated>
+    <steps_updated num="1">Blend with an electric hand mixer until fluffy </steps_updated>
+    <steps_updated num="2">Add the powdered sugar and continue mixing until fully incorporated, scraping down the bowl as needed. </steps_updated>
+    <steps_updated num="3">While mixer is still running, add in a splash of coconut milk from the can, and mix until cream is silky and just falls from a spoon. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">On a small plate, mix together the blue and white sugars. </steps_updated>
+    <steps_updated num="6">Pour 1 ounce pineapple juice into a small bowl. </steps_updated>
+    <steps_updated num="7">Dip the rim of a highball glass into the pineapple juice, then in the sugar mixture. </steps_updated>
+    <steps_updated num="8">Fill glass with ice. </steps_updated>
+    <steps_updated num="9">In a cocktail shaker filled with ice, combine the rum, blue curaçao, and remaining 1 ounce pineapple juice. </steps_updated>
+    <steps_updated num="10">Shake vigorously for 20 seconds. </steps_updated>
+    <steps_updated num="11">Strain into the sugared highball glass and top with 2 tablespoons of the coconut whipped cream. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

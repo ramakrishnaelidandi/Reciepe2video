@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tofu Tenders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-tenders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray </ingredient>
+    <ingredient num="1">14 oz ; extra firm tofu, 1 block, drained ; (395 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt, plus more to taste, divided </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper, plus more to taste, divided </ingredient>
+    <ingredient num="4">½ cup ; all-purpose flour ; (60 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="6">½ cup ; milk, of choice ; (120 mL) </ingredient>
+    <ingredient num="7">1 teaspoon ; apple cider vinegar </ingredient>
+    <ingredient num="8">1 teaspoon ; dijon mustard </ingredient>
+    <ingredient num="9">½ cup ; bread crumbs ; (55 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="11">1 teaspoon ; paprika </ingredient>
+    <ingredient num="12">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="13">1 tablespoon ; nutritional yeast </ingredient>
+    <ingredient num="14">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="15">¼ teaspoon ; cayenne </ingredient>
+    <ingredient num="16">olive oil, for brushing </ingredient>
+    <ingredient num="17">honey mustard dipping sauce, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103158/hls24_1532560850.m3u8</low>
+    <high>https://vid.tasty.co/output/103158/landscape_720/1532560850</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425ºF (220ºC). Grease a baking sheet with nonstick spray. </step>
+    <step num="1">Wrap the tofu in a clean dish towel and place a heavy object, such as a cast-iron skillet, on top. Press the tofu for 20 minutes to remove excess liquid. </step>
+    <step num="2">Flip the tofu block on its side and slice in half lengthwise. Season all over with salt and pepper. </step>
+    <step num="3">Cut each piece of tofu lengthwise into quarters so you have 8 equally-sized pieces. </step>
+    <step num="4">In a medium bowl, combine the flour and cornstarch. Mix with a fork. </step>
+    <step num="5">In a separate medium bowl, combine the milk, apple cider vinegar, and Dijon mustard. Whisk with a fork until combined. </step>
+    <step num="6">In another medium bowl, combine the bread crumbs, salt, pepper, garlic powder, paprika, onion powder, nutritional yeast, cumin, and cayenne. Mix with a fork until combined. </step>
+    <step num="7">Take a piece of tofu and coat it in the flour mixture, followed by the milk mixture, then back into the flour mixture, back into the milk mixture, and finally, in the bread crumbs. </step>
+    <step num="8">Place on the prepared baking sheet and repeat with the remaining tofu sticks. </step>
+    <step num="9">Using a brush, coat each tender with an even layer of olive oil. </step>
+    <step num="10">Bake for 30-35 minutes, flipping halfway through, until golden brown and crispy. Brush with more olive oil, if necessary. </step>
+    <step num="11">Serve with honey mustard dipping sauce. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425ºF (220ºC). </steps_updated>
+    <steps_updated num="1">Grease a baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="2">Wrap the tofu in a clean dish towel and place a heavy object, such as a cast-iron skillet, on top. </steps_updated>
+    <steps_updated num="3">Press the tofu for 20 minutes to remove excess liquid. </steps_updated>
+    <steps_updated num="4">Flip the tofu block on its side and slice in half lengthwise. </steps_updated>
+    <steps_updated num="5">Season all over with salt and pepper. </steps_updated>
+    <steps_updated num="6">Cut each piece of tofu lengthwise into quarters so you have 8 equally-sized pieces. </steps_updated>
+    <steps_updated num="7">In a medium bowl, combine the flour and cornstarch. </steps_updated>
+    <steps_updated num="8">Mix with a fork. </steps_updated>
+    <steps_updated num="9">In a separate medium bowl, combine the milk, apple cider vinegar, and Dijon mustard. </steps_updated>
+    <steps_updated num="10">Whisk with a fork until combined. </steps_updated>
+    <steps_updated num="11">In another medium bowl, combine the bread crumbs, salt, pepper, garlic powder, paprika, onion powder, nutritional yeast, cumin, and cayenne. </steps_updated>
+    <steps_updated num="12">Mix with a fork until combined. </steps_updated>
+    <steps_updated num="13">Take a piece of tofu and coat it in the flour mixture, followed by the milk mixture, then back into the flour mixture, back into the milk mixture, and finally, in the bread crumbs. </steps_updated>
+    <steps_updated num="14">Place on the prepared baking sheet and repeat with the remaining tofu sticks. </steps_updated>
+    <steps_updated num="15">Using a brush, coat each tender with an even layer of olive oil. </steps_updated>
+    <steps_updated num="16">Bake for 30-35 minutes, flipping halfway through, until golden brown and crispy. </steps_updated>
+    <steps_updated num="17">Brush with more olive oil, if necessary. </steps_updated>
+    <steps_updated num="18">Serve with honey mustard dipping sauce. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

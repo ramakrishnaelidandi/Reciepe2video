@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>GoT Cocktails: The Debt Payer With Cinnamon And Bubbles</title>
+  <url>https://tasty.co/recipe/the-debt-payer</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; gold sprinkles </ingredient>
+    <ingredient num="1">1 wedge ; lemon </ingredient>
+    <ingredient num="2">1 ½ fl oz ; goldschlager ; (45 mL) </ingredient>
+    <ingredient num="3">6 fl oz ; champagne, chilled ; (175 mL) </ingredient>
+    <ingredient num="4">1 pinch ; edible gold glitter </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129053/hls24_1554398766.m3u8</low>
+    <high>https://vid.tasty.co/output/129053/landscape_720/1554398766</high>
+  </video>
+  <steps>
+    <step num="0">Place gold sprinkles in a small bowl. Run the lemon wedge around the rim of a champagne flute. Dip the rim in the sprinkles. </step>
+    <step num="1">Add the Goldschlager to the flute and top with the champagne. Gently stir in the edible glitter. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place gold sprinkles in a small bowl. </steps_updated>
+    <steps_updated num="1">Run the lemon wedge around the rim of a champagne flute. </steps_updated>
+    <steps_updated num="2">Dip the rim in the sprinkles. </steps_updated>
+    <steps_updated num="3">Add the Goldschlager to the flute and top with the champagne. </steps_updated>
+    <steps_updated num="4">Gently stir in the edible glitter. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

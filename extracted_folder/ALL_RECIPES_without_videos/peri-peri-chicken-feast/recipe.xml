@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peri Peri Chicken Feast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peri-peri-chicken-feast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken </ingredient>
+    <ingredient num="1">1 cup ; olive oil ; (200 mL) </ingredient>
+    <ingredient num="2">½ cup ; white vinegar ; (120 mL) </ingredient>
+    <ingredient num="3">8 ; bird-eye chillis </ingredient>
+    <ingredient num="4">8 cloves ; garlic </ingredient>
+    <ingredient num="5">2 ; medium onions </ingredient>
+    <ingredient num="6">4 teaspoons ; dried oregano </ingredient>
+    <ingredient num="7">4 teaspoons ; paprika </ingredient>
+    <ingredient num="8">2 teaspoons ; sugar </ingredient>
+    <ingredient num="9">4 teaspoons ; salt </ingredient>
+    <ingredient num="10">2 teaspoons ; pepper </ingredient>
+    <ingredient num="11">1 ; roasted pepper </ingredient>
+    <ingredient num="12">1 ; lemon, juiced </ingredient>
+    <ingredient num="13">1 lb ; chip ; (500 g) </ingredient>
+    <ingredient num="14">½ teaspoon ; smoked paprika </ingredient>
+    <ingredient num="15">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="16">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="17">¼ teaspoon ; white pepper </ingredient>
+    <ingredient num="18">1 teaspoon ; salt </ingredient>
+    <ingredient num="19">2 oz ; mayonnaise ; (50 g) </ingredient>
+    <ingredient num="20">2 oz ; hummus ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Game Day</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/78608/hls24_1518545600.m3u8</low>
+    <high>https://vid.tasty.co/output/78608/landscape_720/1518545600</high>
+  </video>
+  <steps>
+    <step num="0">Remove the chicken’s backbone by using a pair of kitchen scissors. Turn it over and flatten it down to spread the chicken out as much as possible. </step>
+    <step num="1">Blend together all of the marinade ingredients in a food processor and spread half of it over the chicken. </step>
+    <step num="2">Cover and marinate in the fridge for at least 3 hours or overnight. </step>
+    <step num="3">Roast in the centre of a preheated oven for 60 minutes at 200°C (400°F), or until the thickest part of the thigh is 75°C. Once the chicken is cooked through, allow to rest for 10 minutes before serving. </step>
+    <step num="4">Simmer the other half of the marinade for 2-3 minutes to make the Peri Peri sauce. </step>
+    <step num="5">Use as a dip for your chicken or mix some into mayonnaise or hummus! </step>
+    <step num="6">To make Peri Peri Chips, just shake some smoked paprika, chili powder, garlic powder and white pepper into your chips! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the chicken’s backbone by using a pair of kitchen scissors. </steps_updated>
+    <steps_updated num="1">Turn it over and flatten it down to spread the chicken out as much as possible. </steps_updated>
+    <steps_updated num="2">Blend together all of the marinade ingredients in a food processor and spread half of it over the chicken. </steps_updated>
+    <steps_updated num="3">Cover and marinate in the fridge for at least 3 hours or overnight. </steps_updated>
+    <steps_updated num="4">Roast in the centre of a preheated oven for 60 minutes at 200°C (400°F), or until the thickest part of the thigh is 75°C. </steps_updated>
+    <steps_updated num="5">Once the chicken is cooked through, allow to rest for 10 minutes before serving. </steps_updated>
+    <steps_updated num="6">Simmer the other half of the marinade for 2-3 minutes to make the Peri Peri sauce. </steps_updated>
+    <steps_updated num="7">Use as a dip for your chicken or mix some into mayonnaise or hummus! </steps_updated>
+    <steps_updated num="8">To make Peri Peri Chips, just shake some smoked paprika, chili powder, garlic powder and white pepper into your chips! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

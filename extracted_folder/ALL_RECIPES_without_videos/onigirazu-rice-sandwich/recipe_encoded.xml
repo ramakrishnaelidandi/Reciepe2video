@@ -1,0 +1,45 @@
+<recipe>
+  <title>Onigirazu (Rice Sandwich) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/onigirazu-rice-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/japanese-lunch</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 213 13278 2092 </ingredient>
+    <ingredient num="1">3917 2605 13278 11948 3745 13278 2583 5981 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">8580 2031 13278 9110 1245 </ingredient>
+    <ingredient num="4">8580 9486 13278 9069 3745 </ingredient>
+    <ingredient num="5">3917 13278 1670 14252 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93823/hls24_1526073991.m3u8</low>
+    <high>https://vid.tasty.co/output/93823/landscape_720/1526073991</high>
+  </video>
+  <duration>
+    <start_time>69.333</start_time>
+    <end_time>110.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">2257 11951 2092 213 4255 5994 8751 9316 9061 10242 11951 7706 1391 5994 2157 371 12051 </step>
+    <step num="1">5570 2532 371 11951 7706 210 11951 937 371 11951 2092 13817 1678 1391 9110 6974 5570 11951 3745 7989 13817 1670 14252 4255 143 </step>
+    <step num="2">13494 1391 11951 374 11948 415 7558 11951 2092 669 5994 10459 13817 10954 13821 7584 1828 12886 6285 3917 6513 </step>
+    <step num="3">14100 210 8467 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2257 11951 2092 213 4255 5994 8751 9316 9061 </steps_updated>
+    <steps_updated num="1">10242 11951 7706 1391 5994 2157 371 12051 </steps_updated>
+    <steps_updated num="2">5570 2532 371 11951 7706 210 11951 937 371 11951 2092 13817 1678 1391 9110 6974 </steps_updated>
+    <steps_updated num="3">5570 11951 3745 7989 13817 1670 14252 4255 143 </steps_updated>
+    <steps_updated num="4">13494 1391 11951 374 11948 415 7558 11951 2092 669 5994 10459 13817 10954 13821 7584 </steps_updated>
+    <steps_updated num="5">1828 12886 6285 3917 6513 </steps_updated>
+    <steps_updated num="6">14100 210 8467 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

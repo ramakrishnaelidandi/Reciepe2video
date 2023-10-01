@@ -1,0 +1,63 @@
+<recipe>
+  <title>Vegan Ramen Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-ramen</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-versions-of-your-favourite-fast-foods</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 5766 </ingredient>
+    <ingredient num="1">3917 8071 13278 9110 5766 </ingredient>
+    <ingredient num="2">3917 14014 13278 14635 10015 </ingredient>
+    <ingredient num="3">11061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">3917 13278 12384 341 </ingredient>
+    <ingredient num="5">11061 9517 13278 4168 220 13278 4316 1767 </ingredient>
+    <ingredient num="6">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="7">3917 2605 13278 7424 9325 856 3716 13817 976 13278 3433 5981 </ingredient>
+    <ingredient num="8">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="9">3917 8071 13278 3032 30 </ingredient>
+    <ingredient num="10">4109 5777 </ingredient>
+    <ingredient num="11">5853 6519 7733 </ingredient>
+    <ingredient num="12">1466 10986 976 13817 7733 </ingredient>
+    <ingredient num="13">6209 7364 </ingredient>
+    <ingredient num="14">2092 </ingredient>
+    <ingredient num="15">1226 5425 341 13817 7733 </ingredient>
+    <ingredient num="16">5269 976 </ingredient>
+    <ingredient num="17">12384 976 13817 7733 </ingredient>
+    <ingredient num="18">13220 </ingredient>
+    <ingredient num="19">3984 6298 7733 </ingredient>
+    <ingredient num="20">3183 </ingredient>
+    <ingredient num="21">3579 976 13817 7733 </ingredient>
+    <ingredient num="22">4985 12384 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117263/hls24_1543486207.m3u8</low>
+    <high>https://vid.tasty.co/output/117263/landscape_720/1543486207</high>
+  </video>
+  <duration>
+    <start_time>48.0</start_time>
+    <end_time>96.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 10083 5895 12010 11546 7855 11951 8244 5766 11770 13757 2082 9179 11951 4155 14635 13817 11453 13817 9347 1681 11453 13593 6470 </step>
+    <step num="1">9179 4168 11899 13384 7424 9806 13817 11691 9286 12473 13817 11779 7990 7811 767 7759 11004 3386 560 13086 14329 12450 4860 1762 9609 11951 3954 4994 11951 547 217 9949 </step>
+    <step num="2">10007 11951 13799 740 11951 3032 5337 13817 12224 </step>
+    <step num="3">8225 11951 547 669 5994 12377 13817 740 13633 13817 5677 371 12313 13316 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 10083 5895 12010 11546 7855 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 4155 14635 13817 11453 13817 9347 1681 11453 13593 6470 </steps_updated>
+    <steps_updated num="2">9179 4168 11899 13384 7424 9806 13817 11691 9286 </steps_updated>
+    <steps_updated num="3">12473 13817 11779 7990 7811 767 7759 11004 3386 560 13086 14329 </steps_updated>
+    <steps_updated num="4">12450 4860 1762 9609 11951 3954 4994 11951 547 217 9949 </steps_updated>
+    <steps_updated num="5">10007 11951 13799 740 11951 3032 5337 13817 12224 </steps_updated>
+    <steps_updated num="6">8225 11951 547 669 5994 12377 13817 740 13633 13817 5677 371 12313 13316 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

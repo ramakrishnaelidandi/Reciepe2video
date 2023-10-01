@@ -1,0 +1,47 @@
+<recipe>
+  <title>Chicken Marinara Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-marinara</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/back-to-school-lunch-prep</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 4312 5444 3745 13278 11953 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 482 12816 3333 13278 1258 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 9122 950 2260 13278 9377 5981 </ingredient>
+    <ingredient num="3">3917 13278 1466 10986 976 </ingredient>
+    <ingredient num="4">3917 13278 9908 </ingredient>
+    <ingredient num="5">3917 13278 10522 3507 11579 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46650/low_1502234080.m3u8</low>
+    <high>https://vid.tasty.co/output/46650/mp4_720x1280/1502234080</high>
+  </video>
+  <duration>
+    <start_time>59.0</start_time>
+    <end_time>91.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 3386 482 7983 13817 9122 9286 </step>
+    <step num="1">5570 3745 950 210 5994 3280 6960 5569 6222 7983 13817 9122 9286 </step>
+    <step num="2">1709 560 10968 13817 3345 210 3544 5228 14473 1391 976 1466 12963 </step>
+    <step num="3">3235 2237 9908 13817 2390 8535 5412 11951 4422 5791 1391 5994 10258 5977 560 3720 3024 </step>
+    <step num="4">1173 6318 5228 210 11951 13031 1391 5994 11579 10522 5228 13817 5994 11206 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 3386 482 7983 13817 9122 9286 </steps_updated>
+    <steps_updated num="1">5570 3745 950 210 5994 3280 6960 5569 6222 7983 13817 9122 9286 </steps_updated>
+    <steps_updated num="2">1709 560 10968 13817 3345 210 3544 5228 14473 1391 976 1466 12963 </steps_updated>
+    <steps_updated num="3">3235 2237 9908 13817 2390 8535 5412 11951 4422 </steps_updated>
+    <steps_updated num="4">5791 1391 5994 10258 5977 560 3720 3024 </steps_updated>
+    <steps_updated num="5">1173 6318 5228 210 11951 13031 1391 5994 11579 10522 5228 13817 5994 11206 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01832</start_time>
+    <end_time>02741</end_time>
+  </duration_human>
+</recipe>

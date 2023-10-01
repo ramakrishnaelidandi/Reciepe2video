@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cracker Candy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cracker-candy</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tube ; saltines, 40 crackers + </ingredient>
+    <ingredient num="1">1 cup ; butter, 2 sticks, either salted or unsalted; (225 g) </ingredient>
+    <ingredient num="2">1 ⅛ cups ; brown sugar, firmly packed, we prefer light ; (245 g) </ingredient>
+    <ingredient num="3">1 bag ; chocolate chips, we like semi-sweet </ingredient>
+    <ingredient num="4">½ cup ; chopped pecan, toasted, or toasted chopped almond ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32034/low_1495125030.m3u8</low>
+    <high>https://vid.tasty.co/output/32034/mp4_720x1280/1495125030</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C) degrees. </step>
+    <step num="1">Line cookie sheet with foil &amp; spray with non-stick cooking spray. Line crackers end to end on sheet, breaking crackers to fit the end if necessary. </step>
+    <step num="2">In a saucepan, melt butter on low heat. Once melted, add brown sugar and turn heat to medium. Continue stirring until boiling – then boil for 3 minutes (set timer). </step>
+    <step num="3">Pour over crackers, spread evenly working quickly. </step>
+    <step num="4">Put sheet into oven – bake for 5 minutes. </step>
+    <step num="5">Remove – pour chocolate chips over top – place a sheet of foil over and let melt for 3 minutes. </step>
+    <step num="6">Spread melted chocolate over the top evenly. Add nuts to top – replace foil and refrigerate until set. (Can be frozen.) </step>
+    <step num="7">Break up into pieces. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C) degrees. </steps_updated>
+    <steps_updated num="1">Line cookie sheet with foil &amp; spray with non-stick cooking spray. </steps_updated>
+    <steps_updated num="2">Line crackers end to end on sheet, breaking crackers to fit the end if necessary. </steps_updated>
+    <steps_updated num="3">In a saucepan, melt butter on low heat. </steps_updated>
+    <steps_updated num="4">Once melted, add brown sugar and turn heat to medium. </steps_updated>
+    <steps_updated num="5">Continue stirring until boiling – then boil for 3 minutes (set timer). </steps_updated>
+    <steps_updated num="6">Pour over crackers, spread evenly working quickly. </steps_updated>
+    <steps_updated num="7">Put sheet into oven – bake for 5 minutes. </steps_updated>
+    <steps_updated num="8">Remove – pour chocolate chips over top – place a sheet of foil over and let melt for 3 minutes. </steps_updated>
+    <steps_updated num="9">Spread melted chocolate over the top evenly. </steps_updated>
+    <steps_updated num="10">Add nuts to top – replace foil and refrigerate until set. </steps_updated>
+    <steps_updated num="11">(Can be frozen.) </steps_updated>
+    <steps_updated num="12">Break up into pieces. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

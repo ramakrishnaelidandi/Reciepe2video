@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Pepperoni Stromboli Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-pepperoni-stromboli</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 package ; pizza dough </ingredient>
+    <ingredient num="1">1 package ; pepperoni </ingredient>
+    <ingredient num="2">1 package ; salami </ingredient>
+    <ingredient num="3">8 slices ; mozzarella cheese, cut in half </ingredient>
+    <ingredient num="4">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="5">1 jar ; pizza sauce </ingredient>
+    <ingredient num="6">½ cup ; red pepper, roasted, chopped ; (50 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="8">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="9">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="10">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="11">2 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="12">1 teaspoon ; pepper </ingredient>
+    <ingredient num="13">1 teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20184/low_1483988550.m3u8</low>
+    <high>https://vid.tasty.co/output/20184/mp4_720x1280/1483988550</high>
+  </video>
+  <steps>
+    <step num="0">Remove dough from package and roll out on lightly floured surface to desired size. </step>
+    <step num="1">Add alternating rows of pepperoni, mozzarella, and salami until dough is covered, leaving 1½ inches (4 cm) of space along the outside of the dough. </step>
+    <step num="2">Add the roasted red pepper, shredded mozzarella, red pepper flakes, and oregano on top of meat and cheese. </step>
+    <step num="3">Roll up the stromboli slowly. </step>
+    <step num="4">Combine melted butter, garlic, parsley, salt, and pepper. </step>
+    <step num="5">Brush the butter mixture onto the stromboli, evenly coating each side. </step>
+    <step num="6">Bake stromboli at 400˚F (200˚C) until golden brown (about 15-20 minutes). </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove dough from package and roll out on lightly floured surface to desired size. </steps_updated>
+    <steps_updated num="1">Add alternating rows of pepperoni, mozzarella, and salami until dough is covered, leaving 1½ inches (4 cm) of space along the outside of the dough. </steps_updated>
+    <steps_updated num="2">Add the roasted red pepper, shredded mozzarella, red pepper flakes, and oregano on top of meat and cheese. </steps_updated>
+    <steps_updated num="3">Roll up the stromboli slowly. </steps_updated>
+    <steps_updated num="4">Combine melted butter, garlic, parsley, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Brush the butter mixture onto the stromboli, evenly coating each side. </steps_updated>
+    <steps_updated num="6">Bake stromboli at 400˚F (200˚C) until golden brown (about 15-20 minutes). </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

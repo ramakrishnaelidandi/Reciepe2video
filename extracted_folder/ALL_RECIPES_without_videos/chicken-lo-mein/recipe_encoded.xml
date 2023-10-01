@@ -1,0 +1,63 @@
+<recipe>
+  <title>Chicken Lo Mein Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-lo-mein</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 7983 8833 976 13278 14577 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 7845 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">8580 9486 13278 9110 7632 3247 </ingredient>
+    <ingredient num="4">12791 2605 13278 7983 547 13278 13125 8007 </ingredient>
+    <ingredient num="5">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="6">3917 14014 13278 1851 2260 </ingredient>
+    <ingredient num="7">3917 14014 13278 12367 </ingredient>
+    <ingredient num="8">3917 14014 13278 4168 5766 </ingredient>
+    <ingredient num="9">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="10">3917 14014 13278 10015 6209 14418 </ingredient>
+    <ingredient num="11">1580 2605 13278 7424 9325 976 </ingredient>
+    <ingredient num="12">1580 2605 13278 12384 976 </ingredient>
+    <ingredient num="13">1580 2605 13278 5425 976 13278 9813 5981 </ingredient>
+    <ingredient num="14">1580 2605 13278 4834 2737 12644 10844 13278 6185 5981 </ingredient>
+    <ingredient num="15">4061 9943 13278 3745 6216 13633 </ingredient>
+    <ingredient num="16">3962 10286 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32118/low_1495125380.m3u8</low>
+    <high>https://vid.tasty.co/output/32118/mp4_720x1280/1495125380</high>
+  </video>
+  <steps>
+    <step num="0">10242 7983 1391 10986 82 13817 3917 9064 9110 14158 9393 4386 13817 817 5292 </step>
+    <step num="1">10950 5994 10263 12377 6131 7983 42 3917 9064 9110 7632 11691 7280 1851 7280 13817 430 9393 13948 </step>
+    <step num="2">8889 5766 11770 3996 2082 9179 12816 2550 1681 6728 4860 10866 5912 560 4061 5686 </step>
+    <step num="3">6054 7983 13817 740 14418 13817 11384 6459 6142 1681 11564 </step>
+    <step num="4">9179 9806 7272 8445 13817 4834 2737 12750 12473 7256 1681 284 12573 14371 </step>
+    <step num="5">9179 11951 3745 7983 13817 3745 6216 11293 </step>
+    <step num="6">7643 210 2260 13817 2550 7990 6646 2734 12689 </step>
+    <step num="7">13688 1391 1061 13817 2506 3557 5994 10156 2849 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10242 7983 1391 10986 82 13817 3917 9064 9110 14158 </steps_updated>
+    <steps_updated num="1">9393 4386 13817 817 5292 </steps_updated>
+    <steps_updated num="2">10950 5994 10263 12377 6131 7983 42 3917 9064 9110 7632 11691 7280 1851 7280 13817 430 </steps_updated>
+    <steps_updated num="3">9393 13948 </steps_updated>
+    <steps_updated num="4">8889 5766 11770 3996 2082 </steps_updated>
+    <steps_updated num="5">9179 12816 2550 1681 6728 4860 10866 5912 560 4061 5686 </steps_updated>
+    <steps_updated num="6">6054 7983 13817 740 14418 13817 11384 6459 6142 1681 11564 </steps_updated>
+    <steps_updated num="7">9179 9806 7272 8445 13817 4834 2737 12750 </steps_updated>
+    <steps_updated num="8">12473 7256 1681 284 12573 14371 </steps_updated>
+    <steps_updated num="9">9179 11951 3745 7983 13817 3745 6216 11293 </steps_updated>
+    <steps_updated num="10">7643 210 2260 13817 2550 7990 6646 2734 12689 </steps_updated>
+    <steps_updated num="11">13688 1391 1061 13817 2506 3557 5994 10156 2849 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,69 @@
+<recipe>
+  <title>Strawberry Shortcake Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-shortcake-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/strawberry-shortcake-pancake-breakfast-in-bed</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 13098 14432 13278 1513 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="2">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 2089 2517 </ingredient>
+    <ingredient num="4">3917 14014 13278 13384 2517 </ingredient>
+    <ingredient num="5">3917 13278 6216 </ingredient>
+    <ingredient num="6">13086 9486 13278 10907 5335 </ingredient>
+    <ingredient num="7">3917 1580 9517 13278 9378 13278 1536 8007 </ingredient>
+    <ingredient num="8">3917 1580 9517 13278 13521 890 13278 11028 5981 </ingredient>
+    <ingredient num="9">8580 9486 13278 4834 </ingredient>
+    <ingredient num="10">3917 14014 13278 10765 11703 </ingredient>
+    <ingredient num="11">3917 8071 13278 10765 3294 </ingredient>
+    <ingredient num="12">11216 8071 13278 82 </ingredient>
+    <ingredient num="13">9924 </ingredient>
+    <ingredient num="14">279 1123 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31174/low_1494276313.m3u8</low>
+    <high>https://vid.tasty.co/output/31174/mp4_720x1280/1494276313</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>80.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 11844 11770 13757 14307 740 11951 14432 7234 13384 13817 8525 12473 1681 3479 13817 14238 560 5994 11714 </step>
+    <step num="1">426 573 11951 7855 13817 11779 7990 13767 12689 4429 11951 6818 9490 13700 4798 10968 3626 11951 12367 13817 12282 13817 740 3557 560 11951 1927 12473 2798 13817 2550 1681 6352 6285 2933 12689 2257 5292 </step>
+    <step num="2">10950 5994 13757 14511 10968 3626 11951 6118 295 </step>
+    <step num="3">10950 5994 2597 14511 10968 3626 11951 5316 295 </step>
+    <step num="4">269 740 11951 6118 11907 560 11951 5316 13817 6183 10968 1681 644 9456 123 11155 5584 </step>
+    <step num="5">8889 3917 14014 371 9924 4255 5994 10060 11770 13757 2082 </step>
+    <step num="6">9179 1580 2605 4337 5981 371 4428 560 11951 10060 13817 2550 1681 8693 1978 4255 11951 12605 371 11951 3897 11423 13817 817 5292 </step>
+    <step num="7">9338 11951 8897 13817 10707 1391 6114 6818 13817 5994 6063 371 279 5808 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 11844 11770 13757 14307 740 11951 14432 7234 13384 13817 8525 </steps_updated>
+    <steps_updated num="1">12473 1681 3479 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="2">426 573 11951 7855 13817 11779 7990 13767 12689 </steps_updated>
+    <steps_updated num="3">4429 11951 6818 9490 13700 4798 10968 3626 11951 12367 13817 12282 13817 740 3557 560 11951 1927 </steps_updated>
+    <steps_updated num="4">12473 2798 13817 2550 1681 6352 6285 2933 12689 </steps_updated>
+    <steps_updated num="5">2257 5292 </steps_updated>
+    <steps_updated num="6">10950 5994 13757 14511 10968 3626 11951 6118 295 </steps_updated>
+    <steps_updated num="7">10950 5994 2597 14511 10968 3626 11951 5316 295 </steps_updated>
+    <steps_updated num="8">269 740 11951 6118 11907 560 11951 5316 13817 6183 10968 1681 644 9456 </steps_updated>
+    <steps_updated num="9">123 11155 5584 </steps_updated>
+    <steps_updated num="10">8889 3917 14014 371 9924 4255 5994 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="11">9179 1580 2605 4337 5981 371 4428 560 11951 10060 13817 2550 1681 8693 1978 4255 11951 12605 371 11951 3897 </steps_updated>
+    <steps_updated num="12">11423 13817 817 5292 </steps_updated>
+    <steps_updated num="13">9338 11951 8897 13817 10707 1391 6114 6818 13817 5994 6063 371 279 5808 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00662</start_time>
+    <end_time>02432</end_time>
+  </duration_human>
+</recipe>

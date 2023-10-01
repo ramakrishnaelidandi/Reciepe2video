@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Coconut Winter Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-coconut-winter-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/warm-winter-smoothies</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; banana </ingredient>
+    <ingredient num="1">¼ cup ; gluten-free oats ; (20 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; peanut butter </ingredient>
+    <ingredient num="3">1 teaspoon ; dark cocoa powder </ingredient>
+    <ingredient num="4">1 tablespoon ; shredded coconut, optional </ingredient>
+    <ingredient num="5">1 tablespoon ; maple syrup </ingredient>
+    <ingredient num="6">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">1 ¼ cups ; coconut milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Drinks</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117344/hls24_1543522574.m3u8</low>
+    <high>https://vid.tasty.co/output/117344/landscape_720/1543522574</high>
+  </video>
+  <duration>
+    <start_time>51.5</start_time>
+    <end_time>93.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, combine the banana, oats, peanut butter, cocoa powder, shredded coconut, maple syrup, vanilla, and milk. Blend on high speed for 3 minutes, or until completely smooth. </step>
+    <step num="1">Transfer the chocolate coconut mixture to a small saucepan and heat over medium-low heat until just warmed through. Do not boil. </step>
+    <step num="2">Pour into a mug and serve immediately. </step>
+    <step num="3">Enjoy! </step>
+    <step num="4">Nutrition - Chocolate Coconut - Calories: 946, Total fat: 73 grams, Sodium: 134 mg, Total carbs: 70 grams, Dietary fiber: 7 grams, Sugars: 23 grams, Protein: 16 grams </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine the banana, oats, peanut butter, cocoa powder, shredded coconut, maple syrup, vanilla, and milk. </steps_updated>
+    <steps_updated num="1">Blend on high speed for 3 minutes, or until completely smooth. </steps_updated>
+    <steps_updated num="2">Transfer the chocolate coconut mixture to a small saucepan and heat over medium-low heat until just warmed through. </steps_updated>
+    <steps_updated num="3">Do not boil. </steps_updated>
+    <steps_updated num="4">Pour into a mug and serve immediately. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+    <steps_updated num="6">Nutrition - Chocolate Coconut - Calories: 946, Total fat: 73 grams, Sodium: 134 mg, Total carbs: 70 grams, Dietary fiber: 7 grams, Sugars: 23 grams, Protein: 16 grams </steps_updated>
+  </steps_updated>
+</recipe>

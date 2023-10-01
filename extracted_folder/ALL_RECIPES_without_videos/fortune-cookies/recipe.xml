@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fortune Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fortune-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; large egg whites </ingredient>
+    <ingredient num="1">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="2">½ cup ; all purpose flour ; (60 g) </ingredient>
+    <ingredient num="3">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="4">1 pinch ; salt </ingredient>
+    <ingredient num="5">3 tablespoons ; water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88511/hls24_1523061783.m3u8</low>
+    <high>https://vid.tasty.co/output/88511/landscape_720/1523061783</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425˚F (220˚C). </step>
+    <step num="1">Add the egg whites and vanilla extract to a medium bowl and use a whisk or hand mixer to beat until frothy, about 1 minute. </step>
+    <step num="2">Sift in the flour, sugar, and salt through a fine-mesh sieve. </step>
+    <step num="3">Using a spatula, gently incorporate into the batter until paste-like. </step>
+    <step num="4">Add the water, 1 tablespoon at a time, until the batter is smooth and falls into ribbons when the spatula is picked up. </step>
+    <step num="5">Place 1 tablespoon of batter onto a silpat-lined baking sheet and spread into a 3-inch (7-cm) circle. </step>
+    <step num="6">Repeat with another tablespoon of batter, making sure to only leave two circles on the silpat. </step>
+    <step num="7">Bake for 8 minutes, until the edges become golden brown. </step>
+    <step num="8">Working quickly, use a spatula to remove the cookies from the pan. Add a fortune in the middle, fold the cookies in half, then place the flat side on the lip of a cup, folding the edges down into a fortune cookie shape. Place the folded fortune cookies in a mini muffin tin until cooled to retain their shape. </step>
+    <step num="9">Repeat with remaining batter. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">Add the egg whites and vanilla extract to a medium bowl and use a whisk or hand mixer to beat until frothy, about 1 minute. </steps_updated>
+    <steps_updated num="2">Sift in the flour, sugar, and salt through a fine-mesh sieve. </steps_updated>
+    <steps_updated num="3">Using a spatula, gently incorporate into the batter until paste-like. </steps_updated>
+    <steps_updated num="4">Add the water, 1 tablespoon at a time, until the batter is smooth and falls into ribbons when the spatula is picked up. </steps_updated>
+    <steps_updated num="5">Place 1 tablespoon of batter onto a silpat-lined baking sheet and spread into a 3-inch (7-cm) circle. </steps_updated>
+    <steps_updated num="6">Repeat with another tablespoon of batter, making sure to only leave two circles on the silpat. </steps_updated>
+    <steps_updated num="7">Bake for 8 minutes, until the edges become golden brown. </steps_updated>
+    <steps_updated num="8">Working quickly, use a spatula to remove the cookies from the pan. </steps_updated>
+    <steps_updated num="9">Add a fortune in the middle, fold the cookies in half, then place the flat side on the lip of a cup, folding the edges down into a fortune cookie shape. </steps_updated>
+    <steps_updated num="10">Place the folded fortune cookies in a mini muffin tin until cooled to retain their shape. </steps_updated>
+    <steps_updated num="11">Repeat with remaining batter. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Potato Casserole</title>
+  <url>https://tasty.co/recipe/cheesy-potato-casserole</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; russet potatoes </ingredient>
+    <ingredient num="1">olive oil </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">10 slices ; bacon, cooked and crumbled </ingredient>
+    <ingredient num="5">3 cups ; sour cream ; (690 g) </ingredient>
+    <ingredient num="6">4 cups ; shredded cheddar cheese ; (400 g) </ingredient>
+    <ingredient num="7">fresh chives, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16234/low_1480530792.m3u8</low>
+    <high>https://vid.tasty.co/output/16234/mp4_720x1280/1480530792</high>
+  </video>
+  <steps>
+    <step num="0">Place potatoes on a baking sheet and poke holes in two sides with a fork. </step>
+    <step num="1">Coat potatoes with olive oil, and sprinkle with salt and pepper. </step>
+    <step num="2">Bake for at 425°F (220°C) for 45 minutes. </step>
+    <step num="3">Remove potatoes from oven, and let cool. Chop into 1-inch (2 ½ cm) pieces. </step>
+    <step num="4">Lay half of the potatoes on the bottom of a greased 9x13 inch (23x33 cm) baking dish. </step>
+    <step num="5">Sprinkle on half of the bacon, spread half of the sour cream, and sprinkle on half of the cheese. </step>
+    <step num="6">Repeat for a second layer. </step>
+    <step num="7">Bake for 20 minutes at reduced temp of 350°F (180°C), or until cheese is golden brown and the edges start crisping up. </step>
+    <step num="8">Sprinkle with chives. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place potatoes on a baking sheet and poke holes in two sides with a fork. </steps_updated>
+    <steps_updated num="1">Coat potatoes with olive oil, and sprinkle with salt and pepper. </steps_updated>
+    <steps_updated num="2">Bake for at 425°F (220°C) for 45 minutes. </steps_updated>
+    <steps_updated num="3">Remove potatoes from oven, and let cool. </steps_updated>
+    <steps_updated num="4">Chop into 1-inch (2 ½ cm) pieces. </steps_updated>
+    <steps_updated num="5">Lay half of the potatoes on the bottom of a greased 9x13 inch (23x33 cm) baking dish. </steps_updated>
+    <steps_updated num="6">Sprinkle on half of the bacon, spread half of the sour cream, and sprinkle on half of the cheese. </steps_updated>
+    <steps_updated num="7">Repeat for a second layer. </steps_updated>
+    <steps_updated num="8">Bake for 20 minutes at reduced temp of 350°F (180°C), or until cheese is golden brown and the edges start crisping up. </steps_updated>
+    <steps_updated num="9">Sprinkle with chives. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

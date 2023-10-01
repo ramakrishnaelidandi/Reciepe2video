@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Jambalaya Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-jambalaya</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">2 ; chicken breasts, diced </ingredient>
+    <ingredient num="2">1 lb ; andouille sausage, sliced ; (455 g) </ingredient>
+    <ingredient num="3">4 cloves ; garlic </ingredient>
+    <ingredient num="4">1 ; jalapeño pepper, diced </ingredient>
+    <ingredient num="5">1 ; white onion, diced </ingredient>
+    <ingredient num="6">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="7">1 ; yellow bell pepper, diced </ingredient>
+    <ingredient num="8">1 ; green bell pepper, diced </ingredient>
+    <ingredient num="9">2 ribs ; celery, diced </ingredient>
+    <ingredient num="10">3 cups ; chicken stock ; (710 mL) </ingredient>
+    <ingredient num="11">14 oz ; tomato, crushed ; (30 g) </ingredient>
+    <ingredient num="12">1 ½ cups ; rice ; (300 g) </ingredient>
+    <ingredient num="13">2 tablespoons ; cajun seasoning </ingredient>
+    <ingredient num="14">1 ; bay leaf </ingredient>
+    <ingredient num="15">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="16">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="17">1 lb ; shrimp ; (455 g) </ingredient>
+    <ingredient num="18">salt, to taste </ingredient>
+    <ingredient num="19">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31902/low_1495124890.m3u8</low>
+    <high>https://vid.tasty.co/output/31902/mp4_720x1280/1495124890</high>
+  </video>
+  <steps>
+    <step num="0">Heat olive oil in a large pot over medium high heat. Add diced chicken breasts and Andouille sausage. Add salt and pepper to taste, and cook thoroughly. </step>
+    <step num="1">Add crushed garlic and a diced jalapeño pepper. </step>
+    <step num="2">NOTE: Leave the jalapeño seeds in for extra spice </step>
+    <step num="3">Stir in diced onion, peppers, celery until they’re soft. </step>
+    <step num="4">Add chicken stock, tomatoes, rice, cajun seasoning, bay leaf, dried thyme, cayenne pepper and stir. </step>
+    <step num="5">Cover and simmer stew for 30 minutes. </step>
+    <step num="6">NOTE: Stir occasionally to make sure the rice doesn’t burn at the bottom of the pan. </step>
+    <step num="7">Once the rice is cooked, add in shrimp, season with salt and pepper, then continue simmering until the shrimp are cooked through. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil in a large pot over medium high heat. </steps_updated>
+    <steps_updated num="1">Add diced chicken breasts and Andouille sausage. </steps_updated>
+    <steps_updated num="2">Add salt and pepper to taste, and cook thoroughly. </steps_updated>
+    <steps_updated num="3">Add crushed garlic and a diced jalapeño pepper. </steps_updated>
+    <steps_updated num="4">NOTE: Leave the jalapeño seeds in for extra spice </steps_updated>
+    <steps_updated num="5">Stir in diced onion, peppers, celery until they’re soft. </steps_updated>
+    <steps_updated num="6">Add chicken stock, tomatoes, rice, cajun seasoning, bay leaf, dried thyme, cayenne pepper and stir. </steps_updated>
+    <steps_updated num="7">Cover and simmer stew for 30 minutes. </steps_updated>
+    <steps_updated num="8">NOTE: Stir occasionally to make sure the rice doesn’t burn at the bottom of the pan. </steps_updated>
+    <steps_updated num="9">Once the rice is cooked, add in shrimp, season with salt and pepper, then continue simmering until the shrimp are cooked through. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

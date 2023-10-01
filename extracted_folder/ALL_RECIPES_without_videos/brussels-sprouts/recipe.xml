@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Brussels Sprouts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/brussels-sprouts</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-ways-to-make-vegetables-taste-great</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; balsamic vinegar </ingredient>
+    <ingredient num="1">1 teaspoon ; honey </ingredient>
+    <ingredient num="2">1 lb ; roasted brussel sprout ; (455 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Sides</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75411/hls24_1517258080.m3u8</low>
+    <high>https://vid.tasty.co/output/75411/landscape_720/1517258080</high>
+  </video>
+  <duration>
+    <start_time>36.0</start_time>
+    <end_time>59.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small bowl, combine the balsamic vinegar and the honey and stir until honey is dissolved. </step>
+    <step num="1">Mix the honey vinegar mixture to the roasted brussels sprouts and coat evenly. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, combine the balsamic vinegar and the honey and stir until honey is dissolved. </steps_updated>
+    <steps_updated num="1">Mix the honey vinegar mixture to the roasted brussels sprouts and coat evenly. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00894</start_time>
+    <end_time>01445</end_time>
+  </duration_human>
+</recipe>

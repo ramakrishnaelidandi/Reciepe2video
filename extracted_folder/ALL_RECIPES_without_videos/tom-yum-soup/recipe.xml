@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tom Yum Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tom-yum-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/immunity-boosting-foods</comp_url>
+  <ingredients>
+    <ingredient num="0">2 stalks ; lemongrass </ingredient>
+    <ingredient num="1">2 ; thai red chili peppers, sliced </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 tablespoon ; galangal, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; refined coconut oil </ingredient>
+    <ingredient num="5">5 cups ; vegetable broth ; (1.2 L) </ingredient>
+    <ingredient num="6">1 ; large tomato, diced </ingredient>
+    <ingredient num="7">5 ; lime leaves </ingredient>
+    <ingredient num="8">1 cup ; coconut milk ; (240 mL) </ingredient>
+    <ingredient num="9">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="10">7 oz ; extra firm tofu, cubed ; (200 g) </ingredient>
+    <ingredient num="11">6 oz ; cremini mushroom, sliced ; (165 g) </ingredient>
+    <ingredient num="12">¼ cup ; lime juice </ingredient>
+    <ingredient num="13">1 tablespoon ; agave </ingredient>
+    <ingredient num="14">salt, to taste </ingredient>
+    <ingredient num="15">fresh cilantro leaves, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111219/hls24_1538610784.m3u8</low>
+    <high>https://vid.tasty.co/output/111219/landscape_720/1538610784</high>
+  </video>
+  <duration>
+    <start_time>3.0</start_time>
+    <end_time>89.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Trim off the top third and very bottom of the lemongrass stalks. Using the side of a knife, press down across the stalks to bruise the lemongrass and release the oils. Chop each stalk into 4 pieces and set aside. </step>
+    <step num="1">Add the chili peppers, garlic, and galangal to a mortar and pestle and grind into a paste. Set aside. </step>
+    <step num="2">Melt the coconut oil in a large pot over medium heat. Once the oil begins to shimmer, add the lemongrass and cook for 3-4 minutes, until fragrant. Add the chili pepper paste and cook for another 3-4 minutes, until fragrant. </step>
+    <step num="3">Add the vegetable broth, tomato, lime leaves, coconut milk, and soy sauce and stir to combine. Bring to a boil. Cover, then reduce the heat to low and simmer for 20 minutes, until broth has reduced slightly. </step>
+    <step num="4">Add the tofu and mushrooms and stir to combine. Cook for 5 minutes, until the mushrooms are tender. </step>
+    <step num="5">Add the lime juice and agave and stir to combine. Season with salt to taste. </step>
+    <step num="6">Garnish with cilantro and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Trim off the top third and very bottom of the lemongrass stalks. </steps_updated>
+    <steps_updated num="1">Using the side of a knife, press down across the stalks to bruise the lemongrass and release the oils. </steps_updated>
+    <steps_updated num="2">Chop each stalk into 4 pieces and set aside. </steps_updated>
+    <steps_updated num="3">Add the chili peppers, garlic, and galangal to a mortar and pestle and grind into a paste. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">Melt the coconut oil in a large pot over medium heat. </steps_updated>
+    <steps_updated num="6">Once the oil begins to shimmer, add the lemongrass and cook for 3-4 minutes, until fragrant. </steps_updated>
+    <steps_updated num="7">Add the chili pepper paste and cook for another 3-4 minutes, until fragrant. </steps_updated>
+    <steps_updated num="8">Add the vegetable broth, tomato, lime leaves, coconut milk, and soy sauce and stir to combine. </steps_updated>
+    <steps_updated num="9">Bring to a boil. </steps_updated>
+    <steps_updated num="10">Cover, then reduce the heat to low and simmer for 20 minutes, until broth has reduced slightly. </steps_updated>
+    <steps_updated num="11">Add the tofu and mushrooms and stir to combine. </steps_updated>
+    <steps_updated num="12">Cook for 5 minutes, until the mushrooms are tender. </steps_updated>
+    <steps_updated num="13">Add the lime juice and agave and stir to combine. </steps_updated>
+    <steps_updated num="14">Season with salt to taste. </steps_updated>
+    <steps_updated num="15">Garnish with cilantro and serve. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Spaghetti Carbonara Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-spaghetti-carbonara</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; spaghetti ; (340 g) </ingredient>
+    <ingredient num="1">3 cups ; shiitake mushroom cap, thinly sliced ; (225 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">½ teaspoon ; smoked paprika </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="6">½ cup ; cashews, soaked overnight ; (65 g) </ingredient>
+    <ingredient num="7">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="8">⅓ cup ; unsweetened non-dairy milk ; (80 mL) </ingredient>
+    <ingredient num="9">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="10">1 ½ tablespoons ; nutritional yeast </ingredient>
+    <ingredient num="11">1 ½ tablespoons ; lemon juice </ingredient>
+    <ingredient num="12">½ teaspoon ; pepper </ingredient>
+    <ingredient num="13">1 teaspoon ; salt </ingredient>
+    <ingredient num="14">¼ teaspoon ; paprika </ingredient>
+    <ingredient num="15">fresh parsley, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/53667/low_1506469116.m3u8</low>
+    <high>https://vid.tasty.co/output/53667/mp4_720x1280/1506469116</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">Cook pasta according to package instructions. </step>
+    <step num="2">Toss shiitake mushrooms, oil, smoked paprika, salt, and pepper in a medium bowl. </step>
+    <step num="3">Arrange mixture on parchment paper-lined baking sheet and bake for 7 minutes. Flip the mushrooms and continue baking for 7-8 minutes, or until mushrooms are crispy and brown. </step>
+    <step num="4">Cool mushroom slices on baking sheet. </step>
+    <step num="5">For the sauce, combine cashews, olive oil, garlic cloves, nutritional yeast, milk, lemon juice, pepper, salt, and paprika in a blender or food processor. Blend until smooth and creamy. </step>
+    <step num="6">Drain water from pasta and return pasta to pot. </step>
+    <step num="7">Add the sauce and stir until pasta is well-coated. </step>
+    <step num="8">Mix in mushroom bacon. </step>
+    <step num="9">Top with parsley. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Cook pasta according to package instructions. </steps_updated>
+    <steps_updated num="2">Toss shiitake mushrooms, oil, smoked paprika, salt, and pepper in a medium bowl. </steps_updated>
+    <steps_updated num="3">Arrange mixture on parchment paper-lined baking sheet and bake for 7 minutes. </steps_updated>
+    <steps_updated num="4">Flip the mushrooms and continue baking for 7-8 minutes, or until mushrooms are crispy and brown. </steps_updated>
+    <steps_updated num="5">Cool mushroom slices on baking sheet. </steps_updated>
+    <steps_updated num="6">For the sauce, combine cashews, olive oil, garlic cloves, nutritional yeast, milk, lemon juice, pepper, salt, and paprika in a blender or food processor. </steps_updated>
+    <steps_updated num="7">Blend until smooth and creamy. </steps_updated>
+    <steps_updated num="8">Drain water from pasta and return pasta to pot. </steps_updated>
+    <steps_updated num="9">Add the sauce and stir until pasta is well-coated. </steps_updated>
+    <steps_updated num="10">Mix in mushroom bacon. </steps_updated>
+    <steps_updated num="11">Top with parsley. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

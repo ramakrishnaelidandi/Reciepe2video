@@ -1,0 +1,45 @@
+<recipe>
+  <title>Potato Bhajias</title>
+  <url>https://tasty.co/recipe/kiano-s-potato-bhajias</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1813 2605 13278 10795 890 13278 336 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 7706 890 13278 1258 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 6209 6712 11588 3962 13278 12237 5981 </ingredient>
+    <ingredient num="3">8580 13278 1832 5016 8695 13817 11588 3962 </ingredient>
+    <ingredient num="4">8580 2031 13278 14418 30 </ingredient>
+    <ingredient num="5">8580 2031 13278 11384 30 </ingredient>
+    <ingredient num="6">3855 12610 560 11567 </ingredient>
+    <ingredient num="7">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="8">7632 7990 5291 </ingredient>
+    <ingredient num="9">3917 715 13278 3367 11486 6817 4125 13817 976 669 6446 210 5912 51 7711 13073 13278 4563 5981 </ingredient>
+    <ingredient num="10">9491 5895 11649 8855 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Appetizers</category>
+    <category num="1">Snacks</category>
+    <category num="2">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125984/hls24_1551318356.m3u8</low>
+    <high>https://vid.tasty.co/output/125984/landscape_720/1551318356</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 14511 4120 11951 10795 6467 7706 6467 6712 1832 5016 14635 4155 12610 13817 2019 12473 1391 5994 10258 7700 1681 12119 </step>
+    <step num="1">8889 3917 2985 8891 1645 371 5766 210 5994 11358 10060 11770 3996 7855 1681 3557 13751 9988 8999 </step>
+    <step num="2">153 210 3997 740 11951 13233 560 11951 4428 13817 1686 560 515 </step>
+    <step num="3">10950 3997 10231 11951 1636 13233 560 11951 6222 5766 13817 7256 1681 10963 1240 9309 13377 11720 11951 1940 13233 4255 12 3566 </step>
+    <step num="4">12774 6222 1391 9668 8321 5895 12313 8321 371 13316 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 4120 11951 10795 6467 7706 6467 6712 1832 5016 14635 4155 12610 13817 2019 </steps_updated>
+    <steps_updated num="1">12473 1391 5994 10258 7700 1681 12119 </steps_updated>
+    <steps_updated num="2">8889 3917 2985 8891 1645 371 5766 210 5994 11358 10060 11770 3996 7855 1681 3557 13751 9988 8999 </steps_updated>
+    <steps_updated num="3">153 210 3997 740 11951 13233 560 11951 4428 13817 1686 560 515 </steps_updated>
+    <steps_updated num="4">10950 3997 10231 11951 1636 13233 560 11951 6222 5766 13817 7256 1681 10963 1240 9309 13377 </steps_updated>
+    <steps_updated num="5">11720 11951 1940 13233 4255 12 3566 </steps_updated>
+    <steps_updated num="6">12774 6222 1391 9668 8321 5895 12313 8321 371 13316 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

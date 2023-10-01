@@ -1,0 +1,55 @@
+<recipe>
+  <title>Cauliflower Hash Browns Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-hash-browns</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 3173 13278 2597 10426 </ingredient>
+    <ingredient num="1">1580 2605 13278 109 14538 13278 13412 5981 </ingredient>
+    <ingredient num="2">1813 2605 13278 6209 11292 1088 976 13278 6429 5981 </ingredient>
+    <ingredient num="3">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 6250 </ingredient>
+    <ingredient num="6">8580 13278 12708 </ingredient>
+    <ingredient num="7">3917 8071 13278 12610 3247 </ingredient>
+    <ingredient num="8">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="9">7361 7280 371 12313 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12047/low_1476391171.m3u8</low>
+    <high>https://vid.tasty.co/output/12047/mp4_720x1280/1476391171</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">5209 5994 8646 7095 4019 11951 10426 1681 11951 887 3173 7312 885 573 669 2192 6555 </step>
+    <step num="2">12785 11951 10426 8577 560 5994 12377 13817 1678 11770 5994 1580 8071 371 11951 12051 9393 11951 10426 560 9010 11951 82 13817 3945 1788 7990 5527 8927 560 1473 2696 4149 </step>
+    <step num="3">12785 11951 7145 10426 560 6646 12377 10926 1391 5994 2597 671 5791 11951 1811 6799 13817 882 5833 5312 8554 371 11951 1198 881 9490 2978 </step>
+    <step num="4">12785 11951 10426 13352 669 11951 3859 12377 612 13817 10968 1391 11951 13810 11292 4155 8244 7632 749 13584 10986 12708 13817 374 1580 8071 371 12051 </step>
+    <step num="5">3559 5994 2597 7529 7238 13817 2348 1391 3550 12 8861 1148 7966 3720 555 4255 11951 551 371 11951 1960 8415 877 11951 10426 2373 669 11061 5422 5884 3345 4255 11951 4577 13817 13935 669 1960 8415 </step>
+    <step num="6">7831 7990 3366 11004 1681 10963 2147 </step>
+    <step num="7">1828 11951 1960 11777 10694 7990 6285 13133 8927 1681 6665 11628 9892 </step>
+    <step num="8">12774 1391 13218 7361 9286 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">5209 5994 8646 7095 4019 11951 10426 1681 11951 887 3173 7312 885 573 669 2192 6555 </steps_updated>
+    <steps_updated num="2">12785 11951 10426 8577 560 5994 12377 13817 1678 11770 5994 1580 8071 371 11951 12051 </steps_updated>
+    <steps_updated num="3">9393 11951 10426 560 9010 11951 82 13817 3945 1788 7990 5527 8927 560 1473 2696 4149 </steps_updated>
+    <steps_updated num="4">12785 11951 7145 10426 560 6646 12377 10926 1391 5994 2597 671 </steps_updated>
+    <steps_updated num="5">5791 11951 1811 6799 13817 882 5833 5312 8554 371 11951 1198 881 9490 2978 </steps_updated>
+    <steps_updated num="6">12785 11951 10426 13352 669 11951 3859 12377 612 13817 10968 1391 11951 13810 11292 4155 8244 7632 749 13584 10986 12708 13817 374 1580 8071 371 12051 </steps_updated>
+    <steps_updated num="7">3559 5994 2597 7529 7238 13817 2348 1391 3550 12 8861 1148 7966 3720 555 4255 11951 551 371 11951 1960 8415 </steps_updated>
+    <steps_updated num="8">877 11951 10426 2373 669 11061 5422 5884 3345 4255 11951 4577 13817 13935 669 1960 8415 </steps_updated>
+    <steps_updated num="9">7831 7990 3366 11004 1681 10963 2147 </steps_updated>
+    <steps_updated num="10">1828 11951 1960 11777 10694 7990 6285 13133 8927 1681 6665 11628 9892 </steps_updated>
+    <steps_updated num="11">12774 1391 13218 7361 9286 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

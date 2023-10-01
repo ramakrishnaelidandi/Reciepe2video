@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheddar Spoons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-spoons</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/edible-spoons</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="1">4 tablespoons ; unsalted butter, room temperature </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; ice water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91620/hls24_1524854113.m3u8</low>
+    <high>https://vid.tasty.co/output/91620/landscape_720/1524854113</high>
+  </video>
+  <duration>
+    <start_time>1.666</start_time>
+    <end_time>72.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 325˚F (160˚C). </step>
+    <step num="1">Using an electric hand mixer or stand mixer, beat the cheese, butter, and salt in a large bowl. </step>
+    <step num="2">Once combined, mix in the flour and add the ice water one tablespoon at a time. The dough should hold together when pressed but crumble apart if you break it up in your hand. If it seems too dry, add a little more ice water. </step>
+    <step num="3">Divide the dough in half and pack together into 2 discs. Wrap in parchment paper and chill in the refrigerator for 30 minutes. </step>
+    <step num="4">Roll out the dough to ¼ inch (6 mm) thick, pinching together the cracks on the edges. </step>
+    <step num="5">Trace and cut out 6 spoon shapes from each disc of dough. </step>
+    <step num="6">Place the cut-out cheese spoons on top of greased, upside-down spoons on a parchment paper-lined baking sheet. Lightly press down to mold the dough to each spoon’s shape. </step>
+    <step num="7">Bake for 25 minutes, or until golden brown. </step>
+    <step num="8">Serve with layered taco dip, if desired. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 325˚F (160˚C). </steps_updated>
+    <steps_updated num="1">Using an electric hand mixer or stand mixer, beat the cheese, butter, and salt in a large bowl. </steps_updated>
+    <steps_updated num="2">Once combined, mix in the flour and add the ice water one tablespoon at a time. </steps_updated>
+    <steps_updated num="3">The dough should hold together when pressed but crumble apart if you break it up in your hand. </steps_updated>
+    <steps_updated num="4">If it seems too dry, add a little more ice water. </steps_updated>
+    <steps_updated num="5">Divide the dough in half and pack together into 2 discs. </steps_updated>
+    <steps_updated num="6">Wrap in parchment paper and chill in the refrigerator for 30 minutes. </steps_updated>
+    <steps_updated num="7">Roll out the dough to ¼ inch (6 mm) thick, pinching together the cracks on the edges. </steps_updated>
+    <steps_updated num="8">Trace and cut out 6 spoon shapes from each disc of dough. </steps_updated>
+    <steps_updated num="9">Place the cut-out cheese spoons on top of greased, upside-down spoons on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="10">Lightly press down to mold the dough to each spoon’s shape. </steps_updated>
+    <steps_updated num="11">Bake for 25 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="12">Serve with layered taco dip, if desired. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

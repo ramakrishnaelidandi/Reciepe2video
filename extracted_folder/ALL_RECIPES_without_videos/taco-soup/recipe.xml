@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Taco Soup</title>
+  <url>https://tasty.co/recipe/taco-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; lean ground beef ; (454 g) </ingredient>
+    <ingredient num="1">1 ; small onion, chopped </ingredient>
+    <ingredient num="2">15 oz ; canned kidney bean, 1 can ; (425 g) </ingredient>
+    <ingredient num="3">15 oz ; canned black bean, 1 can ; (425 g) </ingredient>
+    <ingredient num="4">15 oz ; canned corn kernels, 1 can ; (425 g) </ingredient>
+    <ingredient num="5">15 oz ; canned diced tomato, 1 can ; (425 g) </ingredient>
+    <ingredient num="6">8 oz ; tomato sauce, 1 can ; (225 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="8">1 ; shredded cheddar cheese, to serve </ingredient>
+    <ingredient num="9">1 ; sour cream, to serve </ingredient>
+    <ingredient num="10">1 ; pico de gallo, to serve </ingredient>
+    <ingredient num="11">1 ; avocado, sliced, to serve </ingredient>
+    <ingredient num="12">1 ; tortilla chips, to serve </ingredient>
+    <ingredient num="13">1 ; lime wedge, to serve </ingredient>
+    <ingredient num="14">1 ; chopped cilantro, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/66101/hls24_1512522808.m3u8</low>
+    <high>https://vid.tasty.co/output/66101/landscape_720/1512522808</high>
+  </video>
+  <steps>
+    <step num="0">Add the ground beef and onion to a large pot and stir until the beef is cooked through. </step>
+    <step num="1">Drain excess liquid. </step>
+    <step num="2">Add the kidney beans, black beans, corn, tomatoes, tomato sauce, and taco seasoning to the pot, and stir until combined. </step>
+    <step num="3">Cook over medium heat for 10 minutes. </step>
+    <step num="4">Serve with cheddar cheese, sour cream, pico de gallo, avocado, corn chips, lime wedges, and cilantro. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the ground beef and onion to a large pot and stir until the beef is cooked through. </steps_updated>
+    <steps_updated num="1">Drain excess liquid. </steps_updated>
+    <steps_updated num="2">Add the kidney beans, black beans, corn, tomatoes, tomato sauce, and taco seasoning to the pot, and stir until combined. </steps_updated>
+    <steps_updated num="3">Cook over medium heat for 10 minutes. </steps_updated>
+    <steps_updated num="4">Serve with cheddar cheese, sour cream, pico de gallo, avocado, corn chips, lime wedges, and cilantro. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

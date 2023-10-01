@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Cider Doughnuts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-cider-doughnuts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ½ cups ; apple cider, reduced down to 1/2 cup (120 ml) ; (590 mL) </ingredient>
+    <ingredient num="1">¼ cup ; butter ; (55 g) </ingredient>
+    <ingredient num="2">1 cup ; granulated sugar ; (200 g) </ingredient>
+    <ingredient num="3">½ cup ; light brown sugar ; (110 g) </ingredient>
+    <ingredient num="4">2 ; large eggs </ingredient>
+    <ingredient num="5">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="6">¾ cup ; sour cream ; (175 g) </ingredient>
+    <ingredient num="7">4 cups ; flour ; (500 g) </ingredient>
+    <ingredient num="8">1 ½ teaspoons ; salt </ingredient>
+    <ingredient num="9">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="10">2 teaspoons ; cinnamon </ingredient>
+    <ingredient num="11">1 teaspoon ; nutmeg </ingredient>
+    <ingredient num="12">canola oil, for frying </ingredient>
+    <ingredient num="13">cinnamon sugar, for coating </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13255/low_1477615623.m3u8</low>
+    <high>https://vid.tasty.co/output/13255/mp4_720x1280/1477615623</high>
+  </video>
+  <steps>
+    <step num="0">Bring apple cider to a boil over medium-high heat. Reduce down to ½ cup (120 ml) (takes about 20-25 minutes). </step>
+    <step num="1">Pour into a large glass measuring cup. </step>
+    <step num="2">Add butter to hot cider and stir to melt. Set aside, cool. </step>
+    <step num="3">In a large bowl, whisk together eggs with white and brown sugar. Add cooled cider/butter mixture, sour cream, and vanilla extract. </step>
+    <step num="4">In a large bowl or in a fine mesh strainer set over the wet ingredients, sift together flour, baking powder, salt, cinnamon, and nutmeg. </step>
+    <step num="5">Using a wooden spoon, mix dry ingredients into the wet until just incorporated. </step>
+    <step num="6">Cover and chill for 1 hour. </step>
+    <step num="7">On a very well-floured surface, roll out the cooled dough to about ¾-inch (2 cm) thickness and cut into donut shapes using pastry cutters or a mason jar/cup and a bottle cap/shot glass. Chill cut donuts 10 minutes more if necessary. </step>
+    <step num="8">Heat oil to 350˚F (180˚C). </step>
+    <step num="9">Fry donuts, 3-4 at a time, flipping occasionally until golden on both sides. </step>
+    <step num="10">Remove to a paper towel lined baking sheet to drain. Roll in cinnamon sugar while still warm. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring apple cider to a boil over medium-high heat. </steps_updated>
+    <steps_updated num="1">Reduce down to ½ cup (120 ml) (takes about 20-25 minutes). </steps_updated>
+    <steps_updated num="2">Pour into a large glass measuring cup. </steps_updated>
+    <steps_updated num="3">Add butter to hot cider and stir to melt. </steps_updated>
+    <steps_updated num="4">Set aside, cool. </steps_updated>
+    <steps_updated num="5">In a large bowl, whisk together eggs with white and brown sugar. </steps_updated>
+    <steps_updated num="6">Add cooled cider/butter mixture, sour cream, and vanilla extract. </steps_updated>
+    <steps_updated num="7">In a large bowl or in a fine mesh strainer set over the wet ingredients, sift together flour, baking powder, salt, cinnamon, and nutmeg. </steps_updated>
+    <steps_updated num="8">Using a wooden spoon, mix dry ingredients into the wet until just incorporated. </steps_updated>
+    <steps_updated num="9">Cover and chill for 1 hour. </steps_updated>
+    <steps_updated num="10">On a very well-floured surface, roll out the cooled dough to about ¾-inch (2 cm) thickness and cut into donut shapes using pastry cutters or a mason jar/cup and a bottle cap/shot glass. </steps_updated>
+    <steps_updated num="11">Chill cut donuts 10 minutes more if necessary. </steps_updated>
+    <steps_updated num="12">Heat oil to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="13">Fry donuts, 3-4 at a time, flipping occasionally until golden on both sides. </steps_updated>
+    <steps_updated num="14">Remove to a paper towel lined baking sheet to drain. </steps_updated>
+    <steps_updated num="15">Roll in cinnamon sugar while still warm. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

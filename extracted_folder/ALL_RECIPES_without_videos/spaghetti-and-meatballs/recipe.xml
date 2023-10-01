@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spaghetti And Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-and-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="1">2 ; large yellow onions, chopped </ingredient>
+    <ingredient num="2">10 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">kosher salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="6">12 oz ; tomato paste ; (340 g) </ingredient>
+    <ingredient num="7">56 oz ; crushed tomato, 2 cans ; (1.5 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; dried basil </ingredient>
+    <ingredient num="9">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="10">1 tablespoon ; dried parsley </ingredient>
+    <ingredient num="11">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="12">1 lb ; ground pork ; (455 g) </ingredient>
+    <ingredient num="13">1 cup ; bread crumbs ; (115 g) </ingredient>
+    <ingredient num="14">½ cup ; ricotta cheese ; (125 g) </ingredient>
+    <ingredient num="15">¼ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+    <ingredient num="16">2 ; large eggs, beaten </ingredient>
+    <ingredient num="17">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="18">¼ cup ; milk ; (60 mL) </ingredient>
+    <ingredient num="19">kosher salt, to taste </ingredient>
+    <ingredient num="20">black pepper, to taste </ingredient>
+    <ingredient num="21">1 lb ; dried spathetti ; (455 g) </ingredient>
+    <ingredient num="22">fresh basil, chopped </ingredient>
+    <ingredient num="23">grated parmesan cheese, fresh </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114066/hls24_1541116042.m3u8</low>
+    <high>https://vid.tasty.co/output/114066/landscape_720/1541116042</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220°C). Set a wire rack over a baking sheet and grease with nonstick spray. </step>
+    <step num="1">Make the marinara sauce: Heat the olive oil in a large saucepan over medium heat. Add the onions and garlic and season with salt, pepper, and the red pepper flakes. Cook until soft and caramelized, about 15 minutes. </step>
+    <step num="2">Set aside ⅓ cup (50 G) of the cooked onions and garlic for the meatballs and let cool. </step>
+    <step num="3">Stir the tomato paste into the onions and cook until browned and aromatic, 3-5 minutes. </step>
+    <step num="4">Add the crushed tomatoes, dried basil, dried oregano, and dried parsley. Stir together and bring to a boil. Reduce the heat to low, cover, and simmer for at least 30 minutes. </step>
+    <step num="5">Make the meatballs: In a large bowl, combine the ground beef, ground pork, reserved onion and garlic mixture, bread crumbs, ricotta, parsley, eggs, Parmesan, milk, salt, and pepper. Mix with your hands until well combined. </step>
+    <step num="6">Shape about 2 (55 G) ounces of meat at a time into balls and set on the prepared wire rack. </step>
+    <step num="7">Bake the meatballs for 20 minutes, until the outsides are browned and the centers are tender and juicy and reach about 155˚F (68˚C). </step>
+    <step num="8">Bring a large pot of water to boil and add a generous pinch of salt. Cook the pasta according to the package instructions, 7-10 minutes, until al dente. Stir occasionally to keep the noodles from sticking together. </step>
+    <step num="9">Drain the pasta and add it directly to the simmering marinara sauce. Reserve some pasta water, in case you need it to loosen the sauce. Stir the pasta into the sauce until fully coated. </step>
+    <step num="10">Add the pasta to serving bowls, top with the meatballs, and garnish with Parmesan, fresh basil, and cracked pepper. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Set a wire rack over a baking sheet and grease with nonstick spray. </steps_updated>
+    <steps_updated num="2">Make the marinara sauce: Heat the olive oil in a large saucepan over medium heat. </steps_updated>
+    <steps_updated num="3">Add the onions and garlic and season with salt, pepper, and the red pepper flakes. </steps_updated>
+    <steps_updated num="4">Cook until soft and caramelized, about 15 minutes. </steps_updated>
+    <steps_updated num="5">Set aside ⅓ cup (50 G) of the cooked onions and garlic for the meatballs and let cool. </steps_updated>
+    <steps_updated num="6">Stir the tomato paste into the onions and cook until browned and aromatic, 3-5 minutes. </steps_updated>
+    <steps_updated num="7">Add the crushed tomatoes, dried basil, dried oregano, and dried parsley. </steps_updated>
+    <steps_updated num="8">Stir together and bring to a boil. </steps_updated>
+    <steps_updated num="9">Reduce the heat to low, cover, and simmer for at least 30 minutes. </steps_updated>
+    <steps_updated num="10">Make the meatballs: In a large bowl, combine the ground beef, ground pork, reserved onion and garlic mixture, bread crumbs, ricotta, parsley, eggs, Parmesan, milk, salt, and pepper. </steps_updated>
+    <steps_updated num="11">Mix with your hands until well combined. </steps_updated>
+    <steps_updated num="12">Shape about 2 (55 G) ounces of meat at a time into balls and set on the prepared wire rack. </steps_updated>
+    <steps_updated num="13">Bake the meatballs for 20 minutes, until the outsides are browned and the centers are tender and juicy and reach about 155˚F (68˚C). </steps_updated>
+    <steps_updated num="14">Bring a large pot of water to boil and add a generous pinch of salt. </steps_updated>
+    <steps_updated num="15">Cook the pasta according to the package instructions, 7-10 minutes, until al dente. </steps_updated>
+    <steps_updated num="16">Stir occasionally to keep the noodles from sticking together. </steps_updated>
+    <steps_updated num="17">Drain the pasta and add it directly to the simmering marinara sauce. </steps_updated>
+    <steps_updated num="18">Reserve some pasta water, in case you need it to loosen the sauce. </steps_updated>
+    <steps_updated num="19">Stir the pasta into the sauce until fully coated. </steps_updated>
+    <steps_updated num="20">Add the pasta to serving bowls, top with the meatballs, and garnish with Parmesan, fresh basil, and cracked pepper. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

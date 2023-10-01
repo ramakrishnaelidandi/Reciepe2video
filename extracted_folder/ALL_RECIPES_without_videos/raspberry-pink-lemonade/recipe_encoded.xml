@@ -1,0 +1,41 @@
+<recipe>
+  <title>Raspberry Pink Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-pink-lemonade</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-low-sugar-drink-swaps-for-kids-by-playfull</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 356 13278 13125 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 597 10522 13278 2935 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">BBQ</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58277/low_1508958261.m3u8</low>
+    <high>https://vid.tasty.co/output/58277/mp4_720x1280/1508958261</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>42.099</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 8554 11907 210 5994 13426 13817 5331 560 6673 9824 </step>
+    <step num="1">8845 13817 8956 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 8554 11907 210 5994 13426 13817 5331 560 6673 9824 </steps_updated>
+    <steps_updated num="1">8845 13817 8956 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+</recipe>

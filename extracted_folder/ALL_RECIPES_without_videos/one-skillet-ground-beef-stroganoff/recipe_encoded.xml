@@ -1,0 +1,65 @@
+<recipe>
+  <title>One Skillet Ground Beef Stroganoff Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-skillet-ground-beef-stroganoff</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">6735 643 13278 4617 13642 9325 976 13278 9473 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 9924 </ingredient>
+    <ingredient num="3">1580 13278 12384 341 </ingredient>
+    <ingredient num="4">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="5">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="6">13086 9486 13278 890 </ingredient>
+    <ingredient num="7">3917 8071 13278 9496 </ingredient>
+    <ingredient num="8">12791 2605 13278 5316 14599 13278 13125 8007 </ingredient>
+    <ingredient num="9">4061 9517 13278 9721 534 1946 547 13278 3798 8007 </ingredient>
+    <ingredient num="10">3917 1580 2031 13278 82 </ingredient>
+    <ingredient num="11">1580 8071 13278 7845 </ingredient>
+    <ingredient num="12">4061 9517 13278 5316 6216 5777 13278 5348 5981 </ingredient>
+    <ingredient num="13">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+    <ingredient num="14">8580 9486 13278 6209 11911 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54481/low_1506964169.m3u8</low>
+    <high>https://vid.tasty.co/output/54481/mp4_720x1280/1506964169</high>
+  </video>
+  <steps>
+    <step num="0">9179 8244 560 5994 2597 5687 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 14094 13817 2550 1681 1910 2933 560 11061 12689 12785 11951 14094 560 5994 9086 </step>
+    <step num="1">10950 11951 5540 11745 740 11951 14057 9179 11951 12384 11088 20 13817 11384 785 12473 1681 11951 3061 9490 7340 3128 3557 3386 2658 1762 12224 </step>
+    <step num="2">11720 7115 1198 3257 13817 13546 11951 5687 560 11951 2181 </step>
+    <step num="3">9179 11951 890 13817 4700 12473 1681 10127 6285 3917 560 8580 12689 </step>
+    <step num="4">9179 11951 1322 13817 6991 14455 3386 7115 1368 8577 6781 11951 551 371 11951 10590 </step>
+    <step num="5">9179 11951 1946 547 13817 14238 11951 2373 560 5994 11714 </step>
+    <step num="6">9179 11951 6216 12279 12610 13817 12375 10211 11951 7855 560 5181 4660 11951 5687 1391 5994 2445 </step>
+    <step num="7">12473 8729 1681 11951 13633 12573 1910 6285 6735 560 13767 12689 </step>
+    <step num="8">4278 11951 14094 560 11951 5687 13817 6142 560 1011 </step>
+    <step num="9">9179 11951 1484 13033 13817 12224 13494 1391 3962 13012 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 8244 560 5994 2597 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 5766 10586 560 923 740 11951 14094 13817 2550 1681 1910 2933 560 11061 12689 </steps_updated>
+    <steps_updated num="2">12785 11951 14094 560 5994 9086 </steps_updated>
+    <steps_updated num="3">10950 11951 5540 11745 740 11951 14057 </steps_updated>
+    <steps_updated num="4">9179 11951 12384 11088 20 13817 11384 785 </steps_updated>
+    <steps_updated num="5">12473 1681 11951 3061 9490 7340 3128 3557 3386 2658 1762 12224 </steps_updated>
+    <steps_updated num="6">11720 7115 1198 3257 13817 13546 11951 5687 560 11951 2181 </steps_updated>
+    <steps_updated num="7">9179 11951 890 13817 4700 </steps_updated>
+    <steps_updated num="8">12473 1681 10127 6285 3917 560 8580 12689 </steps_updated>
+    <steps_updated num="9">9179 11951 1322 13817 6991 14455 3386 7115 1368 8577 6781 11951 551 371 11951 10590 </steps_updated>
+    <steps_updated num="10">9179 11951 1946 547 13817 14238 11951 2373 560 5994 11714 </steps_updated>
+    <steps_updated num="11">9179 11951 6216 12279 12610 13817 12375 </steps_updated>
+    <steps_updated num="12">10211 11951 7855 560 5181 </steps_updated>
+    <steps_updated num="13">4660 11951 5687 1391 5994 2445 </steps_updated>
+    <steps_updated num="14">12473 8729 1681 11951 13633 12573 1910 6285 6735 560 13767 12689 </steps_updated>
+    <steps_updated num="15">4278 11951 14094 560 11951 5687 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="16">9179 11951 1484 13033 13817 12224 </steps_updated>
+    <steps_updated num="17">13494 1391 3962 13012 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Banana Bread Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-bread-pudding</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; breads, whatever is about to go stale, cut into small cubes </ingredient>
+    <ingredient num="1">4 ; ripe bananas </ingredient>
+    <ingredient num="2">3 ; eggs </ingredient>
+    <ingredient num="3">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="4">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="6">1 cup ; chocolate chips ; (175 g) </ingredient>
+    <ingredient num="7">ice cream, to taste </ingredient>
+    <ingredient num="8">chocolate syrup, to taste </ingredient>
+    <ingredient num="9">whipped cream, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31922/low_1495124899.m3u8</low>
+    <high>https://vid.tasty.co/output/31922/mp4_720x1280/1495124899</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, cut bread into small cubes. Place onto a baking sheet and bake at 350°F (175°C) for five minutes to help dry the bread out. </step>
+    <step num="1">In a large mixing bowl, add ripe bananas and mush. </step>
+    <step num="2">Add in beaten eggs, milk, cinnamon, and vanilla extract, and stir. </step>
+    <step num="3">Once fully mixed, add bread and let it soak for 5 to 10 minutes. </step>
+    <step num="4">Add in chocolate chips. Stir together, and spoon mix into a large muffin tin. Bake at 350°F (175°C) for 20 minutes. </step>
+    <step num="5">Scoop your favorite ice cream or whipped cream and top with chocolate syrup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, cut bread into small cubes. </steps_updated>
+    <steps_updated num="1">Place onto a baking sheet and bake at 350°F (175°C) for five minutes to help dry the bread out. </steps_updated>
+    <steps_updated num="2">In a large mixing bowl, add ripe bananas and mush. </steps_updated>
+    <steps_updated num="3">Add in beaten eggs, milk, cinnamon, and vanilla extract, and stir. </steps_updated>
+    <steps_updated num="4">Once fully mixed, add bread and let it soak for 5 to 10 minutes. </steps_updated>
+    <steps_updated num="5">Add in chocolate chips. </steps_updated>
+    <steps_updated num="6">Stir together, and spoon mix into a large muffin tin. </steps_updated>
+    <steps_updated num="7">Bake at 350°F (175°C) for 20 minutes. </steps_updated>
+    <steps_updated num="8">Scoop your favorite ice cream or whipped cream and top with chocolate syrup. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

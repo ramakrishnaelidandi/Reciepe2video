@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tabbouleh Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tabbouleh</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 bunches ; fresh parsley </ingredient>
+    <ingredient num="1">2 ; medium tomatoes </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ cup ; fresh lemon juice, plus 2 tbsp, divided ; (120 mL) </ingredient>
+    <ingredient num="4">½ cup ; fine grain bulgur, or medium grain, rinsed and drained ; (100 g) </ingredient>
+    <ingredient num="5">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="6">1 ; english cucumber, diced </ingredient>
+    <ingredient num="7">2 ; scallions, thinly sliced </ingredient>
+    <ingredient num="8">½ cup ; olive oil ; (120 mL) </ingredient>
+    <ingredient num="9">½ teaspoon ; salt </ingredient>
+    <ingredient num="10">½ teaspoon ; pepper </ingredient>
+    <ingredient num="11">2 tablespoons ; fresh mint leaf, thinly sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/89912/hls24_1523996774.m3u8</low>
+    <high>https://vid.tasty.co/output/89912/landscape_720/1523996774</high>
+  </video>
+  <steps>
+    <step num="0">Use a fork to de-stem the parsley. Pick any remaining leaves with your fingers. Compost or save the stems for vegetable stock. </step>
+    <step num="1">Chop the parsley very finely and transfer to a medium bowl. </step>
+    <step num="2">Mince the tomatoes and transfer to a fine-mesh strainer, then set the strainer over another medium bowl. Sprinkle the tomatoes with a pinch of salt and mix. Let stand for 30 minutes, tossing occasionally, then add to the bowl with the parsley. Discard all but 2 tablespoons of the tomato water. </step>
+    <step num="3">Rinse the bulgur in a fine-mesh strainer under cold running water and drain well. </step>
+    <step num="4">Add 2 tablespoons of lemon juice, the bulgur, and water to the bowl with the reserved tomato water. Let stand until the grains are beginning to soften, about 1 hour or according to package instructions. </step>
+    <step num="5">Add the cucumber, scallions, mint, olive oil, soaked bulgur, remaining lemon juice, salt, and pepper to the bowl with the parsley and tomatoes. Toss to combine. Serve immediately. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a fork to de-stem the parsley. </steps_updated>
+    <steps_updated num="1">Pick any remaining leaves with your fingers. </steps_updated>
+    <steps_updated num="2">Compost or save the stems for vegetable stock. </steps_updated>
+    <steps_updated num="3">Chop the parsley very finely and transfer to a medium bowl. </steps_updated>
+    <steps_updated num="4">Mince the tomatoes and transfer to a fine-mesh strainer, then set the strainer over another medium bowl. </steps_updated>
+    <steps_updated num="5">Sprinkle the tomatoes with a pinch of salt and mix. </steps_updated>
+    <steps_updated num="6">Let stand for 30 minutes, tossing occasionally, then add to the bowl with the parsley. </steps_updated>
+    <steps_updated num="7">Discard all but 2 tablespoons of the tomato water. </steps_updated>
+    <steps_updated num="8">Rinse the bulgur in a fine-mesh strainer under cold running water and drain well. </steps_updated>
+    <steps_updated num="9">Add 2 tablespoons of lemon juice, the bulgur, and water to the bowl with the reserved tomato water. </steps_updated>
+    <steps_updated num="10">Let stand until the grains are beginning to soften, about 1 hour or according to package instructions. </steps_updated>
+    <steps_updated num="11">Add the cucumber, scallions, mint, olive oil, soaked bulgur, remaining lemon juice, salt, and pepper to the bowl with the parsley and tomatoes. </steps_updated>
+    <steps_updated num="12">Toss to combine. </steps_updated>
+    <steps_updated num="13">Serve immediately. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

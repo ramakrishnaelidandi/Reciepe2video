@@ -1,0 +1,41 @@
+<recipe>
+  <title>Pizza Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11852 643 13278 11237 11318 13278 12932 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 9122 9150 13278 12933 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 10865 14538 13278 6952 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 9325 976 13278 3433 5981 </ingredient>
+    <ingredient num="4">4985 10986 976 </ingredient>
+    <ingredient num="5">1580 13278 8083 12384 976 1088 </ingredient>
+    <ingredient num="6">3917 2605 13278 4437 8421 341 13278 9018 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 5243 4743 341 13278 7005 5981 </ingredient>
+    <ingredient num="8">11061 13278 5243 4743 3305 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11197 </step>
+    <step num="1">10950 5994 2597 5687 5895 6326 7454 573 2532 371 11951 11237 10803 6960 5569 11951 1400 8111 9806 4985 10986 8083 12384 4437 13817 341 7068 </step>
+    <step num="2">7831 7990 13133 11004 1681 14538 9490 1311 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11197 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 5687 5895 6326 7454 573 2532 371 11951 11237 10803 6960 5569 11951 1400 8111 9806 4985 10986 8083 12384 4437 13817 341 7068 </steps_updated>
+    <steps_updated num="2">7831 7990 13133 11004 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

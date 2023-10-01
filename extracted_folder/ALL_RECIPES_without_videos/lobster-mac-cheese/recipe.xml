@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lobster Mac &amp; Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lobster-mac-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; lobster tail, 4 tails ; (340 g) </ingredient>
+    <ingredient num="1">1 cup ; homemade breadcrumb ; (115 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; parmesan cheese </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">3 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="6">2 tablespoons ; all-purpose flour </ingredient>
+    <ingredient num="7">1 tablespoon ; cognac </ingredient>
+    <ingredient num="8">2 cups ; whole milk ; (480 mL) </ingredient>
+    <ingredient num="9">2 cups ; sharp white cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="10">1 ½ cups ; shredded comte cheese ; (150 g) </ingredient>
+    <ingredient num="11">⅓ cup ; grated parmesan cheese ; (35 g) </ingredient>
+    <ingredient num="12">2 tablespoons ; mascarpone cheese </ingredient>
+    <ingredient num="13">½ lb ; pasta ; (230 g) </ingredient>
+    <ingredient num="14">2 tablespoons ; fresh chives, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32359/low_1495149541.m3u8</low>
+    <high>https://vid.tasty.co/output/32359/mp4_720x1280/1495149541</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220°C). </step>
+    <step num="1">Boil the lobster tails in salted water until just cooked through, about 12 minutes. -- Cook 1 minute per ounce (28g). </step>
+    <step num="2">When cool, remove the meat and dice. Set aside. </step>
+    <step num="3">Toss the breadcrumbs with 1 tablespoon melted butter, 2 tablespoons parmesan cheese, and black pepper. </step>
+    <step num="4">Cook the pasta in salted boiling water until al dente, about 7 minutes. </step>
+    <step num="5">Drain and set aside. </step>
+    <step num="6">In a large sauce pan, melt the butter over medium-low heat. </step>
+    <step num="7">Add the flour and whisk, cook about a minute. </step>
+    <step num="8">Add the Cognac and whisk. The mixture will thicken immediately. </step>
+    <step num="9">Slowly add the milk, while whisking. </step>
+    <step num="10">Increase the heat to medium and stir occasionally until it starts to bubble. </step>
+    <step num="11">The sauce will thicken enough to coat the back of a spoon. </step>
+    <step num="12">When it reaches this stage, add salt and pepper to taste. </step>
+    <step num="13">Add the sharp cheddar, Comte and parmesan cheeses, one handful at a time, whisking to incorporate. When one handful is melted, add the next. </step>
+    <step num="14">When all the shredded cheese has been added, add the mascarpone and stir. </step>
+    <step num="15">Remove from heat. </step>
+    <step num="16">Toss the cooked pasta with the sauce and ½ of the lobster, reserving about ½ for the top. </step>
+    <step num="17">Pour into a bake dish, and top with reserved lobster and buttered breadcrumbs. </step>
+    <step num="18">Bake until golden brown and bubbly, about 10 minutes. </step>
+    <step num="19">Serve immediately. </step>
+    <step num="20">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Boil the lobster tails in salted water until just cooked through, about 12 minutes. </steps_updated>
+    <steps_updated num="2">-- Cook 1 minute per ounce (28g). </steps_updated>
+    <steps_updated num="3">When cool, remove the meat and dice. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">Toss the breadcrumbs with 1 tablespoon melted butter, 2 tablespoons parmesan cheese, and black pepper. </steps_updated>
+    <steps_updated num="6">Cook the pasta in salted boiling water until al dente, about 7 minutes. </steps_updated>
+    <steps_updated num="7">Drain and set aside. </steps_updated>
+    <steps_updated num="8">In a large sauce pan, melt the butter over medium-low heat. </steps_updated>
+    <steps_updated num="9">Add the flour and whisk, cook about a minute. </steps_updated>
+    <steps_updated num="10">Add the Cognac and whisk. </steps_updated>
+    <steps_updated num="11">The mixture will thicken immediately. </steps_updated>
+    <steps_updated num="12">Slowly add the milk, while whisking. </steps_updated>
+    <steps_updated num="13">Increase the heat to medium and stir occasionally until it starts to bubble. </steps_updated>
+    <steps_updated num="14">The sauce will thicken enough to coat the back of a spoon. </steps_updated>
+    <steps_updated num="15">When it reaches this stage, add salt and pepper to taste. </steps_updated>
+    <steps_updated num="16">Add the sharp cheddar, Comte and parmesan cheeses, one handful at a time, whisking to incorporate. </steps_updated>
+    <steps_updated num="17">When one handful is melted, add the next. </steps_updated>
+    <steps_updated num="18">When all the shredded cheese has been added, add the mascarpone and stir. </steps_updated>
+    <steps_updated num="19">Remove from heat. </steps_updated>
+    <steps_updated num="20">Toss the cooked pasta with the sauce and ½ of the lobster, reserving about ½ for the top. </steps_updated>
+    <steps_updated num="21">Pour into a bake dish, and top with reserved lobster and buttered breadcrumbs. </steps_updated>
+    <steps_updated num="22">Bake until golden brown and bubbly, about 10 minutes. </steps_updated>
+    <steps_updated num="23">Serve immediately. </steps_updated>
+    <steps_updated num="24">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegetarian "Meat" Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegetarian-meat-sauce</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">10 oz ; cremini mushroom ; (285 g) </ingredient>
+    <ingredient num="1">1 ; white onion </ingredient>
+    <ingredient num="2">2 tablespoons ; oil </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">1 ½ teaspoons ; dried oregano </ingredient>
+    <ingredient num="7">¼ cup ; tomato paste ; (55 g) </ingredient>
+    <ingredient num="8">28 oz ; crushed tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="9">2 cups ; vegetable broth ; (480 mL) </ingredient>
+    <ingredient num="10">15 oz ; chickpeas, 1 can, drained ; (425 g) </ingredient>
+    <ingredient num="11">fresh basil, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92058/hls24_1525200019.m3u8</low>
+    <high>https://vid.tasty.co/output/92058/landscape_720/1525200019</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, pulse the mushrooms and onions until broken into uniformly fine pieces, about 10 pulses, scraping down the sides of the bowl as needed. </step>
+    <step num="1">Heat the oil in a large skillet set over medium-high heat. </step>
+    <step num="2">Pour the mushrooms and onions into the skillet and season with salt and pepper. Sauté until the veggies have released moisture and softened, about 8 minutes. </step>
+    <step num="3">Add the garlic and oregano. Sauté until fragrant, about 30 seconds. </step>
+    <step num="4">Push the veggies to the sides of the pan and add the tomato paste, slowly mixing in the veggies from the side until a uniform paste has formed. </step>
+    <step num="5">Add the crushed tomatoes and stir until well combined and thick. </step>
+    <step num="6">Add the vegetable stock and stir until the sauce has thickened slightly. Reduce the heat to medium-low if it is bubbling and popping too much. </step>
+    <step num="7">While the sauce simmers, place the chickpeas in the food processor and pulse until broken into fine pieces, about 10 pulses. </step>
+    <step num="8">Pour the chickpeas into a fine mesh strainer and submerge in a medium bowl filled with water. </step>
+    <step num="9">Shake the strainer for 1 minute to remove starches from the chickpeas. You’ll know when to remove the strainer when the water has become very cloudy from the starches. </step>
+    <step num="10">Transfer the chickpeas to the sauce and stir for at least 1 minute to give the chickpeas time to cook. </step>
+    <step num="11">Use the sauce as desired for pasta, veggie noodles, calzones, etc.. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, pulse the mushrooms and onions until broken into uniformly fine pieces, about 10 pulses, scraping down the sides of the bowl as needed. </steps_updated>
+    <steps_updated num="1">Heat the oil in a large skillet set over medium-high heat. </steps_updated>
+    <steps_updated num="2">Pour the mushrooms and onions into the skillet and season with salt and pepper. </steps_updated>
+    <steps_updated num="3">Sauté until the veggies have released moisture and softened, about 8 minutes. </steps_updated>
+    <steps_updated num="4">Add the garlic and oregano. </steps_updated>
+    <steps_updated num="5">Sauté until fragrant, about 30 seconds. </steps_updated>
+    <steps_updated num="6">Push the veggies to the sides of the pan and add the tomato paste, slowly mixing in the veggies from the side until a uniform paste has formed. </steps_updated>
+    <steps_updated num="7">Add the crushed tomatoes and stir until well combined and thick. </steps_updated>
+    <steps_updated num="8">Add the vegetable stock and stir until the sauce has thickened slightly. </steps_updated>
+    <steps_updated num="9">Reduce the heat to medium-low if it is bubbling and popping too much. </steps_updated>
+    <steps_updated num="10">While the sauce simmers, place the chickpeas in the food processor and pulse until broken into fine pieces, about 10 pulses. </steps_updated>
+    <steps_updated num="11">Pour the chickpeas into a fine mesh strainer and submerge in a medium bowl filled with water. </steps_updated>
+    <steps_updated num="12">Shake the strainer for 1 minute to remove starches from the chickpeas. </steps_updated>
+    <steps_updated num="13">You’ll know when to remove the strainer when the water has become very cloudy from the starches. </steps_updated>
+    <steps_updated num="14">Transfer the chickpeas to the sauce and stir for at least 1 minute to give the chickpeas time to cook. </steps_updated>
+    <steps_updated num="15">Use the sauce as desired for pasta, veggie noodles, calzones, etc.. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

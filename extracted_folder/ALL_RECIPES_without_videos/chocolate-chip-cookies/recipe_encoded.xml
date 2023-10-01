@@ -1,0 +1,54 @@
+<recipe>
+  <title>Chocolate Chip Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-chip-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 10907 5335 13278 7689 5981 </ingredient>
+    <ingredient num="1">8580 9517 13278 1368 6145 3037 13278 11915 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 8653 4834 13278 5348 5981 </ingredient>
+    <ingredient num="3">4061 13278 2597 12708 </ingredient>
+    <ingredient num="4">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="5">2933 9517 13278 13521 890 13278 2819 5981 </ingredient>
+    <ingredient num="6">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="7">4061 9517 13278 4680 11318 13278 7793 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7825/low_1471985308.m3u8</low>
+    <high>https://vid.tasty.co/output/7825/mp4_720x1280/1471985308</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9477 11454 </step>
+    <step num="1">10950 5994 2597 14511 8341 3626 11951 1368 6145 8653 6145 13817 5335 10907 1681 3584 3479 13817 6949 210 3784 </step>
+    <step num="2">9179 210 11951 12708 13817 308 3624 1681 12119 </step>
+    <step num="3">9179 11951 890 13817 10765 2101 9753 11951 2373 1681 3557 5818 5994 6873 9453 </step>
+    <step num="4">12595 210 11951 4680 11318 1681 3584 4309 </step>
+    <step num="5">5209 2237 2439 13033 9607 1374 11061 2984 371 8337 1802 5994 10765 7238 10926 1391 3550 8831 </step>
+    <step num="6">7831 7990 409 11004 415 7329 </step>
+    <step num="7">10450 7545 7155 8337 7990 5525 6245 1374 11951 8337 669 2984 13817 3345 3755 13258 4255 5994 10765 7238 10926 1391 3550 8831 </step>
+    <step num="8">5791 11951 7238 1391 5716 9885 415 13351 7990 3386 560 797 8043 </step>
+    <step num="9">10450 10903 11951 11579 8337 11517 5103 13218 13050 6781 11951 7238 13817 10903 210 5994 11853 10439 7990 13133 8927 7811 9477 11454 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9477 11454 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 8341 3626 11951 1368 6145 8653 6145 13817 5335 10907 1681 3584 3479 13817 6949 210 3784 </steps_updated>
+    <steps_updated num="2">9179 210 11951 12708 13817 308 3624 1681 12119 </steps_updated>
+    <steps_updated num="3">9179 11951 890 13817 10765 2101 9753 11951 2373 1681 3557 5818 5994 6873 9453 </steps_updated>
+    <steps_updated num="4">12595 210 11951 4680 11318 1681 3584 4309 </steps_updated>
+    <steps_updated num="5">5209 2237 2439 13033 9607 1374 11061 2984 371 8337 1802 5994 10765 7238 10926 1391 3550 8831 </steps_updated>
+    <steps_updated num="6">7831 7990 409 11004 415 7329 </steps_updated>
+    <steps_updated num="7">10450 7545 7155 8337 7990 5525 6245 1374 11951 8337 669 2984 13817 3345 3755 13258 4255 5994 10765 7238 10926 1391 3550 8831 </steps_updated>
+    <steps_updated num="8">5791 11951 7238 1391 5716 9885 415 13351 7990 3386 560 797 8043 </steps_updated>
+    <steps_updated num="9">10450 10903 11951 11579 8337 11517 5103 13218 13050 6781 11951 7238 13817 10903 210 5994 11853 10439 7990 13133 8927 7811 9477 11454 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

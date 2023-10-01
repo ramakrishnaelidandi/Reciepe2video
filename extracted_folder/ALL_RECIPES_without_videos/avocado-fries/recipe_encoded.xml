@@ -1,0 +1,47 @@
+<recipe>
+  <title>Avocado Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 10415 4721 10524 </ingredient>
+    <ingredient num="1">13086 13278 12708 </ingredient>
+    <ingredient num="2">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 12956 1230 13278 2264 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 499 10986 3567 560 13772 5895 2726 1391 11384 11703 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32007/low_1495125002.m3u8</low>
+    <high>https://vid.tasty.co/output/32007/mp4_720x1280/1495125002</high>
+  </video>
+  <steps>
+    <step num="0">3235 11951 6716 210 1991 13817 415 12205 3449 669 14160 </step>
+    <step num="1">9393 11951 4465 9031 1391 11951 499 7845 13817 12051 </step>
+    <step num="2">7692 11951 8535 210 6467 415 210 11951 14341 14463 415 210 11951 608 </step>
+    <step num="3">5570 11951 8535 4255 3802 12 4255 5994 10765 8800 2389 3145 1391 8224 11013 9179 5994 1678 371 13584 7845 5358 13 </step>
+    <step num="4">7831 7990 205 409 8927 7811 11480 3592 11423 8554 11951 10772 7492 13817 3643 </step>
+    <step num="5">12774 1391 12313 226 7361 4998 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 6716 210 1991 13817 415 12205 3449 669 14160 </steps_updated>
+    <steps_updated num="1">9393 11951 4465 9031 1391 11951 499 7845 13817 12051 </steps_updated>
+    <steps_updated num="2">7692 11951 8535 210 6467 415 210 11951 14341 14463 415 210 11951 608 </steps_updated>
+    <steps_updated num="3">5570 11951 8535 4255 3802 12 4255 5994 10765 8800 </steps_updated>
+    <steps_updated num="4">2389 3145 1391 8224 11013 </steps_updated>
+    <steps_updated num="5">9179 5994 1678 371 13584 7845 5358 13 </steps_updated>
+    <steps_updated num="6">7831 7990 205 409 8927 7811 11480 3592 </steps_updated>
+    <steps_updated num="7">11423 8554 11951 10772 7492 13817 3643 </steps_updated>
+    <steps_updated num="8">12774 1391 12313 226 7361 4998 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

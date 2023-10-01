@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Blueberry Crisp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-blueberry-crisp</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; blueberry ; (300 g) </ingredient>
+    <ingredient num="1">1 cup ; rolled oats ; (80 g) </ingredient>
+    <ingredient num="2">½ cup ; almonds, chopped or slivered ; (70 g) </ingredient>
+    <ingredient num="3">¼ cup ; whole wheat flour ; (28 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">2 tablespoons ; coconut oil, melted </ingredient>
+    <ingredient num="6">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="7">¼ cup ; greek yogurt ; (71 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; maple syrup </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Brunch</category>
+    <category num="4">Desserts</category>
+    <category num="5">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26358/low_1489423068.m3u8</low>
+    <high>https://vid.tasty.co/output/26358/mp4_720x1280/1489423068</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F/180˚C. </step>
+    <step num="1">Combine dry ingredients of the crisp topping in a bowl. Then add in the wet ingredients and mix until evenly coated. </step>
+    <step num="2">Add blueberries to a medium-sized baking dish, then cover with the crisp topping. </step>
+    <step num="3">Bake 45-50 minutes, or until golden brown and blueberries start to bubble. </step>
+    <step num="4">Mix together Greek yogurt and maple syrup in a measuring cup. Drizzle over your blueberry crisp. </step>
+    <step num="5">Serve and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F/180˚C. </steps_updated>
+    <steps_updated num="1">Combine dry ingredients of the crisp topping in a bowl. </steps_updated>
+    <steps_updated num="2">Then add in the wet ingredients and mix until evenly coated. </steps_updated>
+    <steps_updated num="3">Add blueberries to a medium-sized baking dish, then cover with the crisp topping. </steps_updated>
+    <steps_updated num="4">Bake 45-50 minutes, or until golden brown and blueberries start to bubble. </steps_updated>
+    <steps_updated num="5">Mix together Greek yogurt and maple syrup in a measuring cup. </steps_updated>
+    <steps_updated num="6">Drizzle over your blueberry crisp. </steps_updated>
+    <steps_updated num="7">Serve and enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

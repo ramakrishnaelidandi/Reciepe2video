@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Chocolate Chip Breakfast Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-chocolate-chip-breakfast-muffins</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; ripe bananas </ingredient>
+    <ingredient num="1">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="2">1 cup ; quick oat ; (140 g) </ingredient>
+    <ingredient num="3">1 cup ; wheat flour ; (115 g) </ingredient>
+    <ingredient num="4">3 ; eggs </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="6">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="7">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; honey </ingredient>
+    <ingredient num="9">½ cup ; dark chocolate chip ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8845/low_1472781198.m3u8</low>
+    <high>https://vid.tasty.co/output/8845/mp4_720x1280/1472781198</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180˚C). </step>
+    <step num="1">In a blender, combine all ingredients except chocolate chips. Blend thoroughly, mixing up with a spoon if needed. </step>
+    <step num="2">Divide mixture among 12 lined muffin tins. </step>
+    <step num="3">Sprinkle chocolate chips on top of the muffins. </step>
+    <step num="4">Bake 20 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180˚C). </steps_updated>
+    <steps_updated num="1">In a blender, combine all ingredients except chocolate chips. </steps_updated>
+    <steps_updated num="2">Blend thoroughly, mixing up with a spoon if needed. </steps_updated>
+    <steps_updated num="3">Divide mixture among 12 lined muffin tins. </steps_updated>
+    <steps_updated num="4">Sprinkle chocolate chips on top of the muffins. </steps_updated>
+    <steps_updated num="5">Bake 20 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

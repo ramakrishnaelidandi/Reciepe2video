@@ -1,0 +1,51 @@
+<recipe>
+  <title>Vanilla Panna Cotta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-panna-cotta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-italian-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 8071 13278 14031 11710 </ingredient>
+    <ingredient num="1">3917 14014 13278 278 12282 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 8640 13033 13278 1536 8007 </ingredient>
+    <ingredient num="3">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="4">12791 8071 13278 1319 10937 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Date Night</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22789/low_1485992761.m3u8</low>
+    <high>https://vid.tasty.co/output/22789/mp4_720x1280/1485992761</high>
+  </video>
+  <duration>
+    <start_time>74.38</start_time>
+    <end_time>114.38</end_time>
+  </duration>
+  <steps>
+    <step num="0">6252 11710 11770 11951 2019 12450 11710 217 254 11951 12282 13817 4538 210 5994 3382 11348 8272 </step>
+    <step num="1">10950 5994 2192 7110 4120 8640 13033 1391 4834 13817 2550 11770 13757 1681 10719 7811 11951 14425 14655 5895 644 1896 5994 11714 </step>
+    <step num="2">9956 11951 13033 7312 12560 13794 11951 2032 14655 5103 6781 7855 13817 740 1319 10937 13817 10656 12245 12473 1681 7568 10033 </step>
+    <step num="3">8845 13019 14297 2373 669 13218 7818 3880 140 </step>
+    <step num="4">12251 13033 560 4603 560 10302 2281 432 9181 210 11951 10437 7990 928 13199 5895 1681 11951 13033 9490 10524 210 5240 </step>
+    <step num="5">13494 1391 8540 13817 181 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6252 11710 11770 11951 2019 </steps_updated>
+    <steps_updated num="1">12450 11710 217 254 11951 12282 13817 4538 210 5994 3382 11348 8272 </steps_updated>
+    <steps_updated num="2">10950 5994 2192 7110 4120 8640 13033 1391 4834 13817 2550 11770 13757 1681 10719 7811 11951 14425 14655 5895 644 1896 5994 11714 </steps_updated>
+    <steps_updated num="3">9956 11951 13033 7312 12560 13794 11951 2032 14655 5103 6781 7855 13817 740 1319 10937 13817 10656 12245 </steps_updated>
+    <steps_updated num="4">12473 1681 7568 10033 </steps_updated>
+    <steps_updated num="5">8845 13019 14297 2373 669 13218 7818 3880 140 </steps_updated>
+    <steps_updated num="6">12251 13033 560 4603 560 10302 2281 432 9181 210 11951 10437 7990 928 13199 5895 1681 11951 13033 9490 10524 210 5240 </steps_updated>
+    <steps_updated num="7">13494 1391 8540 13817 181 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02293</start_time>
+    <end_time>03441</end_time>
+  </duration_human>
+</recipe>

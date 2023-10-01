@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rocky Road 'Box' Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rocky-road-box-brownies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; brownie mix, prepared and baked according to package instructions </ingredient>
+    <ingredient num="1">½ cup ; nuts, your choice ; (125 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; marshmallow ; (85 g) </ingredient>
+    <ingredient num="3">chocolate syrup, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32203/low_1495125493.m3u8</low>
+    <high>https://vid.tasty.co/output/32203/mp4_720x1280/1495125493</high>
+  </video>
+  <steps>
+    <step num="0">Prepare the brownie mix batter according to package instructions. </step>
+    <step num="1">Add nuts to your brownie mix batter. Mix thoroughly. </step>
+    <step num="2">Pour into baking pan. Bake the brownie mix according to package instructions. </step>
+    <step num="3">Remove from the oven, and top with marshmallows. </step>
+    <step num="4">Broil for 30 seconds, until the marshmallows are toasty. </step>
+    <step num="5">Serve with a drizzle of chocolate syrup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare the brownie mix batter according to package instructions. </steps_updated>
+    <steps_updated num="1">Add nuts to your brownie mix batter. </steps_updated>
+    <steps_updated num="2">Mix thoroughly. </steps_updated>
+    <steps_updated num="3">Pour into baking pan. </steps_updated>
+    <steps_updated num="4">Bake the brownie mix according to package instructions. </steps_updated>
+    <steps_updated num="5">Remove from the oven, and top with marshmallows. </steps_updated>
+    <steps_updated num="6">Broil for 30 seconds, until the marshmallows are toasty. </steps_updated>
+    <steps_updated num="7">Serve with a drizzle of chocolate syrup. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

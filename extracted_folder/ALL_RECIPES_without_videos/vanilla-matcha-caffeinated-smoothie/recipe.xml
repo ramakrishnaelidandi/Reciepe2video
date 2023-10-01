@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vanilla Matcha Caffeinated Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-matcha-caffeinated-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/caffeinated-smoothies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; hot water, mixed with 1½ teaspoons matcha powder, cooled ; (360 mL) </ingredient>
+    <ingredient num="1">½ cup ; whole milk ; (120 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; sugar </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="4">whipped cream, for topping </ingredient>
+    <ingredient num="5">1 pinch ; matcha powder, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111189/hls24_1538602058.m3u8</low>
+    <high>https://vid.tasty.co/output/111189/landscape_720/1538602058</high>
+  </video>
+  <duration>
+    <start_time>86.0</start_time>
+    <end_time>110.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour the matcha mixture into an ice cube tray. Freeze for at least 4 hours, or overnight. </step>
+    <step num="1">Add the matcha ice cubes, milk, sugar, and vanilla to a blender. Blend until smooth. </step>
+    <step num="2">Pour into glasses and top with whipped cream and a pinch of matcha powder. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the matcha mixture into an ice cube tray. </steps_updated>
+    <steps_updated num="1">Freeze for at least 4 hours, or overnight. </steps_updated>
+    <steps_updated num="2">Add the matcha ice cubes, milk, sugar, and vanilla to a blender. </steps_updated>
+    <steps_updated num="3">Blend until smooth. </steps_updated>
+    <steps_updated num="4">Pour into glasses and top with whipped cream and a pinch of matcha powder. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

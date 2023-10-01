@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Oatmeal Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-oatmeal-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; large eggs </ingredient>
+    <ingredient num="1">1 ½ cups ; milk ; (360 mL) </ingredient>
+    <ingredient num="2">½ cup ; applesauce ; (125 g) </ingredient>
+    <ingredient num="3">¼ cup ; sunflower butter, or nut butter of choice ; (60 g) </ingredient>
+    <ingredient num="4">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="5">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="6">3 cups ; old fashion oat ; (300 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="8">1 teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="9">½ teaspoon ; fine salt </ingredient>
+    <ingredient num="10">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101624/hls24_1531339894.m3u8</low>
+    <high>https://vid.tasty.co/output/101624/landscape_720/1531339894</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Place milk, applesauce, nut butter, maple syrup, vanilla, and eggs in a medium-sized bowl. Whisk until combined. </step>
+    <step num="2">Add oats, baking powder, cinnamon, and salt. Stir quickly to make sure everything is well-hydrated. </step>
+    <step num="3">Pour batter into a greased muffin tin, and add toppings of your choice. Bake for 20–25 minutes or until the middle springs back when gently pressed. </step>
+    <step num="4">Oatmeal cups can be enjoyed immediately and/or frozen in an airtight container (once completely cool) to be enjoyed later by microwaving for 2 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Place milk, applesauce, nut butter, maple syrup, vanilla, and eggs in a medium-sized bowl. </steps_updated>
+    <steps_updated num="2">Whisk until combined. </steps_updated>
+    <steps_updated num="3">Add oats, baking powder, cinnamon, and salt. </steps_updated>
+    <steps_updated num="4">Stir quickly to make sure everything is well-hydrated. </steps_updated>
+    <steps_updated num="5">Pour batter into a greased muffin tin, and add toppings of your choice. </steps_updated>
+    <steps_updated num="6">Bake for 20–25 minutes or until the middle springs back when gently pressed. </steps_updated>
+    <steps_updated num="7">Oatmeal cups can be enjoyed immediately and/or frozen in an airtight container (once completely cool) to be enjoyed later by microwaving for 2 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

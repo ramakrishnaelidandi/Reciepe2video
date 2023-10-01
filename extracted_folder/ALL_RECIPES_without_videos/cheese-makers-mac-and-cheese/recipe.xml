@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese Maker’s Mac And Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-makers-mac-and-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">7 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="1">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="2">3 cups ; milk ; (720 mL) </ingredient>
+    <ingredient num="3">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="4">1 lb ; elbow macaroni ; (450 g) </ingredient>
+    <ingredient num="5">4 oz ; cream cheese, cubed ; (115 g) </ingredient>
+    <ingredient num="6">1 ¼ cups ; shredded sharp white cheddar cheese ; (125 g) </ingredient>
+    <ingredient num="7">1 ¼ cups ; shredded fontina cheese ; (125 g) </ingredient>
+    <ingredient num="8">1 cup ; shredded havarti cheese ; (100 g) </ingredient>
+    <ingredient num="9">1 cup ; smoked gouda cheese, shredded ; (100 g) </ingredient>
+    <ingredient num="10">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+    <ingredient num="13">1 clove ; garlic, minced </ingredient>
+    <ingredient num="14">1 ½ cups ; ritz cracker, crushed ; (125 g) </ingredient>
+    <ingredient num="15">fresh basil leaf, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71625/hls24_1515432761.m3u8</low>
+    <high>https://vid.tasty.co/output/71625/landscape_720/1515432761</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a large pan, melt 4 tablespoons of butter over medium heat. Whisk in the flour, reducing heat to medium-low, cooking for 1 minute. </step>
+    <step num="2">Gradually whisk in the milk and water. Add the macaroni and cook over medium-high heat until boiling. Stir frequently for 8 to 10 minutes, until the pasta is al dente. </step>
+    <step num="3">Remove the pan from the heat and add the cream cheese, cheddar cheese, fontina, Gouda, and cayenne, and season with salt and pepper. Stir until fully combined. </step>
+    <step num="4">Transfer the mixture to a grease baking dish. </step>
+    <step num="5">In a medium skillet, melt the remaining 3 tablespoons of butter over medium-low heat. Add the garlic and cook for 30 seconds, stirring frequently. </step>
+    <step num="6">Add the crushed crackers and stir to combine. Toast the crumbs until browned, stirring for 3 to 5 minutes. Remove the pan from the heat. </step>
+    <step num="7">Sprinkle the toasted crumbs over the macaroni and cheese, and bake for 15 to 20 minutes. </step>
+    <step num="8">Remove from the oven and rest for 5 minutes. </step>
+    <step num="9">Serve with fresh basil </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large pan, melt 4 tablespoons of butter over medium heat. </steps_updated>
+    <steps_updated num="2">Whisk in the flour, reducing heat to medium-low, cooking for 1 minute. </steps_updated>
+    <steps_updated num="3">Gradually whisk in the milk and water. </steps_updated>
+    <steps_updated num="4">Add the macaroni and cook over medium-high heat until boiling. </steps_updated>
+    <steps_updated num="5">Stir frequently for 8 to 10 minutes, until the pasta is al dente. </steps_updated>
+    <steps_updated num="6">Remove the pan from the heat and add the cream cheese, cheddar cheese, fontina, Gouda, and cayenne, and season with salt and pepper. </steps_updated>
+    <steps_updated num="7">Stir until fully combined. </steps_updated>
+    <steps_updated num="8">Transfer the mixture to a grease baking dish. </steps_updated>
+    <steps_updated num="9">In a medium skillet, melt the remaining 3 tablespoons of butter over medium-low heat. </steps_updated>
+    <steps_updated num="10">Add the garlic and cook for 30 seconds, stirring frequently. </steps_updated>
+    <steps_updated num="11">Add the crushed crackers and stir to combine. </steps_updated>
+    <steps_updated num="12">Toast the crumbs until browned, stirring for 3 to 5 minutes. </steps_updated>
+    <steps_updated num="13">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="14">Sprinkle the toasted crumbs over the macaroni and cheese, and bake for 15 to 20 minutes. </steps_updated>
+    <steps_updated num="15">Remove from the oven and rest for 5 minutes. </steps_updated>
+    <steps_updated num="16">Serve with fresh basil </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

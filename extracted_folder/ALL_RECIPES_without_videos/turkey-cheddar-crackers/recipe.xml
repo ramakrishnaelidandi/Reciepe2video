@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Turkey, Cheddar &amp; Crackers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turkey-cheddar-crackers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/back-to-school-lunch-prep</comp_url>
+  <ingredients>
+    <ingredient num="0">3 slices ; cheddar cheese </ingredient>
+    <ingredient num="1">2 slices ; turkey breast deli meat </ingredient>
+    <ingredient num="2">6 ; crackers </ingredient>
+    <ingredient num="3">6 spears ; cucumber </ingredient>
+    <ingredient num="4">1 ; clementine </ingredient>
+    <ingredient num="5">1 ; plastic water bottle, frozen </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46650/low_1502234080.m3u8</low>
+    <high>https://vid.tasty.co/output/46650/mp4_720x1280/1502234080</high>
+  </video>
+  <duration>
+    <start_time>90.0</start_time>
+    <end_time>136.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Use a cookie cutter to cut out shapes in the cheese and turkey. </step>
+    <step num="1">Using cupcake liners to separate, place cheese, turkey and crackers in the bento box. In one of the other compartments, place the cucumber spears. </step>
+    <step num="2">Carefully, slice the skin of a clementine in two half circles on either side of the navel. Then, make 3 cuts within the inside of those half circles to make tentacles. Repeat on the other side and separate the skin from the fruit to make it look like a little octopus. </step>
+    <step num="3">Place in bento box. </step>
+    <step num="4">Pack bento box in a lunch box with a frozen water bottle to keep everything cold. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a cookie cutter to cut out shapes in the cheese and turkey. </steps_updated>
+    <steps_updated num="1">Using cupcake liners to separate, place cheese, turkey and crackers in the bento box. </steps_updated>
+    <steps_updated num="2">In one of the other compartments, place the cucumber spears. </steps_updated>
+    <steps_updated num="3">Carefully, slice the skin of a clementine in two half circles on either side of the navel. </steps_updated>
+    <steps_updated num="4">Then, make 3 cuts within the inside of those half circles to make tentacles. </steps_updated>
+    <steps_updated num="5">Repeat on the other side and separate the skin from the fruit to make it look like a little octopus. </steps_updated>
+    <steps_updated num="6">Place in bento box. </steps_updated>
+    <steps_updated num="7">Pack bento box in a lunch box with a frozen water bottle to keep everything cold. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02742</start_time>
+    <end_time>04108</end_time>
+  </duration_human>
+</recipe>

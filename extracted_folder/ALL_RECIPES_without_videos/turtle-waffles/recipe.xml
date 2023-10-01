@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Turtle Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turtle-waffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pancakes-vs-waffles</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ¼ cups ; waffle mix ; (300 mL) </ingredient>
+    <ingredient num="1">¼ cup ; unsweetened cocoa powder ; (30 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">½ cup ; semi-sweet chocolate chips ; (85 g) </ingredient>
+    <ingredient num="5">1 ¼ cups ; water ; (300 mL) </ingredient>
+    <ingredient num="6">1 cup ; chopped pecans ; (125 g) </ingredient>
+    <ingredient num="7">1 ; whipped cream, for topping </ingredient>
+    <ingredient num="8">1 ; maraschino cherries, for topping </ingredient>
+    <ingredient num="9">¾ cup ; brown sugar ; (165 g) </ingredient>
+    <ingredient num="10">3 tablespoons ; butter </ingredient>
+    <ingredient num="11">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="12">1 ; salt, Large pinch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69233/hls24_1513730933.m3u8</low>
+    <high>https://vid.tasty.co/output/69233/landscape_720/1513730933</high>
+  </video>
+  <duration>
+    <start_time>68.45</start_time>
+    <end_time>122.929</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large mixing bowl, combine waffle mix, egg, oil, cocoa powder, and chocolate chips. Stir until mixture is smooth. </step>
+    <step num="1">In a small saucepan over medium-low heat, combine ingredients for caramel sauce and bring to a low boil, whisking constantly once mixture starts to boil. Continue to whisk until mixture darkens slightly and begins to thicken. Remove from heat and let cool for at least 30 minutes. </step>
+    <step num="2">Preheat a greased waffle iron. Pour ½ cup of waffle mix into the iron, then top with ¼ cup of pecans and a few tablespoons of caramel. Cover that with another half cup of waffle mix. Close waffle iron and cook according to manufacturer directions. </step>
+    <step num="3">When waffle is cooked to desired crispness, remove to a plate. Top with more pecans, a drizzle of caramel, a dollop of whipped cream, and a cherry on top. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mixing bowl, combine waffle mix, egg, oil, cocoa powder, and chocolate chips. </steps_updated>
+    <steps_updated num="1">Stir until mixture is smooth. </steps_updated>
+    <steps_updated num="2">In a small saucepan over medium-low heat, combine ingredients for caramel sauce and bring to a low boil, whisking constantly once mixture starts to boil. </steps_updated>
+    <steps_updated num="3">Continue to whisk until mixture darkens slightly and begins to thicken. </steps_updated>
+    <steps_updated num="4">Remove from heat and let cool for at least 30 minutes. </steps_updated>
+    <steps_updated num="5">Preheat a greased waffle iron. </steps_updated>
+    <steps_updated num="6">Pour ½ cup of waffle mix into the iron, then top with ¼ cup of pecans and a few tablespoons of caramel. </steps_updated>
+    <steps_updated num="7">Cover that with another half cup of waffle mix. </steps_updated>
+    <steps_updated num="8">Close waffle iron and cook according to manufacturer directions. </steps_updated>
+    <steps_updated num="9">When waffle is cooked to desired crispness, remove to a plate. </steps_updated>
+    <steps_updated num="10">Top with more pecans, a drizzle of caramel, a dollop of whipped cream, and a cherry on top. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01691</start_time>
+    <end_time>02953</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Mango Sorbet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-mango-sorbet</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; mangoes, diced </ingredient>
+    <ingredient num="1">½ cup ; honey ; (170 g) </ingredient>
+    <ingredient num="2">½ cup ; water ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23527/low_1486660146.m3u8</low>
+    <high>https://vid.tasty.co/output/23527/mp4_720x1280/1486660146</high>
+  </video>
+  <steps>
+    <step num="0">Cut mangoes into ½-inch (1.3 cm) cubes and put on baking sheet. Cover and freeze for a minimum of 4 hours. </step>
+    <step num="1">In a food processor, add the frozen mango, water, and honey. Mix until the mixture is smooth. </step>
+    <step num="2">Remove from food processor and scoop into tray. </step>
+    <step num="3">Freeze for one additional hour. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut mangoes into ½-inch (1.3 cm) cubes and put on baking sheet. </steps_updated>
+    <steps_updated num="1">Cover and freeze for a minimum of 4 hours. </steps_updated>
+    <steps_updated num="2">In a food processor, add the frozen mango, water, and honey. </steps_updated>
+    <steps_updated num="3">Mix until the mixture is smooth. </steps_updated>
+    <steps_updated num="4">Remove from food processor and scoop into tray. </steps_updated>
+    <steps_updated num="5">Freeze for one additional hour. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

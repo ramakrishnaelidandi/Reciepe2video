@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>5-Minute Microwave Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/5-minute-microwave-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; butter </ingredient>
+    <ingredient num="1">2 sheets ; graham cracker </ingredient>
+    <ingredient num="2">4 oz ; cream cheese, softened ; (115 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; sugar </ingredient>
+    <ingredient num="4">3 drops ; vanilla extract </ingredient>
+    <ingredient num="5">fresh raspberries, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50200/low_1504109971.m3u8</low>
+    <high>https://vid.tasty.co/output/50200/mp4_720x1280/1504109971</high>
+  </video>
+  <steps>
+    <step num="0">Melt the butter in a small microwaveable mug or dish. Grease a ramekin with the melted butter. </step>
+    <step num="1">Crush the graham crackers into fine crumbs, then mix it with the remaining butter. With a spoon, press the crust flat against the sides of the dish. </step>
+    <step num="2">In a small bowl, combine the cream cheese, sugar, and vanilla, stirring until there are no lumps. </step>
+    <step num="3">Transfer the mixture on top of the cracker crust, then spread it evenly on top. </step>
+    <step num="4">Microwave for at least 4 minutes, 30-45 seconds at a time, at 50% power. Make sure the cheesecake does not bubble over the sides. </step>
+    <step num="5">Chill in the freezer for at least 30 minutes, until it is completely cool to the touch. </step>
+    <step num="6">With a knife, loosen the edges of the cheesecake then invert onto a plate, or eat straight from the dish. </step>
+    <step num="7">Top with a few raspberries. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt the butter in a small microwaveable mug or dish. </steps_updated>
+    <steps_updated num="1">Grease a ramekin with the melted butter. </steps_updated>
+    <steps_updated num="2">Crush the graham crackers into fine crumbs, then mix it with the remaining butter. </steps_updated>
+    <steps_updated num="3">With a spoon, press the crust flat against the sides of the dish. </steps_updated>
+    <steps_updated num="4">In a small bowl, combine the cream cheese, sugar, and vanilla, stirring until there are no lumps. </steps_updated>
+    <steps_updated num="5">Transfer the mixture on top of the cracker crust, then spread it evenly on top. </steps_updated>
+    <steps_updated num="6">Microwave for at least 4 minutes, 30-45 seconds at a time, at 50% power. </steps_updated>
+    <steps_updated num="7">Make sure the cheesecake does not bubble over the sides. </steps_updated>
+    <steps_updated num="8">Chill in the freezer for at least 30 minutes, until it is completely cool to the touch. </steps_updated>
+    <steps_updated num="9">With a knife, loosen the edges of the cheesecake then invert onto a plate, or eat straight from the dish. </steps_updated>
+    <steps_updated num="10">Top with a few raspberries. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

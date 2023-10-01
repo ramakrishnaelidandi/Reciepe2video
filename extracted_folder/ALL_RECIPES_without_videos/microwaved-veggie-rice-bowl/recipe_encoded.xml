@@ -1,0 +1,52 @@
+<recipe>
+  <title>Microwaved Veggie Rice Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwaved-veggie-rice-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-dorm-friendly-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 7706 13278 11953 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 12282 13278 6901 8007 </ingredient>
+    <ingredient num="2">3917 8071 13278 8244 5766 </ingredient>
+    <ingredient num="3">12791 2605 13278 13584 6143 13278 336 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 9491 3962 13278 2264 5981 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+    <ingredient num="7">1580 13278 468 3962 </ingredient>
+    <ingredient num="8">6209 6712 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57773/low_1508773504.m3u8</low>
+    <high>https://vid.tasty.co/output/57773/mp4_720x1280/1508773504</high>
+  </video>
+  <duration>
+    <start_time>51.0</start_time>
+    <end_time>88.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 4120 11951 11948 13384 13817 8244 14158 </step>
+    <step num="1">7794 415 14186 13709 7990 14115 8927 1681 11951 7706 9490 7568 907 </step>
+    <step num="2">12775 5103 11951 6762 415 740 13584 13829 7042 12610 13817 12375 12473 560 1011 </step>
+    <step num="3">13494 1391 4485 13817 14621 5358 13 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 4120 11951 11948 13384 13817 8244 14158 </steps_updated>
+    <steps_updated num="1">7794 415 14186 13709 7990 14115 8927 1681 11951 7706 9490 7568 907 </steps_updated>
+    <steps_updated num="2">12775 5103 11951 6762 415 740 13584 13829 7042 12610 13817 12375 </steps_updated>
+    <steps_updated num="3">12473 560 1011 </steps_updated>
+    <steps_updated num="4">13494 1391 4485 13817 14621 5358 13 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01561</start_time>
+    <end_time>02650</end_time>
+  </duration_human>
+</recipe>

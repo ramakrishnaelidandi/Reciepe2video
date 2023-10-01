@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Gingerbread Chocolate Truffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/gingerbread-chocolate-truffles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ cup ; double cream ; (200 mL) </ingredient>
+    <ingredient num="1">1 ¾ cups ; chocolate ; (300 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; ground ginger </ingredient>
+    <ingredient num="3">1 tablespoon ; ground cinnamon </ingredient>
+    <ingredient num="4">5 oz ; ginger biscuit ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11437/low_1475687613.m3u8</low>
+    <high>https://vid.tasty.co/output/11437/mp4_720x1280/1475687613</high>
+  </video>
+  <steps>
+    <step num="0">Gently heat the double cream in a saucepan for a few minutes. Turn off heat. </step>
+    <step num="1">Add the chocolate and allow the heat of the cream to melt it. </step>
+    <step num="2">Stir in the ginger and cinnamon. </step>
+    <step num="3">Leave to chill in the fridge for about 3 hours, or until completely set. </step>
+    <step num="4">Crush the ginger biscuits in a food processor until you form fine crumbs. </step>
+    <step num="5">Using a spoon, roll the set truffle mixture into little balls and then coat in the ginger biscuit crumbs. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Gently heat the double cream in a saucepan for a few minutes. </steps_updated>
+    <steps_updated num="1">Turn off heat. </steps_updated>
+    <steps_updated num="2">Add the chocolate and allow the heat of the cream to melt it. </steps_updated>
+    <steps_updated num="3">Stir in the ginger and cinnamon. </steps_updated>
+    <steps_updated num="4">Leave to chill in the fridge for about 3 hours, or until completely set. </steps_updated>
+    <steps_updated num="5">Crush the ginger biscuits in a food processor until you form fine crumbs. </steps_updated>
+    <steps_updated num="6">Using a spoon, roll the set truffle mixture into little balls and then coat in the ginger biscuit crumbs. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

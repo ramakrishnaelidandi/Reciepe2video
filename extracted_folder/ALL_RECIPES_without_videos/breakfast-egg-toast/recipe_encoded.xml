@@ -1,0 +1,48 @@
+<recipe>
+  <title>Egg in a Hole 4 Ways Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-egg-toast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 12205 13278 4465 </ingredient>
+    <ingredient num="1">12791 13278 9491 341 </ingredient>
+    <ingredient num="2">3917 12205 13278 7489 341 </ingredient>
+    <ingredient num="3">3917 13278 4985 12384 976 </ingredient>
+    <ingredient num="4">3917 13278 4036 9917 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+    <ingredient num="7">3333 10865 13810 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65981/hls24_1512506070.m3u8</low>
+    <high>https://vid.tasty.co/output/65981/landscape_720/1512506070</high>
+  </video>
+  <steps>
+    <step num="0">14100 11951 8365 371 11951 4465 6781 11951 12205 9304 5994 10894 10187 1645 4843 371 13207 </step>
+    <step num="1">10950 5994 11745 3345 11951 9491 7489 13817 4985 12034 </step>
+    <step num="2">264 11770 13757 14307 13328 7990 6285 4817 12689 </step>
+    <step num="3">10936 5994 7700 5895 1798 8093 11951 5677 669 11951 13935 371 11951 1864 371 11951 1208 </step>
+    <step num="4">5570 11951 1547 11770 11951 7857 </step>
+    <step num="5">12775 5406 11951 6216 669 11951 3318 4255 10707 371 11951 5677 560 772 11901 11951 6216 1144 11155 9469 9386 </step>
+    <step num="6">10242 1391 82 13817 7845 13817 5994 1678 371 10865 4496 </step>
+    <step num="7">5570 11951 1864 371 11951 4465 13352 4255 10707 13817 1956 11951 12708 12573 3745 13817 14538 9490 5335 10954 13256 6285 4817 3954 12689 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 11951 8365 371 11951 4465 6781 11951 12205 9304 5994 10894 10187 1645 4843 371 13207 </steps_updated>
+    <steps_updated num="1">10950 5994 11745 3345 11951 9491 7489 13817 4985 12034 </steps_updated>
+    <steps_updated num="2">264 11770 13757 14307 13328 7990 6285 4817 12689 </steps_updated>
+    <steps_updated num="3">10936 5994 7700 5895 1798 8093 11951 5677 669 11951 13935 371 11951 1864 371 11951 1208 </steps_updated>
+    <steps_updated num="4">5570 11951 1547 11770 11951 7857 </steps_updated>
+    <steps_updated num="5">12775 5406 11951 6216 669 11951 3318 4255 10707 371 11951 5677 560 772 11901 11951 6216 1144 11155 9469 9386 </steps_updated>
+    <steps_updated num="6">10242 1391 82 13817 7845 13817 5994 1678 371 10865 4496 </steps_updated>
+    <steps_updated num="7">5570 11951 1864 371 11951 4465 13352 4255 10707 13817 1956 11951 12708 12573 3745 13817 14538 9490 5335 10954 13256 6285 4817 3954 12689 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

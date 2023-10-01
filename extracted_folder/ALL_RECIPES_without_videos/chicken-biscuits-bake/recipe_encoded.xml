@@ -1,0 +1,61 @@
+<recipe>
+  <title>Chicken &amp; Biscuits Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-biscuits-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 9486 13278 9924 </ingredient>
+    <ingredient num="1">3917 13278 12384 3962 </ingredient>
+    <ingredient num="2">1580 2605 13278 890 13278 13125 5981 </ingredient>
+    <ingredient num="3">13086 9517 13278 7983 547 13278 3465 8007 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">3917 8071 13278 7845 </ingredient>
+    <ingredient num="6">3917 2605 13278 8640 13033 13278 7503 8007 </ingredient>
+    <ingredient num="7">8580 1580 9517 13278 11579 13592 4168 13278 4563 5981 </ingredient>
+    <ingredient num="8">3917 13278 482 12816 3333 </ingredient>
+    <ingredient num="9">8580 12497 13278 5585 12687 6735 12525 10763 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18856/low_1482277309.m3u8</low>
+    <high>https://vid.tasty.co/output/18856/mp4_720x1280/1482277309</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9988 8999 </step>
+    <step num="1">10950 5994 2597 10083 11770 3996 14307 6983 11951 14057 </step>
+    <step num="2">9179 11951 12384 6142 1681 2296 11059 3917 6513 </step>
+    <step num="3">283 210 11951 6467 13328 6538 560 3720 11951 890 6781 3024 11059 3917 6513 </step>
+    <step num="4">283 210 11951 7983 42 12610 13817 12375 8697 560 8341 1681 6728 4859 4714 </step>
+    <step num="5">283 210 11951 8640 5808 8785 560 5994 6949 11779 1681 11951 2260 7312 6352 12624 2098 7990 3274 6630 </step>
+    <step num="6">9179 11951 13592 284 13817 3333 12816 6142 1681 7568 9456 </step>
+    <step num="7">12785 560 5994 12875 10923 1645 10765 6325 </step>
+    <step num="8">7427 10707 1391 409 13009 371 5585 8337 10566 217 11628 3141 13320 6854 14138 11484 13828 3482 291 </step>
+    <step num="9">7831 210 5994 11853 10439 7990 5527 11004 1681 11951 12525 12573 10963 13817 11951 2615 2373 9490 5986 </step>
+    <step num="10">13434 4721 432 3044 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 10083 11770 3996 14307 6983 11951 14057 </steps_updated>
+    <steps_updated num="2">9179 11951 12384 6142 1681 2296 </steps_updated>
+    <steps_updated num="3">11059 3917 6513 </steps_updated>
+    <steps_updated num="4">283 210 11951 6467 13328 6538 560 3720 11951 890 6781 3024 </steps_updated>
+    <steps_updated num="5">11059 3917 6513 </steps_updated>
+    <steps_updated num="6">283 210 11951 7983 42 12610 13817 12375 </steps_updated>
+    <steps_updated num="7">8697 560 8341 1681 6728 4859 4714 </steps_updated>
+    <steps_updated num="8">283 210 11951 8640 5808 </steps_updated>
+    <steps_updated num="9">8785 560 5994 6949 11779 1681 11951 2260 7312 6352 12624 </steps_updated>
+    <steps_updated num="10">2098 7990 3274 6630 </steps_updated>
+    <steps_updated num="11">9179 11951 13592 284 13817 3333 12816 6142 1681 7568 9456 </steps_updated>
+    <steps_updated num="12">12785 560 5994 12875 10923 1645 10765 6325 </steps_updated>
+    <steps_updated num="13">7427 10707 1391 409 13009 371 5585 8337 10566 217 11628 3141 13320 6854 14138 11484 13828 3482 291 </steps_updated>
+    <steps_updated num="14">7831 210 5994 11853 10439 7990 5527 11004 1681 11951 12525 12573 10963 13817 11951 2615 2373 9490 5986 </steps_updated>
+    <steps_updated num="15">13434 4721 432 3044 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

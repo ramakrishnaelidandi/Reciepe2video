@@ -1,0 +1,68 @@
+<recipe>
+  <title>Meatball-stuffed Garlic Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatball-stuffed-garlic-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 5749 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 4465 9031 13278 1936 5981 </ingredient>
+    <ingredient num="3">8580 9486 13278 6209 11911 3962 </ingredient>
+    <ingredient num="4">1580 14014 13278 82 </ingredient>
+    <ingredient num="5">1580 14014 13278 7845 </ingredient>
+    <ingredient num="6">3917 13278 6216 </ingredient>
+    <ingredient num="7">13767 8535 13278 10865 14538 </ingredient>
+    <ingredient num="8">9122 2260 </ingredient>
+    <ingredient num="9">13086 9486 13278 10907 5335 </ingredient>
+    <ingredient num="10">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="11">8580 9486 13278 6209 11911 3962 </ingredient>
+    <ingredient num="12">8580 9486 13278 2431 109 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16529/low_1480705684.m3u8</low>
+    <high>https://vid.tasty.co/output/16529/mp4_720x1280/1480705684</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 8999 </step>
+    <step num="1">10950 5994 13757 14511 10968 11951 11088 20 4465 8092 11911 4036 12610 13817 12375 </step>
+    <step num="2">11511 3482 5994 6267 371 11951 2207 4536 8830 12313 13676 560 772 2809 6973 13441 </step>
+    <step num="3">264 11951 13391 11770 13757 14307 12341 560 1368 10763 145 6054 6781 7855 13817 3499 4255 5994 12 671 </step>
+    <step num="4">3235 11951 5749 669 8919 5895 13993 12366 5749 9152 5376 11484 7461 11951 5540 12136 371 4817 867 </step>
+    <step num="5">5612 2696 11951 3540 371 11951 5749 13009 1391 5994 4144 </step>
+    <step num="6">4124 4817 8535 371 10865 4255 10707 371 10763 11649 1391 5994 1318 8891 1580 1645 13236 5570 4817 13391 4255 11951 10407 3383 415 7475 11951 10865 13528 5412 11951 13441 </step>
+    <step num="7">8862 11951 952 13391 13817 14538 669 5994 5749 12793 </step>
+    <step num="8">3235 11951 1997 5749 13009 669 1318 8891 1580 1645 4743 415 3345 3755 13528 13258 4255 5994 10765 213 10926 1391 11426 </step>
+    <step num="9">10950 5994 2192 14511 10968 3626 11907 7990 11384 14057 </step>
+    <step num="10">11881 11951 11384 9924 3584 11770 11951 5749 4743 9082 11901 8177 9375 210 8830 11951 10832 </step>
+    <step num="11">5791 11951 3615 11770 11951 8942 5749 13817 10903 7990 3133 11004 1681 14538 9490 5335 13817 11951 10707 9490 11695 560 2147 </step>
+    <step num="12">6054 11951 3615 13817 1966 1391 5905 </step>
+    <step num="13">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 8999 </steps_updated>
+    <steps_updated num="1">10950 5994 13757 14511 10968 11951 11088 20 4465 8092 11911 4036 12610 13817 12375 </steps_updated>
+    <steps_updated num="2">11511 3482 5994 6267 371 11951 2207 4536 8830 12313 13676 560 772 2809 6973 13441 </steps_updated>
+    <steps_updated num="3">264 11951 13391 11770 13757 14307 12341 560 1368 10763 145 </steps_updated>
+    <steps_updated num="4">6054 6781 7855 13817 3499 4255 5994 12 671 </steps_updated>
+    <steps_updated num="5">3235 11951 5749 669 8919 5895 13993 12366 5749 9152 5376 11484 7461 11951 5540 12136 371 4817 867 </steps_updated>
+    <steps_updated num="6">5612 2696 11951 3540 371 11951 5749 13009 1391 5994 4144 </steps_updated>
+    <steps_updated num="7">4124 4817 8535 371 10865 4255 10707 371 10763 11649 1391 5994 1318 8891 1580 1645 13236 </steps_updated>
+    <steps_updated num="8">5570 4817 13391 4255 11951 10407 3383 415 7475 11951 10865 13528 5412 11951 13441 </steps_updated>
+    <steps_updated num="9">8862 11951 952 13391 13817 14538 669 5994 5749 12793 </steps_updated>
+    <steps_updated num="10">3235 11951 1997 5749 13009 669 1318 8891 1580 1645 4743 415 3345 3755 13528 13258 4255 5994 10765 213 10926 1391 11426 </steps_updated>
+    <steps_updated num="11">10950 5994 2192 14511 10968 3626 11907 7990 11384 14057 </steps_updated>
+    <steps_updated num="12">11881 11951 11384 9924 3584 11770 11951 5749 4743 9082 11901 8177 9375 210 8830 11951 10832 </steps_updated>
+    <steps_updated num="13">5791 11951 3615 11770 11951 8942 5749 13817 10903 7990 3133 11004 1681 14538 9490 5335 13817 11951 10707 9490 11695 560 2147 </steps_updated>
+    <steps_updated num="14">6054 11951 3615 13817 1966 1391 5905 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

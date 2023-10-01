@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sausage, Spinach, Tomato Rigatoni Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sausage-spinach-tomato-rigatoni</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-creative-one-pot-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">5 links ; hot italian sausage </ingredient>
+    <ingredient num="2">1 ; large yellow onion, chopped </ingredient>
+    <ingredient num="3">5 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="7">1 tablespoon ; dried basil </ingredient>
+    <ingredient num="8">1 tablespoon ; dried parsley </ingredient>
+    <ingredient num="9">12 oz ; tomato paste ; (340 g) </ingredient>
+    <ingredient num="10">15 oz ; diced tomato ; (425 g) </ingredient>
+    <ingredient num="11">2 cups ; grated parmesan cheese, divided ; (220 g) </ingredient>
+    <ingredient num="12">2 cups ; spinach ; (80 g) </ingredient>
+    <ingredient num="13">1 lb ; rigatoni, cooked ; (455 g) </ingredient>
+    <ingredient num="14">1 cup ; ricotta cheese ; (245 g) </ingredient>
+    <ingredient num="15">fresh basil, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92227/hls24_1525286591.m3u8</low>
+    <high>https://vid.tasty.co/output/92227/landscape_720/1525286591</high>
+  </video>
+  <duration>
+    <start_time>6.0</start_time>
+    <end_time>73.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">To a large dutch oven on medium heat, add the olive oil and heat it until it shimmers. </step>
+    <step num="1">Add the hot Italian sausage, cook until the the first side browns deeply, flip and cook on the other side until the sausage is fully cooked, 15 minutes. Remove the sausages from the pan and slice when they cool down. </step>
+    <step num="2">To the leftover pan drippings, add the chopped yellow onion, minced garlic, salt, pepper, dried basil, dried oregano, and dried parsley. Cook until the onions are caramelized and soft. About 10 minutes. </step>
+    <step num="3">Add the tomato paste and cook until the tomato paste darkens slightly. </step>
+    <step num="4">Add in the diced tomatoes and the sausage slices into the pan, stir, and let the sauce come to a simmer. </step>
+    <step num="5">Add in half the grated parmesan, spinach, the cooked pasta, and stir to combine. </step>
+    <step num="6">Spoon in fresh dollaps of the ricotta cheese, garnish with fresh basil, more grated parmesan, and serve! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To a large dutch oven on medium heat, add the olive oil and heat it until it shimmers. </steps_updated>
+    <steps_updated num="1">Add the hot Italian sausage, cook until the the first side browns deeply, flip and cook on the other side until the sausage is fully cooked, 15 minutes. </steps_updated>
+    <steps_updated num="2">Remove the sausages from the pan and slice when they cool down. </steps_updated>
+    <steps_updated num="3">To the leftover pan drippings, add the chopped yellow onion, minced garlic, salt, pepper, dried basil, dried oregano, and dried parsley. </steps_updated>
+    <steps_updated num="4">Cook until the onions are caramelized and soft. </steps_updated>
+    <steps_updated num="5">About 10 minutes. </steps_updated>
+    <steps_updated num="6">Add the tomato paste and cook until the tomato paste darkens slightly. </steps_updated>
+    <steps_updated num="7">Add in the diced tomatoes and the sausage slices into the pan, stir, and let the sauce come to a simmer. </steps_updated>
+    <steps_updated num="8">Add in half the grated parmesan, spinach, the cooked pasta, and stir to combine. </steps_updated>
+    <steps_updated num="9">Spoon in fresh dollaps of the ricotta cheese, garnish with fresh basil, more grated parmesan, and serve! </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

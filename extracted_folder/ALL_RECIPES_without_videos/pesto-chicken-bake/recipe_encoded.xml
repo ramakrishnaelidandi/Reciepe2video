@@ -1,0 +1,44 @@
+<recipe>
+  <title>Pesto Chicken Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-chicken-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 7983 7678 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">4061 9486 13278 6250 2334 </ingredient>
+    <ingredient num="4">3917 13278 3665 9491 976 </ingredient>
+    <ingredient num="5">3917 2605 13278 10865 14538 13278 2935 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75842/hls24_1517417494.m3u8</low>
+    <high>https://vid.tasty.co/output/75842/landscape_720/1517417494</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">5570 7983 376 210 5994 10765 6325 10242 7983 1391 82 13817 10986 560 8686 </step>
+    <step num="2">2988 2334 4255 10763 7983 11118 </step>
+    <step num="3">10452 717 4255 10707 371 11951 9104 </step>
+    <step num="4">13494 1391 10865 4496 </step>
+    <step num="5">7831 7990 11203 12689 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">5570 7983 376 210 5994 10765 6325 </steps_updated>
+    <steps_updated num="2">10242 7983 1391 82 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="3">2988 2334 4255 10763 7983 11118 </steps_updated>
+    <steps_updated num="4">10452 717 4255 10707 371 11951 9104 </steps_updated>
+    <steps_updated num="5">13494 1391 10865 4496 </steps_updated>
+    <steps_updated num="6">7831 7990 11203 12689 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

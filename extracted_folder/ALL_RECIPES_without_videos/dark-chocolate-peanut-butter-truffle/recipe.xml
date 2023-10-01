@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Dark Chocolate Peanut Butter Truffle Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dark-chocolate-peanut-butter-truffle</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-chocolate-truffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; chocolate chips ; (525 g) </ingredient>
+    <ingredient num="1">2 cups ; heavy cream ; (470 mL) </ingredient>
+    <ingredient num="2">1 cup ; peanut butter, melted ; (240 g) </ingredient>
+    <ingredient num="3">1 cup ; peanuts, crushed ; (125 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8233/low_1472567031.m3u8</low>
+    <high>https://vid.tasty.co/output/8233/mp4_720x1280/1472567031</high>
+  </video>
+  <duration>
+    <start_time>54.91</start_time>
+    <end_time>68.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium-sized pan, combine dark chocolate chips and heavy cream over low heat. Mix until you achieve a smooth consistency. </step>
+    <step num="1">Pour mixture into a bread pan. </step>
+    <step num="2">Allow to sit in the refrigerator for an hour to cool down. </step>
+    <step num="3">With an ice cream scoop form balls from the mixture (refreeze if truffle begins to melt). </step>
+    <step num="4">In a small bowl, melt peanut butter. On a cutting board, crush peanuts. </step>
+    <step num="5">Dip the truffle in melted peanut butter. </step>
+    <step num="6">Roll in crushed peanuts. </step>
+    <step num="7">Place back in the fridge for 10 minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium-sized pan, combine dark chocolate chips and heavy cream over low heat. </steps_updated>
+    <steps_updated num="1">Mix until you achieve a smooth consistency. </steps_updated>
+    <steps_updated num="2">Pour mixture into a bread pan. </steps_updated>
+    <steps_updated num="3">Allow to sit in the refrigerator for an hour to cool down. </steps_updated>
+    <steps_updated num="4">With an ice cream scoop form balls from the mixture (refreeze if truffle begins to melt). </steps_updated>
+    <steps_updated num="5">In a small bowl, melt peanut butter. </steps_updated>
+    <steps_updated num="6">On a cutting board, crush peanuts. </steps_updated>
+    <steps_updated num="7">Dip the truffle in melted peanut butter. </steps_updated>
+    <steps_updated num="8">Roll in crushed peanuts. </steps_updated>
+    <steps_updated num="9">Place back in the fridge for 10 minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01498</start_time>
+    <end_time>02089</end_time>
+  </duration_human>
+</recipe>

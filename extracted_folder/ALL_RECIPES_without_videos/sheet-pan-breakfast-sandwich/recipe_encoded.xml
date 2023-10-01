@@ -1,0 +1,53 @@
+<recipe>
+  <title>Sheet Pan Breakfast Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-pan-breakfast-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 9517 13278 2650 10968 13278 6686 5981 </ingredient>
+    <ingredient num="1">11061 13278 12708 </ingredient>
+    <ingredient num="2">13086 9517 13278 5802 13278 4492 8007 </ingredient>
+    <ingredient num="3">13086 715 13278 6616 13280 13278 14583 5981 </ingredient>
+    <ingredient num="4">409 13278 12708 </ingredient>
+    <ingredient num="5">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">10986 560 11567 </ingredient>
+    <ingredient num="8">3917 2605 13278 3333 7495 14538 1279 13278 11953 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68196/hls24_1513296516.m3u8</low>
+    <high>https://vid.tasty.co/output/68196/landscape_720/1513296516</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 13194 13180 </step>
+    <step num="1">10950 5994 2597 14511 4120 2650 3446 12708 13817 5802 6770 148 11155 560 363 </step>
+    <step num="2">877 4428 3584 1802 4817 3550 8797 2524 2985 10765 768 2988 3584 13817 10903 7990 13133 12689 </step>
+    <step num="3">10950 5994 2597 14511 4120 14463 9889 82 13817 12375 1083 11951 12708 1802 5994 3550 8797 2524 2985 10765 8800 2988 3584 13817 10903 7990 9812 12689 </step>
+    <step num="4">9207 6646 3555 2985 10765 213 1391 3550 12 13817 11434 2696 11951 13280 6781 2530 560 3705 6936 10439 2281 560 9988 1390 13817 10903 7990 5527 12689 </step>
+    <step num="5">11720 7267 13817 1678 14538 4255 10707 371 11951 3719 7831 7990 6646 2933 8927 7811 11951 5540 7553 </step>
+    <step num="6">12474 5994 4669 8667 11826 11951 125 11695 1391 5994 6576 6960 5569 4437 4036 13817 11951 437 3897 3235 669 6616 5285 14348 13817 1966 419 5895 7558 210 3550 13817 13351 210 5994 3801 7990 3386 560 3917 8043 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 13194 13180 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 4120 2650 3446 12708 13817 5802 6770 148 11155 560 363 </steps_updated>
+    <steps_updated num="2">877 4428 3584 1802 4817 3550 8797 2524 2985 10765 768 </steps_updated>
+    <steps_updated num="3">2988 3584 13817 10903 7990 13133 12689 </steps_updated>
+    <steps_updated num="4">10950 5994 2597 14511 4120 14463 9889 82 13817 12375 </steps_updated>
+    <steps_updated num="5">1083 11951 12708 1802 5994 3550 8797 2524 2985 10765 8800 </steps_updated>
+    <steps_updated num="6">2988 3584 13817 10903 7990 9812 12689 </steps_updated>
+    <steps_updated num="7">9207 6646 3555 2985 10765 213 1391 3550 12 13817 11434 2696 11951 13280 6781 2530 560 3705 </steps_updated>
+    <steps_updated num="8">6936 10439 2281 560 9988 1390 13817 10903 7990 5527 12689 </steps_updated>
+    <steps_updated num="9">11720 7267 13817 1678 14538 4255 10707 371 11951 3719 </steps_updated>
+    <steps_updated num="10">7831 7990 6646 2933 8927 7811 11951 5540 7553 </steps_updated>
+    <steps_updated num="11">12474 5994 4669 8667 11826 11951 125 11695 1391 5994 6576 6960 5569 4437 4036 13817 11951 437 3897 </steps_updated>
+    <steps_updated num="12">3235 669 6616 5285 14348 13817 1966 419 5895 7558 210 3550 13817 13351 210 5994 3801 7990 3386 560 3917 8043 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

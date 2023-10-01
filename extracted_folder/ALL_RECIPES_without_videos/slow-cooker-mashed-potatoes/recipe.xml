@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Mashed Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-mashed-potatoes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 lb ; potato, peeled and diced ; (1.8 kg) </ingredient>
+    <ingredient num="1">1 ½ cups ; butter ; (340 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 cup ; water ; (236 mL) </ingredient>
+    <ingredient num="5">1 ½ cups ; milk, warm ; (354 mL) </ingredient>
+    <ingredient num="6">chives, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32229/low_1495125530.m3u8</low>
+    <high>https://vid.tasty.co/output/32229/mp4_720x1280/1495125530</high>
+  </video>
+  <steps>
+    <step num="0">Place potatoes, butter, salt, pepper, and water in a large slow cooker. </step>
+    <step num="1">Cover and cook on high for 4 hours. </step>
+    <step num="2">Remove lid and mash the potatoes with a masher or beaters, mixing in the milk. </step>
+    <step num="3">Stir in chives </step>
+    <step num="4">Keep the slow cooker on “warm” setting while you serve them! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place potatoes, butter, salt, pepper, and water in a large slow cooker. </steps_updated>
+    <steps_updated num="1">Cover and cook on high for 4 hours. </steps_updated>
+    <steps_updated num="2">Remove lid and mash the potatoes with a masher or beaters, mixing in the milk. </steps_updated>
+    <steps_updated num="3">Stir in chives </steps_updated>
+    <steps_updated num="4">Keep the slow cooker on “warm” setting while you serve them! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

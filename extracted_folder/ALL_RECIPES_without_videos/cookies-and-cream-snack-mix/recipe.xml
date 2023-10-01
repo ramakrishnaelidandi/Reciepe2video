@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cookies And Cream Snack Mix Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookies-and-cream-snack-mix</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/snack-mix-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="1">5 cups ; rice cereal ; (235 g) </ingredient>
+    <ingredient num="2">1 cup ; powdered sugar ; (160 g) </ingredient>
+    <ingredient num="3">½ cup ; crushed cookie ; (40 g) </ingredient>
+    <ingredient num="4">1 ½ cups ; white chocolate ; (255 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; coconut oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14246/low_1478649778.m3u8</low>
+    <high>https://vid.tasty.co/output/14246/mp4_720x1280/1478649778</high>
+  </video>
+  <duration>
+    <start_time>34.79</start_time>
+    <end_time>63.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, mix white chocolate and coconut oil. Melt in microwave for 60 seconds. Stir every 15 seconds until melted. </step>
+    <step num="1">Add extract into melted chocolate. </step>
+    <step num="2">Place cereal in large bowl. Mix in melted chocolate and stir until evenly coated. </step>
+    <step num="3">In a large plastic bag, add powdered sugar, cereal mix and the crushed cookies. </step>
+    <step num="4">Close and shake until each cereal is coated with sugar. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, mix white chocolate and coconut oil. </steps_updated>
+    <steps_updated num="1">Melt in microwave for 60 seconds. </steps_updated>
+    <steps_updated num="2">Stir every 15 seconds until melted. </steps_updated>
+    <steps_updated num="3">Add extract into melted chocolate. </steps_updated>
+    <steps_updated num="4">Place cereal in large bowl. </steps_updated>
+    <steps_updated num="5">Mix in melted chocolate and stir until evenly coated. </steps_updated>
+    <steps_updated num="6">In a large plastic bag, add powdered sugar, cereal mix and the crushed cookies. </steps_updated>
+    <steps_updated num="7">Close and shake until each cereal is coated with sugar. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01094</start_time>
+    <end_time>01912</end_time>
+  </duration_human>
+</recipe>

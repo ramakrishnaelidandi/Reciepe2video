@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pigs In Blankets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pigs-in-blankets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; mini sausages </ingredient>
+    <ingredient num="1">6 rashers ; bacon </ingredient>
+    <ingredient num="2">1 cup ; grated mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="3">1 sheet ; puff pastry </ingredient>
+    <ingredient num="4">egg wash, as needed </ingredient>
+    <ingredient num="5">black onion seed, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16517/low_1480701399.m3u8</low>
+    <high>https://vid.tasty.co/output/16517/mp4_720x1280/1480701399</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 180˚C (350˚F). </step>
+    <step num="1">Cut the rashers in half lengthwise, and roll the sausages in them. Set aside. </step>
+    <step num="2">Lay out the sheet of puff pastry and coat with some egg wash. </step>
+    <step num="3">Cut into 12 squares. </step>
+    <step num="4">In each square, sprinkle on some cheese, followed by a sausage wrapped in bacon. </step>
+    <step num="5">Roll in the pastry. Pierce some holes on top of each roll and coat with more egg wash. Top with black onion seeds. </step>
+    <step num="6">Bake for 20 minutes, or until golden brown and the sausages are cooked through. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 180˚C (350˚F). </steps_updated>
+    <steps_updated num="1">Cut the rashers in half lengthwise, and roll the sausages in them. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">Lay out the sheet of puff pastry and coat with some egg wash. </steps_updated>
+    <steps_updated num="4">Cut into 12 squares. </steps_updated>
+    <steps_updated num="5">In each square, sprinkle on some cheese, followed by a sausage wrapped in bacon. </steps_updated>
+    <steps_updated num="6">Roll in the pastry. </steps_updated>
+    <steps_updated num="7">Pierce some holes on top of each roll and coat with more egg wash. Top with black onion seeds. </steps_updated>
+    <steps_updated num="8">Bake for 20 minutes, or until golden brown and the sausages are cooked through. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

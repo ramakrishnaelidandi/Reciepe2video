@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Best Spice Rub Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/best-spice-rub</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; paprika ; (30 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="2">1 tablespoon ; mustard powder </ingredient>
+    <ingredient num="3">2 tablespoons ; chili powder </ingredient>
+    <ingredient num="4">2 tablespoons ; cumin </ingredient>
+    <ingredient num="5">2 tablespoons ; granulated garlic </ingredient>
+    <ingredient num="6">1 tablespoon ; cayenne </ingredient>
+    <ingredient num="7">2 tablespoons ; kosher salt </ingredient>
+    <ingredient num="8">2 tablespoons ; ground pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43104/low_1499704565.m3u8</low>
+    <high>https://vid.tasty.co/output/43104/mp4_720x1280/1499704565</high>
+  </video>
+  <steps>
+    <step num="0">In a jar, add all the spices and shake until combined. </step>
+    <step num="1">Store in a tightly covered container, such as a mason jar, for up to a year. </step>
+    <step num="2">Season your favorite meats and vegetables with the rub. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a jar, add all the spices and shake until combined. </steps_updated>
+    <steps_updated num="1">Store in a tightly covered container, such as a mason jar, for up to a year. </steps_updated>
+    <steps_updated num="2">Season your favorite meats and vegetables with the rub. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Chicken Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-chicken-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">2 ; chicken breasts, cubed </ingredient>
+    <ingredient num="2">3 cloves ; garlic cloves, minced </ingredient>
+    <ingredient num="3">14 oz ; chicken broth ; (395 mL) </ingredient>
+    <ingredient num="4">1 cup ; heavy cream ; (235 mL) </ingredient>
+    <ingredient num="5">½ lb ; penne pasta, uncooked ; (455 g) </ingredient>
+    <ingredient num="6">1 ½ cups ; grated parmesan cheese ; (165 g) </ingredient>
+    <ingredient num="7">parsley, optional, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32204/low_1495125435.m3u8</low>
+    <high>https://vid.tasty.co/output/32204/mp4_720x1280/1495125435</high>
+  </video>
+  <steps>
+    <step num="0">In a pot, heat the oil and brown the chicken. </step>
+    <step num="1">Add garlic, and sauté for about a minute. </step>
+    <step num="2">Add broth, cream, and pasta, and bring to a boil. </step>
+    <step num="3">Cover and reduce the heat to a simmer for 15-20 min. </step>
+    <step num="4">Turn off heat and stir in parmesan cheese. </step>
+    <step num="5">Top with parsley if desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a pot, heat the oil and brown the chicken. </steps_updated>
+    <steps_updated num="1">Add garlic, and sauté for about a minute. </steps_updated>
+    <steps_updated num="2">Add broth, cream, and pasta, and bring to a boil. </steps_updated>
+    <steps_updated num="3">Cover and reduce the heat to a simmer for 15-20 min. </steps_updated>
+    <steps_updated num="4">Turn off heat and stir in parmesan cheese. </steps_updated>
+    <steps_updated num="5">Top with parsley if desired. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

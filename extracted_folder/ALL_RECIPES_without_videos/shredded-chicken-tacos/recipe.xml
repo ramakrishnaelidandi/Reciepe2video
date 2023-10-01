@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shredded Chicken Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shredded-chicken-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-instant-pot-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="2">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">2 cups ; salsa, or 1 16 oz jar ; (475 mL) </ingredient>
+    <ingredient num="6">tortilla, to serve </ingredient>
+    <ingredient num="7">pico de gallo, to serve </ingredient>
+    <ingredient num="8">guacamole, to serve </ingredient>
+    <ingredient num="9">sour cream, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79548/hls24_1518807520.m3u8</low>
+    <high>https://vid.tasty.co/output/79548/landscape_720/1518807520</high>
+  </video>
+  <duration>
+    <start_time>296.0</start_time>
+    <end_time>323.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place chicken breasts inside the Instant Pot. </step>
+    <step num="1">Add the chili powder, ground cumin, pepper, and garlic and toss until the chicken is coated on both sides. Add the salsa. </step>
+    <step num="2">Seal the lid in place until you hear the beep. Tip: Closing the lid can be tricky. Have the pressure knob at 11 o’clock and turn right. </step>
+    <step num="3">Press “Poultry” and set time to 13 minutes. Set pressure knob to “Sealing”. </step>
+    <step num="4">Steam will release and the screen will say “On” before it starts counting down. </step>
+    <step num="5">Once the timer goes off, carefully turn the pressure knob to “Venting”. Let all of the stream release before opening the lid. </step>
+    <step num="6">Shred the chicken with two forks. </step>
+    <step num="7">Serve with tortillas, pico de gallo, guacamole, sour cream, or other desired toppings. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place chicken breasts inside the Instant Pot. </steps_updated>
+    <steps_updated num="1">Add the chili powder, ground cumin, pepper, and garlic and toss until the chicken is coated on both sides. </steps_updated>
+    <steps_updated num="2">Add the salsa. </steps_updated>
+    <steps_updated num="3">Seal the lid in place until you hear the beep. </steps_updated>
+    <steps_updated num="4">Tip: Closing the lid can be tricky. </steps_updated>
+    <steps_updated num="5">Have the pressure knob at 11 o’clock and turn right. </steps_updated>
+    <steps_updated num="6">Press “Poultry” and set time to 13 minutes. </steps_updated>
+    <steps_updated num="7">Set pressure knob to “Sealing”. </steps_updated>
+    <steps_updated num="8">Steam will release and the screen will say “On” before it starts counting down. </steps_updated>
+    <steps_updated num="9">Once the timer goes off, carefully turn the pressure knob to “Venting”. </steps_updated>
+    <steps_updated num="10">Let all of the stream release before opening the lid. </steps_updated>
+    <steps_updated num="11">Shred the chicken with two forks. </steps_updated>
+    <steps_updated num="12">Serve with tortillas, pico de gallo, guacamole, sour cream, or other desired toppings. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>07133</start_time>
+    <end_time>08056</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-chicken-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; boneless, skinless chicken breast </ingredient>
+    <ingredient num="1">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="2">1 cup ; sake ; (240 mL) </ingredient>
+    <ingredient num="3">2 slices ; fresh ginger </ingredient>
+    <ingredient num="4">2 ; scallions, green parts only </ingredient>
+    <ingredient num="5">4 tablespoons ; soy sauce </ingredient>
+    <ingredient num="6">1 tablespoon ; sugar </ingredient>
+    <ingredient num="7">3 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="8">2 teaspoons ; chili bean paste </ingredient>
+    <ingredient num="9">2 tablespoons ; sesame oil </ingredient>
+    <ingredient num="10">2 tablespoons ; toasted sesame seed </ingredient>
+    <ingredient num="11">1 teaspoon ; garlic, grated </ingredient>
+    <ingredient num="12">1 teaspoon ; grated ginger </ingredient>
+    <ingredient num="13">1 ; tomato, sliced </ingredient>
+    <ingredient num="14">1 ; cucumber, julienned </ingredient>
+    <ingredient num="15">1 ; fresh cilantro </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32959/low_1495825972.m3u8</low>
+    <high>https://vid.tasty.co/output/32959/mp4_720x1280/1495825972</high>
+  </video>
+  <steps>
+    <step num="0">In a medium-size pot, add the chicken breast, water, sake, sliced ginger, and scallions, and bring to a boil over high heat. </step>
+    <step num="1">Once the water is boiling, flip the chicken breast over and put the lid on top of the pot. Turn off the heat and leave the pot sit at room temperature for 30 minutes. Chill in the fridge. </step>
+    <step num="2">In a small bowl, combine all the sauce ingredients and mix well. </step>
+    <step num="3">On a plate, arrange the sliced tomatoes, julienned cucumbers, and sliced chicken breast. </step>
+    <step num="4">Top with cilantro and drizzle with sauce. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium-size pot, add the chicken breast, water, sake, sliced ginger, and scallions, and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="1">Once the water is boiling, flip the chicken breast over and put the lid on top of the pot. </steps_updated>
+    <steps_updated num="2">Turn off the heat and leave the pot sit at room temperature for 30 minutes. </steps_updated>
+    <steps_updated num="3">Chill in the fridge. </steps_updated>
+    <steps_updated num="4">In a small bowl, combine all the sauce ingredients and mix well. </steps_updated>
+    <steps_updated num="5">On a plate, arrange the sliced tomatoes, julienned cucumbers, and sliced chicken breast. </steps_updated>
+    <steps_updated num="6">Top with cilantro and drizzle with sauce. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

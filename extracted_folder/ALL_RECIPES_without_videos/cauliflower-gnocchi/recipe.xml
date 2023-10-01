@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Gnocchi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-gnocchi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 cups ; cauliflower, roughly chopped ; (1.5 kg) </ingredient>
+    <ingredient num="1">1 ¾ cups ; all-purpose flour, or gluten-free flour ; (220 g) </ingredient>
+    <ingredient num="2">¾ teaspoon ; salt </ingredient>
+    <ingredient num="3">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="4">pesto sauce, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110512/hls24_1538067968.m3u8</low>
+    <high>https://vid.tasty.co/output/110512/landscape_720/1538067968</high>
+  </video>
+  <steps>
+    <step num="0">Add the cauliflower to a steamer basket set over a medium pot of boiling water. Cover and steam for 10 minutes, or until fork-tender. </step>
+    <step num="1">Transfer the cauliflower to a clean dish towel and squeeze the excess water into a bowl. </step>
+    <step num="2">Transfer the squeezed cauliflower to a food processor. Add the flour, salt, and olive oil and pulse until the dough forms a ball. </step>
+    <step num="3">Transfer the dough to a lightly floured surface and knead for 3-4 minutes, or until the dough bounces back when poked. </step>
+    <step num="4">Shape the dough into a ball, then cut into 4 equal pieces. </step>
+    <step num="5">Working 1 piece at a time, cut in half again, then roll out a rope about 6 inches (3-cm) long and 1 inch (2-cm) wide. Slice each rope into ½-inch (1-cm) pieces. </step>
+    <step num="6">Roll each piece along the back of a fork to create a line pattern. </step>
+    <step num="7">Transfer the gnocchi to a large pot of salted boiling water. Boil until the gnocchi float to the surface, 3-5 minutes, then remove with a slotted spoon. </step>
+    <step num="8">Toss the gnocchi with pesto sauce and serve immediately. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the cauliflower to a steamer basket set over a medium pot of boiling water. </steps_updated>
+    <steps_updated num="1">Cover and steam for 10 minutes, or until fork-tender. </steps_updated>
+    <steps_updated num="2">Transfer the cauliflower to a clean dish towel and squeeze the excess water into a bowl. </steps_updated>
+    <steps_updated num="3">Transfer the squeezed cauliflower to a food processor. </steps_updated>
+    <steps_updated num="4">Add the flour, salt, and olive oil and pulse until the dough forms a ball. </steps_updated>
+    <steps_updated num="5">Transfer the dough to a lightly floured surface and knead for 3-4 minutes, or until the dough bounces back when poked. </steps_updated>
+    <steps_updated num="6">Shape the dough into a ball, then cut into 4 equal pieces </steps_updated>
+    <steps_updated num="7">Working 1 piece at a time, cut in half again, then roll out a rope about 6 inches (3-cm) long and 1 inch (2-cm) wide. </steps_updated>
+    <steps_updated num="8">Slice each rope into ½-inch (1-cm) pieces. </steps_updated>
+    <steps_updated num="9">Roll each piece along the back of a fork to create a line pattern. </steps_updated>
+    <steps_updated num="10">Transfer the gnocchi to a large pot of salted boiling water. </steps_updated>
+    <steps_updated num="11">Boil until the gnocchi float to the surface, 3-5 minutes, then remove with a slotted spoon. </steps_updated>
+    <steps_updated num="12">Toss the gnocchi with pesto sauce and serve immediately. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

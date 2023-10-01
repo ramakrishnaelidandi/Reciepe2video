@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Parm Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parm-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; boneless, skinless chicken breasts, cubed </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="3">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="6">1 teaspoon ; paprika </ingredient>
+    <ingredient num="7">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="8">8 ; eggs, beaten </ingredient>
+    <ingredient num="9">3 cups ; seasoned bread crumbs ; (345 g) </ingredient>
+    <ingredient num="10">oil, for frying </ingredient>
+    <ingredient num="11">1 cup ; tomato sauce ; (260 g) </ingredient>
+    <ingredient num="12">8 oz ; mozzarella cheese, sliced or shredded ; (225 g) </ingredient>
+    <ingredient num="13">¼ cup ; grated parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="14">fresh basil, chopped, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/61395/low_1510345265.m3u8</low>
+    <high>https://vid.tasty.co/output/61395/mp4_720x1280/1510345265</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, add the chicken, salt, pepper, oregano, garlic powder, onion powder, and paprika, and pulse until thoroughly combined, with no large chunks. </step>
+    <step num="1">Spread the mixture evenly into the bottom of a plastic wrap-lined, 10-inch (25 cm) cake pan. Fold over the excess saran wrap on top, and press it into a flat shape. Freeze until completely frozen solid, 2-4 hours. </step>
+    <step num="2">In 3 separate shallow dishes, distribute the flour, eggs, and bread crumbs. </step>
+    <step num="3">Unwrap the frozen chicken disc and dip it in the flour, shaking off any excess. </step>
+    <step num="4">Submerge it into the eggs, then cover it completely with the bread crumbs, pressing the bread crumbs into the chicken. </step>
+    <step num="5">Freeze for 15 minutes. </step>
+    <step num="6">Preheat oven to broil. </step>
+    <step num="7">Add oil to a large, deep pan halfway up the side to 400°F (200°C). </step>
+    <step num="8">Carefully lower the chicken disc into the oil with tongs, making sure it doesn’t splash. If the bottom is getting more color than the top, flip the patty extremely carefully and fry the other side until a deep golden brown. </step>
+    <step num="9">Remove the chicken disc from the oil and transfer to a wire rack. Blot with paper towels to remove excess oil. </step>
+    <step num="10">Add the tomato sauce to the fried chicken disc, spreading it in an even layer. </step>
+    <step num="11">Lay the mozzarella over the sauce, then sprinkle with Parmesan over the top. </step>
+    <step num="12">Broil for 5-8 minutes, or until the cheese is bubbly and golden brown. </step>
+    <step num="13">Top with basil, slice, and serve. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, add the chicken, salt, pepper, oregano, garlic powder, onion powder, and paprika, and pulse until thoroughly combined, with no large chunks. </steps_updated>
+    <steps_updated num="1">Spread the mixture evenly into the bottom of a plastic wrap-lined, 10-inch (25 cm) cake pan. </steps_updated>
+    <steps_updated num="2">Fold over the excess saran wrap on top, and press it into a flat shape. </steps_updated>
+    <steps_updated num="3">Freeze until completely frozen solid, 2-4 hours. </steps_updated>
+    <steps_updated num="4">In 3 separate shallow dishes, distribute the flour, eggs, and bread crumbs. </steps_updated>
+    <steps_updated num="5">Unwrap the frozen chicken disc and dip it in the flour, shaking off any excess. </steps_updated>
+    <steps_updated num="6">Submerge it into the eggs, then cover it completely with the bread crumbs, pressing the bread crumbs into the chicken. </steps_updated>
+    <steps_updated num="7">Freeze for 15 minutes. </steps_updated>
+    <steps_updated num="8">Preheat oven to broil. </steps_updated>
+    <steps_updated num="9">Add oil to a large, deep pan halfway up the side to 400°F (200°C). </steps_updated>
+    <steps_updated num="10">Carefully lower the chicken disc into the oil with tongs, making sure it doesn’t splash. </steps_updated>
+    <steps_updated num="11">If the bottom is getting more color than the top, flip the patty extremely carefully and fry the other side until a deep golden brown. </steps_updated>
+    <steps_updated num="12">Remove the chicken disc from the oil and transfer to a wire rack. </steps_updated>
+    <steps_updated num="13">Blot with paper towels to remove excess oil. </steps_updated>
+    <steps_updated num="14">Add the tomato sauce to the fried chicken disc, spreading it in an even layer. </steps_updated>
+    <steps_updated num="15">Lay the mozzarella over the sauce, then sprinkle with Parmesan over the top. </steps_updated>
+    <steps_updated num="16">Broil for 5-8 minutes, or until the cheese is bubbly and golden brown. </steps_updated>
+    <steps_updated num="17">Top with basil, slice, and serve. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

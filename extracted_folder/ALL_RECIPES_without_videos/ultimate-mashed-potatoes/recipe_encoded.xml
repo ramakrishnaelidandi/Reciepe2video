@@ -1,0 +1,60 @@
+<recipe>
+  <title>Ultimate Mashed Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ultimate-mashed-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tasty-101-how-to-cook-perfect-potatoes</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 3367 11486 2868 13278 7696 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 3305 5802 13278 2935 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 8640 13033 13278 2935 8007 </ingredient>
+    <ingredient num="3">6735 13667 13278 4155 5614 </ingredient>
+    <ingredient num="4">1580 2605 13278 7974 10907 12124 278 13278 6518 5981 </ingredient>
+    <ingredient num="5">8580 2031 13278 3855 82 </ingredient>
+    <ingredient num="6">14585 11088 13584 10986 560 11567 </ingredient>
+    <ingredient num="7">11292 11588 1404 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88513/hls24_1523062633.m3u8</low>
+    <high>https://vid.tasty.co/output/88513/landscape_720/1523062633</high>
+  </video>
+  <duration>
+    <start_time>134.333</start_time>
+    <end_time>237.866</end_time>
+  </duration>
+  <steps>
+    <step num="0">12474 5994 4669 8667 7368 11951 13950 5570 11951 13233 210 5994 2597 12377 371 278 12282 9994 3780 560 3144 5121 </step>
+    <step num="1">14100 11951 13233 669 1318 8891 1645 1170 </step>
+    <step num="2">9179 11951 13233 560 5994 2597 10083 13817 6506 1391 278 2019 8785 560 5994 1002 11770 8283 14307 415 2864 11951 7855 560 9721 13817 11779 7990 409 12689 </step>
+    <step num="3">10950 5994 2192 7110 14238 11951 9889 8640 1123 13817 11384 560 5994 11779 11770 9721 2082 </step>
+    <step num="4">6054 11951 10083 6781 11951 7855 13817 1746 11951 13033 7492 5994 11042 10859 13492 </step>
+    <step num="5">11720 11951 13233 210 5994 6258 13817 10231 13352 560 11951 4771 </step>
+    <step num="6">10641 11951 13233 1391 5994 2868 12381 2868 605 5895 5569 9888 7492 5994 11042 10859 14546 1391 5994 14263 </step>
+    <step num="7">9179 11951 472 278 9924 13817 12051 12473 560 1011 </step>
+    <step num="8">12633 740 11951 13033 2373 560 11951 2274 8779 5569 2203 1681 7568 9456 </step>
+    <step num="9">13494 1391 14585 11088 13584 7845 13817 1678 1391 3938 13817 8956 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 7368 11951 13950 </steps_updated>
+    <steps_updated num="1">5570 11951 13233 210 5994 2597 12377 371 278 12282 9994 3780 560 3144 5121 </steps_updated>
+    <steps_updated num="2">14100 11951 13233 669 1318 8891 1645 1170 </steps_updated>
+    <steps_updated num="3">9179 11951 13233 560 5994 2597 10083 13817 6506 1391 278 2019 </steps_updated>
+    <steps_updated num="4">8785 560 5994 1002 11770 8283 14307 415 2864 11951 7855 560 9721 13817 11779 7990 409 12689 </steps_updated>
+    <steps_updated num="5">10950 5994 2192 7110 14238 11951 9889 8640 1123 13817 11384 560 5994 11779 11770 9721 2082 </steps_updated>
+    <steps_updated num="6">6054 11951 10083 6781 11951 7855 13817 1746 11951 13033 7492 5994 11042 10859 13492 </steps_updated>
+    <steps_updated num="7">11720 11951 13233 210 5994 6258 13817 10231 13352 560 11951 4771 </steps_updated>
+    <steps_updated num="8">10641 11951 13233 1391 5994 2868 12381 2868 605 5895 5569 9888 7492 5994 11042 10859 14546 1391 5994 14263 </steps_updated>
+    <steps_updated num="9">9179 11951 472 278 9924 13817 12051 </steps_updated>
+    <steps_updated num="10">12473 560 1011 </steps_updated>
+    <steps_updated num="11">12633 740 11951 13033 2373 560 11951 2274 8779 5569 2203 1681 7568 9456 </steps_updated>
+    <steps_updated num="12">13494 1391 14585 11088 13584 7845 13817 1678 1391 3938 13817 8956 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

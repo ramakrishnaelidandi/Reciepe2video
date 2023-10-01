@@ -1,0 +1,50 @@
+<recipe>
+  <title>Cheddar-chive Hash Browns Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-chive-hash-browns</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/eggs-benedict-brunch-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 9780 2274 4125 13817 2431 </ingredient>
+    <ingredient num="1">12791 2605 13278 10907 5335 13278 2264 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 3333 9784 14538 13278 2264 5981 </ingredient>
+    <ingredient num="3">3917 13278 6216 </ingredient>
+    <ingredient num="4">12791 2605 13278 11292 3962 13278 12237 5981 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">1580 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Brunch</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21672/low_1485207867.m3u8</low>
+    <high>https://vid.tasty.co/output/21672/mp4_720x1280/1485207867</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>29.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 11480 13129 7143 </step>
+    <step num="1">8940 13817 4019 11951 2274 13817 12221 3755 210 2439 2019 13886 2696 1198 12282 13817 3345 13233 210 5994 7616 </step>
+    <step num="2">9179 11951 12886 371 11951 11907 560 11951 12377 13817 10968 3631 </step>
+    <step num="3">12474 5994 9637 11745 1978 1010 371 11951 2868 2373 1391 12313 6292 </step>
+    <step num="4">7831 7990 3366 8927 5895 1681 1368 13817 2111 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 13129 7143 </steps_updated>
+    <steps_updated num="1">8940 13817 4019 11951 2274 13817 12221 3755 210 2439 2019 </steps_updated>
+    <steps_updated num="2">13886 2696 1198 12282 13817 3345 13233 210 5994 7616 </steps_updated>
+    <steps_updated num="3">9179 11951 12886 371 11951 11907 560 11951 12377 13817 10968 3631 </steps_updated>
+    <steps_updated num="4">12474 5994 9637 11745 1978 1010 371 11951 2868 2373 1391 12313 6292 </steps_updated>
+    <steps_updated num="5">7831 7990 3366 8927 5895 1681 1368 13817 2111 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00900</end_time>
+  </duration_human>
+</recipe>

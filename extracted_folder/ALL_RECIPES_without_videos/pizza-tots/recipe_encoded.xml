@@ -1,0 +1,60 @@
+<recipe>
+  <title>Pizza Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 11247 13278 5154 8111 2192 11247 </ingredient>
+    <ingredient num="1">409 8535 13278 5243 </ingredient>
+    <ingredient num="2">13086 1580 9517 13278 1960 1368 13278 4563 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 11239 2634 </ingredient>
+    <ingredient num="4">3917 14014 13278 82 </ingredient>
+    <ingredient num="5">3917 14014 13278 11384 11703 </ingredient>
+    <ingredient num="6">3917 13278 4036 9917 </ingredient>
+    <ingredient num="7">7632 7990 5291 </ingredient>
+    <ingredient num="8">9122 7280 7990 7361 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31924/low_1495124920.m3u8</low>
+    <high>https://vid.tasty.co/output/31924/mp4_720x1280/1495124920</high>
+  </video>
+  <steps>
+    <step num="0">14100 11247 371 10865 669 2192 14159 6285 5994 1580 2985 3137 4761 </step>
+    <step num="1">14100 5243 210 8467 </step>
+    <step num="2">10950 5994 3624 14511 4120 1960 5095 6302 3123 12610 11384 8117 13817 13784 9393 3631 </step>
+    <step num="3">7047 5994 2192 2629 371 11951 1960 1368 2373 13817 2890 2696 210 11951 7125 371 12313 1716 </step>
+    <step num="4">5570 3917 5895 8580 8535 371 5243 13817 5994 10224 371 14538 4255 143 </step>
+    <step num="5">12595 11951 1960 1368 2373 5412 11951 14538 13817 7068 13886 13817 169 1681 11951 2373 2043 6113 11951 11539 13817 7765 210 5994 8406 5563 5362 1681 8554 371 11951 2373 9490 12705 </step>
+    <step num="6">13855 4202 7990 8312 12689 </step>
+    <step num="7">10950 5994 2597 7110 7855 5766 560 9988 8999 8916 4202 210 3997 2734 7811 5994 7555 1681 10963 2147 11720 4255 12 671 </step>
+    <step num="8">12774 6908 1391 9122 9286 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 11247 371 10865 669 2192 14159 6285 5994 1580 2985 3137 4761 </steps_updated>
+    <steps_updated num="1">14100 5243 210 8467 </steps_updated>
+    <steps_updated num="2">10950 5994 3624 14511 4120 1960 5095 6302 3123 12610 11384 8117 13817 13784 </steps_updated>
+    <steps_updated num="3">9393 3631 </steps_updated>
+    <steps_updated num="4">7047 5994 2192 2629 371 11951 1960 1368 2373 13817 2890 2696 210 11951 7125 371 12313 1716 </steps_updated>
+    <steps_updated num="5">5570 3917 5895 8580 8535 371 5243 13817 5994 10224 371 14538 4255 143 </steps_updated>
+    <steps_updated num="6">12595 11951 1960 1368 2373 5412 11951 14538 13817 7068 </steps_updated>
+    <steps_updated num="7">13886 13817 169 1681 11951 2373 2043 6113 11951 11539 13817 7765 210 5994 8406 5563 </steps_updated>
+    <steps_updated num="8">5362 1681 8554 371 11951 2373 9490 12705 </steps_updated>
+    <steps_updated num="9">13855 4202 7990 8312 12689 </steps_updated>
+    <steps_updated num="10">10950 5994 2597 7110 7855 5766 560 9988 8999 </steps_updated>
+    <steps_updated num="11">8916 4202 210 3997 2734 7811 5994 7555 1681 10963 2147 </steps_updated>
+    <steps_updated num="12">11720 4255 12 671 </steps_updated>
+    <steps_updated num="13">12774 6908 1391 9122 9286 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

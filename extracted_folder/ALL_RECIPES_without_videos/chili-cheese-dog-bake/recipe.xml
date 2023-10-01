@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chili Cheese Dog Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-cheese-dog-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">14 oz ; canned chili, heated ; (397 g) </ingredient>
+    <ingredient num="1">1 can ; refrigerated pizza dough </ingredient>
+    <ingredient num="2">4 ; cheddar cheese sticks </ingredient>
+    <ingredient num="3">4 ; hot dogs, all-beef </ingredient>
+    <ingredient num="4">1 tablespoon ; butter </ingredient>
+    <ingredient num="5">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">¼ teaspoon ; parsley </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/66073/hls24_1512519563.m3u8</low>
+    <high>https://vid.tasty.co/output/66073/landscape_720/1512519563</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375˚F (190˚C). </step>
+    <step num="1">Spread chili into a greased 11x7-inch (28 x 18 cm) glass baking dish. </step>
+    <step num="2">Unroll the dough and cut into four even strips. </step>
+    <step num="3">Cut the cheese sticks in half lengthwise. </step>
+    <step num="4">Place a hot dog in the center of a piece of dough. Place each half of the cheese stick on either side of the hot dog. </step>
+    <step num="5">Wrap the dough around the cheese and hot dog, overlapping slightly in the center. Repeat with remaining dough, hot dogs, and cheese. </step>
+    <step num="6">Place the wrapped hot dogs on top of the chili. </step>
+    <step num="7">Bake 15-20 minutes, until the dough is light golden. </step>
+    <step num="8">Add the butter to a microwave-safe bowl and microwave on high until melted. Stir in the garlic powder and parsley. </step>
+    <step num="9">Brush over the wrapped hot dogs. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="1">Spread chili into a greased 11x7-inch (28 x 18 cm) glass baking dish. </steps_updated>
+    <steps_updated num="2">Unroll the dough and cut into four even strips. </steps_updated>
+    <steps_updated num="3">Cut the cheese sticks in half lengthwise. </steps_updated>
+    <steps_updated num="4">Place a hot dog in the center of a piece of dough. </steps_updated>
+    <steps_updated num="5">Place each half of the cheese stick on either side of the hot dog. </steps_updated>
+    <steps_updated num="6">Wrap the dough around the cheese and hot dog, overlapping slightly in the center. </steps_updated>
+    <steps_updated num="7">Repeat with remaining dough, hot dogs, and cheese. </steps_updated>
+    <steps_updated num="8">Place the wrapped hot dogs on top of the chili. </steps_updated>
+    <steps_updated num="9">Bake 15-20 minutes, until the dough is light golden. </steps_updated>
+    <steps_updated num="10">Add the butter to a microwave-safe bowl and microwave on high until melted. </steps_updated>
+    <steps_updated num="11">Stir in the garlic powder and parsley. </steps_updated>
+    <steps_updated num="12">Brush over the wrapped hot dogs. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

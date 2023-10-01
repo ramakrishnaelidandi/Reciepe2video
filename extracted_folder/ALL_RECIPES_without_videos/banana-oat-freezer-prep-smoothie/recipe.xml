@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Oat Freezer-Prep Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-oat-freezer-prep-smoothie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; fresh arugula ; (100 g) </ingredient>
+    <ingredient num="1">1 ; banana, sliced </ingredient>
+    <ingredient num="2">1 tablespoon ; almond butter </ingredient>
+    <ingredient num="3">¼ cup ; oats ; (25 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">½ teaspoon ; ground turmeric </ingredient>
+    <ingredient num="6">¼ teaspoon ; kosher salt </ingredient>
+    <ingredient num="7">½ cup ; unsweetened almond milk ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/120262/hls24_1545086071.m3u8</low>
+    <high>https://vid.tasty.co/output/120262/landscape_720/1545086071</high>
+  </video>
+  <steps>
+    <step num="0">Add the arugula, banana, almond butter, oats, cinnamon, turmeric, and salt to a resealable container. Cover and store in the freezer for up to 3 months. </step>
+    <step num="1">When ready to prepare, add the contents from the container and the almond milk to a blender and blend until smooth. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the arugula, banana, almond butter, oats, cinnamon, turmeric, and salt to a resealable container. </steps_updated>
+    <steps_updated num="1">Cover and store in the freezer for up to 3 months. </steps_updated>
+    <steps_updated num="2">When ready to prepare, add the contents from the container and the almond milk to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<recipe>
+  <title>Lemony Fried Brussels Sprouts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lemony-fried-brussels-sprouts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 3141 7549 8244 5766 </ingredient>
+    <ingredient num="1">9883 715 13278 6831 6298 3147 13817 10844 13278 4606 5981 </ingredient>
+    <ingredient num="2">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">3917 597 13278 597 5921 </ingredient>
+    <ingredient num="4">3591 2605 13278 12773 10502 5802 13278 8178 8007 </ingredient>
+    <ingredient num="5">8580 643 13278 10502 14538 13278 13125 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 9260 6422 </ingredient>
+    <ingredient num="7">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="8">3917 2157 13278 8083 7845 10876 </ingredient>
+    <ingredient num="9">12791 2605 13278 6209 749 1404 7789 3954 7990 4711 13278 12237 5981 </ingredient>
+    <ingredient num="10">1813 2605 13278 2431 109 14538 13278 336 5981 </ingredient>
+    <ingredient num="11">1813 2605 13278 12188 9550 4533 3962 13278 2264 5981 </ingredient>
+    <ingredient num="12">4961 13510 12610 560 11567 </ingredient>
+    <ingredient num="13">13584 10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Sides</category>
+    <category num="5">Snacks</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71623/hls24_1515432613.m3u8</low>
+    <high>https://vid.tasty.co/output/71623/landscape_720/1515432613</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 5281 5578 </step>
+    <step num="1">10950 5994 9184 2566 6684 6326 740 11951 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 10922 6057 13817 12484 13328 6601 1681 5898 13817 8574 9363 13086 560 4061 12689 </step>
+    <step num="2">9179 11951 4155 14635 13817 597 6585 264 1681 13223 6285 238 773 </step>
+    <step num="3">12785 11951 10060 560 11951 10439 13817 11521 7990 13767 11004 5895 1681 14371 6054 6781 11951 2378 </step>
+    <step num="4">3915 10439 560 4251 </step>
+    <step num="5">10950 5994 12027 5895 8016 5349 740 11951 4212 9889 10502 13810 5920 13817 597 7654 13817 8287 1681 12119 12473 210 11951 8083 7845 13342 </step>
+    <step num="6">9179 11951 6250 560 11951 10060 1391 11951 10922 13863 9179 11951 4212 5802 2373 13817 6142 560 1011 </step>
+    <step num="7">6252 1391 3220 14538 13817 9107 </step>
+    <step num="8">8151 7990 8580 560 13086 11004 5895 1681 11951 14538 7312 1311 </step>
+    <step num="9">10242 1391 82 13817 10986 13817 10707 1391 3274 13952 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5281 5578 </steps_updated>
+    <steps_updated num="1">10950 5994 9184 2566 6684 6326 740 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">9956 11951 5766 10586 560 923 740 11951 10922 6057 13817 12484 13328 6601 1681 5898 13817 8574 9363 13086 560 4061 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 4155 14635 13817 597 6585 </steps_updated>
+    <steps_updated num="4">264 1681 13223 6285 238 773 </steps_updated>
+    <steps_updated num="5">12785 11951 10060 560 11951 10439 13817 11521 7990 13767 11004 5895 1681 14371 </steps_updated>
+    <steps_updated num="6">6054 6781 11951 2378 </steps_updated>
+    <steps_updated num="7">3915 10439 560 4251 </steps_updated>
+    <steps_updated num="8">10950 5994 12027 5895 8016 5349 740 11951 4212 9889 10502 13810 5920 13817 597 7654 13817 8287 1681 12119 </steps_updated>
+    <steps_updated num="9">12473 210 11951 8083 7845 13342 </steps_updated>
+    <steps_updated num="10">9179 11951 6250 560 11951 10060 1391 11951 10922 13863 </steps_updated>
+    <steps_updated num="11">9179 11951 4212 5802 2373 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="12">6252 1391 3220 14538 13817 9107 </steps_updated>
+    <steps_updated num="13">8151 7990 8580 560 13086 11004 5895 1681 11951 14538 7312 1311 </steps_updated>
+    <steps_updated num="14">10242 1391 82 13817 10986 13817 10707 1391 3274 13952 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

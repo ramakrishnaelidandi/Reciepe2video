@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef And Cheese Empanada Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-and-cheese-empanada</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/empanadas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">⅓ cup ; shredded cheddar cheese ; (35 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; ketchup </ingredient>
+    <ingredient num="7">1 tablespoon ; yellow mustard </ingredient>
+    <ingredient num="8">½ teaspoon ; worcestershire sauce </ingredient>
+    <ingredient num="9">2 sheets ; pie dough </ingredient>
+    <ingredient num="10">egg </ingredient>
+    <ingredient num="11">sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90709/hls24_1524514253.m3u8</low>
+    <high>https://vid.tasty.co/output/90709/landscape_720/1524514253</high>
+  </video>
+  <duration>
+    <start_time>2.6660000000000004</start_time>
+    <end_time>55.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat oil in a large skillet. </step>
+    <step num="1">Cook down onions until translucent. </step>
+    <step num="2">Add meat, 1 teaspoon salt, and ½ teaspoon pepper, and cook until meat is fully cooked. Transfer into a large bowl. </step>
+    <step num="3">Preheat oven to 400°F (200°C). </step>
+    <step num="4">Combine cheese, ketchup, mustard, Worcestershire sauce, and 1 teaspoon of salt. Mix thoroughly. </step>
+    <step num="5">Roll out the pie crust and cut into 4 pieces. </step>
+    <step num="6">Place a spoonful of the stuffing on one side of the dough, leaving ¼ inch (6 mm) from the edge and fold over, creating a triangle. </step>
+    <step num="7">With a fork, crimp down the 2 sides so the stuffing stays in. </step>
+    <step num="8">Transfer onto baking sheet. Brush on egg and sprinkle on sesame seeds. </step>
+    <step num="9">Bake for 20 minutes or until golden brown and pie crust is thoroughly cooked. </step>
+    <step num="10">Let it cool for a few minutes </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a large skillet. </steps_updated>
+    <steps_updated num="1">Cook down onions until translucent. </steps_updated>
+    <steps_updated num="2">Add meat, 1 teaspoon salt, and ½ teaspoon pepper, and cook until meat is fully cooked. </steps_updated>
+    <steps_updated num="3">Transfer into a large bowl. </steps_updated>
+    <steps_updated num="4">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="5">Combine cheese, ketchup, mustard, Worcestershire sauce, and 1 teaspoon of salt. </steps_updated>
+    <steps_updated num="6">Mix thoroughly. </steps_updated>
+    <steps_updated num="7">Roll out the pie crust and cut into 4 pieces. </steps_updated>
+    <steps_updated num="8">Place a spoonful of the stuffing on one side of the dough, leaving ¼ inch (6 mm) from the edge and fold over, creating a triangle. </steps_updated>
+    <steps_updated num="9">With a fork, crimp down the 2 sides so the stuffing stays in. </steps_updated>
+    <steps_updated num="10">Transfer onto baking sheet. </steps_updated>
+    <steps_updated num="11">Brush on egg and sprinkle on sesame seeds. </steps_updated>
+    <steps_updated num="12">Bake for 20 minutes or until golden brown and pie crust is thoroughly cooked. </steps_updated>
+    <steps_updated num="13">Let it cool for a few minutes </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

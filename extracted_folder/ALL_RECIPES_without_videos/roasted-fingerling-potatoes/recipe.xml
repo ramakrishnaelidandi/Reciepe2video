@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roasted Fingerling Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-fingerling-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tasty-101-how-to-cook-perfect-potatoes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; fingerling potato ; (905 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="3">1 teaspoon ; freshly ground black pepper </ingredient>
+    <ingredient num="4">2 sprigs ; fresh rosemary, stemmed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88513/hls24_1523062633.m3u8</low>
+    <high>https://vid.tasty.co/output/88513/landscape_720/1523062633</high>
+  </video>
+  <duration>
+    <start_time>55.833</start_time>
+    <end_time>103.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the potatoes in a large pot of salted water and bring to a boil over high heat. Boil for 5-7 minutes, then drain in a colander. </step>
+    <step num="1">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="2">Thoroughly dry the par-boiled potatoes with a paper towel. </step>
+    <step num="3">On a cutting board, quarter the potatoes. </step>
+    <step num="4">Place the potatoes in a large bowl, drizzle with olive oil, and season with salt, pepper, and rosemary, stirring until well-coated. </step>
+    <step num="5">Transfer the potatoes to a parchment-lined baking sheet and spread in an even layer. </step>
+    <step num="6">Roast for 35-45 minutes, until crispy. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the potatoes in a large pot of salted water and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="1">Boil for 5-7 minutes, then drain in a colander. </steps_updated>
+    <steps_updated num="2">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="3">Thoroughly dry the par-boiled potatoes with a paper towel. </steps_updated>
+    <steps_updated num="4">On a cutting board, quarter the potatoes. </steps_updated>
+    <steps_updated num="5">Place the potatoes in a large bowl, drizzle with olive oil, and season with salt, pepper, and rosemary, stirring until well-coated. </steps_updated>
+    <steps_updated num="6">Transfer the potatoes to a parchment-lined baking sheet and spread in an even layer. </steps_updated>
+    <steps_updated num="7">Roast for 35-45 minutes, until crispy. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

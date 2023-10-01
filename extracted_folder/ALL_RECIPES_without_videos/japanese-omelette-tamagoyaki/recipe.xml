@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Japanese Omelette (Tamagoyaki) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/japanese-omelette-tamagoyaki</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/french-omelette-vs-japanese-omelette</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; eggs </ingredient>
+    <ingredient num="1">2 ; sugars </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">1 teaspoon ; sake </ingredient>
+    <ingredient num="4">1 teaspoon ; mirin </ingredient>
+    <ingredient num="5">175 ; ⅓ cup ; bonito dashi broth </ingredient>
+    <ingredient num="6">oil, to taste </ingredient>
+    <ingredient num="7">1 ; shiso leaf </ingredient>
+    <ingredient num="8">japanese radish, grated, to serve </ingredient>
+    <ingredient num="9">soy sauce, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54409/low_1506730605.m3u8</low>
+    <high>https://vid.tasty.co/output/54409/mp4_720x1280/1506730605</high>
+  </video>
+  <duration>
+    <start_time>49.32</start_time>
+    <end_time>116.22</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large mixing bowl, add the eggs, sugar, salt, sake, mirin, and broth, and mix well. </step>
+    <step num="1">Heat a tamagoyaki pan at over medium heat. Brush a thin layer of oil on the pan. </step>
+    <step num="2">Pour ⅙ of egg mixture into pan and quickly swirl to cover the entire pan. When the egg is set, gently roll the egg. </step>
+    <step num="3">With the rolled egg still in the pan, pour in ⅙ of the egg mixture. Lift up the rolled egg and let the mixture to flow under it. When the egg is set, roll the omelette toward you. </step>
+    <step num="4">Repeat, adding ⅙ of the mixture at a time, continuing to roll the egg into a large roll. </step>
+    <step num="5">Cut the tamagoyaki in half and pierce with a skewer. </step>
+    <step num="6">Serve with a shiso leaf, grated radish, and soy sauce. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mixing bowl, add the eggs, sugar, salt, sake, mirin, and broth, and mix well. </steps_updated>
+    <steps_updated num="1">Heat a tamagoyaki pan at over medium heat. </steps_updated>
+    <steps_updated num="2">Brush a thin layer of oil on the pan. </steps_updated>
+    <steps_updated num="3">Pour ⅙ of egg mixture into pan and quickly swirl to cover the entire pan. </steps_updated>
+    <steps_updated num="4">When the egg is set, gently roll the egg. </steps_updated>
+    <steps_updated num="5">With the rolled egg still in the pan, pour in ⅙ of the egg mixture. </steps_updated>
+    <steps_updated num="6">Lift up the rolled egg and let the mixture to flow under it. </steps_updated>
+    <steps_updated num="7">When the egg is set, roll the omelette toward you. </steps_updated>
+    <steps_updated num="8">Repeat, adding ⅙ of the mixture at a time, continuing to roll the egg into a large roll. </steps_updated>
+    <steps_updated num="9">Cut the tamagoyaki in half and pierce with a skewer. </steps_updated>
+    <steps_updated num="10">Serve with a shiso leaf, grated radish, and soy sauce. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01539</start_time>
+    <end_time>03506</end_time>
+  </duration_human>
+</recipe>

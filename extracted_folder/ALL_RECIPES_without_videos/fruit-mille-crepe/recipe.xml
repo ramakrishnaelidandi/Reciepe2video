@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fruit Mille Crepe Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fruit-mille-crepe</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; milk ; (360 mL) </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">1 tablespoon ; butter, melted </ingredient>
+    <ingredient num="4">2 tablespoons ; sugar </ingredient>
+    <ingredient num="5">1 pinch ; salt </ingredient>
+    <ingredient num="6">6 oz ; cream cheese, at room temperature ; (170 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; sugar </ingredient>
+    <ingredient num="8">1 teaspoon ; gelatin </ingredient>
+    <ingredient num="9">1 ½ cups ; heavy cream ; (360 mL) </ingredient>
+    <ingredient num="10">15 ; strawberries, sliced </ingredient>
+    <ingredient num="11">2 ; kiwis, sliced </ingredient>
+    <ingredient num="12">2 ; bananas, sliced </ingredient>
+    <ingredient num="13">powdered sugar, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Japanese</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29025/low_1492017847.m3u8</low>
+    <high>https://vid.tasty.co/output/29025/mp4_720x1280/1492017847</high>
+  </video>
+  <steps>
+    <step num="0">Whisk together eggs, sugar and salt. </step>
+    <step num="1">Sift in flour and mix. Add melted butter and mix. </step>
+    <step num="2">Then gradually add the milk until no clumps remain. </step>
+    <step num="3">In a nonstick skillet over medium heat, pour ¼ cup (60 ml) of crepe batter, and tip the pan in a circular motion to cover the entire bottom surface. Cook until the bottom surface of crepe begins to brown, then flip. </step>
+    <step num="4">Repeat until all of the crepe batter is used. Cool crepes. </step>
+    <step num="5">Combine cream cheese and sugar and whisk. Add gelatin and whisk until smooth. </step>
+    <step num="6">Add whipped cream and mix well. </step>
+    <step num="7">Stack crepes on top of each other, with cream and fruits (strawberry, kiwi, banana) between each layer. </step>
+    <step num="8">Wrap cake in plastic. Refrigerate for 4 hours. </step>
+    <step num="9">Top with sifted powdered sugar (optional). </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk together eggs, sugar and salt. </steps_updated>
+    <steps_updated num="1">Sift in flour and mix. </steps_updated>
+    <steps_updated num="2">Add melted butter and mix. </steps_updated>
+    <steps_updated num="3">Then gradually add the milk until no clumps remain. </steps_updated>
+    <steps_updated num="4">In a nonstick skillet over medium heat, pour ¼ cup (60 ml) of crepe batter, and tip the pan in a circular motion to cover the entire bottom surface. </steps_updated>
+    <steps_updated num="5">Cook until the bottom surface of crepe begins to brown, then flip. </steps_updated>
+    <steps_updated num="6">Repeat until all of the crepe batter is used. </steps_updated>
+    <steps_updated num="7">Cool crepes. </steps_updated>
+    <steps_updated num="8">Combine cream cheese and sugar and whisk. </steps_updated>
+    <steps_updated num="9">Add gelatin and whisk until smooth. </steps_updated>
+    <steps_updated num="10">Add whipped cream and mix well. </steps_updated>
+    <steps_updated num="11">Stack crepes on top of each other, with cream and fruits (strawberry, kiwi, banana) between each layer. </steps_updated>
+    <steps_updated num="12">Wrap cake in plastic. </steps_updated>
+    <steps_updated num="13">Refrigerate for 4 hours. </steps_updated>
+    <steps_updated num="14">Top with sifted powdered sugar (optional). </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

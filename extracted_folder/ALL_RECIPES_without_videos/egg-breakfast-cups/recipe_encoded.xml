@@ -1,0 +1,47 @@
+<recipe>
+  <title>Egg Breakfast Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/egg-breakfast-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2933 13278 12708 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">2602 3962 </ingredient>
+    <ingredient num="4">9491 341 </ingredient>
+    <ingredient num="5">12384 341 11042 </ingredient>
+    <ingredient num="6">1466 10986 341 11042 </ingredient>
+    <ingredient num="7">8741 7777 669 2192 4772 </ingredient>
+    <ingredient num="8">109 14538 </ingredient>
+    <ingredient num="9">9784 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20779/low_1484351132.m3u8</low>
+    <high>https://vid.tasty.co/output/20779/mp4_720x1280/1484351132</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">10950 5994 8266 202 3930 11951 12708 1681 12119 2257 5292 </step>
+    <step num="2">10950 5994 2362 12841 2860 3345 12313 13218 1360 371 7105 669 10763 12841 1384 </step>
+    <step num="3">10242 10763 2605 1391 82 13817 12375 </step>
+    <step num="4">1083 11951 9917 12708 669 10763 12841 2605 1681 11951 881 12560 13751 11951 143 </step>
+    <step num="5">7831 7990 5527 11004 1681 9892 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">10950 5994 8266 202 3930 11951 12708 1681 12119 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">10950 5994 2362 12841 2860 3345 12313 13218 1360 371 7105 669 10763 12841 1384 </steps_updated>
+    <steps_updated num="4">10242 10763 2605 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="5">1083 11951 9917 12708 669 10763 12841 2605 1681 11951 881 12560 13751 11951 143 </steps_updated>
+    <steps_updated num="6">7831 7990 5527 11004 1681 9892 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

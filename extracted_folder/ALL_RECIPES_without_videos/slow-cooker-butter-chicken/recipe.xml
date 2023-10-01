@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Butter Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-butter-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; chicken breasts, chopped </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 tablespoon ; curry powder </ingredient>
+    <ingredient num="4">1 tablespoon ; garam masala </ingredient>
+    <ingredient num="5">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="6">1 ; onion, chopped </ingredient>
+    <ingredient num="7">4 ; garlic cloves, minced </ingredient>
+    <ingredient num="8">½ cup ; tomato puree ; (100 g) </ingredient>
+    <ingredient num="9">¾ cup ; natural yogurt ; (200 g) </ingredient>
+    <ingredient num="10">1 ⅔ cups ; coconut milk ; (400 mL) </ingredient>
+    <ingredient num="11">½ cup ; butter ; (100 g) </ingredient>
+    <ingredient num="12">rice, to serve </ingredient>
+    <ingredient num="13">coriander, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18496/low_1482170845.m3u8</low>
+    <high>https://vid.tasty.co/output/18496/mp4_720x1280/1482170845</high>
+  </video>
+  <steps>
+    <step num="0">In a slow cooker, throw in all the ingredients and mix to combine. </step>
+    <step num="1">Place the lid on and cook on high for 4 hours. </step>
+    <step num="2">Serve with rice and fresh coriander. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a slow cooker, throw in all the ingredients and mix to combine. </steps_updated>
+    <steps_updated num="1">Place the lid on and cook on high for 4 hours. </steps_updated>
+    <steps_updated num="2">Serve with rice and fresh coriander. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

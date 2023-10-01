@@ -1,0 +1,62 @@
+<recipe>
+  <title>Brussels Sprouts Au Gratin Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/brussels-sprouts-au-gratin</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/herb-salt-steak-brussel-sprout-gratin</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 7974 10907 3247 </ingredient>
+    <ingredient num="1">3917 13278 2192 11091 12384 341 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">13086 9486 13278 13521 890 </ingredient>
+    <ingredient num="4">3917 2605 13278 9889 10383 13278 7503 8007 </ingredient>
+    <ingredient num="5">3917 2605 13278 4168 11899 10383 13278 7503 5981 </ingredient>
+    <ingredient num="6">8580 643 13278 3333 1674 14538 13278 13125 5981 </ingredient>
+    <ingredient num="7">4061 13695 643 13278 14585 2431 109 13810 3247 13278 6518 5981 </ingredient>
+    <ingredient num="8">3855 12610 560 11567 </ingredient>
+    <ingredient num="9">8244 7632 7990 14389 </ingredient>
+    <ingredient num="10">3917 715 13278 6831 6298 5476 14432 13278 4563 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117244/hls24_1543452829.m3u8</low>
+    <high>https://vid.tasty.co/output/117244/landscape_720/1543452829</high>
+  </video>
+  <duration>
+    <start_time>76.0</start_time>
+    <end_time>150.733</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 11480 5578 </step>
+    <step num="1">10950 5994 13757 7110 6983 5965 9486 371 9924 11770 4531 2082 9179 11951 6334 13817 11384 13817 2550 1681 564 13817 12449 6285 2933 12689 </step>
+    <step num="2">9179 11951 374 5965 9486 371 9924 13817 11951 890 13817 8341 560 1011 5632 11951 7855 560 13757 13817 4861 8224 7990 8580 11004 1681 11951 890 9490 10963 2147 </step>
+    <step num="3">269 8341 210 11951 5802 13817 4168 4864 8785 11951 2373 560 5994 1002 13817 4861 560 8341 1681 7242 6285 13086 12689 </step>
+    <step num="4">6054 11951 2260 6781 7855 13817 8341 210 11951 7808 13817 8580 3927 9460 371 3220 14538 1681 2043 1311 10242 1391 82 560 8686 </step>
+    <step num="5">5954 5994 13757 10765 3830 1391 8244 7632 415 740 11951 10922 13863 1083 11951 2260 11770 11951 6057 13817 1678 1391 11951 374 3220 4496 </step>
+    <step num="6">7831 7990 5527 11004 1681 11951 2260 9490 12269 13817 506 </step>
+    <step num="7">12774 10316 </step>
+    <step num="8">9092 </step>
+    <step num="9">10326 4884 7818 8861 10922 9928 9932 8861 9022 13128 7426 1673 14346 5102 7660 513 14223 7426 3958 1797 5102 9718 3427 8580 5102 6421 8580 5102 12898 6735 221 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">10950 5994 13757 7110 6983 5965 9486 371 9924 11770 4531 2082 </steps_updated>
+    <steps_updated num="2">9179 11951 6334 13817 11384 13817 2550 1681 564 13817 12449 6285 2933 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 374 5965 9486 371 9924 13817 11951 890 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="4">5632 11951 7855 560 13757 13817 4861 8224 7990 8580 11004 1681 11951 890 9490 10963 2147 </steps_updated>
+    <steps_updated num="5">269 8341 210 11951 5802 13817 4168 4864 </steps_updated>
+    <steps_updated num="6">8785 11951 2373 560 5994 1002 13817 4861 560 8341 1681 7242 6285 13086 12689 </steps_updated>
+    <steps_updated num="7">6054 11951 2260 6781 7855 13817 8341 210 11951 7808 13817 8580 3927 9460 371 3220 14538 1681 2043 1311 </steps_updated>
+    <steps_updated num="8">10242 1391 82 560 8686 </steps_updated>
+    <steps_updated num="9">5954 5994 13757 10765 3830 1391 8244 7632 415 740 11951 10922 13863 </steps_updated>
+    <steps_updated num="10">1083 11951 2260 11770 11951 6057 13817 1678 1391 11951 374 3220 4496 </steps_updated>
+    <steps_updated num="11">7831 7990 5527 11004 1681 11951 2260 9490 12269 13817 506 </steps_updated>
+    <steps_updated num="12">12774 10316 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+    <steps_updated num="14">10326 4884 7818 8861 10922 9928 9932 8861 9022 13128 7426 1673 14346 5102 7660 513 14223 7426 3958 1797 5102 9718 3427 8580 5102 6421 8580 5102 12898 6735 221 </steps_updated>
+  </steps_updated>
+</recipe>

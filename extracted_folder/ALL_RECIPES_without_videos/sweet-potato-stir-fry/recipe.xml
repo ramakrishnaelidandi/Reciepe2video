@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato Stir Fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-stir-fry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 ½ cups ; sweet potato, thinly sliced ; (300 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ ; green bell pepper, diced </ingredient>
+    <ingredient num="4">½ ; red bell pepper, diced </ingredient>
+    <ingredient num="5">½ cup ; onion, diced ; (75 g) </ingredient>
+    <ingredient num="6">½ cup ; corn ; (66 g) </ingredient>
+    <ingredient num="7">½ cup ; black beans ; (85 g) </ingredient>
+    <ingredient num="8">½ teaspoon ; garlic, minced </ingredient>
+    <ingredient num="9">½ teaspoon ; cumin </ingredient>
+    <ingredient num="10">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="11">½ teaspoon ; oregano </ingredient>
+    <ingredient num="12">½ teaspoon ; pepper </ingredient>
+    <ingredient num="13">1 ; greek yogurt </ingredient>
+    <ingredient num="14">1 teaspoon ; cilantro, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13168/low_1477590437.m3u8</low>
+    <high>https://vid.tasty.co/output/13168/mp4_720x1280/1477590437</high>
+  </video>
+  <steps>
+    <step num="0">Heat olive oil in a large skillet on medium-high heat. Once pan is hot and ready, toss in the sweet potato and reduce heat to medium-low heat. Sprinkle in half of salt to season. </step>
+    <step num="1">Sauté sweet potato in the skillet for about 3-5 minutes, or until golden brown. </step>
+    <step num="2">Toss in green and red bell pepper and sauté for about a minute before adding the onion. Cook until transparent, then add garlic and the spices. </step>
+    <step num="3">Once veggies are evenly coated in the spices, add the corn and black beans, continuing to cook until corn and beans are heated through. Remove skillet from heat. </step>
+    <step num="4">Serve with brown rice or quinoa, and garnish with a dollop of plain greek yogurt and chopped cilantro. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil in a large skillet on medium-high heat. </steps_updated>
+    <steps_updated num="1">Once pan is hot and ready, toss in the sweet potato and reduce heat to medium-low heat. </steps_updated>
+    <steps_updated num="2">Sprinkle in half of salt to season. </steps_updated>
+    <steps_updated num="3">Sauté sweet potato in the skillet for about 3-5 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="4">Toss in green and red bell pepper and sauté for about a minute before adding the onion. </steps_updated>
+    <steps_updated num="5">Cook until transparent, then add garlic and the spices. </steps_updated>
+    <steps_updated num="6">Once veggies are evenly coated in the spices, add the corn and black beans, continuing to cook until corn and beans are heated through. </steps_updated>
+    <steps_updated num="7">Remove skillet from heat. </steps_updated>
+    <steps_updated num="8">Serve with brown rice or quinoa, and garnish with a dollop of plain greek yogurt and chopped cilantro. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

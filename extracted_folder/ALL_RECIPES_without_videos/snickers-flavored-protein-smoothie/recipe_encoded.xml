@@ -1,0 +1,50 @@
+<recipe>
+  <title>Snickers-flavored Protein Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snickers-flavored-protein-smoothie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 12347 9767 3713 13278 9018 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 638 5802 13278 2935 8007 </ingredient>
+    <ingredient num="2">1813 2605 13278 4680 8393 11703 13278 13125 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 7160 13798 9924 13278 13125 5981 </ingredient>
+    <ingredient num="4">3917 14014 13278 4384 9053 11703 </ingredient>
+    <ingredient num="5">8580 2031 13278 7841 329 6818 </ingredient>
+    <ingredient num="6">3917 1580 9517 13278 531 3954 5358 1762 11465 8212 7968 13278 10952 5981 </ingredient>
+    <ingredient num="7">7841 329 1285 7990 1288 2658 13218 </ingredient>
+    <ingredient num="8">7841 4680 1285 560 11567 </ingredient>
+    <ingredient num="9">3850 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31919/low_1495124920.m3u8</low>
+    <high>https://vid.tasty.co/output/31919/mp4_720x1280/1495124920</high>
+  </video>
+  <steps>
+    <step num="0">9179 10173 1100 9111 </step>
+    <step num="1">9179 638 9529 </step>
+    <step num="2">9179 4680 8393 785 </step>
+    <step num="3">9179 7160 13798 14057 </step>
+    <step num="4">9179 4384 9053 785 </step>
+    <step num="5">9179 7841 329 12911 </step>
+    <step num="6">9179 2439 8336 3954 7990 8212 14106 3693 1681 3145 8263 </step>
+    <step num="7">310 9560 560 10707 3482 11951 2826 1391 3850 329 1285 13817 4680 6818 560 8686 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 10173 1100 9111 </steps_updated>
+    <steps_updated num="1">9179 638 9529 </steps_updated>
+    <steps_updated num="2">9179 4680 8393 785 </steps_updated>
+    <steps_updated num="3">9179 7160 13798 14057 </steps_updated>
+    <steps_updated num="4">9179 4384 9053 785 </steps_updated>
+    <steps_updated num="5">9179 7841 329 12911 </steps_updated>
+    <steps_updated num="6">9179 2439 8336 3954 7990 8212 14106 </steps_updated>
+    <steps_updated num="7">3693 1681 3145 8263 </steps_updated>
+    <steps_updated num="8">310 9560 560 10707 3482 11951 2826 1391 3850 329 1285 13817 4680 6818 560 8686 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

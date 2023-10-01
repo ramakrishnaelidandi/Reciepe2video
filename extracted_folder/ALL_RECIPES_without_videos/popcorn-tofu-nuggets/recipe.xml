@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Popcorn Tofu Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/popcorn-tofu-nuggets</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-veggie-nuggets-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ cup ; vegan mayonnaise ; (180 g) </ingredient>
+    <ingredient num="1">¾ cup ; bread crumbs ; (85 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; nutritional yeast </ingredient>
+    <ingredient num="3">1 teaspoon ; paprika </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">14 oz ; tofu ; (395 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80217/hls24_1519234609.m3u8</low>
+    <high>https://vid.tasty.co/output/80217/landscape_720/1519234609</high>
+  </video>
+  <duration>
+    <start_time>92.333</start_time>
+    <end_time>130.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the mayonnaise to a small bowl. In another small bowl, combine the bread crumbs, nutritional yeast, paprika, and garlic powder. </step>
+    <step num="1">Preheat the oven to 400ºF (200ºC). </step>
+    <step num="2">Slice the tofu in half to form two thinner slabs. Wrap the tofu in paper towels and place a heavy object on top. Let drain for 10 minutes. </step>
+    <step num="3">Slice the drained tofu into cubes. </step>
+    <step num="4">Coat the tofu cubes in mayonnaise and then coat in bread crumb mixture. </step>
+    <step num="5">Place nuggets on a wire rack over a baking sheet. </step>
+    <step num="6">Bake for 40 minutes. </step>
+    <step num="7">Allow to cool 5 minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl combine bread crumbs, nutritional yeast, paprika, and garlic powder. </steps_updated>
+    <steps_updated num="1">Preheat the oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="2">Slice the tofu in half to form two thinner slabs. </steps_updated>
+    <steps_updated num="3">Wrap the tofu in paper towels and place a heavy object on top. </steps_updated>
+    <steps_updated num="4">Let drain for 10 minutes. </steps_updated>
+    <steps_updated num="5">Slice the drained tofu into cubes. </steps_updated>
+    <steps_updated num="6">Coat the tofu cubes in mayonnaise and then coat in bread crumb mixture. </steps_updated>
+    <steps_updated num="7">Place nuggets on a wire rack over a baking sheet. </steps_updated>
+    <steps_updated num="8">Bake for 40 minutes. </steps_updated>
+    <steps_updated num="9">Allow to cool 5 minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02255</start_time>
+    <end_time>03048</end_time>
+  </duration_human>
+</recipe>

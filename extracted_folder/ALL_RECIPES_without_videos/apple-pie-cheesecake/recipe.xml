@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; pie crusts </ingredient>
+    <ingredient num="1">24 oz ; cream cheese ; (680 g) </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">½ teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="6">½ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="7">3 ; eggs </ingredient>
+    <ingredient num="8">3 ; medium apples, peeled, cored and cubed </ingredient>
+    <ingredient num="9">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="10">⅓ cup ; sugar ; (65 g) </ingredient>
+    <ingredient num="11">1 teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="12">½ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="13">2 tablespoons ; cornstarch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57946/low_1508803850.m3u8</low>
+    <high>https://vid.tasty.co/output/57946/mp4_720x1280/1508803850</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 300˚F (150˚C). </step>
+    <step num="1">Line a springform pan with a pie crust, pressing it around the sides of the pan until smooth. </step>
+    <step num="2">In a medium bowl, beat the cream cheese, sugar, vanilla, cinnamon, and nutmeg until smooth. </step>
+    <step num="3">Add the sour cream and mix together. Add in one egg at a time, whisking until smooth. </step>
+    <step num="4">Pour mixture into the springform pan and bake for 1 hour and 15 minutes. </step>
+    <step num="5">After baking, turn off the oven and let the cheesecake cool inside for 1 hour without opening the oven door. </step>
+    <step num="6">Turn up the oven temperature to 425˚F (220˚C). </step>
+    <step num="7">In a saucepan, add the apples, sugar, cinnamon, nutmeg, cornstarch, and water over medium-low heat. Stir occasionally until apples are soft (about 10 minutes), then remove from heat. Let cool. </step>
+    <step num="8">Once cool, spread apple pie filling over cheesecake. </step>
+    <step num="9">Cut the other pie crust in to ¼-inch (6 mm) strips and make a lattice pattern across the top. </step>
+    <step num="10">Brush with egg wash. </step>
+    <step num="11">Bake for 25 minutes, until golden brown. </step>
+    <step num="12">Chill until set then serve. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 300˚F (150˚C). </steps_updated>
+    <steps_updated num="1">Line a springform pan with a pie crust, pressing it around the sides of the pan until smooth. </steps_updated>
+    <steps_updated num="2">In a medium bowl, beat the cream cheese, sugar, vanilla, cinnamon, and nutmeg until smooth. </steps_updated>
+    <steps_updated num="3">Add the sour cream and mix together. </steps_updated>
+    <steps_updated num="4">Add in one egg at a time, whisking until smooth. </steps_updated>
+    <steps_updated num="5">Pour mixture into the springform pan and bake for 1 hour and 15 minutes. </steps_updated>
+    <steps_updated num="6">After baking, turn off the oven and let the cheesecake cool inside for 1 hour without opening the oven door. </steps_updated>
+    <steps_updated num="7">Turn up the oven temperature to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="8">In a saucepan, add the apples, sugar, cinnamon, nutmeg, cornstarch, and water over medium-low heat. </steps_updated>
+    <steps_updated num="9">Stir occasionally until apples are soft (about 10 minutes), then remove from heat. </steps_updated>
+    <steps_updated num="10">Let cool. </steps_updated>
+    <steps_updated num="11">Once cool, spread apple pie filling over cheesecake. </steps_updated>
+    <steps_updated num="12">Cut the other pie crust in to ¼-inch (6 mm) strips and make a lattice pattern across the top. </steps_updated>
+    <steps_updated num="13">Brush with egg wash. </steps_updated>
+    <steps_updated num="14">Bake for 25 minutes, until golden brown. </steps_updated>
+    <steps_updated num="15">Chill until set then serve. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

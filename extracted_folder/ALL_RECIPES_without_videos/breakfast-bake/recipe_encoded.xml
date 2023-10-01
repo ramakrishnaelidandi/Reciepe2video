@@ -1,0 +1,61 @@
+<recipe>
+  <title>Breakfast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-bake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-recipes-using-pancake-mix</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 5766 </ingredient>
+    <ingredient num="1">3917 715 13278 7035 8421 11711 13817 341 13278 4563 5981 </ingredient>
+    <ingredient num="2">3917 13278 9491 341 </ingredient>
+    <ingredient num="3">3917 2605 13278 2340 12047 11588 3962 13278 757 5981 </ingredient>
+    <ingredient num="4">8580 9517 13278 2868 1960 1368 13278 12751 5981 </ingredient>
+    <ingredient num="5">8580 9517 13278 3333 9784 14538 13278 6898 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 2650 10968 13278 9373 5981 </ingredient>
+    <ingredient num="7">4061 13278 12708 </ingredient>
+    <ingredient num="8">8580 9517 13278 9889 371 6507 13278 6901 8007 </ingredient>
+    <ingredient num="9">1580 8071 13278 7845 </ingredient>
+    <ingredient num="10">12791 8071 13278 82 </ingredient>
+    <ingredient num="11">6293 1088 516 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65612/hls24_1512415315.m3u8</low>
+    <high>https://vid.tasty.co/output/65612/landscape_720/1512415315</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>54.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">5570 11951 7035 9491 13817 2340 210 2362 7112 6325 </step>
+    <step num="2">6252 1960 11777 13817 14538 4255 143 </step>
+    <step num="3">10950 5994 2597 14511 8341 3626 2650 3446 14463 9889 12610 13817 12375 </step>
+    <step num="4">1083 2650 2373 11770 11907 210 11951 7112 6325 </step>
+    <step num="5">7831 7990 7759 12689 </step>
+    <step num="6">1828 10694 7990 2933 8927 432 3044 </step>
+    <step num="7">13494 1391 10286 13817 8956 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">5570 11951 7035 9491 13817 2340 210 2362 7112 6325 </steps_updated>
+    <steps_updated num="2">6252 1960 11777 13817 14538 4255 143 </steps_updated>
+    <steps_updated num="3">10950 5994 2597 14511 8341 3626 2650 3446 14463 9889 12610 13817 12375 </steps_updated>
+    <steps_updated num="4">1083 2650 2373 11770 11907 210 11951 7112 6325 </steps_updated>
+    <steps_updated num="5">7831 7990 7759 12689 </steps_updated>
+    <steps_updated num="6">1828 10694 7990 2933 8927 432 3044 </steps_updated>
+    <steps_updated num="7">13494 1391 10286 13817 8956 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00047</start_time>
+    <end_time>01321</end_time>
+  </duration_human>
+</recipe>

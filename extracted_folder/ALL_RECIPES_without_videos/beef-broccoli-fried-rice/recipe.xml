@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef &amp; Broccoli Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-broccoli-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-make-fried-rice</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; flank steak, sliced into strips ; (455 g) </ingredient>
+    <ingredient num="1">¼ cup ; soy sauce, plus 3 tablespoons, divided </ingredient>
+    <ingredient num="2">2 tablespoons ; sesame oil, divided </ingredient>
+    <ingredient num="3">2 tablespoons ; minced garlic, divided </ingredient>
+    <ingredient num="4">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="5">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="6">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="7">2 teaspoons ; oil </ingredient>
+    <ingredient num="8">½ cup ; onion ; (75 g) </ingredient>
+    <ingredient num="9">1 cup ; broccoli floret </ingredient>
+    <ingredient num="10">3 ; eggs, beaten </ingredient>
+    <ingredient num="11">2 cups ; cooked white rice </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+    <ingredient num="13">sliced scallions, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49619/low_1503937699.m3u8</low>
+    <high>https://vid.tasty.co/output/49619/mp4_720x1280/1503937699</high>
+  </video>
+  <duration>
+    <start_time>48.22</start_time>
+    <end_time>105.31</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour ¼ cup soy sauce, 1 tablespoon sesame oil, 1 tablespoon of garlic, the brown sugar, water, and cornstarch over the sliced flank steak. Mix well, then let marinate in the refrigerator for at least 1 hour. </step>
+    <step num="1">In a wok or deep skillet, cook the beef and marinade thoroughly, then set aside. </step>
+    <step num="2">In the same pan, heat the oil over medium heat. Sauté the onion, remaining tablespoon of garlic, and broccoli until the onion is translucent. Push the cooked vegetables to the side of the pan. </step>
+    <step num="3">Beat the eggs and pour into the empty half of the pan. Scramble the eggs and mix with the rest of the vegetables. </step>
+    <step num="4">Add the rice, remaining 3 tablespoons of soy sauce, remaining tablespoon of sesame oil, pepper, and the cooked beef. Mix well and let the rice cook until slightly crispy. </step>
+    <step num="5">Serve garnished with scallions. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour soy sauce, sesame oil, garlic, brown sugar, water, and cornstarch over the strips of beef. </steps_updated>
+    <steps_updated num="1">Mix well, and marinate in the refrigerator for at least an hour. </steps_updated>
+    <steps_updated num="2">In a wok or deep skillet, cook the beef in the marinade thoroughly and set aside. </steps_updated>
+    <steps_updated num="3">In the same pan, heat up the oil and cook onions, garlic, and broccoli until onions are translucent. </steps_updated>
+    <steps_updated num="4">Push all of the cooked vegetables to the side of the pan. </steps_updated>
+    <steps_updated num="5">Beat the eggs and pour into the cleared half of the pan. </steps_updated>
+    <steps_updated num="6">Scramble the eggs and mix with the rest of the vegetables. </steps_updated>
+    <steps_updated num="7">Add rice, soy sauce, sesame oil, pepper, and cooked beef. </steps_updated>
+    <steps_updated num="8">Mix well and let the rice cook until slightly crispy. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01503</start_time>
+    <end_time>03181</end_time>
+  </duration_human>
+</recipe>

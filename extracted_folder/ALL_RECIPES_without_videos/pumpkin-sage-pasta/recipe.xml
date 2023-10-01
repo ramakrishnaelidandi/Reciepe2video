@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pumpkin Sage Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pumpkin-sage-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-use-canned-pumpkin</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; cooking oil, of preference </ingredient>
+    <ingredient num="1">½ ; white onion, diced </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">½ teaspoon ; red pepper flakes, optional </ingredient>
+    <ingredient num="4">½ teaspoon ; dried sage </ingredient>
+    <ingredient num="5">1 ½ cups ; almond milk ; (360 mL) </ingredient>
+    <ingredient num="6">15 oz ; pumpkin puree ; (425 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">1 teaspoon ; pepper </ingredient>
+    <ingredient num="9">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="10">½ box ; whole wheat pasta, cooked </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56214/low_1507921547.m3u8</low>
+    <high>https://vid.tasty.co/output/56214/mp4_720x1280/1507921547</high>
+  </video>
+  <duration>
+    <start_time>51.04</start_time>
+    <end_time>79.88</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the oil in a medium pot over medium heat. Add the onion, garlic, red pepper flakes, and dried sage and cook until onions are translucent, stirring occasionally. </step>
+    <step num="1">Add the almond milk, pumpkin puree, salt, pepper, and nutmeg. Stir until a smooth, creamy sauce forms. Heat through. </step>
+    <step num="2">Add the cooked pasta and and stir to coat. </step>
+    <step num="3">Serve warm. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium pot over medium heat, add the oil, onion, garlic, red pepper flakes, and dried sage and cook until onions are translucent, stirring occasionally. </steps_updated>
+    <steps_updated num="1">Add almond milk, pumpkin, salt, pepper, and nutmeg. </steps_updated>
+    <steps_updated num="2">Combine until a smooth, creamy sauce forms. </steps_updated>
+    <steps_updated num="3">Allow to heat through. </steps_updated>
+    <steps_updated num="4">Add prepared pasta and combine. </steps_updated>
+    <steps_updated num="5">Serve hot. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01583</start_time>
+    <end_time>02406</end_time>
+  </duration_human>
+</recipe>

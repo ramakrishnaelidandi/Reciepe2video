@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ice Cream Sandwich Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-sandwich-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; ice cream sandwiches </ingredient>
+    <ingredient num="1">2 pt ; chocolate ice cream, softened ; (690 g) </ingredient>
+    <ingredient num="2">8 oz ; whipped topping, 1 container ; (225 g) </ingredient>
+    <ingredient num="3">12 ; sandwich cookies, crushed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31693/low_1494971789.m3u8</low>
+    <high>https://vid.tasty.co/output/31693/mp4_720x1280/1494971789</high>
+  </video>
+  <steps>
+    <step num="0">In an 8x8-inch (20x20 cm) square baking dish, place a layer of ice cream sandwiches in aluminum foil-covered dish. </step>
+    <step num="1">Top layer of sandwiches with a layer of chocolate ice cream. </step>
+    <step num="2">Add another layer of ice cream sandwiches, and another layer of chocolate ice cream. </step>
+    <step num="3">Freeze for 1 hour. </step>
+    <step num="4">Crush sandwich cookies in a resealable bag. </step>
+    <step num="5">For the icing, combine the crushed sandwich cookies and whipped topping until well mixed. </step>
+    <step num="6">Cover frozen cake with topping. </step>
+    <step num="7">Garnish with more crushed sandwich cookies and serve immediately or freeze. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In an 8x8-inch (20x20 cm) square baking dish, place a layer of ice cream sandwiches in aluminum foil-covered dish. </steps_updated>
+    <steps_updated num="1">Top layer of sandwiches with a layer of chocolate ice cream. </steps_updated>
+    <steps_updated num="2">Add another layer of ice cream sandwiches, and another layer of chocolate ice cream. </steps_updated>
+    <steps_updated num="3">Freeze for 1 hour. </steps_updated>
+    <steps_updated num="4">Crush sandwich cookies in a resealable bag. </steps_updated>
+    <steps_updated num="5">For the icing, combine the crushed sandwich cookies and whipped topping until well mixed. </steps_updated>
+    <steps_updated num="6">Cover frozen cake with topping. </steps_updated>
+    <steps_updated num="7">Garnish with more crushed sandwich cookies and serve immediately or freeze. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

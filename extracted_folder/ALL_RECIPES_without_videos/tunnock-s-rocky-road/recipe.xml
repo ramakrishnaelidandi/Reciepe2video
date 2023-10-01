@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tunnock's Rocky Road Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tunnock-s-rocky-road</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; tunnock's teacakes </ingredient>
+    <ingredient num="1">1 ¼ cups ; milk chocolate ; (200 g) </ingredient>
+    <ingredient num="2">10 ½ oz ; digestive biscuit, 1 pack ; (300 g) </ingredient>
+    <ingredient num="3">½ cup ; butter ; (135 g) </ingredient>
+    <ingredient num="4">4 tablespoons ; golden syrup </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32084/low_1495125357.m3u8</low>
+    <high>https://vid.tasty.co/output/32084/mp4_720x1280/1495125357</high>
+  </video>
+  <steps>
+    <step num="0">Slice six teacakes into eighths and set aside. </step>
+    <step num="1">Crush digestives in ziplock bag and set aside. </step>
+    <step num="2">Melt the butter, chocolate and golden syrup in a bowl placed over a pan of simmering water. </step>
+    <step num="3">Pour digestives and teacakes into the melted chocolate mix and stir together. </step>
+    <step num="4">Pour into a lined tray and refrigerate for 2 hours. </step>
+    <step num="5">Slice into segments. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice six teacakes into eighths and set aside. </steps_updated>
+    <steps_updated num="1">Crush digestives in ziplock bag and set aside. </steps_updated>
+    <steps_updated num="2">Melt the butter, chocolate and golden syrup in a bowl placed over a pan of simmering water. </steps_updated>
+    <steps_updated num="3">Pour digestives and teacakes into the melted chocolate mix and stir together. </steps_updated>
+    <steps_updated num="4">Pour into a lined tray and refrigerate for 2 hours. </steps_updated>
+    <steps_updated num="5">Slice into segments. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

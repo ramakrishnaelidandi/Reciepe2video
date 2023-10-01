@@ -1,0 +1,61 @@
+<recipe>
+  <title>Tuscan White Beans Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tuscan-white-beans</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-stress-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">8244 7632 560 11567 </ingredient>
+    <ingredient num="1">1580 13278 2597 11091 12384 341 </ingredient>
+    <ingredient num="2">3917 2605 13278 9325 341 13278 3433 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 9954 9491 6124 13278 11953 5981 </ingredient>
+    <ingredient num="4">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">13133 643 13278 4617 12690 5895 6311 13829 8580 11502 4980 13817 6124 13278 13345 5981 </ingredient>
+    <ingredient num="6">13133 643 13278 814 9491 3917 14138 13278 13345 5981 </ingredient>
+    <ingredient num="7">13133 643 13278 1656 2346 3917 9067 6124 13278 13345 5981 </ingredient>
+    <ingredient num="8">8580 9486 13278 3352 10769 </ingredient>
+    <ingredient num="9">3917 14014 13278 9586 </ingredient>
+    <ingredient num="10">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="11">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="12">12610 560 11567 </ingredient>
+    <ingredient num="13">10986 560 11567 </ingredient>
+    <ingredient num="14">6209 749 1088 516 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85393/hls24_1521485033.m3u8</low>
+    <high>https://vid.tasty.co/output/85393/landscape_720/1521485033</high>
+  </video>
+  <duration>
+    <start_time>58.5</start_time>
+    <end_time>112.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 10060 11770 13757 14307 740 11951 8244 7632 12384 13817 13421 264 2933 11004 5895 1681 11951 6334 10586 560 837 6470 </step>
+    <step num="1">9179 11951 9954 717 13817 1937 12473 13817 2550 7990 6646 13086 11004 5895 1681 11564 </step>
+    <step num="2">9179 11951 4617 13829 814 7042 1656 355 3352 4450 14240 11227 5040 12610 13817 12375 12473 560 1011 4660 13817 2864 11951 7855 560 11813 1828 2550 7990 13767 11004 13328 13377 </step>
+    <step num="3">13688 1391 6209 6250 13817 8956 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 10060 11770 13757 14307 740 11951 8244 7632 12384 13817 13421 </steps_updated>
+    <steps_updated num="1">264 2933 11004 5895 1681 11951 6334 10586 560 837 6470 </steps_updated>
+    <steps_updated num="2">9179 11951 9954 717 13817 1937 </steps_updated>
+    <steps_updated num="3">12473 13817 2550 7990 6646 13086 11004 5895 1681 11564 </steps_updated>
+    <steps_updated num="4">9179 11951 4617 13829 814 7042 1656 355 3352 4450 14240 11227 5040 12610 13817 12375 </steps_updated>
+    <steps_updated num="5">12473 560 1011 </steps_updated>
+    <steps_updated num="6">4660 13817 2864 11951 7855 560 11813 </steps_updated>
+    <steps_updated num="7">1828 2550 7990 13767 11004 13328 13377 </steps_updated>
+    <steps_updated num="8">13688 1391 6209 6250 13817 8956 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01448</start_time>
+    <end_time>02712</end_time>
+  </duration_human>
+</recipe>

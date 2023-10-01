@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>20-Minute One-Pan Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/20-minute-one-pan-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; warm water ; (120 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">⅔ cup ; all purpose flour ; (85 g) </ingredient>
+    <ingredient num="3">½ teaspoon ; sugar </ingredient>
+    <ingredient num="4">½ teaspoon ; instant yeast </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">½ cup ; marinara sauce ; (130 g) </ingredient>
+    <ingredient num="7">2 cups ; shredded mozzarella cheese ; (200 g) </ingredient>
+    <ingredient num="8">½ cup ; pepperoni slices ; (75 g) </ingredient>
+    <ingredient num="9">fresh basil, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110562/hls24_1538073269.m3u8</low>
+    <high>https://vid.tasty.co/output/110562/landscape_720/1538073269</high>
+  </video>
+  <steps>
+    <step num="0">In a large nonstick pan, combine the warm water, olive oil, flour, sugar, yeast, and salt. Use a spatula to stir the ingredients, then smooth the dough to the edges of the pan. </step>
+    <step num="1">Spread the marinara sauce over the dough, all the way to the edges. Sprinkle the mozzarella evenly over the sauce, then top with the pepperoni. </step>
+    <step num="2">Place over medium heat, cover, and cook for 10 minutes with the vent covered. </step>
+    <step num="3">Uncover the vent and cook for 5 more minutes, until the edges are crispy. </step>
+    <step num="4">Slide the pizza out of the pan onto a cutting board and let cool for 5 minutes. </step>
+    <step num="5">Sprinkle with basil, then slice and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large nonstick pan, combine the warm water, olive oil, flour, sugar, yeast, and salt. </steps_updated>
+    <steps_updated num="1">Use a spatula to stir the ingredients, then smooth the dough to the edges of the pan. </steps_updated>
+    <steps_updated num="2">Spread the marinara sauce over the dough, all the way to the edges. </steps_updated>
+    <steps_updated num="3">Sprinkle the mozzarella evenly over the sauce, then top with the pepperoni. </steps_updated>
+    <steps_updated num="4">Place over medium heat, cover, and cook for 10 minutes with the vent covered. </steps_updated>
+    <steps_updated num="5">Uncover the vent and cook for 5 more minutes, until the edges are crispy. </steps_updated>
+    <steps_updated num="6">Slide the pizza out of the pan onto a cutting board and let cool for 5 minutes. </steps_updated>
+    <steps_updated num="7">Sprinkle with basil, then slice and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Horchata Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/horchata-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; rice, uncooked ; (190 g) </ingredient>
+    <ingredient num="1">½ cup ; sliced almonds ; (50 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="3">½ tablespoon ; vanilla extract </ingredient>
+    <ingredient num="4">12 oz ; evaporated milk ; (350 mL) </ingredient>
+    <ingredient num="5">1 ½ cups ; almond milk ; (360 mL) </ingredient>
+    <ingredient num="6">4 cups ; water ; (1 L) </ingredient>
+    <ingredient num="7">6 oz ; condensed milk ; (175 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94896/hls24_1526678129.m3u8</low>
+    <high>https://vid.tasty.co/output/94896/landscape_720/1526678129</high>
+  </video>
+  <steps>
+    <step num="0">In a blender, combine rice, almonds, and 1 cinnamon stick. Blend until rice is just broken up. Transfer rice mixture to bowl, soak in water overnight or at least 3 hours. </step>
+    <step num="1">Strain rice mixture and reserve water. In a blender, combine rice mixture and evaporated milk. Blend until smooth. Strain resulting liquid, discard remnants. Whisk in condensed milk and vanilla. Add almond milk and reserved rice water. </step>
+    <step num="2">Pour horchata into popsicle mold. Freeze for 6 hours or until frozen. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine rice, almonds, and 1 cinnamon stick. </steps_updated>
+    <steps_updated num="1">Blend until rice is just broken up. </steps_updated>
+    <steps_updated num="2">Transfer rice mixture to bowl, soak in water overnight or at least 3 hours. </steps_updated>
+    <steps_updated num="3">Strain rice mixture and reserve water. </steps_updated>
+    <steps_updated num="4">In a blender, combine rice mixture and evaporated milk. </steps_updated>
+    <steps_updated num="5">Blend until smooth. </steps_updated>
+    <steps_updated num="6">Strain resulting liquid, discard remnants. </steps_updated>
+    <steps_updated num="7">Whisk in condensed milk and vanilla. </steps_updated>
+    <steps_updated num="8">Add almond milk and reserved rice water. </steps_updated>
+    <steps_updated num="9">Pour horchata into popsicle mold. </steps_updated>
+    <steps_updated num="10">Freeze for 6 hours or until frozen. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

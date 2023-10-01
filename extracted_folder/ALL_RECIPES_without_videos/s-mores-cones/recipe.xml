@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>S'mores Cones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/s-mores-cones</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">waffle cone </ingredient>
+    <ingredient num="1">peanut butter, smooth or crunchy </ingredient>
+    <ingredient num="2">mini marshmallows </ingredient>
+    <ingredient num="3">chocolate chips </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">picnic</category>
+    <category num="7">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31975/low_1495124987.m3u8</low>
+    <high>https://vid.tasty.co/output/31975/mp4_720x1280/1495124987</high>
+  </video>
+  <steps>
+    <step num="0">Line the inside of a waffle cone with peanut butter. </step>
+    <step num="1">Fill with mini marshmallows and chocolate chips. </step>
+    <step num="2">Wrap in aluminum foil. </step>
+    <step num="3">Place on a grill and cover for 2 minutes, flip at the 1 minute mark. </step>
+    <step num="4">Remove with tongs and let cool. </step>
+    <step num="5">Unwrap foil and remove cone. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Line the inside of a waffle cone with peanut butter. </steps_updated>
+    <steps_updated num="1">Fill with mini marshmallows and chocolate chips. </steps_updated>
+    <steps_updated num="2">Wrap in aluminum foil. </steps_updated>
+    <steps_updated num="3">Place on a grill and cover for 2 minutes, flip at the 1 minute mark. </steps_updated>
+    <steps_updated num="4">Remove with tongs and let cool. </steps_updated>
+    <steps_updated num="5">Unwrap foil and remove cone. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

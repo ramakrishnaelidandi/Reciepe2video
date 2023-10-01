@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shrimp Boil Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-shrimp-boil</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; coriander seed </ingredient>
+    <ingredient num="1">2 tablespoons ; mustard seed </ingredient>
+    <ingredient num="2">1 tablespoon ; red pepper flakes </ingredient>
+    <ingredient num="3">1 tablespoon ; dill weed </ingredient>
+    <ingredient num="4">1 tablespoon ; allspice </ingredient>
+    <ingredient num="5">1 tablespoon ; salt </ingredient>
+    <ingredient num="6">3 ; dried bay leaves </ingredient>
+    <ingredient num="7">3 qt ; water ; (3 L) </ingredient>
+    <ingredient num="8">8 ; small red skin potatoes </ingredient>
+    <ingredient num="9">3 ears ; corn, cut into thirds </ingredient>
+    <ingredient num="10">4 ; smoked sausages, such as kielbasa, cut into rounds </ingredient>
+    <ingredient num="11">2 lb ; shell-on shrimp ; (905 g) </ingredient>
+    <ingredient num="12">Juice of 1 lemon </ingredient>
+    <ingredient num="13">fresh parsley, chopped </ingredient>
+    <ingredient num="14">cocktail sauce, to serve </ingredient>
+    <ingredient num="15">butter, melted, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43796/low_1500316611.m3u8</low>
+    <high>https://vid.tasty.co/output/43796/mp4_720x1280/1500316611</high>
+  </video>
+  <steps>
+    <step num="0">Combine all the spice mix ingredients in a small bowl and mix well. </step>
+    <step num="1">Add the spice mix, bay leaves and water in a large pot and add the potatoes. </step>
+    <step num="2">Bring to a boil and 15 minutes. </step>
+    <step num="3">Add the corn and boil for 10 minutes. </step>
+    <step num="4">Add the sausage and cook for another 5 minutes. </step>
+    <step num="5">Take out a potato from the pot and check to see if it’s fully cooked. If not, cook until potatoes are fully cooked. </step>
+    <step num="6">Stir in the shrimp and lemon juice, place the lid on the pot. Cook for 3 minutes. </step>
+    <step num="7">Drain the shrimp and serve with cocktail sauce and melted butter with garlic and parsley. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine all the spice mix ingredients in a small bowl and mix well. </steps_updated>
+    <steps_updated num="1">Add the spice mix, bay leaves and water in a large pot and add the potatoes. </steps_updated>
+    <steps_updated num="2">Bring to a boil and 15 minutes. </steps_updated>
+    <steps_updated num="3">Add the corn and boil for 10 minutes. </steps_updated>
+    <steps_updated num="4">Add the sausage and cook for another 5 minutes. </steps_updated>
+    <steps_updated num="5">Take out a potato from the pot and check to see if it’s fully cooked. </steps_updated>
+    <steps_updated num="6">If not, cook until potatoes are fully cooked. </steps_updated>
+    <steps_updated num="7">Stir in the shrimp and lemon juice, place the lid on the pot. </steps_updated>
+    <steps_updated num="8">Cook for 3 minutes. </steps_updated>
+    <steps_updated num="9">Drain the shrimp and serve with cocktail sauce and melted butter with garlic and parsley. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

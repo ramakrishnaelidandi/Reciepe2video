@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey-Glazed Fried Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-glazed-fried-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; chicken drumsticks </ingredient>
+    <ingredient num="1">4 ; chicken thighs </ingredient>
+    <ingredient num="2">8 cups ; water ; (1.9 L) </ingredient>
+    <ingredient num="3">¾ cup ; apple cider vinegar ; (180 mL) </ingredient>
+    <ingredient num="4">3 tablespoons ; salt </ingredient>
+    <ingredient num="5">lemon pepper, to taste </ingredient>
+    <ingredient num="6">onion powder, to taste </ingredient>
+    <ingredient num="7">garlic powder, to taste </ingredient>
+    <ingredient num="8">seasoned salt, to taste </ingredient>
+    <ingredient num="9">3 cups ; flour ; (375 g) </ingredient>
+    <ingredient num="10">2 ; eggs </ingredient>
+    <ingredient num="11">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="12">2 tablespoons ; hot sauce </ingredient>
+    <ingredient num="13">¼ cup ; honey ; (85 mL) </ingredient>
+    <ingredient num="14">2 tablespoons ; water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25127/low_1488324828.m3u8</low>
+    <high>https://vid.tasty.co/output/25127/mp4_720x1280/1488324828</high>
+  </video>
+  <steps>
+    <step num="0">In a large glass bowl, combine water, vinegar, and salt, mixing until some salt is dissolved. Add chicken, cover, and refrigerate for 2-8 hours. </step>
+    <step num="1">In a medium bowl, combine eggs, milk, and hot sauce to create the egg wash. </step>
+    <step num="2">Add flour to bowl and set aside. </step>
+    <step num="3">Remove chicken from brine, place in bowl and season. </step>
+    <step num="4">Transfer chicken to egg wash then the flour, coating evenly. </step>
+    <step num="5">Fry chicken in a large cast-iron pan for 10-15 minutes on each side. </step>
+    <step num="6">Place chicken on drying rack and let cool for 5 minutes. </step>
+    <step num="7">Mix honey and water together and lightly brush each piece of chicken. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large glass bowl, combine water, vinegar, and salt, mixing until some salt is dissolved. </steps_updated>
+    <steps_updated num="1">Add chicken, cover, and refrigerate for 2-8 hours. </steps_updated>
+    <steps_updated num="2">In a medium bowl, combine eggs, milk, and hot sauce to create the egg wash. </steps_updated>
+    <steps_updated num="3">Add flour to bowl and set aside. </steps_updated>
+    <steps_updated num="4">Remove chicken from brine, place in bowl and season. </steps_updated>
+    <steps_updated num="5">Transfer chicken to egg wash then the flour, coating evenly. </steps_updated>
+    <steps_updated num="6">Fry chicken in a large cast-iron pan for 10-15 minutes on each side. </steps_updated>
+    <steps_updated num="7">Place chicken on drying rack and let cool for 5 minutes. </steps_updated>
+    <steps_updated num="8">Mix honey and water together and lightly brush each piece of chicken. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

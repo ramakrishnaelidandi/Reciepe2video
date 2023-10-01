@@ -1,0 +1,48 @@
+<recipe>
+  <title>Weekday Lunch Kit Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/weekday-lunch-kit</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 643 13278 976 1358 13355 13278 6518 5981 </ingredient>
+    <ingredient num="1">1580 13278 10837 976 </ingredient>
+    <ingredient num="2">8580 643 13278 9784 13810 976 13278 13412 5981 </ingredient>
+    <ingredient num="3">12496 12589 10882 2868 1928 </ingredient>
+    <ingredient num="4">13086 9486 13278 6097 8083 7845 11384 2442 7734 9412 </ingredient>
+    <ingredient num="5">8580 13278 8083 5016 13643 3962 </ingredient>
+    <ingredient num="6">3917 3173 13278 11384 </ingredient>
+    <ingredient num="7">13086 9486 13278 8244 7632 3247 </ingredient>
+    <ingredient num="8">8580 9486 13278 11067 11911 3962 </ingredient>
+    <ingredient num="9">8580 9486 13278 6209 11227 3962 </ingredient>
+    <ingredient num="10">1580 13278 5516 3701 </ingredient>
+    <ingredient num="11">12610 560 11567 </ingredient>
+    <ingredient num="12">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24092/low_1487203661.m3u8</low>
+    <high>https://vid.tasty.co/output/24092/mp4_720x1280/1487203661</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 1346 5386 </step>
+    <step num="1">10450 10359 8083 7845 2442 7777 11951 10707 10147 3482 5994 3173 371 11384 13817 3345 210 5994 10765 3830 5895 6684 10060 1391 11951 3962 12963 1594 1391 3917 14014 371 11951 8244 5766 13817 12616 1391 82 13817 12375 2024 210 10439 7990 3917 5664 </step>
+    <step num="2">9956 13473 4120 2986 13817 4155 11911 11227 13817 597 10522 210 5994 8016 9909 5895 12095 10376 12723 4189 210 374 8580 9486 371 8244 14158 </step>
+    <step num="3">4080 7990 7811 767 3917 14187 5895 3386 560 14142 </step>
+    <step num="4">6695 5846 10837 9784 13810 8083 7845 11434 13817 939 9493 16 219 1928 2658 13218 210 5994 7354 8016 1854 2356 1681 12550 560 10215 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 1346 5386 </steps_updated>
+    <steps_updated num="1">10450 10359 8083 7845 2442 7777 11951 10707 10147 3482 5994 3173 371 11384 13817 3345 210 5994 10765 3830 5895 6684 10060 1391 11951 3962 12963 </steps_updated>
+    <steps_updated num="2">1594 1391 3917 14014 371 11951 8244 5766 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">2024 210 10439 7990 3917 5664 </steps_updated>
+    <steps_updated num="4">9956 13473 4120 2986 13817 4155 11911 11227 13817 597 10522 210 5994 8016 9909 5895 12095 </steps_updated>
+    <steps_updated num="5">10376 12723 4189 210 374 8580 9486 371 8244 14158 </steps_updated>
+    <steps_updated num="6">4080 7990 7811 767 3917 14187 5895 3386 560 14142 </steps_updated>
+    <steps_updated num="7">6695 5846 10837 9784 13810 8083 7845 11434 13817 939 9493 16 219 1928 2658 13218 210 5994 7354 8016 1854 </steps_updated>
+    <steps_updated num="8">2356 1681 12550 560 10215 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

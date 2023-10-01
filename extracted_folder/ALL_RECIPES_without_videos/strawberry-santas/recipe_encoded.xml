@@ -1,0 +1,39 @@
+<recipe>
+  <title>Strawberry Santas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-santas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 5228 13278 13098 11579 217 9316 13700 5358 6209 12573 11155 3249 </ingredient>
+    <ingredient num="1">3917 8134 13278 1289 5895 2726 279 13033 7990 5994 12215 479 </ingredient>
+    <ingredient num="2">1459 4680 10803 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32206/low_1495125500.m3u8</low>
+    <high>https://vid.tasty.co/output/32206/mp4_720x1280/1495125500</high>
+  </video>
+  <steps>
+    <step num="0">3235 11951 4091 3482 11951 13873 560 3535 5994 7868 12605 7990 3755 560 1788 11827 3235 11951 1803 3482 11951 6114 560 772 11951 7186 </step>
+    <step num="1">13886 8177 10209 5895 279 13033 4255 11951 13098 13817 12944 11951 13823 </step>
+    <step num="2">8020 11951 12886 1391 5994 14361 12954 </step>
+    <step num="3">9179 11951 1459 4680 11318 7990 9699 </step>
+    <step num="4">13858 13914 12573 652 13817 3113 560 5648 7171 6823 9815 7990 10356 13817 8172 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 4091 3482 11951 13873 560 3535 5994 7868 12605 7990 3755 560 1788 11827 </steps_updated>
+    <steps_updated num="1">3235 11951 1803 3482 11951 6114 560 772 11951 7186 </steps_updated>
+    <steps_updated num="2">13886 8177 10209 5895 279 13033 4255 11951 13098 13817 12944 11951 13823 </steps_updated>
+    <steps_updated num="3">8020 11951 12886 1391 5994 14361 12954 </steps_updated>
+    <steps_updated num="4">9179 11951 1459 4680 11318 7990 9699 </steps_updated>
+    <steps_updated num="5">13858 13914 12573 652 13817 3113 560 5648 7171 </steps_updated>
+    <steps_updated num="6">6823 9815 7990 10356 13817 8172 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

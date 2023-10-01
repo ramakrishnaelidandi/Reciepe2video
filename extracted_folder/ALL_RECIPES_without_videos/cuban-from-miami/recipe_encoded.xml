@@ -1,0 +1,49 @@
+<recipe>
+  <title>Cuban From Miami Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cuban-from-miami</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">2379 4465 </ingredient>
+    <ingredient num="1">4061 8535 13278 10882 12868 </ingredient>
+    <ingredient num="2">13086 8535 13278 3025 6097 5234 </ingredient>
+    <ingredient num="3">2933 8535 13278 10847 14538 </ingredient>
+    <ingredient num="4">11091 6422 </ingredient>
+    <ingredient num="5">125 10791 </ingredient>
+    <ingredient num="6">9924 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>23.0</start_time>
+    <end_time>57.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 3482 11951 672 371 11951 7701 2071 415 12205 210 8467 </step>
+    <step num="1">9179 5920 415 7489 415 10720 415 13810 415 9849 415 3345 11951 13070 4255 143 </step>
+    <step num="2">5570 11951 125 4255 5687 5895 12352 11770 9721 2082 11881 10707 1391 5335 14057 </step>
+    <step num="3">8724 11951 125 1391 5994 8925 1271 5895 5358 1762 953 11628 5994 14484 11003 5994 8640 10083 5895 4844 3830 13817 1623 7584 </step>
+    <step num="4">264 5966 8927 4255 10763 11801 5895 1681 10963 1368 13817 14538 9490 1311 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 3482 11951 672 371 11951 7701 2071 415 12205 210 8467 </steps_updated>
+    <steps_updated num="1">9179 5920 415 7489 415 10720 415 13810 415 9849 415 3345 11951 13070 4255 143 </steps_updated>
+    <steps_updated num="2">5570 11951 125 4255 5687 5895 12352 11770 9721 2082 </steps_updated>
+    <steps_updated num="3">11881 10707 1391 5335 14057 </steps_updated>
+    <steps_updated num="4">8724 11951 125 1391 5994 8925 1271 5895 5358 1762 953 11628 5994 14484 11003 5994 8640 10083 5895 4844 3830 13817 1623 7584 </steps_updated>
+    <steps_updated num="5">264 5966 8927 4255 10763 11801 5895 1681 10963 1368 13817 14538 9490 1311 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00745</start_time>
+    <end_time>01740</end_time>
+  </duration_human>
+</recipe>

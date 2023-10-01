@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Meathead Charcuterie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meathead-charcuterie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">prosciutto </ingredient>
+    <ingredient num="1">pickled olive </ingredient>
+    <ingredient num="2">plastic skull </ingredient>
+    <ingredient num="3">plastic wrap </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Casual Party</category>
+    <category num="1">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">Cover a plastic skull with plastic food wrap. </step>
+    <step num="1">Use thin slices of prosciutto to cover the plastic skull. Leave the eye sockets, nose hole and teeth uncovered. </step>
+    <step num="2">Carefully make an incision on the plastic around the eye sockets. Insert pickled olives in the sockets to create the eyes. </step>
+    <step num="3">Place the meathead on a platter and add cheese and crackers. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cover a plastic skull with plastic food wrap. </steps_updated>
+    <steps_updated num="1">Use thin slices of prosciutto to cover the plastic skull. </steps_updated>
+    <steps_updated num="2">Leave the eye sockets, nose hole and teeth uncovered. </steps_updated>
+    <steps_updated num="3">Carefully make an incision on the plastic around the eye sockets. </steps_updated>
+    <steps_updated num="4">Insert pickled olives in the sockets to create the eyes. </steps_updated>
+    <steps_updated num="5">Place the meathead on a platter and add cheese and crackers. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

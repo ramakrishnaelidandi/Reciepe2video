@@ -1,0 +1,46 @@
+<recipe>
+  <title>Cauliflower Fritter Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-fritter</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 10426 13278 5065 5981 </ingredient>
+    <ingredient num="1">8580 2031 13278 82 </ingredient>
+    <ingredient num="2">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="3">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">1580 2605 13278 12384 3962 13278 3433 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 6209 11911 3962 13278 12237 5981 </ingredient>
+    <ingredient num="6">1580 2605 13278 2168 6467 7789 3274 2168 890 7990 13715 13278 13125 5981 </ingredient>
+    <ingredient num="7">1813 2605 13278 2431 109 14538 13278 4239 5981 </ingredient>
+    <ingredient num="8">3917 13278 6216 </ingredient>
+    <ingredient num="9">11292 1404 560 11567 </ingredient>
+    <ingredient num="10">7632 7990 5291 </ingredient>
+    <ingredient num="11">1484 1123 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32072/low_1495125298.m3u8</low>
+    <high>https://vid.tasty.co/output/32072/mp4_720x1280/1495125298</high>
+  </video>
+  <steps>
+    <step num="0">6688 10426 7990 13133 8927 5895 1681 14371 </step>
+    <step num="1">10641 1633 10968 210 12610 10986 4155 7272 11911 6467 2431 109 13817 13784 </step>
+    <step num="2">1262 1010 1391 11951 9635 10426 596 309 6697 10860 371 1010 1391 2168 13290 </step>
+    <step num="3">8916 210 5766 1681 10963 1368 13817 12019 4255 6697 6701 </step>
+    <step num="4">9179 1484 13033 5895 3938 560 8686 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6688 10426 7990 13133 8927 5895 1681 14371 </steps_updated>
+    <steps_updated num="1">10641 1633 10968 210 12610 10986 4155 7272 11911 6467 2431 109 13817 13784 </steps_updated>
+    <steps_updated num="2">1262 1010 1391 11951 9635 10426 596 </steps_updated>
+    <steps_updated num="3">309 6697 10860 371 1010 1391 2168 13290 </steps_updated>
+    <steps_updated num="4">8916 210 5766 1681 10963 1368 13817 12019 4255 6697 6701 </steps_updated>
+    <steps_updated num="5">9179 1484 13033 5895 3938 560 8686 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

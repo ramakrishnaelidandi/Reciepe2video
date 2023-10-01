@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Granola Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-granola-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; bananas </ingredient>
+    <ingredient num="1">⅓ cup ; honey ; (100 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; almond extract </ingredient>
+    <ingredient num="3">1 ¼ cups ; rolled oats ; (125 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">1 pinch ; salt </ingredient>
+    <ingredient num="6">yogurt </ingredient>
+    <ingredient num="7">blueberry </ingredient>
+    <ingredient num="8">raspberry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32148/low_1495125393.m3u8</low>
+    <high>https://vid.tasty.co/output/32148/mp4_720x1280/1495125393</high>
+  </video>
+  <steps>
+    <step num="0">Mash two bananas in a small bowl. </step>
+    <step num="1">Add the honey and almond extract. Mix well and set aside. </step>
+    <step num="2">Mix the rolled oats, cinnamon, and a pinch of salt in a large bowl, then add the banana mixture to it. Mix well. </step>
+    <step num="3">Transfer to muffin tin tray, pressing down on the middle and sides to form the cup. Chill for 1-2 hours. </step>
+    <step num="4">Bake for 10-12 minutes at 350°F (180°C). </step>
+    <step num="5">Leave to cool for 10-20 minutes. </step>
+    <step num="6">Top with yogurt, blueberries, and raspberries. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mash two bananas in a small bowl. </steps_updated>
+    <steps_updated num="1">Add the honey and almond extract. </steps_updated>
+    <steps_updated num="2">Mix well and set aside. </steps_updated>
+    <steps_updated num="3">Mix the rolled oats, cinnamon, and a pinch of salt in a large bowl, then add the banana mixture to it. </steps_updated>
+    <steps_updated num="4">Mix well. </steps_updated>
+    <steps_updated num="5">Transfer to muffin tin tray, pressing down on the middle and sides to form the cup. </steps_updated>
+    <steps_updated num="6">Chill for 1-2 hours. </steps_updated>
+    <steps_updated num="7">Bake for 10-12 minutes at 350°F (180°C). </steps_updated>
+    <steps_updated num="8">Leave to cool for 10-20 minutes. </steps_updated>
+    <steps_updated num="9">Top with yogurt, blueberries, and raspberries. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

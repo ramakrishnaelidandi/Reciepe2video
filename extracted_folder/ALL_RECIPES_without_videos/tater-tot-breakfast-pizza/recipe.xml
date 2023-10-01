@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tater Tot Breakfast Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tater-tot-breakfast-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; tater tot ; (345 g) </ingredient>
+    <ingredient num="1">7 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; bacon bits ; (110 g) </ingredient>
+    <ingredient num="3">½ ; avocado </ingredient>
+    <ingredient num="4">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="5">½ cup ; shredded mozzarella cheese ; (50 g) </ingredient>
+    <ingredient num="6">butter </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32966/low_1495828082.m3u8</low>
+    <high>https://vid.tasty.co/output/32966/mp4_720x1280/1495828082</high>
+  </video>
+  <steps>
+    <step num="0">Pour the tater tots in a large mixing bowl. Microwave for one minute and forty-five seconds (or until soft) </step>
+    <step num="1">Add one egg to the softened tater tots and mix. </step>
+    <step num="2">Grease a cast-iron pan with butter, then pour the tater-tot mixture into the pan and spread it out to create a crust. </step>
+    <step num="3">Bake the crust for 15 minutes at 400˚F (200˚C). </step>
+    <step num="4">Remove from the oven, then add ½ of the cheddar cheese, ½ of the mozzarella cheese, and ½ of the bacon bits to the base of the crust. </step>
+    <step num="5">Crack the rest of the eggs evenly over the top of the crust, then top with the rest of the cheese and bacon bits. </step>
+    <step num="6">Bake for 15 more minutes at 400˚F (200˚C). </step>
+    <step num="7">Top with avocado slices and pepper. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the tater tots in a large mixing bowl. </steps_updated>
+    <steps_updated num="1">Microwave for one minute and forty-five seconds (or until soft) </steps_updated>
+    <steps_updated num="2">Add one egg to the softened tater tots and mix. </steps_updated>
+    <steps_updated num="3">Grease a cast-iron pan with butter, then pour the tater-tot mixture into the pan and spread it out to create a crust. </steps_updated>
+    <steps_updated num="4">Bake the crust for 15 minutes at 400˚F (200˚C). </steps_updated>
+    <steps_updated num="5">Remove from the oven, then add ½ of the cheddar cheese, ½ of the mozzarella cheese, and ½ of the bacon bits to the base of the crust. </steps_updated>
+    <steps_updated num="6">Crack the rest of the eggs evenly over the top of the crust, then top with the rest of the cheese and bacon bits. </steps_updated>
+    <steps_updated num="7">Bake for 15 more minutes at 400˚F (200˚C). </steps_updated>
+    <steps_updated num="8">Top with avocado slices and pepper. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

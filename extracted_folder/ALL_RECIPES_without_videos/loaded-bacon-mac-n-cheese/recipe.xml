@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Bacon Mac 'n' Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-bacon-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/better-boxed-mac-n-cheese</comp_url>
+  <ingredients>
+    <ingredient num="0">1 box ; mac 'n' cheese </ingredient>
+    <ingredient num="1">1 cup ; bacon, cooked ; (225 g) </ingredient>
+    <ingredient num="2">¼ cup ; grated monterey jack cheese ; (30 g) </ingredient>
+    <ingredient num="3">¼ cup ; grated mozzarella cheese ; (30 g) </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48652/low_1503426999.m3u8</low>
+    <high>https://vid.tasty.co/output/48652/mp4_720x1280/1503426999</high>
+  </video>
+  <duration>
+    <start_time>25.259</start_time>
+    <end_time>41.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">Prepare 1 box of Mac 'N' Cheese according to instructions on box. </step>
+    <step num="1">Add cooked bacon, monterey jack cheese, mozzarella cheese and pepper, stir until fully incorporated. </step>
+    <step num="2">Top with desired garnish. Serve immediately. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare 1 box of Mac 'N' Cheese according to instructions on box. </steps_updated>
+    <steps_updated num="1">Add cooked bacon, monterey jack cheese, mozzarella cheese and pepper, stir until fully incorporated. </steps_updated>
+    <steps_updated num="2">Top with desired garnish. </steps_updated>
+    <steps_updated num="3">Serve immediately. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

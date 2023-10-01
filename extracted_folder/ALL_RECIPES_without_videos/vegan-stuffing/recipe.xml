@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Stuffing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-stuffing</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-thanksgiving-tasty-story</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="1">1 ; small white onion, diced </ingredient>
+    <ingredient num="2">1 stalk ; celery, diced </ingredient>
+    <ingredient num="3">1 ; small apple, diced </ingredient>
+    <ingredient num="4">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 tablespoon ; fresh parlsey, chopped </ingredient>
+    <ingredient num="7">1 tablespoon ; fresh rosemary, chopped </ingredient>
+    <ingredient num="8">½ tablespoon ; fresh thyme, chopped </ingredient>
+    <ingredient num="9">1 teaspoon ; dried sage </ingredient>
+    <ingredient num="10">1 ½ loaves ; white bread, cubed </ingredient>
+    <ingredient num="11">5 cups ; low sodium vegetable broth ; (1.2 L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114403/hls24_1541460752.m3u8</low>
+    <high>https://vid.tasty.co/output/114403/landscape_720/1541460752</high>
+  </video>
+  <duration>
+    <start_time>13.666</start_time>
+    <end_time>68.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). </step>
+    <step num="1">Heat the oil in a medium pot over medium-high heat. Once the oil begins to shimmer, add the onion and celery and cook for 5-6 minutes, until the onion is semi-translucent and the celery has softened a bit. </step>
+    <step num="2">Add the apple and cook for an additional 4-5 minutes, until softened. </step>
+    <step num="3">Add the salt, pepper, parsley, rosemary, thyme, and sage and cook for 2-3 minutes, until the herbs are fragrant. </step>
+    <step num="4">Add in about a ¼ of the cubed bread and 1 cup (240 ml) of the vegetable broth. </step>
+    <step num="5">Stir well until bread cubes cook down. Continue, alternating between adding bread and broth, until everything has cooked down but the stuffing is still slightly chunky. </step>
+    <step num="6">Transfer to a large baking dish and cover with foil. </step>
+    <step num="7">Bake for 10 minutes, then uncover and bake for another 10 minutes, until the top is golden brown. Serve warm. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Heat the oil in a medium pot over medium-high heat. </steps_updated>
+    <steps_updated num="2">Once the oil begins to shimmer, add the onion and celery and cook for 5-6 minutes, until the onion is semi-translucent and the celery has softened a bit. </steps_updated>
+    <steps_updated num="3">Add the apple and cook for an additional 4-5 minutes, until softened. </steps_updated>
+    <steps_updated num="4">Add the salt, pepper, parsley, rosemary, thyme, and sage and cook for 2-3 minutes, until the herbs are fragrant. </steps_updated>
+    <steps_updated num="5">Add in about a ¼ of the cubed bread and 1 cup (240 ml) of the vegetable broth. </steps_updated>
+    <steps_updated num="6">Stir well until bread cubes cook down. </steps_updated>
+    <steps_updated num="7">Continue, alternating between adding bread and broth, until everything has cooked down but the stuffing is still slightly chunky. </steps_updated>
+    <steps_updated num="8">Transfer to a large baking dish and cover with foil. </steps_updated>
+    <steps_updated num="9">Bake for 10 minutes, then uncover and bake for another 10 minutes, until the top is golden brown. </steps_updated>
+    <steps_updated num="10">Serve warm. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

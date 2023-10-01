@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Fritters Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-fritters</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-desserts-to-make-with-ripe-bananas</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; ripe bananas, peeled </ingredient>
+    <ingredient num="1">1 cup ; pancake mix ; (125 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="3">¾ cup ; milk ; (175 mL) </ingredient>
+    <ingredient num="4">oil, for frying </ingredient>
+    <ingredient num="5">powdered sugar, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54120/low_1506633610.m3u8</low>
+    <high>https://vid.tasty.co/output/54120/mp4_720x1280/1506633610</high>
+  </video>
+  <duration>
+    <start_time>0.029999999999999805</start_time>
+    <end_time>33.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a mixing bowl, use a fork to smash the bananas. </step>
+    <step num="1">Add in pancake mix, cinnamon and milk. Whisk together until combined. </step>
+    <step num="2">Fry in oil. About 1 tablespoon per fritter. </step>
+    <step num="3">Cook for about 2-3 minutes until they are golden brown and cooked through the middle. </step>
+    <step num="4">Sprinkle powdered sugar. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a mixing bowl, use a fork to smash the bananas. </steps_updated>
+    <steps_updated num="1">Add in pancake mix, cinnamon and milk. </steps_updated>
+    <steps_updated num="2">Whisk together until combined. </steps_updated>
+    <steps_updated num="3">Fry in oil. </steps_updated>
+    <steps_updated num="4">About 1 tablespoon per fritter. </steps_updated>
+    <steps_updated num="5">Cook for about 2-3 minutes until they are golden brown and cooked through the middle. </steps_updated>
+    <steps_updated num="6">Sprinkle powdered sugar. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00047</start_time>
+    <end_time>01034</end_time>
+  </duration_human>
+</recipe>

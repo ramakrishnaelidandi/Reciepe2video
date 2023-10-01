@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mango Gazpacho Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mango-gazpacho</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-gazpachos-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; mangoes, peeled, seeded, and chopped </ingredient>
+    <ingredient num="1">½ ; cucumber, peeled and chopped, for garnish </ingredient>
+    <ingredient num="2">¼ ; white onion, diced </ingredient>
+    <ingredient num="3">1 ; green bell pepper, seeded and chopped </ingredient>
+    <ingredient num="4">3 tablespoons ; fresh cilantro, plus more sprigs, for garnish </ingredient>
+    <ingredient num="5">1 ; lime, juiced, plus more sliced into rounds, for garnish </ingredient>
+    <ingredient num="6">1 tablespoon ; champagne vinegar </ingredient>
+    <ingredient num="7">1 pinch ; salt </ingredient>
+    <ingredient num="8">2 tablespoons ; extra virgin olive oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100107/hls24_1530035894.m3u8</low>
+    <high>https://vid.tasty.co/output/100107/landscape_720/1530035894</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add mangoes, cucumber, onion, green bell pepper, cilantro, lime juice, champagne vinegar, and salt to a food processor or blender. </step>
+    <step num="1">While blending, slowly add the olive oil and continue blending until the mixture has reached your desired consistency. </step>
+    <step num="2">Transfer the soup to a large bowl and refrigerate for at least 30 minutes, or overnight, to allow the flavors to deepen. </step>
+    <step num="3">Serve the soup chilled and garnish with a slice of cucumber, a slice of lime, and a sprig of cilantro. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add mangoes, cucumber, onion, green bell pepper, cilantro, lime juice, champagne vinegar, and salt to a food processor or blender. </steps_updated>
+    <steps_updated num="1">While blending, slowly add the olive oil and continue blending until the mixture has reached your desired consistency. </steps_updated>
+    <steps_updated num="2">Transfer the soup to a large bowl and refrigerate for at least 30 minutes, or overnight, to allow the flavors to deepen. </steps_updated>
+    <steps_updated num="3">Serve the soup chilled and garnish with a slice of cucumber, a slice of lime, and a sprig of cilantro. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02319</start_time>
+    <end_time>03129</end_time>
+  </duration_human>
+</recipe>

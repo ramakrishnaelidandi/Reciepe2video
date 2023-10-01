@@ -1,0 +1,38 @@
+<recipe>
+  <title>Ketchup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ketchup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11598 643 13278 9668 30 13278 5800 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 6949 1368 6145 3037 13278 7289 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 5475 1193 13278 8118 5981 </ingredient>
+    <ingredient num="3">3917 1580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="4">3917 1580 2031 13278 6334 11703 </ingredient>
+    <ingredient num="5">1580 8071 13278 6422 11703 </ingredient>
+    <ingredient num="6">12791 8071 13278 11088 12425 </ingredient>
+    <ingredient num="7">1580 8071 13278 11088 9223 </ingredient>
+    <ingredient num="8">13086 9486 13278 10646 2260 </ingredient>
+    <ingredient num="9">1580 2605 13278 9908 14165 10769 13278 2935 8007 </ingredient>
+    <ingredient num="10">3917 14014 13278 3855 82 </ingredient>
+    <ingredient num="11">3917 2605 13278 4934 12282 13278 7503 8007 </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/129120/hls24_1554414486.m3u8</low>
+    <high>https://vid.tasty.co/output/129120/landscape_720/1554414486</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 6007 10067 7110 4120 11951 9668 5337 1368 6145 4793 11384 8117 6334 8117 6422 8117 4654 1821 5050 7280 4450 12610 13817 2019 8785 560 5994 9721 1002 11770 13757 14307 13328 6107 560 3720 6893 264 7990 7562 11004 1681 12781 5569 6285 5994 6861 12450 11892 5376 11484 7711 13817 6376 1828 10694 3936 </step>
+    <step num="1">12785 560 5994 7261 2759 3801 13817 1023 210 11951 7524 12450 11892 5376 2505 7990 3386 560 13086 10770 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 6007 10067 7110 4120 11951 9668 5337 1368 6145 4793 11384 8117 6334 8117 6422 8117 4654 1821 5050 7280 4450 12610 13817 2019 </steps_updated>
+    <steps_updated num="1">8785 560 5994 9721 1002 11770 13757 14307 13328 6107 560 3720 6893 </steps_updated>
+    <steps_updated num="2">264 7990 7562 11004 1681 12781 5569 6285 5994 6861 </steps_updated>
+    <steps_updated num="3">12450 11892 5376 11484 7711 13817 6376 </steps_updated>
+    <steps_updated num="4">1828 10694 3936 </steps_updated>
+    <steps_updated num="5">12785 560 5994 7261 2759 3801 13817 1023 210 11951 7524 </steps_updated>
+    <steps_updated num="6">12450 11892 5376 2505 7990 3386 560 13086 10770 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

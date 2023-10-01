@@ -1,0 +1,56 @@
+<recipe>
+  <title>Black Bean Burgers</title>
+  <url>https://tasty.co/recipe/black-bean-burgers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 5450 3745 13584 13829 4980 13817 6124 </ingredient>
+    <ingredient num="1">3917 13278 12384 10015 </ingredient>
+    <ingredient num="2">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">8580 13278 8445 3333 </ingredient>
+    <ingredient num="4">1580 2605 13278 9541 1967 13278 2264 5981 </ingredient>
+    <ingredient num="5">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="6">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="7">3917 8071 13278 3170 </ingredient>
+    <ingredient num="8">1580 8071 13278 4461 </ingredient>
+    <ingredient num="9">1580 8071 13278 13389 11703 </ingredient>
+    <ingredient num="10">12791 8071 13278 499 7845 </ingredient>
+    <ingredient num="11">12610 560 11567 </ingredient>
+    <ingredient num="12">10986 560 11567 </ingredient>
+    <ingredient num="13">1205 5746 4948 11155 11003 2991 1205 9801 1762 14138 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31921/low_1495124928.m3u8</low>
+    <high>https://vid.tasty.co/output/31921/mp4_720x1280/1495124928</high>
+  </video>
+  <steps>
+    <step num="0">8889 797 14014 371 8244 5766 210 5994 10590 10895 7272 4155 12610 13817 7845 13817 2550 1681 11453 12573 6470 </step>
+    <step num="1">9179 8445 2670 975 13389 8117 13817 499 7845 1681 9151 12573 14371 6054 5687 6781 2082 </step>
+    <step num="2">10950 5994 14511 12833 11951 6143 13817 415 740 11951 13209 371 11951 5687 14473 1391 11951 11691 2260 13817 5231 1182 </step>
+    <step num="3">9393 13817 1978 12645 2003 5570 210 7668 7990 238 8927 560 9892 </step>
+    <step num="4">264 1010 4255 5994 5687 7670 210 8224 8226 11770 13757 14307 9309 14640 </step>
+    <step num="5">8431 1010 560 3535 12313 1338 629 570 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 797 14014 371 8244 5766 210 5994 10590 </steps_updated>
+    <steps_updated num="1">10895 7272 4155 12610 13817 7845 13817 2550 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="2">9179 8445 2670 975 13389 8117 13817 499 7845 1681 9151 12573 14371 </steps_updated>
+    <steps_updated num="3">6054 5687 6781 2082 </steps_updated>
+    <steps_updated num="4">10950 5994 14511 12833 11951 6143 13817 415 740 11951 13209 371 11951 5687 14473 1391 11951 11691 2260 13817 5231 1182 </steps_updated>
+    <steps_updated num="5">9393 13817 1978 12645 2003 </steps_updated>
+    <steps_updated num="6">5570 210 7668 7990 238 8927 560 9892 </steps_updated>
+    <steps_updated num="7">264 1010 4255 5994 5687 7670 210 8224 8226 11770 13757 14307 9309 14640 </steps_updated>
+    <steps_updated num="8">8431 1010 560 3535 12313 1338 629 570 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

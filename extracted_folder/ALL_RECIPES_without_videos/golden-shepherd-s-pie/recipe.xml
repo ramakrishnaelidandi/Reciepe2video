@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Golden Shepherd's Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/golden-shepherd-s-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">3 lb ; ground lamb ; (1.3 kg) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 ; large onion, chopped </ingredient>
+    <ingredient num="5">3 ; large carrots </ingredient>
+    <ingredient num="6">6 cloves ; garlic, grated </ingredient>
+    <ingredient num="7">1 tablespoon ; fresh thyme, chopped </ingredient>
+    <ingredient num="8">1 tablespoon ; fresh rosemary, chopped </ingredient>
+    <ingredient num="9">2 tablespoons ; tomato paste </ingredient>
+    <ingredient num="10">2 tablespoons ; worcestershire sauce </ingredient>
+    <ingredient num="11">1 cup ; red wine ; (240 mL) </ingredient>
+    <ingredient num="12">1 cup ; chicken stock ; (240 mL) </ingredient>
+    <ingredient num="13">3 lb ; yukon gold potato, cubed ; (1.3 kg) </ingredient>
+    <ingredient num="14">¼ cup ; unsalted butter, 1/2 stick ; (55 g) </ingredient>
+    <ingredient num="15">4 ; large egg yolks </ingredient>
+    <ingredient num="16">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="17">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111452/hls24_1538765524.m3u8</low>
+    <high>https://vid.tasty.co/output/111452/landscape_720/1538765524</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220˚C). </step>
+    <step num="1">Heat the oil in a large pan over medium-high heat until shimmering. Add the ground lamb, season with salt and pepper, and fry for 5 minutes, until cooked through. </step>
+    <step num="2">Add the onion, carrots, garlic, thyme, and rosemary, stir, and cook for about 10 minutes, or until the veggies are softened and the meat is well-browned. </step>
+    <step num="3">Add the tomato paste and Worcestershire sauce and stir to incorporate. Cook for 1-2 minutes, stirring constantly, until the liquid evaporates and the meat is aromatic. </step>
+    <step num="4">Pour in the red wine and reduce until almost completely evaporated. </step>
+    <step num="5">Add the chicken stock, bring to a boil, and cook the meat until the stock has evaporated, 5 minutes. </step>
+    <step num="6">Meanwhile, cook the potatoes in a large pot of boiling salted water until tender. Drain, then return to the hot pan over low heat to dry out a bit. </step>
+    <step num="7">Transfer the potatoes to a large bowl and mash until smooth. </step>
+    <step num="8">Add salt, the butter, egg yolks, sour cream, and Parmesan cheese. Fold until well combined. </step>
+    <step num="9">Transfer the potatoes to a piping bag or zip-top bag fitted with a star tip. </step>
+    <step num="10">Spoon the lamb mixture into a large baking dish. Pipe the golden mashed potatoes over the lamb. </step>
+    <step num="11">Bake for 30 minutes, until the potatoes are golden brown. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220˚C). </steps_updated>
+    <steps_updated num="1">Heat the oil in a large pan over medium-high heat until shimmering. </steps_updated>
+    <steps_updated num="2">Add the ground lamb, season with salt and pepper, and fry for 5 minutes, until cooked through. </steps_updated>
+    <steps_updated num="3">Add the onion, carrots, garlic, thyme, and rosemary, stir, and cook for about 10 minutes, or until the veggies are softened and the meat is well-browned. </steps_updated>
+    <steps_updated num="4">Add the tomato paste and Worcestershire sauce and stir to incorporate. </steps_updated>
+    <steps_updated num="5">Cook for 1-2 minutes, stirring constantly, until the liquid evaporates and the meat is aromatic. </steps_updated>
+    <steps_updated num="6">Pour in the red wine and reduce until almost completely evaporated. </steps_updated>
+    <steps_updated num="7">Add the chicken stock, bring to a boil, and cook the meat until the stock has evaporated, 5 minutes. </steps_updated>
+    <steps_updated num="8">Meanwhile, cook the potatoes in a large pot of boiling salted water until tender. </steps_updated>
+    <steps_updated num="9">Drain, then return to the hot pan over low heat to dry out a bit. </steps_updated>
+    <steps_updated num="10">Transfer the potatoes to a large bowl and mash until smooth. </steps_updated>
+    <steps_updated num="11">Add salt, the butter, egg yolks, sour cream, and Parmesan cheese. </steps_updated>
+    <steps_updated num="12">Fold until well combined. </steps_updated>
+    <steps_updated num="13">Transfer the potatoes to a piping bag or zip-top bag fitted with a star tip. </steps_updated>
+    <steps_updated num="14">Spoon the lamb mixture into a large baking dish. </steps_updated>
+    <steps_updated num="15">Pipe the golden mashed potatoes over the lamb. </steps_updated>
+    <steps_updated num="16">Bake for 30 minutes, until the potatoes are golden brown. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

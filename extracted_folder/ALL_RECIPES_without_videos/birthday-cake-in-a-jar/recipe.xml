@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Birthday Cake In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/birthday-cake-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-cake-in-a-jar</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; angel food cake mix </ingredient>
+    <ingredient num="1">2 tablespoons ; yellow cake mix </ingredient>
+    <ingredient num="2">1 teaspoon ; rainbow sprinkles, plus more for serving, optional </ingredient>
+    <ingredient num="3">2 tablespoons ; water, plus 1 teaspoon </ingredient>
+    <ingredient num="4">whipped cream, for serving, optional </ingredient>
+    <ingredient num="5">8 oz ; jar, microwave and oven safe ; (225 g) </ingredient>
+    <ingredient num="6">1 ; cupcake liner </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99533/hls24_1529604676.m3u8</low>
+    <high>https://vid.tasty.co/output/99533/landscape_720/1529604676</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the angel food cake mix and yellow cake mix to a jar. Place a cupcake liner over the cake mix and add the rainbow sprinkles. Cover with the lid. </step>
+    <step num="1">Store in the pantry for up to 3 months. </step>
+    <step num="2">When ready to eat, remove the lid and cupcake liner with the sprinkles from the jar. Pour the water into the dry cake mix. Mix thoroughly, making sure to scrape the dry mix from the bottom of the jar. </step>
+    <step num="3">Microwave for 20 seconds. </step>
+    <step num="4">Pour the sprinkles into the jar and gently stir to distribute, being careful not to push all of the sprinkles to the bottom. </step>
+    <step num="5">Microwave for another 40 seconds, until cooked through. </step>
+    <step num="6">Top with whipped cream and rainbow sprinkles, if desired. </step>
+    <step num="7">Serve immediately. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the angel food cake mix and yellow cake mix to a jar. </steps_updated>
+    <steps_updated num="1">Place a cupcake liner over the cake mix and add the rainbow sprinkles. </steps_updated>
+    <steps_updated num="2">Cover with the lid. </steps_updated>
+    <steps_updated num="3">Store in the pantry for up to 3 months. </steps_updated>
+    <steps_updated num="4">When ready to eat, remove the lid and cupcake liner with the sprinkles from the jar. </steps_updated>
+    <steps_updated num="5">Pour the water into the dry cake mix. </steps_updated>
+    <steps_updated num="6">Mix thoroughly, making sure to scrape the dry mix from the bottom of the jar. </steps_updated>
+    <steps_updated num="7">Microwave for 20 seconds. </steps_updated>
+    <steps_updated num="8">Pour the sprinkles into the jar and gently stir to distribute, being careful not to push all of the sprinkles to the bottom. </steps_updated>
+    <steps_updated num="9">Microwave for another 40 seconds, until cooked through. </steps_updated>
+    <steps_updated num="10">Top with whipped cream and rainbow sprinkles, if desired. </steps_updated>
+    <steps_updated num="11">Serve immediately. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03007</start_time>
+    <end_time>03868</end_time>
+  </duration_human>
+</recipe>

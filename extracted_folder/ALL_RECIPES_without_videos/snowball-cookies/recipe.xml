@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Snowball Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snowball-cookies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-tasty-gift-ideas-for-holiday-seasons</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; walnuts ; (200 g) </ingredient>
+    <ingredient num="1">2 ¼ cups ; flour ; (281 g) </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">2 sticks ; butter, softened </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">2 cups ; powdered sugar ; (240 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indulgent Sweets</category>
+    <category num="1">Bakery Goods</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67159/hls24_1513018969.m3u8</low>
+    <high>https://vid.tasty.co/output/67159/landscape_720/1513018969</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>59.12</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 325˚F (170˚C). </step>
+    <step num="1">Place the walnuts in a ziploc bag and use a rolling pin to crush them until crushed. </step>
+    <step num="2">In a large bowl, combine crushed walnuts, flour, sugar, softened butter, vanilla and mix with a rubber spatula until well combined. </step>
+    <step num="3">Roll the dough into ping pong ball-sized spheres. </step>
+    <step num="4">Bake for 20-30 minutes, until the bottom of the cookies is slightly brown. </step>
+    <step num="5">While the cookies are still warm, sift powdered sugar over the cookies. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 325˚F (170˚C). </steps_updated>
+    <steps_updated num="1">Place the walnuts in a ziploc bag and use a rolling pin to crush them until crushed. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine crushed walnuts, flour, sugar, softened butter, vanilla and mix with a rubber spatula until well combined. </steps_updated>
+    <steps_updated num="3">Roll the dough into ping pong ball-sized spheres. </steps_updated>
+    <steps_updated num="4">Bake for 20-30 minutes, until the bottom of the cookies is slightly brown. </steps_updated>
+    <steps_updated num="5">While the cookies are still warm, sift powdered sugar over the cookies. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00077</start_time>
+    <end_time>01502</end_time>
+  </duration_human>
+</recipe>

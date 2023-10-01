@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hiroshima Okonomiyaki Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hiroshima-okonomiyaki</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">oil </ingredient>
+    <ingredient num="1">bonito powder, to taste </ingredient>
+    <ingredient num="2">⅔ cup ; cabbage, julienned ; (60 g) </ingredient>
+    <ingredient num="3">¼ cup ; bean sprout ; (25 g) </ingredient>
+    <ingredient num="4">tempura bits, to taste </ingredient>
+    <ingredient num="5">1 tablespoon ; scallions, finely sliced </ingredient>
+    <ingredient num="6">4 slices ; pork belly, thinly sliced </ingredient>
+    <ingredient num="7">1 package ; yakisoba noodle </ingredient>
+    <ingredient num="8">1 ; egg </ingredient>
+    <ingredient num="9">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="10">⅔ cup ; water ; (160 mL) </ingredient>
+    <ingredient num="11">1 teaspoon ; mirin </ingredient>
+    <ingredient num="12">okonomi sauce </ingredient>
+    <ingredient num="13">mayonnaise </ingredient>
+    <ingredient num="14">nori flakes </ingredient>
+    <ingredient num="15">bonito flakes </ingredient>
+    <ingredient num="16">okonomi spatula </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>244.0</start_time>
+    <end_time>310.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine the flour, water, and mirin in a bowl and whisk until combined. </step>
+    <step num="1">Brush oil on an electric griddle heated to 350˚F (180℃). </step>
+    <step num="2">Pour the batter onto the griddle into a paper-thin circle 8 inches (20 cm) wide. </step>
+    <step num="3">Place cabbage, tempura, bean sprouts, and scallions on top of the batter to fully cover it. </step>
+    <step num="4">Top with 4 slices of pork belly and drizzle a little batter on top. </step>
+    <step num="5">Gently flip the pancake using two okonomiyaki spatulas, and press down. </step>
+    <step num="6">Add oil to the griddle and add the yakisoba noodles. </step>
+    <step num="7">Drizzle with okonomi sauce and stir to coat all the noodles. </step>
+    <step num="8">Put cooked pancake with the cabbage on the noodles. </step>
+    <step num="9">Crack an egg on the griddle and scramble with the okonomi spatulas. </step>
+    <step num="10">Place the egg onto the yakisoba noodles and drizzle with okonomi sauce. </step>
+    <step num="11">Drizzle with mayonnaise, nori flakes, and bonito flakes. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the flour, water, and mirin in a bowl and whisk until combined. </steps_updated>
+    <steps_updated num="1">Brush oil on an electric griddle heated to 350˚F (180℃). </steps_updated>
+    <steps_updated num="2">Pour the batter onto the griddle into a paper-thin circle 8 inches (20 cm) wide. </steps_updated>
+    <steps_updated num="3">Place cabbage, tempura, bean sprouts, and scallions on top of the batter to fully cover it. </steps_updated>
+    <steps_updated num="4">Top with 4 slices of pork belly and drizzle a little batter on top. </steps_updated>
+    <steps_updated num="5">Gently flip the pancake using two okonomiyaki spatulas, and press down. </steps_updated>
+    <steps_updated num="6">Add oil to the griddle and add the yakisoba noodles. </steps_updated>
+    <steps_updated num="7">Drizzle with okonomi sauce and stir to coat all the noodles. </steps_updated>
+    <steps_updated num="8">Put cooked pancake with the cabbage on the noodles. </steps_updated>
+    <steps_updated num="9">Crack an egg on the griddle and scramble with the okonomi spatulas. </steps_updated>
+    <steps_updated num="10">Place the egg onto the yakisoba noodles and drizzle with okonomi sauce. </steps_updated>
+    <steps_updated num="11">Drizzle with mayonnaise, nori flakes, and bonito flakes. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

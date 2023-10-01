@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steak, Egg, And Cheese Breakfast Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-egg-and-cheese-breakfast-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; rib eye steak ; (455 g) </ingredient>
+    <ingredient num="1">McCormick® Grill Mates Montreal Steak Seasoning ; Schwartz® Grill Mates Montreal Steak Seasoning ; Club House® Grill Mates Montreal Steak Seasoning </ingredient>
+    <ingredient num="2">4 ; large eggs </ingredient>
+    <ingredient num="3">2 teaspoons ; water, divided </ingredient>
+    <ingredient num="4">1 teaspoon ; salt, divided </ingredient>
+    <ingredient num="5">1 teaspoon ; black pepper, divided </ingredient>
+    <ingredient num="6">4 teaspoons ; butter, divided </ingredient>
+    <ingredient num="7">4 slices ; cheddar cheese </ingredient>
+    <ingredient num="8">4 ; biscuits, split in half </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+    <category num="1">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/127291/hls24_1552591783.m3u8</low>
+    <high>https://vid.tasty.co/output/127291/landscape_720/1552591783</high>
+  </video>
+  <steps>
+    <step num="0">Heat a greased cast-iron skillet over high heat. When hot, add the steak. Sear on both sides, about 3-4 minutes per side, until meat is cooked to desired temperature. Let steak rest for 5-10 minutes, then slice thinly against the grain. </step>
+    <step num="1">While the steak is resting, prepare the eggs. Whisk 1 egg with ½ teaspoon water, ¼ teaspoon salt, and ¼ teaspoon black pepper. (This step will be repeated with each of the 4 eggs). </step>
+    <step num="2">Heat a nonstick skillet over low heat. Melt 1 teaspoon of butter in the pan. Pour in the beaten egg and tilt the pan so the egg coats the pan in an even layer. Place 1 slice of cheese in the center. Use a spatula to fold the sides of the egg over the cheese until you have a square with the cheese covered in the middle. Slide the egg onto a biscuit. Top with a few slices of steak and the top biscuit half. </step>
+    <step num="3">Repeat with the rest of the eggs, biscuits, and steak. </step>
+    <step num="4">Serve immediately. </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a greased cast-iron skillet over high heat. </steps_updated>
+    <steps_updated num="1">When hot, add the steak. </steps_updated>
+    <steps_updated num="2">Sear on both sides, about 3-4 minutes per side, until meat is cooked to desired temperature. </steps_updated>
+    <steps_updated num="3">Let steak rest for 5-10 minutes, then slice thinly against the grain. </steps_updated>
+    <steps_updated num="4">While the steak is resting, prepare the eggs. </steps_updated>
+    <steps_updated num="5">Whisk 1 egg with ½ teaspoon water, ¼ teaspoon salt, and ¼ teaspoon black pepper. </steps_updated>
+    <steps_updated num="6">(This step will be repeated with each of the 4 eggs). </steps_updated>
+    <steps_updated num="7">Heat a nonstick skillet over low heat. </steps_updated>
+    <steps_updated num="8">Melt 1 teaspoon of butter in the pan. </steps_updated>
+    <steps_updated num="9">Pour in the beaten egg and tilt the pan so the egg coats the pan in an even layer. </steps_updated>
+    <steps_updated num="10">Place 1 slice of cheese in the center. </steps_updated>
+    <steps_updated num="11">Use a spatula to fold the sides of the egg over the cheese until you have a square with the cheese covered in the middle. </steps_updated>
+    <steps_updated num="12">Slide the egg onto a biscuit. </steps_updated>
+    <steps_updated num="13">Top with a few slices of steak and the top biscuit half. </steps_updated>
+    <steps_updated num="14">Repeat with the rest of the eggs, biscuits, and steak. </steps_updated>
+    <steps_updated num="15">Serve immediately. </steps_updated>
+  </steps_updated>
+</recipe>

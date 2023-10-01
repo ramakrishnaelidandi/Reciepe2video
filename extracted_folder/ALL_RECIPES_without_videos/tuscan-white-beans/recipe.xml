@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tuscan White Beans Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tuscan-white-beans</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-stress-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">olive oil, to taste </ingredient>
+    <ingredient num="1">½ ; large yellow onion, diced </ingredient>
+    <ingredient num="2">1 cup ; mushroom, diced ; (75 g) </ingredient>
+    <ingredient num="3">½ cup ; sun-dried tomato, drained ; (100 g) </ingredient>
+    <ingredient num="4">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">15 oz ; white bean, or cannellini beans, 2 cans, rinsed and drained ; (425 g) </ingredient>
+    <ingredient num="6">15 oz ; fire-roasted tomato, 1 can ; (425 g) </ingredient>
+    <ingredient num="7">15 oz ; artichoke heart, 1 can, drained ; (425 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; balsamic vinegar </ingredient>
+    <ingredient num="9">1 tablespoon ; honey </ingredient>
+    <ingredient num="10">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="11">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="12">salt, to taste </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+    <ingredient num="14">fresh basil, thinly sliced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85393/hls24_1521485033.m3u8</low>
+    <high>https://vid.tasty.co/output/85393/landscape_720/1521485033</high>
+  </video>
+  <duration>
+    <start_time>58.5</start_time>
+    <end_time>112.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large skillet over medium heat, add the olive oil, onion, and mushrooms. Cook 5 minutes, or until the onion begins to turn translucent. </step>
+    <step num="1">Add the sun-dried tomatoes and garlic. Stir and cook for another 3 minutes, or until fragrant. </step>
+    <step num="2">Add the white beans, fire-roasted tomatoes, artichoke hearts, balsamic vinegar, honey, oregano, thyme, salt, and pepper. Stir to combine. Cover and reduce the heat to low. Let cook for 10 minutes, stirring occasionally. </step>
+    <step num="3">Garnish with fresh basil and serve. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large skillet over medium heat, add the olive oil, onion, and mushrooms. </steps_updated>
+    <steps_updated num="1">Cook 5 minutes, or until the onion begins to turn translucent. </steps_updated>
+    <steps_updated num="2">Add the sun-dried tomatoes and garlic. </steps_updated>
+    <steps_updated num="3">Stir and cook for another 3 minutes, or until fragrant. </steps_updated>
+    <steps_updated num="4">Add the white beans, fire-roasted tomatoes, artichoke hearts, balsamic vinegar, honey, oregano, thyme, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Stir to combine. </steps_updated>
+    <steps_updated num="6">Cover and reduce the heat to low. </steps_updated>
+    <steps_updated num="7">Let cook for 10 minutes, stirring occasionally. </steps_updated>
+    <steps_updated num="8">Garnish with fresh basil and serve. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01448</start_time>
+    <end_time>02712</end_time>
+  </duration_human>
+</recipe>

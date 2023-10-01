@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Guacamole Onion Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/guacamole-onion-rings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; avocados, ripe </ingredient>
+    <ingredient num="1">1 ; lime </ingredient>
+    <ingredient num="2">1 ; tomato, diced and drained of excess water </ingredient>
+    <ingredient num="3">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="4">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="7">2 ; yellow onions, small-medium </ingredient>
+    <ingredient num="8">flour, for breading </ingredient>
+    <ingredient num="9">2 ; eggs, beaten </ingredient>
+    <ingredient num="10">2 cups ; panko breadcrumbs ; (100 g) </ingredient>
+    <ingredient num="11">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32101/low_1495125314.m3u8</low>
+    <high>https://vid.tasty.co/output/32101/mp4_720x1280/1495125314</high>
+  </video>
+  <steps>
+    <step num="0">In a medium mixing bowl, mash avocados with the juice of one lime. Mix in chopped tomato, cilantro, garlic, salt, and chili powder. </step>
+    <step num="1">Cut onion into ½-inch (1 cm) slices. Carefully separate the layers into individual rings. On a wax paper–lined tray, lay out onion rings and fill each with guacamole. Place tray in freezer until solid (about one hour). </step>
+    <step num="2">Add flour, beaten eggs, and panko bread crumbs to three separate bowls. Remove frozen guacamole rings from freezer. Roll each first in flour, then egg, then bread crumbs. Coat once more in egg and a final time in bread crumbs. </step>
+    <step num="3">In a large saucepan, heat oil to 350˚F (180˚C). Fry guacamole onion rings in batches until nicely browned on all sides. </step>
+    <step num="4">Place on paper towel–lined plate to drain off any excess oil. Sprinkle with salt and lime juice. Serve with sour cream. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium mixing bowl, mash avocados with the juice of one lime. </steps_updated>
+    <steps_updated num="1">Mix in chopped tomato, cilantro, garlic, salt, and chili powder. </steps_updated>
+    <steps_updated num="2">Cut onion into ½-inch (1 cm) slices. </steps_updated>
+    <steps_updated num="3">Carefully separate the layers into individual rings. </steps_updated>
+    <steps_updated num="4">On a wax paper–lined tray, lay out onion rings and fill each with guacamole. </steps_updated>
+    <steps_updated num="5">Place tray in freezer until solid (about one hour). </steps_updated>
+    <steps_updated num="6">Add flour, beaten eggs, and panko bread crumbs to three separate bowls. </steps_updated>
+    <steps_updated num="7">Remove frozen guacamole rings from freezer. </steps_updated>
+    <steps_updated num="8">Roll each first in flour, then egg, then bread crumbs. </steps_updated>
+    <steps_updated num="9">Coat once more in egg and a final time in bread crumbs. </steps_updated>
+    <steps_updated num="10">In a large saucepan, heat oil to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="11">Fry guacamole onion rings in batches until nicely browned on all sides. </steps_updated>
+    <steps_updated num="12">Place on paper towel–lined plate to drain off any excess oil. </steps_updated>
+    <steps_updated num="13">Sprinkle with salt and lime juice. </steps_updated>
+    <steps_updated num="14">Serve with sour cream. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

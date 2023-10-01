@@ -1,0 +1,62 @@
+<recipe>
+  <title>Pineapple Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pineapple-fried-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 10307 </ingredient>
+    <ingredient num="1">6735 9486 13278 4168 7632 3247 </ingredient>
+    <ingredient num="2">8580 13278 14463 9917 </ingredient>
+    <ingredient num="3">1580 715 13278 9771 9811 13278 6898 5981 </ingredient>
+    <ingredient num="4">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">3917 13278 8083 13711 11588 341 </ingredient>
+    <ingredient num="6">3917 13278 12384 11588 3962 </ingredient>
+    <ingredient num="7">3917 9883 9517 13278 11948 3745 13278 5348 5981 </ingredient>
+    <ingredient num="8">3917 2605 13278 13592 4168 13278 757 5981 </ingredient>
+    <ingredient num="9">3917 14014 13278 6319 2260 </ingredient>
+    <ingredient num="10">3917 13278 7695 3701 </ingredient>
+    <ingredient num="11">8580 13278 7471 7272 11588 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49782/low_1503959748.m3u8</low>
+    <high>https://vid.tasty.co/output/49782/mp4_720x1280/1503959748</high>
+  </video>
+  <steps>
+    <step num="0">5209 5994 5133 5668 13260 7777 11951 10307 210 2532 5217 </step>
+    <step num="1">5209 11951 1803 371 5994 5097 7777 5412 11951 12872 371 11951 10307 6770 148 11155 560 7777 7492 11951 1012 </step>
+    <step num="2">3235 573 13817 13876 11951 10307 2078 415 1374 2696 11951 10307 4530 1391 5994 1818 13841 11951 616 13817 817 11951 2078 5292 </step>
+    <step num="3">10950 5994 2597 9842 7855 8580 9486 371 5766 11770 5994 13757 2082 8916 11951 9917 12708 210 5994 6222 13554 </step>
+    <step num="4">9956 8421 1623 11951 12708 560 5994 11801 13817 740 210 11951 1831 560 11951 11649 145 </step>
+    <step num="5">8916 1681 11951 1831 12573 644 907 6054 12708 13817 1831 6781 11951 7742 13817 817 5292 </step>
+    <step num="6">8889 11951 7742 1681 8075 6222 13817 5406 210 11061 9486 371 14158 </step>
+    <step num="7">9179 11951 4155 14429 13817 6334 13817 6142 1681 11564 </step>
+    <step num="8">9179 210 11951 7706 13817 14303 13817 7256 1681 7706 5696 4721 1368 13817 11951 4068 12573 4386 907 </step>
+    <step num="9">9179 11951 3745 12708 13817 8305 740 210 11951 6319 2260 13817 11951 9864 10307 2078 13817 6142 1681 12826 9490 3145 13592 6690 </step>
+    <step num="10">12774 210 11951 7888 10307 4814 14473 1391 8177 9712 10522 13817 7471 914 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 5133 5668 13260 7777 11951 10307 210 2532 5217 </steps_updated>
+    <steps_updated num="1">5209 11951 1803 371 5994 5097 7777 5412 11951 12872 371 11951 10307 6770 148 11155 560 7777 7492 11951 1012 </steps_updated>
+    <steps_updated num="2">3235 573 13817 13876 11951 10307 2078 415 1374 2696 11951 10307 4530 1391 5994 1818 </steps_updated>
+    <steps_updated num="3">13841 11951 616 13817 817 11951 2078 5292 </steps_updated>
+    <steps_updated num="4">10950 5994 2597 9842 7855 8580 9486 371 5766 11770 5994 13757 2082 </steps_updated>
+    <steps_updated num="5">8916 11951 9917 12708 210 5994 6222 13554 </steps_updated>
+    <steps_updated num="6">9956 8421 1623 11951 12708 560 5994 11801 13817 740 210 11951 1831 560 11951 11649 145 </steps_updated>
+    <steps_updated num="7">8916 1681 11951 1831 12573 644 907 </steps_updated>
+    <steps_updated num="8">6054 12708 13817 1831 6781 11951 7742 13817 817 5292 </steps_updated>
+    <steps_updated num="9">8889 11951 7742 1681 8075 6222 13817 5406 210 11061 9486 371 14158 </steps_updated>
+    <steps_updated num="10">9179 11951 4155 14429 13817 6334 13817 6142 1681 11564 </steps_updated>
+    <steps_updated num="11">9179 210 11951 7706 13817 14303 13817 7256 1681 7706 5696 4721 1368 13817 11951 4068 12573 4386 907 </steps_updated>
+    <steps_updated num="12">9179 11951 3745 12708 13817 8305 740 210 11951 6319 2260 13817 11951 9864 10307 2078 13817 6142 1681 12826 9490 3145 13592 6690 </steps_updated>
+    <steps_updated num="13">12774 210 11951 7888 10307 4814 14473 1391 8177 9712 10522 13817 7471 914 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

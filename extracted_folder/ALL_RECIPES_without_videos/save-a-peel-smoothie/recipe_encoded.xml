@@ -1,0 +1,37 @@
+<recipe>
+  <title>Save A Peel Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/save-a-peel-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 959 </ingredient>
+    <ingredient num="1">4061 13278 13873 </ingredient>
+    <ingredient num="2">12791 2605 13278 356 13278 9373 5981 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 638 5802 13278 1536 8007 </ingredient>
+    <ingredient num="4">3917 13278 13757 12545 3775 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>54.166</start_time>
+    <end_time>65.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 8554 11907 210 5994 12095 </step>
+    <step num="1">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 8554 11907 210 5994 12095 </steps_updated>
+    <steps_updated num="1">9092 </steps_updated>
+  </steps_updated>
+</recipe>

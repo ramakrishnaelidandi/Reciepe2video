@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Kiwi Banana Spinach Smoothie Meal Prep Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kiwi-banana-spinach-smoothie-meal-prep</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-smoothie-meal-prep-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; kiwis, cubed </ingredient>
+    <ingredient num="1">1 ; banana, sliced </ingredient>
+    <ingredient num="2">2 cups ; spinach ; (450 g) </ingredient>
+    <ingredient num="3">1 cup ; milk, of choice ; (240 mL) </ingredient>
+    <ingredient num="4">1 cup ; plain greek yogurt ; (285 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21229/low_1484865382.m3u8</low>
+    <high>https://vid.tasty.co/output/21229/mp4_720x1280/1484865382</high>
+  </video>
+  <duration>
+    <start_time>50.43</start_time>
+    <end_time>67.13</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put fruit in a freezer bag. Seal and store in freezer for up to 8-12 months. </step>
+    <step num="1">When ready to use, put milk and spinach into the blender first. Blend until the spinach is fully incorporated into the milk. </step>
+    <step num="2">Then add Greek yogurt and frozen fruit and mix until consistency is smooth. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put fruit in a freezer bag. </steps_updated>
+    <steps_updated num="1">Seal and store in freezer for up to 8-12 months. </steps_updated>
+    <steps_updated num="2">When ready to use, put milk and spinach into the blender first. </steps_updated>
+    <steps_updated num="3">Blend until the spinach is fully incorporated into the milk. </steps_updated>
+    <steps_updated num="4">Then add Greek yogurt and frozen fruit and mix until consistency is smooth. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01570</start_time>
+    <end_time>02031</end_time>
+  </duration_human>
+</recipe>

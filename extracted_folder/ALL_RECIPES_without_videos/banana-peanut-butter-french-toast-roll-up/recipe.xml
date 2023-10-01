@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Peanut Butter French Toast Roll-up Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-peanut-butter-french-toast-roll-up</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/french-toast-roll-ups-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">10 slices ; sandwich bread </ingredient>
+    <ingredient num="1">peanut butter </ingredient>
+    <ingredient num="2">banana, sliced </ingredient>
+    <ingredient num="3">3 ; eggs </ingredient>
+    <ingredient num="4">1 tablespoon ; milk </ingredient>
+    <ingredient num="5">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="6">½ teaspoon ; vanilla extract </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24897/low_1487973901.m3u8</low>
+    <high>https://vid.tasty.co/output/24897/mp4_720x1280/1487973901</high>
+  </video>
+  <duration>
+    <start_time>37.0</start_time>
+    <end_time>49.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Roll each slice of bread flat with a rolling pin. Carefully cut off the crusts. </step>
+    <step num="1">Spread desired amount of peanut butter and bananas along the edge of the bread, and roll up. </step>
+    <step num="2">In a bowl, combine eggs, milk, cinnamon, and vanilla. </step>
+    <step num="3">Dip each roll-up in egg mixture, and pan-fry in a buttered skillet until all sides are golden brown. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Roll each slice of bread flat with a rolling pin. </steps_updated>
+    <steps_updated num="1">Carefully cut off the crusts. </steps_updated>
+    <steps_updated num="2">Spread desired amount of peanut butter and bananas along the edge of the bread, and roll up. </steps_updated>
+    <steps_updated num="3">In a bowl, combine eggs, milk, cinnamon, and vanilla. </steps_updated>
+    <steps_updated num="4">Dip each roll-up in egg mixture, and pan-fry in a buttered skillet until all sides are golden brown. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

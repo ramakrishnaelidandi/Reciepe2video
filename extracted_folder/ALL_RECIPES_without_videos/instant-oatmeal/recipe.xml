@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Instant Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/instant-oatmeal</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-instant-oatmeal-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6 cups ; whole rolled oat ; (600 g) </ingredient>
+    <ingredient num="1">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="2">¾ cup ; water, or milk, boiling ; (175 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54595/low_1506984226.m3u8</low>
+    <high>https://vid.tasty.co/output/54595/mp4_720x1280/1506984226</high>
+  </video>
+  <duration>
+    <start_time>0.6200000000000001</start_time>
+    <end_time>16.82</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place whole rolled oats into a large mixing bowl. </step>
+    <step num="1">Scoop 2 cups (200 grams) of the rolled oats into a separate bowl and process in a blender or food processor until it becomes a fine powder. </step>
+    <step num="2">Pour the blended oats into the bowl of whole rolled oats. Add salt and stir until evenly combined. </step>
+    <step num="3">Add desired flavor additions then place the instant oatmeal mixture into an airtight container or divide into ½ cup (50 gram) single-serve portions. </step>
+    <step num="4">When ready to eat, pour the boiling water or milk. Stir to combine and let sit for 3 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place whole rolled oats into a large mixing bowl. </steps_updated>
+    <steps_updated num="1">Scoop 2 cups (200 grams) of the rolled oats into a separate bowl and process in a blender or food processor until it becomes a fine powder. </steps_updated>
+    <steps_updated num="2">Pour the blended oats into the bowl of whole rolled oats. </steps_updated>
+    <steps_updated num="3">Add salt and stir until evenly combined. </steps_updated>
+    <steps_updated num="4">Add desired flavor additions then place the instant oatmeal mixture into an airtight container or divide into ½ cup (50 gram) single-serve portions. </steps_updated>
+    <steps_updated num="5">When ready to eat, pour the boiling water or milk. </steps_updated>
+    <steps_updated num="6">Stir to combine and let sit for 3 minutes. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00055</start_time>
+    <end_time>00557</end_time>
+  </duration_human>
+</recipe>

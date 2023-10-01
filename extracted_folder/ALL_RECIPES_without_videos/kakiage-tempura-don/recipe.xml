@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Kakiage Tempura Don Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kakiage-tempura-don</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; egg </ingredient>
+    <ingredient num="1">1 cup ; all-purpose flour, plus more for dredging ; (120 g) </ingredient>
+    <ingredient num="2">½ cup ; cold water ; (120 mL) </ingredient>
+    <ingredient num="3">1 ; eggplant, sliced </ingredient>
+    <ingredient num="4">2 slices ; pumpkin </ingredient>
+    <ingredient num="5">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="6">4 ; shrimps, peeled and deveined </ingredient>
+    <ingredient num="7">½ ; onion, sliced </ingredient>
+    <ingredient num="8">½ carrot ; carrot, sliced </ingredient>
+    <ingredient num="9">1 cup ; fresh japanese parsley ; (30 g) </ingredient>
+    <ingredient num="10">⅛ cup ; dried shrimp ; (15 g) </ingredient>
+    <ingredient num="11">oil, for frying </ingredient>
+    <ingredient num="12">4 tablespoons ; soy sauce </ingredient>
+    <ingredient num="13">5 tablespoons ; mirin </ingredient>
+    <ingredient num="14">2 tablespoons ; sugar </ingredient>
+    <ingredient num="15">1 lb ; cooked rice ; (500 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79127/hls24_1518715893.m3u8</low>
+    <high>https://vid.tasty.co/output/79127/landscape_720/1518715893</high>
+  </video>
+  <steps>
+    <step num="0">Whisk the egg in a small bowl. Add flour and the cold water, and whisk to combine. Cover with plastic wrap and chill in the refrigerator. </step>
+    <step num="1">To make the tempura, slice the eggplant in half lengthwise, then cut the bottom into 5 slices (be careful not to cut all the way through to the top). </step>
+    <step num="2">Add flour to a shallow dish. Coat the eggplant, pumpkin, green bell pepper, and shrimp in the flour, shaking off any excess. </step>
+    <step num="3">Heat the oil in a large pot until it reaches 350°F (180˚C). </step>
+    <step num="4">Dip the floured vegetables and shrimp into the batter. </step>
+    <step num="5">Fry the battered shrimp and vegetables until they float to the top and are golden brown in color. Use a slotted spoon to transfer them to a paper towel-lined plate to drain. </step>
+    <step num="6">To make the kakiage, put the onion, carrot, Japanese parsley and dried shrimp into a medium bowl. Add 2 tablespoons of flour and toss to coat. Pour the leftover tempura batter on the top and mix until evenly coated. </step>
+    <step num="7">Bring the oil in the pot back to 350°F (180˚C). Drop the kakiage by the spoonful into the oil and fry until golden brown in color. Use a slotted spoon to transfer them to a paper towel-lined plate to drain. </step>
+    <step num="8">In a medium pan, combine the soy sauce, mirin and sugar, and bring to a boil over high heat for 2 minutes. </step>
+    <step num="9">Top the rice with kakiage and tempura and drizzle with the sauce. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk the egg in a small bowl. </steps_updated>
+    <steps_updated num="1">Add flour and the cold water, and whisk to combine. </steps_updated>
+    <steps_updated num="2">Cover with plastic wrap and chill in the refrigerator. </steps_updated>
+    <steps_updated num="3">To make the tempura, slice the eggplant in half lengthwise, then cut the bottom into 5 slices (be careful not to cut all the way through to the top). </steps_updated>
+    <steps_updated num="4">Add flour to a shallow dish. </steps_updated>
+    <steps_updated num="5">Coat the eggplant, pumpkin, green bell pepper, and shrimp in the flour, shaking off any excess. </steps_updated>
+    <steps_updated num="6">Heat the oil in a large pot until it reaches 350°F (180˚C). </steps_updated>
+    <steps_updated num="7">Dip the floured vegetables and shrimp into the batter. </steps_updated>
+    <steps_updated num="8">Fry the battered shrimp and vegetables until they float to the top and are golden brown in color. </steps_updated>
+    <steps_updated num="9">Use a slotted spoon to transfer them to a paper towel-lined plate to drain. </steps_updated>
+    <steps_updated num="10">To make the kakiage, put the onion, carrot, Japanese parsley and dried shrimp into a medium bowl. </steps_updated>
+    <steps_updated num="11">Add 2 tablespoons of flour and toss to coat. </steps_updated>
+    <steps_updated num="12">Pour the leftover tempura batter on the top and mix until evenly coated. </steps_updated>
+    <steps_updated num="13">Bring the oil in the pot back to 350°F (180˚C). </steps_updated>
+    <steps_updated num="14">Drop the kakiage by the spoonful into the oil and fry until golden brown in color. </steps_updated>
+    <steps_updated num="15">Use a slotted spoon to transfer them to a paper towel-lined plate to drain. </steps_updated>
+    <steps_updated num="16">In a medium pan, combine the soy sauce, mirin and sugar, and bring to a boil over high heat for 2 minutes. </steps_updated>
+    <steps_updated num="17">Top the rice with kakiage and tempura and drizzle with the sauce. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chinese-style ‘1-2-3-4-5-6’ One-pot Chinese Ribs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chinese-style-1-2-3-4-5-6-one-pot-chinese-ribs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">1 ⅓ lb ; pork rib ; (600 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; cooking wine </ingredient>
+    <ingredient num="3">2 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="4">3 tablespoons ; sugar </ingredient>
+    <ingredient num="5">4 tablespoons ; soy sauce </ingredient>
+    <ingredient num="6">5 tablespoons ; water </ingredient>
+    <ingredient num="7">6 cloves ; garlic </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Date Night</category>
+    <category num="8">Game Day</category>
+    <category num="9">BBQ</category>
+    <category num="10">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29021/low_1492017637.m3u8</low>
+    <high>https://vid.tasty.co/output/29021/mp4_720x1280/1492017637</high>
+  </video>
+  <steps>
+    <step num="0">Heat the oil in a large sauce pan over a medium heat. </step>
+    <step num="1">Add the ribs and sear until all sides turn golden brown. </step>
+    <step num="2">Add in all the seasoning. </step>
+    <step num="3">Bring the liquid to a boil, reduce heat, and cover. Simmer the ribs for an hour to 90 minutes. Until the ribs become really tender. </step>
+    <step num="4">Once the ribs are cooked remove lid and reduce the sauce for 5 minutes. </step>
+    <step num="5">Serve drizzled with sauce. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the oil in a large sauce pan over a medium heat. </steps_updated>
+    <steps_updated num="1">Add the ribs and sear until all sides turn golden brown. </steps_updated>
+    <steps_updated num="2">Add in all the seasoning. </steps_updated>
+    <steps_updated num="3">Bring the liquid to a boil, reduce heat, and cover. </steps_updated>
+    <steps_updated num="4">Simmer the ribs for an hour to 90 minutes. </steps_updated>
+    <steps_updated num="5">Until the ribs become really tender. </steps_updated>
+    <steps_updated num="6">Once the ribs are cooked remove lid and reduce the sauce for 5 minutes. </steps_updated>
+    <steps_updated num="7">Serve drizzled with sauce. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

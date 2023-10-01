@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chili Cheese Mac 'n' Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-cheese-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/better-boxed-mac-n-cheese</comp_url>
+  <ingredients>
+    <ingredient num="0">1 box ; mac 'n' cheese </ingredient>
+    <ingredient num="1">½ lb ; ground beef, cooked ; (225 g) </ingredient>
+    <ingredient num="2">¼ cup ; grated cheddar cheese ; (30 g) </ingredient>
+    <ingredient num="3">1 cup ; red kidney bean ; (170 g) </ingredient>
+    <ingredient num="4">4 oz ; green chilli, 1 can ; (115 g) </ingredient>
+    <ingredient num="5">2 teaspoons ; chili powder </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48652/low_1503426999.m3u8</low>
+    <high>https://vid.tasty.co/output/48652/mp4_720x1280/1503426999</high>
+  </video>
+  <duration>
+    <start_time>54.55</start_time>
+    <end_time>73.48</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cook 1 box of Mac 'N' Cheese according to instructions on box. </step>
+    <step num="1">Add cooked ground beef, cheddar cheese, kidney beans, green chilis, and chili powder, stir until fully incorporated. </step>
+    <step num="2">Top with desired garnish. Serve immediately. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook 1 box of Mac 'N' Cheese according to instructions on box. </steps_updated>
+    <steps_updated num="1">Add cooked ground beef, cheddar cheese, kidney beans, green chilis, and chili powder, stir until fully incorporated. </steps_updated>
+    <steps_updated num="2">Top with desired garnish. </steps_updated>
+    <steps_updated num="3">Serve immediately. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01681</start_time>
+    <end_time>02235</end_time>
+  </duration_human>
+</recipe>

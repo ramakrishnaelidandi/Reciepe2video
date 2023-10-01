@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Omelette In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/omelette-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/clever-mason-jar-hacks</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; large eggs </ingredient>
+    <ingredient num="1">4 ; large egg whites </ingredient>
+    <ingredient num="2">½ cup ; plain greek yogurt ; (140 g) </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">½ tablespoon ; garlic powder </ingredient>
+    <ingredient num="6">½ cup ; fresh spinach, chopped ; (20 g) </ingredient>
+    <ingredient num="7">1 cup ; tomato, diced ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50560/low_1504212116.m3u8</low>
+    <high>https://vid.tasty.co/output/50560/mp4_720x1280/1504212116</high>
+  </video>
+  <duration>
+    <start_time>80.5</start_time>
+    <end_time>102.55</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Prepare each mason jar with oil or nonstick spray of choice to prevent sticking. </step>
+    <step num="2">In a medium mixing bowl, add all ingredients. Mix well. </step>
+    <step num="3">Add the egg mixture to the jars, filling them ¾ of the way full. Do not add the lids. </step>
+    <step num="4">Place the mason jars on a small baking sheet and bake 25-30 minutes. </step>
+    <step num="5">Remove jars from the oven, then cool 5-10 minutes before serving. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Prepare each mason jar with oil or nonstick spray of choice to prevent sticking. </steps_updated>
+    <steps_updated num="2">In a medium mixing bowl, add all ingredients. </steps_updated>
+    <steps_updated num="3">Mix well. </steps_updated>
+    <steps_updated num="4">Add the egg mixture to the jars, filling them ¾ of the way full. </steps_updated>
+    <steps_updated num="5">Do not add the lids. </steps_updated>
+    <steps_updated num="6">Place the mason jars on a small baking sheet and bake 25-30 minutes. </steps_updated>
+    <steps_updated num="7">Remove jars from the oven, then cool 5-10 minutes before serving. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02467</start_time>
+    <end_time>03084</end_time>
+  </duration_human>
+</recipe>

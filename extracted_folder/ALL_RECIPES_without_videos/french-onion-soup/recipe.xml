@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>French Onion Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/french-onion-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">2 tablespoons ; butter </ingredient>
+    <ingredient num="2">6 cups ; yellow onion, thinly sliced ; (900 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; sugar </ingredient>
+    <ingredient num="5">3 tablespoons ; flour </ingredient>
+    <ingredient num="6">6 cups ; beef stock ; (1.4 L) </ingredient>
+    <ingredient num="7">1 cup ; white wine ; (235 mL) </ingredient>
+    <ingredient num="8">½ teaspoon ; ground sage </ingredient>
+    <ingredient num="9">1 leaf ; whole bay leaf </ingredient>
+    <ingredient num="10">1 loaf ; french bread, or baguette </ingredient>
+    <ingredient num="11">3 tablespoons ; cognac, optional </ingredient>
+    <ingredient num="12">12 oz ; swiss cheese, grated ; (340 g) </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+    <ingredient num="14">4 oz ; parmesan cheese, grated ; (110 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31957/low_1495124967.m3u8</low>
+    <high>https://vid.tasty.co/output/31957/mp4_720x1280/1495124967</high>
+  </video>
+  <steps>
+    <step num="0">Preheat Oven To 325˚F (160˚C). </step>
+    <step num="1">In a large pot over medium-low heat, heat olive oil and add butter. Once the butter is melted, stir the onions and coat with oil and butter. </step>
+    <step num="2">Cover and cook for 20 minutes, checking occasionally. </step>
+    <step num="3">Turn up the heat to medium-high. Add ½ tsp salt and sugar. Stir and keep cooking until onions are brown and caramelized. (the bottom of the pan will develop some browning, it’s very important!) </step>
+    <step num="4">Stir in flour one tablespoon at a time and cook for about 30 seconds. </step>
+    <step num="5">Add 1 cup (235 ml) of the beef broth. Use a whisk to scrape up (deglaze) the browned bits stuck on the bottom of the pan. </step>
+    <step num="6">Add the remaining five cups of beef stock, wine, sage and bay leaf. Bring to a boil. Reduce heat and simmer, uncovered, for 40 minutes. </step>
+    <step num="7">In the meantime, cut the french bread or baguette into ½ inch (10 mm) thick pieces. Brush with oil on both sides and bake at 325˚F (160˚C) for 30 minutes, flipping halfway. Once they are done, increase oven temperature to 350˚F (175˚C). </step>
+    <step num="8">Add optional ingredients. </step>
+    <step num="9">In an oven safe bowl, pour the onion soup, filling about ¾ of the way full. Top with a piece of baked french bread, and generously sprinkle swiss and parmesan on top. </step>
+    <step num="10">Bake for two to three minutes or until the cheese has melted completely and become slightly golden. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat Oven To 325˚F (160˚C). </steps_updated>
+    <steps_updated num="1">In a large pot over medium-low heat, heat olive oil and add butter. </steps_updated>
+    <steps_updated num="2">Once the butter is melted, stir the onions and coat with oil and butter. </steps_updated>
+    <steps_updated num="3">Cover and cook for 20 minutes, checking occasionally. </steps_updated>
+    <steps_updated num="4">Turn up the heat to medium-high. </steps_updated>
+    <steps_updated num="5">Add ½ tsp salt and sugar. </steps_updated>
+    <steps_updated num="6">Stir and keep cooking until onions are brown and caramelized. </steps_updated>
+    <steps_updated num="7">(the bottom of the pan will develop some browning, it’s very important!) </steps_updated>
+    <steps_updated num="8">Stir in flour one tablespoon at a time and cook for about 30 seconds. </steps_updated>
+    <steps_updated num="9">Add 1 cup (235 ml) of the beef broth. </steps_updated>
+    <steps_updated num="10">Use a whisk to scrape up (deglaze) the browned bits stuck on the bottom of the pan. </steps_updated>
+    <steps_updated num="11">Add the remaining five cups of beef stock, wine, sage and bay leaf. </steps_updated>
+    <steps_updated num="12">Bring to a boil. </steps_updated>
+    <steps_updated num="13">Reduce heat and simmer, uncovered, for 40 minutes. </steps_updated>
+    <steps_updated num="14">In the meantime, cut the french bread or baguette into ½ inch (10 mm) thick pieces. </steps_updated>
+    <steps_updated num="15">Brush with oil on both sides and bake at 325˚F (160˚C) for 30 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="16">Once they are done, increase oven temperature to 350˚F (175˚C). </steps_updated>
+    <steps_updated num="17">Add optional ingredients. </steps_updated>
+    <steps_updated num="18">In an oven safe bowl, pour the onion soup, filling about ¾ of the way full. </steps_updated>
+    <steps_updated num="19">Top with a piece of baked french bread, and generously sprinkle swiss and parmesan on top. </steps_updated>
+    <steps_updated num="20">Bake for two to three minutes or until the cheese has melted completely and become slightly golden. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Salsa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-salsa</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; ripe avocados, diced </ingredient>
+    <ingredient num="1">½ ; red onion, chopped </ingredient>
+    <ingredient num="2">2 ; tomatoes, diced </ingredient>
+    <ingredient num="3">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="4">2 ; limes, juiced </ingredient>
+    <ingredient num="5">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">3 tablespoons ; red wine vinegar </ingredient>
+    <ingredient num="9">½ cup ; feta cheese ; (55 g) </ingredient>
+    <ingredient num="10">tortilla chips, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Lunch</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15820/low_1479929507.m3u8</low>
+    <high>https://vid.tasty.co/output/15820/mp4_720x1280/1479929507</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, combine all ingredients and gently mix together. </step>
+    <step num="1">For best flavor, allow to set 30 minutes. </step>
+    <step num="2">Garnish with additional feta just before serving. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, combine all ingredients and gently mix together. </steps_updated>
+    <steps_updated num="1">For best flavor, allow to set 30 minutes. </steps_updated>
+    <steps_updated num="2">Garnish with additional feta just before serving. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

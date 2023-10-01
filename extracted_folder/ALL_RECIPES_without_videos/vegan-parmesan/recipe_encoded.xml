@@ -1,0 +1,43 @@
+<recipe>
+  <title>Vegan Parmesan Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-parmesan</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheese-2-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12188 7974 14084 13278 12933 5981 </ingredient>
+    <ingredient num="1">4061 9486 13278 12927 10026 </ingredient>
+    <ingredient num="2">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="3">3917 8071 13278 82 </ingredient>
+    <ingredient num="4">12791 8071 13278 13584 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Sides</category>
+    <category num="7">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54541/low_1506972119.m3u8</low>
+    <high>https://vid.tasty.co/output/54541/mp4_720x1280/1506972119</high>
+  </video>
+  <duration>
+    <start_time>31.93</start_time>
+    <end_time>53.69</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 8554 11907 210 8016 9909 13817 9909 1681 3145 13592 13817 9456 </step>
+    <step num="1">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 8554 11907 210 8016 9909 13817 9909 1681 3145 13592 13817 9456 </steps_updated>
+    <steps_updated num="1">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01016</start_time>
+    <end_time>01329</end_time>
+  </duration_human>
+</recipe>

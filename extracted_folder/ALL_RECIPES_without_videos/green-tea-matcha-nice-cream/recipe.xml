@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Green Tea Matcha Nice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/green-tea-matcha-nice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/banana-nice-cream-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; ripe bananas </ingredient>
+    <ingredient num="1">⅓ cup ; almond milk ; (80 mL) </ingredient>
+    <ingredient num="2">½ tablespoon ; matcha powder </ingredient>
+    <ingredient num="3">1 teaspoon ; agave </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103748/hls24_1533141877.m3u8</low>
+    <high>https://vid.tasty.co/output/103748/landscape_720/1533141877</high>
+  </video>
+  <duration>
+    <start_time>115.833</start_time>
+    <end_time>147.033</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel and slice the bananas, then freeze overnight. </step>
+    <step num="1">Add the frozen bananas, almond milk, matcha powder, and agave to a food processor or blender. Blend until smooth and thick. </step>
+    <step num="2">Transfer to a loaf pan and freeze for at least 2 hours. </step>
+    <step num="3">Serve topped with matcha powder. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel and slice the bananas, then freeze overnight. </steps_updated>
+    <steps_updated num="1">Add the frozen bananas, almond milk, matcha powder, and agave to a food processor or blender. </steps_updated>
+    <steps_updated num="2">Blend until smooth and thick. </steps_updated>
+    <steps_updated num="3">Transfer to a loaf pan and freeze for at least 2 hours. </steps_updated>
+    <steps_updated num="4">Serve topped with matcha powder. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

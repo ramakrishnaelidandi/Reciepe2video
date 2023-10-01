@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Steak Fajitas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-steak-fajitas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; yellow onion, sliced </ingredient>
+    <ingredient num="1">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="2">1 ; yellow bell pepper, sliced </ingredient>
+    <ingredient num="3">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="4">1 ½ lb ; flank steak ; (680 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="6">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 ; lime, juiced </ingredient>
+    <ingredient num="8">10 oz ; diced tomato with green chilli, 1 can, drained ; (285 g) </ingredient>
+    <ingredient num="9">flour tortilla, or corn tortilla </ingredient>
+    <ingredient num="10">fresh cilantro, for garnish, optional </ingredient>
+    <ingredient num="11">cotija cheese, for garnish, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Dinner</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26780/low_1489711827.m3u8</low>
+    <high>https://vid.tasty.co/output/26780/mp4_720x1280/1489711827</high>
+  </video>
+  <steps>
+    <step num="0">Place onions, peppers, and whole flank steak in the slow cooker. Top with taco seasoning, garlic, lime, and diced tomatoes. </step>
+    <step num="1">Cover and cook on high for 4 hours or on low for 8 hours. </step>
+    <step num="2">Remove steak from the slow cooker. </step>
+    <step num="3">Optional: broil steak for 4-5 minutes until crisp for added texture. </step>
+    <step num="4">Slice steak across the grain into thin strips. </step>
+    <step num="5">Add the steak back into the slow cooker and combine with other ingredients. </step>
+    <step num="6">Plate with tortillas of your choice and garnish with cilantro and cotija (optional). </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place onions, peppers, and whole flank steak in the slow cooker. </steps_updated>
+    <steps_updated num="1">Top with taco seasoning, garlic, lime, and diced tomatoes. </steps_updated>
+    <steps_updated num="2">Cover and cook on high for 4 hours or on low for 8 hours. </steps_updated>
+    <steps_updated num="3">Remove steak from the slow cooker. </steps_updated>
+    <steps_updated num="4">Optional: broil steak for 4-5 minutes until crisp for added texture. </steps_updated>
+    <steps_updated num="5">Slice steak across the grain into thin strips. </steps_updated>
+    <steps_updated num="6">Add the steak back into the slow cooker and combine with other ingredients. </steps_updated>
+    <steps_updated num="7">Plate with tortillas of your choice and garnish with cilantro and cotija (optional). </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

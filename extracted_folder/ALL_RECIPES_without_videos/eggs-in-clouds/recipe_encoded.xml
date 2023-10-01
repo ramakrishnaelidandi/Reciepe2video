@@ -1,0 +1,43 @@
+<recipe>
+  <title>Eggs In Clouds Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggs-in-clouds</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6216 </ingredient>
+    <ingredient num="1">7035 2517 </ingredient>
+    <ingredient num="2">11292 2517 </ingredient>
+    <ingredient num="3">109 13810 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Breakfast</category>
+    <category num="7">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31991/low_1495125032.m3u8</low>
+    <high>https://vid.tasty.co/output/31991/mp4_720x1280/1495125032</high>
+  </video>
+  <steps>
+    <step num="0">8519 11951 5031 6781 6216 5197 </step>
+    <step num="1">10950 5994 2189 8154 14511 8341 11951 4072 1681 13448 5464 5563 9393 210 10569 1762 13029 818 11003 7035 3938 13817 109 4496 </step>
+    <step num="2">6877 11951 4072 669 5422 2009 4255 5994 10765 213 13817 3535 5994 3145 210 11951 937 371 10763 10235 1391 11951 13352 371 11951 1818 </step>
+    <step num="3">7831 7811 4195 14253 7990 13086 12689 </step>
+    <step num="4">10838 5994 5031 210 10763 12923 10903 6646 13086 8927 7811 4195 13239 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8519 11951 5031 6781 6216 5197 </steps_updated>
+    <steps_updated num="1">10950 5994 2189 8154 14511 8341 11951 4072 1681 13448 5464 5563 </steps_updated>
+    <steps_updated num="2">9393 210 10569 1762 13029 </steps_updated>
+    <steps_updated num="3">818 11003 7035 3938 13817 109 4496 </steps_updated>
+    <steps_updated num="4">6877 11951 4072 669 5422 2009 4255 5994 10765 213 13817 3535 5994 3145 210 11951 937 371 10763 10235 1391 11951 13352 371 11951 1818 </steps_updated>
+    <steps_updated num="5">7831 7811 4195 14253 7990 13086 12689 </steps_updated>
+    <steps_updated num="6">10838 5994 5031 210 10763 12923 10903 6646 13086 8927 7811 4195 13239 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quesadillas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ lb ; chicken breast, cut into strips ; (225 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">½ cup ; BBQ sauce ; (145 g) </ingredient>
+    <ingredient num="4">2 ; flour tortillas </ingredient>
+    <ingredient num="5">¼ cup ; red onion, julienned ; (35 g) </ingredient>
+    <ingredient num="6">½ cup ; monterey jack cheese, double for 2 quesadillas ; (50 g) </ingredient>
+    <ingredient num="7">½ cup ; cheddar cheese, double for 2 quesadillas ; (50 g) </ingredient>
+    <ingredient num="8">fresh parsley </ingredient>
+    <ingredient num="9">BBQ sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">BBQ</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7994/low_1472223451.m3u8</low>
+    <high>https://vid.tasty.co/output/7994/mp4_720x1280/1472223451</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>31.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large skillet, add chicken breast and season both sides with salt and pepper. </step>
+    <step num="1">Cook 15-18 minutes, flipping halfway and adding the onions when you flip the chicken. (Cooking times may vary depending on thickness of the chicken breast). </step>
+    <step num="2">Remove the chicken from the pan and continue to stir onions. </step>
+    <step num="3">Shred the chicken while onions are cooking. </step>
+    <step num="4">Return the shredded chicken to the pan with the onions. Add the BBQ sauce and stir. Remove from the pan and set aside. </step>
+    <step num="5">Place a tortilla in a pan and add a layer monterey jack and cheddar cheese on half of the tortilla. </step>
+    <step num="6">Place cooked chicken and onions, and top with the rest of each cheese. Fold in half and cook 6 minutes, flipping halfway. </step>
+    <step num="7">Serve with extra BBQ sauce and garnish with fresh parsley. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large skillet, add chicken breast and season both sides with salt and pepper. </steps_updated>
+    <steps_updated num="1">Cook 15-18 minutes, flipping halfway and adding the onions when you flip the chicken. </steps_updated>
+    <steps_updated num="2">(Cooking times may vary depending on thickness of the chicken breast). </steps_updated>
+    <steps_updated num="3">Remove the chicken from the pan and continue to stir onions. </steps_updated>
+    <steps_updated num="4">Shred the chicken while onions are cooking. </steps_updated>
+    <steps_updated num="5">Return the shredded chicken to the pan with the onions. </steps_updated>
+    <steps_updated num="6">Add the BBQ sauce and stir. </steps_updated>
+    <steps_updated num="7">Remove from the pan and set aside. </steps_updated>
+    <steps_updated num="8">Place a tortilla in a pan and add a layer monterey jack and cheddar cheese on half of the tortilla. </steps_updated>
+    <steps_updated num="9">Place cooked chicken and onions, and top with the rest of each cheese. </steps_updated>
+    <steps_updated num="10">Fold in half and cook 6 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="11">Serve with extra BBQ sauce and garnish with fresh parsley. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00956</end_time>
+  </duration_human>
+</recipe>

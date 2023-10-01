@@ -1,0 +1,45 @@
+<recipe>
+  <title>Carrot Cake Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carrot-cake-oatmeal</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 5425 6781 3917 15 4125 11021 13278 13412 5981 </ingredient>
+    <ingredient num="1">1813 2605 13278 952 1967 13278 4239 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 9765 </ingredient>
+    <ingredient num="3">3917 2605 13278 4384 638 9889 3247 13278 7503 8007 </ingredient>
+    <ingredient num="4">1580 8071 13278 1319 10937 </ingredient>
+    <ingredient num="5">12791 8071 13278 11088 12425 </ingredient>
+    <ingredient num="6">3917 8071 13278 9586 </ingredient>
+    <ingredient num="7">13767 13278 12188 13969 1404 9487 5527 9169 </ingredient>
+    <ingredient num="8">1580 2605 13278 9615 9767 2694 12557 7990 4711 13278 9018 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32045/low_1495124999.m3u8</low>
+    <high>https://vid.tasty.co/output/32045/mp4_720x1280/1495124999</high>
+  </video>
+  <steps>
+    <step num="0">12473 3626 952 1103 2431 5425 11909 13817 1580 371 11951 638 9529 </step>
+    <step num="1">10434 210 2237 2759 3801 210 11951 10437 14142 7737 6851 10513 11951 11229 6384 8425 1762 7612 4948 12335 </step>
+    <step num="2">10895 11951 9694 2207 11951 374 1580 371 11951 638 9889 14240 308 13817 12425 210 5994 2192 10083 11770 13757 2082 </step>
+    <step num="3">8785 11951 2373 560 5994 11779 13817 12484 13328 6601 1681 11951 2373 9490 7711 13817 11951 1967 12573 8421 4061 560 2933 12689 </step>
+    <step num="4">12774 419 1391 9169 13817 1100 3713 4255 143 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12473 3626 952 1103 2431 5425 11909 13817 1580 371 11951 638 9529 </steps_updated>
+    <steps_updated num="1">10434 210 2237 2759 3801 210 11951 10437 14142 </steps_updated>
+    <steps_updated num="2">7737 6851 10513 11951 11229 6384 8425 1762 7612 4948 12335 </steps_updated>
+    <steps_updated num="3">10895 11951 9694 2207 11951 374 1580 371 11951 638 9889 14240 308 13817 12425 210 5994 2192 10083 11770 13757 2082 </steps_updated>
+    <steps_updated num="4">8785 11951 2373 560 5994 11779 13817 12484 13328 6601 1681 11951 2373 9490 7711 13817 11951 1967 12573 8421 4061 560 2933 12689 </steps_updated>
+    <steps_updated num="5">12774 419 1391 9169 13817 1100 3713 4255 143 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

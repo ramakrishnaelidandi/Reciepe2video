@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Brunch Strata Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/brunch-strata-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; eggs </ingredient>
+    <ingredient num="1">2 ½ cups ; milk ; (590 mL) </ingredient>
+    <ingredient num="2">2 teaspoons ; salt </ingredient>
+    <ingredient num="3">2 teaspoons ; pepper </ingredient>
+    <ingredient num="4">6 cups ; crusty baguette, cubed ; (210 g) </ingredient>
+    <ingredient num="5">1 cup ; cubed ham ; (150 g) </ingredient>
+    <ingredient num="6">1 cup ; spinach, cooked and drained ; (225 g) </ingredient>
+    <ingredient num="7">1 cup ; shredded cheese ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32047/low_1495125041.m3u8</low>
+    <high>https://vid.tasty.co/output/32047/mp4_720x1280/1495125041</high>
+  </video>
+  <steps>
+    <step num="0">Whisk together eggs, milk and salt and pepper. Add the cubed crusty bread, stir and let the bread soak up all the egg mix. </step>
+    <step num="1">Oil a 9x13-inch (23x33 cm) pan, put down ½ of the soaked bread, add ham, spinach and cheese. </step>
+    <step num="2">Top with the rest of the bread. If you need to, pat down the strata with your spoon or spatula. Sprinkle more cheese over the top. </step>
+    <step num="3">Bake in preheated oven at 350°F (177°C) for 45 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk together eggs, milk and salt and pepper. </steps_updated>
+    <steps_updated num="1">Add the cubed crusty bread, stir and let the bread soak up all the egg mix. </steps_updated>
+    <steps_updated num="2">Oil a 9x13-inch (23x33 cm) pan, put down ½ of the soaked bread, add ham, spinach and cheese. </steps_updated>
+    <steps_updated num="3">Top with the rest of the bread. </steps_updated>
+    <steps_updated num="4">If you need to, pat down the strata with your spoon or spatula. </steps_updated>
+    <steps_updated num="5">Sprinkle more cheese over the top. </steps_updated>
+    <steps_updated num="6">Bake in preheated oven at 350°F (177°C) for 45 minutes. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,35 @@
+<recipe>
+  <title>Spicy Yellow Mustard Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-yellow-mustard</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9883 2605 13278 5316 6422 11703 13278 3433 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="2">1580 8071 13278 11088 13056 </ingredient>
+    <ingredient num="3">3917 2605 13278 4934 13384 278 13278 7503 8007 </ingredient>
+    <ingredient num="4">3917 1580 9486 13278 7741 4617 10769 </ingredient>
+    <ingredient num="5">3917 1580 2031 13278 3855 82 </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/129122/hls24_1554414523.m3u8</low>
+    <high>https://vid.tasty.co/output/129122/landscape_720/1554414523</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2192 13799 4120 11951 6422 8117 11384 8117 948 13817 2019 283 2207 3128 3386 7115 13907 1681 2043 12119 8785 560 5994 11779 11770 4531 2082 3633 5693 6601 7990 5169 11004 1681 6352 560 11951 7968 371 9864 11091 2536 4872 148 11155 560 3945 2373 8120 5895 5316 5943 </step>
+    <step num="1">6054 11951 10083 6781 11951 7855 13817 6142 210 11951 10769 13817 12051 1828 10694 3936 </step>
+    <step num="2">12785 560 5994 8751 2759 3801 13817 1023 210 11951 7524 12450 6422 5376 2505 7990 3386 560 3917 2183 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 13799 4120 11951 6422 8117 11384 8117 948 13817 2019 </steps_updated>
+    <steps_updated num="1">283 2207 3128 3386 7115 13907 1681 2043 12119 </steps_updated>
+    <steps_updated num="2">8785 560 5994 11779 11770 4531 2082 </steps_updated>
+    <steps_updated num="3">3633 5693 6601 7990 5169 11004 1681 6352 560 11951 7968 371 9864 11091 2536 </steps_updated>
+    <steps_updated num="4">4872 148 11155 560 3945 2373 8120 5895 5316 5943 </steps_updated>
+    <steps_updated num="5">6054 11951 10083 6781 11951 7855 13817 6142 210 11951 10769 13817 12051 </steps_updated>
+    <steps_updated num="6">1828 10694 3936 </steps_updated>
+    <steps_updated num="7">12785 560 5994 8751 2759 3801 13817 1023 210 11951 7524 </steps_updated>
+    <steps_updated num="8">12450 6422 5376 2505 7990 3386 560 3917 2183 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

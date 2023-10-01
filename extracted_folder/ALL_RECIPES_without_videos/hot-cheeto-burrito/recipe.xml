@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hot Cheeto Burrito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-cheeto-burrito</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/restaurant-vs-homemade-flaming-hot-cheeto-burrito</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; flank steak ; (450 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; taco seasoning </ingredient>
+    <ingredient num="2">2 teaspoons ; salt, divided </ingredient>
+    <ingredient num="3">2 teaspoons ; lime juice, divided </ingredient>
+    <ingredient num="4">2 ; avocados </ingredient>
+    <ingredient num="5">¼ cup ; mexican sour cream ; (55 g) </ingredient>
+    <ingredient num="6">8 oz ; flaming hot cheetos, 1 bag ; (225 g) </ingredient>
+    <ingredient num="7">½ cup ; cheddar cheese, canned ; (50 g) </ingredient>
+    <ingredient num="8">1 ; canola oil, to fry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69477/hls24_1513808824.m3u8</low>
+    <high>https://vid.tasty.co/output/69477/landscape_720/1513808824</high>
+  </video>
+  <duration>
+    <start_time>40.43</start_time>
+    <end_time>106.899</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut flank steak into fajita size pieces and place in bowl. Add the taco seasoning, 1 teaspoon lime juice and salt. Let marinate for 30 minutes. </step>
+    <step num="1">Scoop avocado with a spoon and place in a bowl. Add 1 teaspoon lime juice, salt and mash with a fork until soft enough to whisk. </step>
+    <step num="2">In a frying pan, add 1 tablespoon of canola oil and let heat for 30 seconds. Add marinated meat and let cook for 20 minutes, stirring until meat is browned. </step>
+    <step num="3">In a small saucepan heat condensed cheddar cheese for 3 minutes, stir throughout. </step>
+    <step num="4">On a griddle warm up flour tortilla until soft. Add cooked meat, add half of guacamole, 2 tablespoons of sour cream, 1 bag of hot cheetos, and warm cheddar cheese. </step>
+    <step num="5">Wrap burrito up, fold ends in then each corner of the top side until you can roll the top side up. </step>
+    <step num="6">Slice in half, and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut flank steak into fajita size pieces and place in bowl. </steps_updated>
+    <steps_updated num="1">Add the taco seasoning, 1 teaspoon lime juice and salt. </steps_updated>
+    <steps_updated num="2">Let marinate for 30 minutes. </steps_updated>
+    <steps_updated num="3">Scoop avocado with a spoon and place in a bowl. </steps_updated>
+    <steps_updated num="4">Add 1 teaspoon lime juice, salt and mash with a fork until soft enough to whisk. </steps_updated>
+    <steps_updated num="5">In a frying pan, add 1 tablespoon of canola oil and let heat for 30 seconds. </steps_updated>
+    <steps_updated num="6">Add marinated meat and let cook for 20 minutes, stirring until meat is browned. </steps_updated>
+    <steps_updated num="7">In a small saucepan heat condensed cheddar cheese for 3 minutes, stir throughout. </steps_updated>
+    <steps_updated num="8">On a griddle warm up flour tortilla until soft. </steps_updated>
+    <steps_updated num="9">Add cooked meat, add half of guacamole, 2 tablespoons of sour cream, 1 bag of hot cheetos, and warm cheddar cheese. </steps_updated>
+    <steps_updated num="10">Wrap burrito up, fold ends in then each corner of the top side until you can roll the top side up. </steps_updated>
+    <steps_updated num="11">Slice in half, and enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01013</start_time>
+    <end_time>02598</end_time>
+  </duration_human>
+</recipe>

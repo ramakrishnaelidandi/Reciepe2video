@@ -1,0 +1,58 @@
+<recipe>
+  <title>Guacamole Onion Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/guacamole-onion-rings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 10415 11728 </ingredient>
+    <ingredient num="1">3917 13278 9712 </ingredient>
+    <ingredient num="2">3917 13278 9491 341 13817 6124 371 1198 12282 </ingredient>
+    <ingredient num="3">12791 2605 13278 6209 6712 3962 13278 12237 5981 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">1580 8071 13278 13389 11703 </ingredient>
+    <ingredient num="7">8580 13278 11091 7272 12667 </ingredient>
+    <ingredient num="8">6467 7990 5443 </ingredient>
+    <ingredient num="9">8580 13278 14463 9917 </ingredient>
+    <ingredient num="10">8580 9517 13278 12956 1230 13278 11953 5981 </ingredient>
+    <ingredient num="11">7632 7990 5291 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32101/low_1495125314.m3u8</low>
+    <high>https://vid.tasty.co/output/32101/mp4_720x1280/1495125314</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 3624 14511 12833 6716 1391 11951 10522 371 797 1273 9393 210 3962 9491 6712 4155 12610 13817 13389 785 </step>
+    <step num="1">14100 6334 669 10894 10187 1645 10832 12775 10909 11951 10260 669 7714 13607 12474 5994 3802 2584 4577 7454 2696 6334 3571 13817 13262 10763 1391 8559 5570 7238 210 7668 1681 12866 12363 797 10987 </step>
+    <step num="2">9179 6467 9917 14463 13817 12956 4465 9031 560 2734 10909 7139 6054 11579 11905 3571 6781 10933 7692 10763 3859 210 6467 415 4036 415 4465 10745 309 1956 3954 210 6216 13817 5994 11757 1441 210 4465 10745 </step>
+    <step num="3">10950 5994 2597 7110 7855 5766 560 9988 8999 8916 11905 6334 3571 210 10470 1681 9861 870 4255 8554 6701 </step>
+    <step num="4">5570 4255 12 7824 4157 560 3499 3482 7115 1198 14158 6252 1391 82 13817 9712 8587 12774 1391 1484 5808 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 3624 14511 12833 6716 1391 11951 10522 371 797 1273 </steps_updated>
+    <steps_updated num="1">9393 210 3962 9491 6712 4155 12610 13817 13389 785 </steps_updated>
+    <steps_updated num="2">14100 6334 669 10894 10187 1645 10832 </steps_updated>
+    <steps_updated num="3">12775 10909 11951 10260 669 7714 13607 </steps_updated>
+    <steps_updated num="4">12474 5994 3802 2584 4577 7454 2696 6334 3571 13817 13262 10763 1391 8559 </steps_updated>
+    <steps_updated num="5">5570 7238 210 7668 1681 12866 12363 797 10987 </steps_updated>
+    <steps_updated num="6">9179 6467 9917 14463 13817 12956 4465 9031 560 2734 10909 7139 </steps_updated>
+    <steps_updated num="7">6054 11579 11905 3571 6781 10933 </steps_updated>
+    <steps_updated num="8">7692 10763 3859 210 6467 415 4036 415 4465 10745 </steps_updated>
+    <steps_updated num="9">309 1956 3954 210 6216 13817 5994 11757 1441 210 4465 10745 </steps_updated>
+    <steps_updated num="10">10950 5994 2597 7110 7855 5766 560 9988 8999 </steps_updated>
+    <steps_updated num="11">8916 11905 6334 3571 210 10470 1681 9861 870 4255 8554 6701 </steps_updated>
+    <steps_updated num="12">5570 4255 12 7824 4157 560 3499 3482 7115 1198 14158 </steps_updated>
+    <steps_updated num="13">6252 1391 82 13817 9712 8587 </steps_updated>
+    <steps_updated num="14">12774 1391 1484 5808 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

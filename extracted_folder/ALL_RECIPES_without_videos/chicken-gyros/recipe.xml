@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Gyros Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-gyros</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; boneless, skinless chicken thighs, pounded flat ; (905 g) </ingredient>
+    <ingredient num="1">½ ; large yellow onion, peeled and root side removed </ingredient>
+    <ingredient num="2">1 ; wooden skewers, sturdy, roughly 10 inches (25 cm) </ingredient>
+    <ingredient num="3">2 cups ; greek yogurt ; (570 g) </ingredient>
+    <ingredient num="4">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="5">¾ cup ; olive oil ; (180 mL) </ingredient>
+    <ingredient num="6">1 tablespoon ; kosher salt </ingredient>
+    <ingredient num="7">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="8">1 tablespoon ; coriander powder </ingredient>
+    <ingredient num="9">1 tablespoon ; paprika </ingredient>
+    <ingredient num="10">1 tablespoon ; ground cumin </ingredient>
+    <ingredient num="11">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="12">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="13">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="14">1 ; large cucumber, shredded </ingredient>
+    <ingredient num="15">2 cups ; greek yogurt ; (570 g) </ingredient>
+    <ingredient num="16">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="17">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="18">2 tablespoons ; fresh dill, finely chopped </ingredient>
+    <ingredient num="19">2 tablespoons ; fresh parsley, finely chopped </ingredient>
+    <ingredient num="20">salt, to taste </ingredient>
+    <ingredient num="21">pepper, to taste </ingredient>
+    <ingredient num="22">8 ; pita breads </ingredient>
+    <ingredient num="23">onion, sliced </ingredient>
+    <ingredient num="24">tomato, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Greek</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51336/low_1504739525.m3u8</low>
+    <high>https://vid.tasty.co/output/51336/mp4_720x1280/1504739525</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine marinade ingredients and stir well. </step>
+    <step num="1">On a cutting board, place a piece of plastic wrap over the chicken thighs and pound until about ½ inch (1 cm) thick with a meat mallet, rolling pin, or heavy pan. </step>
+    <step num="2">In another large bowl or gallon plastic bag, combine chicken thighs and marinade, stirring well to coat. Cover and refrigerate for at least one hour and up to one day. </step>
+    <step num="3">Preheat oven to 400°F (200°C). </step>
+    <step num="4">Shred the cucumber, be sure to squeeze out any excess liquid. </step>
+    <step num="5">In a medium bowl, combine tzatziki ingredients and stir well. Cover and refrigerate at least 30 minutes. </step>
+    <step num="6">On a baking sheet or a large cast-iron skillet, use the onion half as a base and position the skewer vertically like a spit. Skewer the chicken thighs individually, rotating each one 90 degrees. </step>
+    <step num="7">Bake for 1.5 to 2 hours, until internal temperature reaches 165°F (75°C). Let cool for 10 minutes. </step>
+    <step num="8">Carve off slices of chicken to fill a pita. Top with onion slices, tomato slices, and tzatziki sauce. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine marinade ingredients and stir well. </steps_updated>
+    <steps_updated num="1">On a cutting board, place a piece of plastic wrap over the chicken thighs and pound until about ½ inch (1 cm) thick with a meat mallet, rolling pin, or heavy pan. </steps_updated>
+    <steps_updated num="2">In another large bowl or gallon plastic bag, combine chicken thighs and marinade, stirring well to coat. </steps_updated>
+    <steps_updated num="3">Cover and refrigerate for at least one hour and up to one day. </steps_updated>
+    <steps_updated num="4">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="5">Shred the cucumber, be sure to squeeze out any excess liquid. </steps_updated>
+    <steps_updated num="6">In a medium bowl, combine tzatziki ingredients and stir well. </steps_updated>
+    <steps_updated num="7">Cover and refrigerate at least 30 minutes. </steps_updated>
+    <steps_updated num="8">On a baking sheet or a large cast-iron skillet, use the onion half as a base and position the skewer vertically like a spit. </steps_updated>
+    <steps_updated num="9">Skewer the chicken thighs individually, rotating each one 90 degrees. </steps_updated>
+    <steps_updated num="10">Bake for 1.5 to 2 hours, until internal temperature reaches 165°F (75°C). </steps_updated>
+    <steps_updated num="11">Let cool for 10 minutes. </steps_updated>
+    <steps_updated num="12">Carve off slices of chicken to fill a pita. </steps_updated>
+    <steps_updated num="13">Top with onion slices, tomato slices, and tzatziki sauce. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

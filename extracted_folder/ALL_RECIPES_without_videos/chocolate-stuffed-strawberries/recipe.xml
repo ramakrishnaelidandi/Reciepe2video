@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Stuffed Strawberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-stuffed-strawberries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">strawberry, whichever you prefer </ingredient>
+    <ingredient num="1">1 cup ; semi sweet chocolate, melted ; (175 g) </ingredient>
+    <ingredient num="2">white chocolate, for dipping </ingredient>
+    <ingredient num="3">sprinkles, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32064/low_1495125040.m3u8</low>
+    <high>https://vid.tasty.co/output/32064/mp4_720x1280/1495125040</high>
+  </video>
+  <steps>
+    <step num="0">Remove the tops from strawberries. </step>
+    <step num="1">Scope out the inside of the strawberry. </step>
+    <step num="2">Put melted chocolate in piping bag. </step>
+    <step num="3">Fill strawberry with melted chocolate. </step>
+    <step num="4">Place strawberry top back on. Chill for 5 minutes. </step>
+    <step num="5">Dip the strawberries in white chocolate. </step>
+    <step num="6">Add sprinkles immediately. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the tops from strawberries. </steps_updated>
+    <steps_updated num="1">Scope out the inside of the strawberry. </steps_updated>
+    <steps_updated num="2">Put melted chocolate in piping bag. </steps_updated>
+    <steps_updated num="3">Fill strawberry with melted chocolate. </steps_updated>
+    <steps_updated num="4">Place strawberry top back on. </steps_updated>
+    <steps_updated num="5">Chill for 5 minutes. </steps_updated>
+    <steps_updated num="6">Dip the strawberries in white chocolate. </steps_updated>
+    <steps_updated num="7">Add sprinkles immediately. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

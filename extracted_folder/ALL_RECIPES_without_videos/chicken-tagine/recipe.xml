@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Tagine Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-tagine</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 teaspoon ; Schwartz ground cinnamon </ingredient>
+    <ingredient num="1">1 teaspoon ; Schwartz paprika </ingredient>
+    <ingredient num="2">1 teaspoon ; ground coriander </ingredient>
+    <ingredient num="3">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="4">1 teaspoon ; cumin </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">3 lb ; chicken thighs ; (1.3 kg) </ingredient>
+    <ingredient num="7">4 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="8">1 lb ; baby potato, quartered ; (450 g) </ingredient>
+    <ingredient num="9">1 cup ; cherry tomato, halved ; (200 g) </ingredient>
+    <ingredient num="10">½ cup ; shallot, chopped ; (50 g) </ingredient>
+    <ingredient num="11">10 ; dried apricots, roughly chopped </ingredient>
+    <ingredient num="12">salt </ingredient>
+    <ingredient num="13">black pepper </ingredient>
+    <ingredient num="14">1 ; lemon, sliced </ingredient>
+    <ingredient num="15">1 tablespoon ; fresh parsley, chopped </ingredient>
+    <ingredient num="16">¼ cup ; almond, silvered, toasted ; (35 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+    <category num="1">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/127882/hls24_1553215105.m3u8</low>
+    <high>https://vid.tasty.co/output/127882/landscape_720/1553215105</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 190ºC (375ºF). </step>
+    <step num="1">Place all of the ingredients for the spice rub in a small bowl and mix to combine. </step>
+    <step num="2">Place chicken thighs in a large bowl and coat with the spice rub. </step>
+    <step num="3">Heat a very large cast iron skillet and drizzle in 2 tablespoons of olive oil. 5. Place seasoned chicken thighs skin-side down and cook until the skin is brown and crispy, about 4–5 minutes. Then flip the thighs over and brown the other side for 4 minutes. Remove chicken from the pan. </step>
+    <step num="4">In a large bowl, add baby potatoes, cherry tomatoes, shallots, and apricots. Drizzle with the remaining 2 tablespoons of olive oil and season to taste with salt and pepper. Mix until evenly coated. </step>
+    <step num="5">Place the vegetables into the bottom of the tagine and arrange the chicken, skin-side up, around the top, wedging a slice of lemon between each piece of chicken. </step>
+    <step num="6">Place the lid on the tagine and place in the oven for 1 hour and 40 minutes, or until chicken is 165ºF (75ºC) and falls off the bone. </step>
+    <step num="7">Garnish with fresh parsley and toasted almond slivers. </step>
+    <step num="8">ENJOY! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 190ºC (375ºF). </steps_updated>
+    <steps_updated num="1">Place all of the ingredients for the spice rub in a small bowl and mix to combine. </steps_updated>
+    <steps_updated num="2">Place chicken thighs in a large bowl and coat with the spice rub. </steps_updated>
+    <steps_updated num="3">Heat a very large cast iron skillet and drizzle in 2 tablespoons of olive oil. </steps_updated>
+    <steps_updated num="4">5. </steps_updated>
+    <steps_updated num="5">Place seasoned chicken thighs skin-side down and cook until the skin is brown and crispy, about 4–5 minutes. </steps_updated>
+    <steps_updated num="6">Then flip the thighs over and brown the other side for 4 minutes. </steps_updated>
+    <steps_updated num="7">Remove chicken from the pan. </steps_updated>
+    <steps_updated num="8">In a large bowl, add baby potatoes, cherry tomatoes, shallots, and apricots. </steps_updated>
+    <steps_updated num="9">Drizzle with the remaining 2 tablespoons of olive oil and season to taste with salt and pepper. </steps_updated>
+    <steps_updated num="10">Mix until evenly coated. </steps_updated>
+    <steps_updated num="11">Place the vegetables into the bottom of the tagine and arrange the chicken, skin-side up, around the top, wedging a slice of lemon between each piece of chicken. </steps_updated>
+    <steps_updated num="12">Place the lid on the tagine and place in the oven for 1 hour and 40 minutes, or until chicken is 165ºF (75ºC) and falls off the bone. </steps_updated>
+    <steps_updated num="13">Garnish with fresh parsley and toasted almond slivers. </steps_updated>
+    <steps_updated num="14">ENJOY! </steps_updated>
+  </steps_updated>
+</recipe>

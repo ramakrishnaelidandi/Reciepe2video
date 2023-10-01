@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Peach Sheet Pan Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-peach-sheet-pan-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/time-saving-sheet-pan-pancakes</comp_url>
+  <ingredients>
+    <ingredient num="0">4 cups ; pancake mix ; (480 g) </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">2 cups ; milk ; (470 mL) </ingredient>
+    <ingredient num="3">1 ; peach, sliced </ingredient>
+    <ingredient num="4">1 cup ; blueberry ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51131/low_1504635302.m3u8</low>
+    <high>https://vid.tasty.co/output/51131/mp4_720x1280/1504635302</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425˚F (220˚C). </step>
+    <step num="1">Pour pancake mix, milk, and eggs into a bowl and mix just until combined. </step>
+    <step num="2">Pour batter onto a parchment-lined baking sheet and spread to the edges. </step>
+    <step num="3">Place peach slices on top of the batter, followed by the blueberries. </step>
+    <step num="4">Bake for 15 minutes, or until golden brown. </step>
+    <step num="5">Cut into squares and serve immediately, or freeze up to 1 month. To reheat, place on a microwave-safe plate and heat for 20 seconds per pancake on the plate. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">Pour pancake mix, milk, and eggs into a bowl and mix just until combined. </steps_updated>
+    <steps_updated num="2">Pour batter onto a parchment-lined baking sheet and spread to the edges. </steps_updated>
+    <steps_updated num="3">Place peach slices on top of the batter, followed by the blueberries. </steps_updated>
+    <steps_updated num="4">Bake for 15 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="5">Cut into squares and serve immediately, or freeze up to 1 month. </steps_updated>
+    <steps_updated num="6">To reheat, place on a microwave-safe plate and heat for 20 seconds per pancake on the plate. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01279</start_time>
+    <end_time>01853</end_time>
+  </duration_human>
+</recipe>

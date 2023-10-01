@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-sliders</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sliders-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; dinner rolls or Hawaiian sweet rolls </ingredient>
+    <ingredient num="1">9 ; eggs, scrambled </ingredient>
+    <ingredient num="2">6 slices ; ham </ingredient>
+    <ingredient num="3">6 slices ; white cheddar cheese </ingredient>
+    <ingredient num="4">6 strips ; cooked bacon </ingredient>
+    <ingredient num="5">3 oz ; baby spinach ; (15 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="7">1 teaspoon ; black pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28925/low_1491942453.m3u8</low>
+    <high>https://vid.tasty.co/output/28925/mp4_720x1280/1491942453</high>
+  </video>
+  <duration>
+    <start_time>24.0</start_time>
+    <end_time>36.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). </step>
+    <step num="1">Slice the rolls in half lengthwise. Place the bottom half in a 9 x 13-inch (23 x 33 cm) rimmed baking dish. Spread the eggs evenly over the rolls, then add the ham, cheddar, bacon, and spinach. Top with the remaining rolls. </step>
+    <step num="2">Brush the tops of the rolls with melted butter and sprinkle the pepper on top. Bake for 20 minutes, or until the bread is golden brown. Slice into individual sliders, then serve. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Slice the rolls in half lengthwise. </steps_updated>
+    <steps_updated num="2">Place the bottom half in a 9 x 13-inch (23 x 33 cm) rimmed baking dish. </steps_updated>
+    <steps_updated num="3">Spread the eggs evenly over the rolls, then add the ham, cheddar, bacon, and spinach. </steps_updated>
+    <steps_updated num="4">Top with the remaining rolls. </steps_updated>
+    <steps_updated num="5">Brush the tops of the rolls with melted butter and sprinkle the pepper on top. </steps_updated>
+    <steps_updated num="6">Bake for 20 minutes, or until the bread is golden brown. </steps_updated>
+    <steps_updated num="7">Slice into individual sliders, then serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00736</start_time>
+    <end_time>01355</end_time>
+  </duration_human>
+</recipe>

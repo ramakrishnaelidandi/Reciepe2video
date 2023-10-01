@@ -1,0 +1,44 @@
+<recipe>
+  <title>Ginger Mint Mojito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ginger-mint-mojito</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6735 13278 9712 14300 10844 13817 9536 10522 8276 7990 6646 11003 </ingredient>
+    <ingredient num="1">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="2">2439 </ingredient>
+    <ingredient num="3">8580 643 13278 4617 6160 13278 13125 8007 </ingredient>
+    <ingredient num="4">3917 643 13278 9712 10522 13278 1258 8007 </ingredient>
+    <ingredient num="5">3917 643 13278 9712 7929 3575 6818 13278 1258 8007 </ingredient>
+    <ingredient num="6">4061 13278 6209 3878 4052 7789 3954 7990 4711 </ingredient>
+    <ingredient num="7">14418 13285 560 11567 </ingredient>
+    <ingredient num="8">3917 12205 13278 7695 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130183/hls24_1555522113.m3u8</low>
+    <high>https://vid.tasty.co/output/130183/landscape_720/1555522113</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 14511 4120 11951 9712 8981 13817 8525 7643 560 6798 11951 8981 1391 11951 6145 415 12538 1828 9807 13328 5452 7759 11004 7990 6285 4061 13199 5895 1681 11951 4834 9490 2043 6856 13817 4690 6818 210 11951 551 371 11951 7616 </step>
+    <step num="1">8845 11951 6818 7492 5994 9423 14546 5895 13105 9888 560 10937 2658 9741 881 2658 9724 10434 210 2237 2759 3801 210 11951 7111 7990 3386 560 13086 3734 </step>
+    <step num="2">10950 5994 1026 3199 7860 1391 531 4120 11951 14290 9712 7654 3575 1285 13817 3878 1550 1709 11264 7990 5527 773 </step>
+    <step num="3">8845 669 5994 13426 7860 1391 2439 13817 10707 1391 14418 13505 </step>
+    <step num="4">13688 1391 11951 12205 371 9712 13817 3878 1550 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 4120 11951 9712 8981 13817 8525 </steps_updated>
+    <steps_updated num="1">7643 560 6798 11951 8981 1391 11951 6145 415 12538 </steps_updated>
+    <steps_updated num="2">1828 9807 13328 5452 7759 11004 7990 6285 4061 13199 5895 1681 11951 4834 9490 2043 6856 13817 4690 6818 210 11951 551 371 11951 7616 </steps_updated>
+    <steps_updated num="3">8845 11951 6818 7492 5994 9423 14546 5895 13105 9888 560 10937 2658 9741 881 2658 9724 </steps_updated>
+    <steps_updated num="4">10434 210 2237 2759 3801 210 11951 7111 7990 3386 560 13086 3734 </steps_updated>
+    <steps_updated num="5">10950 5994 1026 3199 7860 1391 531 4120 11951 14290 9712 7654 3575 1285 13817 3878 1550 </steps_updated>
+    <steps_updated num="6">1709 11264 7990 5527 773 </steps_updated>
+    <steps_updated num="7">8845 669 5994 13426 7860 1391 2439 13817 10707 1391 14418 13505 </steps_updated>
+    <steps_updated num="8">13688 1391 11951 12205 371 9712 13817 3878 1550 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

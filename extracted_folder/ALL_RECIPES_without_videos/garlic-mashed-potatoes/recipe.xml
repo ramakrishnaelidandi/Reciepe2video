@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Mashed Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-mashed-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-staples-if-you-only-have-a-microwave</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; red potatoes, diced </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="4">1 tablespoon ; butter </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">fresh chives, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114497/hls24_1541542908.m3u8</low>
+    <high>https://vid.tasty.co/output/114497/landscape_720/1541542908</high>
+  </video>
+  <duration>
+    <start_time>139.0</start_time>
+    <end_time>169.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, add the potatoes and garlic and stir until evenly combined. </step>
+    <step num="1">Microwave for 13 minutes. Remove from the bowl from the microwave. </step>
+    <step num="2">In a liquid measuring cup or small bowl, combine the milk, salt, and butter and stir to combine. </step>
+    <step num="3">Pour the milk mixture over the potatoes. </step>
+    <step num="4">Microwave for 2 minutes. </step>
+    <step num="5">Remove from the microwave and mash the potatoes with a fork. </step>
+    <step num="6">Add the pepper and stir to incorporate. </step>
+    <step num="7">Garnish with chives. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add the potatoes and garlic and stir until evenly combined. </steps_updated>
+    <steps_updated num="1">Microwave for 13 minutes. </steps_updated>
+    <steps_updated num="2">Remove from the bowl from the microwave. </steps_updated>
+    <steps_updated num="3">In a liquid measuring cup or small bowl, combine the milk, salt, and butter and stir to combine. </steps_updated>
+    <steps_updated num="4">Pour the milk mixture over the potatoes. </steps_updated>
+    <steps_updated num="5">Microwave for 2 minutes. </steps_updated>
+    <steps_updated num="6">Remove from the microwave and mash the potatoes with a fork. </steps_updated>
+    <steps_updated num="7">Add the pepper and stir to incorporate. </steps_updated>
+    <steps_updated num="8">Garnish with chives. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

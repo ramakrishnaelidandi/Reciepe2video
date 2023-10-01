@@ -1,0 +1,52 @@
+<recipe>
+  <title>Veggie Stock Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-stock</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">4587 10707 13817 551 </ingredient>
+    <ingredient num="1">12384 10707 13817 551 899 </ingredient>
+    <ingredient num="2">5425 672 13817 930 </ingredient>
+    <ingredient num="3">6817 672 13817 930 </ingredient>
+    <ingredient num="4">1546 551 12669 </ingredient>
+    <ingredient num="5">2291 2534 3141 2526 13817 8634 </ingredient>
+    <ingredient num="6">9325 7693 </ingredient>
+    <ingredient num="7">1466 10986 10707 13817 8634 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">1944 629 1393 210 5994 7354 3801 13817 13351 7990 3386 560 11061 3734 </step>
+    <step num="1">11233 1762 11628 9815 1393 560 772 11899 740 11951 1393 560 5994 2597 10083 13817 6506 1391 2019 </step>
+    <step num="2">9411 11770 4531 7855 7990 7811 767 238 11004 3386 560 13086 14329 </step>
+    <step num="3">8845 11951 220 13817 10231 11951 881 560 7354 4060 </step>
+    <step num="4">2356 7990 3386 560 4061 10616 5895 13351 7990 3386 560 13086 3734 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1944 629 1393 210 5994 7354 3801 13817 13351 7990 3386 560 11061 3734 </steps_updated>
+    <steps_updated num="1">11233 1762 11628 9815 1393 560 772 11899 740 11951 1393 560 5994 2597 10083 13817 6506 1391 2019 </steps_updated>
+    <steps_updated num="2">9411 11770 4531 7855 7990 7811 767 238 11004 3386 560 13086 14329 </steps_updated>
+    <steps_updated num="3">8845 11951 220 13817 10231 11951 881 560 7354 4060 </steps_updated>
+    <steps_updated num="4">2356 7990 3386 560 4061 10616 5895 13351 7990 3386 560 13086 3734 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03053</start_time>
+    <end_time>04380</end_time>
+  </duration_human>
+</recipe>

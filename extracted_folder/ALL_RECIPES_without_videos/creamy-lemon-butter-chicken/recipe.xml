@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Lemon Butter Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-lemon-butter-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; bone-in, skin-on chicken thighs </ingredient>
+    <ingredient num="1">1 tablespoon ; paprika </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">3 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="5">3 cloves ; garlic </ingredient>
+    <ingredient num="6">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="7">¼ cup ; parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="8">1 ; lemon, juiced </ingredient>
+    <ingredient num="9">2 cups ; fresh baby spinach ; (85 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="11">1 cup ; chicken broth ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32027/low_1495124973.m3u8</low>
+    <high>https://vid.tasty.co/output/32027/mp4_720x1280/1495124973</high>
+  </video>
+  <steps>
+    <step num="0">Season chicken thighs with salt, pepper, and paprika. </step>
+    <step num="1">Melt 2 Tbsp. butter in a large oven-proof skillet over medium high heat. Add chicken, skin-side down, and sear both sides until golden brown. Drain excess fat and set aside. </step>
+    <step num="2">Melt 1 Tbsp. butter in the skillet. Add garlic, stir until fragrant, then add chicken broth, heavy cream, Parmesan, lemon juice, thyme, and stir. Bring to boil, then reduce heat to low. </step>
+    <step num="3">Stir in spinach, simmer until spinach has wilted and the sauce has thickened. </step>
+    <step num="4">Return chicken to the skillet. Bake at 400˚F (200˚C) for 25 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season chicken thighs with salt, pepper, and paprika. </steps_updated>
+    <steps_updated num="1">Melt 2 Tbsp. </steps_updated>
+    <steps_updated num="2">butter in a large oven-proof skillet over medium high heat. </steps_updated>
+    <steps_updated num="3">Add chicken, skin-side down, and sear both sides until golden brown. </steps_updated>
+    <steps_updated num="4">Drain excess fat and set aside. </steps_updated>
+    <steps_updated num="5">Melt 1 Tbsp. </steps_updated>
+    <steps_updated num="6">butter in the skillet. </steps_updated>
+    <steps_updated num="7">Add garlic, stir until fragrant, then add chicken broth, heavy cream, Parmesan, lemon juice, thyme, and stir. </steps_updated>
+    <steps_updated num="8">Bring to boil, then reduce heat to low. </steps_updated>
+    <steps_updated num="9">Stir in spinach, simmer until spinach has wilted and the sauce has thickened. </steps_updated>
+    <steps_updated num="10">Return chicken to the skillet. </steps_updated>
+    <steps_updated num="11">Bake at 400˚F (200˚C) for 25 minutes. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

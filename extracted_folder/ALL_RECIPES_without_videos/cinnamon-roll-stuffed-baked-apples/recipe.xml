@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll-Stuffed Baked Apples Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-stuffed-baked-apples</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">cinnamon roll </ingredient>
+    <ingredient num="1">apple, strong apples that will hold up while baking - we used gala </ingredient>
+    <ingredient num="2">butter, melted </ingredient>
+    <ingredient num="3">brown sugar </ingredient>
+    <ingredient num="4">cinnamon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32216/low_1495125480.m3u8</low>
+    <high>https://vid.tasty.co/output/32216/mp4_720x1280/1495125480</high>
+  </video>
+  <steps>
+    <step num="0">Slice off the top of each apple and hollow out using a melon baller - being careful not to cut through the sides and to leave a thicker base. </step>
+    <step num="1">Brush the inside of each apple with melted butter and a sprinkling of brown sugar and cinnamon. </step>
+    <step num="2">Place a cinnamon roll in each apple. </step>
+    <step num="3">Bake in a preheated oven at 350˚F (180˚C) for 15 minutes uncovered and then an additional 25-30 minutes covered loosely with foil. </step>
+    <step num="4">Remove from over and drizzle with icing. Serve warm. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice off the top of each apple and hollow out using a melon baller - being careful not to cut through the sides and to leave a thicker base. </steps_updated>
+    <steps_updated num="1">Brush the inside of each apple with melted butter and a sprinkling of brown sugar and cinnamon. </steps_updated>
+    <steps_updated num="2">Place a cinnamon roll in each apple. </steps_updated>
+    <steps_updated num="3">Bake in a preheated oven at 350˚F (180˚C) for 15 minutes uncovered and then an additional 25-30 minutes covered loosely with foil. </steps_updated>
+    <steps_updated num="4">Remove from over and drizzle with icing. </steps_updated>
+    <steps_updated num="5">Serve warm. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

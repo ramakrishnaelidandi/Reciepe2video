@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spanish Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spanish-omelette</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/12-comfort-foods-to-suit-every-mood</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; onion, thinly sliced </ingredient>
+    <ingredient num="1">3 ; potatoes, thinly sliced </ingredient>
+    <ingredient num="2">2 cups ; olive oil ; (500 mL) </ingredient>
+    <ingredient num="3">6 ; eggs </ingredient>
+    <ingredient num="4">1 pinch ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69844/hls24_1513943493.m3u8</low>
+    <high>https://vid.tasty.co/output/69844/landscape_720/1513943493</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat up the olive oil in a really hot pan. </step>
+    <step num="1">Thinly slice the onion. </step>
+    <step num="2">Slice the potatoes into 3-millimeters thick pieces. </step>
+    <step num="3">Fry the vegetables in the olive oil over high heat for 10-15 minutes until they caramelize. </step>
+    <step num="4">Drain the vegetables and save the olive oil for later use. </step>
+    <step num="5">Add 6 eggs to a bowl and whisk. Add the fried vegetables, stir, and leave to set for 15-20 minutes. </step>
+    <step num="6">In a nonstick pan, fry the egg mixture over high heat for 1 minute, then reduce to a low heat for 2-4 minutes. </step>
+    <step num="7">Cover the pan with a large plate and carefully turn the omelet out onto the plate. </step>
+    <step num="8">Slide the omelet back into the pan and fry for a further 3-5 minutes over low heat. To check the omelet is cooked, gently press on the centre of the omelet. If the surface springs back, it is ready. </step>
+    <step num="9">Repeat step 8 to remove omelet from the pan. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat up the olive oil in a really hot pan. </steps_updated>
+    <steps_updated num="1">Thinly slice the onion. </steps_updated>
+    <steps_updated num="2">Slice the potatoes into 3-millimeters thick pieces. </steps_updated>
+    <steps_updated num="3">Fry the vegetables in the olive oil over high heat for 10-15 minutes until they caramelize. </steps_updated>
+    <steps_updated num="4">Drain the vegetables and save the olive oil for later use. </steps_updated>
+    <steps_updated num="5">Add 6 eggs to a bowl and whisk. </steps_updated>
+    <steps_updated num="6">Add the fried vegetables, stir, and leave to set for 15-20 minutes. </steps_updated>
+    <steps_updated num="7">In a nonstick pan, fry the egg mixture over high heat for 1 minute, then reduce to a low heat for 2-4 minutes. </steps_updated>
+    <steps_updated num="8">Cover the pan with a large plate and carefully turn the omelet out onto the plate. </steps_updated>
+    <steps_updated num="9">Slide the omelet back into the pan and fry for a further 3-5 minutes over low heat. </steps_updated>
+    <steps_updated num="10">To check the omelet is cooked, gently press on the centre of the omelet. </steps_updated>
+    <steps_updated num="11">If the surface springs back, it is ready. </steps_updated>
+    <steps_updated num="12">Repeat step 8 to remove omelet from the pan. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-05392</start_time>
+    <end_time>06840</end_time>
+  </duration_human>
+</recipe>

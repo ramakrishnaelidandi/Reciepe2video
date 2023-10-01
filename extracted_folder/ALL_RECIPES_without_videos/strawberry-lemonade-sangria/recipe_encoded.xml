@@ -1,0 +1,47 @@
+<recipe>
+  <title>Strawberry Lemonade Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-lemonade-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sangria-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 13098 976 13278 6730 5981 </ingredient>
+    <ingredient num="1">3917 13278 5516 976 </ingredient>
+    <ingredient num="2">3917 1460 13278 4617 13538 </ingredient>
+    <ingredient num="3">3917 2605 13278 4617 6160 13278 10339 8007 </ingredient>
+    <ingredient num="4">4061 9517 13278 8758 13278 10187 1767 </ingredient>
+    <ingredient num="5">8580 9517 13278 9118 13278 6901 8007 </ingredient>
+    <ingredient num="6">5516 516 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28206/low_1491005895.m3u8</low>
+    <high>https://vid.tasty.co/output/28206/mp4_720x1280/1491005895</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>23.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 7961 4120 11951 7234 5516 8286 14290 13817 11018 12473 1681 10453 </step>
+    <step num="1">4080 7990 7811 767 4061 14329 </step>
+    <step num="2">9179 11951 2297 415 1966 1391 5994 597 12205 4255 10763 6369 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 7961 4120 11951 7234 5516 8286 14290 13817 11018 </steps_updated>
+    <steps_updated num="1">12473 1681 10453 </steps_updated>
+    <steps_updated num="2">4080 7990 7811 767 4061 14329 </steps_updated>
+    <steps_updated num="3">9179 11951 2297 415 1966 1391 5994 597 12205 4255 10763 6369 </steps_updated>
+    <steps_updated num="4">9923 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00713</end_time>
+  </duration_human>
+</recipe>

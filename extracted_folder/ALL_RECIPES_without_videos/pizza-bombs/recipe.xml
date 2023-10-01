@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Bombs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-bombs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; butter, for greasing the pan </ingredient>
+    <ingredient num="1">16 ½ oz ; can of biscuit dough, 1 can ; (465 g) </ingredient>
+    <ingredient num="2">marinara sauce </ingredient>
+    <ingredient num="3">sliced pepperoni </ingredient>
+    <ingredient num="4">ball of mozzarella cheese, cut into cubes </ingredient>
+    <ingredient num="5">butter, melted </ingredient>
+    <ingredient num="6">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">1 tablespoon ; italian seasoning </ingredient>
+    <ingredient num="10">shredded parmesan cheese, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32270/low_1495125512.m3u8</low>
+    <high>https://vid.tasty.co/output/32270/mp4_720x1280/1495125512</high>
+  </video>
+  <steps>
+    <step num="0">Cut each biscuit in half. Press each half into a circle with your thumb. </step>
+    <step num="1">Place a small dollop of marinara sauce, 1 pepperoni, and 1 cube of mozzarella on each biscuit round. </step>
+    <step num="2">Bring the edges up and over, pressing them together and being sure to leave no gaps for the filling to leak out. </step>
+    <step num="3">Lay the pizza bombs on a baking sheet lined with greased parchment paper. </step>
+    <step num="4">Combine melted butter, garlic, salt and pepper, and italian seasoning in a small bowl. </step>
+    <step num="5">Brush the butter mixture onto each pizza bomb and top with parmesan. </step>
+    <step num="6">Bake at 375°F (190°C) for 15-20 minutes or until biscuits have nicely browned. </step>
+    <step num="7">Once pizza bombs are cool enough to handle, serve immediately. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut each biscuit in half. </steps_updated>
+    <steps_updated num="1">Press each half into a circle with your thumb. </steps_updated>
+    <steps_updated num="2">Place a small dollop of marinara sauce, 1 pepperoni, and 1 cube of mozzarella on each biscuit round. </steps_updated>
+    <steps_updated num="3">Bring the edges up and over, pressing them together and being sure to leave no gaps for the filling to leak out. </steps_updated>
+    <steps_updated num="4">Lay the pizza bombs on a baking sheet lined with greased parchment paper. </steps_updated>
+    <steps_updated num="5">Combine melted butter, garlic, salt and pepper, and italian seasoning in a small bowl. </steps_updated>
+    <steps_updated num="6">Brush the butter mixture onto each pizza bomb and top with parmesan. </steps_updated>
+    <steps_updated num="7">Bake at 375°F (190°C) for 15-20 minutes or until biscuits have nicely browned. </steps_updated>
+    <steps_updated num="8">Once pizza bombs are cool enough to handle, serve immediately. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

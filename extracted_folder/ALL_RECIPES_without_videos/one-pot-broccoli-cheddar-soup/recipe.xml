@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Broccoli Cheddar Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-broccoli-cheddar-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 heads ; broccoli, chopped </ingredient>
+    <ingredient num="1">4 tablespoons ; butter </ingredient>
+    <ingredient num="2">½ ; onion, diced </ingredient>
+    <ingredient num="3">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="4">2 cups ; half &amp; half ; (480 mL) </ingredient>
+    <ingredient num="5">2 cups ; vegetable stock ; (480 mL) </ingredient>
+    <ingredient num="6">½ cup ; shredded carrots ; (55 g) </ingredient>
+    <ingredient num="7">2 teaspoons ; salt </ingredient>
+    <ingredient num="8">1 teaspoon ; pepper </ingredient>
+    <ingredient num="9">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="10">2 cups ; grated cheddar cheese ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28175/low_1490999748.m3u8</low>
+    <high>https://vid.tasty.co/output/28175/mp4_720x1280/1490999748</high>
+  </video>
+  <steps>
+    <step num="0">Trim stems off of broccoli heads and chop into small florets. </step>
+    <step num="1">In a large pot, combine butter and onion and sauté until translucent. </step>
+    <step num="2">Add flour and stir on medium heat until mixture lightly browns. </step>
+    <step num="3">Stir in the half-and-half and mix until contents reach a simmer. </step>
+    <step num="4">Add the veggie or chicken stock and simmer on low heat for 5-10 minutes. </step>
+    <step num="5">Mix in the broccoli, carrots, salt, pepper, and nutmeg. Simmer on low heat for 10-15 minutes. </step>
+    <step num="6">Add the cheddar cheese and stir until cheese is melted and combines with other ingredients. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Trim stems off of broccoli heads and chop into small florets. </steps_updated>
+    <steps_updated num="1">In a large pot, combine butter and onion and sauté until translucent. </steps_updated>
+    <steps_updated num="2">Add flour and stir on medium heat until mixture lightly browns. </steps_updated>
+    <steps_updated num="3">Stir in the half-and-half and mix until contents reach a simmer. </steps_updated>
+    <steps_updated num="4">Add the veggie or chicken stock and simmer on low heat for 5-10 minutes. </steps_updated>
+    <steps_updated num="5">Mix in the broccoli, carrots, salt, pepper, and nutmeg. </steps_updated>
+    <steps_updated num="6">Simmer on low heat for 10-15 minutes. </steps_updated>
+    <steps_updated num="7">Add the cheddar cheese and stir until cheese is melted and combines with other ingredients. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Summer Fruit Quinoa Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/summer-fruit-quinoa-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quinoa-salad-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (235 mL) </ingredient>
+    <ingredient num="1">1 ½ cups ; orange juice ; (355 mL) </ingredient>
+    <ingredient num="2">1 cup ; quinoa ; (170 g) </ingredient>
+    <ingredient num="3">strawberry </ingredient>
+    <ingredient num="4">blueberry </ingredient>
+    <ingredient num="5">mango, cubed </ingredient>
+    <ingredient num="6">fresh basil, chopped, for garnish </ingredient>
+    <ingredient num="7">½ cup ; lime juice ; (120 mL) </ingredient>
+    <ingredient num="8">1 tablespoon ; honey </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50638/low_1504219940.m3u8</low>
+    <high>https://vid.tasty.co/output/50638/mp4_720x1280/1504219940</high>
+  </video>
+  <duration>
+    <start_time>62.259</start_time>
+    <end_time>93.13</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small saucepan bring water and orange juice to a boil then add quinoa, cover and simmer for 12-15 minutes. </step>
+    <step num="1">Add quinoa to a bowl. Top with strawberries, blueberries, and mangoes. </step>
+    <step num="2">In a small bowl, mix lime juice, and honey. Drizzle dressing over the quinoa and mix. </step>
+    <step num="3">Top with basil. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan bring water and orange juice to a boil then add quinoa, cover and simmer for 12-15 minutes. </steps_updated>
+    <steps_updated num="1">Add quinoa to a bowl. </steps_updated>
+    <steps_updated num="2">Top with strawberries, blueberries, and mangoes. </steps_updated>
+    <steps_updated num="3">In a small bowl, mix lime juice, and honey. </steps_updated>
+    <steps_updated num="4">Drizzle dressing over the quinoa and mix. </steps_updated>
+    <steps_updated num="5">Top with basil. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01928</start_time>
+    <end_time>02801</end_time>
+  </duration_human>
+</recipe>

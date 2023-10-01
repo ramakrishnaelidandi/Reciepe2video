@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Cheeseburger Onion Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-cheeseburger-onion-ring</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">½ cup ; BBQ sauce ; (145 g) </ingredient>
+    <ingredient num="5">1 ; onion </ingredient>
+    <ingredient num="6">8 ; cheddar cheeses, cubed </ingredient>
+    <ingredient num="7">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="8">5 ; eggs </ingredient>
+    <ingredient num="9">3 cups ; panko breadcrumbs ; (150 g) </ingredient>
+    <ingredient num="10">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Game Day</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26071/low_1489085745.m3u8</low>
+    <high>https://vid.tasty.co/output/26071/mp4_720x1280/1489085745</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, add ground beef, salt, pepper, garlic powder, and BBQ sauce. Mix well. </step>
+    <step num="1">Slice onions into ½-inch thick slices. Take the outer layer off and separate each layer of the rings. </step>
+    <step num="2">Fill the onion slice with a spoonful of meat. Place cheese cube in the middle and add a little more meat to cover the cheese. </step>
+    <step num="3">Dredge the onion ring and fry in oil heated at 325°F/160°C for 3-5 minutes or until fully cooked and golden brown. </step>
+    <step num="4">Serve with your favorite sauce. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add ground beef, salt, pepper, garlic powder, and BBQ sauce. </steps_updated>
+    <steps_updated num="1">Mix well. </steps_updated>
+    <steps_updated num="2">Slice onions into ½-inch thick slices. </steps_updated>
+    <steps_updated num="3">Take the outer layer off and separate each layer of the rings. </steps_updated>
+    <steps_updated num="4">Fill the onion slice with a spoonful of meat. </steps_updated>
+    <steps_updated num="5">Place cheese cube in the middle and add a little more meat to cover the cheese. </steps_updated>
+    <steps_updated num="6">Dredge the onion ring and fry in oil heated at 325°F/160°C for 3-5 minutes or until fully cooked and golden brown. </steps_updated>
+    <steps_updated num="7">Serve with your favorite sauce. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

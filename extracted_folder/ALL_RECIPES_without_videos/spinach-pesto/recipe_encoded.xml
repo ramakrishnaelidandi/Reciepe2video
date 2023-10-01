@@ -1,0 +1,50 @@
+<recipe>
+  <title>Spinach Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-pesto</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 7983 376 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">6735 643 13278 11609 3745 12968 560 3756 13278 9473 5981 </ingredient>
+    <ingredient num="4">4061 9517 13278 6209 13220 13278 8178 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 13271 13278 2264 5981 </ingredient>
+    <ingredient num="6">4061 13667 13278 11384 </ingredient>
+    <ingredient num="7">12791 2605 13278 109 13810 2431 13278 1258 5981 </ingredient>
+    <ingredient num="8">1580 8071 13278 82 </ingredient>
+    <ingredient num="9">1580 8071 13278 7845 </ingredient>
+    <ingredient num="10">3917 8071 13278 597 10522 </ingredient>
+    <ingredient num="11">1580 2605 13278 8244 5766 13278 2935 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26149/low_1489100786.m3u8</low>
+    <high>https://vid.tasty.co/output/26149/mp4_720x1280/1489100786</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 8016 5349 740 8554 11907 560 772 2334 13817 1279 1681 13271 12573 11588 10208 </step>
+    <step num="1">10950 5994 6222 11745 740 8244 5766 13817 2550 7983 11118 5100 13817 7845 560 8686 </step>
+    <step num="2">6054 11951 7983 13817 2519 </step>
+    <step num="3">10895 11951 7983 13817 2334 2260 669 13402 13817 10968 1681 11951 2260 7568 10469 11951 4466 </step>
+    <step num="4">12774 13817 10707 3557 3482 1391 109 4496 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8016 5349 740 8554 11907 560 772 2334 13817 1279 1681 13271 12573 11588 10208 </steps_updated>
+    <steps_updated num="1">10950 5994 6222 11745 740 8244 5766 13817 2550 7983 11118 </steps_updated>
+    <steps_updated num="2">5100 13817 7845 560 8686 </steps_updated>
+    <steps_updated num="3">6054 11951 7983 13817 2519 </steps_updated>
+    <steps_updated num="4">10895 11951 7983 13817 2334 2260 669 13402 13817 10968 1681 11951 2260 7568 10469 11951 4466 </steps_updated>
+    <steps_updated num="5">12774 13817 10707 3557 3482 1391 109 4496 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

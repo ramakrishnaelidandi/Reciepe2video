@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peking Duck-Inspired Burrito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peking-duck-inspired-burrito</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; duck breasts </ingredient>
+    <ingredient num="1">1 tablespoon ; oil, extra to cook </ingredient>
+    <ingredient num="2">¼ teaspoon ; salt, diced </ingredient>
+    <ingredient num="3">2 cloves ; garlic </ingredient>
+    <ingredient num="4">1 teaspoon ; soy sauce </ingredient>
+    <ingredient num="5">1 teaspoon ; rice wine </ingredient>
+    <ingredient num="6">1 teaspoon ; five-spice powder </ingredient>
+    <ingredient num="7">rice, cooked </ingredient>
+    <ingredient num="8">cucumber, to taste </ingredient>
+    <ingredient num="9">scallion, to taste </ingredient>
+    <ingredient num="10">hoisin sauce, to taste </ingredient>
+    <ingredient num="11">flour tortilla </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Dinner</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32130/low_1495125357.m3u8</low>
+    <high>https://vid.tasty.co/output/32130/mp4_720x1280/1495125357</high>
+  </video>
+  <steps>
+    <step num="0">Place duck breast in pan to marinate. </step>
+    <step num="1">Rub oil, salt, garlic, soy sauce, rice wine, and five-spice powder into the duck breasts. Let it marinate for 30 minutes. </step>
+    <step num="2">Add one Tbsp. of oil to a hot skillet over medium heat. Add the duck breasts skin side down, cook until the skin is browned and crispy (can take up to 8-10 minutes, depending on your heat). </step>
+    <step num="3">Flip the duck so skin side is up. Place the skillet under the broiler for five minutes to further crisp the skin. Be careful not to burn the skin. </step>
+    <step num="4">Remove from oven and let it rest for five minutes before slicing. </step>
+    <step num="5">Spread hoisin sauce over the flour tortilla, layer on the rice, duck slices, cucumbers, and scallions. </step>
+    <step num="6">Wrap it all up. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place duck breast in pan to marinate. </steps_updated>
+    <steps_updated num="1">Rub oil, salt, garlic, soy sauce, rice wine, and five-spice powder into the duck breasts. </steps_updated>
+    <steps_updated num="2">Let it marinate for 30 minutes. </steps_updated>
+    <steps_updated num="3">Add one Tbsp. </steps_updated>
+    <steps_updated num="4">of oil to a hot skillet over medium heat. </steps_updated>
+    <steps_updated num="5">Add the duck breasts skin side down, cook until the skin is browned and crispy (can take up to 8-10 minutes, depending on your heat). </steps_updated>
+    <steps_updated num="6">Flip the duck so skin side is up. </steps_updated>
+    <steps_updated num="7">Place the skillet under the broiler for five minutes to further crisp the skin. </steps_updated>
+    <steps_updated num="8">Be careful not to burn the skin. </steps_updated>
+    <steps_updated num="9">Remove from oven and let it rest for five minutes before slicing. </steps_updated>
+    <steps_updated num="10">Spread hoisin sauce over the flour tortilla, layer on the rice, duck slices, cucumbers, and scallions. </steps_updated>
+    <steps_updated num="11">Wrap it all up. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

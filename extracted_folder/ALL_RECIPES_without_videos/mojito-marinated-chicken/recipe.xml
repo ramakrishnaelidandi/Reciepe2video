@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mojito-Marinated Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mojito-marinated-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts </ingredient>
+    <ingredient num="1">⅓ cup ; white rum ; (75 mL) </ingredient>
+    <ingredient num="2">⅓ cup ; fresh mint, chopped ; (15 g) </ingredient>
+    <ingredient num="3">1 clove ; garlic, finely chopped/crushed </ingredient>
+    <ingredient num="4">1 teaspoon ; rock salt </ingredient>
+    <ingredient num="5">1 teaspoon ; ground pepper </ingredient>
+    <ingredient num="6">2 ; limes, plus 1-2 more for garnish </ingredient>
+    <ingredient num="7">1 tablespoon ; extra virgin olive oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Mexican</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Healthy</category>
+    <category num="6">Low-Carb</category>
+    <category num="7">Dinner</category>
+    <category num="8">BBQ</category>
+    <category num="9">Weeknight</category>
+    <category num="10">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32192/low_1495125454.m3u8</low>
+    <high>https://vid.tasty.co/output/32192/mp4_720x1280/1495125454</high>
+  </video>
+  <steps>
+    <step num="0">Slice the chicken breasts in half lengthways. </step>
+    <step num="1">Put all of the ingredients into a ziplock bag and stir them all about so everything is coated and mixed up. </step>
+    <step num="2">Marinate for at least 4 hours, but try to leave them over night if you have the time. </step>
+    <step num="3">Cook the chicken as you usually would, we used a griddle pan on a medium heat for about 6-7 minutes on each side, but these can go in a regular pan, the oven or even on the BBQ! </step>
+    <step num="4">Don’t forget to give it one last squeeze of lemon juice to give it that extra kick! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the chicken breasts in half lengthways. </steps_updated>
+    <steps_updated num="1">Put all of the ingredients into a ziplock bag and stir them all about so everything is coated and mixed up. </steps_updated>
+    <steps_updated num="2">Marinate for at least 4 hours, but try to leave them over night if you have the time. </steps_updated>
+    <steps_updated num="3">Cook the chicken as you usually would, we used a griddle pan on a medium heat for about 6-7 minutes on each side, but these can go in a regular pan, the oven or even on the BBQ! </steps_updated>
+    <steps_updated num="4">Don’t forget to give it one last squeeze of lemon juice to give it that extra kick! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

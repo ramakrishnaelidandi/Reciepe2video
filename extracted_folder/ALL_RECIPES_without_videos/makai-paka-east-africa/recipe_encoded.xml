@@ -1,0 +1,55 @@
+<recipe>
+  <title>Makai Paka (East Africa) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/makai-paka-east-africa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/corn-on-the-cob-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 2492 13278 12655 6843 </ingredient>
+    <ingredient num="1">3917 14014 13278 7974 9924 </ingredient>
+    <ingredient num="2">3917 13278 13757 9491 341 </ingredient>
+    <ingredient num="3">3917 13278 1832 14664 10015 </ingredient>
+    <ingredient num="4">3917 8071 13278 11088 4461 </ingredient>
+    <ingredient num="5">3917 8071 13278 4985 1008 </ingredient>
+    <ingredient num="6">1580 8071 13278 11088 13056 </ingredient>
+    <ingredient num="7">3677 643 13278 6742 5802 13278 132 8007 </ingredient>
+    <ingredient num="8">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="9">3917 12745 13278 6209 6712 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108480/hls24_1536599550.m3u8</low>
+    <high>https://vid.tasty.co/output/108480/landscape_720/1536599550</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 6054 11951 3183 6781 11951 4771 </step>
+    <step num="1">1828 11951 3183 10694 10622 415 12205 1419 669 2608 103 1645 14243 6285 4061 4884 9105 </step>
+    <step num="2">10950 5994 13757 13799 6983 11951 9924 11770 13757 2082 9179 11951 9668 13817 2550 1681 2296 9179 11951 1832 13711 11088 975 4985 1008 8117 13817 13056 13817 6142 3631 </step>
+    <step num="3">9179 11951 6742 5802 13817 14238 560 5994 5181 9179 11951 3183 13817 597 10522 13817 6142 3631 </step>
+    <step num="4">12785 11951 3183 13817 2260 560 5994 7818 12377 13817 4711 1391 1117 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 </steps_updated>
+    <steps_updated num="1">6054 11951 3183 6781 11951 4771 </steps_updated>
+    <steps_updated num="2">1828 11951 3183 10694 10622 415 12205 1419 669 2608 103 1645 14243 6285 4061 4884 9105 </steps_updated>
+    <steps_updated num="3">10950 5994 13757 13799 6983 11951 9924 11770 13757 2082 </steps_updated>
+    <steps_updated num="4">9179 11951 9668 13817 2550 1681 2296 </steps_updated>
+    <steps_updated num="5">9179 11951 1832 13711 11088 975 4985 1008 8117 13817 13056 13817 6142 3631 </steps_updated>
+    <steps_updated num="6">9179 11951 6742 5802 13817 14238 560 5994 5181 </steps_updated>
+    <steps_updated num="7">9179 11951 3183 13817 597 10522 13817 6142 3631 </steps_updated>
+    <steps_updated num="8">12785 11951 3183 13817 2260 560 5994 7818 12377 13817 4711 1391 1117 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02223</start_time>
+    <end_time>03387</end_time>
+  </duration_human>
+</recipe>

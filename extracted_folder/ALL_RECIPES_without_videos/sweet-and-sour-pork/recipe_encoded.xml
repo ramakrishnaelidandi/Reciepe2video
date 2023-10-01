@@ -1,0 +1,61 @@
+<recipe>
+  <title>Sweet And Sour Pork Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-and-sour-pork</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 715 13278 10720 3962 669 5083 5285 13009 13278 6898 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 82 </ingredient>
+    <ingredient num="2">3917 8071 13278 3183 890 </ingredient>
+    <ingredient num="3">3917 13278 6216 </ingredient>
+    <ingredient num="4">3917 2605 13278 3183 890 13278 11953 5981 </ingredient>
+    <ingredient num="5">8580 1580 9517 13278 5766 13278 9990 8007 </ingredient>
+    <ingredient num="6">8580 9486 13278 5766 </ingredient>
+    <ingredient num="7">8580 2031 13278 4155 5614 </ingredient>
+    <ingredient num="8">1580 13278 4985 1466 10986 3962 </ingredient>
+    <ingredient num="9">1580 13278 8083 1466 10986 3962 </ingredient>
+    <ingredient num="10">3591 2605 13278 10307 13278 757 5981 </ingredient>
+    <ingredient num="11">12791 2605 13278 4617 1651 4834 13278 2264 5981 </ingredient>
+    <ingredient num="12">12791 2605 13278 7706 10769 13278 2264 8007 </ingredient>
+    <ingredient num="13">8580 9486 13278 11892 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54479/low_1506963655.m3u8</low>
+    <high>https://vid.tasty.co/output/54479/mp4_720x1280/1506963655</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 14511 4120 8554 6966 11907 1391 11951 1643 4660 13817 1752 560 6966 210 11951 10437 5527 12689 </step>
+    <step num="1">5570 11951 3183 890 210 5994 2597 12377 13817 1686 11951 5859 5234 7306 1681 10038 229 </step>
+    <step num="2">10950 5994 6389 7110 7855 11951 5766 560 9988 1610 </step>
+    <step num="3">2007 7256 11951 5234 13009 7990 6285 199 8927 1681 11951 13715 9490 10963 1368 13817 11951 5234 9490 3745 10388 2257 5292 </step>
+    <step num="4">2715 11951 7280 3345 5994 5291 5687 11770 5994 13757 7855 13817 740 11951 14158 </step>
+    <step num="5">13888 11951 11384 1681 94 415 7256 11951 2986 1681 8523 </step>
+    <step num="6">9179 210 11951 10307 13817 10383 777 </step>
+    <step num="7">9179 11951 6145 4450 13817 8675 12224 8785 11951 2373 560 5994 11714 </step>
+    <step num="8">9179 11951 5234 560 11951 5291 5687 13817 6798 12826 3584 1391 11951 9286 </step>
+    <step num="9">12774 10707 1391 9110 6974 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 4120 8554 6966 11907 1391 11951 1643 </steps_updated>
+    <steps_updated num="1">4660 13817 1752 560 6966 210 11951 10437 5527 12689 </steps_updated>
+    <steps_updated num="2">5570 11951 3183 890 210 5994 2597 12377 13817 1686 11951 5859 5234 7306 1681 10038 229 </steps_updated>
+    <steps_updated num="3">10950 5994 6389 7110 7855 11951 5766 560 9988 1610 </steps_updated>
+    <steps_updated num="4">2007 7256 11951 5234 13009 7990 6285 199 8927 1681 11951 13715 9490 10963 1368 13817 11951 5234 9490 3745 10388 </steps_updated>
+    <steps_updated num="5">2257 5292 </steps_updated>
+    <steps_updated num="6">2715 11951 7280 3345 5994 5291 5687 11770 5994 13757 7855 13817 740 11951 14158 </steps_updated>
+    <steps_updated num="7">13888 11951 11384 1681 94 415 7256 11951 2986 1681 8523 </steps_updated>
+    <steps_updated num="8">9179 210 11951 10307 13817 10383 777 </steps_updated>
+    <steps_updated num="9">9179 11951 6145 4450 13817 8675 12224 </steps_updated>
+    <steps_updated num="10">8785 11951 2373 560 5994 11714 </steps_updated>
+    <steps_updated num="11">9179 11951 5234 560 11951 5291 5687 13817 6798 12826 3584 1391 11951 9286 </steps_updated>
+    <steps_updated num="12">12774 10707 1391 9110 6974 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cookies &amp; Cream Brigadeiros Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookies-cream-brigadeiros</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/brazilian-truffles-brigadieros-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">10 ; chocolate sandwich cookies </ingredient>
+    <ingredient num="1">1 tablespoon ; butter </ingredient>
+    <ingredient num="2">14 oz ; sweetened condensed milk ; (395 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Brazilian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8222/low_1472568825.m3u8</low>
+    <high>https://vid.tasty.co/output/8222/mp4_720x1280/1472568825</high>
+  </video>
+  <duration>
+    <start_time>62.0</start_time>
+    <end_time>87.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">Separate the cream center from the chocolate cookies, and set aside. Crush the chocolate cookies and set aside. </step>
+    <step num="1">In a pot over low heat, melt the butter, condensed milk, and cream centers, stirring continuously until you can see the bottom of the pot for 2-3 seconds when dragging a spatula through. </step>
+    <step num="2">Pour onto a greased plate, then chill for 1 hour. </step>
+    <step num="3">Shape and roll the chilled mixture into balls. </step>
+    <step num="4">Roll the balls in the crushed chocolate cookies. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Separate the cream center from the chocolate cookies, and set aside. </steps_updated>
+    <steps_updated num="1">Crush the chocolate cookies and set aside. </steps_updated>
+    <steps_updated num="2">In a pot over low heat, melt the butter, condensed milk, and cream centers, stirring continuously until you can see the bottom of the pot for 2-3 seconds when dragging a spatula through. </steps_updated>
+    <steps_updated num="3">Pour onto a greased plate, then chill for 1 hour. </steps_updated>
+    <steps_updated num="4">Shape and roll the chilled mixture into balls. </steps_updated>
+    <steps_updated num="5">Roll the balls in the crushed chocolate cookies. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01900</start_time>
+    <end_time>02640</end_time>
+  </duration_human>
+</recipe>

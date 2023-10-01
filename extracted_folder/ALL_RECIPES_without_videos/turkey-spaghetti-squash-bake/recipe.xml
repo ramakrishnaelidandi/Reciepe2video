@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Turkey Spaghetti Squash Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turkey-spaghetti-squash-bake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lighter-dinner-bakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 lb ; ground turkey ; (455 g) </ingredient>
+    <ingredient num="2">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="3">1 cup ; green bell pepper, diced ; (100 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">2 cups ; tomato, diced ; (400 g) </ingredient>
+    <ingredient num="7">3 cloves ; garlic </ingredient>
+    <ingredient num="8">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="9">½ teaspoon ; dried basil </ingredient>
+    <ingredient num="10">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="11">1 ; medium spaghetti squash </ingredient>
+    <ingredient num="12">1 cup ; shredded mozzarella cheese, divided ; (100 g) </ingredient>
+    <ingredient num="13">green onion, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59421/low_1509559454.m3u8</low>
+    <high>https://vid.tasty.co/output/59421/mp4_720x1280/1509559454</high>
+  </video>
+  <duration>
+    <start_time>38.0</start_time>
+    <end_time>89.05</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Heat the olive oil over medium heat in a large skillet. </step>
+    <step num="2">Add the turkey and cook until browned, about 5-6 minutes. </step>
+    <step num="3">Add the onion, bell pepper, salt, and pepper. Cook for 5-6 minutes. </step>
+    <step num="4">Add the tomatoes, garlic, thyme, basil, and oregano. Cook for 2-3 minutes. </step>
+    <step num="5">Add the spaghetti squash. Cook for 4-5 minutes until most of the liquid has cooked off. </step>
+    <step num="6">Add half of the mozzarella and stir until cheese has melted, about 1-2 minutes. </step>
+    <step num="7">Remove from heat and ladle the mixture into a baking dish. </step>
+    <step num="8">Bake for 20 minutes. </step>
+    <step num="9">Carefully remove then add the remaining mozzarella cheese. </step>
+    <step num="10">Bake for an additional 10 minutes. </step>
+    <step num="11">Carefully remove and allow to cool for 5-10 minutes. </step>
+    <step num="12">Garnish with green onions, if desired and serve. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Heat the olive oil over medium heat in a large skillet. </steps_updated>
+    <steps_updated num="2">Add the turkey and cook until browned, about 5-6 minutes. </steps_updated>
+    <steps_updated num="3">Add the onion, bell pepper, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Cook for 5-6 minutes. </steps_updated>
+    <steps_updated num="5">Add the tomatoes, garlic, thyme, basil, and oregano. </steps_updated>
+    <steps_updated num="6">Cook for 2-3 minutes. </steps_updated>
+    <steps_updated num="7">Add the spaghetti squash. </steps_updated>
+    <steps_updated num="8">Cook for 4-5 minutes until most of the liquid has cooked off. </steps_updated>
+    <steps_updated num="9">Add half of the mozzarella and stir until cheese has melted, about 1-2 minutes. </steps_updated>
+    <steps_updated num="10">Remove from heat and ladle the mixture into a baking dish. </steps_updated>
+    <steps_updated num="11">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="12">Carefully remove then add the remaining mozzarella cheese. </steps_updated>
+    <steps_updated num="13">Bake for an additional 10 minutes. </steps_updated>
+    <steps_updated num="14">Carefully remove and allow to cool for 5-10 minutes. </steps_updated>
+    <steps_updated num="15">Garnish with green onions, if desired and serve. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01200</start_time>
+    <end_time>02691</end_time>
+  </duration_human>
+</recipe>

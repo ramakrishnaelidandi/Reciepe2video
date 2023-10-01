@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-pesto-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; fresh basil, packed ; (25 g) </ingredient>
+    <ingredient num="1">1 cup ; fresh arugula, packed ; (25 g) </ingredient>
+    <ingredient num="2">½ lemon ; lemon juice </ingredient>
+    <ingredient num="3">⅓ cup ; olive oil ; (80 mL) </ingredient>
+    <ingredient num="4">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="5">2 cloves ; garlic, peeled </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="8">1 ¼ cups ; almond meal ; (125 g) </ingredient>
+    <ingredient num="9">1 lb ; vegan spaghetti ; (455 g) </ingredient>
+    <ingredient num="10">⅓ cup ; pasta water, if you're using this as a dip, omit the pasta water ; (80 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33245/low_1496355761.m3u8</low>
+    <high>https://vid.tasty.co/output/33245/mp4_720x1280/1496355761</high>
+  </video>
+  <steps>
+    <step num="0">Combine basil, arugula, lemon juice, water, and olive oil to a blender and blend for 5-10 seconds. </step>
+    <step num="1">Add garlic, salt, pepper, and almond meal to the blender and blend until completely incorporated. </step>
+    <step num="2">Boil salted water and cook spaghetti according to packaging instructions. </step>
+    <step num="3">When draining the pasta, reserve ⅓ to 1 cup (80 to 235 ml) of water. </step>
+    <step num="4">Once drained, return the pasta to the pot, and stir in the pesto, adding reserved pasta water until the sauce reaches desired consistency. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine basil, arugula, lemon juice, water, and olive oil to a blender and blend for 5-10 seconds. </steps_updated>
+    <steps_updated num="1">Add garlic, salt, pepper, and almond meal to the blender and blend until completely incorporated. </steps_updated>
+    <steps_updated num="2">Boil salted water and cook spaghetti according to packaging instructions. </steps_updated>
+    <steps_updated num="3">When draining the pasta, reserve ⅓ to 1 cup (80 to 235 ml) of water. </steps_updated>
+    <steps_updated num="4">Once drained, return the pasta to the pot, and stir in the pesto, adding reserved pasta water until the sauce reaches desired consistency. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

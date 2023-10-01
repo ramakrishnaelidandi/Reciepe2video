@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Braid Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-braid</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; puff pastry </ingredient>
+    <ingredient num="1">4 slices ; mozzarella cheese </ingredient>
+    <ingredient num="2">12 slices ; pepperoni </ingredient>
+    <ingredient num="3">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="4">1 clove ; garlic, minced </ingredient>
+    <ingredient num="5">1 tablespoon ; fresh parsley, chopped </ingredient>
+    <ingredient num="6">1 tablespoon ; parmesan cheese </ingredient>
+    <ingredient num="7">marinara sauce, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23966/low_1487113846.m3u8</low>
+    <high>https://vid.tasty.co/output/23966/mp4_720x1280/1487113846</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">Lay out puff pastry. Place 4 slices of mozzarella and then 12 slices of pepperoni in the center of the dough. </step>
+    <step num="2">Cut diagonal lines along the left and right side of the cheese and pepperoni about a 1-inch (2 ½ cm) apart. </step>
+    <step num="3">Remove the corner pieces. </step>
+    <step num="4">Starting from the top, fold down the flap then alternate right and left until the bottom. Fold the bottom flap up and finish alternating between right and left. </step>
+    <step num="5">Place the braided puff pastry on a parchment paper lined baking tray. </step>
+    <step num="6">In a small bowl, combine butter, garlic, parsley, and parmesan cheese. </step>
+    <step num="7">Brush all over until the top of the braid is fully coated. </step>
+    <step num="8">Bake for 20 - 25 minutes or until golden brown. </step>
+    <step num="9">Slice and serve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Lay out puff pastry. </steps_updated>
+    <steps_updated num="2">Place 4 slices of mozzarella and then 12 slices of pepperoni in the center of the dough. </steps_updated>
+    <steps_updated num="3">Cut diagonal lines along the left and right side of the cheese and pepperoni about a 1-inch (2 ½ cm) apart. </steps_updated>
+    <steps_updated num="4">Remove the corner pieces. </steps_updated>
+    <steps_updated num="5">Starting from the top, fold down the flap then alternate right and left until the bottom. </steps_updated>
+    <steps_updated num="6">Fold the bottom flap up and finish alternating between right and left. </steps_updated>
+    <steps_updated num="7">Place the braided puff pastry on a parchment paper lined baking tray. </steps_updated>
+    <steps_updated num="8">In a small bowl, combine butter, garlic, parsley, and parmesan cheese. </steps_updated>
+    <steps_updated num="9">Brush all over until the top of the braid is fully coated. </steps_updated>
+    <steps_updated num="10">Bake for 20 - 25 minutes or until golden brown. </steps_updated>
+    <steps_updated num="11">Slice and serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

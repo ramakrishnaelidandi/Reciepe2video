@@ -1,0 +1,59 @@
+<recipe>
+  <title>Mushroom, Spinach &amp; Sausage Spaghetti Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mushroom-spinach-sausage-spaghetti</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fall-pastas</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9259 13278 7035 3962 </ingredient>
+    <ingredient num="1">3917 715 13278 6302 4437 6517 3716 13278 4563 5981 </ingredient>
+    <ingredient num="2">3917 1580 2031 13278 8083 7845 10876 </ingredient>
+    <ingredient num="3">3917 13278 13757 11091 12384 10015 </ingredient>
+    <ingredient num="4">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">13767 643 13278 13902 2625 976 13278 13113 5981 </ingredient>
+    <ingredient num="6">1580 2605 13278 5316 4617 13538 13278 2935 8007 </ingredient>
+    <ingredient num="7">3917 8071 13278 82 </ingredient>
+    <ingredient num="8">3917 8071 13278 7845 </ingredient>
+    <ingredient num="9">3917 715 13278 11609 3745 13278 4563 5981 </ingredient>
+    <ingredient num="10">3917 2605 13278 2431 109 14538 13278 7289 5981 </ingredient>
+    <ingredient num="11">3917 2605 13278 950 8224 13384 5895 7983 220 13278 7503 8007 </ingredient>
+    <ingredient num="12">2933 643 13278 6209 13220 13278 9018 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110376/hls24_1537986691.m3u8</low>
+    <high>https://vid.tasty.co/output/110376/landscape_720/1537986691</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>76.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">13888 11951 8932 210 5994 2597 10083 11770 3996 7855 7990 6285 13086 11004 1681 2111 </step>
+    <step num="1">9179 11951 13280 3061 13817 8083 7845 10876 13817 9347 7990 6285 13767 11004 1681 11951 3061 9490 3745 8119 6054 6781 11951 5687 13817 817 5292 </step>
+    <step num="2">10950 11951 5540 13799 9347 11951 6334 11770 13757 7855 7990 6865 11004 1681 6470 </step>
+    <step num="3">9179 11951 11384 13817 9347 7990 8580 11004 1681 11564 </step>
+    <step num="4">9179 11951 14094 13817 2550 7990 6865 11004 1681 6665 12207 560 11136 8177 371 2349 4725 </step>
+    <step num="5">9179 11951 8286 12610 13817 7845 13817 6142 560 1011 264 7990 9912 11004 1681 11951 13538 7312 12781 5569 2532 13817 11951 14094 12573 14371 </step>
+    <step num="6">9179 11951 13402 13817 13280 2373 13817 1686 560 1011 </step>
+    <step num="7">9179 11951 6696 950 13384 13817 13220 13817 12224 264 1681 11951 950 9490 545 7492 13817 11951 3220 7312 1311 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">13888 11951 8932 210 5994 2597 10083 11770 3996 7855 7990 6285 13086 11004 1681 2111 </steps_updated>
+    <steps_updated num="1">9179 11951 13280 3061 13817 8083 7845 10876 13817 9347 7990 6285 13767 11004 1681 11951 3061 9490 3745 8119 </steps_updated>
+    <steps_updated num="2">6054 6781 11951 5687 13817 817 5292 </steps_updated>
+    <steps_updated num="3">10950 11951 5540 13799 9347 11951 6334 11770 13757 7855 7990 6865 11004 1681 6470 </steps_updated>
+    <steps_updated num="4">9179 11951 11384 13817 9347 7990 8580 11004 1681 11564 </steps_updated>
+    <steps_updated num="5">9179 11951 14094 13817 2550 7990 6865 11004 1681 6665 12207 560 11136 8177 371 2349 4725 </steps_updated>
+    <steps_updated num="6">9179 11951 8286 12610 13817 7845 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="7">264 7990 9912 11004 1681 11951 13538 7312 12781 5569 2532 13817 11951 14094 12573 14371 </steps_updated>
+    <steps_updated num="8">9179 11951 13402 13817 13280 2373 13817 1686 560 1011 </steps_updated>
+    <steps_updated num="9">9179 11951 6696 950 13384 13817 13220 13817 12224 </steps_updated>
+    <steps_updated num="10">264 1681 11951 950 9490 545 7492 13817 11951 3220 7312 1311 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

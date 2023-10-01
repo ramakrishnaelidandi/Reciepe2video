@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Peanut Butter Cookie Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peanut-butter-cookie-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/portable-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; old fashion oat ; (35 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; cocoa powder </ingredient>
+    <ingredient num="2">2 tablespoons ; nut butter, of your choice </ingredient>
+    <ingredient num="3">1 ½ ; frozen bananas </ingredient>
+    <ingredient num="4">⅔ cup ; milk, of your choice ; (160 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102123/hls24_1531775108.m3u8</low>
+    <high>https://vid.tasty.co/output/102123/landscape_720/1531775108</high>
+  </video>
+  <duration>
+    <start_time>56.833</start_time>
+    <end_time>88.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the oats, nut butter, banana, milk, and cocoa powder to a blender. </step>
+    <step num="1">Blend for 30 seconds. Scrape down the sides with a spoon or spatula, if needed, and blend for another 30 seconds. </step>
+    <step num="2">Pour into a mason jar or tumbler. </step>
+    <step num="3">Garnish with banana slices and additional oats, if desired. </step>
+    <step num="4">Refrigerate until ready to serve. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the oats, nut butter, banana, milk, and cocoa powder to a blender. </steps_updated>
+    <steps_updated num="1">Blend for 30 seconds. </steps_updated>
+    <steps_updated num="2">Scrape down the sides with a spoon or spatula, if needed, and blend for another 30 seconds. </steps_updated>
+    <steps_updated num="3">Pour into a mason jar or tumbler. </steps_updated>
+    <steps_updated num="4">Garnish with banana slices and additional oats, if desired. </steps_updated>
+    <steps_updated num="5">Refrigerate until ready to serve. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tsukemen (Dipping Noodles) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tsukemen-dipping-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-dinners-from-tasty-japan</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; water ; (340 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; bonito flour </ingredient>
+    <ingredient num="2">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="3">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="4">1 teaspoon ; chicken stock </ingredient>
+    <ingredient num="5">¼ cup ; green onion, small cut ; (10 g) </ingredient>
+    <ingredient num="6">1 cup ; noodle for tsukemen ; (150 g) </ingredient>
+    <ingredient num="7">½ ; hard-boiled egg </ingredient>
+    <ingredient num="8">thai pepper, a little </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75788/hls24_1517363594.m3u8</low>
+    <high>https://vid.tasty.co/output/75788/landscape_720/1517363594</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place water, bonito flour, soy sauce, sesame oil, chicken stock, and green onion in a small pan. </step>
+    <step num="1">Bring this mixture to a boil. </step>
+    <step num="2">Boil the noodles for Tsukemen, wash in cold water and cool it tightly. </step>
+    <step num="3">Feel free to add any other ingredients you might like. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place water, bonito flour, soy sauce, sesame oil, chicken stock, and green onion in a small pan. </steps_updated>
+    <steps_updated num="1">Bring this mixture to a boil. </steps_updated>
+    <steps_updated num="2">Boil the noodles for Tsukemen, wash in cold water and cool it tightly. </steps_updated>
+    <steps_updated num="3">Feel free to add any other ingredients you might like. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-03691</start_time>
+    <end_time>04415</end_time>
+  </duration_human>
+</recipe>

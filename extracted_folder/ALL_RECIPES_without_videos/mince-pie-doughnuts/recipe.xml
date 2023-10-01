@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mince Pie Doughnuts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mince-pie-doughnuts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 jar ; mincemeat </ingredient>
+    <ingredient num="1">1 loaf ; white bread </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">½ cup ; milk ; (125 mL) </ingredient>
+    <ingredient num="4">⅓ cup ; flour ; (50 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; icing sugar </ingredient>
+    <ingredient num="6">icing sugar, to serve, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Brunch</category>
+    <category num="2">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32227/low_1495125540.m3u8</low>
+    <high>https://vid.tasty.co/output/32227/mp4_720x1280/1495125540</high>
+  </video>
+  <steps>
+    <step num="0">Spoon a tablespoon of mincemeat onto the middle of a slice of white bread and cover it with another slice to make a sandwich. </step>
+    <step num="1">Cut a circular shape in the sandwich with a glass, making sure the edges are well sealed. </step>
+    <step num="2">Repeat for more doughnuts. </step>
+    <step num="3">To make the egg wash, add the eggs, milk, flour and icing sugar to a large bowl and whisk until smooth. </step>
+    <step num="4">Dip the doughnuts into the mixture, then fry in oil at 190°C/375°F until golden brown on both sides. </step>
+    <step num="5">Roll the doughnut in icing sugar. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spoon a tablespoon of mincemeat onto the middle of a slice of white bread and cover it with another slice to make a sandwich. </steps_updated>
+    <steps_updated num="1">Cut a circular shape in the sandwich with a glass, making sure the edges are well sealed. </steps_updated>
+    <steps_updated num="2">Repeat for more doughnuts. </steps_updated>
+    <steps_updated num="3">To make the egg wash, add the eggs, milk, flour and icing sugar to a large bowl and whisk until smooth. </steps_updated>
+    <steps_updated num="4">Dip the doughnuts into the mixture, then fry in oil at 190°C/375°F until golden brown on both sides. </steps_updated>
+    <steps_updated num="5">Roll the doughnut in icing sugar. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

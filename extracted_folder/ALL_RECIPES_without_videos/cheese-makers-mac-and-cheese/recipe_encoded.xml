@@ -1,0 +1,66 @@
+<recipe>
+  <title>Cheese Maker&#8217;s Mac And Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-makers-mac-and-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">14058 9486 13278 7974 9924 </ingredient>
+    <ingredient num="1">12791 2605 13278 890 13278 1258 5981 </ingredient>
+    <ingredient num="2">13086 9517 13278 5802 13278 3465 8007 </ingredient>
+    <ingredient num="3">8580 9517 13278 12282 13278 4551 8007 </ingredient>
+    <ingredient num="4">3917 715 13278 4302 996 13278 14577 5981 </ingredient>
+    <ingredient num="5">4061 643 13278 13033 13810 472 13278 6518 5981 </ingredient>
+    <ingredient num="6">3917 12791 9517 13278 3333 5133 4617 9784 14538 13278 9373 5981 </ingredient>
+    <ingredient num="7">3917 12791 9517 13278 3333 9165 14538 13278 9373 5981 </ingredient>
+    <ingredient num="8">3917 2605 13278 3333 6378 14538 13278 11953 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 11986 5226 13810 3333 13278 11953 5981 </ingredient>
+    <ingredient num="10">12791 8071 13278 499 7845 </ingredient>
+    <ingredient num="11">12610 560 11567 </ingredient>
+    <ingredient num="12">10986 560 11567 </ingredient>
+    <ingredient num="13">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="14">3917 1580 9517 13278 12877 13032 5614 13278 9373 5981 </ingredient>
+    <ingredient num="15">6209 6250 6638 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71625/hls24_1515432761.m3u8</low>
+    <high>https://vid.tasty.co/output/71625/landscape_720/1515432761</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9988 8999 </step>
+    <step num="1">10950 5994 2597 11745 6983 4061 9486 371 9924 11770 13757 2082 283 210 11951 6467 11921 7855 560 6622 8224 7990 3917 6513 </step>
+    <step num="2">12633 8341 210 11951 5802 13817 2019 9179 11951 996 13817 2550 11770 3996 7855 1681 14665 12473 12920 7990 6735 560 13767 11004 1681 11951 950 9490 3033 10959 </step>
+    <step num="3">6054 11951 5687 6781 11951 7855 13817 740 11951 13033 13810 9784 13810 7638 9630 13817 6110 13817 12616 1391 82 13817 12375 12473 1681 7568 4309 </step>
+    <step num="4">12785 11951 2373 560 5994 1733 10765 6325 </step>
+    <step num="5">10950 5994 13757 6326 6983 11951 374 13086 9486 371 9924 11770 4531 2082 9179 11951 11384 13817 2550 7990 238 6659 13328 2717 </step>
+    <step num="6">9179 11951 5614 1928 13817 6142 560 1011 2275 11951 9031 1681 7340 13328 7990 13086 560 2933 12689 6054 11951 5687 6781 11951 2082 </step>
+    <step num="7">6252 11951 488 9031 11770 11951 996 13817 13810 13817 10903 7990 13133 560 5527 12689 </step>
+    <step num="8">6054 6781 11951 10439 13817 12886 7990 2933 12689 </step>
+    <step num="9">12774 1391 6209 6250 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 11745 6983 4061 9486 371 9924 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">283 210 11951 6467 11921 7855 560 6622 8224 7990 3917 6513 </steps_updated>
+    <steps_updated num="3">12633 8341 210 11951 5802 13817 2019 </steps_updated>
+    <steps_updated num="4">9179 11951 996 13817 2550 11770 3996 7855 1681 14665 </steps_updated>
+    <steps_updated num="5">12473 12920 7990 6735 560 13767 11004 1681 11951 950 9490 3033 10959 </steps_updated>
+    <steps_updated num="6">6054 11951 5687 6781 11951 7855 13817 740 11951 13033 13810 9784 13810 7638 9630 13817 6110 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="7">12473 1681 7568 4309 </steps_updated>
+    <steps_updated num="8">12785 11951 2373 560 5994 1733 10765 6325 </steps_updated>
+    <steps_updated num="9">10950 5994 13757 6326 6983 11951 374 13086 9486 371 9924 11770 4531 2082 </steps_updated>
+    <steps_updated num="10">9179 11951 11384 13817 2550 7990 238 6659 13328 2717 </steps_updated>
+    <steps_updated num="11">9179 11951 5614 1928 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="12">2275 11951 9031 1681 7340 13328 7990 13086 560 2933 12689 </steps_updated>
+    <steps_updated num="13">6054 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="14">6252 11951 488 9031 11770 11951 996 13817 13810 13817 10903 7990 13133 560 5527 12689 </steps_updated>
+    <steps_updated num="15">6054 6781 11951 10439 13817 12886 7990 2933 12689 </steps_updated>
+    <steps_updated num="16">12774 1391 6209 6250 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

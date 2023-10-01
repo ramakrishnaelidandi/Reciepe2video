@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Galaxy Bark Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-galaxy-bark</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">24 oz ; dark chocolate, chopped or in chips ; (680 g) </ingredient>
+    <ingredient num="1">24 oz ; white chocolate, chopped or in chips ; (680 g) </ingredient>
+    <ingredient num="2">blue food gel </ingredient>
+    <ingredient num="3">purple food gel </ingredient>
+    <ingredient num="4">star spinkles, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32177/low_1495125422.m3u8</low>
+    <high>https://vid.tasty.co/output/32177/mp4_720x1280/1495125422</high>
+  </video>
+  <steps>
+    <step num="0">In one large bowl, melt the dark chocolate. Keep warm and set aside. </step>
+    <step num="1">In two bowls, melt the white chocolate, one bag per bowl. Add blue food gel to one bowl and purple food gel to another until you get the desired color. Keep warm and set aside while you prepare your baking sheet. </step>
+    <step num="2">Line the baking sheet, pour the dark chocolate, use a spatula to spread out to desired thickness. Use a knife or skewer and swirl the chocolate around until you get the desired look. </step>
+    <step num="3">Pour the blue dyed chocolate over the dark chocolate, then the purple dyed chocolate. Again, use a knife or skewer and swirl the chocolate around until you get the desired look. </step>
+    <step num="4">Sprinkle with star sprinkles. Set chocolate for at least two hours. Break apart. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In one large bowl, melt the dark chocolate. </steps_updated>
+    <steps_updated num="1">Keep warm and set aside. </steps_updated>
+    <steps_updated num="2">In two bowls, melt the white chocolate, one bag per bowl. </steps_updated>
+    <steps_updated num="3">Add blue food gel to one bowl and purple food gel to another until you get the desired color. </steps_updated>
+    <steps_updated num="4">Keep warm and set aside while you prepare your baking sheet. </steps_updated>
+    <steps_updated num="5">Line the baking sheet, pour the dark chocolate, use a spatula to spread out to desired thickness. </steps_updated>
+    <steps_updated num="6">Use a knife or skewer and swirl the chocolate around until you get the desired look. </steps_updated>
+    <steps_updated num="7">Pour the blue dyed chocolate over the dark chocolate, then the purple dyed chocolate. </steps_updated>
+    <steps_updated num="8">Again, use a knife or skewer and swirl the chocolate around until you get the desired look. </steps_updated>
+    <steps_updated num="9">Sprinkle with star sprinkles. </steps_updated>
+    <steps_updated num="10">Set chocolate for at least two hours. </steps_updated>
+    <steps_updated num="11">Break apart. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

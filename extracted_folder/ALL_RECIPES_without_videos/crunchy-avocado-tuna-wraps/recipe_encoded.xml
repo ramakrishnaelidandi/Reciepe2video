@@ -1,0 +1,54 @@
+<recipe>
+  <title>Crunchy Avocado Tuna Wraps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crunchy-avocado-tuna-wraps</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-no-cook-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">2933 643 13278 12763 8580 11502 6124 13278 9018 5981 </ingredient>
+    <ingredient num="1">3917 13278 2597 468 341 </ingredient>
+    <ingredient num="2">3917 2605 13278 5425 11588 3962 13278 7289 5981 </ingredient>
+    <ingredient num="3">8580 11245 13278 4587 11588 3962 </ingredient>
+    <ingredient num="4">12791 2605 13278 8083 12384 11588 3962 13278 4239 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 9260 6422 13278 13125 5981 </ingredient>
+    <ingredient num="6">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="7">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="8">12610 560 11567 </ingredient>
+    <ingredient num="9">10986 560 11567 </ingredient>
+    <ingredient num="10">4061 13278 3305 2168 5817 </ingredient>
+    <ingredient num="11">4061 2526 13278 4985 14252 9227 </ingredient>
+    <ingredient num="12">3917 2605 13278 8602 7042 10844 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100410/hls24_1530231269.m3u8</low>
+    <high>https://vid.tasty.co/output/100410/landscape_720/1530231269</high>
+  </video>
+  <duration>
+    <start_time>121.0</start_time>
+    <end_time>165.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 740 11951 5187 13817 2214 8431 5994 1514 560 13663 11951 4485 13817 5187 6690 </step>
+    <step num="1">9179 11951 8445 4587 8083 12384 7997 5920 597 7654 11384 8117 12610 13817 12375 12473 560 1011 </step>
+    <step num="2">4124 5994 11237 7868 4255 5994 9086 4124 5994 9227 14252 4255 11951 328 9679 12791 371 11951 5187 2373 669 11951 937 371 11951 9227 13817 11434 573 11951 2336 13494 1391 8602 717 13817 13260 4536 11951 11951 11237 560 3535 5994 3711 5362 1391 11951 374 295 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 740 11951 5187 13817 2214 </steps_updated>
+    <steps_updated num="1">8431 5994 1514 560 13663 11951 4485 13817 5187 6690 </steps_updated>
+    <steps_updated num="2">9179 11951 8445 4587 8083 12384 7997 5920 597 7654 11384 8117 12610 13817 12375 </steps_updated>
+    <steps_updated num="3">12473 560 1011 </steps_updated>
+    <steps_updated num="4">4124 5994 11237 7868 4255 5994 9086 </steps_updated>
+    <steps_updated num="5">4124 5994 9227 14252 4255 11951 328 </steps_updated>
+    <steps_updated num="6">9679 12791 371 11951 5187 2373 669 11951 937 371 11951 9227 13817 11434 573 11951 2336 </steps_updated>
+    <steps_updated num="7">13494 1391 8602 717 13817 13260 4536 11951 11951 11237 560 3535 5994 3711 </steps_updated>
+    <steps_updated num="8">5362 1391 11951 374 295 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-Ingredient Dough Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-dough-pizza</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/two-ingredient-dough</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ¾ cups ; self-rising flour, plus more for dusting ; (220 g) </ingredient>
+    <ingredient num="1">1 cup ; greek yogurt ; (245 g) </ingredient>
+    <ingredient num="2">½ cup ; pizza sauce ; (130 g) </ingredient>
+    <ingredient num="3">1 cup ; shredded mozzarella cheese, part-skim ; (100 g) </ingredient>
+    <ingredient num="4">pepperoni slice, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+    <category num="1">Lunch</category>
+    <category num="2">Game Day</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76899/hls24_1517947999.m3u8</low>
+    <high>https://vid.tasty.co/output/76899/landscape_720/1517947999</high>
+  </video>
+  <duration>
+    <start_time>4.333</start_time>
+    <end_time>46.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F(200°C). </step>
+    <step num="1">In a large bowl, mix the self-rising flour and Greek yogurt until it comes together to form a ball. </step>
+    <step num="2">Transfer the dough ball to a lightly floured work surface and use your hands to begin flattening and shaping the rough into about a 12-inch (30 cm) round. If at any point the dough begins to stick, sprinkle on a bit more flour. </step>
+    <step num="3">Carefully transfer the dough to a lightly floured baking sheet. </step>
+    <step num="4">Spread the sauce evenly across the dough, sprinkle on the cheese, and top with pepperonis. </step>
+    <step num="5">Bake for 20 minutes, until the cheese has melted and the crust has turned golden-brown. </step>
+    <step num="6">Slice and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F(200°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, mix the self-rising flour and Greek yogurt until it comes together to form a ball. </steps_updated>
+    <steps_updated num="2">Transfer the dough ball to a lightly floured work surface and use your hands to begin flattening and shaping the rough into about a 12-inch (30 cm) round. </steps_updated>
+    <steps_updated num="3">If at any point the dough begins to stick, sprinkle on a bit more flour. </steps_updated>
+    <steps_updated num="4">Carefully transfer the dough to a lightly floured baking sheet. </steps_updated>
+    <steps_updated num="5">Spread the sauce evenly across the dough, sprinkle on the cheese, and top with pepperonis. </steps_updated>
+    <steps_updated num="6">Bake for 20 minutes, until the cheese has melted and the crust has turned golden-brown. </steps_updated>
+    <steps_updated num="7">Slice and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00145</start_time>
+    <end_time>01129</end_time>
+  </duration_human>
+</recipe>

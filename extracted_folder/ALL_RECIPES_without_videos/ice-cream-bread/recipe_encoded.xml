@@ -1,0 +1,46 @@
+<recipe>
+  <title>Ice Cream Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 2439 1123 4318 7115 6077 9801 14449 13817 2409 2439 13033 3987 11155 9316 3631 13278 14638 5981 </ingredient>
+    <ingredient num="1">3917 12791 9517 13278 6844 890 13278 7707 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 1226 1397 13278 8178 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 4680 11318 13278 1420 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31868/low_1495124848.m3u8</low>
+    <high>https://vid.tasty.co/output/31868/mp4_720x1280/1495124848</high>
+  </video>
+  <steps>
+    <step num="0">3915 12313 10439 560 5338 </step>
+    <step num="1">10895 5335 2439 13033 13817 6844 13290 9393 1681 3145 4309 </step>
+    <step num="2">9179 7115 3274 11815 4680 10803 5895 13161 560 11951 9368 </step>
+    <step num="3">9207 5994 10881 5687 1391 3550 12 13817 1733 1391 5994 9637 11013 </step>
+    <step num="4">1083 4428 669 5994 10881 5687 13817 11434 7317 </step>
+    <step num="5">7831 7990 3366 12689 3486 7287 13817 11855 5401 12446 6781 10439 560 7271 </step>
+    <step num="6">12251 560 10694 7568 432 2136 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 12313 10439 560 5338 </steps_updated>
+    <steps_updated num="1">10895 5335 2439 13033 13817 6844 13290 </steps_updated>
+    <steps_updated num="2">9393 1681 3145 4309 </steps_updated>
+    <steps_updated num="3">9179 7115 3274 11815 4680 10803 5895 13161 560 11951 9368 </steps_updated>
+    <steps_updated num="4">9207 5994 10881 5687 1391 3550 12 13817 1733 1391 5994 9637 11013 </steps_updated>
+    <steps_updated num="5">1083 4428 669 5994 10881 5687 13817 11434 7317 </steps_updated>
+    <steps_updated num="6">7831 7990 3366 12689 </steps_updated>
+    <steps_updated num="7">3486 7287 13817 11855 5401 12446 6781 10439 560 7271 </steps_updated>
+    <steps_updated num="8">12251 560 10694 7568 432 2136 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

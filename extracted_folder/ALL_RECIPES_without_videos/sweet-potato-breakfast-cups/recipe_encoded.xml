@@ -1,0 +1,72 @@
+<recipe>
+  <title>Sweet Potato Breakfast Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-breakfast-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 13757 10882 2274 4125 </ingredient>
+    <ingredient num="1">3917 8071 13278 12610 7789 3954 560 11567 </ingredient>
+    <ingredient num="2">1580 8071 13278 10986 7789 3954 560 11567 </ingredient>
+    <ingredient num="3">1580 8071 13278 9496 </ingredient>
+    <ingredient num="4">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="5">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="6">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="7">3917 2605 13278 3333 14538 1279 13278 11953 5981 </ingredient>
+    <ingredient num="8">8580 13278 2192 14463 9917 </ingredient>
+    <ingredient num="9">12791 13278 8083 1466 10986 8695 13817 341 </ingredient>
+    <ingredient num="10">1580 2605 13278 2192 2340 9800 13278 3433 5981 </ingredient>
+    <ingredient num="11">1580 2605 13278 8602 9491 10844 13278 11953 5981 </ingredient>
+    <ingredient num="12">12791 2605 13278 3333 14538 1279 13278 1936 5981 </ingredient>
+    <ingredient num="13">12791 13278 8083 1466 10986 8695 13817 341 </ingredient>
+    <ingredient num="14">12791 2605 13278 12384 341 13278 336 5981 </ingredient>
+    <ingredient num="15">3917 1580 9259 13278 7035 3745 13817 341 </ingredient>
+    <ingredient num="16">13086 13278 2192 12708 </ingredient>
+    <ingredient num="17">3917 1580 9259 13278 7035 3745 13817 341 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111441/hls24_1538763461.m3u8</low>
+    <high>https://vid.tasty.co/output/111441/landscape_720/1538763461</high>
+  </video>
+  <duration>
+    <start_time>4.0</start_time>
+    <end_time>93.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 1867 </step>
+    <step num="1">10936 5994 1228 5895 5994 5133 5097 13260 7777 11951 10882 13233 669 12056 10187 51 7711 10832 </step>
+    <step num="2">5570 11951 10882 2868 8535 210 5994 2597 14511 740 11951 12610 10986 6958 11384 8117 13817 6334 8117 13817 1686 11951 13233 1681 3584 229 </step>
+    <step num="3">1828 1788 7990 6285 5527 11004 1681 12282 8933 6781 11951 10882 13233 13817 11951 8535 12573 12386 13817 1934 </step>
+    <step num="4">11881 11951 9517 371 5994 1079 12841 2141 1391 11951 8244 14158 </step>
+    <step num="5">6695 2933 10882 2868 8535 5412 11951 10860 371 5994 12841 202 10407 12624 5570 3917 12205 4255 11951 551 560 3535 5994 6584 5362 1391 11951 374 2868 10832 6252 5994 10222 371 14538 210 11951 551 371 10763 1384 </step>
+    <step num="6">7831 7990 13767 8927 1681 11951 14538 7312 5335 13817 11951 10882 2868 8535 12573 14371 </step>
+    <step num="7">6054 11951 2868 9517 6781 11951 10439 13817 2864 11951 10439 2281 560 14396 8275 </step>
+    <step num="8">9179 12313 13218 7105 560 11951 8143 10242 1391 82 13817 12375 </step>
+    <step num="9">7831 7990 6646 5169 11004 5895 1681 11951 12708 12573 2043 3745 11374 11951 284 12573 14371 1828 10694 7990 6285 2933 12689 </step>
+    <step num="10">12774 10316 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">10936 5994 1228 5895 5994 5133 5097 13260 7777 11951 10882 13233 669 12056 10187 51 7711 10832 </steps_updated>
+    <steps_updated num="2">5570 11951 10882 2868 8535 210 5994 2597 14511 740 11951 12610 10986 6958 11384 8117 13817 6334 8117 13817 1686 11951 13233 1681 3584 229 </steps_updated>
+    <steps_updated num="3">1828 1788 7990 6285 5527 11004 1681 12282 8933 6781 11951 10882 13233 13817 11951 8535 12573 12386 13817 1934 </steps_updated>
+    <steps_updated num="4">11881 11951 9517 371 5994 1079 12841 2141 1391 11951 8244 14158 </steps_updated>
+    <steps_updated num="5">6695 2933 10882 2868 8535 5412 11951 10860 371 5994 12841 202 10407 12624 </steps_updated>
+    <steps_updated num="6">5570 3917 12205 4255 11951 551 560 3535 5994 6584 </steps_updated>
+    <steps_updated num="7">5362 1391 11951 374 2868 10832 </steps_updated>
+    <steps_updated num="8">6252 5994 10222 371 14538 210 11951 551 371 10763 1384 </steps_updated>
+    <steps_updated num="9">7831 7990 13767 8927 1681 11951 14538 7312 5335 13817 11951 10882 2868 8535 12573 14371 </steps_updated>
+    <steps_updated num="10">6054 11951 2868 9517 6781 11951 10439 13817 2864 11951 10439 2281 560 14396 8275 </steps_updated>
+    <steps_updated num="11">9179 12313 13218 7105 560 11951 8143 </steps_updated>
+    <steps_updated num="12">10242 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="13">7831 7990 6646 5169 11004 5895 1681 11951 12708 12573 2043 3745 11374 11951 284 12573 14371 </steps_updated>
+    <steps_updated num="14">1828 10694 7990 6285 2933 12689 </steps_updated>
+    <steps_updated num="15">12774 10316 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

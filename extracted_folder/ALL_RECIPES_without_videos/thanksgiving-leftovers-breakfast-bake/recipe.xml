@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thanksgiving Leftovers Breakfast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thanksgiving-leftovers-breakfast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; stuffing ; (600 g) </ingredient>
+    <ingredient num="1">12 ; eggs </ingredient>
+    <ingredient num="2">1 cup ; turkey, shredded ; (125 g) </ingredient>
+    <ingredient num="3">½ cup ; carrot ; (55 g) </ingredient>
+    <ingredient num="4">⅓ cup ; green onion ; (35 g) </ingredient>
+    <ingredient num="5">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31876/low_1495124871.m3u8</low>
+    <high>https://vid.tasty.co/output/31876/mp4_720x1280/1495124871</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350° F (180° C). </step>
+    <step num="1">Whisk together 12 eggs in a large bowl. </step>
+    <step num="2">Shred the turkey and dice the carrots and green onions. </step>
+    <step num="3">Add turkey, carrots, green onions, cheese salt, and pepper. Mix. </step>
+    <step num="4">Scoop stuffing into a greased square baking pan. Push it down with a spoon to make an even layer for crust. </step>
+    <step num="5">Pour egg mixture evenly into the pan. </step>
+    <step num="6">Bake for 45 mins. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350° F (180° C). </steps_updated>
+    <steps_updated num="1">Whisk together 12 eggs in a large bowl. </steps_updated>
+    <steps_updated num="2">Shred the turkey and dice the carrots and green onions. </steps_updated>
+    <steps_updated num="3">Add turkey, carrots, green onions, cheese salt, and pepper. </steps_updated>
+    <steps_updated num="4">Mix. </steps_updated>
+    <steps_updated num="5">Scoop stuffing into a greased square baking pan. </steps_updated>
+    <steps_updated num="6">Push it down with a spoon to make an even layer for crust. </steps_updated>
+    <steps_updated num="7">Pour egg mixture evenly into the pan. </steps_updated>
+    <steps_updated num="8">Bake for 45 mins. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

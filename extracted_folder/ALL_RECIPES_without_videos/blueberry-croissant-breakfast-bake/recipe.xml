@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Croissant Breakfast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-croissant-breakfast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tube ; crescent dough </ingredient>
+    <ingredient num="1">¾ cup ; blueberry, fresh or frozen ; (75 g) </ingredient>
+    <ingredient num="2">8 oz ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="3">⅔ cup ; sugar ; (135 g) </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="6">¼ cup ; milk ; (60 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32032/low_1495125028.m3u8</low>
+    <high>https://vid.tasty.co/output/32032/mp4_720x1280/1495125028</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C.) </step>
+    <step num="1">In a mixing bowl beat cream cheese, sugar, and vanilla until creamy. </step>
+    <step num="2">Add eggs, and while beating slowly incorporate the milk until creamy. Set aside. </step>
+    <step num="3">Using cold crescent dough, roll up crescent rolls and curve into crescent shape. </step>
+    <step num="4">Place rolls in an ungreased 9x9 (23x23) pan. </step>
+    <step num="5">Pour blueberries over the crescent rolls. </step>
+    <step num="6">Pour cream cheese mixture over rolls and blueberries. </step>
+    <step num="7">Bake at 350°F (175°C) for 35 minutes or until rolls have become golden brown. </step>
+    <step num="8">Top with powdered sugar. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C.) </steps_updated>
+    <steps_updated num="1">In a mixing bowl beat cream cheese, sugar, and vanilla until creamy. </steps_updated>
+    <steps_updated num="2">Add eggs, and while beating slowly incorporate the milk until creamy. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">Using cold crescent dough, roll up crescent rolls and curve into crescent shape. </steps_updated>
+    <steps_updated num="5">Place rolls in an ungreased 9x9 (23x23) pan. </steps_updated>
+    <steps_updated num="6">Pour blueberries over the crescent rolls. </steps_updated>
+    <steps_updated num="7">Pour cream cheese mixture over rolls and blueberries. </steps_updated>
+    <steps_updated num="8">Bake at 350°F (175°C) for 35 minutes or until rolls have become golden brown. </steps_updated>
+    <steps_updated num="9">Top with powdered sugar. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

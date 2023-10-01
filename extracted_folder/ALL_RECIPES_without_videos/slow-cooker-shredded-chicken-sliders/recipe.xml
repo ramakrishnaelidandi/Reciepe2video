@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Shredded Chicken Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-shredded-chicken-sliders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; onion, sliced </ingredient>
+    <ingredient num="1">3 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="2">1 ½ teaspoons ; seasoned salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="5">1 tablespoon ; dijon mustard </ingredient>
+    <ingredient num="6">⅓ cup ; honey ; (115 g) </ingredient>
+    <ingredient num="7">6 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">12 ; slider buns </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43990/low_1500423246.m3u8</low>
+    <high>https://vid.tasty.co/output/43990/mp4_720x1280/1500423246</high>
+  </video>
+  <steps>
+    <step num="0">Add all ingredients to a slow cooker and stir until chicken and onions are coated with seasonings. </step>
+    <step num="1">Cook on high for 3-4 hours, or until chicken is cooked and shreddable. </step>
+    <step num="2">With a set of tongs or two forks, shred the chicken and stir into the juices. </step>
+    <step num="3">Distribute evenly between slider buns. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all ingredients to a slow cooker and stir until chicken and onions are coated with seasonings. </steps_updated>
+    <steps_updated num="1">Cook on high for 3-4 hours, or until chicken is cooked and shreddable. </steps_updated>
+    <steps_updated num="2">With a set of tongs or two forks, shred the chicken and stir into the juices. </steps_updated>
+    <steps_updated num="3">Distribute evenly between slider buns. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

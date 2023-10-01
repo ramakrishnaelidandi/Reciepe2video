@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pull-Apart Cheddar Ranch Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pull-apart-cheddar-ranch-rolls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 can ; premade biscuit </ingredient>
+    <ingredient num="1">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="2">¼ cup ; chives, chopped ; (10 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; ranch seasoning </ingredient>
+    <ingredient num="4">3 tablespoons ; butter, melted </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23473/low_1486598540.m3u8</low>
+    <high>https://vid.tasty.co/output/23473/mp4_720x1280/1486598540</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Cut each biscuit into 6 pieces. </step>
+    <step num="2">In a bowl, combine biscuits with the rest of the ingredients. </step>
+    <step num="3">Place 3-4 pieces of biscuit into each cup of a greased muffin tin. </step>
+    <step num="4">Bake 15 minutes or until biscuits are golden brown and cooked through. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Cut each biscuit into 6 pieces. </steps_updated>
+    <steps_updated num="2">In a bowl, combine biscuits with the rest of the ingredients. </steps_updated>
+    <steps_updated num="3">Place 3-4 pieces of biscuit into each cup of a greased muffin tin. </steps_updated>
+    <steps_updated num="4">Bake 15 minutes or until biscuits are golden brown and cooked through. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

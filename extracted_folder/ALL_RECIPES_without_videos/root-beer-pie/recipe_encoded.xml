@@ -1,0 +1,42 @@
+<recipe>
+  <title>Root Beer Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/root-beer-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6735 643 13278 8640 2795 13033 13278 12462 8007 </ingredient>
+    <ingredient num="1">409 643 13278 6964 4615 13278 12067 8007 </ingredient>
+    <ingredient num="2">12791 2605 13278 5802 13278 13125 8007 </ingredient>
+    <ingredient num="3">3917 5228 13278 1319 11867 10968 </ingredient>
+    <ingredient num="4">3917 13278 4661 4613 1547 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24715/low_1487873980.m3u8</low>
+    <high>https://vid.tasty.co/output/24715/mp4_1280X720/1487873980</high>
+  </video>
+  <steps>
+    <step num="0">10950 797 14511 3930 11951 8640 13033 1681 13448 5464 5563 10950 5994 10909 14511 10968 11951 6964 13285 9889 13817 11867 10968 1681 13025 </step>
+    <step num="1">12595 11951 8640 13033 669 11951 11867 10665 </step>
+    <step num="2">1083 669 9864 4661 4613 13207 </step>
+    <step num="3">13855 7990 12645 12721 5895 173 14142 </step>
+    <step num="4">12774 1391 12313 226 7201 10889 612 279 13033 13817 14617 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 797 14511 3930 11951 8640 13033 1681 13448 5464 5563 </steps_updated>
+    <steps_updated num="1">10950 5994 10909 14511 10968 11951 6964 13285 9889 13817 11867 10968 1681 13025 </steps_updated>
+    <steps_updated num="2">12595 11951 8640 13033 669 11951 11867 10665 </steps_updated>
+    <steps_updated num="3">1083 669 9864 4661 4613 13207 </steps_updated>
+    <steps_updated num="4">13855 7990 12645 12721 5895 173 14142 </steps_updated>
+    <steps_updated num="5">12774 1391 12313 226 7201 </steps_updated>
+    <steps_updated num="6">10889 612 279 13033 13817 14617 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

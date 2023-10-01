@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Basil Ricotta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-basil-ricotta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheeses</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; raw cashews ; (130 g) </ingredient>
+    <ingredient num="1">1 cup ; fresh basil leaf ; (40 g) </ingredient>
+    <ingredient num="2">½ ; lemon, juiced </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">6 fl oz ; water ; (175 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Snacks</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108211/hls24_1536269245.m3u8</low>
+    <high>https://vid.tasty.co/output/108211/landscape_720/1536269245</high>
+  </video>
+  <duration>
+    <start_time>89.333</start_time>
+    <end_time>112.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a medium saucepan filled with water to a boil. Add the cashews and boil for 30 minutes, then drain. </step>
+    <step num="1">Add the boiled cashews, basil, lemon juice, and salt to a blender. Start to blend, then slowly add the water while the blender is running until the “ricotta” reaches your desired consistency. </step>
+    <step num="2">Serve immediately or store in the fridge for up to 4 days. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a medium saucepan filled with water to a boil. </steps_updated>
+    <steps_updated num="1">Add the cashews and boil for 30 minutes, then drain. </steps_updated>
+    <steps_updated num="2">Add the boiled cashews, basil, lemon juice, and salt to a blender. </steps_updated>
+    <steps_updated num="3">Start to blend, then slowly add the water while the blender is running until the “ricotta” reaches your desired consistency. </steps_updated>
+    <steps_updated num="4">Serve immediately or store in the fridge for up to 4 days. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

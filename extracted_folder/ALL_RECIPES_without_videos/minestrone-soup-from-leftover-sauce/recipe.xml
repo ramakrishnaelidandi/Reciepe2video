@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Minestrone Soup From Leftover Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/minestrone-soup-from-leftover-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-ways-to-reuse-leftover-pasta-sauce</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 ; medium onion, chopped </ingredient>
+    <ingredient num="2">2 stalks ; celery, chopped </ingredient>
+    <ingredient num="3">2 ; carrots, chopped </ingredient>
+    <ingredient num="4">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="5">2 teaspoons ; salt </ingredient>
+    <ingredient num="6">1 cup ; green beans, diced ; (360 g) </ingredient>
+    <ingredient num="7">3 cups ; tomato sauce ; (675 g) </ingredient>
+    <ingredient num="8">5 cups ; water ; (1.18 L) </ingredient>
+    <ingredient num="9">16 oz ; kidney bean, 1 can ; (425 g) </ingredient>
+    <ingredient num="10">1 lb ; macaroni ; (455 g) </ingredient>
+    <ingredient num="11">parmesan cheese, for serving </ingredient>
+    <ingredient num="12">fresh basil, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43243/low_1499792065.m3u8</low>
+    <high>https://vid.tasty.co/output/43243/mp4_720x1280/1499792065</high>
+  </video>
+  <duration>
+    <start_time>65.85</start_time>
+    <end_time>94.94</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a heavy bottom pot, combine the olive oil, onion, celery, and carrots over medium heat. Cook until the carrots soften and the onions become slightly translucent. </step>
+    <step num="1">Add the garlic and salt, and cook for an additional 2 minutes. </step>
+    <step num="2">Add the green beans, sauce, and water, and bring to a boil. </step>
+    <step num="3">Add the beans and macaroni and cook for about 9-10 minutes until the macaroni is al dente. </step>
+    <step num="4">Serve warm with Parmesan and basil. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a heavy bottom pot, combine the olive oil, onion, celery, and carrots over medium heat. </steps_updated>
+    <steps_updated num="1">Cook until the carrots soften and the onions become slightly translucent. </steps_updated>
+    <steps_updated num="2">Add the garlic and salt, and cook for an additional 2 minutes. </steps_updated>
+    <steps_updated num="3">Add the green beans, sauce, and water, and bring to a boil. </steps_updated>
+    <steps_updated num="4">Add the beans and macaroni and cook for about 9-10 minutes until the macaroni is al dente. </steps_updated>
+    <steps_updated num="5">Serve warm with Parmesan and basil. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01999</start_time>
+    <end_time>02858</end_time>
+  </duration_human>
+</recipe>

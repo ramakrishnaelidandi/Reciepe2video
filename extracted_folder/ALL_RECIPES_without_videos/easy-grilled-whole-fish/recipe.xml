@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Grilled Whole Fish Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-grilled-whole-fish</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; whole fish </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">lemon, to taste </ingredient>
+    <ingredient num="4">parsley, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31852/low_1495124854.m3u8</low>
+    <high>https://vid.tasty.co/output/31852/mp4_720x1280/1495124854</high>
+  </video>
+  <steps>
+    <step num="0">Rinse fish inside and out with cold water, pat dry with paper towel. </step>
+    <step num="1">Stuff cavity with salt, pepper, lemon, parsley, or any favorite herbs or spices. </step>
+    <step num="2">Drizzle skin with olive oil. Place in a loose pouch of heavy duty aluminum foil and splash with white wine. Roll the foil shut so that liquid or air can’t escape but leave a space between the top of the fish and the top of the foil pouch. </step>
+    <step num="3">Cook on medium-high grill for 12-18 minutes depending on size of the fish. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Rinse fish inside and out with cold water, pat dry with paper towel. </steps_updated>
+    <steps_updated num="1">Stuff cavity with salt, pepper, lemon, parsley, or any favorite herbs or spices. </steps_updated>
+    <steps_updated num="2">Drizzle skin with olive oil. </steps_updated>
+    <steps_updated num="3">Place in a loose pouch of heavy duty aluminum foil and splash with white wine. </steps_updated>
+    <steps_updated num="4">Roll the foil shut so that liquid or air can’t escape but leave a space between the top of the fish and the top of the foil pouch. </steps_updated>
+    <steps_updated num="5">Cook on medium-high grill for 12-18 minutes depending on size of the fish. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

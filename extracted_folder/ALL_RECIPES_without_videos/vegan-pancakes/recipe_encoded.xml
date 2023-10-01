@@ -1,0 +1,52 @@
+<recipe>
+  <title>Vegan Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-pancakes</url>
+  <type>single</type>
+  <ingredients>  
+    <ingredient num="0">8088 9271 13278 4834 13278 1841 13038 </ingredient>
+    <ingredient num="1">5828 4240 13278 12282 13278 1841 13038 </ingredient>
+    <ingredient num="2">3549 9271 13278 1421 13278 10187 13038 </ingredient>
+    <ingredient num="3">14470 9271 13278 890 13278 10187 1580 14435 </ingredient>
+    <ingredient num="4">3917 14014 13278 4834 </ingredient>
+    <ingredient num="5">8580 9486 13278 10765 11703 </ingredient>
+    <ingredient num="6">3917 13278 12610 2157 </ingredient>
+    <ingredient num="7">9440 4240 13278 11691 5802 13278 10187 12791 14435 </ingredient>
+    <ingredient num="8">8580 9486 13278 5766 </ingredient>
+    <ingredient num="9">7632 7990 5291 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Vegan</category>
+    <category num="7">American</category>
+  </categories>
+  <video>
+    <low>https://vid.buzzfeed.com/output/23702/low_1486765522.m3u8</low>
+    <high>https://vid.buzzfeed.com/output/23702/mp4_720x1280/1486765522</high>
+  </video>
+  <steps>
+    <step num="0">10346 11951 1421 6818 5569 14246 11951 6145 13384 13817 10520 210 5994 2192 11844 11770 13757 2082 </step>
+    <step num="1">8785 560 5994 1002 13817 415 2864 1681 1762 11628 5994 11358 6431 6184 7799 2257 5292 </step>
+    <step num="2">2715 11951 4776 10968 3626 11951 6467 6145 10765 8117 13817 12051 </step>
+    <step num="3">283 210 11951 11691 5802 13817 5766 1681 1762 11628 5994 4376 7160 9368 </step>
+    <step num="4">8889 8177 3141 5766 210 5994 5291 5687 13817 5406 11951 4428 669 11951 5291 10590 </step>
+    <step num="5">8916 7990 5994 8631 8927 4255 10763 11801 1681 10963 2147 </step>
+    <step num="6">12774 1391 11951 1421 12911 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10346 11951 1421 6818 5569 14246 11951 6145 13384 13817 10520 210 5994 2192 11844 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">8785 560 5994 1002 13817 415 2864 1681 1762 11628 5994 11358 6431 6184 7799 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">2715 11951 4776 10968 3626 11951 6467 6145 10765 8117 13817 12051 </steps_updated>
+    <steps_updated num="4">283 210 11951 11691 5802 13817 5766 1681 1762 11628 5994 4376 7160 9368 </steps_updated>
+    <steps_updated num="5">8889 8177 3141 5766 210 5994 5291 5687 13817 5406 11951 4428 669 11951 5291 10590 </steps_updated>
+    <steps_updated num="6">8916 7990 5994 8631 8927 4255 10763 11801 1681 10963 2147 </steps_updated>
+    <steps_updated num="7">12774 1391 11951 1421 12911 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

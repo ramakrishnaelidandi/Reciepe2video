@@ -1,0 +1,52 @@
+<recipe>
+  <title>Healthier Instant Noodles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-instant-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-dorm-friendly-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 2031 13278 11691 2260 </ingredient>
+    <ingredient num="1">1580 8071 13278 488 9110 5766 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">12791 2605 13278 9325 1088 976 13278 828 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 5425 7777 669 9775 13278 1936 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 6209 2602 3962 13278 828 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 5316 5075 5777 13278 11953 5981 </ingredient>
+    <ingredient num="7">8580 9486 13278 4985 12384 3962 </ingredient>
+    <ingredient num="8">3917 2605 13278 6222 42 5895 6222 12282 13278 12462 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57773/low_1508773504.m3u8</low>
+    <high>https://vid.tasty.co/output/57773/mp4_720x1280/1508773504</high>
+  </video>
+  <duration>
+    <start_time>31.97</start_time>
+    <end_time>49.22</end_time>
+  </duration>
+  <steps>
+    <step num="0">1349 5994 9190 7051 1391 11691 7280 9110 7632 10986 9806 8445 2602 12279 13817 4985 914 </step>
+    <step num="1">2838 7074 560 8686 </step>
+    <step num="2">10434 210 11951 10437 7990 3386 560 2933 2497 </step>
+    <step num="3">11233 6851 12550 560 7397 5406 210 11951 6222 12282 5895 9 12473 3631 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1349 5994 9190 7051 1391 11691 7280 9110 7632 10986 9806 8445 2602 12279 13817 4985 914 </steps_updated>
+    <steps_updated num="1">2838 7074 560 8686 </steps_updated>
+    <steps_updated num="2">10434 210 11951 10437 7990 3386 560 2933 2497 </steps_updated>
+    <steps_updated num="3">11233 6851 12550 560 7397 5406 210 11951 6222 12282 5895 9 </steps_updated>
+    <steps_updated num="4">12473 3631 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01015</start_time>
+    <end_time>01560</end_time>
+  </duration_human>
+</recipe>

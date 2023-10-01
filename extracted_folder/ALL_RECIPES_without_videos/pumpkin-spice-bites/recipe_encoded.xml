@@ -1,0 +1,47 @@
+<recipe>
+  <title>Pumpkin Spice Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pumpkin-spice-bites</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-energy-bites-perfect-for-fall</comp_url>
+  <ingredients>
+    <ingredient num="0">1813 2605 13278 14079 5042 13278 3433 5981 </ingredient>
+    <ingredient num="1">1813 2605 13278 638 9924 13278 12158 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 9171 1285 5895 9586 13278 7005 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 952 1967 13278 2935 5981 </ingredient>
+    <ingredient num="5">12791 8071 13278 12425 </ingredient>
+    <ingredient num="6">12791 8071 13278 12159 </ingredient>
+    <ingredient num="7">12791 8071 13278 14418 </ingredient>
+    <ingredient num="8">3917 13278 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111726/hls24_1539107108.m3u8</low>
+    <high>https://vid.tasty.co/output/111726/landscape_720/1539107108</high>
+  </video>
+  <duration>
+    <start_time>3.0</start_time>
+    <end_time>57.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 4120 11951 14079 10391 638 10907 9171 1285 13817 308 13817 6142 1681 12119 </step>
+    <step num="1">9179 11951 1103 4654 5363 14635 13817 12610 13817 10968 1681 3584 9123 </step>
+    <step num="2">4080 210 11951 7111 7990 238 12689 </step>
+    <step num="3">8431 5994 14014 560 1374 2696 11951 2207 415 4536 669 2984 1391 12313 6292 </step>
+    <step num="4">10434 210 11951 7111 210 2237 2759 3801 7990 3386 560 3917 2812 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 4120 11951 14079 10391 638 10907 9171 1285 13817 308 13817 6142 1681 12119 </steps_updated>
+    <steps_updated num="1">9179 11951 1103 4654 5363 14635 13817 12610 13817 10968 1681 3584 9123 </steps_updated>
+    <steps_updated num="2">4080 210 11951 7111 7990 238 12689 </steps_updated>
+    <steps_updated num="3">8431 5994 14014 560 1374 2696 11951 2207 415 4536 669 2984 1391 12313 6292 </steps_updated>
+    <steps_updated num="4">10434 210 11951 7111 210 2237 2759 3801 7990 3386 560 3917 2812 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

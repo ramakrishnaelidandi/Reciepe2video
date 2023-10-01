@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Primavera Spaghetti Squash</title>
+  <url>https://tasty.co/recipe/primavera-spaghetti-squash</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-squash-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; spaghetti squash </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="5">1 tablespoon ; garlic </ingredient>
+    <ingredient num="6">½ cup ; onion, diced ; (75 g) </ingredient>
+    <ingredient num="7">1 cup ; mushroom, sliced ; (75 g) </ingredient>
+    <ingredient num="8">1 cup ; broccoli florets ; (150 g) </ingredient>
+    <ingredient num="9">1 cup ; asparagus, chopped ; (125 g) </ingredient>
+    <ingredient num="10">½ cup ; squash, sliced ; (100 g) </ingredient>
+    <ingredient num="11">½ cup ; cherry tomato, halved ; (100 g) </ingredient>
+    <ingredient num="12">1 teaspoon ; salt </ingredient>
+    <ingredient num="13">1 teaspoon ; pepper </ingredient>
+    <ingredient num="14">½ cup ; milk, or milk alternative ; (120 mL) </ingredient>
+    <ingredient num="15">¼ cup ; vegetarian parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="16">2 tablespoons ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55204/low_1507246656.m3u8</low>
+    <high>https://vid.tasty.co/output/55204/mp4_720x1280/1507246656</high>
+  </video>
+  <duration>
+    <start_time>117.5</start_time>
+    <end_time>147.28</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400ºF (200ºC). </step>
+    <step num="1">With a sharp knife, slice the squash in half. If the squash is too tough, puncture in several places forming a dotted line around the squash. Microwave for 3-5 minutes to soften. Allow to cool before cutting in half. </step>
+    <step num="2">Scoop out the seeds, brush with oil, and sprinkle with salt, and pepper. Bake for 40-45 minutes, or until a fork can easily pierce the skin. </step>
+    <step num="3">Meanwhile, in a pan combine oil, garlic, and onion over medium heat, and sautè until onions are translucent. </step>
+    <step num="4">Add mushrooms and cook for 3 minutes. Add the broccoli, asparagus, squash, tomatoes, salt, and pepper and cook until almost cooked through. </step>
+    <step num="5">Add the milk/ milk alternative until warmed through. Add the vegetarian Parmesan and mix until evenly spread throughout vegetables. Add the lemon juice and stir to combine. </step>
+    <step num="6">Remove squash from the oven, with a fork pull at the edges to produce that stringy “spaghetti” quality. </step>
+    <step num="7">In the pan combine “spaghetti” with vegetables. Return to the squash and top with Parmesan. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">With a sharp knife, slice the squash in half. </steps_updated>
+    <steps_updated num="2">If the squash is too tough, puncture in several places forming a dotted line around the squash. </steps_updated>
+    <steps_updated num="3">Microwave for 3-5 minutes to soften. </steps_updated>
+    <steps_updated num="4">Allow to cool before cutting in half. </steps_updated>
+    <steps_updated num="5">Scoop out the seeds, brush with oil, and sprinkle with salt, and pepper. </steps_updated>
+    <steps_updated num="6">Bake for 40-45 minutes, or until a fork can easily pierce the skin. </steps_updated>
+    <steps_updated num="7">Meanwhile, in a pan combine oil, garlic, and onion over medium heat, and sautè until onions are translucent. </steps_updated>
+    <steps_updated num="8">Add mushrooms and cook for 3 minutes. </steps_updated>
+    <steps_updated num="9">Add the broccoli, asparagus, squash, tomatoes, salt, and pepper and cook until almost cooked through. </steps_updated>
+    <steps_updated num="10">Add the milk/ milk alternative until warmed through. </steps_updated>
+    <steps_updated num="11">Add the vegetarian Parmesan and mix until evenly spread throughout vegetables. </steps_updated>
+    <steps_updated num="12">Add the lemon juice and stir to combine. </steps_updated>
+    <steps_updated num="13">Remove squash from the oven, with a fork pull at the edges to produce that stringy “spaghetti” quality. </steps_updated>
+    <steps_updated num="14">In the pan combine “spaghetti” with vegetables. </steps_updated>
+    <steps_updated num="15">Return to the squash and top with Parmesan. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03586</start_time>
+    <end_time>04436</end_time>
+  </duration_human>
+</recipe>

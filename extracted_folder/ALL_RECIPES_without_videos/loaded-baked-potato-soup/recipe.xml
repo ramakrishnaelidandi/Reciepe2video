@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Baked Potato Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-baked-potato-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-soups-to-warm-your-soul</comp_url>
+  <ingredients>
+    <ingredient num="0">4 lb ; russet potato, washed ; (1.8 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 ; onion, diced </ingredient>
+    <ingredient num="5">3 cloves ; garlic </ingredient>
+    <ingredient num="6">3 tablespoons ; butter </ingredient>
+    <ingredient num="7">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="8">2 ½ cups ; chicken broth ; (590 mL) </ingredient>
+    <ingredient num="9">8 oz ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="10">shredded cheese </ingredient>
+    <ingredient num="11">bacon, diced </ingredient>
+    <ingredient num="12">fresh chives, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65038/hls24_1512080123.m3u8</low>
+    <high>https://vid.tasty.co/output/65038/landscape_720/1512080123</high>
+  </video>
+  <duration>
+    <start_time>2.21</start_time>
+    <end_time>76.69</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat your oven to 425˚F (220˚C). </step>
+    <step num="1">On a parchment paper-lined baking sheet, rub potatoes with salt, pepper, and olive oil. </step>
+    <step num="2">Bake in preheated oven for 40-50 minutes. </step>
+    <step num="3">Once cooled, peel and mash potatoes, and set aside. </step>
+    <step num="4">Heat oil in large pot over a medium-high heat. </step>
+    <step num="5">Add onion and garlic. Cook until translucent and garlic is fragant, about 5 minutes. </step>
+    <step num="6">Add butter and melt. </step>
+    <step num="7">Bring in flour and stir until mixture is lightly browned. </step>
+    <step num="8">Add in the chicken broth and cream cheese. Stir until fully incorporated </step>
+    <step num="9">Add in the mashed potatoes and combine. </step>
+    <step num="10">Season with salt and pepper. </step>
+    <step num="11">Garnish bowl with shredded cheese, bacon, and chives. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat your oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">On a parchment paper-lined baking sheet, rub potatoes with salt, pepper, and olive oil. </steps_updated>
+    <steps_updated num="2">Bake in preheated oven for 40-50 minutes. </steps_updated>
+    <steps_updated num="3">Once cooled, peel and mash potatoes, and set aside. </steps_updated>
+    <steps_updated num="4">Heat oil in large pot over a medium-high heat. </steps_updated>
+    <steps_updated num="5">Add onion and garlic. </steps_updated>
+    <steps_updated num="6">Cook until translucent and garlic is fragant, about 5 minutes. </steps_updated>
+    <steps_updated num="7">Add butter and melt. </steps_updated>
+    <steps_updated num="8">Bring in flour and stir until mixture is lightly browned. </steps_updated>
+    <steps_updated num="9">Add in the chicken broth and cream cheese. </steps_updated>
+    <steps_updated num="10">Stir until fully incorporated </steps_updated>
+    <steps_updated num="11">Add in the mashed potatoes and combine. </steps_updated>
+    <steps_updated num="12">Season with salt and pepper. </steps_updated>
+    <steps_updated num="13">Garnish bowl with shredded cheese, bacon, and chives. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00084</start_time>
+    <end_time>01870</end_time>
+  </duration_human>
+</recipe>

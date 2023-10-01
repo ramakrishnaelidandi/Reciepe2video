@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthier Chicken Alfredo Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-chicken-alfredo-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">2 ; chicken breasts, cubed </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">2 tablespoons ; flour </ingredient>
+    <ingredient num="6">1 cup ; chicken broth ; (240 mL) </ingredient>
+    <ingredient num="7">1 cup ; skim milk, or milk of choice ; (240 mL) </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="10">2 cups ; spinach ; (80 g) </ingredient>
+    <ingredient num="11">2 cups ; whole grain penne pasta, cooked ; (400 g) </ingredient>
+    <ingredient num="12">¼ cup ; parmesan cheese, optional ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23343/low_1486507764.m3u8</low>
+    <high>https://vid.tasty.co/output/23343/mp4_720x1280/1486507764</high>
+  </video>
+  <steps>
+    <step num="0">Heat the olive oil over a skillet and add chicken. Season with salt and pepper, and cook 5-8 minutes, or until no longer pink. </step>
+    <step num="1">Remove the chicken from the pan and set aside. </step>
+    <step num="2">In the same pan, add the garlic and sauté for one minute over medium heat. </step>
+    <step num="3">Sprinkle the flour over the garlic and slowly add in the chicken stock. </step>
+    <step num="4">Quickly stir to avoid lumps. </step>
+    <step num="5">Add in the skim milk, stir ,and allow to reach a boil to thicken sauce. Season with salt and pepper. </step>
+    <step num="6">Once the sauce is thickened, add in the spinach and stir until wilted. </step>
+    <step num="7">Remove from heat and add in the cooked penne, chicken, and parmesan. Stir to coat. </step>
+    <step num="8">Top with fresh parmesan. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil over a skillet and add chicken. </steps_updated>
+    <steps_updated num="1">Season with salt and pepper, and cook 5-8 minutes, or until no longer pink. </steps_updated>
+    <steps_updated num="2">Remove the chicken from the pan and set aside. </steps_updated>
+    <steps_updated num="3">In the same pan, add the garlic and sauté for one minute over medium heat. </steps_updated>
+    <steps_updated num="4">Sprinkle the flour over the garlic and slowly add in the chicken stock. </steps_updated>
+    <steps_updated num="5">Quickly stir to avoid lumps. </steps_updated>
+    <steps_updated num="6">Add in the skim milk, stir ,and allow to reach a boil to thicken sauce. </steps_updated>
+    <steps_updated num="7">Season with salt and pepper. </steps_updated>
+    <steps_updated num="8">Once the sauce is thickened, add in the spinach and stir until wilted. </steps_updated>
+    <steps_updated num="9">Remove from heat and add in the cooked penne, chicken, and parmesan. </steps_updated>
+    <steps_updated num="10">Stir to coat. </steps_updated>
+    <steps_updated num="11">Top with fresh parmesan. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

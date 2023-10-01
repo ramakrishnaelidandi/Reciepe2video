@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Avocado Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-avocado-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; olive oil ; (120 mL) </ingredient>
+    <ingredient num="1">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="4">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="5">1 teaspoon ; chili flakes </ingredient>
+    <ingredient num="6">1 crust ; pizza crust </ingredient>
+    <ingredient num="7">2 packets ; fresh mozzarella cheese </ingredient>
+    <ingredient num="8">2 cups ; chicken breast, cooked, cut into slices ; (280 g) </ingredient>
+    <ingredient num="9">½ cup ; onion, diced ; (75 g) </ingredient>
+    <ingredient num="10">3 ; avocados </ingredient>
+    <ingredient num="11">7 ; grape tomatoes </ingredient>
+    <ingredient num="12">oil spray </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32168/low_1495125383.m3u8</low>
+    <high>https://vid.tasty.co/output/32168/mp4_720x1280/1495125383</high>
+  </video>
+  <steps>
+    <step num="0">In a small/medium jar, mix olive oil, minced garlic, salt, black pepper, oregano, and chili flakes together. </step>
+    <step num="1">Shake it well, and save it in refrigerator for later. </step>
+    <step num="2">NOTE: Refrigerate left over garlic sauce. It lasts for up to one week </step>
+    <step num="3">Pre-heat the oven at 425ºF (220ºC). </step>
+    <step num="4">Oil spray the flat baking pan, roll out the pre-made pizza crust, if it’s needed, use a rolling pan to make the crust equally flat on the pan. </step>
+    <step num="5">Spread garlic sauce on pizza crust, place down sliced fresh mozzarella, sliced chicken breasts (cooked) and sprinkle diced onions. </step>
+    <step num="6">Bake it in the oven for 25-30 minutes until the cheese melts and the crust become golden brown. </step>
+    <step num="7">Take the pizza out and place down sliced avocados, and some grape tomatoes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small/medium jar, mix olive oil, minced garlic, salt, black pepper, oregano, and chili flakes together. </steps_updated>
+    <steps_updated num="1">Shake it well, and save it in refrigerator for later. </steps_updated>
+    <steps_updated num="2">NOTE: Refrigerate left over garlic sauce. </steps_updated>
+    <steps_updated num="3">It lasts for up to one week </steps_updated>
+    <steps_updated num="4">Pre-heat the oven at 425ºF (220ºC). </steps_updated>
+    <steps_updated num="5">Oil spray the flat baking pan, roll out the pre-made pizza crust, if it’s needed, use a rolling pan to make the crust equally flat on the pan. </steps_updated>
+    <steps_updated num="6">Spread garlic sauce on pizza crust, place down sliced fresh mozzarella, sliced chicken breasts (cooked) and sprinkle diced onions. </steps_updated>
+    <steps_updated num="7">Bake it in the oven for 25-30 minutes until the cheese melts and the crust become golden brown. </steps_updated>
+    <steps_updated num="8">Take the pizza out and place down sliced avocados, and some grape tomatoes. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

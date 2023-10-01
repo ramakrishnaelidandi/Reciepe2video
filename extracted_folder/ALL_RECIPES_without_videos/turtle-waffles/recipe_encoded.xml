@@ -1,0 +1,61 @@
+<recipe>
+  <title>Turtle Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turtle-waffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pancakes-vs-waffles</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 12791 9517 13278 894 10968 13278 1513 8007 </ingredient>
+    <ingredient num="1">12791 2605 13278 4384 9053 11703 13278 1258 5981 </ingredient>
+    <ingredient num="2">13086 9486 13278 4168 5766 </ingredient>
+    <ingredient num="3">3917 13278 6216 </ingredient>
+    <ingredient num="4">1580 2605 13278 12485 4680 11318 13278 7005 5981 </ingredient>
+    <ingredient num="5">3917 12791 9517 13278 12282 13278 1513 8007 </ingredient>
+    <ingredient num="6">3917 2605 13278 3962 11750 13278 9373 5981 </ingredient>
+    <ingredient num="7">3917 13278 279 1123 7990 3297 </ingredient>
+    <ingredient num="8">3917 13278 3737 9955 7990 3297 </ingredient>
+    <ingredient num="9">9883 2605 13278 1368 4834 13278 8604 5981 </ingredient>
+    <ingredient num="10">13086 9486 13278 9924 </ingredient>
+    <ingredient num="11">1580 2605 13278 8640 13033 13278 2935 8007 </ingredient>
+    <ingredient num="12">3917 13278 12610 3770 2157 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69233/hls24_1513730933.m3u8</low>
+    <high>https://vid.tasty.co/output/69233/landscape_720/1513730933</high>
+  </video>
+  <duration>
+    <start_time>68.45</start_time>
+    <end_time>122.929</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 3624 14511 4120 894 3446 4036 7632 9053 8117 13817 4680 4668 12473 1681 2373 9490 12119 </step>
+    <step num="1">10950 5994 2192 11844 11770 4531 14307 4120 11907 7990 329 2260 13817 14238 560 5994 9721 8288 5693 6538 1956 2373 13860 560 11714 8697 560 8341 1681 2373 4691 4721 13817 10586 560 5364 6054 6781 7855 13817 3945 10694 7990 7811 767 238 12689 </step>
+    <step num="2">3915 5994 2362 894 9757 1083 1580 2605 371 894 10968 669 11951 3582 415 10707 1391 12791 2605 371 11750 13817 5994 8631 9486 371 10275 4660 5312 1391 6646 2532 2605 371 894 596 2447 894 4782 13817 2550 12968 560 11100 883 </step>
+    <step num="3">11233 894 9490 3745 560 13218 2754 5103 560 5994 9086 13494 1391 3954 11581 5994 13630 371 4588 5994 6063 371 279 1123 13817 5994 8602 4255 143 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 3624 14511 4120 894 3446 4036 7632 9053 8117 13817 4680 4668 </steps_updated>
+    <steps_updated num="1">12473 1681 2373 9490 12119 </steps_updated>
+    <steps_updated num="2">10950 5994 2192 11844 11770 4531 14307 4120 11907 7990 329 2260 13817 14238 560 5994 9721 8288 5693 6538 1956 2373 13860 560 11714 </steps_updated>
+    <steps_updated num="3">8697 560 8341 1681 2373 4691 4721 13817 10586 560 5364 </steps_updated>
+    <steps_updated num="4">6054 6781 7855 13817 3945 10694 7990 7811 767 238 12689 </steps_updated>
+    <steps_updated num="5">3915 5994 2362 894 9757 </steps_updated>
+    <steps_updated num="6">1083 1580 2605 371 894 10968 669 11951 3582 415 10707 1391 12791 2605 371 11750 13817 5994 8631 9486 371 10275 </steps_updated>
+    <steps_updated num="7">4660 5312 1391 6646 2532 2605 371 894 596 </steps_updated>
+    <steps_updated num="8">2447 894 4782 13817 2550 12968 560 11100 883 </steps_updated>
+    <steps_updated num="9">11233 894 9490 3745 560 13218 2754 5103 560 5994 9086 </steps_updated>
+    <steps_updated num="10">13494 1391 3954 11581 5994 13630 371 4588 5994 6063 371 279 1123 13817 5994 8602 4255 143 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01691</start_time>
+    <end_time>02953</end_time>
+  </duration_human>
+</recipe>

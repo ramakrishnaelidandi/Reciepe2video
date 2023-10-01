@@ -1,0 +1,70 @@
+<recipe>
+  <title>Grilled Veggie &amp; Steak Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-veggie-steak-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 8083 13538 10769 13278 2935 8007 </ingredient>
+    <ingredient num="1">1580 8071 13278 7845 </ingredient>
+    <ingredient num="2">12791 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="4">8580 13667 13278 11384 </ingredient>
+    <ingredient num="5">12791 2605 13278 8244 5766 13278 11660 8007 </ingredient>
+    <ingredient num="6">3917 13278 7601 </ingredient>
+    <ingredient num="7">3917 13278 2220 2457 </ingredient>
+    <ingredient num="8">3917 13278 2192 8083 6334 </ingredient>
+    <ingredient num="9">3917 13278 8083 1466 7845 </ingredient>
+    <ingredient num="10">3917 13278 11091 1466 7845 </ingredient>
+    <ingredient num="11">3917 1580 715 13278 6478 11009 13278 5800 5981 </ingredient>
+    <ingredient num="12">12610 560 11567 </ingredient>
+    <ingredient num="13">10986 560 11567 </ingredient>
+    <ingredient num="14">3917 12854 13278 13592 3117 11812 </ingredient>
+    <ingredient num="15">8244 7632 560 11567 </ingredient>
+    <ingredient num="16">8083 13538 4450 560 11567 </ingredient>
+    <ingredient num="17">12610 560 11567 </ingredient>
+    <ingredient num="18">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9052/low_1472568193.m3u8</low>
+    <high>https://vid.tasty.co/output/9052/mp4_720x1280/1472568193</high>
+  </video>
+  <steps>
+    <step num="0">14100 7601 13817 2220 2457 210 2532 7959 6054 11951 3540 371 11951 1466 2986 13817 7777 669 2597 10506 6054 11951 10707 13817 551 6781 11951 8083 6334 13817 12205 2686 669 2734 13637 </step>
+    <step num="1">10895 8083 13538 4450 10986 12610 11227 13817 1937 </step>
+    <step num="2">283 210 11951 8244 5766 13817 6798 284 210 11951 5342 </step>
+    <step num="3">10242 11951 1858 4385 1391 82 13817 12375 </step>
+    <step num="4">2927 11009 11770 3996 7855 7990 1106 8927 4255 10763 11801 196 5401 12446 10013 4255 11951 9937 13817 1751 9605 1762 665 12313 14046 </step>
+    <step num="5">9179 11951 284 560 11951 9937 13817 2550 11951 7601 13817 2220 2457 7990 1106 8927 4255 10763 145 264 11951 1466 2986 13817 11453 256 8927 10763 11801 196 5401 12446 10013 4255 11951 13249 </step>
+    <step num="6">6054 11009 6781 11951 9937 13817 3945 12886 7990 13767 12689 </step>
+    <step num="7">3235 11951 11009 669 13773 </step>
+    <step num="8">14100 284 669 2192 13637 6695 284 13817 11009 4255 5994 13955 371 13592 14104 </step>
+    <step num="9">1594 8244 7632 8083 13538 4450 12610 13817 7845 11770 11951 4803 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 7601 13817 2220 2457 210 2532 7959 </steps_updated>
+    <steps_updated num="1">6054 11951 3540 371 11951 1466 2986 13817 7777 669 2597 10506 </steps_updated>
+    <steps_updated num="2">6054 11951 10707 13817 551 6781 11951 8083 6334 13817 12205 2686 669 2734 13637 </steps_updated>
+    <steps_updated num="3">10895 8083 13538 4450 10986 12610 11227 13817 1937 </steps_updated>
+    <steps_updated num="4">283 210 11951 8244 5766 13817 6798 284 210 11951 5342 </steps_updated>
+    <steps_updated num="5">10242 11951 1858 4385 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="6">2927 11009 11770 3996 7855 7990 1106 8927 4255 10763 11801 196 5401 12446 10013 4255 11951 9937 13817 1751 9605 1762 665 12313 14046 </steps_updated>
+    <steps_updated num="7">9179 11951 284 560 11951 9937 13817 2550 11951 7601 13817 2220 2457 7990 1106 8927 4255 10763 145 </steps_updated>
+    <steps_updated num="8">264 11951 1466 2986 13817 11453 256 8927 10763 11801 196 5401 12446 10013 4255 11951 13249 </steps_updated>
+    <steps_updated num="9">6054 11009 6781 11951 9937 13817 3945 12886 7990 13767 12689 </steps_updated>
+    <steps_updated num="10">3235 11951 11009 669 13773 </steps_updated>
+    <steps_updated num="11">14100 284 669 2192 13637 </steps_updated>
+    <steps_updated num="12">6695 284 13817 11009 4255 5994 13955 371 13592 14104 </steps_updated>
+    <steps_updated num="13">1594 8244 7632 8083 13538 4450 12610 13817 7845 11770 11951 4803 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

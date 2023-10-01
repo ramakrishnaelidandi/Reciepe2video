@@ -1,0 +1,51 @@
+<recipe>
+  <title>Veggie Skins Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-skins-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 11263 6416 13817 10831 </ingredient>
+    <ingredient num="1">13086 13278 8445 6416 13817 10831 </ingredient>
+    <ingredient num="2">13086 13278 2274 6416 13817 10831 </ingredient>
+    <ingredient num="3">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="4">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="5">8580 2031 13278 6334 11703 </ingredient>
+    <ingredient num="6">8580 2031 13278 9496 </ingredient>
+    <ingredient num="7">3917 8071 13278 82 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>96.833</start_time>
+    <end_time>116.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 1867 </step>
+    <step num="1">5570 8554 11951 4168 899 4255 5994 9637 10765 213 5895 5994 10765 213 10926 1391 3550 8831 </step>
+    <step num="2">1594 11951 8244 5766 11770 11951 3775 13817 1678 1391 11951 11384 8117 6334 8117 13817 4700 10242 1391 82 13817 12375 </step>
+    <step num="3">7643 11951 3775 1391 12313 13676 1681 6665 12573 3584 7670 1391 11951 5766 13817 523 </step>
+    <step num="4">7831 7990 1882 11004 10390 11951 3775 14166 7492 1391 5994 6656 371 14043 </step>
+    <step num="5">1828 10694 432 1735 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">5570 8554 11951 4168 899 4255 5994 9637 10765 213 5895 5994 10765 213 10926 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">1594 11951 8244 5766 11770 11951 3775 13817 1678 1391 11951 11384 8117 6334 8117 13817 4700 </steps_updated>
+    <steps_updated num="3">10242 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="4">7643 11951 3775 1391 12313 13676 1681 6665 12573 3584 7670 1391 11951 5766 13817 523 </steps_updated>
+    <steps_updated num="5">7831 7990 1882 11004 10390 11951 3775 14166 7492 1391 5994 6656 371 14043 </steps_updated>
+    <steps_updated num="6">1828 10694 432 1735 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

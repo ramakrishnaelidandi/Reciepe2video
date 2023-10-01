@@ -1,0 +1,42 @@
+<recipe>
+  <title>Strawberry Ginger Beet Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-ginger-beet-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-packed-smoothies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 6114 13278 757 5981 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 2080 9227 13278 6518 5981 </ingredient>
+    <ingredient num="2">1580 13278 8083 14122 13251 341 </ingredient>
+    <ingredient num="3">3917 9152 13278 14635 11029 4125 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 2439 13278 10952 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43506/low_1499967409.m3u8</low>
+    <high>https://vid.tasty.co/output/43506/mp4_720x1280/1499967409</high>
+  </video>
+  <duration>
+    <start_time>31.560000000000002</start_time>
+    <end_time>50.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 7234 7334 14122 13817 14418 210 5994 12027 5895 8016 9909 13817 1279 1681 644 4309 </step>
+    <step num="1">9179 210 11951 2439 13817 4861 560 1279 1681 11951 2373 9490 12119 </step>
+    <step num="2">12774 7389 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 7234 7334 14122 13817 14418 210 5994 12027 5895 8016 9909 13817 1279 1681 644 4309 </steps_updated>
+    <steps_updated num="1">9179 210 11951 2439 13817 4861 560 1279 1681 11951 2373 9490 12119 </steps_updated>
+    <steps_updated num="2">12774 7389 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

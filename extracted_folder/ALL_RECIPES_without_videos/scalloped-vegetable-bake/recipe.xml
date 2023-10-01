@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Scalloped Vegetable Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/scalloped-vegetable-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; medium zucchinis, washed </ingredient>
+    <ingredient num="1">3 ; medium potatoes, washed and peeled </ingredient>
+    <ingredient num="2">5 ; medium carrots, washed and peeled </ingredient>
+    <ingredient num="3">4 ; medium eggs </ingredient>
+    <ingredient num="4">⅓ cup ; butter, melted ; (75 g) </ingredient>
+    <ingredient num="5">⅔ cup ; milk ; (160 mL) </ingredient>
+    <ingredient num="6">⅛ teaspoon ; nutmeg </ingredient>
+    <ingredient num="7">½ teaspoon ; dried basil </ingredient>
+    <ingredient num="8">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="12">1 ½ cups ; shredded cheddar cheese ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100695/hls24_1530556663.m3u8</low>
+    <high>https://vid.tasty.co/output/100695/landscape_720/1530556663</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350ºF (180ºC). Line a 10-inch (25-cm) springform pan with parchment paper. </step>
+    <step num="1">Carefully slice the zucchini, potatoes, and carrots very thinly with a mandoline or a sharp knife. Watch your fingers! </step>
+    <step num="2">In a large bowl, combine the eggs, melted butter, and milk, and whisk until combined. </step>
+    <step num="3">Add the nutmeg, basil, thyme, salt, pepper, and flour, and whisk well. </step>
+    <step num="4">Add the sliced veggies to the batter and stir well until the slices are well-coated. </step>
+    <step num="5">Add half of the vegetables slices to the prepared pan and flatten with a spoon. </step>
+    <step num="6">Sprinkle the cheese over the vegetables. </step>
+    <step num="7">Top with the rest of the vegetables and cover the pan with aluminum foil. </step>
+    <step num="8">Bake for about 1½ hours, until the vegetables are fully cooked and tender. </step>
+    <step num="9">Let cool for at least 10 minutes, and release the springform, slice, and serve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="1">Line a 10-inch (25-cm) springform pan with parchment paper. </steps_updated>
+    <steps_updated num="2">Carefully slice the zucchini, potatoes, and carrots very thinly with a mandoline or a sharp knife. </steps_updated>
+    <steps_updated num="3">Watch your fingers! </steps_updated>
+    <steps_updated num="4">In a large bowl, combine the eggs, melted butter, and milk, and whisk until combined. </steps_updated>
+    <steps_updated num="5">Add the nutmeg, basil, thyme, salt, pepper, and flour, and whisk well. </steps_updated>
+    <steps_updated num="6">Add the sliced veggies to the batter and stir well until the slices are well-coated. </steps_updated>
+    <steps_updated num="7">Add half of the vegetables slices to the prepared pan and flatten with a spoon. </steps_updated>
+    <steps_updated num="8">Sprinkle the cheese over the vegetables. </steps_updated>
+    <steps_updated num="9">Top with the rest of the vegetables and cover the pan with aluminum foil. </steps_updated>
+    <steps_updated num="10">Bake for about 1½ hours, until the vegetables are fully cooked and tender. </steps_updated>
+    <steps_updated num="11">Let cool for at least 10 minutes, and release the springform, slice, and serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

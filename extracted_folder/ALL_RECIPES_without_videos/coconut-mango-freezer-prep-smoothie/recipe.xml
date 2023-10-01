@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Coconut Mango Freezer-Prep Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coconut-mango-freezer-prep-smoothie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; kale ; (100 g) </ingredient>
+    <ingredient num="1">1 ; banana, sliced </ingredient>
+    <ingredient num="2">1 ; mango, pitted and diced </ingredient>
+    <ingredient num="3">1 ; kiwi, peeled and chopped </ingredient>
+    <ingredient num="4">1 tablespoon ; coconut oil </ingredient>
+    <ingredient num="5">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="6">½ teaspoon ; ground turmeric </ingredient>
+    <ingredient num="7">½ cup ; coconut milk ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/120262/hls24_1545086071.m3u8</low>
+    <high>https://vid.tasty.co/output/120262/landscape_720/1545086071</high>
+  </video>
+  <steps>
+    <step num="0">Add the kale, banana, mango, kiwi, coconut oil, cinnamon, and turmeric to a resealable container. Cover and store in the freezer for up to 3 months. </step>
+    <step num="1">When ready to prepare, add the contents from the container and the almond milk to a blender and blend until smooth. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the kale, banana, mango, kiwi, coconut oil, cinnamon, and turmeric to a resealable container. </steps_updated>
+    <steps_updated num="1">Cover and store in the freezer for up to 3 months. </steps_updated>
+    <steps_updated num="2">When ready to prepare, add the contents from the container and the almond milk to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

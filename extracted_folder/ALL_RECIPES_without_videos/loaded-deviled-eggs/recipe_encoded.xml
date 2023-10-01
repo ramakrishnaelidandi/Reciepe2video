@@ -1,0 +1,53 @@
+<recipe>
+  <title>Loaded Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-deviled-eggs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/deviled-eggs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">409 13278 14463 4457 </ingredient>
+    <ingredient num="1">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+    <ingredient num="2">13086 9259 13278 7035 8421 3962 </ingredient>
+    <ingredient num="3">12791 2605 13278 6209 11292 11588 3962 13278 12237 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 3333 9784 14538 13278 2264 5981 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+    <ingredient num="7">7035 3745 13817 3962 </ingredient>
+    <ingredient num="8">6209 11292 11588 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43566/low_1499981396.m3u8</low>
+    <high>https://vid.tasty.co/output/43566/mp4_720x1280/1499981396</high>
+  </video>
+  <duration>
+    <start_time>71.29</start_time>
+    <end_time>95.45</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 12708 210 5994 10083 13817 13262 1391 278 12282 1681 11951 12708 12573 644 9214 8785 11951 10083 560 5994 8288 415 510 5103 6781 14307 13817 3945 1788 7990 6285 409 12689 </step>
+    <step num="1">12785 11951 12708 560 5994 12377 371 2439 12282 7990 6285 13086 11004 415 7368 3755 13817 7777 3755 210 8467 12785 11951 6216 9314 560 5994 14511 13817 817 11951 3745 6216 4072 5292 </step>
+    <step num="2">9393 11951 1484 1123 7035 11292 9784 13810 12610 13817 7845 1391 11951 9314 13817 10231 560 5994 14361 12954 3826 11003 5994 2018 12854 1391 5994 2530 7777 10990 </step>
+    <step num="3">2062 11951 2373 669 11951 14463 4711 1391 11951 8932 13817 11292 13817 1966 11058 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 12708 210 5994 10083 13817 13262 1391 278 12282 1681 11951 12708 12573 644 9214 </steps_updated>
+    <steps_updated num="1">8785 11951 10083 560 5994 8288 415 510 5103 6781 14307 13817 3945 1788 7990 6285 409 12689 </steps_updated>
+    <steps_updated num="2">12785 11951 12708 560 5994 12377 371 2439 12282 7990 6285 13086 11004 415 7368 3755 13817 7777 3755 210 8467 </steps_updated>
+    <steps_updated num="3">12785 11951 6216 9314 560 5994 14511 13817 817 11951 3745 6216 4072 5292 </steps_updated>
+    <steps_updated num="4">9393 11951 1484 1123 7035 11292 9784 13810 12610 13817 7845 1391 11951 9314 13817 10231 560 5994 14361 12954 </steps_updated>
+    <steps_updated num="5">3826 11003 5994 2018 12854 1391 5994 2530 7777 10990 </steps_updated>
+    <steps_updated num="6">2062 11951 2373 669 11951 14463 4711 1391 11951 8932 13817 11292 13817 1966 11058 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02193</start_time>
+    <end_time>02869</end_time>
+  </duration_human>
+</recipe>

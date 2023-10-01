@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>French Toast Honey Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/french-toast-honey-toast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">brioche bread, or 1 unsliced load of sandwich bread </ingredient>
+    <ingredient num="1">5 ; large eggs </ingredient>
+    <ingredient num="2">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="3">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="4">¼ cup ; honey, plus more for serving ; (85 g) </ingredient>
+    <ingredient num="5">1 cup ; cinnamon crunch cereal ; (30 g) </ingredient>
+    <ingredient num="6">2 cups ; whipped cream ; (120 g) </ingredient>
+    <ingredient num="7">fresh blueberry, for serving </ingredient>
+    <ingredient num="8">fresh blackberry, for serving </ingredient>
+    <ingredient num="9">fresh strawberry , sliced, for serving </ingredient>
+    <ingredient num="10">fresh raspberry, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100808/hls24_1530574183.m3u8</low>
+    <high>https://vid.tasty.co/output/100808/landscape_720/1530574183</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Cut the loaf of bread in half crosswise. Flip one of the halves cut side up, and cut out the middle of the loaf, leaving about a ¼-inch (6 mm) border around the edge. From the outside of the loaf, about ½ -1 inch (1-2 cm) up from the bottom of one of the 4 sides, make a cut straight through to remove the center of the loaf. </step>
+    <step num="2">Cut the center of the loaf in half and slice into approximately 1x3-inch (2x7-cm) cm sticks . Repeat with the second half of the loaf. </step>
+    <step num="3">In a large bowl, whisk the eggs with the cinnamon, cream, and honey. </step>
+    <step num="4">Place the hollowed-out loaf on the prepared baking sheet and brush all over with the egg mixture. </step>
+    <step num="5">In a medium bowl, crush the cinnamon crunch cereal into coarse crumbs. </step>
+    <step num="6">Dip the sliced toast sticks in the egg mixture, then dredge in the crushed cereal. Add to the baking sheet in a single layer. </step>
+    <step num="7">Bake for 20 minutes, until golden brown. </step>
+    <step num="8">To assemble, filling the toasted, hollowed loaves with French toast sticks and berries. Top with whipped cream and a drizzle of honey. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Cut the loaf of bread in half crosswise. </steps_updated>
+    <steps_updated num="3">Flip one of the halves cut side up, and cut out the middle of the loaf, leaving about a ¼-inch (6 mm) border around the edge. </steps_updated>
+    <steps_updated num="4">From the outside of the loaf, about ½ -1 inch (1-2 cm) up from the bottom of one of the 4 sides, make a cut straight through to remove the center of the loaf. </steps_updated>
+    <steps_updated num="5">Cut the center of the loaf in half and slice into approximately 1x3-inch (2x7-cm) cm sticks . </steps_updated>
+    <steps_updated num="6">Repeat with the second half of the loaf. </steps_updated>
+    <steps_updated num="7">In a large bowl, whisk the eggs with the cinnamon, cream, and honey. </steps_updated>
+    <steps_updated num="8">Place the hollowed-out loaf on the prepared baking sheet and brush all over with the egg mixture. </steps_updated>
+    <steps_updated num="9">In a medium bowl, crush the cinnamon crunch cereal into coarse crumbs. </steps_updated>
+    <steps_updated num="10">Dip the sliced toast sticks in the egg mixture, then dredge in the crushed cereal. </steps_updated>
+    <steps_updated num="11">Add to the baking sheet in a single layer. </steps_updated>
+    <steps_updated num="12">Bake for 20 minutes, until golden brown. </steps_updated>
+    <steps_updated num="13">To assemble, filling the toasted, hollowed loaves with French toast sticks and berries. </steps_updated>
+    <steps_updated num="14">Top with whipped cream and a drizzle of honey. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

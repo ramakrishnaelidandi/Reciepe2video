@@ -1,0 +1,56 @@
+<recipe>
+  <title>Omelette In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/omelette-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/clever-mason-jar-hacks</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 2597 12708 </ingredient>
+    <ingredient num="1">4061 13278 2597 6216 4072 </ingredient>
+    <ingredient num="2">1580 2605 13278 12347 9767 3713 13278 9018 5981 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">1580 14014 13278 11384 11703 </ingredient>
+    <ingredient num="6">1580 2605 13278 6209 2602 3962 13278 828 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 9491 341 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50560/low_1504212116.m3u8</low>
+    <high>https://vid.tasty.co/output/50560/mp4_720x1280/1504212116</high>
+  </video>
+  <duration>
+    <start_time>80.5</start_time>
+    <end_time>102.55</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 9988 8999 </step>
+    <step num="1">10346 10763 9190 7051 1391 5766 5895 9637 8226 371 6507 560 3720 10055 </step>
+    <step num="2">10950 5994 13757 3624 14511 740 8554 295 9393 3631 </step>
+    <step num="3">9179 11951 6216 2373 560 11951 9221 11539 3755 9883 371 11951 10772 11177 123 11155 740 11951 10372 </step>
+    <step num="4">5570 11951 9190 1766 4255 5994 2192 10765 213 13817 10903 7562 12689 </step>
+    <step num="5">6054 1766 6781 11951 11546 415 10694 5966 8927 432 3044 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">10346 10763 9190 7051 1391 5766 5895 9637 8226 371 6507 560 3720 10055 </steps_updated>
+    <steps_updated num="2">10950 5994 13757 3624 14511 740 8554 295 </steps_updated>
+    <steps_updated num="3">9393 3631 </steps_updated>
+    <steps_updated num="4">9179 11951 6216 2373 560 11951 9221 11539 3755 9883 371 11951 10772 11177 </steps_updated>
+    <steps_updated num="5">123 11155 740 11951 10372 </steps_updated>
+    <steps_updated num="6">5570 11951 9190 1766 4255 5994 2192 10765 213 13817 10903 7562 12689 </steps_updated>
+    <steps_updated num="7">6054 1766 6781 11951 11546 415 10694 5966 8927 432 3044 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02467</start_time>
+    <end_time>03084</end_time>
+  </duration_human>
+</recipe>

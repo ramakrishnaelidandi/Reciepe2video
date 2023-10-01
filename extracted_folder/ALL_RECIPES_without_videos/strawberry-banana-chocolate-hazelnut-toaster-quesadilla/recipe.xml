@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Banana Chocolate Hazelnut Toaster "Quesadilla" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-banana-chocolate-hazelnut-toaster-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/toaster-quesadillas</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; large flour tortilla </ingredient>
+    <ingredient num="1">2 tablespoons ; chocolate hazelnut spread </ingredient>
+    <ingredient num="2">½ ; banana, thinly sliced </ingredient>
+    <ingredient num="3">2 ; strawberries, thinly sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111008/hls24_1538432924.m3u8</low>
+    <high>https://vid.tasty.co/output/111008/landscape_720/1538432924</high>
+  </video>
+  <duration>
+    <start_time>93.0</start_time>
+    <end_time>115.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread the chocolate hazelnut spread evenly over the tortilla. </step>
+    <step num="1">Place the banana and strawberry slices on the top half of the tortilla. </step>
+    <step num="2">Fold the tortilla in half from the bottom, then fold in the sides, being careful not to tear the tortilla. </step>
+    <step num="3">Toast on medium-high, until golden brown. Watch to make sure it doesn’t burn. Let cool for 1-2 minutes before removing from the toaster. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread the chocolate hazelnut spread evenly over the tortilla. </steps_updated>
+    <steps_updated num="1">Place the banana and strawberry slices on the top half of the tortilla. </steps_updated>
+    <steps_updated num="2">Fold the tortilla in half from the bottom, then fold in the sides, being careful not to tear the tortilla. </steps_updated>
+    <steps_updated num="3">Toast on medium-high, until golden brown. </steps_updated>
+    <steps_updated num="4">Watch to make sure it doesn’t burn. </steps_updated>
+    <steps_updated num="5">Let cool for 1-2 minutes before removing from the toaster. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

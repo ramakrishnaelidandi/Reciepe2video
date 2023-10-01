@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese-Stuffed Burger Bombs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-stuffed-sliders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; ground beef ; (910 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">8 oz ; cheddar cheese block, 2 blocks ; (225 g) </ingredient>
+    <ingredient num="4">2 packages ; hawaiian sweet roll </ingredient>
+    <ingredient num="5">roma tomato, sliced </ingredient>
+    <ingredient num="6">red onion, sliced </ingredient>
+    <ingredient num="7">lettuce </ingredient>
+    <ingredient num="8">sriracha mayonnaise </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26769/low_1489710294.m3u8</low>
+    <high>https://vid.tasty.co/output/26769/mp4_720x1280/1489710294</high>
+  </video>
+  <steps>
+    <step num="0">Add ground beef, salt, and pepper to a large bowl. Combine until the meat is evenly seasoned. </step>
+    <step num="1">Roll into 16 meatballs and set aside. </step>
+    <step num="2">Cut each cheddar cheese block into 8 cubes (totaling 16 cubes). </step>
+    <step num="3">Press the cheddar cheese cube into the meatball and wrap the meat around it, completely covering the cheese. </step>
+    <step num="4">Preheat a skillet on medium heat for 10 minutes. After preheated, carefully coat with a light layer of oil with a high smoke point (we used canola oil). </step>
+    <step num="5">Add sliders to the pan, frying on the first side until the bottom is browned and crisp and the sides begin to brown (about 2-4 minutes, depending on the desired doneness). Flip and finish cooking on the other side. </step>
+    <step num="6">Serve immediately on Hawaiian sweet rolls with your favorite burger garnishes. (We added Roma tomatoes, red onion, lettuce, and Sriracha mayo.) </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add ground beef, salt, and pepper to a large bowl. </steps_updated>
+    <steps_updated num="1">Combine until the meat is evenly seasoned. </steps_updated>
+    <steps_updated num="2">Roll into 16 meatballs and set aside. </steps_updated>
+    <steps_updated num="3">Cut each cheddar cheese block into 8 cubes (totaling 16 cubes). </steps_updated>
+    <steps_updated num="4">Press the cheddar cheese cube into the meatball and wrap the meat around it, completely covering the cheese. </steps_updated>
+    <steps_updated num="5">Preheat a skillet on medium heat for 10 minutes. </steps_updated>
+    <steps_updated num="6">After preheated, carefully coat with a light layer of oil with a high smoke point (we used canola oil). </steps_updated>
+    <steps_updated num="7">Add sliders to the pan, frying on the first side until the bottom is browned and crisp and the sides begin to brown (about 2-4 minutes, depending on the desired doneness). </steps_updated>
+    <steps_updated num="8">Flip and finish cooking on the other side. </steps_updated>
+    <steps_updated num="9">Serve immediately on Hawaiian sweet rolls with your favorite burger garnishes. </steps_updated>
+    <steps_updated num="10">(We added Roma tomatoes, red onion, lettuce, and Sriracha mayo.) </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

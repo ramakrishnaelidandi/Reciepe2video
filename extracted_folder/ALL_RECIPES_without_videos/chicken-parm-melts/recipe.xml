@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Parm Melts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parm-melts</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-rotisserie-chicken-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; rotisserie chicken </ingredient>
+    <ingredient num="1">1 cup ; marinara sauce ; (260 g) </ingredient>
+    <ingredient num="2">6 slices ; bread, toasted </ingredient>
+    <ingredient num="3">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45262/low_1501197106.m3u8</low>
+    <high>https://vid.tasty.co/output/45262/mp4_720x1280/1501197106</high>
+  </video>
+  <duration>
+    <start_time>61.08</start_time>
+    <end_time>87.99</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350ºF (180ºC) and line a sheet tray with parchment paper. </step>
+    <step num="1">Debone, remove skin, and shred rotisserie chicken. </step>
+    <step num="2">Mix chicken with marinara sauce. </step>
+    <step num="3">Line toasted bread up on the sheet tray and evenly top with chicken mixture. Sprinkle with mozzarella. </step>
+    <step num="4">Bake for 5-10 minutes or until it is heated through and the cheese on top is melted. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350ºF (180ºC) and line a sheet tray with parchment paper. </steps_updated>
+    <steps_updated num="1">Debone, remove skin, and shred rotisserie chicken. </steps_updated>
+    <steps_updated num="2">Mix chicken with marinara sauce. </steps_updated>
+    <steps_updated num="3">Line toasted bread up on the sheet tray and evenly top with chicken mixture. </steps_updated>
+    <steps_updated num="4">Sprinkle with mozzarella. </steps_updated>
+    <steps_updated num="5">Bake for 5-10 minutes or until it is heated through and the cheese on top is melted. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01888</start_time>
+    <end_time>02646</end_time>
+  </duration_human>
+</recipe>

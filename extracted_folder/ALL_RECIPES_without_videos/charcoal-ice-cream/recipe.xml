@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Charcoal Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/charcoal-ice-cream</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="1">2 cups ; half &amp; half ; (480 mL) </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; mint extract </ingredient>
+    <ingredient num="4">4 tablespoons ; black food coloring </ingredient>
+    <ingredient num="5">¼ cup ; activated charcoal ; (10 g) </ingredient>
+    <ingredient num="6">dry ice </ingredient>
+    <ingredient num="7">freezer bag </ingredient>
+    <ingredient num="8">whisk </ingredient>
+    <ingredient num="9">kitchen towel </ingredient>
+    <ingredient num="10">kitchen mallet </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75424/hls24_1517260411.m3u8</low>
+    <high>https://vid.tasty.co/output/75424/landscape_720/1517260411</high>
+  </video>
+  <steps>
+    <step num="0">In a large freezer bag, place a piece of dry ice. Close the plastic bag, but leave a one-inch opening to prevent the bag from fill with gas. </step>
+    <step num="1">Cover the bag with a kitchen towel and carefully use a kitchen mallet to break the dry ice into a powder. </step>
+    <step num="2">In a large bowl, combine heavy cream, half &amp; half, sugar, activate charcoal (avoid consuming more than 100 grams of activated charcoal), 2 tablespoons mint extract, and at least 4 tablespoons black food coloring (more food coloring might be needed depending on concentration). </step>
+    <step num="3">Whisk together ice cream mixture until frothy. </step>
+    <step num="4">Slowly add a spoonful of dry ice into the mixture and whisk together. Gradually add and mix in dry ice until a solid consistency is achieved. </step>
+    <step num="5">Wait for all the dry ice to evaporate before consuming. Do not eat solid dry ice. </step>
+    <step num="6">For best results, eat within 24 hours. </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large freezer bag, place a piece of dry ice. </steps_updated>
+    <steps_updated num="1">Close the plastic bag, but leave a one-inch opening to prevent the bag from fill with gas. </steps_updated>
+    <steps_updated num="2">Cover the bag with a kitchen towel and carefully use a kitchen mallet to break the dry ice into a powder. </steps_updated>
+    <steps_updated num="3">In a large bowl, combine heavy cream, half &amp; half, sugar, activate charcoal (avoid consuming more than 100 grams of activated charcoal), 2 tablespoons mint extract, and at least 4 tablespoons black food coloring (more food coloring might be needed depending on concentration). </steps_updated>
+    <steps_updated num="4">Whisk together ice cream mixture until frothy. </steps_updated>
+    <steps_updated num="5">Slowly add a spoonful of dry ice into the mixture and whisk together. </steps_updated>
+    <steps_updated num="6">Gradually add and mix in dry ice until a solid consistency is achieved. </steps_updated>
+    <steps_updated num="7">Wait for all the dry ice to evaporate before consuming. </steps_updated>
+    <steps_updated num="8">Do not eat solid dry ice. </steps_updated>
+    <steps_updated num="9">For best results, eat within 24 hours. </steps_updated>
+  </steps_updated>
+</recipe>

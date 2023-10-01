@@ -1,0 +1,45 @@
+<recipe>
+  <title>Loaded Breakfast Sweet Potato Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-breakfast-sweet-potato</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-delicious-sweet-potato-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 10882 6817 2192 </ingredient>
+    <ingredient num="1">8580 9486 13278 638 9924 </ingredient>
+    <ingredient num="2">1580 12205 13278 76 976 </ingredient>
+    <ingredient num="3">3917 14014 13278 9550 3968 10468 13817 3962 </ingredient>
+    <ingredient num="4">3917 14014 13278 1421 </ingredient>
+    <ingredient num="5">3917 8071 13278 9586 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69615/hls24_1513878693.m3u8</low>
+    <high>https://vid.tasty.co/output/69615/landscape_720/1513878693</high>
+  </video>
+  <duration>
+    <start_time>8.3</start_time>
+    <end_time>50.67</end_time>
+  </duration>
+  <steps>
+    <step num="0">5209 5994 12747 12753 4297 4255 11951 10707 371 11951 10882 6914 </step>
+    <step num="1">6688 4255 8283 7990 13767 11004 5895 1681 11951 2868 14138 11484 13669 12180 1391 5994 4144 </step>
+    <step num="2">11982 12205 11951 10882 2868 210 1991 12957 13817 11434 638 9924 4255 10763 145 13494 1391 959 4743 13969 13817 4406 13817 13630 1391 181 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 12747 12753 4297 4255 11951 10707 371 11951 10882 6914 </steps_updated>
+    <steps_updated num="1">6688 4255 8283 7990 13767 11004 5895 1681 11951 2868 14138 11484 13669 12180 1391 5994 4144 </steps_updated>
+    <steps_updated num="2">11982 12205 11951 10882 2868 210 1991 12957 13817 11434 638 9924 4255 10763 145 </steps_updated>
+    <steps_updated num="3">13494 1391 959 4743 13969 13817 4406 13817 13630 1391 181 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

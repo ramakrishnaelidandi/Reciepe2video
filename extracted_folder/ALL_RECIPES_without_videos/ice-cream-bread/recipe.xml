@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ice Cream Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; ice cream, melted, any kind, but low-fat and dairy-free ice cream do not work well. ; (290 g) </ingredient>
+    <ingredient num="1">1 ¼ cups ; self-rising flour ; (155 g) </ingredient>
+    <ingredient num="2">¼ cup ; rainbow sprinkles ; (160 g) </ingredient>
+    <ingredient num="3">¼ cup ; chocolate chips ; (45 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31868/low_1495124848.m3u8</low>
+    <high>https://vid.tasty.co/output/31868/mp4_720x1280/1495124848</high>
+  </video>
+  <steps>
+    <step num="0">Preheat your oven to 350˚F/175˚C. </step>
+    <step num="1">Combine melted ice cream and self-rising flour. Mix until well combined. </step>
+    <step num="2">Add any additional sprinkles, chocolate chips, or goodies to the batter. </step>
+    <step num="3">Line a loaf pan with parchment paper and grease with a nonstick spray. </step>
+    <step num="4">Pour batter into a loaf pan and spread evenly. </step>
+    <step num="5">Bake for 35-40 minutes. (Baking times and temperatures may vary from oven to oven.) </step>
+    <step num="6">Allow to cool fully before cutting. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat your oven to 350˚F/175˚C. </steps_updated>
+    <steps_updated num="1">Combine melted ice cream and self-rising flour. </steps_updated>
+    <steps_updated num="2">Mix until well combined. </steps_updated>
+    <steps_updated num="3">Add any additional sprinkles, chocolate chips, or goodies to the batter. </steps_updated>
+    <steps_updated num="4">Line a loaf pan with parchment paper and grease with a nonstick spray. </steps_updated>
+    <steps_updated num="5">Pour batter into a loaf pan and spread evenly. </steps_updated>
+    <steps_updated num="6">Bake for 35-40 minutes. </steps_updated>
+    <steps_updated num="7">(Baking times and temperatures may vary from oven to oven.) </steps_updated>
+    <steps_updated num="8">Allow to cool fully before cutting. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

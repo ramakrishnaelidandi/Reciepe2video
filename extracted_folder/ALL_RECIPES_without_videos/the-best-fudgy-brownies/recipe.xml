@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Best Fudgy Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-best-fudgy-brownies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; good-quality chocolate, semi-sweet ; (225 g) </ingredient>
+    <ingredient num="1">¾ cup ; butter, melted ; (170 g) </ingredient>
+    <ingredient num="2">1 ¼ cups ; sugar ; (250 g) </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="5">¾ cup ; all-purpose flour ; (95 g) </ingredient>
+    <ingredient num="6">¼ cup ; cocoa powder ; (30 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33198/low_1496335960.m3u8</low>
+    <high>https://vid.tasty.co/output/33198/mp4_720x1280/1496335960</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line an 8-inch square baking dish with parchment paper. </step>
+    <step num="1">Chop the chocolate into chunks. Melt half of the chocolate in the microwave in 20-second intervals, saving the other half for later. </step>
+    <step num="2">In a large bowl, mix the butter and sugar with an electric hand mixer, then beat in the eggs and vanilla for 1-2 minutes, until the mixture becomes fluffy and light in color. </step>
+    <step num="3">Whisk in the melted chocolate (make sure it's not too hot or else the eggs will cook), then sift in the flour, cocoa powder, and salt. Fold to incorporate the dry ingredients, being careful not to overmix as this will cause the brownies to be more cake-like in texture. </step>
+    <step num="4">Fold in the chocolate chunks, then transfer the batter to the prepared baking dish. </step>
+    <step num="5">Bake for 20-25 minutes, depending on how fudgy you like your brownies, then cool completely. </step>
+    <step num="6">Slice, then serve with a nice cold glass of milk! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line an 8-inch square baking dish with parchment paper. </steps_updated>
+    <steps_updated num="2">Chop the chocolate into chunks. </steps_updated>
+    <steps_updated num="3">Melt half of the chocolate in the microwave in 20-second intervals, saving the other half for later. </steps_updated>
+    <steps_updated num="4">In a large bowl, mix the butter and sugar with an electric hand mixer, then beat in the eggs and vanilla for 1-2 minutes, until the mixture becomes fluffy and light in color </steps_updated>
+    <steps_updated num="5">Whisk in the melted chocolate (make sure it's not too hot or else the eggs will cook), then sift in the flour, cocoa powder, and salt. </steps_updated>
+    <steps_updated num="6">Fold to incorporate the dry ingredients, being careful not to overmix as this will cause the brownies to be more cake-like in texture. </steps_updated>
+    <steps_updated num="7">Fold in the chocolate chunks, then transfer the batter to the prepared baking dish. </steps_updated>
+    <steps_updated num="8">Bake for 20-25 minutes, depending on how fudgy you like your brownies, then cool completely. </steps_updated>
+    <steps_updated num="9">Slice, then serve with a nice cold glass of milk! </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

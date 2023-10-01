@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Taco Spaghetti Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-taco-spaghetti</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="2">½ cup ; yellow onion, diced ; (75 g) </ingredient>
+    <ingredient num="3">4 ½ tablespoons ; taco seasoning, or 1 package (25 ounces - 705 G) </ingredient>
+    <ingredient num="4">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="5">10 oz ; tomato, diced, 1 can ; (285 g) </ingredient>
+    <ingredient num="6">8 oz ; spaghetti ; (230 g) </ingredient>
+    <ingredient num="7">3 cups ; water ; (710 mL) </ingredient>
+    <ingredient num="8">½ cup ; cheddar cheese, shredded ; (50 g) </ingredient>
+    <ingredient num="9">½ cup ; mozzarella cheese, shredded ; (50 g) </ingredient>
+    <ingredient num="10">1 ; roma tomato, diced </ingredient>
+    <ingredient num="11">2 tablespoons ; fresh cilantro, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25791/low_1488909916.m3u8</low>
+    <high>https://vid.tasty.co/output/25791/mp4_720x1280/1488909916</high>
+  </video>
+  <steps>
+    <step num="0">Heat olive oil in a large stockpot over medium-high heat. Add ground beef, yellow onions, and taco seasoning. Cook until beef has browned, about 3-5 minutes, making sure to crumble the beef as it cooks. </step>
+    <step num="1">Stir in tomato paste and diced tomatoes, then stir. </step>
+    <step num="2">Add spaghetti and 3 cups water. Bring to a boil; cover, reduce heat, and simmer until pasta is cooked through, about 15 minutes. </step>
+    <step num="3">Remove from heat and top with cheddar cheese, mozzarella cheese, Roma tomato, and cilantro. Mix until cheese is melted. </step>
+    <step num="4">Serve immediately. Garnish with additional tomato and cilantro, if desired. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil in a large stockpot over medium-high heat. </steps_updated>
+    <steps_updated num="1">Add ground beef, yellow onions, and taco seasoning. </steps_updated>
+    <steps_updated num="2">Cook until beef has browned, about 3-5 minutes, making sure to crumble the beef as it cooks. </steps_updated>
+    <steps_updated num="3">Stir in tomato paste and diced tomatoes, then stir. </steps_updated>
+    <steps_updated num="4">Add spaghetti and 3 cups water. </steps_updated>
+    <steps_updated num="5">Bring to a boil; cover, reduce heat, and simmer until pasta is cooked through, about 15 minutes. </steps_updated>
+    <steps_updated num="6">Remove from heat and top with cheddar cheese, mozzarella cheese, Roma tomato, and cilantro. </steps_updated>
+    <steps_updated num="7">Mix until cheese is melted. </steps_updated>
+    <steps_updated num="8">Serve immediately. </steps_updated>
+    <steps_updated num="9">Garnish with additional tomato and cilantro, if desired. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

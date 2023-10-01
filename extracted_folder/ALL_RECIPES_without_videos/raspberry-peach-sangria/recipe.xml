@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Raspberry Peach Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-peach-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sangria-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; white peaches, sliced </ingredient>
+    <ingredient num="1">2 cups ; raspberry ; (250 g) </ingredient>
+    <ingredient num="2">1 bottle ; rosé </ingredient>
+    <ingredient num="3">1 cup ; white rum ; (240 mL) </ingredient>
+    <ingredient num="4">4 cups ; peach nectar ; (960 mL) </ingredient>
+    <ingredient num="5">1 cup ; champagne ; (240 mL) </ingredient>
+    <ingredient num="6">peach, sliced for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28206/low_1491005895.m3u8</low>
+    <high>https://vid.tasty.co/output/28206/mp4_720x1280/1491005895</high>
+  </video>
+  <duration>
+    <start_time>65.0</start_time>
+    <end_time>89.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pitcher, combine the peaches, raspberries, rosé, rum, and peach nectar. Stir until mixed. </step>
+    <step num="1">Chill for at least 4 hours. </step>
+    <step num="2">Add the champagne, then serve with a peach slice on each glass. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pitcher, combine the peaches, raspberries, rosé, rum, and peach nectar. </steps_updated>
+    <steps_updated num="1">Stir until mixed. </steps_updated>
+    <steps_updated num="2">Chill for at least 4 hours. </steps_updated>
+    <steps_updated num="3">Add the champagne, then serve with a peach slice on each glass. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02004</start_time>
+    <end_time>02698</end_time>
+  </duration_human>
+</recipe>

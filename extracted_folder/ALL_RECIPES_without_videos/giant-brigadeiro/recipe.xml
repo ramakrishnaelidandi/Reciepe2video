@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Giant Brigadeiro Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/giant-brigadeiro</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-mesmerizing-brazilian-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; butter </ingredient>
+    <ingredient num="1">3 cans ; sweetened condensed milk </ingredient>
+    <ingredient num="2">9 oz ; semisweet chocolate ; (255 g) </ingredient>
+    <ingredient num="3">4 oz ; chocolate sprinkles ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Brazilian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96310/hls24_1527632108.m3u8</low>
+    <high>https://vid.tasty.co/output/96310/landscape_720/1527632108</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a pan, put the sweetened condensed milk, butter, and semisweet chocolate. </step>
+    <step num="1">Stir gently over low heat until the brigadeiro doesn’t stick to the bottom. </step>
+    <step num="2">Pour the brigadeiro in a big bowl and chill in the refrigerator for 4 hours. </step>
+    <step num="3">With a spoon, unstick the corners of the the brigadeiro. </step>
+    <step num="4">With buttered hands, remove the big brigadeiro and shape into a ball. </step>
+    <step num="5">Roll the big brigadeiro in chocolate sprinkles and serve in a shallow plate. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a pan, put the sweetened condensed milk, butter, and semisweet chocolate. </steps_updated>
+    <steps_updated num="1">Stir gently over low heat until the brigadeiro doesn’t stick to the bottom. </steps_updated>
+    <steps_updated num="2">Pour the brigadeiro in a big bowl and chill in the refrigerator for 4 hours. </steps_updated>
+    <steps_updated num="3">With a spoon, unstick the corners of the the brigadeiro. </steps_updated>
+    <steps_updated num="4">With buttered hands, remove the big brigadeiro and shape into a ball. </steps_updated>
+    <steps_updated num="5">Roll the big brigadeiro in chocolate sprinkles and serve in a shallow plate. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00236</start_time>
+    <end_time>01520</end_time>
+  </duration_human>
+</recipe>

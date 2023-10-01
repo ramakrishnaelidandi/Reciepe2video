@@ -1,0 +1,55 @@
+<recipe>
+  <title>Banana Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-pudding</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-desserts-to-make-with-ripe-bananas</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 11728 1938 4125 </ingredient>
+    <ingredient num="1">13086 13278 6216 9314 </ingredient>
+    <ingredient num="2">1813 2605 13278 4834 13278 9377 5981 </ingredient>
+    <ingredient num="3">13086 9486 13278 12367 </ingredient>
+    <ingredient num="4">3917 8071 13278 1319 </ingredient>
+    <ingredient num="5">8580 9517 13278 5802 13278 6901 8007 </ingredient>
+    <ingredient num="6">1319 12599 </ingredient>
+    <ingredient num="7">279 13033 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54120/low_1506633610.m3u8</low>
+    <high>https://vid.tasty.co/output/54120/mp4_720x1280/1506633610</high>
+  </video>
+  <duration>
+    <start_time>83.96</start_time>
+    <end_time>117.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 1938 6216 13638 6145 2089 1319 13817 5802 669 5994 12027 13817 13107 1681 12119 </step>
+    <step num="1">12785 2373 560 5994 11844 13817 2550 11770 13757 7855 1681 7711 6142 6538 7990 6285 1882 12689 </step>
+    <step num="2">1083 2373 669 5994 7855 13378 14511 6506 13817 1780 7990 7811 767 4061 12721 </step>
+    <step num="3">10450 7397 1374 5994 8631 13681 371 11867 669 5994 7818 6369 9179 797 11826 371 1319 11817 415 279 5808 1022 </step>
+    <step num="4">12774 5895 2234 560 1788 210 11951 10437 7990 3386 560 4061 14329 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 1938 6216 13638 6145 2089 1319 13817 5802 669 5994 12027 13817 13107 1681 12119 </steps_updated>
+    <steps_updated num="1">12785 2373 560 5994 11844 13817 2550 11770 13757 7855 1681 7711 6142 6538 7990 6285 1882 12689 </steps_updated>
+    <steps_updated num="2">1083 2373 669 5994 7855 13378 14511 6506 13817 1780 7990 7811 767 4061 12721 </steps_updated>
+    <steps_updated num="3">10450 7397 1374 5994 8631 13681 371 11867 669 5994 7818 6369 </steps_updated>
+    <steps_updated num="4">9179 797 11826 371 1319 11817 415 279 5808 </steps_updated>
+    <steps_updated num="5">1022 </steps_updated>
+    <steps_updated num="6">12774 5895 2234 560 1788 210 11951 10437 7990 3386 560 4061 14329 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02577</start_time>
+    <end_time>03552</end_time>
+  </duration_human>
+</recipe>

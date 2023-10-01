@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>5-layer Dip Wreath Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/5-layer-dip-wreath</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 can ; refried beans </ingredient>
+    <ingredient num="1">shredded cheese </ingredient>
+    <ingredient num="2">pico de gallo, or salsa </ingredient>
+    <ingredient num="3">sour cream </ingredient>
+    <ingredient num="4">guacamole </ingredient>
+    <ingredient num="5">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="6">fresh cilantro </ingredient>
+    <ingredient num="7">3 ; cherry tomatoes, halved </ingredient>
+    <ingredient num="8">torilla chip, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32025/low_1495125028.m3u8</low>
+    <high>https://vid.tasty.co/output/32025/mp4_720x1280/1495125028</high>
+  </video>
+  <steps>
+    <step num="0">Place a glass upside down in the center of a springform pan. </step>
+    <step num="1">Spread out desired amount of beans. </step>
+    <step num="2">Spread out desired amount of cheese. </step>
+    <step num="3">Spread out desired amount of pico de gallo. </step>
+    <step num="4">Spread out desired amount of sour cream. </step>
+    <step num="5">Spread out desired amount of guacamole. </step>
+    <step num="6">Drizzle on lime juice, and sprinkle on chopped cilantro. </step>
+    <step num="7">Place 3 cherry tomato halves in a cluster to look like holly berries and freeze for 15 minutes. </step>
+    <step num="8">Remove springform pan and glass carefully. Serve with tortilla chips! </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a glass upside down in the center of a springform pan. </steps_updated>
+    <steps_updated num="1">Spread out desired amount of beans. </steps_updated>
+    <steps_updated num="2">Spread out desired amount of cheese. </steps_updated>
+    <steps_updated num="3">Spread out desired amount of pico de gallo. </steps_updated>
+    <steps_updated num="4">Spread out desired amount of sour cream. </steps_updated>
+    <steps_updated num="5">Spread out desired amount of guacamole. </steps_updated>
+    <steps_updated num="6">Drizzle on lime juice, and sprinkle on chopped cilantro. </steps_updated>
+    <steps_updated num="7">Place 3 cherry tomato halves in a cluster to look like holly berries and freeze for 15 minutes. </steps_updated>
+    <steps_updated num="8">Remove springform pan and glass carefully. </steps_updated>
+    <steps_updated num="9">Serve with tortilla chips! </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

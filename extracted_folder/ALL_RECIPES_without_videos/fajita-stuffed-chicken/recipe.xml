@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fajita-Stuffed Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-stuffed-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; canola oil, for veggies </ingredient>
+    <ingredient num="1">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="2">1 ; green bell pepper, diced </ingredient>
+    <ingredient num="3">1 ; yellow bell pepper, diced </ingredient>
+    <ingredient num="4">1 ; onion, diced </ingredient>
+    <ingredient num="5">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="6">1 teaspoon ; fresh ground black pepper </ingredient>
+    <ingredient num="7">4 oz ; cream cheese ; (110 g) </ingredient>
+    <ingredient num="8">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="9">½ cup ; pepper jack cheese, diced ; (50 g) </ingredient>
+    <ingredient num="10">3 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="11">2 teaspoons ; salt </ingredient>
+    <ingredient num="12">2 teaspoons ; chili powder </ingredient>
+    <ingredient num="13">2 teaspoons ; cumin </ingredient>
+    <ingredient num="14">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="15">3 tablespoons ; canola oil, for chicken </ingredient>
+    <ingredient num="16">salsa, for serving </ingredient>
+    <ingredient num="17">sour cream, for serving </ingredient>
+    <ingredient num="18">guacamole, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31930/low_1495124938.m3u8</low>
+    <high>https://vid.tasty.co/output/31930/mp4_720x1280/1495124938</high>
+  </video>
+  <steps>
+    <step num="0">Heat the canola oil (for the veggies) in a pan over high heat. Cook the peppers, onion, salt, and pepper until soft and slightly caramelized. </step>
+    <step num="1">Transfer the cooked veggies to a bowl. In the same bowl, mix in the cream cheese, cheddar, and pepper jack, stirring until evenly incorporated. Set aside. </step>
+    <step num="2">In a separate bowl, combine the chicken with the salt, chili powder, cumin, and garlic powder, evenly distributing the spices over the chicken. </step>
+    <step num="3">On a cutting board, slice a pocket in the chicken horizontally. </step>
+    <step num="4">Fill the pocket with a heaping spoonful of the veggie mixture. Press the edges of the chicken together to seal in the filling. Repeat with the remaining chicken. </step>
+    <step num="5">Heat the canola oil in a pan over medium heat. Cook the stuffed chicken for five minutes on each side, until cheese is melted and chicken is cooked through. </step>
+    <step num="6">Serve with salsa, sour cream, and guacamole! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the canola oil (for the veggies) in a pan over high heat. </steps_updated>
+    <steps_updated num="1">Cook the peppers, onion, salt, and pepper until soft and slightly caramelized. </steps_updated>
+    <steps_updated num="2">Transfer the cooked veggies to a bowl. </steps_updated>
+    <steps_updated num="3">In the same bowl, mix in the cream cheese, cheddar, and pepper jack, stirring until evenly incorporated. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a separate bowl, combine the chicken with the salt, chili powder, cumin, and garlic powder, evenly distributing the spices over the chicken. </steps_updated>
+    <steps_updated num="6">On a cutting board, slice a pocket in the chicken horizontally. </steps_updated>
+    <steps_updated num="7">Fill the pocket with a heaping spoonful of the veggie mixture. </steps_updated>
+    <steps_updated num="8">Press the edges of the chicken together to seal in the filling. </steps_updated>
+    <steps_updated num="9">Repeat with the remaining chicken. </steps_updated>
+    <steps_updated num="10">Heat the canola oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="11">Cook the stuffed chicken for five minutes on each side, until cheese is melted and chicken is cooked through. </steps_updated>
+    <steps_updated num="12">Serve with salsa, sour cream, and guacamole! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

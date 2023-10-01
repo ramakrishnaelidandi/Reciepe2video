@@ -1,0 +1,73 @@
+<recipe>
+  <title>Meatloaf Layered Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatloaf-layered-cake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-savory-tricks</comp_url>
+  <ingredients>
+    <ingredient num="0">9637 8224 775 7990 14389 </ingredient>
+    <ingredient num="1">8580 9486 13278 4168 5766 </ingredient>
+    <ingredient num="2">1580 2605 13278 4587 10015 13278 7289 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 12384 10015 13278 3433 5981 </ingredient>
+    <ingredient num="4">3917 13278 13757 5425 10015 </ingredient>
+    <ingredient num="5">8580 715 13278 11088 1946 13278 7696 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 9260 6422 </ingredient>
+    <ingredient num="7">3917 8071 13278 9496 </ingredient>
+    <ingredient num="8">8580 9486 13278 10646 2260 </ingredient>
+    <ingredient num="9">3917 14014 13278 9668 30 </ingredient>
+    <ingredient num="10">8580 13278 2597 12708 </ingredient>
+    <ingredient num="11">3917 2605 13278 12956 1230 13278 2264 5981 </ingredient>
+    <ingredient num="12">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="13">12610 560 11567 </ingredient>
+    <ingredient num="14">1813 2605 13278 9668 30 13278 3433 5981 </ingredient>
+    <ingredient num="15">11061 9517 13278 9635 6817 9864 13278 4845 10482 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107992/hls24_1536166116.m3u8</low>
+    <high>https://vid.tasty.co/output/107992/landscape_720/1536166116</high>
+  </video>
+  <duration>
+    <start_time>163.333</start_time>
+    <end_time>263.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 9988 8999 5954 8580 10329 828 1645 14032 14124 7154 1391 9637 11013 </step>
+    <step num="1">8889 11951 5766 210 5994 13757 5687 11770 13757 2082 9179 11951 4587 12384 13817 11021 13817 9347 1681 12449 6285 13767 12689 2257 10261 560 435 </step>
+    <step num="2">10950 5994 2597 14511 4120 11951 11088 20 7997 5920 6958 5050 7280 9668 5337 14463 5094 9889 13817 82 591 3112 12473 560 4398 740 11951 13046 7733 8087 13817 10968 1681 12551 </step>
+    <step num="3">877 11951 2753 8830 11951 9864 7154 13817 11434 11951 2373 7317 </step>
+    <step num="4">7831 7990 5169 11004 1681 10963 2147 1828 10694 7990 238 12689 </step>
+    <step num="5">9179 3917 2753 11826 560 5994 7818 9086 2988 5994 7497 11826 371 9668 30 11770 11951 143 9179 8580 9517 9990 5981 371 9635 13233 560 11951 937 13817 11434 7317 13494 1391 11951 11649 2753 11826 13817 11434 1391 5994 11826 371 9668 30 13817 8580 9517 9990 5981 9635 13950 8431 2237 9070 7700 560 6506 11951 10860 371 11951 10195 13817 11434 11951 13233 11770 11951 3305 14124 210 2237 5422 14614 </step>
+    <step num="6">9179 6646 2605 10339 5981 371 9635 13233 560 11951 10707 371 11951 14124 13817 11434 3584 11770 11951 3305 8265 </step>
+    <step num="7">9179 11951 374 9635 13233 560 5994 14361 12854 7321 1391 5994 3508 13823 2062 6581 5412 11951 4810 13817 10707 371 11951 8265 </step>
+    <step num="8">3235 13817 8956 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">5954 8580 10329 828 1645 14032 14124 7154 1391 9637 11013 </steps_updated>
+    <steps_updated num="2">8889 11951 5766 210 5994 13757 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="3">9179 11951 4587 12384 13817 11021 13817 9347 1681 12449 6285 13767 12689 </steps_updated>
+    <steps_updated num="4">2257 10261 560 435 </steps_updated>
+    <steps_updated num="5">10950 5994 2597 14511 4120 11951 11088 20 7997 5920 6958 5050 7280 9668 5337 14463 5094 9889 13817 82 591 3112 </steps_updated>
+    <steps_updated num="6">12473 560 4398 740 11951 13046 7733 8087 13817 10968 1681 12551 </steps_updated>
+    <steps_updated num="7">877 11951 2753 8830 11951 9864 7154 13817 11434 11951 2373 7317 </steps_updated>
+    <steps_updated num="8">7831 7990 5169 11004 1681 10963 2147 </steps_updated>
+    <steps_updated num="9">1828 10694 7990 238 12689 </steps_updated>
+    <steps_updated num="10">9179 3917 2753 11826 560 5994 7818 9086 </steps_updated>
+    <steps_updated num="11">2988 5994 7497 11826 371 9668 30 11770 11951 143 </steps_updated>
+    <steps_updated num="12">9179 8580 9517 9990 5981 371 9635 13233 560 11951 937 13817 11434 7317 </steps_updated>
+    <steps_updated num="13">13494 1391 11951 11649 2753 11826 13817 11434 1391 5994 11826 371 9668 30 13817 8580 9517 9990 5981 9635 13950 </steps_updated>
+    <steps_updated num="14">8431 2237 9070 7700 560 6506 11951 10860 371 11951 10195 13817 11434 11951 13233 11770 11951 3305 14124 210 2237 5422 14614 </steps_updated>
+    <steps_updated num="15">9179 6646 2605 10339 5981 371 9635 13233 560 11951 10707 371 11951 14124 13817 11434 3584 11770 11951 3305 8265 </steps_updated>
+    <steps_updated num="16">9179 11951 374 9635 13233 560 5994 14361 12854 7321 1391 5994 3508 13823 </steps_updated>
+    <steps_updated num="17">2062 6581 5412 11951 4810 13817 10707 371 11951 8265 </steps_updated>
+    <steps_updated num="18">3235 13817 8956 </steps_updated>
+    <steps_updated num="19">9092 </steps_updated>
+  </steps_updated>
+</recipe>

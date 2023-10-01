@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Yogurt Parfait Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/yogurt-parfait-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="1">1 cup ; mixed berries ; (140 g) </ingredient>
+    <ingredient num="2">½ cup ; almond, sliced ; (70 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; honey </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>25.41</start_time>
+    <end_time>41.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">Scoop Greek yogurt into box. </step>
+    <step num="1">Place mixed berries into box. </step>
+    <step num="2">Place sliced almonds into box. </step>
+    <step num="3">Pour honey on top of the Greek yogurt. </step>
+    <step num="4">Refrigerate until ready to eat. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Scoop Greek yogurt into box. </steps_updated>
+    <steps_updated num="1">Place mixed berries into box. </steps_updated>
+    <steps_updated num="2">Place sliced almonds into box. </steps_updated>
+    <steps_updated num="3">Pour honey on top of the Greek yogurt. </steps_updated>
+    <steps_updated num="4">Refrigerate until ready to eat. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00822</start_time>
+    <end_time>01270</end_time>
+  </duration_human>
+</recipe>

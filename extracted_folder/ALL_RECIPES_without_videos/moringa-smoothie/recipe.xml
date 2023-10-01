@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Moringa Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/moringa-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/superfood-moringa-powder</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; frozen strawberry ; (40 g) </ingredient>
+    <ingredient num="1">¼ cup ; banana, sliced ; (55 g) </ingredient>
+    <ingredient num="2">1 cup ; spinach ; (40 g) </ingredient>
+    <ingredient num="3">1 cup ; non-dairy milk ; (240 mL) </ingredient>
+    <ingredient num="4">1 teaspoon ; moringa powder </ingredient>
+    <ingredient num="5">fresh berries </ingredient>
+    <ingredient num="6">shredded coconut </ingredient>
+    <ingredient num="7">bee pollen </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+    <category num="7">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94900/hls24_1526678736.m3u8</low>
+    <high>https://vid.tasty.co/output/94900/landscape_720/1526678736</high>
+  </video>
+  <duration>
+    <start_time>24.333</start_time>
+    <end_time>66.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the strawberries, banana, spinach, non-dairy milk, and moringa to a blender and blend until smooth. </step>
+    <step num="1">Pour into a glass or a bowl and add your desired toppings, such as fresh berries, shredded coconut, or bee pollen. </step>
+    <step num="2">Take a photo and post it on your Instagram! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the strawberries, banana, spinach, non-dairy milk, and moringa to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">Pour into a glass or a bowl and add your desired toppings, such as fresh berries, shredded coconut, or bee pollen. </steps_updated>
+    <steps_updated num="2">Take a photo and post it on your Instagram! </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

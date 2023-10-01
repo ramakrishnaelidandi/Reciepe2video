@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Fritter Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-fritter</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; cauliflower ; (900 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="3">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">½ cup ; onion, chopped ; (75 g) </ingredient>
+    <ingredient num="5">¼ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+    <ingredient num="6">½ cup ; wheat flour, plus additional wheat flour for coating ; (60 g) </ingredient>
+    <ingredient num="7">⅓ cup ; grated parmesan cheese ; (35 g) </ingredient>
+    <ingredient num="8">1 ; egg </ingredient>
+    <ingredient num="9">chives, chopped, to taste </ingredient>
+    <ingredient num="10">oil, for frying </ingredient>
+    <ingredient num="11">sour cream, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32072/low_1495125298.m3u8</low>
+    <high>https://vid.tasty.co/output/32072/mp4_720x1280/1495125298</high>
+  </video>
+  <steps>
+    <step num="0">Microwave cauliflower for 15 minutes or until tender. </step>
+    <step num="1">Mash cauliflower, mix in salt, pepper, garlic, onions, parsley, flour, grated parmesan and egg. </step>
+    <step num="2">From patties with the mashed cauliflower mix. Coat both sides of patties with wheat flour. </step>
+    <step num="3">Fry in oil until golden brown and crispy on both sides. </step>
+    <step num="4">Add sour cream or chives to taste. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Microwave cauliflower for 15 minutes or until tender. </steps_updated>
+    <steps_updated num="1">Mash cauliflower, mix in salt, pepper, garlic, onions, parsley, flour, grated parmesan and egg. </steps_updated>
+    <steps_updated num="2">From patties with the mashed cauliflower mix. </steps_updated>
+    <steps_updated num="3">Coat both sides of patties with wheat flour. </steps_updated>
+    <steps_updated num="4">Fry in oil until golden brown and crispy on both sides. </steps_updated>
+    <steps_updated num="5">Add sour cream or chives to taste. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

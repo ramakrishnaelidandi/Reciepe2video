@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Blueberry Cobbler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-blueberry-cobbler</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 can ; pre-made biscuit </ingredient>
+    <ingredient num="1">6 cups ; blueberry ; (600 g) </ingredient>
+    <ingredient num="2">½ cup ; brown sugar ; (110 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="4">2 tablespoons ; cornstarch </ingredient>
+    <ingredient num="5">vanilla ice cream, optional, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81133/hls24_1519568119.m3u8</low>
+    <high>https://vid.tasty.co/output/81133/landscape_720/1519568119</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl add your blueberries, brown sugar, cinnamon and cornstarch. Mix it together throughly. </step>
+    <step num="1">Quarter your pre-made biscuits and set aside. </step>
+    <step num="2">In a slow cooker pour your blueberry mix and top evenly with your quartered biscuits. </step>
+    <step num="3">Cook on high for two and half to three hours. </step>
+    <step num="4">Server a la mode with vanilla ice cream or your favorite whipped cream. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl add your blueberries, brown sugar, cinnamon and cornstarch. </steps_updated>
+    <steps_updated num="1">Mix it together throughly. </steps_updated>
+    <steps_updated num="2">Quarter your pre-made biscuits and set aside. </steps_updated>
+    <steps_updated num="3">In a slow cooker pour your blueberry mix and top evenly with your quartered biscuits. </steps_updated>
+    <steps_updated num="4">Cook on high for two and half to three hours. </steps_updated>
+    <steps_updated num="5">Server a la mode with vanilla ice cream or your favorite whipped cream. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>White Pizza Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/white-pizza-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">pizza dough </ingredient>
+    <ingredient num="1">8 oz ; cream cheese, softened ; (225 g) </ingredient>
+    <ingredient num="2">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="3">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="4">½ cup ; whole milk ricotta cheese ; (125 g) </ingredient>
+    <ingredient num="5">¼ cup ; fresh basil, chopped ; (10 g) </ingredient>
+    <ingredient num="6">6 cloves ; garlic, chopped and divided </ingredient>
+    <ingredient num="7">1 teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="8">½ cup ; butter, melted ; (115 g) </ingredient>
+    <ingredient num="9">¼ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Snacks</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32248/low_1495125459.m3u8</low>
+    <high>https://vid.tasty.co/output/32248/mp4_720x1280/1495125459</high>
+  </video>
+  <steps>
+    <step num="0">Divide pizza dough into 12-14 equal sized balls. With floured hands, roll the dough balls into logs and tie into individual knots, tucking the excess underneath. </step>
+    <step num="1">Coat a 10 inch (25 cm) oven-safe skillet with olive oil. </step>
+    <step num="2">Place the knots in a ring around the skillet. Cover with plastic wrap and let rest for 30 minutes, allowing the dough to reach room temperature. </step>
+    <step num="3">In a medium bowl, combine cream cheese, mozzarella, parmesan, ricotta, fresh basil, 3 cloves of garlic (chopped), and red pepper flakes. </step>
+    <step num="4">Melt the butter and add the fresh parsley and remaining garlic. Stir well. </step>
+    <step num="5">Uncover the knots and scoop the dip into the center of the skillet. Brush the knots with the butter/garlic mixture (reserving some for after baking), and top the dip with an additional sprinkle of cheese (optional). </step>
+    <step num="6">Bake in a preheated oven (400˚F/200˚C) for 20 minutes. Broil on high for two additional minutes or until knots and cheese are lightly browned, watching closely so as not to burn it. </step>
+    <step num="7">Remove from oven and brush lightly with additional garlic butter. </step>
+    <step num="8">Let cool slightly before serving. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Divide pizza dough into 12-14 equal sized balls. </steps_updated>
+    <steps_updated num="1">With floured hands, roll the dough balls into logs and tie into individual knots, tucking the excess underneath. </steps_updated>
+    <steps_updated num="2">Coat a 10 inch (25 cm) oven-safe skillet with olive oil. </steps_updated>
+    <steps_updated num="3">Place the knots in a ring around the skillet. </steps_updated>
+    <steps_updated num="4">Cover with plastic wrap and let rest for 30 minutes, allowing the dough to reach room temperature. </steps_updated>
+    <steps_updated num="5">In a medium bowl, combine cream cheese, mozzarella, parmesan, ricotta, fresh basil, 3 cloves of garlic (chopped), and red pepper flakes. </steps_updated>
+    <steps_updated num="6">Melt the butter and add the fresh parsley and remaining garlic. </steps_updated>
+    <steps_updated num="7">Stir well. </steps_updated>
+    <steps_updated num="8">Uncover the knots and scoop the dip into the center of the skillet. </steps_updated>
+    <steps_updated num="9">Brush the knots with the butter/garlic mixture (reserving some for after baking), and top the dip with an additional sprinkle of cheese (optional). </steps_updated>
+    <steps_updated num="10">Bake in a preheated oven (400˚F/200˚C) for 20 minutes. </steps_updated>
+    <steps_updated num="11">Broil on high for two additional minutes or until knots and cheese are lightly browned, watching closely so as not to burn it. </steps_updated>
+    <steps_updated num="12">Remove from oven and brush lightly with additional garlic butter. </steps_updated>
+    <steps_updated num="13">Let cool slightly before serving. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

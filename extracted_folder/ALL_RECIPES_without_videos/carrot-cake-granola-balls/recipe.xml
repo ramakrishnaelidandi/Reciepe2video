@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Carrot Cake Granola Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carrot-cake-granola-balls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ¼ cups ; oats ; (125 g) </ingredient>
+    <ingredient num="1">⅖ cup ; walnuts ; (40 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; almond </ingredient>
+    <ingredient num="3">¾ cup ; peanut butter ; (190 g) </ingredient>
+    <ingredient num="4">3 teaspoons ; honey </ingredient>
+    <ingredient num="5">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="6">⅗ cup ; carrot, grated ; (40 g) </ingredient>
+    <ingredient num="7">⅓ cup ; raisin ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Snacks</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32080/low_1495125308.m3u8</low>
+    <high>https://vid.tasty.co/output/32080/mp4_720x1280/1495125308</high>
+  </video>
+  <steps>
+    <step num="0">Add oats, walnuts and ground almonds to a large bowl and mix together. </step>
+    <step num="1">Add peanut butter, honey and cinnamon and mix. </step>
+    <step num="2">Add carrot and raisins to the mixture and mix until a everything has stuck together. </step>
+    <step num="3">Form into 12 balls and place on baking paper. </step>
+    <step num="4">Refrigerate for 1 hour. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add oats, walnuts and ground almonds to a large bowl and mix together. </steps_updated>
+    <steps_updated num="1">Add peanut butter, honey and cinnamon and mix. </steps_updated>
+    <steps_updated num="2">Add carrot and raisins to the mixture and mix until a everything has stuck together. </steps_updated>
+    <steps_updated num="3">Form into 12 balls and place on baking paper. </steps_updated>
+    <steps_updated num="4">Refrigerate for 1 hour. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

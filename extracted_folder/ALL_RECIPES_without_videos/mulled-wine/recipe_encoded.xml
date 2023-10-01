@@ -1,0 +1,48 @@
+<recipe>
+  <title>Mulled Wine Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mulled-wine</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-slow-cooker-cocktails-to-serve-at-your-next-holiday-party</comp_url>
+  <ingredients>
+    <ingredient num="0">13767 9517 13278 8083 13538 13278 5504 1767 </ingredient>
+    <ingredient num="1">2933 9517 13278 10307 10522 13278 10187 12791 8007 </ingredient>
+    <ingredient num="2">8580 9517 13278 4834 13278 5348 5981 </ingredient>
+    <ingredient num="3">8580 13278 8722 1088 976 </ingredient>
+    <ingredient num="4">13086 13278 12425 12401 </ingredient>
+    <ingredient num="5">13767 13278 13667 </ingredient>
+    <ingredient num="6">13767 13278 13584 8081 </ingredient>
+    <ingredient num="7">8580 13278 6209 13947 1318 9740 </ingredient>
+    <ingredient num="8">1379 976 669 2790 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112113/hls24_1539385219.m3u8</low>
+    <high>https://vid.tasty.co/output/112113/landscape_720/1539385219</high>
+  </video>
+  <duration>
+    <start_time>3.1660000000000004</start_time>
+    <end_time>52.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 8083 8286 10307 7654 13817 4834 560 5994 3025 4500 283 560 2319 11951 8525 </step>
+    <step num="1">9179 11951 976 8722 12425 11078 6459 10335 13817 1255 </step>
+    <step num="2">426 11951 7855 560 6428 510 13817 10383 7990 9030 11004 1681 8009 9956 11898 2864 11951 7855 6454 560 10316 </step>
+    <step num="3">8225 669 1637 13817 4711 1391 13956 5021 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 8083 8286 10307 7654 13817 4834 560 5994 3025 4500 </steps_updated>
+    <steps_updated num="1">283 560 2319 11951 8525 </steps_updated>
+    <steps_updated num="2">9179 11951 976 8722 12425 11078 6459 10335 13817 1255 </steps_updated>
+    <steps_updated num="3">426 11951 7855 560 6428 510 13817 10383 7990 9030 11004 1681 8009 </steps_updated>
+    <steps_updated num="4">9956 11898 2864 11951 7855 6454 560 10316 </steps_updated>
+    <steps_updated num="5">8225 669 1637 13817 4711 1391 13956 5021 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

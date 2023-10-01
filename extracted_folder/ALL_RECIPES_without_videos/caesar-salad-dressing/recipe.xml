@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caesar Salad Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caesar-salad-dressing</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-salad-dressing-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; garlic, minced </ingredient>
+    <ingredient num="1">2 tablespoons ; dijon mustard </ingredient>
+    <ingredient num="2">¼ cup ; lemon juice, fresh squeezed ; (60 mL) </ingredient>
+    <ingredient num="3">¼ cup ; mayonnaise ; (60 g) </ingredient>
+    <ingredient num="4">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="7">1 cup ; canola oil ; (235 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33775/low_1497047581.m3u8</low>
+    <high>https://vid.tasty.co/output/33775/mp4_720x1280/1497047581</high>
+  </video>
+  <duration>
+    <start_time>16.42</start_time>
+    <end_time>32.54</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the ingredients into a mason jar. Screw the lid on tightly and shake vigorously. </step>
+    <step num="1">The dressing can remain in the fridge for 1-2 weeks. </step>
+    <step num="2">Pour over your favorite salad ingredients and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the ingredients into a mason jar. </steps_updated>
+    <steps_updated num="1">Screw the lid on tightly and shake vigorously. </steps_updated>
+    <steps_updated num="2">The dressing can remain in the fridge for 1-2 weeks. </steps_updated>
+    <steps_updated num="3">Pour over your favorite salad ingredients and enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00545</start_time>
+    <end_time>00997</end_time>
+  </duration_human>
+</recipe>

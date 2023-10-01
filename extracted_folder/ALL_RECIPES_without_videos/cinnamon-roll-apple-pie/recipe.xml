@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll Apple Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-apple-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; granny smith apples, sliced </ingredient>
+    <ingredient num="1">2 cans ; cinnamon roll </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">1 tablespoon ; cornstarch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12403/low_1476832905.m3u8</low>
+    <high>https://vid.tasty.co/output/12403/mp4_720x1280/1476832905</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C) and spray a pie dish with nonstick oil. </step>
+    <step num="1">Peel and cut the apples into thin slices and place in a bowl. </step>
+    <step num="2">Add sugar, cinnamon and cornstarch to apples and stir. </step>
+    <step num="3">Cut each cinnamon roll in half and roll out with flour until thin. </step>
+    <step num="4">Layer the bottom of the pie dish with the flattened cinnamon rolls to create a bottom crust. </step>
+    <step num="5">Add the apples and layer the rest of the rolls on top to create a closed crust, pinch any holes together with your fingers. </step>
+    <step num="6">Cover with foil and bake for 35 minutes. </step>
+    <step num="7">Remove the foil and bake for another 10 minutes uncovered. </step>
+    <step num="8">Allow the pie to cool and drizzle with icing. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C) and spray a pie dish with nonstick oil. </steps_updated>
+    <steps_updated num="1">Peel and cut the apples into thin slices and place in a bowl. </steps_updated>
+    <steps_updated num="2">Add sugar, cinnamon and cornstarch to apples and stir. </steps_updated>
+    <steps_updated num="3">Cut each cinnamon roll in half and roll out with flour until thin. </steps_updated>
+    <steps_updated num="4">Layer the bottom of the pie dish with the flattened cinnamon rolls to create a bottom crust. </steps_updated>
+    <steps_updated num="5">Add the apples and layer the rest of the rolls on top to create a closed crust, pinch any holes together with your fingers. </steps_updated>
+    <steps_updated num="6">Cover with foil and bake for 35 minutes. </steps_updated>
+    <steps_updated num="7">Remove the foil and bake for another 10 minutes uncovered. </steps_updated>
+    <steps_updated num="8">Allow the pie to cool and drizzle with icing. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken &amp; Waffle Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-waffle-bites</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pancakes-vs-waffles</comp_url>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; mustard ; (80 g) </ingredient>
+    <ingredient num="1">⅓ cup ; maple syrup ; (70 mL) </ingredient>
+    <ingredient num="2">⅓ cup ; honey ; (110 g) </ingredient>
+    <ingredient num="3">1 ; chicken breast </ingredient>
+    <ingredient num="4">1 teaspoon ; salt, plus a pinch, divided </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="7">1 ; egg </ingredient>
+    <ingredient num="8">¾ cup ; whole milk ; (180 mL) </ingredient>
+    <ingredient num="9">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="10">2 ½ tablespoons ; oil </ingredient>
+    <ingredient num="11">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="12">½ tablespoon ; baking powder </ingredient>
+    <ingredient num="13">1 tablespoon ; sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69233/hls24_1513730933.m3u8</low>
+    <high>https://vid.tasty.co/output/69233/landscape_720/1513730933</high>
+  </video>
+  <duration>
+    <start_time>206.0</start_time>
+    <end_time>244.53</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small bowl, combine the mustard, maple syrup, and honey. Stir until smooth, then set aside. </step>
+    <step num="1">Cube the chicken breast, then season with salt, pepper, and cayenne. </step>
+    <step num="2">In a large bowl, whisk together the egg, milk, vanilla, and oil. </step>
+    <step num="3">Sift the flour, baking powder, sugar, and a pinch of salt into a separate large bowl. Add the wet ingredients and stir to combine. </step>
+    <step num="4">Add the seasoned chicken to the waffle batter and toss until well coated. </step>
+    <step num="5">Heat a waffle iron on the lowest setting. </step>
+    <step num="6">Spoon a piece of chicken and some batter into each section. Cook for 8-10 minutes, until the chicken is cooked through and the waffles are golden brown. Repeat with the remaining batter. </step>
+    <step num="7">Serve with the sauce for dipping. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the wet ingredients in a mixing bowl. </steps_updated>
+    <steps_updated num="1">In another mixing bowl, sift together the dry ingredients. </steps_updated>
+    <steps_updated num="2">Add the wet to the dry and mix until smooth. </steps_updated>
+    <steps_updated num="3">Add the seasoned chicken to the waffle batter. </steps_updated>
+    <steps_updated num="4">Make sure the chicken is coated in the batter. </steps_updated>
+    <steps_updated num="5">Heat your waffle iron on the lowest setting. </steps_updated>
+    <steps_updated num="6">Spoon a piece of chicken and additional batter into each section. </steps_updated>
+    <steps_updated num="7">Cook on the lowest setting for approximately 10 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04605</start_time>
+    <end_time>05894</end_time>
+  </duration_human>
+</recipe>

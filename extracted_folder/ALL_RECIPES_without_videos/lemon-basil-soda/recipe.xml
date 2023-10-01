@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lemon Basil Soda Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lemon-basil-soda</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/natural-fruit-herb-sodas-x-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; simple syrup ; (120 mL) </ingredient>
+    <ingredient num="1">½ cup ; lemon juice ; (120 mL) </ingredient>
+    <ingredient num="2">6 ; fresh basil leaves, torn </ingredient>
+    <ingredient num="3">seltzer water, for serving </ingredient>
+    <ingredient num="4">lime, cut into wheels, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121304/hls24_1545866741.m3u8</low>
+    <high>https://vid.tasty.co/output/121304/landscape_720/1545866741</high>
+  </video>
+  <duration>
+    <start_time>85.666</start_time>
+    <end_time>110.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small saucepan over medium heat, combine the simple syrup, lemon juice, and basil. Simmer for 5 minutes, until slightly reduced. Remove from the heat and let cool completely. </step>
+    <step num="1">Once the lemon basil syrup is cool, strain into an airtight glass container and store in the refrigerator for up to 1 month. </step>
+    <step num="2">To make the soda, pour 1 cup (240 ml) of seltzer water into a glass filled with ice and add 1-2 tablespoons of lemon basil syrup. Stir to combine. Garnish with lime wheels, if desired. </step>
+    <step num="3">Nutrition, per 1 tablespoon:
+Calories: 20
+Sugars: 5 </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan over medium heat, combine the simple syrup, lemon juice, and basil. </steps_updated>
+    <steps_updated num="1">Simmer for 5 minutes, until slightly reduced. </steps_updated>
+    <steps_updated num="2">Remove from the heat and let cool completely. </steps_updated>
+    <steps_updated num="3">Once the lemon basil syrup is cool, strain into an airtight glass container and store in the refrigerator for up to 1 month. </steps_updated>
+    <steps_updated num="4">To make the soda, pour 1 cup (240 ml) of seltzer water into a glass filled with ice and add 1-2 tablespoons of lemon basil syrup. </steps_updated>
+    <steps_updated num="5">Stir to combine. </steps_updated>
+    <steps_updated num="6">Garnish with lime wheels, if desired. </steps_updated>
+    <steps_updated num="7">Nutrition, per 1 tablespoon:
+Calories: 20
+Sugars: 5 </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

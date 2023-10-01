@@ -1,0 +1,60 @@
+<recipe>
+  <title>Mushroom Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mushroom-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/meatless-tacos-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6735 643 13278 5379 9325 3917 3756 13278 9473 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="2">1813 13278 12384 11588 3962 </ingredient>
+    <ingredient num="3">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">8580 9486 13278 9721 534 11691 2260 </ingredient>
+    <ingredient num="5">3917 8071 13278 3170 </ingredient>
+    <ingredient num="6">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="7">13584 10986 560 11567 </ingredient>
+    <ingredient num="8">6640 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Lunch</category>
+    <category num="8">Game Day</category>
+    <category num="9">Weeknight</category>
+    <category num="10">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60252/low_1509996185.m3u8</low>
+    <high>https://vid.tasty.co/output/60252/mp4_720x1280/1509996185</high>
+  </video>
+  <duration>
+    <start_time>93.88</start_time>
+    <end_time>140.56</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 14094 560 8016 9909 13817 8287 1681 5994 451 7968 9490 2902 9082 11901 11155 560 3355 </step>
+    <step num="1">8889 8244 5766 210 5687 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 6334 13817 11384 13817 9347 1681 11951 6334 9490 6470 </step>
+    <step num="2">9179 11951 14094 13817 6805 7990 1882 11004 5895 1681 6241 12282 7312 389 </step>
+    <step num="3">9179 11691 7280 2670 13389 11703 13817 12375 13888 7990 2933 3954 11004 5895 1681 13218 7968 9490 888 </step>
+    <step num="4">12774 4255 10383 5817 1391 13218 10176 7857 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 14094 560 8016 9909 13817 8287 1681 5994 451 7968 9490 2902 9082 11901 11155 560 3355 </steps_updated>
+    <steps_updated num="1">8889 8244 5766 210 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">9956 11951 5766 10586 560 923 740 11951 6334 13817 11384 13817 9347 1681 11951 6334 9490 6470 </steps_updated>
+    <steps_updated num="3">9179 11951 14094 13817 6805 7990 1882 11004 5895 1681 6241 12282 7312 389 </steps_updated>
+    <steps_updated num="4">9179 11691 7280 2670 13389 11703 13817 12375 </steps_updated>
+    <steps_updated num="5">13888 7990 2933 3954 11004 5895 1681 13218 7968 9490 888 </steps_updated>
+    <steps_updated num="6">12774 4255 10383 5817 1391 13218 10176 7857 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02875</start_time>
+    <end_time>04217</end_time>
+  </duration_human>
+</recipe>

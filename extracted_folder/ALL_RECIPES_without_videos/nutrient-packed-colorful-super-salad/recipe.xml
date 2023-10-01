@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Nutrient-Packed Colorful Super Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nutrient-packed-colorful-super-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; wole grain mustard </ingredient>
+    <ingredient num="1">2 tablespoons ; organic maple syrup </ingredient>
+    <ingredient num="2">1 tablespoon ; fresh ginger, grated </ingredient>
+    <ingredient num="3">4 cloves ; garlic, grated </ingredient>
+    <ingredient num="4">1 tablespoon ; sesame seed, toasted </ingredient>
+    <ingredient num="5">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="6">¼ cup ; apple cider vinegar ; (60 mL) </ingredient>
+    <ingredient num="7">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="8">⅓ cup ; extra virgin olive oil ; (80 mL) </ingredient>
+    <ingredient num="9">kosher salt, to taste </ingredient>
+    <ingredient num="10">black pepper, to taste </ingredient>
+    <ingredient num="11">2 cups ; lacinato kale, thinly sliced ; (135 g) </ingredient>
+    <ingredient num="12">2 ; large carrots, peeled and grated </ingredient>
+    <ingredient num="13">2 cups ; broccoli floret ; (300 g) </ingredient>
+    <ingredient num="14">2 cups ; red cabbage, thinly sliced ; (200 g) </ingredient>
+    <ingredient num="15">1 ; red bell pepper, seeded and thinly sliced </ingredient>
+    <ingredient num="16">1 ; avocado, peeled and cubed </ingredient>
+    <ingredient num="17">1 cup ; walnut, chopped ; (100 g) </ingredient>
+    <ingredient num="18">½ cup ; fresh parlsey, chopped ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/122089/hls24_1546987325.m3u8</low>
+    <high>https://vid.tasty.co/output/122089/landscape_720/1546987325</high>
+  </video>
+  <steps>
+    <step num="0">In a liquid measuring cup, combine the mustard, maple syrup, ginger, garlic, sesame seeds, cayenne, apple cider vinegar, lemon juice, and olive oil. Whisk until fully incorporated. Season to taste with salt and pepper. </step>
+    <step num="1">Add the kale, carrots, red cabbage, broccoli, red cabbage, bell pepper, avocado, walnuts, and parsley to a large serving bowl. </step>
+    <step num="2">Pour desired amount of dressing over the salad and toss until everything is well coated. </step>
+    <step num="3">Garnish with more toasted sesame seeds </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a liquid measuring cup, combine the mustard, maple syrup, ginger, garlic, sesame seeds, cayenne, apple cider vinegar, lemon juice, and olive oil. </steps_updated>
+    <steps_updated num="1">Whisk until fully incorporated. </steps_updated>
+    <steps_updated num="2">Season to taste with salt and pepper. </steps_updated>
+    <steps_updated num="3">Add the kale, carrots, red cabbage, broccoli, red cabbage, bell pepper, avocado, walnuts, and parsley to a large serving bowl. </steps_updated>
+    <steps_updated num="4">Pour desired amount of dressing over the salad and toss until everything is well coated. </steps_updated>
+    <steps_updated num="5">Garnish with more toasted sesame seeds </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

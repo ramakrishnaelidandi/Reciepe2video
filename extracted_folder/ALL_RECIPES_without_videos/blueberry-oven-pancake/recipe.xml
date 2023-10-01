@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Oven Pancake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-oven-pancake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ¾ cups ; plain flour ; (225 g) </ingredient>
+    <ingredient num="1">3 tablespoons ; sugar </ingredient>
+    <ingredient num="2">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="3">1 pinch ; salt </ingredient>
+    <ingredient num="4">1 cup ; milk ; (200 mL) </ingredient>
+    <ingredient num="5">2 tablespoons ; butter, melted, plus more for the pan </ingredient>
+    <ingredient num="6">1 ; egg </ingredient>
+    <ingredient num="7">1 cup ; blueberry ; (100 g) </ingredient>
+    <ingredient num="8">1 teaspoon ; sugar </ingredient>
+    <ingredient num="9">whipped cream </ingredient>
+    <ingredient num="10">icing sugar </ingredient>
+    <ingredient num="11">blueberry jam </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15827/low_1479929774.m3u8</low>
+    <high>https://vid.tasty.co/output/15827/mp4_720x1280/1479929774</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 190°C (375°F). </step>
+    <step num="1">Mix the flour, sugar, baking powder, and salt together in a large bowl. </step>
+    <step num="2">In a smaller bowl, mix the milk, butter, and egg until combined. Whisk into the flour mix until a smooth batter is formed. </step>
+    <step num="3">In an ovenproof pan, melt a tablespoon of butter and swirl around to grease. Pour in the batter, and scatter blueberries over evenly. Sprinkle over more sugar. </step>
+    <step num="4">Bake for 25 minutes. </step>
+    <step num="5">Serve with icing sugar, blueberry jam, and whipped cream. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 190°C (375°F). </steps_updated>
+    <steps_updated num="1">Mix the flour, sugar, baking powder, and salt together in a large bowl. </steps_updated>
+    <steps_updated num="2">In a smaller bowl, mix the milk, butter, and egg until combined. </steps_updated>
+    <steps_updated num="3">Whisk into the flour mix until a smooth batter is formed. </steps_updated>
+    <steps_updated num="4">In an ovenproof pan, melt a tablespoon of butter and swirl around to grease. </steps_updated>
+    <steps_updated num="5">Pour in the batter, and scatter blueberries over evenly. </steps_updated>
+    <steps_updated num="6">Sprinkle over more sugar. </steps_updated>
+    <steps_updated num="7">Bake for 25 minutes. </steps_updated>
+    <steps_updated num="8">Serve with icing sugar, blueberry jam, and whipped cream. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

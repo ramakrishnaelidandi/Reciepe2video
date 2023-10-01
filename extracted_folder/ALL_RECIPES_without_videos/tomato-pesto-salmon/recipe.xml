@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tomato Pesto Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tomato-pesto-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-salmon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6 oz ; skinless salmon ; (170 g) </ingredient>
+    <ingredient num="1">2 ; zucchinis, sliced </ingredient>
+    <ingredient num="2">olive oil, to taste </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">10 ; cherry tomatoes, halved </ingredient>
+    <ingredient num="6">3 tablespoons ; pesto </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9818/low_1473382399.m3u8</low>
+    <high>https://vid.tasty.co/output/9818/mp4_720x1280/1473382399</high>
+  </video>
+  <duration>
+    <start_time>24.43</start_time>
+    <end_time>40.559</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">On a baking sheet, lay down zucchini. Drizzle on olive oil and sprinkle on salt and pepper. </step>
+    <step num="2">Lay the salmon on the zucchini, and spread the pesto on top of the salmon. Top with tomatoes. </step>
+    <step num="3">Bake for 10-12 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">On a baking sheet, lay down zucchini. </steps_updated>
+    <steps_updated num="2">Drizzle on olive oil and sprinkle on salt and pepper. </steps_updated>
+    <steps_updated num="3">Lay the salmon on the zucchini, and spread the pesto on top of the salmon. </steps_updated>
+    <steps_updated num="4">Top with tomatoes. </steps_updated>
+    <steps_updated num="5">Bake for 10-12 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00792</start_time>
+    <end_time>01236</end_time>
+  </duration_human>
+</recipe>

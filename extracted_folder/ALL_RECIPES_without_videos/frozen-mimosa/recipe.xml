@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Frozen “Mimosa” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-mimosa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-alcohol-optional-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ½ cups ; orange juice, divided ; (600 mL) </ingredient>
+    <ingredient num="1">½ cup ; seltzer water, or champagne ; (120 mL) </ingredient>
+    <ingredient num="2">orange, sliced into wheels, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106659/hls24_1535158158.m3u8</low>
+    <high>https://vid.tasty.co/output/106659/landscape_720/1535158158</high>
+  </video>
+  <duration>
+    <start_time>3.333</start_time>
+    <end_time>31.366</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fill an ice cube tray with about 2 cups (480 ml) of orange juice. Freeze for at least 2 hours. </step>
+    <step num="1">Add the frozen orange juice cubes, remaining orange juice, and seltzer water to a blender and blend on high speed until smooth. </step>
+    <step num="2">Pour into glasses and garnish with orange wheels. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fill an ice cube tray with about 2 cups (480 ml) of orange juice. </steps_updated>
+    <steps_updated num="1">Freeze for at least 2 hours. </steps_updated>
+    <steps_updated num="2">Add the frozen orange juice cubes, remaining orange juice, and seltzer water to a blender and blend on high speed until smooth. </steps_updated>
+    <steps_updated num="3">Pour into glasses and garnish with orange wheels. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

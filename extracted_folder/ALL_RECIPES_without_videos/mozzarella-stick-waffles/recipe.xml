@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mozzarella Stick Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mozzarella-stick-waffles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 oz ; mozzarella cheese, block whole milk ; (455 g) </ingredient>
+    <ingredient num="1">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="2">2 ; large eggs, beaten </ingredient>
+    <ingredient num="3">1 cup ; seasoned breadcrumbs ; (115 g) </ingredient>
+    <ingredient num="4">nonstick cooking spray, as needed </ingredient>
+    <ingredient num="5">scallions, sliced, to taste </ingredient>
+    <ingredient num="6">marinara sauce, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32150/low_1495125396.m3u8</low>
+    <high>https://vid.tasty.co/output/32150/mp4_720x1280/1495125396</high>
+  </video>
+  <steps>
+    <step num="0">Preheat a waffle maker to medium heat. </step>
+    <step num="1">Cut the mozzarella into four equal slices, then cut each slice in half into square chunks, making eight chunks total. </step>
+    <step num="2">Place the flour, beaten eggs, and bread crumbs into three separate bowls. </step>
+    <step num="3">Dredge a mozzarella square in the flour, shaking off the excess, then dip into the beaten egg. Roll it in the bread crumbs, making sure that it is completely coated. Put the breaded mozzarella on a plate; repeat with the remaining mozzarella chunks. </step>
+    <step num="4">Spray the waffle iron on both sides with cooking spray. </step>
+    <step num="5">Cook the mozzarella squares in the waffle iron for about two minutes, until the bread crumbs are golden brown and the cheese is starting to bubble. </step>
+    <step num="6">Garnish with scallions and serve with marinara! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat a waffle maker to medium heat. </steps_updated>
+    <steps_updated num="1">Cut the mozzarella into four equal slices, then cut each slice in half into square chunks, making eight chunks total. </steps_updated>
+    <steps_updated num="2">Place the flour, beaten eggs, and bread crumbs into three separate bowls. </steps_updated>
+    <steps_updated num="3">Dredge a mozzarella square in the flour, shaking off the excess, then dip into the beaten egg. </steps_updated>
+    <steps_updated num="4">Roll it in the bread crumbs, making sure that it is completely coated. </steps_updated>
+    <steps_updated num="5">Put the breaded mozzarella on a plate; repeat with the remaining mozzarella chunks. </steps_updated>
+    <steps_updated num="6">Spray the waffle iron on both sides with cooking spray. </steps_updated>
+    <steps_updated num="7">Cook the mozzarella squares in the waffle iron for about two minutes, until the bread crumbs are golden brown and the cheese is starting to bubble. </steps_updated>
+    <steps_updated num="8">Garnish with scallions and serve with marinara! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

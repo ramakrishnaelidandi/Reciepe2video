@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Elote (Mexico) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/elote-mexico</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/corn-on-the-cob-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ears ; corn, shucked </ingredient>
+    <ingredient num="1">1 tablespoon ; canola oil </ingredient>
+    <ingredient num="2">⅓ cup ; mayonnaise ; (80 g) </ingredient>
+    <ingredient num="3">⅓ cup ; sour cream ; (80 g) </ingredient>
+    <ingredient num="4">½ ; lime, juiced </ingredient>
+    <ingredient num="5">1 teaspoon ; chipotle powder </ingredient>
+    <ingredient num="6">¼ cup ; cotija cheese ; (30 g) </ingredient>
+    <ingredient num="7">fresh cilantro, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108480/hls24_1536599550.m3u8</low>
+    <high>https://vid.tasty.co/output/108480/landscape_720/1536599550</high>
+  </video>
+  <duration>
+    <start_time>3.0</start_time>
+    <end_time>38.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Blanch the corn in a large pot of boiling water for 3 minutes. Remove the corn from the pot. </step>
+    <step num="1">Heat the canola oil in a medium pan over medium-high heat. Add the corn and cook, turning occasionally, until nicely browned on all sides. Transfer to a serving plate. </step>
+    <step num="2">In a small bowl, combine the mayonnaise, sour cream, and lime juice. Brush all over the corn. </step>
+    <step num="3">Sprinkle the corn with the chipotle powder, cotija cheese, and cilantro. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Blanch the corn in a large pot of boiling water for 3 minutes. </steps_updated>
+    <steps_updated num="1">Remove the corn from the pot. </steps_updated>
+    <steps_updated num="2">Heat the canola oil in a medium pan over medium-high heat. </steps_updated>
+    <steps_updated num="3">Add the corn and cook, turning occasionally, until nicely browned on all sides. </steps_updated>
+    <steps_updated num="4">Transfer to a serving plate. </steps_updated>
+    <steps_updated num="5">In a small bowl, combine the mayonnaise, sour cream, and lime juice. </steps_updated>
+    <steps_updated num="6">Brush all over the corn. </steps_updated>
+    <steps_updated num="7">Sprinkle the corn with the chipotle powder, cotija cheese, and cilantro. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

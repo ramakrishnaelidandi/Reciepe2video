@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Bagels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-bagels</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ½ cups ; bread flour ; (420 g) </ingredient>
+    <ingredient num="1">1 package ; instant yeast </ingredient>
+    <ingredient num="2">1 tablespoon ; salt, plus 1 tsp </ingredient>
+    <ingredient num="3">2 tablespoons ; white sugar </ingredient>
+    <ingredient num="4">1 ½ cups ; warm water ; (360 mL) </ingredient>
+    <ingredient num="5">6 qt ; water ; (5.6 L) </ingredient>
+    <ingredient num="6">1 ½ tablespoons ; barley malt syrup </ingredient>
+    <ingredient num="7">1 ; egg, beaten </ingredient>
+    <ingredient num="8">poppy seeds </ingredient>
+    <ingredient num="9">sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92752/hls24_1525471078.m3u8</low>
+    <high>https://vid.tasty.co/output/92752/landscape_720/1525471078</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, add the flour, yeast, salt, and sugar. Pulse until incorporated. </step>
+    <step num="1">While running, slowly add the warm water until the dough balls up. You may not need all the warm water. </step>
+    <step num="2">Carefully push the dough back into the blade’s path and continue to process for an additional 30 seconds or until the dough is firm and stretchy, but not sticky nor squishy. </step>
+    <step num="3">Gently round the dough into a ball and place in a lightly oiled bowl. Cover with a damp, warm towel for an hour or until the dough has doubled in size. </step>
+    <step num="4">Add the barley malt syrup to about 6 quarts of water and bring to a boil. </step>
+    <step num="5">Place a tray with about 2 quarts of water on the bottom shelf of the oven. Preheat to 425°F (220°C). </step>
+    <step num="6">Place the dough onto a lightly floured surface and divide into 6 equal pieces (roughly 5 ounces (140 g) a piece if you use a scale). Cover the pieces with a damp towel. </step>
+    <step num="7">One at a time, form the dough into a ball, pinching the seams together at the bottom. Place the dough seam side down and–cupping your hand over the dough–apply gentle pressure, working the ball in circles until the seams on the bottom are smoothed out. Gently reshape the edges of the ball into a circle. </step>
+    <step num="8">Using your thumb, press down into the center of the ball to the counter. Working in a circle, carefully stretch the dough into a ring until the hole at the center is about 2 inches (5 cm) in diameter. </step>
+    <step num="9">Place the dough rings under a damp towel and let rise for 10 minutes. </step>
+    <step num="10">Working in batches of two, place the bagels in the boiling water/syrup. They should float at the surface. Let them boil for 30 seconds, then flip and boil for an additional 30 seconds. </step>
+    <step num="11">Remove the bagels from the water/syrup and gently pat dry with a clean towel. </step>
+    <step num="12">Brush the tops with the beaten egg. Optionally, if you want toppings, dip the egg-washed side of the bagel into the mixture of your choice. </step>
+    <step num="13">Place the bagels on a parchment paper-covered baking sheet. Bake until golden brown, about 15 to 20 minutes. </step>
+    <step num="14">Transfer to a wire rack to cool. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, add the flour, yeast, salt, and sugar. </steps_updated>
+    <steps_updated num="1">Pulse until incorporated. </steps_updated>
+    <steps_updated num="2">While running, slowly add the warm water until the dough balls up. </steps_updated>
+    <steps_updated num="3">You may not need all the warm water. </steps_updated>
+    <steps_updated num="4">Carefully push the dough back into the blade’s path and continue to process for an additional 30 seconds or until the dough is firm and stretchy, but not sticky nor squishy. </steps_updated>
+    <steps_updated num="5">Gently round the dough into a ball and place in a lightly oiled bowl. </steps_updated>
+    <steps_updated num="6">Cover with a damp, warm towel for an hour or until the dough has doubled in size. </steps_updated>
+    <steps_updated num="7">Add the barley malt syrup to about 6 quarts of water and bring to a boil. </steps_updated>
+    <steps_updated num="8">Place a tray with about 2 quarts of water on the bottom shelf of the oven. </steps_updated>
+    <steps_updated num="9">Preheat to 425°F (220°C). </steps_updated>
+    <steps_updated num="10">Place the dough onto a lightly floured surface and divide into 6 equal pieces (roughly 5 ounces (140 g) a piece if you use a scale). </steps_updated>
+    <steps_updated num="11">Cover the pieces with a damp towel. </steps_updated>
+    <steps_updated num="12">One at a time, form the dough into a ball, pinching the seams together at the bottom. </steps_updated>
+    <steps_updated num="13">Place the dough seam side down and–cupping your hand over the dough–apply gentle pressure, working the ball in circles until the seams on the bottom are smoothed out. </steps_updated>
+    <steps_updated num="14">Gently reshape the edges of the ball into a circle. </steps_updated>
+    <steps_updated num="15">Using your thumb, press down into the center of the ball to the counter. </steps_updated>
+    <steps_updated num="16">Working in a circle, carefully stretch the dough into a ring until the hole at the center is about 2 inches (5 cm) in diameter. </steps_updated>
+    <steps_updated num="17">Place the dough rings under a damp towel and let rise for 10 minutes. </steps_updated>
+    <steps_updated num="18">Working in batches of two, place the bagels in the boiling water/syrup. </steps_updated>
+    <steps_updated num="19">They should float at the surface. </steps_updated>
+    <steps_updated num="20">Let them boil for 30 seconds, then flip and boil for an additional 30 seconds. </steps_updated>
+    <steps_updated num="21">Remove the bagels from the water/syrup and gently pat dry with a clean towel. </steps_updated>
+    <steps_updated num="22">Brush the tops with the beaten egg. </steps_updated>
+    <steps_updated num="23">Optionally, if you want toppings, dip the egg-washed side of the bagel into the mixture of your choice. </steps_updated>
+    <steps_updated num="24">Place the bagels on a parchment paper-covered baking sheet. </steps_updated>
+    <steps_updated num="25">Bake until golden brown, about 15 to 20 minutes. </steps_updated>
+    <steps_updated num="26">Transfer to a wire rack to cool. </steps_updated>
+    <steps_updated num="27">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

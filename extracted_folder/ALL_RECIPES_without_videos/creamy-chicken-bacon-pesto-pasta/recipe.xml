@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Chicken Bacon Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-chicken-bacon-pesto-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 strips ; bacon, sliced </ingredient>
+    <ingredient num="1">2 ; boneless, skinless chicken breasts, sliced </ingredient>
+    <ingredient num="2">2 teaspoons ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">2 ; onions, sliced </ingredient>
+    <ingredient num="6">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">5 oz ; spinach ; (140 g) </ingredient>
+    <ingredient num="8">5 cups ; milk ; (1.2 L) </ingredient>
+    <ingredient num="9">1 lb ; fettuccine ; (455 g) </ingredient>
+    <ingredient num="10">½ cup ; pesto ; (110 g) </ingredient>
+    <ingredient num="11">1 cup ; parmesan cheese, plus more for serving ; (110 g) </ingredient>
+    <ingredient num="12">fresh parsley, chopped, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18488/low_1482170297.m3u8</low>
+    <high>https://vid.tasty.co/output/18488/mp4_720x1280/1482170297</high>
+  </video>
+  <steps>
+    <step num="0">In a large pot or dutch oven over medium-high heat, cook the bacon until crispy. </step>
+    <step num="1">Add chicken and season with salt, pepper, and garlic powder. Cook until no pink is showing, then remove the chicken. </step>
+    <step num="2">Add onion and garlic and cook until softened. </step>
+    <step num="3">When onions are caramelized, add spinach and cook until wilted </step>
+    <step num="4">Add milk and bring to boil. </step>
+    <step num="5">Add fettuccine into boiling mixture and cover. </step>
+    <step num="6">Cook fettuccine on medium heat until milk thickens and pasta is cooked (about 7 minutes). </step>
+    <step num="7">Mix back in the chicken. Stir in the pesto and parmesan. </step>
+    <step num="8">Garnish with parsley and additional parmesan </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot or dutch oven over medium-high heat, cook the bacon until crispy. </steps_updated>
+    <steps_updated num="1">Add chicken and season with salt, pepper, and garlic powder. </steps_updated>
+    <steps_updated num="2">Cook until no pink is showing, then remove the chicken. </steps_updated>
+    <steps_updated num="3">Add onion and garlic and cook until softened. </steps_updated>
+    <steps_updated num="4">When onions are caramelized, add spinach and cook until wilted </steps_updated>
+    <steps_updated num="5">Add milk and bring to boil. </steps_updated>
+    <steps_updated num="6">Add fettuccine into boiling mixture and cover. </steps_updated>
+    <steps_updated num="7">Cook fettuccine on medium heat until milk thickens and pasta is cooked (about 7 minutes). </steps_updated>
+    <steps_updated num="8">Mix back in the chicken. </steps_updated>
+    <steps_updated num="9">Stir in the pesto and parmesan. </steps_updated>
+    <steps_updated num="10">Garnish with parsley and additional parmesan </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

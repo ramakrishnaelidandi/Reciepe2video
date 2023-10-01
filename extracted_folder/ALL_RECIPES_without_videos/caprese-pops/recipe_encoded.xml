@@ -1,0 +1,37 @@
+<recipe>
+  <title>Caprese Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caprese-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2933 2526 13278 6209 6250 </ingredient>
+    <ingredient num="1">2933 13278 8602 717 </ingredient>
+    <ingredient num="2">2933 2192 2984 13278 10865 13810 10039 </ingredient>
+    <ingredient num="3">3352 10769 </ingredient>
+    <ingredient num="4">8244 5766 </ingredient>
+    <ingredient num="5">8646 82 </ingredient>
+    <ingredient num="6">14585 11088 13584 7845 </ingredient>
+    <ingredient num="7">2933 6237 13278 2192 7904 5895 3104 1912 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32042/low_1495124984.m3u8</low>
+    <high>https://vid.tasty.co/output/32042/mp4_720x1280/1495124984</high>
+  </video>
+  <steps>
+    <step num="0">5570 5994 3622 9668 13817 10865 6267 4255 10707 371 5994 6250 4964 </step>
+    <step num="1">5791 11951 10707 13817 551 371 11951 14252 5412 11951 9668 13817 8111 415 6888 1802 5994 12355 5895 3104 9389 </step>
+    <step num="2">1594 1391 3352 13817 8244 5766 13817 12616 1391 82 13817 12375 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 5994 3622 9668 13817 10865 6267 4255 10707 371 5994 6250 4964 </steps_updated>
+    <steps_updated num="1">5791 11951 10707 13817 551 371 11951 14252 5412 11951 9668 13817 8111 415 6888 1802 5994 12355 5895 3104 9389 </steps_updated>
+    <steps_updated num="2">1594 1391 3352 13817 8244 5766 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

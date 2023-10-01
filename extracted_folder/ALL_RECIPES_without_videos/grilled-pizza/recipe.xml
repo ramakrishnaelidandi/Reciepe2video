@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; pizza dough ; (455 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="2">½ cup ; tomato sauce ; (105 g) </ingredient>
+    <ingredient num="3">½ cup ; mozzarella cheese ; (55 g) </ingredient>
+    <ingredient num="4">fresh basil leaves, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Italian</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Lunch</category>
+    <category num="7">Game Day</category>
+    <category num="8">BBQ</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51974/low_1505259203.m3u8</low>
+    <high>https://vid.tasty.co/output/51974/mp4_720x1280/1505259203</high>
+  </video>
+  <steps>
+    <step num="0">Preheat grill over high heat for 5-10 minutes. </step>
+    <step num="1">Coat pizza dough with 1 tablespoon of the olive oil. Using your hands, rub oil onto outside of dough while carefully stretching it into a circle 12-14 inches (30-35 cm) in diameter. </step>
+    <step num="2">Place oiled pizza dough onto preheated grill and quickly brush the top with an additional tablespoon of olive oil. Close grill and allow pizza dough to cook for 3-4 minutes over high heat. </step>
+    <step num="3">After 4 minutes, check on the pizza. The dough should start to form large bubbles across the top. Using a large spatula or set of tongs, flip the dough over. Lower the heat to low and add the toppings to the pizza. </step>
+    <step num="4">Increase the heat back to high and close the grill. </step>
+    <step num="5">Cook pizza for 5-6 minutes, until cheese has melted and the bottom of the crust is lightly charred. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat grill over high heat for 5-10 minutes. </steps_updated>
+    <steps_updated num="1">Coat pizza dough with 1 tablespoon of the olive oil. </steps_updated>
+    <steps_updated num="2">Using your hands, rub oil onto outside of dough while carefully stretching it into a circle 12-14 inches (30-35 cm) in diameter. </steps_updated>
+    <steps_updated num="3">Place oiled pizza dough onto preheated grill and quickly brush the top with an additional tablespoon of olive oil. </steps_updated>
+    <steps_updated num="4">Close grill and allow pizza dough to cook for 3-4 minutes over high heat. </steps_updated>
+    <steps_updated num="5">After 4 minutes, check on the pizza. </steps_updated>
+    <steps_updated num="6">The dough should start to form large bubbles across the top. </steps_updated>
+    <steps_updated num="7">Using a large spatula or set of tongs, flip the dough over. </steps_updated>
+    <steps_updated num="8">Lower the heat to low and add the toppings to the pizza. </steps_updated>
+    <steps_updated num="9">Increase the heat back to high and close the grill. </steps_updated>
+    <steps_updated num="10">Cook pizza for 5-6 minutes, until cheese has melted and the bottom of the crust is lightly charred. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

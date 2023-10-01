@@ -1,0 +1,43 @@
+<recipe>
+  <title>Melon Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/melon-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 13278 2192 8774 14183 </ingredient>
+    <ingredient num="1">1580 13278 2192 3690 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">1580 2605 13278 9767 3713 13278 9018 5981 </ingredient>
+    <ingredient num="4">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="5">3917 14014 13278 12282 </ingredient>
+    <ingredient num="6">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="7">6209 3878 6638 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>151.5</start_time>
+    <end_time>185.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">5209 5994 9737 7615 5895 5994 5779 1374 2696 13073 371 14183 13817 3690 13817 3345 210 5994 2597 7616 10242 1391 5994 2157 371 12051 </step>
+    <step num="1">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 1100 2694 8244 7632 13384 13817 597 8587 12473 1681 12119 </step>
+    <step num="2">12774 11951 9737 210 1066 13817 10707 1391 11951 11708 13817 6209 3878 1550 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 9737 7615 5895 5994 5779 1374 2696 13073 371 14183 13817 3690 13817 3345 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">10242 1391 5994 2157 371 12051 </steps_updated>
+    <steps_updated num="2">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 1100 2694 8244 7632 13384 13817 597 8587 </steps_updated>
+    <steps_updated num="3">12473 1681 12119 </steps_updated>
+    <steps_updated num="4">12774 11951 9737 210 1066 13817 10707 1391 11951 11708 13817 6209 3878 1550 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

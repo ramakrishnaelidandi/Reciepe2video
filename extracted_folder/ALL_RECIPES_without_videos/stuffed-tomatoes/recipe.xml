@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Stuffed Tomatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-tomatoes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; tomato </ingredient>
+    <ingredient num="1">2 tablespoons ; sausage, cooked </ingredient>
+    <ingredient num="2">1 ; egg </ingredient>
+    <ingredient num="3">shredded cheese, to taste </ingredient>
+    <ingredient num="4">olive oil, to taste </ingredient>
+    <ingredient num="5">black pepper, to taste </ingredient>
+    <ingredient num="6">fresh basil, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32030/low_1495125049.m3u8</low>
+    <high>https://vid.tasty.co/output/32030/mp4_720x1280/1495125049</high>
+  </video>
+  <steps>
+    <step num="0">Cut off the top of the tomato and remove the insides. Fill with cooked sausage, crack in an egg and added shredded cheese. </step>
+    <step num="1">Drizzle some olive oil over the top. Bake in oven at 425°F (218°C) for 15 - 20 minutes, depending on how well done you like your egg. </step>
+    <step num="2">Season with some pepper and garnish with basil. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut off the top of the tomato and remove the insides. </steps_updated>
+    <steps_updated num="1">Fill with cooked sausage, crack in an egg and added shredded cheese. </steps_updated>
+    <steps_updated num="2">Drizzle some olive oil over the top. </steps_updated>
+    <steps_updated num="3">Bake in oven at 425°F (218°C) for 15 - 20 minutes, depending on how well done you like your egg. </steps_updated>
+    <steps_updated num="4">Season with some pepper and garnish with basil. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

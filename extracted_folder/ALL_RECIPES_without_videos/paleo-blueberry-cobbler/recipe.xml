@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Paleo Blueberry Cobbler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/paleo-blueberry-cobbler</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/paleo-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; almond flour ; (100 g) </ingredient>
+    <ingredient num="1">½ cup ; sliced almond ; (35 g) </ingredient>
+    <ingredient num="2">¼ cup ; virgin coconut oil, melted ; (60 mL) </ingredient>
+    <ingredient num="3">2 tablespoons ; organic maple syrup, unprocessed </ingredient>
+    <ingredient num="4">½ teaspoon ; additive-free cinnamon </ingredient>
+    <ingredient num="5">1 pinch ; nutmeg </ingredient>
+    <ingredient num="6">1 pinch ; sea salt </ingredient>
+    <ingredient num="7">24 oz ; fresh blueberry ; (680 g) </ingredient>
+    <ingredient num="8">1 ; lemon, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Desserts</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35980/low_1498687381.m3u8</low>
+    <high>https://vid.tasty.co/output/35980/mp4_720x1280/1498687381</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 375˚F (190˚C). </step>
+    <step num="1">In a medium-size bowl, combine almond flour, sliced almonds, coconut oil, maple syrup, cinnamon, nutmeg, and salt. Set aside. </step>
+    <step num="2">Divide the blueberries evenly among ramekins. Squeeze the lemon juice over the blueberries. </step>
+    <step num="3">Sprinkle the almond mixture over the blueberries. </step>
+    <step num="4">Bake for 30-35 minutes, or until browned. </step>
+    <step num="5">Let cool before serving. </step>
+    <step num="6">Garnish to your liking. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="1">In a medium-size bowl, combine almond flour, sliced almonds, coconut oil, maple syrup, cinnamon, nutmeg, and salt. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">Divide the blueberries evenly among ramekins. </steps_updated>
+    <steps_updated num="4">Squeeze the lemon juice over the blueberries. </steps_updated>
+    <steps_updated num="5">Sprinkle the almond mixture over the blueberries. </steps_updated>
+    <steps_updated num="6">Bake for 30-35 minutes, or until browned. </steps_updated>
+    <steps_updated num="7">Let cool before serving. </steps_updated>
+    <steps_updated num="8">Garnish to your liking. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02972</start_time>
+    <end_time>03848</end_time>
+  </duration_human>
+</recipe>

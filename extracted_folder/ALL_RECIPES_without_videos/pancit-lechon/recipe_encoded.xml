@@ -1,0 +1,63 @@
+<recipe>
+  <title>Pancit Lechon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pancit-lechon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/filipino-style-pork-stir-fried-noodles-lechon-pancit-by-jeepney</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 4168 5766 </ingredient>
+    <ingredient num="1">8580 9486 13278 5234 14247 1404 7789 8580 9486 61 7990 4711 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">3917 14014 13278 12384 3962 </ingredient>
+    <ingredient num="4">12791 13289 13278 4587 3962 </ingredient>
+    <ingredient num="5">12791 13278 5425 3962 </ingredient>
+    <ingredient num="6">1580 2605 13278 4439 3333 13278 2264 5981 </ingredient>
+    <ingredient num="7">12791 2605 13278 13077 3962 13278 4239 5981 </ingredient>
+    <ingredient num="8">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="9">8580 9517 13278 4092 69 8084 210 10383 12282 7990 238 8927 13278 6898 5981 </ingredient>
+    <ingredient num="10">3917 2605 13278 5631 10361 13278 7503 8007 </ingredient>
+    <ingredient num="11">3917 8071 13278 82 </ingredient>
+    <ingredient num="12">1580 8071 13278 7845 </ingredient>
+    <ingredient num="13">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="14">12791 2605 13278 12019 3227 7990 4711 13278 13412 5981 </ingredient>
+    <ingredient num="15">8580 9486 13278 6209 11292 1088 516 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Lunch</category>
+    <category num="2">BBQ</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96516/hls24_1527723411.m3u8</low>
+    <high>https://vid.tasty.co/output/96516/landscape_720/1527723411</high>
+  </video>
+  <duration>
+    <start_time>160.0</start_time>
+    <end_time>247.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 7742 5895 6732 6326 7855 11951 5766 11770 8283 7855 1681 9833 </step>
+    <step num="1">9179 11951 3962 5234 930 13817 2550 1681 3365 6285 6865 12689 6054 6781 11951 10590 </step>
+    <step num="2">9179 11951 11384 560 11951 5687 13817 2550 1681 4721 7340 9801 11155 2854 6285 8580 12689 </step>
+    <step num="3">9179 11951 6334 13817 9347 7990 8580 11004 1681 6470 </step>
+    <step num="4">9179 11951 10848 13817 5425 13817 9347 7990 8580 8927 7191 1681 14371 </step>
+    <step num="5">9179 11951 4439 13077 13817 11691 7280 13817 9347 7990 6865 11004 1681 881 9490 7568 4341 </step>
+    <step num="6">9179 11951 13633 13817 5631 10545 13817 2550 1681 11951 881 7312 3977 6046 6865 12689 10242 1391 11951 12610 10986 13817 597 8587 6054 11951 5687 6781 11951 2082 </step>
+    <step num="7">12774 11951 13626 5631 210 9222 9808 1391 11951 885 5234 14247 3227 13817 7532 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 7742 5895 6732 6326 7855 11951 5766 11770 8283 7855 1681 9833 </steps_updated>
+    <steps_updated num="1">9179 11951 3962 5234 930 13817 2550 1681 3365 6285 6865 12689 </steps_updated>
+    <steps_updated num="2">6054 6781 11951 10590 </steps_updated>
+    <steps_updated num="3">9179 11951 11384 560 11951 5687 13817 2550 1681 4721 7340 9801 11155 2854 6285 8580 12689 </steps_updated>
+    <steps_updated num="4">9179 11951 6334 13817 9347 7990 8580 11004 1681 6470 </steps_updated>
+    <steps_updated num="5">9179 11951 10848 13817 5425 13817 9347 7990 8580 8927 7191 1681 14371 </steps_updated>
+    <steps_updated num="6">9179 11951 4439 13077 13817 11691 7280 13817 9347 7990 6865 11004 1681 881 9490 7568 4341 </steps_updated>
+    <steps_updated num="7">9179 11951 13633 13817 5631 10545 13817 2550 1681 11951 881 7312 3977 6046 6865 12689 </steps_updated>
+    <steps_updated num="8">10242 1391 11951 12610 10986 13817 597 8587 </steps_updated>
+    <steps_updated num="9">6054 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="10">12774 11951 13626 5631 210 9222 9808 1391 11951 885 5234 14247 3227 13817 7532 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

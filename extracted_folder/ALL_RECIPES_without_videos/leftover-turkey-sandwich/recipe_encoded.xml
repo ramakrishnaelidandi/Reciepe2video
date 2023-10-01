@@ -1,0 +1,51 @@
+<recipe>
+  <title>Leftover Turkey Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/leftover-turkey-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 13278 2597 4617 12384 11588 3962 </ingredient>
+    <ingredient num="1">8580 9486 13278 4617 13538 10769 </ingredient>
+    <ingredient num="2">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="3">4061 2031 13278 9260 5920 3247 </ingredient>
+    <ingredient num="4">11042 13510 12610 560 11567 </ingredient>
+    <ingredient num="5">13584 10986 560 11567 </ingredient>
+    <ingredient num="6">1813 2605 13278 8244 5766 13278 12158 8007 </ingredient>
+    <ingredient num="7">3917 14014 13278 6209 4564 11588 3962 </ingredient>
+    <ingredient num="8">12791 2605 13278 1484 13033 13278 13412 5981 </ingredient>
+    <ingredient num="9">3917 715 13278 4529 5846 3962 669 10894 10187 1645 13009 13278 4563 5981 </ingredient>
+    <ingredient num="10">6735 8535 13278 10847 14538 </ingredient>
+    <ingredient num="11">3917 2192 3173 13278 8779 1294 7334 2526 12691 2958 13817 796 </ingredient>
+    <ingredient num="12">6735 8535 13278 4747 3176 5895 4617 4465 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65763/hls24_1512429249.m3u8</low>
+    <high>https://vid.tasty.co/output/65763/landscape_720/1512429249</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 14511 6142 3626 11951 12384 4450 597 7654 13817 8580 2031 371 11951 2536 10242 1391 82 13817 7845 13817 817 10261 7990 13767 12689 </step>
+    <step num="1">2039 560 740 11951 8244 5766 7416 5569 8045 5693 5465 1681 11951 2373 9490 7835 9179 11951 3043 13817 6142 560 1011 </step>
+    <step num="2">12785 13086 9486 371 11951 6650 560 6646 13757 12377 13817 8341 11951 1484 13033 669 11951 374 10972 9179 11951 3962 13355 13817 10968 560 1011 </step>
+    <step num="3">11982 1686 11951 9227 2526 210 11951 8276 5342 </step>
+    <step num="4">2988 12645 8535 371 11951 4465 1391 1580 8071 6422 4593 </step>
+    <step num="5">877 11951 13355 8830 8554 12645 8535 13817 10707 1391 11951 976 13810 8074 9227 4052 13817 11951 374 4465 10832 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 6142 3626 11951 12384 4450 597 7654 13817 8580 2031 371 11951 2536 </steps_updated>
+    <steps_updated num="1">10242 1391 82 13817 7845 13817 817 10261 7990 13767 12689 </steps_updated>
+    <steps_updated num="2">2039 560 740 11951 8244 5766 7416 5569 8045 5693 5465 1681 11951 2373 9490 7835 </steps_updated>
+    <steps_updated num="3">9179 11951 3043 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="4">12785 13086 9486 371 11951 6650 560 6646 13757 12377 13817 8341 11951 1484 13033 669 11951 374 10972 </steps_updated>
+    <steps_updated num="5">9179 11951 3962 13355 13817 10968 560 1011 </steps_updated>
+    <steps_updated num="6">11982 1686 11951 9227 2526 210 11951 8276 5342 </steps_updated>
+    <steps_updated num="7">2988 12645 8535 371 11951 4465 1391 1580 8071 6422 4593 </steps_updated>
+    <steps_updated num="8">877 11951 13355 8830 8554 12645 8535 13817 10707 1391 11951 976 13810 8074 9227 4052 13817 11951 374 4465 10832 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

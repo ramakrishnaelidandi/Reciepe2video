@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>S'moreberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/s-moreberries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">strawberry </ingredient>
+    <ingredient num="1">marshmallow fluff </ingredient>
+    <ingredient num="2">chocolate syrup </ingredient>
+    <ingredient num="3">graham cracker crumbs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31977/low_1495125029.m3u8</low>
+    <high>https://vid.tasty.co/output/31977/mp4_720x1280/1495125029</high>
+  </video>
+  <steps>
+    <step num="0">Cut the tops off fresh strawberries. Crush graham crackers. </step>
+    <step num="1">Place strawberry on a skewer then dip in heated marshmallow fluff (or make your own by melting down a cup of marshmallows). </step>
+    <step num="2">Roast over a fire or grill. </step>
+    <step num="3">Top with chocolate syrup and graham cracker crumbles. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the tops off fresh strawberries. </steps_updated>
+    <steps_updated num="1">Crush graham crackers. </steps_updated>
+    <steps_updated num="2">Place strawberry on a skewer then dip in heated marshmallow fluff (or make your own by melting down a cup of marshmallows). </steps_updated>
+    <steps_updated num="3">Roast over a fire or grill. </steps_updated>
+    <steps_updated num="4">Top with chocolate syrup and graham cracker crumbles. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

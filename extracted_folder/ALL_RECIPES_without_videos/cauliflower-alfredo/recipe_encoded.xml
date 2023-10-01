@@ -1,0 +1,51 @@
+<recipe>
+  <title>Cauliflower Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 9517 13278 12282 13278 4845 1767 </ingredient>
+    <ingredient num="1">3917 3173 13278 10426 4772 </ingredient>
+    <ingredient num="2">3917 2605 13278 5802 13278 7503 8007 </ingredient>
+    <ingredient num="3">8580 9486 13278 9924 </ingredient>
+    <ingredient num="4">3917 2414 13278 11384 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">3917 8071 13278 7845 </ingredient>
+    <ingredient num="7">3917 715 13278 3745 950 13278 4563 5981 </ingredient>
+    <ingredient num="8">8597 109 13810 560 1966 </ingredient>
+    <ingredient num="9">6209 11911 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43955/low_1500416856.m3u8</low>
+    <high>https://vid.tasty.co/output/43955/mp4_720x1280/1500416856</high>
+  </video>
+  <steps>
+    <step num="0">9731 11951 12282 11770 13757 8283 2082 9179 5994 2597 2157 371 12051 </step>
+    <step num="1">9179 11951 10426 243 </step>
+    <step num="2">4660 11951 10083 13817 1002 7990 1106 11004 5895 1681 10426 9490 2021 </step>
+    <step num="3">10936 5994 6436 13908 740 11951 3745 10426 560 5994 12095 </step>
+    <step num="4">9179 11951 9889 10907 4155 12610 13817 7845 13817 1279 1681 12119 </step>
+    <step num="5">7643 11951 3745 950 1391 10426 5382 </step>
+    <step num="6">12774 10366 1391 11493 13817 13012 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9731 11951 12282 11770 13757 8283 2082 </steps_updated>
+    <steps_updated num="1">9179 5994 2597 2157 371 12051 </steps_updated>
+    <steps_updated num="2">9179 11951 10426 243 </steps_updated>
+    <steps_updated num="3">4660 11951 10083 13817 1002 7990 1106 11004 5895 1681 10426 9490 2021 </steps_updated>
+    <steps_updated num="4">10936 5994 6436 13908 740 11951 3745 10426 560 5994 12095 </steps_updated>
+    <steps_updated num="5">9179 11951 9889 10907 4155 12610 13817 7845 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="6">7643 11951 3745 950 1391 10426 5382 </steps_updated>
+    <steps_updated num="7">12774 10366 1391 11493 13817 13012 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

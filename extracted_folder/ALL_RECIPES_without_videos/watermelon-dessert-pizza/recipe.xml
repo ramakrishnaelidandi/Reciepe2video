@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Watermelon Dessert "Pizza" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-dessert-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; watermelon </ingredient>
+    <ingredient num="1">8 oz ; coconut cream, whipped ; (295 g) </ingredient>
+    <ingredient num="2">4 ; strawberries </ingredient>
+    <ingredient num="3">3 ; kiwis </ingredient>
+    <ingredient num="4">3 ; apricots </ingredient>
+    <ingredient num="5">blueberry </ingredient>
+    <ingredient num="6">coconut flakes </ingredient>
+    <ingredient num="7">granola </ingredient>
+    <ingredient num="8">fresh mint </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Brunch</category>
+    <category num="7">Desserts</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Snacks</category>
+    <category num="10">Casual Party</category>
+    <category num="11">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32502/low_1495241028.m3u8</low>
+    <high>https://vid.tasty.co/output/32502/mp4_720x1280/1495241028</high>
+  </video>
+  <steps>
+    <step num="0">Cut a ripe watermelon into round discs about 1-2 inches (2-5 cm) thick. </step>
+    <step num="1">Scoop the coconut cream into a bowl. Use a mixer to whip the cream until it reaches a soft consistency. </step>
+    <step num="2">Cut 3-4 strawberries into thin slices. Set aside. </step>
+    <step num="3">Peel and cut 2-3 kiwis into thin slices. Set aside. </step>
+    <step num="4">Remove pit and cut 2-3 apricot into thin slices. Set aside. </step>
+    <step num="5">Spread the mixed coconut cream around the top of the watermelon disc. </step>
+    <step num="6">Place the cut strawberries, kiwis and apricot slices on top of the coconut cream. </step>
+    <step num="7">Add in blueberries, coconut flakes and granola. </step>
+    <step num="8">Sprinkle a few sprigs of mint across the top the dessert. Slice and serve. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut a ripe watermelon into round discs about 1-2 inches (2-5 cm) thick. </steps_updated>
+    <steps_updated num="1">Scoop the coconut cream into a bowl. </steps_updated>
+    <steps_updated num="2">Use a mixer to whip the cream until it reaches a soft consistency. </steps_updated>
+    <steps_updated num="3">Cut 3-4 strawberries into thin slices. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">Peel and cut 2-3 kiwis into thin slices. </steps_updated>
+    <steps_updated num="6">Set aside. </steps_updated>
+    <steps_updated num="7">Remove pit and cut 2-3 apricot into thin slices. </steps_updated>
+    <steps_updated num="8">Set aside. </steps_updated>
+    <steps_updated num="9">Spread the mixed coconut cream around the top of the watermelon disc. </steps_updated>
+    <steps_updated num="10">Place the cut strawberries, kiwis and apricot slices on top of the coconut cream. </steps_updated>
+    <steps_updated num="11">Add in blueberries, coconut flakes and granola. </steps_updated>
+    <steps_updated num="12">Sprinkle a few sprigs of mint across the top the dessert. </steps_updated>
+    <steps_updated num="13">Slice and serve. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,59 @@
+<recipe>
+  <title>Jack O' Lantern Chips And Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jack-o-lantern-chips-and-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 10415 10844 13817 9185 </ingredient>
+    <ingredient num="1">3917 13278 7695 3701 </ingredient>
+    <ingredient num="2">8580 13278 3665 7042 341 </ingredient>
+    <ingredient num="3">12791 2605 13278 8083 12384 3962 13278 336 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 6209 6712 3962 13278 12237 5981 </ingredient>
+    <ingredient num="5">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="6">3917 8071 13278 82 </ingredient>
+    <ingredient num="7">12791 8071 13278 13389 11703 </ingredient>
+    <ingredient num="8">3917 14014 13278 9924 </ingredient>
+    <ingredient num="9">3917 2414 13278 536 6306 3962 </ingredient>
+    <ingredient num="10">8580 9517 13278 9784 14538 13278 6898 5981 </ingredient>
+    <ingredient num="11">8580 9517 13278 900 8572 14538 13278 6898 5981 </ingredient>
+    <ingredient num="12">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="13">3917 14014 13278 12367 </ingredient>
+    <ingredient num="14">4061 643 13278 2399 4985 13652 3917 9067 1391 10522 13278 12933 5981 </ingredient>
+    <ingredient num="15">3917 13278 980 3305 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12847/low_1477348741.m3u8</low>
+    <high>https://vid.tasty.co/output/12847/mp4_720x1280/1477348741</high>
+  </video>
+  <steps>
+    <step num="0">2715 11951 806 10641 6716 1391 11951 9712 8587 9179 11951 12886 371 11951 11907 13817 10968 13948 </step>
+    <step num="1">2715 11951 8010 10950 5994 10083 11770 13757 14307 6983 3917 1184 9924 13817 9347 8278 9179 13810 5802 13817 2089 13817 10968 1681 5335 13817 12119 9179 4985 24 13817 10968 1681 4309 </step>
+    <step num="2">14222 1340 7663 13817 1915 5994 13124 10984 4255 5994 2192 2161 5612 2696 11951 1864 13817 12634 5994 7616 1083 8407 210 11951 12377 13817 10707 1391 3962 8720 6877 11905 5649 2696 371 11951 9079 8512 12774 1391 4035 </step>
+    <step num="3">6877 11905 5649 2696 371 11951 9079 8512 12774 1391 4035 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2715 11951 806 10641 6716 1391 11951 9712 8587 </steps_updated>
+    <steps_updated num="1">9179 11951 12886 371 11951 11907 13817 10968 13948 </steps_updated>
+    <steps_updated num="2">2715 11951 8010 10950 5994 10083 11770 13757 14307 6983 3917 1184 </steps_updated>
+    <steps_updated num="3">9924 13817 9347 8278 </steps_updated>
+    <steps_updated num="4">9179 13810 5802 13817 2089 13817 10968 1681 5335 13817 12119 </steps_updated>
+    <steps_updated num="5">9179 4985 24 13817 10968 1681 4309 </steps_updated>
+    <steps_updated num="6">14222 1340 7663 13817 1915 5994 13124 10984 4255 5994 2192 2161 </steps_updated>
+    <steps_updated num="7">5612 2696 11951 1864 13817 12634 5994 7616 </steps_updated>
+    <steps_updated num="8">1083 8407 210 11951 12377 13817 10707 1391 3962 8720 </steps_updated>
+    <steps_updated num="9">6877 11905 5649 2696 371 11951 9079 8512 </steps_updated>
+    <steps_updated num="10">12774 1391 4035 </steps_updated>
+    <steps_updated num="11">6877 11905 5649 2696 371 11951 9079 8512 </steps_updated>
+    <steps_updated num="12">12774 1391 4035 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

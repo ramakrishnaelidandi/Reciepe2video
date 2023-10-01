@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Jammie Dodger French Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jammie-dodger-french-toast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; eggs </ingredient>
+    <ingredient num="1">1 ⅛ cups ; double cream ; (250 mL) </ingredient>
+    <ingredient num="2">1 teaspoon ; icing sugar </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">2 slices ; bread </ingredient>
+    <ingredient num="5">strawberry jam, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32225/low_1495125456.m3u8</low>
+    <high>https://vid.tasty.co/output/32225/mp4_720x1280/1495125456</high>
+  </video>
+  <steps>
+    <step num="0">Add the eggs, cream, icing sugar and vanilla extract to a bowl and whisk until smooth. </step>
+    <step num="1">Dip two slices of bread into the mix, soaking them thoroughly. </step>
+    <step num="2">Fry both slices until golden brown on both sides. </step>
+    <step num="3">Cut paper heart out of baking paper. </step>
+    <step num="4">Place paper heart on one slice of bread and cut a heart shaped hole into the bread using the paper as a guide. </step>
+    <step num="5">Spread jam on the other slice of bread, then place the bread with the heart on top of this slice. </step>
+    <step num="6">Place the paper heart back over the hole, and sprinkle with icing sugar. Then remove the paper heart. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the eggs, cream, icing sugar and vanilla extract to a bowl and whisk until smooth. </steps_updated>
+    <steps_updated num="1">Dip two slices of bread into the mix, soaking them thoroughly. </steps_updated>
+    <steps_updated num="2">Fry both slices until golden brown on both sides. </steps_updated>
+    <steps_updated num="3">Cut paper heart out of baking paper. </steps_updated>
+    <steps_updated num="4">Place paper heart on one slice of bread and cut a heart shaped hole into the bread using the paper as a guide. </steps_updated>
+    <steps_updated num="5">Spread jam on the other slice of bread, then place the bread with the heart on top of this slice. </steps_updated>
+    <steps_updated num="6">Place the paper heart back over the hole, and sprinkle with icing sugar. </steps_updated>
+    <steps_updated num="7">Then remove the paper heart. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

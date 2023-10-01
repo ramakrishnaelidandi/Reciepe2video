@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Oat Milk Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/oat-milk</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; rolled oats ; (100 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">1 teaspoon ; vanilla extract, optional </ingredient>
+    <ingredient num="3">2 ; dates, pitted, optional </ingredient>
+    <ingredient num="4">4 cups ; water ; (1 L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Breakfast</category>
+    <category num="7">Brunch</category>
+    <category num="8">Drinks</category>
+    <category num="9">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/86635/hls24_1522080673.m3u8</low>
+    <high>https://vid.tasty.co/output/86635/landscape_720/1522080673</high>
+  </video>
+  <steps>
+    <step num="0">Place the rolled oats in a blender. </step>
+    <step num="1">Add salt to taste. For sweetness, add the vanilla extract and/or the pitted dates, if you’d like. </step>
+    <step num="2">Add the water and blend on high for 1 minute. </step>
+    <step num="3">Double strain the liquid into a medium-sized container using a cheesecloth-lined strainer. </step>
+    <step num="4">Serve immediately or refrigerate in a sealed container for up to 3 days. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the rolled oats in a blender. </steps_updated>
+    <steps_updated num="1">Add salt to taste. </steps_updated>
+    <steps_updated num="2">For sweetness, add the vanilla extract and/or the pitted dates, if you’d like. </steps_updated>
+    <steps_updated num="3">Add the water and blend on high for 1 minute. </steps_updated>
+    <steps_updated num="4">Double strain the liquid into a medium-sized container using a cheesecloth-lined strainer. </steps_updated>
+    <steps_updated num="5">Serve immediately or refrigerate in a sealed container for up to 3 days. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

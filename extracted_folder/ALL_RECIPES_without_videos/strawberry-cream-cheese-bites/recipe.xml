@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Cream Cheese Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-cream-cheese-bites</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-carb-keto-friendly-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; strawberry, diced ; (150 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="2">¼ cup ; coconut oil ; (50 g) </ingredient>
+    <ingredient num="3">¾ cup ; cream cheese, softened ; (170 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82158/hls24_1520020061.m3u8</low>
+    <high>https://vid.tasty.co/output/82158/landscape_720/1520020061</high>
+  </video>
+  <duration>
+    <start_time>37.333</start_time>
+    <end_time>75.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the strawberries in a blender and blend until pureed. </step>
+    <step num="1">Add the vanilla extract, coconut oil, and softened cream cheese, and blend until the texture is silky smooth. </step>
+    <step num="2">Line a 12-cup muffin with liners (we used silicone liners) or grease with coconut oil. Divide the mixture between the cups. </step>
+    <step num="3">Freeze for 2 hours or until solid. </step>
+    <step num="4">Store in the freezer. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the strawberries in a blender and blend until pureed. </steps_updated>
+    <steps_updated num="1">Add the vanilla extract, coconut oil, and softened cream cheese, and blend until the texture is silky smooth. </steps_updated>
+    <steps_updated num="2">Line a 12-cup muffin with liners (we used silicone liners) or grease with coconut oil. </steps_updated>
+    <steps_updated num="3">Divide the mixture between the cups. </steps_updated>
+    <steps_updated num="4">Freeze for 2 hours or until solid. </steps_updated>
+    <steps_updated num="5">Store in the freezer. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00934</start_time>
+    <end_time>01825</end_time>
+  </duration_human>
+</recipe>

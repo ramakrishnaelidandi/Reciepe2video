@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roasted Eggplant Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-eggplant-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; medium eggplants </ingredient>
+    <ingredient num="1">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="2">sea salt, to taste </ingredient>
+    <ingredient num="3">½ teaspoon ; freshly ground pepper, plus more to taste </ingredient>
+    <ingredient num="4">¼ cup ; coconut oil ; (60 mL) </ingredient>
+    <ingredient num="5">½ ; medium white onion, chopped </ingredient>
+    <ingredient num="6">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="7">2 teaspoons ; ground cardamom </ingredient>
+    <ingredient num="8">1 teaspoon ; smoked paprika </ingredient>
+    <ingredient num="9">1 teaspoon ; ground coriander </ingredient>
+    <ingredient num="10">1 tablespoon ; ground turmeric </ingredient>
+    <ingredient num="11">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="12">1 teaspoon ; ginger, peeled and minced </ingredient>
+    <ingredient num="13">3 ; roma tomatoes, Ripe, Diced, Medium size </ingredient>
+    <ingredient num="14">15 oz ; coconut milk ; (425 mL) </ingredient>
+    <ingredient num="15">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="16">cooked rice, for serving </ingredient>
+    <ingredient num="17">fresh cilantro, chopped, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101330/hls24_1531154611.m3u8</low>
+    <high>https://vid.tasty.co/output/101330/landscape_720/1531154611</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400ºF (200ºC). </step>
+    <step num="1">Slice the tops off the eggplants, then slice them in half lengthwise. Cut each half once more lengthwise. Lay the slices on their flat sides and cut lengthwise into thirds. Finally, slice horizontally to form cubes. </step>
+    <step num="2">Transfer to a baking sheet, drizzle with the olive oil, salt, and pepper. Bake for 25 minutes, stirring halfway through, until golden brown. </step>
+    <step num="3">In a large saucepan, heat the coconut oil over high hat. Add the onions, stir for 1 minute, then reduce the heat to medium-low and cook, stirring occasionally, until the onions are golden brown, about 8 minutes. </step>
+    <step num="4">Stir in the chili powder, cardamom, and smoked paprika. Cook until fragrant, about 1 minute. </step>
+    <step num="5">Stir in the ground coriander, ½ teaspoon of black pepper, turmeric, garlic, and ginger. Cook for a few minutes more, stirring constantly. </step>
+    <step num="6">Add the chopped tomatoes, coconut milk, water, and the roasted eggplant. </step>
+    <step num="7">Bring the curry to a simmer, then reduce to low heat, cover, and simmer for 25 minutes. The sauce should reduce and thicken slightly. </step>
+    <step num="8">Serve the curry warm over rice, topped with chopped cilantro. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">Slice the tops off the eggplants, then slice them in half lengthwise. </steps_updated>
+    <steps_updated num="2">Cut each half once more lengthwise. </steps_updated>
+    <steps_updated num="3">Lay the slices on their flat sides and cut lengthwise into thirds. </steps_updated>
+    <steps_updated num="4">Finally, slice horizontally to form cubes. </steps_updated>
+    <steps_updated num="5">Transfer to a baking sheet, drizzle with the olive oil, salt, and pepper. </steps_updated>
+    <steps_updated num="6">Bake for 25 minutes, stirring halfway through, until golden brown. </steps_updated>
+    <steps_updated num="7">In a large saucepan, heat the coconut oil over high hat. </steps_updated>
+    <steps_updated num="8">Add the onions, stir for 1 minute, then reduce the heat to medium-low and cook, stirring occasionally, until the onions are golden brown, about 8 minutes. </steps_updated>
+    <steps_updated num="9">Stir in the chili powder, cardamom, and smoked paprika. </steps_updated>
+    <steps_updated num="10">Cook until fragrant, about 1 minute </steps_updated>
+    <steps_updated num="11">Stir in the ground coriander, ½ teaspoon of black pepper, turmeric, garlic, and ginger. </steps_updated>
+    <steps_updated num="12">Cook for a few minutes more, stirring constantly. </steps_updated>
+    <steps_updated num="13">Add the chopped tomatoes, coconut milk, water, and the roasted eggplant. </steps_updated>
+    <steps_updated num="14">Bring the curry to a simmer, then reduce to low heat, cover, and simmer for 25 minutes. </steps_updated>
+    <steps_updated num="15">The sauce should reduce and thicken slightly. </steps_updated>
+    <steps_updated num="16">Serve the curry warm over rice, topped with chopped cilantro. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

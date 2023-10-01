@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fresh Fruit Sushi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-fruit-sushi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; short grain rice ; (300 g) </ingredient>
+    <ingredient num="1">2 cups ; water ; (470 mL) </ingredient>
+    <ingredient num="2">3 tablespoons ; sugar </ingredient>
+    <ingredient num="3">¼ teaspoon ; salt </ingredient>
+    <ingredient num="4">1 cup ; coconut milk ; (235 mL) </ingredient>
+    <ingredient num="5">1 ½ teaspoons ; vanilla </ingredient>
+    <ingredient num="6">pineapple </ingredient>
+    <ingredient num="7">strawberry </ingredient>
+    <ingredient num="8">mango </ingredient>
+    <ingredient num="9">kiwi </ingredient>
+    <ingredient num="10">blackberry </ingredient>
+    <ingredient num="11">raspberry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32256/low_1495125542.m3u8</low>
+    <high>https://vid.tasty.co/output/32256/mp4_720x1280/1495125542</high>
+  </video>
+  <steps>
+    <step num="0">In a medium pot combine the rice, water, sugar and salt. Cook on low heat for about 20 minutes or until all the rice absorbs the water. </step>
+    <step num="1">Add the coconut milk and vanilla. The mixture should be moldable. Cook a few minutes longer if it’s too runny. </step>
+    <step num="2">Slice fruit of choice into long pieces. </step>
+    <step num="3">*Note: Use a potato peeler to shave thin slices off the mango. </step>
+    <step num="4">Lay a bamboo rolling pad on a counter top, and place a square of wax paper over top. Spread the rice about ½ inch (1 cm) thick over the paper into approximately a 7x5 inch (17x12 cm) rectangle. </step>
+    <step num="5">Toast a ¼ cup (25g) of coconut shreds for 3 minutes. </step>
+    <step num="6">Lay the fruit pieces on the rice, and roll up carefully. If rice sticks to the paper too much, try spreading it a little thicker. </step>
+    <step num="7">Coat the rolls with either the mango slices, or the toasted coconut. </step>
+    <step num="8">Slice each roll into 6 pieces. </step>
+    <step num="9">With the rest of the rice, roll into balls (like nigiri). </step>
+    <step num="10">Place thin slices of kiki or strawberries over top with half a blackberry on top to look like fish eggs. </step>
+    <step num="11">Blend ¼ cup (25 g) raspberries with ¼ cup (60 ml) water to make a dipping sauce. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium pot combine the rice, water, sugar and salt. </steps_updated>
+    <steps_updated num="1">Cook on low heat for about 20 minutes or until all the rice absorbs the water. </steps_updated>
+    <steps_updated num="2">Add the coconut milk and vanilla. </steps_updated>
+    <steps_updated num="3">The mixture should be moldable. </steps_updated>
+    <steps_updated num="4">Cook a few minutes longer if it’s too runny. </steps_updated>
+    <steps_updated num="5">Slice fruit of choice into long pieces. </steps_updated>
+    <steps_updated num="6">*Note: Use a potato peeler to shave thin slices off the mango. </steps_updated>
+    <steps_updated num="7">Lay a bamboo rolling pad on a counter top, and place a square of wax paper over top. </steps_updated>
+    <steps_updated num="8">Spread the rice about ½ inch (1 cm) thick over the paper into approximately a 7x5 inch (17x12 cm) rectangle. </steps_updated>
+    <steps_updated num="9">Toast a ¼ cup (25g) of coconut shreds for 3 minutes. </steps_updated>
+    <steps_updated num="10">Lay the fruit pieces on the rice, and roll up carefully. </steps_updated>
+    <steps_updated num="11">If rice sticks to the paper too much, try spreading it a little thicker. </steps_updated>
+    <steps_updated num="12">Coat the rolls with either the mango slices, or the toasted coconut. </steps_updated>
+    <steps_updated num="13">Slice each roll into 6 pieces. </steps_updated>
+    <steps_updated num="14">With the rest of the rice, roll into balls (like nigiri). </steps_updated>
+    <steps_updated num="15">Place thin slices of kiki or strawberries over top with half a blackberry on top to look like fish eggs. </steps_updated>
+    <steps_updated num="16">Blend ¼ cup (25 g) raspberries with ¼ cup (60 ml) water to make a dipping sauce. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

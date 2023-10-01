@@ -1,0 +1,56 @@
+<recipe>
+  <title>Southwestern Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-mason-jar-salads-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 13278 4485 </ingredient>
+    <ingredient num="1">3917 13278 7695 3701 </ingredient>
+    <ingredient num="2">8580 13667 13278 11384 </ingredient>
+    <ingredient num="3">1580 8071 13278 82 </ingredient>
+    <ingredient num="4">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="5">1580 13278 4985 1466 10986 3962 </ingredient>
+    <ingredient num="6">1580 2605 13278 3183 13278 7005 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 8602 9491 10844 13278 11953 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 954 3745 13278 336 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 13584 6143 13278 7005 5981 </ingredient>
+    <ingredient num="10">3917 2605 13278 13220 13278 336 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82490/hls24_1520285439.m3u8</low>
+    <high>https://vid.tasty.co/output/82490/landscape_720/1520285439</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>26.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 8016 5349 4120 11951 468 9712 7654 4155 12610 13817 2019 5797 1681 4376 415 10231 560 5994 2597 9190 13531 </step>
+    <step num="1">9179 11951 1466 10986 12655 8602 7042 954 13584 13829 13817 13220 13817 3955 4255 11951 2445 </step>
+    <step num="2">10434 210 11951 7111 1681 12550 560 1471 3386 560 2933 2497 </step>
+    <step num="3">4676 11951 9190 7051 5994 12496 7934 560 10968 13817 11003 5994 1514 5895 1798 560 6142 2658 10428 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8016 5349 4120 11951 468 9712 7654 4155 12610 13817 2019 </steps_updated>
+    <steps_updated num="1">5797 1681 4376 415 10231 560 5994 2597 9190 13531 </steps_updated>
+    <steps_updated num="2">9179 11951 1466 10986 12655 8602 7042 954 13584 13829 13817 13220 13817 3955 4255 11951 2445 </steps_updated>
+    <steps_updated num="3">10434 210 11951 7111 1681 12550 560 1471 3386 560 2933 2497 </steps_updated>
+    <steps_updated num="4">4676 11951 9190 7051 5994 12496 7934 560 10968 13817 11003 5994 1514 5895 1798 560 6142 2658 10428 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00020</start_time>
+    <end_time>00686</end_time>
+  </duration_human>
+</recipe>

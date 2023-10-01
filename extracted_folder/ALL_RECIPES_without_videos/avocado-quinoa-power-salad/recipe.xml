@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Quinoa Power Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-quinoa-power-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">1 cup ; quinoa, rinsed ; (170 g) </ingredient>
+    <ingredient num="3">2 cups ; fresh spinach, roughly chopped ; (80 g) </ingredient>
+    <ingredient num="4">1 ; large cucumber, diced </ingredient>
+    <ingredient num="5">4 ; roma tomatoes, diced </ingredient>
+    <ingredient num="6">2 ; ripe avocados, pits removed and diced </ingredient>
+    <ingredient num="7">1 ; lemon, juiced </ingredient>
+    <ingredient num="8">4 tablespoons ; extra virgin olive oil </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/95714/hls24_1527181970.m3u8</low>
+    <high>https://vid.tasty.co/output/95714/landscape_720/1527181970</high>
+  </video>
+  <steps>
+    <step num="0">In a small saucepan, bring the water and a pinch of salt to a boil. Add the quinoa, cover, and simmer for 15 minutes, or until the water is absorbed. Transfer to a medium bowl to cool to room temperature, then fluff the quinoa. </step>
+    <step num="1">Refrigerate the quinoa for 20 minutes. </step>
+    <step num="2">Add the spinach, cucumber, tomatoes, and avocado to the bowl of quinoa and mix to combine. </step>
+    <step num="3">Add the lemon juice, olive oil, salt, and pepper, and mix well. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan, bring the water and a pinch of salt to a boil. </steps_updated>
+    <steps_updated num="1">Add the quinoa, cover, and simmer for 15 minutes, or until the water is absorbed. </steps_updated>
+    <steps_updated num="2">Transfer to a medium bowl to cool to room temperature, then fluff the quinoa. </steps_updated>
+    <steps_updated num="3">Refrigerate the quinoa for 20 minutes. </steps_updated>
+    <steps_updated num="4">Add the spinach, cucumber, tomatoes, and avocado to the bowl of quinoa and mix to combine. </steps_updated>
+    <steps_updated num="5">Add the lemon juice, olive oil, salt, and pepper, and mix well. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

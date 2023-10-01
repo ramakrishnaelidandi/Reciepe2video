@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pack-And-Go Frittata Sandwiches Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pack-and-go-frittata-sandwiches</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">8 ; eggs </ingredient>
+    <ingredient num="2">¼ cup ; whole milk ; (60 mL) </ingredient>
+    <ingredient num="3">2 tablespoons ; chives, finely chopped </ingredient>
+    <ingredient num="4">fine sea salt, to taste </ingredient>
+    <ingredient num="5">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="6">english muffin, halved lengthwise </ingredient>
+    <ingredient num="7">cheddar cheese, sliced, to serve </ingredient>
+    <ingredient num="8">mustard, to serve </ingredient>
+    <ingredient num="9">roasted red pepper, sliced, to serve </ingredient>
+    <ingredient num="10">fresh arugula, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76289/hls24_1517533886.m3u8</low>
+    <high>https://vid.tasty.co/output/76289/landscape_720/1517533886</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180˚C). </step>
+    <step num="1">Brush a 9x9-inch (23x23-cm) baking dish with the olive oil. </step>
+    <step num="2">In a medium bowl, whisk together the eggs, milk, and chives. Season with salt and pepper. </step>
+    <step num="3">Add the egg mixture to the baking dish and bake until just set in the middle, 15-20 minutes. Cut into 9 squares. </step>
+    <step num="4">For kids, layer one slice of cheese on top of one of the English muffin halves. Top with a frittata square. Spread the remaining English muffin half with mustard, and sandwich together. </step>
+    <step num="5">For adults, layer one slice of cheese on top of one of the English muffin halves. Top with a frittata square, roasted red pepper slices, and arugula. Spread the remaining English muffin half with mustard, and sandwich together. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180˚C). </steps_updated>
+    <steps_updated num="1">Brush a 9x9-inch (23x23-cm) baking dish with the olive oil. </steps_updated>
+    <steps_updated num="2">In a medium bowl, whisk together the eggs, milk, and chives. </steps_updated>
+    <steps_updated num="3">Season with salt and pepper. </steps_updated>
+    <steps_updated num="4">Add the egg mixture to the baking dish and bake until just set in the middle, 15-20 minutes. </steps_updated>
+    <steps_updated num="5">Cut into 9 squares. </steps_updated>
+    <steps_updated num="6">For kids, layer one slice of cheese on top of one of the English muffin halves. </steps_updated>
+    <steps_updated num="7">Top with a frittata square. </steps_updated>
+    <steps_updated num="8">Spread the remaining English muffin half with mustard, and sandwich together. </steps_updated>
+    <steps_updated num="9">For adults, layer one slice of cheese on top of one of the English muffin halves. </steps_updated>
+    <steps_updated num="10">Top with a frittata square, roasted red pepper slices, and arugula. </steps_updated>
+    <steps_updated num="11">Spread the remaining English muffin half with mustard, and sandwich together. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

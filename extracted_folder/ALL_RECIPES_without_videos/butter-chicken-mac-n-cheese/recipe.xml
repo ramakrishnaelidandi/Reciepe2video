@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Butter Chicken Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/butter-chicken-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; butter </ingredient>
+    <ingredient num="1">2 ¼ cups ; chicken, chopped ; (300 g) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 ; onion, chopped </ingredient>
+    <ingredient num="5">1 tablespoon ; plain flour </ingredient>
+    <ingredient num="6">1 ¼ cups ; milk ; (300 mL) </ingredient>
+    <ingredient num="7">¼ cup ; butter chicken sauce ; (50 g) </ingredient>
+    <ingredient num="8">2 ¼ cups ; mozzarella cheese ; (250 g) </ingredient>
+    <ingredient num="9">2 ½ cups ; cheddar cheese ; (250 g) </ingredient>
+    <ingredient num="10">1 cup ; elbow pasta, cooked ; (200 g) </ingredient>
+    <ingredient num="11">1 cup ; mozzarella cheese, grafted ; (100 g) </ingredient>
+    <ingredient num="12">fresh coriander, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30004/low_1493138579.m3u8</low>
+    <high>https://vid.tasty.co/output/30004/mp4_720x1280/1493138579</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 180°C (350°F). </step>
+    <step num="1">Melt the butter in a large skillet over medium high heat until melted. </step>
+    <step num="2">Add the chicken, salt, and pepper. Fry for about 5-8 minutes or until cooked through. Take out and set aside. </step>
+    <step num="3">Add the onion and fry for 2 minutes. </step>
+    <step num="4">Stir in the flour. </step>
+    <step num="5">Gradually whisk in the milk. </step>
+    <step num="6">Whisk in the butter chicken sauce. </step>
+    <step num="7">Whisk in the mozzarella and cheddar cheese. </step>
+    <step num="8">Once the cheese has melted into the mixture, stir in the chicken and elbow pasta. </step>
+    <step num="9">Sprinkle on some more cheese on top. </step>
+    <step num="10">Bake in the oven for 15 minutes, until the cheese is brown and bubbling on top. </step>
+    <step num="11">Garnish with coriander. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="1">Melt the butter in a large skillet over medium high heat until melted. </steps_updated>
+    <steps_updated num="2">Add the chicken, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Fry for about 5-8 minutes or until cooked through. </steps_updated>
+    <steps_updated num="4">Take out and set aside. </steps_updated>
+    <steps_updated num="5">Add the onion and fry for 2 minutes. </steps_updated>
+    <steps_updated num="6">Stir in the flour. </steps_updated>
+    <steps_updated num="7">Gradually whisk in the milk. </steps_updated>
+    <steps_updated num="8">Whisk in the butter chicken sauce. </steps_updated>
+    <steps_updated num="9">Whisk in the mozzarella and cheddar cheese. </steps_updated>
+    <steps_updated num="10">Once the cheese has melted into the mixture, stir in the chicken and elbow pasta. </steps_updated>
+    <steps_updated num="11">Sprinkle on some more cheese on top. </steps_updated>
+    <steps_updated num="12">Bake in the oven for 15 minutes, until the cheese is brown and bubbling on top. </steps_updated>
+    <steps_updated num="13">Garnish with coriander. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

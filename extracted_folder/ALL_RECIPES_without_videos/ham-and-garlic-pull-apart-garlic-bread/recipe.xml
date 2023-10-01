@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ham And Cheese Pull Apart Garlic Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ham-and-garlic-pull-apart-garlic-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">24 oz ; pizza dough ; (680 g) </ingredient>
+    <ingredient num="1">1 cup ; butter, softened ; (230 g) </ingredient>
+    <ingredient num="2">6 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">6 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">3 cups ; shredded mozzarella cheese ; (300 g) </ingredient>
+    <ingredient num="6">3 cups ; shredded cheddar cheese ; (300 g) </ingredient>
+    <ingredient num="7">10 slices ; deli ham, halved </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68148/hls24_1513289353.m3u8</low>
+    <high>https://vid.tasty.co/output/68148/landscape_720/1513289353</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Roll out pizza dough into an 18x10-inch (45x25-cm) rectangle. </step>
+    <step num="2">In a bowl, combine butter, garlic, parsley, and salt. Use a spatula to spread an even layer of the mixture over the dough. </step>
+    <step num="3">Sprinkle a generous handful of mozzarella and cheddar cheese in a square checkerboard pattern across the dough, making 20 squares. </step>
+    <step num="4">Place a piece of ham over each section of cheese. </step>
+    <step num="5">Cut the dough into 20 evenly sized squares and stack four on top of each other, alternating cheeses as you go. There will be five stacks of four. </step>
+    <step num="6">Place stacks in an 8½x4½-inch (21x11-cm) bread pan. </step>
+    <step num="7">Bake for 35 minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Roll out pizza dough into an 18x10-inch (45x25-cm) rectangle. </steps_updated>
+    <steps_updated num="2">In a bowl, combine butter, garlic, parsley, and salt. </steps_updated>
+    <steps_updated num="3">Use a spatula to spread an even layer of the mixture over the dough. </steps_updated>
+    <steps_updated num="4">Sprinkle a generous handful of mozzarella and cheddar cheese in a square checkerboard pattern across the dough, making 20 squares. </steps_updated>
+    <steps_updated num="5">Place a piece of ham over each section of cheese. </steps_updated>
+    <steps_updated num="6">Cut the dough into 20 evenly sized squares and stack four on top of each other, alternating cheeses as you go. </steps_updated>
+    <steps_updated num="7">There will be five stacks of four. </steps_updated>
+    <steps_updated num="8">Place stacks in an 8½x4½-inch (21x11-cm) bread pan. </steps_updated>
+    <steps_updated num="9">Bake for 35 minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

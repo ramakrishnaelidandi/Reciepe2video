@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Keto-Friendly Lasagna Dome</title>
+  <url>https://tasty.co/recipe/keto-friendly-lasagne-dome</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/keto-friendly-lasagne-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 cup ; carrot, grated ; (110 g) </ingredient>
+    <ingredient num="2">1 ; medium yellow onion, diced </ingredient>
+    <ingredient num="3">2 lb ; ground beef ; (905 g) </ingredient>
+    <ingredient num="4">1 ½ teaspoons ; dried oregano </ingredient>
+    <ingredient num="5">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="6">black pepper, to taste </ingredient>
+    <ingredient num="7">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">½ cup ; dry red wine ; (120 mL) </ingredient>
+    <ingredient num="9">28 oz ; crushed tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="10">½ cup ; fresh basil, chopped ; (20 g) </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">1 large head ; savoy cabbage, eaves separated and stems trimmed </ingredient>
+    <ingredient num="13">1 ; egg, beaten </ingredient>
+    <ingredient num="14">2 cups ; whole milk ricotta cheese ; (500 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114655/hls24_1541633214.m3u8</low>
+    <high>https://vid.tasty.co/output/114655/landscape_720/1541633214</high>
+  </video>
+  <duration>
+    <start_time>2.6660000000000004</start_time>
+    <end_time>128.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 375°F (190°C). </step>
+    <step num="1">Heat the olive oil in a large pan over medium heat. Add the carrot and onion, and cook until the vegetables have softened slightly, 8-10 minutes. </step>
+    <step num="2">Add the beef and season with the oregano, red pepper flakes, and pepper. Use a wooden spoon to break the beef into smaller pieces, and cook until browned, about 10 minutes. </step>
+    <step num="3">Add the garlic and cook until fragrant, 2-3 minutes. </step>
+    <step num="4">Deglaze the pan with red wine, scraping up any browned bits from the bottom of pan. </step>
+    <step num="5">Once the wine has reduced by half, stir in the crushed tomatoes. Cook until sauce has thickened, stirring frequently, about 10 minutes. </step>
+    <step num="6">Stir in the basil, then remove the sauce from the heat and let cool. </step>
+    <step num="7">Bring a large pot of salted water to a boil. Working in batches, add the cabbage leaves, using tongs to submerge them in the water. Cook until the leaves have softened and are flexible, 1-2 minutes. Drain well and pat dry with a paper towels. </step>
+    <step num="8">Stir the egg into the cooled meat sauce. </step>
+    <step num="9">Place the largest cabbage leaf on the bottom of a 9-inch (23-cm) round baking dish. Line the exposed sides and bottom of the pan with more cabbage leaves. </step>
+    <step num="10">Spoon in ¼ of the meat sauce, spreading evenly. Dollop ¼ of the ricotta on top of the sauce. Cover with cabbage leaves. Repeat with the remaining sauce, ricotta, and cabbage to make 3 more layers. </step>
+    <step num="11">Fold any overhanging cabbage leaves toward the center of the pan. </step>
+    <step num="12">Bake on the middle rack of the oven for 1 hour, until lightly browned on top. Let cool for 20 minutes. </step>
+    <step num="13">To serve, place a serving plate over the baking dish and invert the chou farci onto the plate. Remove the pan, then slice into wedges and serve. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Heat the olive oil in a large pan over medium heat. </steps_updated>
+    <steps_updated num="2">Add the carrot and onion, and cook until the vegetables have softened slightly, 8-10 minutes. </steps_updated>
+    <steps_updated num="3">Add the beef and season with the oregano, red pepper flakes, and pepper. </steps_updated>
+    <steps_updated num="4">Use a wooden spoon to break the beef into smaller pieces, and cook until browned, about 10 minutes. </steps_updated>
+    <steps_updated num="5">Add the garlic and cook until fragrant, 2-3 minutes. </steps_updated>
+    <steps_updated num="6">Deglaze the pan with red wine, scraping up any browned bits from the bottom of pan. </steps_updated>
+    <steps_updated num="7">Once the wine has reduced by half, stir in the crushed tomatoes. </steps_updated>
+    <steps_updated num="8">Cook until sauce has thickened, stirring frequently, about 10 minutes. </steps_updated>
+    <steps_updated num="9">Stir in the basil, then remove the sauce from the heat and let cool. </steps_updated>
+    <steps_updated num="10">Bring a large pot of salted water to a boil. </steps_updated>
+    <steps_updated num="11">Working in batches, add the cabbage leaves, using tongs to submerge them in the water. </steps_updated>
+    <steps_updated num="12">Cook until the leaves have softened and are flexible, 1-2 minutes. </steps_updated>
+    <steps_updated num="13">Drain well and pat dry with a paper towels. </steps_updated>
+    <steps_updated num="14">Stir the egg into the cooled meat sauce. </steps_updated>
+    <steps_updated num="15">Place the largest cabbage leaf on the bottom of a 9-inch (23-cm) round baking dish. </steps_updated>
+    <steps_updated num="16">Line the exposed sides and bottom of the pan with more cabbage leaves. </steps_updated>
+    <steps_updated num="17">Spoon in ¼ of the meat sauce, spreading evenly. </steps_updated>
+    <steps_updated num="18">Dollop ¼ of the ricotta on top of the sauce. </steps_updated>
+    <steps_updated num="19">Cover with cabbage leaves. </steps_updated>
+    <steps_updated num="20">Repeat with the remaining sauce, ricotta, and cabbage to make 3 more layers. </steps_updated>
+    <steps_updated num="21">Fold any overhanging cabbage leaves toward the center of the pan. </steps_updated>
+    <steps_updated num="22">Bake on the middle rack of the oven for 1 hour, until lightly browned on top. </steps_updated>
+    <steps_updated num="23">Let cool for 20 minutes. </steps_updated>
+    <steps_updated num="24">To serve, place a serving plate over the baking dish and invert the chou farci onto the plate. </steps_updated>
+    <steps_updated num="25">Remove the pan, then slice into wedges and serve. </steps_updated>
+    <steps_updated num="26">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

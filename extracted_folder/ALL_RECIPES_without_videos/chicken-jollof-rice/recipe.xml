@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Jollof Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-jollof-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; medium tomatoes, sliced </ingredient>
+    <ingredient num="1">1 ; red bell pepper, stemmed, seeded and quartered </ingredient>
+    <ingredient num="2">2 ; small red onions, 1 quartered, 1 diced </ingredient>
+    <ingredient num="3">1 ; scotch bonnet pepper, or habanero, stem removed </ingredient>
+    <ingredient num="4">½ cup ; vegetable oil, plus 2 tablespoons ; (120 mL) </ingredient>
+    <ingredient num="5">1 lb ; boneless chicken thighs, cubed ; (450 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; curry powder </ingredient>
+    <ingredient num="7">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="8">2 cups ; parboiled long grain rice, washed ; (400 g) </ingredient>
+    <ingredient num="9">2 ; stock cubes </ingredient>
+    <ingredient num="10">¾ cup ; water ; (150 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45755/low_1501620681.m3u8</low>
+    <high>https://vid.tasty.co/output/45755/mp4_720x1280/1501620681</high>
+  </video>
+  <steps>
+    <step num="0">Add the tomatoes, red bell pepper, quartered onion, and pepper to a blender and blend until smooth. </step>
+    <step num="1">In a pot over medium heat, add 2 tablespoons oil, diced red onion, chicken, and curry powder. Cook until onions are soft and chicken has browned, about 8-10 minutes. Remove chicken from pot and set aside. </step>
+    <step num="2">Raise heat to medium-high, and using the same pot, add pureed tomato mixture, cooking until reduced by half. </step>
+    <step num="3">Add in remaining oil, and fry sauce for 8-10 minutes. </step>
+    <step num="4">Stir in chicken, along with rice, stock and thyme leaves. </step>
+    <step num="5">Cover pot tightly with foil. Cover with lid and reduce heat to low, cooking for 30 minutes. </step>
+    <step num="6">Once rice is cooked, fluff up before serving. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the tomatoes, red bell pepper, quartered onion, and pepper to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">In a pot over medium heat, add 2 tablespoons oil, diced red onion, chicken, and curry powder. </steps_updated>
+    <steps_updated num="2">Cook until onions are soft and chicken has browned, about 8-10 minutes. </steps_updated>
+    <steps_updated num="3">Remove chicken from pot and set aside. </steps_updated>
+    <steps_updated num="4">Raise heat to medium-high, and using the same pot, add pureed tomato mixture, cooking until reduced by half. </steps_updated>
+    <steps_updated num="5">Add in remaining oil, and fry sauce for 8-10 minutes. </steps_updated>
+    <steps_updated num="6">Stir in chicken, along with rice, stock and thyme leaves. </steps_updated>
+    <steps_updated num="7">Cover pot tightly with foil. </steps_updated>
+    <steps_updated num="8">Cover with lid and reduce heat to low, cooking for 30 minutes. </steps_updated>
+    <steps_updated num="9">Once rice is cooked, fluff up before serving. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

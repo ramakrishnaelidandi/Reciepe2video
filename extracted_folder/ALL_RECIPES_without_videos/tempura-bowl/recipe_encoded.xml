@@ -1,0 +1,61 @@
+<recipe>
+  <title>Tempura Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tempura-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 22 </ingredient>
+    <ingredient num="1">10882 2868 </ingredient>
+    <ingredient num="2">14094 </ingredient>
+    <ingredient num="3">4985 6143 </ingredient>
+    <ingredient num="4">5889 14079 </ingredient>
+    <ingredient num="5">7706 </ingredient>
+    <ingredient num="6">3917 13278 6216 </ingredient>
+    <ingredient num="7">1580 2605 13278 3294 13384 278 13278 2935 8007 </ingredient>
+    <ingredient num="8">1580 2605 13278 2605 14124 890 13278 13125 5981 </ingredient>
+    <ingredient num="9">7632 7990 5291 </ingredient>
+    <ingredient num="10">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="11">3917 14014 13278 8596 </ingredient>
+    <ingredient num="12">12791 2605 13278 13384 6222 13278 13125 8007 </ingredient>
+    <ingredient num="13">3917 8071 13278 3740 2494 8076 220 13783 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8575/low_1472567461.m3u8</low>
+    <high>https://vid.tasty.co/output/8575/mp4_720x1280/1472567461</high>
+  </video>
+  <steps>
+    <step num="0">10346 11084 5569 2394 3482 9636 13817 3430 </step>
+    <step num="1">6823 4061 14224 573 11951 5547 11423 11084 4255 11951 11801 13817 4355 12205 4061 3954 14224 4255 10763 145 6035 217 2505 11951 11084 2411 10570 7817 </step>
+    <step num="2">10950 5994 13757 14511 3930 6216 13817 3294 2019 </step>
+    <step num="3">8889 5994 10083 371 5766 560 9988 8999 </step>
+    <step num="4">10993 740 14124 890 13817 3446 9801 2505 3557 4644 123 2134 363 </step>
+    <step num="5">13576 11084 3386 560 11951 4374 13817 13260 3345 669 5291 14158 8916 7990 6865 8927 5895 1681 11084 9490 7568 907 5570 12112 4255 12 1811 560 254 5766 5895 5994 2531 6880 560 3499 1198 14158 </step>
+    <step num="6">2715 11951 7361 7280 4120 11691 2260 13817 3214 4429 9907 2319 3740 210 11951 6222 12282 13817 740 560 11951 11691 2260 13817 3214 </step>
+    <step num="7">6695 10030 12112 4255 5994 12377 371 8860 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10346 11084 5569 2394 3482 9636 13817 3430 </steps_updated>
+    <steps_updated num="1">6823 4061 14224 573 11951 5547 </steps_updated>
+    <steps_updated num="2">11423 11084 4255 11951 11801 13817 4355 12205 4061 3954 14224 4255 10763 145 </steps_updated>
+    <steps_updated num="3">6035 217 2505 11951 11084 2411 10570 7817 </steps_updated>
+    <steps_updated num="4">10950 5994 13757 14511 3930 6216 13817 3294 2019 </steps_updated>
+    <steps_updated num="5">8889 5994 10083 371 5766 560 9988 8999 </steps_updated>
+    <steps_updated num="6">10993 740 14124 890 13817 3446 9801 2505 3557 4644 </steps_updated>
+    <steps_updated num="7">123 2134 363 </steps_updated>
+    <steps_updated num="8">13576 11084 3386 560 11951 4374 13817 13260 3345 669 5291 14158 </steps_updated>
+    <steps_updated num="9">8916 7990 6865 8927 5895 1681 11084 9490 7568 907 </steps_updated>
+    <steps_updated num="10">5570 12112 4255 12 1811 560 254 5766 5895 5994 2531 6880 560 3499 1198 14158 </steps_updated>
+    <steps_updated num="11">2715 11951 7361 7280 4120 11691 2260 13817 3214 </steps_updated>
+    <steps_updated num="12">4429 9907 2319 3740 210 11951 6222 12282 13817 740 560 11951 11691 2260 13817 3214 </steps_updated>
+    <steps_updated num="13">6695 10030 12112 4255 5994 12377 371 8860 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

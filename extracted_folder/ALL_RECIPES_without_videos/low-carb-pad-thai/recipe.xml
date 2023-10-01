@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Low-Carb Pad Thai Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/low-carb-pad-thai</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; small zucchinis </ingredient>
+    <ingredient num="1">1 ; medium sweet potato, peeled </ingredient>
+    <ingredient num="2">1 ; daikon radish, 6 inch (15 cm), peeled </ingredient>
+    <ingredient num="3">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="4">2 tablespoons ; fish sauce </ingredient>
+    <ingredient num="5">2 tablespoons ; tamarind paste, or lime juice </ingredient>
+    <ingredient num="6">6 cloves ; garlic, minced, divided </ingredient>
+    <ingredient num="7">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="8">coconut oil, to taste </ingredient>
+    <ingredient num="9">1 lb ; boneless, skinless chicken thighs, sliced ; (455 g) </ingredient>
+    <ingredient num="10">1 ; medium shallot, thinly sliced </ingredient>
+    <ingredient num="11">2 teaspoons ; chili paste, or 1 diced jalapeño </ingredient>
+    <ingredient num="12">⅓ cup ; roasted peanut, plus more for garnish ; (40 g) </ingredient>
+    <ingredient num="13">½ cup ; bean sprout, plus more for garnish ; (50 g) </ingredient>
+    <ingredient num="14">¼ cup ; fresh cilantro leaves, plus more for garnish ; (10 g) </ingredient>
+    <ingredient num="15">lime wedge, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118018/hls24_1543876545.m3u8</low>
+    <high>https://vid.tasty.co/output/118018/landscape_720/1543876545</high>
+  </video>
+  <steps>
+    <step num="0">Trim the ends of the zucchini, then use a vegetable peeler to peel into thin, flat noodles. Repeat with the sweet potato and daikon radish. Set aside. </step>
+    <step num="1">In a wok or large pan over medium-high heat, combine the brown sugar, fish sauce, tamarind paste, 3 cloves of garlic, and the water. Cook until the sugar has dissolved and the sauce is slightly thickened, about 3 minutes. Remove the pan from the heat and transfer the pad thai sauce to a bowl until ready to use. Wipe out the pan. </step>
+    <step num="2">Heat a drizzle of coconut oil in the same pan over medium-high heat. Add the chicken thighs and cook for 4 minutes on each side, until browned and cooked through. Remove the chicken from the pan and set aside. </step>
+    <step num="3">Add a bit more coconut oil to the pan, if needed, then add the shallot, chili paste, and remaining 3 cloves of garlic. Cook until the shallots are softened and the aromatics are fragrant, 2 minutes. </step>
+    <step num="4">Add the peanuts and bean sprouts, and cook for 1 minute, until the sprouts are softened. Add half of the reserved pad thai sauce and cook until thickened, 3 minutes. </step>
+    <step num="5">Add the vegetable noodles and chicken, and stir to coat with the sauce, adding more as needed. Add the cilantro, toss, and cook for 30-60 seconds, until the noodles are just warmed through but not soggy. </step>
+    <step num="6">Serve immediately garnished with more cilantro, bean sprouts, peanuts, and lime wedges. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Trim the ends of the zucchini, then use a vegetable peeler to peel into thin, flat noodles. </steps_updated>
+    <steps_updated num="1">Repeat with the sweet potato and daikon radish. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">In a wok or large pan over medium-high heat, combine the brown sugar, fish sauce, tamarind paste, 3 cloves of garlic, and the water. </steps_updated>
+    <steps_updated num="4">Cook until the sugar has dissolved and the sauce is slightly thickened, about 3 minutes. </steps_updated>
+    <steps_updated num="5">Remove the pan from the heat and transfer the pad thai sauce to a bowl until ready to use. </steps_updated>
+    <steps_updated num="6">Wipe out the pan. </steps_updated>
+    <steps_updated num="7">Heat a drizzle of coconut oil in the same pan over medium-high heat. </steps_updated>
+    <steps_updated num="8">Add the chicken thighs and cook for 4 minutes on each side, until browned and cooked through. </steps_updated>
+    <steps_updated num="9">Remove the chicken from the pan and set aside. </steps_updated>
+    <steps_updated num="10">Add a bit more coconut oil to the pan, if needed, then add the shallot, chili paste, and remaining 3 cloves of garlic. </steps_updated>
+    <steps_updated num="11">Cook until the shallots are softened and the aromatics are fragrant, 2 minutes. </steps_updated>
+    <steps_updated num="12">Add the peanuts and bean sprouts, and cook for 1 minute, until the sprouts are softened. </steps_updated>
+    <steps_updated num="13">Add half of the reserved pad thai sauce and cook until thickened, 3 minutes. </steps_updated>
+    <steps_updated num="14">Add the vegetable noodles and chicken, and stir to coat with the sauce, adding more as needed. </steps_updated>
+    <steps_updated num="15">Add the cilantro, toss, and cook for 30-60 seconds, until the noodles are just warmed through but not soggy. </steps_updated>
+    <steps_updated num="16">Serve immediately garnished with more cilantro, bean sprouts, peanuts, and lime wedges. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

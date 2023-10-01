@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chewy Granola Bars Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chewy-granola-bars</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ½ cups ; old-fashioned oat ; (250 g) </ingredient>
+    <ingredient num="1">2 ½ cups ; rice cereal ; (75 g) </ingredient>
+    <ingredient num="2">½ cup ; brown sugar ; (110 g) </ingredient>
+    <ingredient num="3">½ cup ; coconut oil ; (100 g) </ingredient>
+    <ingredient num="4">½ cup ; honey ; (170 g) </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; vanilla </ingredient>
+    <ingredient num="7">½ cup ; chocolate chips ; (90 g) </ingredient>
+    <ingredient num="8">½ cup ; dried apple, dried ; (60 g) </ingredient>
+    <ingredient num="9">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="10">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="11">½ cup ; sliced almond ; (70 g) </ingredient>
+    <ingredient num="12">½ cup ; dried cherry ; (80 g) </ingredient>
+    <ingredient num="13">½ cup ; peanut butter ; (120 g) </ingredient>
+    <ingredient num="14">½ cup ; pretzels, crushed ; (50 g) </ingredient>
+    <ingredient num="15">½ cup ; chocolate candy ; (90 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31199/low_1494347505.m3u8</low>
+    <high>https://vid.tasty.co/output/31199/mp4_720x1280/1494347505</high>
+  </video>
+  <steps>
+    <step num="0">In a large mixing bowl, combine the oats, rice cereal, coconut oil, honey, brown sugar, salt, and vanilla until evenly mixed. </step>
+    <step num="1">For chocolate chip, take ¼ of the oats mix and combine with chocolate chips. Stir until mixed. </step>
+    <step num="2">Move the mixture to a small baking dish. </step>
+    <step num="3">For Apple Cinnamon, take ¼ of the oats mix and combine with dried apples, cinnamon, and nutmeg. Stir until mixed. </step>
+    <step num="4">Move the mixture to a small baking dish. </step>
+    <step num="5">For Cherry Almond, take ¼ of the oats mix and combine with almonds and cherries. Stir until mixed. </step>
+    <step num="6">Move the mixture to a small baking dish. </step>
+    <step num="7">For Peanut Butter Crunch, take ¼ of the oats mix and combine with pretzels, peanut butter, and chocolate candies. Stir until mixed. </step>
+    <step num="8">Move the mixture to a small baking dish. </step>
+    <step num="9">Bake each bar mixture at 350°F (175°C) for 5-8 minutes. </step>
+    <step num="10">Let granola cool and then cut into desired bar shape. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mixing bowl, combine the oats, rice cereal, coconut oil, honey, brown sugar, salt, and vanilla until evenly mixed. </steps_updated>
+    <steps_updated num="1">For chocolate chip, take ¼ of the oats mix and combine with chocolate chips. </steps_updated>
+    <steps_updated num="2">Stir until mixed. </steps_updated>
+    <steps_updated num="3">Move the mixture to a small baking dish. </steps_updated>
+    <steps_updated num="4">For Apple Cinnamon, take ¼ of the oats mix and combine with dried apples, cinnamon, and nutmeg. </steps_updated>
+    <steps_updated num="5">Stir until mixed. </steps_updated>
+    <steps_updated num="6">Move the mixture to a small baking dish. </steps_updated>
+    <steps_updated num="7">For Cherry Almond, take ¼ of the oats mix and combine with almonds and cherries. </steps_updated>
+    <steps_updated num="8">Stir until mixed. </steps_updated>
+    <steps_updated num="9">Move the mixture to a small baking dish. </steps_updated>
+    <steps_updated num="10">For Peanut Butter Crunch, take ¼ of the oats mix and combine with pretzels, peanut butter, and chocolate candies. </steps_updated>
+    <steps_updated num="11">Stir until mixed. </steps_updated>
+    <steps_updated num="12">Move the mixture to a small baking dish. </steps_updated>
+    <steps_updated num="13">Bake each bar mixture at 350°F (175°C) for 5-8 minutes. </steps_updated>
+    <steps_updated num="14">Let granola cool and then cut into desired bar shape. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

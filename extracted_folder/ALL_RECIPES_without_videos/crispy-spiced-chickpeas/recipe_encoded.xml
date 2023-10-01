@@ -1,0 +1,44 @@
+<recipe>
+  <title>Crispy Spiced Chickpeas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crispy-spiced-chickpeas</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-5</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 5450 1683 11711 4980 13817 796 13278 5348 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="3">12791 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="4">12791 8071 13278 13584 11088 7845 </ingredient>
+    <ingredient num="5">1580 8071 13278 3855 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Snacks</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94370/hls24_1526501033.m3u8</low>
+    <high>https://vid.tasty.co/output/94370/landscape_720/1526501033</high>
+  </video>
+  <duration>
+    <start_time>90.0</start_time>
+    <end_time>114.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 8999 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">10895 11951 2955 8244 7632 4155 8083 7845 8635 13584 10986 13817 82 210 5994 2597 12377 13817 1686 560 515 </step>
+    <step num="2">12785 11951 6940 560 11951 10765 213 13817 10903 1681 10963 13817 3365 1190 11004 8633 14166 7492 4905 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 8999 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">10895 11951 2955 8244 7632 4155 8083 7845 8635 13584 10986 13817 82 210 5994 2597 12377 13817 1686 560 515 </steps_updated>
+    <steps_updated num="3">12785 11951 6940 560 11951 10765 213 13817 10903 1681 10963 13817 3365 1190 11004 8633 14166 7492 4905 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

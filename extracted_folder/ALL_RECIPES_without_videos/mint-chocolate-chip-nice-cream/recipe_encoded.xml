@@ -1,0 +1,43 @@
+<recipe>
+  <title>Mint Chocolate Chip Nice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mint-chocolate-chip-nice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/banana-nice-cream-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 11728 4850 </ingredient>
+    <ingredient num="1">12791 2605 13278 6209 3878 14252 13278 12237 5981 </ingredient>
+    <ingredient num="2">4061 2031 13278 10367 10423 </ingredient>
+    <ingredient num="3">1813 2605 13278 638 5802 13278 12158 8007 </ingredient>
+    <ingredient num="4">3917 8071 13278 7484 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Desserts</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103748/hls24_1533141877.m3u8</low>
+    <high>https://vid.tasty.co/output/103748/landscape_720/1533141877</high>
+  </video>
+  <duration>
+    <start_time>83.0</start_time>
+    <end_time>117.433</end_time>
+  </duration>
+  <steps>
+    <step num="0">8940 13817 12205 11951 1938 415 13351 14142 </step>
+    <step num="1">9179 11579 1938 6209 5663 10367 3911 638 9889 13817 7484 560 5994 8016 9909 5895 12095 3262 1681 6873 13817 9716 </step>
+    <step num="2">12785 560 5994 10881 5687 13817 13351 7990 7811 767 8580 14329 </step>
+    <step num="3">12774 1391 12313 226 7857 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8940 13817 12205 11951 1938 415 13351 14142 </steps_updated>
+    <steps_updated num="1">9179 11579 1938 6209 5663 10367 3911 638 9889 13817 7484 560 5994 8016 9909 5895 12095 </steps_updated>
+    <steps_updated num="2">3262 1681 6873 13817 9716 </steps_updated>
+    <steps_updated num="3">12785 560 5994 10881 5687 13817 13351 7990 7811 767 8580 14329 </steps_updated>
+    <steps_updated num="4">12774 1391 12313 226 7857 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

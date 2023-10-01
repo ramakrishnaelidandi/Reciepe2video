@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Berries and Cream Pavlova</title>
+  <url>https://tasty.co/recipe/berries-and-cream-cloud-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; egg whites </ingredient>
+    <ingredient num="1">1 ¾ cups ; baker's sugar ; (350 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; cornstarch </ingredient>
+    <ingredient num="3">2 cups ; heavy whipping cream ; (480 g) </ingredient>
+    <ingredient num="4">⅓ cup ; sugar ; (70 g) </ingredient>
+    <ingredient num="5">plum </ingredient>
+    <ingredient num="6">rasberries </ingredient>
+    <ingredient num="7">strawberry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8007/low_1472235876.m3u8</low>
+    <high>https://vid.tasty.co/output/8007/mp4_720x1280/1472235876</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 280°F (135°C). </step>
+    <step num="1">In a large bowl, whip egg whites until stiff peaks form. </step>
+    <step num="2">In a small bowl, combine baker’s sugar and cornstarch and mix well. </step>
+    <step num="3">Gradually (split into 5 portions) add sugar into the egg whites. Once the egg whites form a stiff peak with a sheen gloss, set aside. </step>
+    <step num="4">Bake for 1 hour. Then turn oven off and let cloud cakes sit in hot oven for another hour or two until the oven is totally cool. </step>
+    <step num="5">Whip the heavy cream and sugar together until the cream is set. </step>
+    <step num="6">Carefully place each layer of cake with cream and berries. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 280°F (135°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, whip egg whites until stiff peaks form. </steps_updated>
+    <steps_updated num="2">In a small bowl, combine baker’s sugar and cornstarch and mix well. </steps_updated>
+    <steps_updated num="3">Gradually (split into 5 portions) add sugar into the egg whites. </steps_updated>
+    <steps_updated num="4">Once the egg whites form a stiff peak with a sheen gloss, set aside. </steps_updated>
+    <steps_updated num="5">Bake for 1 hour. </steps_updated>
+    <steps_updated num="6">Then turn oven off and let cloud cakes sit in hot oven for another hour or two until the oven is totally cool. </steps_updated>
+    <steps_updated num="7">Whip the heavy cream and sugar together until the cream is set. </steps_updated>
+    <steps_updated num="8">Carefully place each layer of cake with cream and berries. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

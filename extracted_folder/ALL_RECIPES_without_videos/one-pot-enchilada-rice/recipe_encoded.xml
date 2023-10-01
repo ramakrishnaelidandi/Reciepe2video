@@ -1,0 +1,71 @@
+<recipe>
+  <title>One-pot Enchilada Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-enchilada-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 5766 </ingredient>
+    <ingredient num="1">3917 14014 13278 10015 4155 10015 </ingredient>
+    <ingredient num="2">1580 2605 13278 8083 12384 3962 13278 3433 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 1466 10986 3962 13278 11953 5981 </ingredient>
+    <ingredient num="4">3917 2605 13278 9491 3962 13278 6898 5981 </ingredient>
+    <ingredient num="5">13086 9517 13278 12282 13278 3465 8007 </ingredient>
+    <ingredient num="6">3917 1580 9517 13278 7706 13278 11181 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 13584 6143 13278 8118 5981 </ingredient>
+    <ingredient num="8">3917 14014 13278 6209 6712 3962 </ingredient>
+    <ingredient num="9">3917 2605 13278 9668 2260 13278 12751 5981 </ingredient>
+    <ingredient num="10">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="11">3917 8071 13278 3170 </ingredient>
+    <ingredient num="12">3917 8071 13278 82 </ingredient>
+    <ingredient num="13">3917 8071 13278 7845 </ingredient>
+    <ingredient num="14">1580 2605 13278 3333 13810 2517 13278 2264 5981 </ingredient>
+    <ingredient num="15">1580 13278 468 12124 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21638/low_1485200330.m3u8</low>
+    <high>https://vid.tasty.co/output/21638/mp4_720x1280/1485200330</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 5281 13018 </step>
+    <step num="1">10838 5766 210 5994 13959 10060 11770 13757 2082 9179 11384 13817 6334 560 10060 13817 6142 1681 11384 9490 4721 10963 13817 6334 7312 2296 </step>
+    <step num="2">9179 7845 13817 9347 6865 8927 5895 1681 2986 11628 2296 </step>
+    <step num="3">9179 717 13817 9347 3917 6513 </step>
+    <step num="4">6054 728 284 13817 817 5292 </step>
+    <step num="5">1083 12282 669 11951 10060 13817 7965 7990 3557 560 4603 560 5994 11714 </step>
+    <step num="6">9179 7706 13817 6142 7990 10052 8927 1681 7706 9490 12215 9801 8161 4721 14371 </step>
+    <step num="7">6823 5994 372 210 11951 937 371 11951 7706 13817 740 12313 7733 284 13817 13584 6143 560 11951 10060 13817 596 </step>
+    <step num="8">9179 6712 9668 7280 13389 8117 2670 12610 13817 10986 13817 12224 </step>
+    <step num="9">9179 14538 4255 10707 6497 </step>
+    <step num="10">7831 210 5994 11853 10439 7990 5169 12689 </step>
+    <step num="11">12251 560 10694 7990 2933 12689 </step>
+    <step num="12">13688 1391 14621 13817 4485 6497 </step>
+    <step num="13">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5281 13018 </steps_updated>
+    <steps_updated num="1">10838 5766 210 5994 13959 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">9179 11384 13817 6334 560 10060 13817 6142 1681 11384 9490 4721 10963 13817 6334 7312 2296 </steps_updated>
+    <steps_updated num="3">9179 7845 13817 9347 6865 8927 5895 1681 2986 11628 2296 </steps_updated>
+    <steps_updated num="4">9179 717 13817 9347 3917 6513 </steps_updated>
+    <steps_updated num="5">6054 728 284 13817 817 5292 </steps_updated>
+    <steps_updated num="6">1083 12282 669 11951 10060 13817 7965 7990 3557 560 4603 560 5994 11714 </steps_updated>
+    <steps_updated num="7">9179 7706 13817 6142 7990 10052 8927 1681 7706 9490 12215 9801 8161 4721 14371 </steps_updated>
+    <steps_updated num="8">6823 5994 372 210 11951 937 371 11951 7706 13817 740 12313 7733 284 13817 13584 6143 560 11951 10060 13817 596 </steps_updated>
+    <steps_updated num="9">9179 6712 9668 7280 13389 8117 2670 12610 13817 10986 13817 12224 </steps_updated>
+    <steps_updated num="10">9179 14538 4255 10707 6497 </steps_updated>
+    <steps_updated num="11">7831 210 5994 11853 10439 7990 5169 12689 </steps_updated>
+    <steps_updated num="12">12251 560 10694 7990 2933 12689 </steps_updated>
+    <steps_updated num="13">13688 1391 14621 13817 4485 6497 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

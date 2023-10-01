@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Meatball Parm Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatball-parm-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; baguette, 12-inch (30cm) </ingredient>
+    <ingredient num="1">2 cups ; marinara sauce ; (580 g) </ingredient>
+    <ingredient num="2">20 ; fully cooked meatballs </ingredient>
+    <ingredient num="3">2 cups ; shredded mozzarella cheese ; (200 g) </ingredient>
+    <ingredient num="4">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="5">¼ cup ; fresh basil, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16815/low_1481054254.m3u8</low>
+    <high>https://vid.tasty.co/output/16815/mp4_720x1280/1481054254</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Slice the baguette into 1-inch (3cm) chunks, then transfer to a 9x13 (23 x 33cm) baking dish. </step>
+    <step num="2">Toss the bread in half of the marinara, then sprinkle with half of the mozzarella on top. </step>
+    <step num="3">Nestle the meatballs into the bread mixture evenly, then cover with the remaining marinara and mozzarella. </step>
+    <step num="4">Sprinkle ¾ of the parmesan on top, saving the rest for garnish. </step>
+    <step num="5">Bake for 20 minutes until the cheese has melted and is starting to brown. </step>
+    <step num="6">Serve with the remaining parmesan and basil. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Slice the baguette into 1-inch (3cm) chunks, then transfer to a 9x13 (23 x 33cm) baking dish. </steps_updated>
+    <steps_updated num="2">Toss the bread in half of the marinara, then sprinkle with half of the mozzarella on top. </steps_updated>
+    <steps_updated num="3">Nestle the meatballs into the bread mixture evenly, then cover with the remaining marinara and mozzarella. </steps_updated>
+    <steps_updated num="4">Sprinkle ¾ of the parmesan on top, saving the rest for garnish. </steps_updated>
+    <steps_updated num="5">Bake for 20 minutes until the cheese has melted and is starting to brown. </steps_updated>
+    <steps_updated num="6">Serve with the remaining parmesan and basil. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

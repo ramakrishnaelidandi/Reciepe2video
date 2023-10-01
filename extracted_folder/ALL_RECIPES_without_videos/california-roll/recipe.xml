@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>California Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/california-roll</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/american-style-sushi-dinner-for-2</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; sushi rice, cooked ; (460 g) </ingredient>
+    <ingredient num="1">¼ cup ; seasoned rice vinegar ; (60 mL) </ingredient>
+    <ingredient num="2">4 half sheets ; sushi grade nori </ingredient>
+    <ingredient num="3">1 teaspoon ; sesame seed, optional </ingredient>
+    <ingredient num="4">8 pieces ; imitation crab </ingredient>
+    <ingredient num="5">1 ; small cucumber, cut into matchsticks </ingredient>
+    <ingredient num="6">1 ; avocado, thinly sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/63193/low_1511203573.m3u8</low>
+    <high>https://vid.tasty.co/output/63193/mp4_720x1280/1511203573</high>
+  </video>
+  <duration>
+    <start_time>63.67</start_time>
+    <end_time>75.809</end_time>
+  </duration>
+  <steps>
+    <step num="0">Season the sushi rice with the rice vinegar, fanning and stirring until room temperature. </step>
+    <step num="1">On a rolling mat, place one sheet of nori with the rough side facing upwards. </step>
+    <step num="2">Wet your hands and grab a handful of rice and place it on the nori. Spread the rice evenly throughout the nori without mashing the rice down. Season rice with a pinch of sesame seeds, if using, then flip it over so the nori is facing upwards. </step>
+    <step num="3">Arrange, in a horizontal row 1 inch (2 cm) from the bottom, the crab followed by a row of avocado and a row of cucumber. </step>
+    <step num="4">Grabbing both nori and the mat, roll the mat over the filling so the extra space at the bottom touches the other side, squeezing down to make a nice tight roll. Squeeze down along the way to keep the roll from holding its shape. </step>
+    <step num="5">Transfer the roll onto a cutting board. Rub a knife on a damp paper towel before slicing the roll into six equal portions. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season the sushi rice with the rice vinegar, fanning and stirring until room temperature. </steps_updated>
+    <steps_updated num="1">On a rolling mat, place one sheet of nori with the rough side facing upwards. </steps_updated>
+    <steps_updated num="2">Wet your hands and grab a handful of rice and place it on the nori. </steps_updated>
+    <steps_updated num="3">Spread the rice evenly throughout the nori without mashing the rice down. </steps_updated>
+    <steps_updated num="4">Season rice with a pinch of sesame seeds, if using, then flip it over so the nori is facing upwards. </steps_updated>
+    <steps_updated num="5">Arrange, in a horizontal row 1 inch (2 cm) from the bottom, the crab followed by a row of avocado and a row of cucumber. </steps_updated>
+    <steps_updated num="6">Grabbing both nori and the mat, roll the mat over the filling so the extra space at the bottom touches the other side, squeezing down to make a nice tight roll. </steps_updated>
+    <steps_updated num="7">Squeeze down along the way to keep the roll from holding its shape. </steps_updated>
+    <steps_updated num="8">Transfer the roll onto a cutting board. </steps_updated>
+    <steps_updated num="9">Rub a knife on a damp paper towel before slicing the roll into six equal portions. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01968</start_time>
+    <end_time>02286</end_time>
+  </duration_human>
+</recipe>

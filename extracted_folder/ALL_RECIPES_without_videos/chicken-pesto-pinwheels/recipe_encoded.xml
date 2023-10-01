@@ -1,0 +1,51 @@
+<recipe>
+  <title>Chicken Pesto Pinwheels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-pesto-pinwheels</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-party-appetizers-for-the-lazy-cook</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 8036 13278 8247 5602 9157 5358 11579 </ingredient>
+    <ingredient num="1">3591 2605 13278 2334 2260 13278 8118 5981 </ingredient>
+    <ingredient num="2">6735 643 13278 12816 8421 3333 13278 9473 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 3333 109 14538 13278 2264 5981 </ingredient>
+    <ingredient num="4">3855 12610 560 11567 </ingredient>
+    <ingredient num="5">8580 13278 14463 9917 </ingredient>
+    <ingredient num="6">6209 11911 1404 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Game Day</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106496/hls24_1535067282.m3u8</low>
+    <high>https://vid.tasty.co/output/106496/landscape_720/1535067282</high>
+  </video>
+  <duration>
+    <start_time>135.0</start_time>
+    <end_time>194.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 14594 13817 2348 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">7692 2696 11951 8247 7969 8036 4255 5994 8574 13004 12605 560 5994 8858 5113 1645 14478 </step>
+    <step num="2">2988 11951 2334 2260 11770 11951 8036 10104 5994 7700 5895 1818 13494 1391 11951 3333 12816 6696 13817 12051 </step>
+    <step num="3">8476 6781 5994 14269 786 13260 4536 3386 11951 8247 7969 560 1978 2709 </step>
+    <step num="4">3235 11951 4285 669 10894 10187 1645 13073 13817 8093 3755 4255 11951 9864 10765 11020 11887 3917 2985 8891 1645 3017 11881 1391 6216 7137 </step>
+    <step num="5">7831 7990 5169 11004 5895 1681 10963 2147 </step>
+    <step num="6">6252 1391 3962 11911 415 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 14594 13817 2348 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="1">7692 2696 11951 8247 7969 8036 4255 5994 8574 13004 12605 560 5994 8858 5113 1645 14478 </steps_updated>
+    <steps_updated num="2">2988 11951 2334 2260 11770 11951 8036 10104 5994 7700 5895 1818 </steps_updated>
+    <steps_updated num="3">13494 1391 11951 3333 12816 6696 13817 12051 </steps_updated>
+    <steps_updated num="4">8476 6781 5994 14269 786 13260 4536 3386 11951 8247 7969 560 1978 2709 </steps_updated>
+    <steps_updated num="5">3235 11951 4285 669 10894 10187 1645 13073 13817 8093 3755 4255 11951 9864 10765 11020 11887 3917 2985 8891 1645 3017 </steps_updated>
+    <steps_updated num="6">11881 1391 6216 7137 </steps_updated>
+    <steps_updated num="7">7831 7990 5169 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="8">6252 1391 3962 11911 415 8956 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

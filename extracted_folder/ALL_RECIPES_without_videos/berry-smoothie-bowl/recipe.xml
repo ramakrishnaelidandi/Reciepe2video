@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Berry Smoothie Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/berry-smoothie-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; strawberry ; (76 g) </ingredient>
+    <ingredient num="1">½ cup ; raspberry ; (63 g) </ingredient>
+    <ingredient num="2">1 cup ; blackberry ; (55 g) </ingredient>
+    <ingredient num="3">1 ; banana, sliced </ingredient>
+    <ingredient num="4">½ cup ; greek yogurt ; (142 g) </ingredient>
+    <ingredient num="5">¼ cup ; almond milk, or soy milk ; (59 mL) </ingredient>
+    <ingredient num="6">¼ cup ; peanut butter ; (60 g) </ingredient>
+    <ingredient num="7">strawberry, sliced, to taste </ingredient>
+    <ingredient num="8">banana, sliced, to taste </ingredient>
+    <ingredient num="9">slivered almonds, to taste </ingredient>
+    <ingredient num="10">blueberries, to taste </ingredient>
+    <ingredient num="11">shredded coconut, to taste </ingredient>
+    <ingredient num="12">sunflower seeds, to taste </ingredient>
+    <ingredient num="13">chia seeds, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31865/low_1495124879.m3u8</low>
+    <high>https://vid.tasty.co/output/31865/mp4_720x1280/1495124879</high>
+  </video>
+  <steps>
+    <step num="0">Blend mixed berries, greek yogurt, almond milk, and peanut butter until smooth. </step>
+    <step num="1">Top with your favorite toppings. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Blend mixed berries, greek yogurt, almond milk, and peanut butter until smooth. </steps_updated>
+    <steps_updated num="1">Top with your favorite toppings. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

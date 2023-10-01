@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mint Chocolate Chip Nice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mint-chocolate-chip-nice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/banana-nice-cream-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; ripe bananas </ingredient>
+    <ingredient num="1">¼ cup ; fresh mint leaf ; (10 g) </ingredient>
+    <ingredient num="2">4 teaspoons ; cacao nibs </ingredient>
+    <ingredient num="3">⅓ cup ; almond milk ; (80 mL) </ingredient>
+    <ingredient num="4">1 teaspoon ; agave </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Desserts</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103748/hls24_1533141877.m3u8</low>
+    <high>https://vid.tasty.co/output/103748/landscape_720/1533141877</high>
+  </video>
+  <duration>
+    <start_time>83.0</start_time>
+    <end_time>117.433</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel and slice the bananas, then freeze overnight. </step>
+    <step num="1">Add frozen bananas, fresh mint, cacao nibs, almond milk, and agave to a food processor or blender. Blend until smooth and stick. </step>
+    <step num="2">Transfer to a loaf pan and freeze for at least 2 hours. </step>
+    <step num="3">Serve with your favorite toppings. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel and slice the bananas, then freeze overnight. </steps_updated>
+    <steps_updated num="1">Add frozen bananas, fresh mint, cacao nibs, almond milk, and agave to a food processor or blender. </steps_updated>
+    <steps_updated num="2">Blend until smooth and stick. </steps_updated>
+    <steps_updated num="3">Transfer to a loaf pan and freeze for at least 2 hours. </steps_updated>
+    <steps_updated num="4">Serve with your favorite toppings. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mango Lassi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mango-lassi</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-asian-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; mango </ingredient>
+    <ingredient num="1">1 tablespoon ; sugar </ingredient>
+    <ingredient num="2">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="3">1 cup ; plain yogurt ; (245 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96714/hls24_1527806756.m3u8</low>
+    <high>https://vid.tasty.co/output/96714/landscape_720/1527806756</high>
+  </video>
+  <duration>
+    <start_time>1.0</start_time>
+    <end_time>25.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut the mango in half lengthwise, around the pit. </step>
+    <step num="1">Press the mango halves down along the edge of glass to separate the flesh from the skin. </step>
+    <step num="2">Add the mango to a blender, along with the sugar, milk, and yogurt. Blend until smooth. </step>
+    <step num="3">Pour the mango lassi into a glass. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the mango in half lengthwise, around the pit. </steps_updated>
+    <steps_updated num="1">Press the mango halves down along the edge of glass to separate the flesh from the skin. </steps_updated>
+    <steps_updated num="2">Add the mango to a blender, along with the sugar, milk, and yogurt. </steps_updated>
+    <steps_updated num="3">Blend until smooth. </steps_updated>
+    <steps_updated num="4">Pour the mango lassi into a glass. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Caramel Apple Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-caramel-apple-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; apple </ingredient>
+    <ingredient num="1">popsicle stick, cut in half for shorter sticks </ingredient>
+    <ingredient num="2">caramel, to dip </ingredient>
+    <ingredient num="3">peanuts, to taste </ingredient>
+    <ingredient num="4">oreo cookie, crushed, to taste </ingredient>
+    <ingredient num="5">pretzel, whichever preferred, to taste </ingredient>
+    <ingredient num="6">caramel corn, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31982/low_1495124980.m3u8</low>
+    <high>https://vid.tasty.co/output/31982/mp4_720x1280/1495124980</high>
+  </video>
+  <steps>
+    <step num="0">Use a melon scooper to scoop out mini apple balls. </step>
+    <step num="1">Repeat until entire apple is carved. </step>
+    <step num="2">Insert a popsicle stick on the side with the skin. </step>
+    <step num="3">Dip the apple ball in caramel. </step>
+    <step num="4">Dip again in preferred toppings. </step>
+    <step num="5">The video includes: peanuts, pretzels, Oreos, cookies, caramel corn, and M&amp;M’s. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a melon scooper to scoop out mini apple balls. </steps_updated>
+    <steps_updated num="1">Repeat until entire apple is carved. </steps_updated>
+    <steps_updated num="2">Insert a popsicle stick on the side with the skin. </steps_updated>
+    <steps_updated num="3">Dip the apple ball in caramel. </steps_updated>
+    <steps_updated num="4">Dip again in preferred toppings. </steps_updated>
+    <steps_updated num="5">The video includes: peanuts, pretzels, Oreos, cookies, caramel corn, and M&amp;M’s. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

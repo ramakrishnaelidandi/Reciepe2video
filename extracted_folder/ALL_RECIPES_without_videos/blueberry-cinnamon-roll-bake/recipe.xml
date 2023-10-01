@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Cinnamon Roll Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-cinnamon-roll-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 packages ; cinnamon roll, save the icing </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="4">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="5">1 ½ cups ; blueberry ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26451/low_1489510416.m3u8</low>
+    <high>https://vid.tasty.co/output/26451/mp4_720x1280/1489510416</high>
+  </video>
+  <steps>
+    <step num="0">Pre-heat oven according to the cinnamon roll package instructions. </step>
+    <step num="1">Cut cinnamon rolls into bite-size pieces and set aside. </step>
+    <step num="2">In a bowl, whisk together eggs, milk, vanilla, and cinnamon until well combined. </step>
+    <step num="3">Place cut up cinnamon rolls into an 8" x 8" (20 cm x 20 cm) baking dish. Pour blueberries on top followed by the milk mixture. </step>
+    <step num="4">Bake for 40-45 minutes or until fully cooked. If the top is looking too brown, cover with foil for the remaining time. </step>
+    <step num="5">Slice then garnish with icing and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pre-heat oven according to the cinnamon roll package instructions. </steps_updated>
+    <steps_updated num="1">Cut cinnamon rolls into bite-size pieces and set aside. </steps_updated>
+    <steps_updated num="2">In a bowl, whisk together eggs, milk, vanilla, and cinnamon until well combined. </steps_updated>
+    <steps_updated num="3">Place cut up cinnamon rolls into an 8" x 8" (20 cm x 20 cm) baking dish. </steps_updated>
+    <steps_updated num="4">Pour blueberries on top followed by the milk mixture. </steps_updated>
+    <steps_updated num="5">Bake for 40-45 minutes or until fully cooked. </steps_updated>
+    <steps_updated num="6">If the top is looking too brown, cover with foil for the remaining time. </steps_updated>
+    <steps_updated num="7">Slice then garnish with icing and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

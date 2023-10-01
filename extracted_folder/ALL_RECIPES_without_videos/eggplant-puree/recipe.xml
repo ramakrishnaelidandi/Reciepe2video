@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggplant Puree Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-puree</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-ways-to-make-vegetables-taste-great</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; eggplant, roasted </ingredient>
+    <ingredient num="1">1 clove ; garlic, minced </ingredient>
+    <ingredient num="2">1 ; lemon, juiced </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="5">fresh parsley, chopped, to serve </ingredient>
+    <ingredient num="6">sumac, to serve </ingredient>
+    <ingredient num="7">olive oil, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75411/hls24_1517258080.m3u8</low>
+    <high>https://vid.tasty.co/output/75411/landscape_720/1517258080</high>
+  </video>
+  <duration>
+    <start_time>117.0</start_time>
+    <end_time>145.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Scoop out flesh of roasted eggplant into a medium sized mixing bowl. </step>
+    <step num="1">Add the garlic, lemon, salt, and olive oil. Mash together with a fork until loose puree forms. </step>
+    <step num="2">Garnish with parsley, sumac, and more olive oil. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Scoop out flesh of roasted eggplant into a medium sized mixing bowl. </steps_updated>
+    <steps_updated num="1">Add the garlic, lemon, salt, and olive oil. </steps_updated>
+    <steps_updated num="2">Mash together with a fork until loose puree forms. </steps_updated>
+    <steps_updated num="3">Garnish with parsley, sumac, and more olive oil. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02806</start_time>
+    <end_time>03521</end_time>
+  </duration_human>
+</recipe>

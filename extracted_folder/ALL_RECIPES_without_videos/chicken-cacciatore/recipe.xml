@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Cacciatore Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-cacciatore</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ lb ; chicken thighs ; (680 g) </ingredient>
+    <ingredient num="1">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">8 oz ; mushroom, sliced ; (225 g) </ingredient>
+    <ingredient num="3">½ ; medium onion, sliced </ingredient>
+    <ingredient num="4">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="5">2 tablespoons ; tomato paste </ingredient>
+    <ingredient num="6">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="8">½ teaspoon ; crushed red pepper flake </ingredient>
+    <ingredient num="9">½ teaspoon ; dried rosemary </ingredient>
+    <ingredient num="10">½ cup ; red wine ; (120 g) </ingredient>
+    <ingredient num="11">14 oz ; canned diced tomato ; (400 g) </ingredient>
+    <ingredient num="12">1 cup ; chicken stock ; (240 g) </ingredient>
+    <ingredient num="13">¼ cup ; fresh parsley ; (10 g) </ingredient>
+    <ingredient num="14">salt, to taste </ingredient>
+    <ingredient num="15">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26843/low_1489774401.m3u8</low>
+    <high>https://vid.tasty.co/output/26843/mp4_720x1280/1489774401</high>
+  </video>
+  <steps>
+    <step num="0">Liberally season chicken thighs with salt and pepper. </step>
+    <step num="1">In a 4-quart jumbo cooker, heat 1 tablespoon of olive oil over medium-high heat. Add chicken and cook 3-4 minutes a side, until lightly browned. Transfer to a plate. </step>
+    <step num="2">Add another tablespoon of olive oil to the skillet before adding the mushrooms. Lightly season with salt and pepper, and cook until mushrooms begin to brown, about 5 minutes. </step>
+    <step num="3">Once browned, remove mushrooms to the same dish with the reserved chicken thighs. </step>
+    <step num="4">Add the final tablespoon of olive oil followed by the sliced onion and pepper. Season with salt and pepper, and cook over medium heat until they begin to brown, about 5-7 minutes. </step>
+    <step num="5">Create a well in the middle of the onion-pepper mixture and add the tomato paste. Cook out the tomato paste for about 1 minute before mixing it together with the onions and peppers. </step>
+    <step num="6">Add garlic, oregano, red pepper flakes, and rosemary. Mix them into the onion and peppers before adding the red wine. Use the moisture from the red wine to scrape off any stuck-on bits from the bottom of the pan. </step>
+    <step num="7">Let wine reduce by half before adding the diced tomatoes and chicken stock. Return to a simmer. </step>
+    <step num="8">Place chicken and mushrooms on top of the simmering sauce, being sure to also add any accumulated juices that may have collected. Sprinkle with chopped parsley. </step>
+    <step num="9">Cook while covered for 12 minutes or until chicken’s internal temperature reaches 165˚F (75˚C). </step>
+    <step num="10">Serve chicken and sauce with a side of pasta or bread. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Liberally season chicken thighs with salt and pepper. </steps_updated>
+    <steps_updated num="1">In a 4-quart jumbo cooker, heat 1 tablespoon of olive oil over medium-high heat. </steps_updated>
+    <steps_updated num="2">Add chicken and cook 3-4 minutes a side, until lightly browned. </steps_updated>
+    <steps_updated num="3">Transfer to a plate. </steps_updated>
+    <steps_updated num="4">Add another tablespoon of olive oil to the skillet before adding the mushrooms. </steps_updated>
+    <steps_updated num="5">Lightly season with salt and pepper, and cook until mushrooms begin to brown, about 5 minutes. </steps_updated>
+    <steps_updated num="6">Once browned, remove mushrooms to the same dish with the reserved chicken thighs. </steps_updated>
+    <steps_updated num="7">Add the final tablespoon of olive oil followed by the sliced onion and pepper. </steps_updated>
+    <steps_updated num="8">Season with salt and pepper, and cook over medium heat until they begin to brown, about 5-7 minutes. </steps_updated>
+    <steps_updated num="9">Create a well in the middle of the onion-pepper mixture and add the tomato paste. </steps_updated>
+    <steps_updated num="10">Cook out the tomato paste for about 1 minute before mixing it together with the onions and peppers. </steps_updated>
+    <steps_updated num="11">Add garlic, oregano, red pepper flakes, and rosemary. </steps_updated>
+    <steps_updated num="12">Mix them into the onion and peppers before adding the red wine. </steps_updated>
+    <steps_updated num="13">Use the moisture from the red wine to scrape off any stuck-on bits from the bottom of the pan. </steps_updated>
+    <steps_updated num="14">Let wine reduce by half before adding the diced tomatoes and chicken stock. </steps_updated>
+    <steps_updated num="15">Return to a simmer. </steps_updated>
+    <steps_updated num="16">Place chicken and mushrooms on top of the simmering sauce, being sure to also add any accumulated juices that may have collected. </steps_updated>
+    <steps_updated num="17">Sprinkle with chopped parsley. </steps_updated>
+    <steps_updated num="18">Cook while covered for 12 minutes or until chicken’s internal temperature reaches 165˚F (75˚C). </steps_updated>
+    <steps_updated num="19">Serve chicken and sauce with a side of pasta or bread. </steps_updated>
+    <steps_updated num="20">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

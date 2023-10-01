@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon And Egg Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-and-egg-fried-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; large eggs </ingredient>
+    <ingredient num="1">8 oz ; bacon ; (230 g) </ingredient>
+    <ingredient num="2">1 ; medium onion </ingredient>
+    <ingredient num="3">1 tablespoon ; vegetable oil </ingredient>
+    <ingredient num="4">5 cups ; rice, cooked ; (1 kg) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">black pepper, to taste </ingredient>
+    <ingredient num="7">1 teaspoon ; sugar </ingredient>
+    <ingredient num="8">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="9">green onion, chopped, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28953/low_1491945011.m3u8</low>
+    <high>https://vid.tasty.co/output/28953/mp4_720x1280/1491945011</high>
+  </video>
+  <steps>
+    <step num="0">Beat three eggs in an empty bowl and add a bit of salt until well-combined. </step>
+    <step num="1">Cut bacon into 1-inch pieces and finely dice the onion. </step>
+    <step num="2">Heat oil in either a wok or nonstick frying pan over medium heat and add beaten eggs. Gently scramble the eggs; when they are almost done, remove from wok and set aside. </step>
+    <step num="3">Add bacon to the wok and allow it to render down and become crisp. Once the bacon is done, take it out of the wok and set aside, along with the scrambled eggs. </step>
+    <step num="4">Add the diced onion to the wok and stir-fry until translucent. Then add the cooked rice, make sure the rice is fluffed and cooled, and stir-fry for 2 to 5 minutes. Use spatula to break up any clumps. </step>
+    <step num="5">Add the salt, pepper, sugar, and soy sauce. Stir for another minute or so. </step>
+    <step num="6">Once there is steam coming off the rice and it is completely heated through, add scrambled eggs and cooked bacon. </step>
+    <step num="7">Sprinkle with green onion, as desired. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Beat three eggs in an empty bowl and add a bit of salt until well-combined. </steps_updated>
+    <steps_updated num="1">Cut bacon into 1-inch pieces and finely dice the onion. </steps_updated>
+    <steps_updated num="2">Heat oil in either a wok or nonstick frying pan over medium heat and add beaten eggs. </steps_updated>
+    <steps_updated num="3">Gently scramble the eggs; when they are almost done, remove from wok and set aside. </steps_updated>
+    <steps_updated num="4">Add bacon to the wok and allow it to render down and become crisp. </steps_updated>
+    <steps_updated num="5">Once the bacon is done, take it out of the wok and set aside, along with the scrambled eggs. </steps_updated>
+    <steps_updated num="6">Add the diced onion to the wok and stir-fry until translucent. </steps_updated>
+    <steps_updated num="7">Then add the cooked rice, make sure the rice is fluffed and cooled, and stir-fry for 2 to 5 minutes. </steps_updated>
+    <steps_updated num="8">Use spatula to break up any clumps. </steps_updated>
+    <steps_updated num="9">Add the salt, pepper, sugar, and soy sauce. </steps_updated>
+    <steps_updated num="10">Stir for another minute or so. </steps_updated>
+    <steps_updated num="11">Once there is steam coming off the rice and it is completely heated through, add scrambled eggs and cooked bacon. </steps_updated>
+    <steps_updated num="12">Sprinkle with green onion, as desired. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

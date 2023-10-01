@@ -1,0 +1,51 @@
+<recipe>
+  <title>One-Pot Taco Spaghetti Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-taco-spaghetti</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 11091 12384 341 13278 3433 5981 </ingredient>
+    <ingredient num="3">4061 1580 9486 13278 10176 3123 5895 3917 3756 1936 3927 8861 10985 884 </ingredient>
+    <ingredient num="4">3917 14014 13278 9668 30 </ingredient>
+    <ingredient num="5">13767 643 13278 9491 325 3917 14138 13278 13113 5981 </ingredient>
+    <ingredient num="6">6735 643 13278 13402 13278 2583 5981 </ingredient>
+    <ingredient num="7">13086 9517 13278 12282 13278 4492 8007 </ingredient>
+    <ingredient num="8">1580 2605 13278 9784 13810 3333 13278 2264 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 10865 13810 3333 13278 2264 5981 </ingredient>
+    <ingredient num="10">3917 13278 3665 9491 341 </ingredient>
+    <ingredient num="11">8580 9486 13278 6209 6712 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25791/low_1488909916.m3u8</low>
+    <high>https://vid.tasty.co/output/25791/mp4_720x1280/1488909916</high>
+  </video>
+  <steps>
+    <step num="0">8889 8244 5766 210 5994 2597 8682 11770 3996 2082 9179 11088 20 11091 7272 13817 10176 1869 264 1681 1946 7312 7340 6285 6175 11004 9082 11901 560 12147 11951 1946 2658 3557 1369 </step>
+    <step num="1">12473 210 9668 30 13817 341 7042 415 12224 </step>
+    <step num="2">9179 13402 13817 13086 9517 2019 8785 560 5994 11015 510 2864 14307 13817 11779 1681 950 9490 3745 8180 6285 13133 12689 </step>
+    <step num="3">6054 6781 7855 13817 10707 1391 9784 13810 10865 13810 5137 9491 13817 1117 9393 1681 14538 9490 1311 </step>
+    <step num="4">12774 7389 13688 1391 3274 9668 13817 6712 5358 13 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 8244 5766 210 5994 2597 8682 11770 3996 2082 </steps_updated>
+    <steps_updated num="1">9179 11088 20 11091 7272 13817 10176 1869 </steps_updated>
+    <steps_updated num="2">264 1681 1946 7312 7340 6285 6175 11004 9082 11901 560 12147 11951 1946 2658 3557 1369 </steps_updated>
+    <steps_updated num="3">12473 210 9668 30 13817 341 7042 415 12224 </steps_updated>
+    <steps_updated num="4">9179 13402 13817 13086 9517 2019 </steps_updated>
+    <steps_updated num="5">8785 560 5994 11015 510 2864 14307 13817 11779 1681 950 9490 3745 8180 6285 13133 12689 </steps_updated>
+    <steps_updated num="6">6054 6781 7855 13817 10707 1391 9784 13810 10865 13810 5137 9491 13817 1117 </steps_updated>
+    <steps_updated num="7">9393 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="8">12774 7389 </steps_updated>
+    <steps_updated num="9">13688 1391 3274 9668 13817 6712 5358 13 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+  <title>Peppermint Bark Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peppermint-bark</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/holiday-bark-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2800 13278 1459 3076 1534 </ingredient>
+    <ingredient num="1">4061 9517 13278 4680 11318 13278 7793 5981 </ingredient>
+    <ingredient num="2">1580 8071 13278 13934 10937 </ingredient>
+    <ingredient num="3">13086 9517 13278 4617 4680 8086 13278 6664 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67936/hls24_1513216128.m3u8</low>
+    <high>https://vid.tasty.co/output/67936/landscape_720/1513216128</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>53.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 1459 3076 1534 210 5994 12777 10707 12854 13817 11003 5994 11526 880 560 4455 3755 669 2192 10506 12785 560 5994 13757 7616 </step>
+    <step num="1">10950 5994 10909 13757 14511 6142 11951 13934 10937 669 11951 5335 4680 4668 1083 1802 5994 3550 8797 10765 213 13817 11434 3584 1391 5994 14263 13855 7990 2933 12689 </step>
+    <step num="2">12946 11951 5687 2696 371 11951 7668 13817 5406 11951 5335 4617 4680 11770 11951 13826 9802 3584 1391 5994 14263 </step>
+    <step num="3">6252 11951 5614 1459 3076 1534 11770 11951 4617 9769 </step>
+    <step num="4">13855 7990 7811 767 3917 5664 </step>
+    <step num="5">6054 11951 13403 6781 11951 7668 13817 827 669 13637 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 1459 3076 1534 210 5994 12777 10707 12854 13817 11003 5994 11526 880 560 4455 3755 669 2192 10506 </steps_updated>
+    <steps_updated num="1">12785 560 5994 13757 7616 </steps_updated>
+    <steps_updated num="2">10950 5994 10909 13757 14511 6142 11951 13934 10937 669 11951 5335 4680 4668 </steps_updated>
+    <steps_updated num="3">1083 1802 5994 3550 8797 10765 213 13817 11434 3584 1391 5994 14263 </steps_updated>
+    <steps_updated num="4">13855 7990 2933 12689 </steps_updated>
+    <steps_updated num="5">12946 11951 5687 2696 371 11951 7668 13817 5406 11951 5335 4617 4680 11770 11951 13826 9802 3584 1391 5994 14263 </steps_updated>
+    <steps_updated num="6">6252 11951 5614 1459 3076 1534 11770 11951 4617 9769 </steps_updated>
+    <steps_updated num="7">13855 7990 7811 767 3917 5664 </steps_updated>
+    <steps_updated num="8">6054 11951 13403 6781 11951 7668 13817 827 669 13637 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00081</start_time>
+    <end_time>01431</end_time>
+  </duration_human>
+</recipe>

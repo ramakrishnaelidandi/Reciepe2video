@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Chip Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-chip-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; butter, melted ; (460 g) </ingredient>
+    <ingredient num="1">2 cups ; brown sugar, packed ; (440 g) </ingredient>
+    <ingredient num="2">2 cups ; granulated sugar ; (400 g) </ingredient>
+    <ingredient num="3">4 ; large eggs </ingredient>
+    <ingredient num="4">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="5">5 cups ; all-purpose flour ; (625 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="7">4 cups ; chocolate chips ; (700 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7825/low_1471985308.m3u8</low>
+    <high>https://vid.tasty.co/output/7825/mp4_720x1280/1471985308</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">In a large bowl, whisk together the brown sugar, granulated sugar, and melted butter, until evenly combined and light in color. </step>
+    <step num="2">Add in the eggs and vanilla, mixing until smooth. </step>
+    <step num="3">Add the flour and baking soda, folding the mixture until it forms a smooth dough. </step>
+    <step num="4">Fold in the chocolate chips until evenly combined. </step>
+    <step num="5">Using an ice cream scoop, scoop 6 balls of dough onto a baking tray lined with parchment paper. </step>
+    <step num="6">Bake for 12 minutes, then serve! </step>
+    <step num="7">To save cookie dough for later use, scoop the dough into balls and place them side-by-side on a baking tray lined with parchment paper. </step>
+    <step num="8">Wrap the tray with cling wrap, then freeze for up to one month. </step>
+    <step num="9">To bake the frozen dough balls, remove desired number from the tray and bake in a preheated oven for 15 minutes at 375°F (190°C). </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, whisk together the brown sugar, granulated sugar, and melted butter, until evenly combined and light in color. </steps_updated>
+    <steps_updated num="2">Add in the eggs and vanilla, mixing until smooth. </steps_updated>
+    <steps_updated num="3">Add the flour and baking soda, folding the mixture until it forms a smooth dough. </steps_updated>
+    <steps_updated num="4">Fold in the chocolate chips until evenly combined. </steps_updated>
+    <steps_updated num="5">Using an ice cream scoop, scoop 6 balls of dough onto a baking tray lined with parchment paper. </steps_updated>
+    <steps_updated num="6">Bake for 12 minutes, then serve! </steps_updated>
+    <steps_updated num="7">To save cookie dough for later use, scoop the dough into balls and place them side-by-side on a baking tray lined with parchment paper. </steps_updated>
+    <steps_updated num="8">Wrap the tray with cling wrap, then freeze for up to one month. </steps_updated>
+    <steps_updated num="9">To bake the frozen dough balls, remove desired number from the tray and bake in a preheated oven for 15 minutes at 375°F (190°C). </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

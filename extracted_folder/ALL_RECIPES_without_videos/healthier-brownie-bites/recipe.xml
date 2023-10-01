@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthier Brownie Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-brownie-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="2">½ cup ; cocoa powder ; (60 g) </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">1 tablespoon ; vanilla </ingredient>
+    <ingredient num="5">½ cup ; honey ; (170 g) </ingredient>
+    <ingredient num="6">½ cup ; greek yogurt ; (140 g) </ingredient>
+    <ingredient num="7">1 ; banana </ingredient>
+    <ingredient num="8">1 ; avocado </ingredient>
+    <ingredient num="9">2 cups ; fresh spinach ; (80 g) </ingredient>
+    <ingredient num="10">½ cup ; chocolate chips ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/52266/low_1505422208.m3u8</low>
+    <high>https://vid.tasty.co/output/52266/mp4_720x1280/1505422208</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a large bowl, combine flour, baking powder, and cocoa powder. </step>
+    <step num="2">Blend eggs, vanilla, honey, yogurt, banana, avocado, and spinach until pureed. </step>
+    <step num="3">Pour wet ingredients into the dry ingredients and mix just until combined. </step>
+    <step num="4">Fold in chocolate chips. </step>
+    <step num="5">Line muffin tin with baking cups/liners. Using an ice cream scooper or spoon, fill the muffin tin cups with the batter. </step>
+    <step num="6">Bake for 20 minutes, or until fully cooked. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, combine flour, baking powder, and cocoa powder. </steps_updated>
+    <steps_updated num="2">Blend eggs, vanilla, honey, yogurt, banana, avocado, and spinach until pureed. </steps_updated>
+    <steps_updated num="3">Pour wet ingredients into the dry ingredients and mix just until combined. </steps_updated>
+    <steps_updated num="4">Fold in chocolate chips. </steps_updated>
+    <steps_updated num="5">Line muffin tin with baking cups/liners. </steps_updated>
+    <steps_updated num="6">Using an ice cream scooper or spoon, fill the muffin tin cups with the batter. </steps_updated>
+    <steps_updated num="7">Bake for 20 minutes, or until fully cooked. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

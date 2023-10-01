@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cranberry Lemon Mimosa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cranberry-lemon-mimosa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mimosas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6 fl oz ; champagne ; (175 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; dried cranberry </ingredient>
+    <ingredient num="2">½ fl oz ; cranberry juice ; (15 mL) </ingredient>
+    <ingredient num="3">½ fl oz ; lemon juice ; (15 mL) </ingredient>
+    <ingredient num="4">1 slice ; lemon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96943/hls24_1527895336.m3u8</low>
+    <high>https://vid.tasty.co/output/96943/landscape_720/1527895336</high>
+  </video>
+  <duration>
+    <start_time>21.0</start_time>
+    <end_time>44.733</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour the champagne into an 8-ounce (125 ml) champagne flute. </step>
+    <step num="1">Add the dried cranberries, cranberry juice, and lemon juice to the glass. </step>
+    <step num="2">Garnish with a slice of lemon. </step>
+    <step num="3">Serve and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the champagne into an 8-ounce (125 ml) champagne flute. </steps_updated>
+    <steps_updated num="1">Add the dried cranberries, cranberry juice, and lemon juice to the glass. </steps_updated>
+    <steps_updated num="2">Garnish with a slice of lemon. </steps_updated>
+    <steps_updated num="3">Serve and enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

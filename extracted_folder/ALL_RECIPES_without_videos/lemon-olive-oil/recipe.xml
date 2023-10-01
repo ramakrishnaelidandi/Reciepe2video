@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lemon Olive Oil Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lemon-olive-oil</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; lemons, thoroughly washed </ingredient>
+    <ingredient num="1">2 cups ; olive oil ; (480 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">nan</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>139.166</start_time>
+    <end_time>163.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel the lemons with a peeler, making sure to avoid the white pith, which would make the oil bitter. </step>
+    <step num="1">Add the peels to a medium pot filled with the olive oil and stir. </step>
+    <step num="2">Let simmer over very low heat for 15-20 minutes. </step>
+    <step num="3">Strain out the peels. </step>
+    <step num="4">Transfer the infused oil to a bottle or other resealable container. </step>
+    <step num="5">The oil will keep in the fridge for a few weeks. If you see any signs of spoilage, discard it. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the lemons with a peeler, making sure to avoid the white pith, which would make the oil bitter. </steps_updated>
+    <steps_updated num="1">Add the peels to a medium pot filled with the olive oil and stir. </steps_updated>
+    <steps_updated num="2">Let simmer over very low heat for 15-20 minutes. </steps_updated>
+    <steps_updated num="3">Strain out the peels. </steps_updated>
+    <steps_updated num="4">Transfer the infused oil to a bottle or other resealable container. </steps_updated>
+    <steps_updated num="5">The oil will keep in the fridge for a few weeks. </steps_updated>
+    <steps_updated num="6">If you see any signs of spoilage, discard it. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

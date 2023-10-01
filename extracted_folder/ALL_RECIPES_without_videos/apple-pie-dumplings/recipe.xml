@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Dumplings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-dumplings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-pie-crust-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; granny smith apples, peeled and cut into wedges </ingredient>
+    <ingredient num="1">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="2">3 tablespoons ; sugar </ingredient>
+    <ingredient num="3">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">½ teaspoon ; nutmeg </ingredient>
+    <ingredient num="5">1 pinch ; ground cloves </ingredient>
+    <ingredient num="6">2 ; refrigerated pie crusts, at room temperature </ingredient>
+    <ingredient num="7">egg wash </ingredient>
+    <ingredient num="8">sparkling sugar </ingredient>
+    <ingredient num="9">caramel sauce, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Indulgent Sweets</category>
+    <category num="2">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/77456/hls24_1518119323.m3u8</low>
+    <high>https://vid.tasty.co/output/77456/landscape_720/1518119323</high>
+  </video>
+  <duration>
+    <start_time>1.0</start_time>
+    <end_time>68.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">In a large bowl, combine apple wedges and lemon juice. </step>
+    <step num="2">In a small bowl, mix together sugar, cinnamon, nutmeg, and cloves. Sprinkle over apple wedges and toss until fully coated. </step>
+    <step num="3">Lightly flour a work surface and unroll the pie crusts. Using a round 4-inch (10 cm) cookie cutter, cut out discs. Arrange discs on a parchment paper-lined baking sheet. </step>
+    <step num="4">Place an apple wedge on one half of each disc. Using a round piping tip, cut circles into the other half. Lightly moisten the edges with water with your finger. Fold over and seal. Crimp edges with a fork. </step>
+    <step num="5">Brush the tops of shaped dumplings with egg wash and sprinkle with sparkling sugar. </step>
+    <step num="6">Bake for 10 minutes, or until golden in color. </step>
+    <step num="7">Cool completely. </step>
+    <step num="8">Serve with caramel dipping sauce. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, combine apple wedges and lemon juice. </steps_updated>
+    <steps_updated num="2">In a small bowl, mix together sugar, cinnamon, nutmeg, and cloves. </steps_updated>
+    <steps_updated num="3">Sprinkle over apple wedges and toss until fully coated. </steps_updated>
+    <steps_updated num="4">Lightly flour a work surface and unroll the pie crusts. </steps_updated>
+    <steps_updated num="5">Using a round 4-inch (10 cm) cookie cutter, cut out discs. </steps_updated>
+    <steps_updated num="6">Arrange discs on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="7">Place an apple wedge on one half of each disc. </steps_updated>
+    <steps_updated num="8">Using a round piping tip, cut circles into the other half. </steps_updated>
+    <steps_updated num="9">Lightly moisten the edges with water with your finger. </steps_updated>
+    <steps_updated num="10">Fold over and seal. </steps_updated>
+    <steps_updated num="11">Crimp edges with a fork. </steps_updated>
+    <steps_updated num="12">Brush the tops of shaped dumplings with egg wash and sprinkle with sparkling sugar. </steps_updated>
+    <steps_updated num="13">Bake for 10 minutes, or until golden in color. </steps_updated>
+    <steps_updated num="14">Cool completely. </steps_updated>
+    <steps_updated num="15">Serve with caramel dipping sauce. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00076</start_time>
+    <end_time>01928</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,42 @@
+<recipe>
+  <title>Apple Tea Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-tea</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 13757 7341 6416 13817 4125 </ingredient>
+    <ingredient num="1">3917 13278 12425 1297 </ingredient>
+    <ingredient num="2">8580 2031 13278 4834 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>65.333</start_time>
+    <end_time>77.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">7643 11951 3775 210 5994 2192 10083 371 2032 2019 </step>
+    <step num="1">9179 11951 12425 1297 13817 8525 </step>
+    <step num="2">1828 11779 7990 6285 13767 12689 </step>
+    <step num="3">8845 2696 11951 5366 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">7643 11951 3775 210 5994 2192 10083 371 2032 2019 </steps_updated>
+    <steps_updated num="1">9179 11951 12425 1297 13817 8525 </steps_updated>
+    <steps_updated num="2">1828 11779 7990 6285 13767 12689 </steps_updated>
+    <steps_updated num="3">8845 2696 11951 5366 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

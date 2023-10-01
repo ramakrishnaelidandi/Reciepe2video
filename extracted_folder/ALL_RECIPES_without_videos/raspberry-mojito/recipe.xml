@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Raspberry Mojito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-mojito</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-for-all-raspberry-lovers</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; lime, cut into wedges </ingredient>
+    <ingredient num="1">5 ; raspberries, a nice handful </ingredient>
+    <ingredient num="2">1 teaspoon ; sugar </ingredient>
+    <ingredient num="3">10 ; fresh mints, a good bunch </ingredient>
+    <ingredient num="4">¼ cup ; white rum ; (60 mL) </ingredient>
+    <ingredient num="5">club soda </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/116868/hls24_1543303007.m3u8</low>
+    <high>https://vid.tasty.co/output/116868/landscape_720/1543303007</high>
+  </video>
+  <duration>
+    <start_time>106.333</start_time>
+    <end_time>132.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Throw the lime wedges, raspberries, mint, and sugar into a glass and then, using a muddler or wooden spoon, press down on the ingredients to mush them all together and get all of the juice out of the lime wedges. </step>
+    <step num="1">Add ice and pour in rum (you can just eyeball the amount, if you don’t have something handy to measure) and then top the glass off with club soda. </step>
+    <step num="2">If you want it a little more or less sweet, you can always add slightly more or slightly less sugar. It’s also delicious with less rum, or no rum at all. </step>
+    <step num="3">Stir well and top with fresh mint. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Throw the lime wedges, raspberries, mint, and sugar into a glass and then, using a muddler or wooden spoon, press down on the ingredients to mush them all together and get all of the juice out of the lime wedges. </steps_updated>
+    <steps_updated num="1">Add ice and pour in rum (you can just eyeball the amount, if you don’t have something handy to measure) and then top the glass off with club soda. </steps_updated>
+    <steps_updated num="2">If you want it a little more or less sweet, you can always add slightly more or slightly less sugar. </steps_updated>
+    <steps_updated num="3">It’s also delicious with less rum, or no rum at all. </steps_updated>
+    <steps_updated num="4">Stir well and top with fresh mint. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

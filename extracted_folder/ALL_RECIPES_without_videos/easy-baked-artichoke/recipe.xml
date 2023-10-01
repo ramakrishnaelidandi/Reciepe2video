@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Baked Artichoke Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-baked-artichoke</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">artichoke </ingredient>
+    <ingredient num="1">lemon </ingredient>
+    <ingredient num="2">olive oil </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">garlic, minced </ingredient>
+    <ingredient num="6">fresh parsley </ingredient>
+    <ingredient num="7">parmesan cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Sides</category>
+    <category num="5">Date Night</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31940/low_1495124938.m3u8</low>
+    <high>https://vid.tasty.co/output/31940/mp4_720x1280/1495124938</high>
+  </video>
+  <steps>
+    <step num="0">Remove the stem of the artichoke. Cut about 1 inch (2 cm) off the top of the artichoke. Take a pair of kitchen scissors and snip off the thorns on the tip of the artichoke petals. </step>
+    <step num="1">Take half a lemon and rub lemon juice over the cut portion of the artichoke to prevent it from browning. Drizzle with olive oil and season with salt and pepper. </step>
+    <step num="2">Spread open the petals and rub minced garlic all over. Add the parsley and Parmesan; make sure to get it in between the petals. Top with more pepper if desired. </step>
+    <step num="3">Wrap the artichoke in aluminum foil. Bake at 425°F (220°C) for one hour 20 minutes. </step>
+    <step num="4">When done, serve with extra parsley, lemon wedge and your favorite dipping sauce. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the stem of the artichoke. </steps_updated>
+    <steps_updated num="1">Cut about 1 inch (2 cm) off the top of the artichoke. </steps_updated>
+    <steps_updated num="2">Take a pair of kitchen scissors and snip off the thorns on the tip of the artichoke petals. </steps_updated>
+    <steps_updated num="3">Take half a lemon and rub lemon juice over the cut portion of the artichoke to prevent it from browning. </steps_updated>
+    <steps_updated num="4">Drizzle with olive oil and season with salt and pepper. </steps_updated>
+    <steps_updated num="5">Spread open the petals and rub minced garlic all over. </steps_updated>
+    <steps_updated num="6">Add the parsley and Parmesan; make sure to get it in between the petals. </steps_updated>
+    <steps_updated num="7">Top with more pepper if desired. </steps_updated>
+    <steps_updated num="8">Wrap the artichoke in aluminum foil. </steps_updated>
+    <steps_updated num="9">Bake at 425°F (220°C) for one hour 20 minutes. </steps_updated>
+    <steps_updated num="10">When done, serve with extra parsley, lemon wedge and your favorite dipping sauce. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

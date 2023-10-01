@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>White Chocolate Rainbow Frozen Banana Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/white-chocolate-rainbow-frozen-banana</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fun-and-easy-frozen-bananas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">10 bananas ; finger banana, 1 bushel </ingredient>
+    <ingredient num="1">1 cup ; white chocolate chip ; (175 g) </ingredient>
+    <ingredient num="2">½ cup ; rainbow sprinkles ; (80 g) </ingredient>
+    <ingredient num="3">20 ; popsicle sticks </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27304/low_1490228151.m3u8</low>
+    <high>https://vid.tasty.co/output/27304/mp4_720x1280/1490228151</high>
+  </video>
+  <duration>
+    <start_time>73.0</start_time>
+    <end_time>89.71</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel bananas and cut in half. Place popsicle sticks inside bananas and put on tray with parchment paper. </step>
+    <step num="1">Freeze for 1 to 3 hours, depending on how firm you want your bananas to be. </step>
+    <step num="2">Heat white chocolate chips in microwave at 30 second intervals until liquified. </step>
+    <step num="3">Coat bananas in white chocolate and sprinkle with rainbow sprinkles. Chocolate will harden so move quickly! Serve immediately or set aside and freeze for an additional 10 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel bananas and cut in half. </steps_updated>
+    <steps_updated num="1">Place popsicle sticks inside bananas and put on tray with parchment paper. </steps_updated>
+    <steps_updated num="2">Freeze for 1 to 3 hours, depending on how firm you want your bananas to be. </steps_updated>
+    <steps_updated num="3">Heat white chocolate chips in microwave at 30 second intervals until liquified. </steps_updated>
+    <steps_updated num="4">Coat bananas in white chocolate and sprinkle with rainbow sprinkles. </steps_updated>
+    <steps_updated num="5">Chocolate will harden so move quickly! </steps_updated>
+    <steps_updated num="6">Serve immediately or set aside and freeze for an additional 10 minutes. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02016</start_time>
+    <end_time>02703</end_time>
+  </duration_human>
+</recipe>

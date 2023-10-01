@@ -1,0 +1,60 @@
+<recipe>
+  <title>One-Pan Baby Back Ribs</title>
+  <url>https://tasty.co/recipe/one-pan-baby-back-ribs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 6880 13278 7905 13352 10012 10844 </ingredient>
+    <ingredient num="1">8580 2031 13278 3170 </ingredient>
+    <ingredient num="2">8580 2031 13278 13389 11703 </ingredient>
+    <ingredient num="3">3917 8071 13278 7845 </ingredient>
+    <ingredient num="4">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="5">8580 2031 13278 82 </ingredient>
+    <ingredient num="6">8580 2031 13278 9496 </ingredient>
+    <ingredient num="7">3917 2605 13278 4716 2260 13278 7212 5981 </ingredient>
+    <ingredient num="8">13086 13278 14143 8765 13817 10844 </ingredient>
+    <ingredient num="9">13767 12669 13278 13727 </ingredient>
+    <ingredient num="10">4061 9486 13278 8244 5766 </ingredient>
+    <ingredient num="11">8580 2031 13278 82 </ingredient>
+    <ingredient num="12">1580 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32275/low_1495125520.m3u8</low>
+    <high>https://vid.tasty.co/output/32275/mp4_720x1280/1495125520</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12111 </step>
+    <step num="1">5570 11951 2532 9365 4255 5994 10765 213 10926 1391 11426 6252 3584 1391 2670 13389 8117 10986 11384 8117 12610 13817 4700 14137 210 11951 2634 3584 4255 6697 6701 </step>
+    <step num="2">4660 1391 11951 3615 13817 10903 7990 8580 14329 </step>
+    <step num="3">5632 10439 2281 560 6698 </step>
+    <step num="4">6054 11951 11245 6781 11951 3615 13817 3345 4255 10765 8800 2988 11951 179 2260 3584 4255 11951 143 </step>
+    <step num="5">5570 11951 3183 4255 797 11801 371 11951 11745 13817 11951 13727 4255 11951 9781 1594 11951 8244 7632 12610 13817 7845 3584 11770 11951 8087 13817 7094 11951 2634 210 7317 </step>
+    <step num="6">7831 7990 13767 12689 6117 11951 11245 7811 767 13767 12689 </step>
+    <step num="7">3235 13817 7329 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12111 </steps_updated>
+    <steps_updated num="1">5570 11951 2532 9365 4255 5994 10765 213 10926 1391 11426 </steps_updated>
+    <steps_updated num="2">6252 3584 1391 2670 13389 8117 10986 11384 8117 12610 13817 4700 </steps_updated>
+    <steps_updated num="3">14137 210 11951 2634 3584 4255 6697 6701 </steps_updated>
+    <steps_updated num="4">4660 1391 11951 3615 13817 10903 7990 8580 14329 </steps_updated>
+    <steps_updated num="5">5632 10439 2281 560 6698 </steps_updated>
+    <steps_updated num="6">6054 11951 11245 6781 11951 3615 13817 3345 4255 10765 8800 </steps_updated>
+    <steps_updated num="7">2988 11951 179 2260 3584 4255 11951 143 </steps_updated>
+    <steps_updated num="8">5570 11951 3183 4255 797 11801 371 11951 11745 13817 11951 13727 4255 11951 9781 </steps_updated>
+    <steps_updated num="9">1594 11951 8244 7632 12610 13817 7845 3584 11770 11951 8087 13817 7094 11951 2634 210 7317 </steps_updated>
+    <steps_updated num="10">7831 7990 13767 12689 </steps_updated>
+    <steps_updated num="11">6117 11951 11245 7811 767 13767 12689 </steps_updated>
+    <steps_updated num="12">3235 13817 7329 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

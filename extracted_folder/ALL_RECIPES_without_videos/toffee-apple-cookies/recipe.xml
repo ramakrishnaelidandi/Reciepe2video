@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Toffee Apple Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/toffee-apple-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; egg </ingredient>
+    <ingredient num="1">¾ cup ; golden caster sugar, can substitute regular caster or brown sugar ; (180 g) </ingredient>
+    <ingredient num="2">½ cup ; butter, softened ; (100 g) </ingredient>
+    <ingredient num="3">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="5">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="8">1 ; bramley apple, medium, chopped </ingredient>
+    <ingredient num="9">12 ; chewy toffees </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13301/low_1477682682.m3u8</low>
+    <high>https://vid.tasty.co/output/13301/mp4_720x1280/1477682682</high>
+  </video>
+  <steps>
+    <step num="0">Heat oven to 180°C (350ºF). </step>
+    <step num="1">Beat the sugar, butter, and egg in large bowl with electric mixer on medium speed until light and fluffy. </step>
+    <step num="2">Stir in flour, nutmeg, cinnamon, salt, and bicarbonate of soda. Combine into a smooth dough. </step>
+    <step num="3">Mix in the apple. </step>
+    <step num="4">Drop dough by rounded tablespoons about 2 inches (5 cm) apart onto baking paper-lined tray. Add in 1 chewy toffee piece per cookie. </step>
+    <step num="5">Bake 8 to 10 minutes or until light brown. Cool on a wire rack. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oven to 180°C (350ºF). </steps_updated>
+    <steps_updated num="1">Beat the sugar, butter, and egg in large bowl with electric mixer on medium speed until light and fluffy. </steps_updated>
+    <steps_updated num="2">Stir in flour, nutmeg, cinnamon, salt, and bicarbonate of soda. </steps_updated>
+    <steps_updated num="3">Combine into a smooth dough. </steps_updated>
+    <steps_updated num="4">Mix in the apple. </steps_updated>
+    <steps_updated num="5">Drop dough by rounded tablespoons about 2 inches (5 cm) apart onto baking paper-lined tray. </steps_updated>
+    <steps_updated num="6">Add in 1 chewy toffee piece per cookie. </steps_updated>
+    <steps_updated num="7">Bake 8 to 10 minutes or until light brown. </steps_updated>
+    <steps_updated num="8">Cool on a wire rack. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

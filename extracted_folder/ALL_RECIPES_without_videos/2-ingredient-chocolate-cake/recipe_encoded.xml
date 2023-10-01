@@ -1,0 +1,51 @@
+<recipe>
+  <title>2-ingredient Chocolate Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-chocolate-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 14463 4072 13817 9314 68 </ingredient>
+    <ingredient num="1">11852 643 13278 9644 10882 4680 13278 12932 5981 </ingredient>
+    <ingredient num="2">6885 6145 560 1966 </ingredient>
+    <ingredient num="3">1319 2439 1123 560 1966 </ingredient>
+    <ingredient num="4">11966 10884 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48013/low_1503013432.m3u8</low>
+    <high>https://vid.tasty.co/output/48013/mp4_720x1280/1503013432</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 1346 10164 </step>
+    <step num="1">5570 11951 4680 210 5994 9495 12377 13817 6983 7727 6285 3917 6513 </step>
+    <step num="2">8519 11951 6216 9314 13817 6216 5197 5209 5994 5768 11823 8341 11951 4072 1681 12386 5464 5563 </step>
+    <step num="3">9179 11951 13638 797 5569 14411 669 11951 12377 371 13826 5693 560 1011 </step>
+    <step num="4">5209 5994 10258 5633 6183 7475 1813 371 11951 279 6216 4072 669 11951 5031 13817 4680 10665 5362 1391 11951 374 6216 2152 14330 1813 7811 5994 13312 </step>
+    <step num="5">1083 11951 4428 210 5994 2362 9666 6429 1645 14124 13891 </step>
+    <step num="6">7831 7990 238 12689 </step>
+    <step num="7">9956 11951 14124 9490 10694 560 11951 3084 6183 4338 3557 1802 5994 9086 </step>
+    <step num="8">4393 6252 1391 6885 6145 12205 13817 1966 10707 1391 2439 5808 12774 1391 11966 11682 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 1346 10164 </steps_updated>
+    <steps_updated num="1">5570 11951 4680 210 5994 9495 12377 13817 6983 7727 6285 3917 6513 </steps_updated>
+    <steps_updated num="2">8519 11951 6216 9314 13817 6216 5197 </steps_updated>
+    <steps_updated num="3">5209 5994 5768 11823 8341 11951 4072 1681 12386 5464 5563 </steps_updated>
+    <steps_updated num="4">9179 11951 13638 797 5569 14411 669 11951 12377 371 13826 5693 560 1011 </steps_updated>
+    <steps_updated num="5">5209 5994 10258 5633 6183 7475 1813 371 11951 279 6216 4072 669 11951 5031 13817 4680 10665 </steps_updated>
+    <steps_updated num="6">5362 1391 11951 374 6216 2152 14330 1813 7811 5994 13312 </steps_updated>
+    <steps_updated num="7">1083 11951 4428 210 5994 2362 9666 6429 1645 14124 13891 </steps_updated>
+    <steps_updated num="8">7831 7990 238 12689 </steps_updated>
+    <steps_updated num="9">9956 11951 14124 9490 10694 560 11951 3084 6183 4338 3557 1802 5994 9086 </steps_updated>
+    <steps_updated num="10">4393 6252 1391 6885 6145 12205 13817 1966 10707 1391 2439 5808 </steps_updated>
+    <steps_updated num="11">12774 1391 11966 11682 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

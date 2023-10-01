@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Lentil Bolognese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-lentil-bolognese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; dried spathetti ; (225 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">½ ; large yellow onion, minced </ingredient>
+    <ingredient num="3">2 ; medium carrots, sliced </ingredient>
+    <ingredient num="4">1 stalk ; celery, sliced </ingredient>
+    <ingredient num="5">4 cups ; white mushroom, sliced ; (300 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; salt, plus more to taste </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper, plus more to taste </ingredient>
+    <ingredient num="8">½ cup ; red wine ; (120 mL) </ingredient>
+    <ingredient num="9">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="10">28 oz ; diced organic tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="11">¼ cup ; tomato paste ; (55 g) </ingredient>
+    <ingredient num="12">2 cups ; vegetable broth ; (480 mL) </ingredient>
+    <ingredient num="13">1 cup ; dried brown lentil ; (200 g) </ingredient>
+    <ingredient num="14">½ teaspoon ; dried basil </ingredient>
+    <ingredient num="15">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="16">½ teaspoon ; dried rosemary </ingredient>
+    <ingredient num="17">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="18">¼ cup ; fresh parsley, chopped, for garnish ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93734/hls24_1526064036.m3u8</low>
+    <high>https://vid.tasty.co/output/93734/landscape_720/1526064036</high>
+  </video>
+  <steps>
+    <step num="0">In a large pot, cook the pasta according to the package instructions. Drain and set aside. </step>
+    <step num="1">Heat the olive oil in the same pot over medium heat. Add the onion and sauté until translucent, about 2 minutes. </step>
+    <step num="2">Stir in the carrots, celery, mushrooms, salt, and pepper. Sauté until mushrooms have cooked down and are turning golden, about 5 minutes. </step>
+    <step num="3">Add the wine and simmer until most of the liquid is absorbed, about 4 minutes. </step>
+    <step num="4">Add the garlic and stir to combine, then add the diced tomatoes, tomato paste, broth, lentils, basil, oregano, rosemary, and baking soda. Stir to combine. </step>
+    <step num="5">Bring to a boil, then cover, reduce the heat to low, and simmer for 40 minutes, until the bolognese is thickened. </step>
+    <step num="6">Serve the bolognese over the pasta, or, for a lighter option, use zucchini noodles or spaghetti squash. </step>
+    <step num="7">Garnish with parsley. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot, cook the pasta according to the package instructions. </steps_updated>
+    <steps_updated num="1">Drain and set aside. </steps_updated>
+    <steps_updated num="2">Heat the olive oil in the same pot over medium heat. </steps_updated>
+    <steps_updated num="3">Add the onion and sauté until translucent, about 2 minutes. </steps_updated>
+    <steps_updated num="4">Stir in the carrots, celery, mushrooms, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Sauté until mushrooms have cooked down and are turning golden, about 5 minutes. </steps_updated>
+    <steps_updated num="6">Add the wine and simmer until most of the liquid is absorbed, about 4 minutes. </steps_updated>
+    <steps_updated num="7">Add the garlic and stir to combine, then add the diced tomatoes, tomato paste, broth, lentils, basil, oregano, rosemary, and baking soda. </steps_updated>
+    <steps_updated num="8">Stir to combine. </steps_updated>
+    <steps_updated num="9">Bring to a boil, then cover, reduce the heat to low, and simmer for 40 minutes, until the bolognese is thickened. </steps_updated>
+    <steps_updated num="10">Serve the bolognese over the pasta, or, for a lighter option, use zucchini noodles or spaghetti squash. </steps_updated>
+    <steps_updated num="11">Garnish with parsley. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Broccoli Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/broccoli-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ingredient-healthy-soups</comp_url>
+  <ingredients>
+    <ingredient num="0">6 cups ; water ; (1.4 L) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">1 head ; broccoli </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Sides</category>
+    <category num="8">Date Night</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/72477/hls24_1515710045.m3u8</low>
+    <high>https://vid.tasty.co/output/72477/landscape_720/1515710045</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>63.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">On a cutting board, use a knife to remove the broccoli florets. Discard the stem. </step>
+    <step num="1">In a medium saucepan, bring the water to a rolling boil, season with salt, and add broccoli. Cover and cook for 3½-4 minutes, until a knife can easily run through the florets. </step>
+    <step num="2">Transfer the broccoli to a blender with a slotted spoon. Reserve the water. </step>
+    <step num="3">Add broccoli, pepper, and broccoli stock to the blender and blend until smooth. Keep adding water until desired consistency is reached. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, use a knife to remove the broccoli florets. </steps_updated>
+    <steps_updated num="1">Discard the stem. </steps_updated>
+    <steps_updated num="2">In a medium saucepan, bring the water to a rolling boil, season with salt, and add broccoli. </steps_updated>
+    <steps_updated num="3">Cover and cook for 3½-4 minutes, until a knife can easily run through the florets. </steps_updated>
+    <steps_updated num="4">Transfer the broccoli to a blender with a slotted spoon. </steps_updated>
+    <steps_updated num="5">Reserve the water. </steps_updated>
+    <steps_updated num="6">Add broccoli, pepper, and broccoli stock to the blender and blend until smooth. </steps_updated>
+    <steps_updated num="7">Keep adding water until desired consistency is reached. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00093</start_time>
+    <end_time>01532</end_time>
+  </duration_human>
+</recipe>

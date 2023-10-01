@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Meal-prep Chicken Salad Pockets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-meal-prep-chicken-salad-pockets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; chicken, shredded ; (340 g) </ingredient>
+    <ingredient num="1">⅔ cup ; fat free plain greek yogurt, or low-fat ; (190 g) </ingredient>
+    <ingredient num="2">½ cup ; celery, finely chopped ; (115 g) </ingredient>
+    <ingredient num="3">1 ½ tablespoons ; sweet relish </ingredient>
+    <ingredient num="4">1 tablespoon ; dijon mustard </ingredient>
+    <ingredient num="5">1 ; scallion, thinly sliced </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">½ teaspoon ; paprika </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+    <ingredient num="10">4 leaves ; lettuce </ingredient>
+    <ingredient num="11">20 ; cherry tomatoes </ingredient>
+    <ingredient num="12">4 ; pita breads </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Greek</category>
+    <category num="2">Healthy</category>
+    <category num="3">Lunch</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11193/low_1475273590.m3u8</low>
+    <high>https://vid.tasty.co/output/11193/mp4_720x1280/1475273590</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, mix all ingredients except for the pita, tomatoes, and lettuce. </step>
+    <step num="1">Portion the chicken salad into 4 containers </step>
+    <step num="2">Lay the lettuce on top of the chicken salad and add the tomatoes. </step>
+    <step num="3">Refrigerate up to 4 days. </step>
+    <step num="4">Serve inside a pita. (You can also toast your pita first for an added touch!) </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, mix all ingredients except for the pita, tomatoes, and lettuce. </steps_updated>
+    <steps_updated num="1">Portion the chicken salad into 4 containers </steps_updated>
+    <steps_updated num="2">Lay the lettuce on top of the chicken salad and add the tomatoes. </steps_updated>
+    <steps_updated num="3">Refrigerate up to 4 days. </steps_updated>
+    <steps_updated num="4">Serve inside a pita. </steps_updated>
+    <steps_updated num="5">(You can also toast your pita first for an added touch!) </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

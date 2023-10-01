@@ -1,0 +1,50 @@
+<recipe>
+  <title>Emoji Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/emoji-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 9780 2274 4125 13817 3745 </ingredient>
+    <ingredient num="1">13086 9486 13278 12367 </ingredient>
+    <ingredient num="2">12791 2605 13278 13521 890 13278 1258 5981 </ingredient>
+    <ingredient num="3">13086 9486 13278 4465 9031 </ingredient>
+    <ingredient num="4">3917 13278 6216 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+    <ingredient num="7">13798 5895 4168 7632 7990 5291 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44862/low_1501007701.m3u8</low>
+    <high>https://vid.tasty.co/output/44862/mp4_720x1280/1501007701</high>
+  </video>
+  <steps>
+    <step num="0">2794 11951 3745 13233 1391 5994 1514 5895 6211 1681 11951 13233 12573 6949 13817 889 </step>
+    <step num="1">9179 210 8554 11951 12886 371 11951 11907 13817 10968 1681 5994 4721 451 8337 11836 </step>
+    <step num="2">12785 11951 8337 560 5994 13004 12605 13817 4536 2696 560 6285 1580 2985 4970 3231 13025 </step>
+    <step num="3">10936 5994 9190 7051 5378 5895 7155 2251 7777 2696 3988 6781 11951 9453 6235 3755 669 7115 5720 5895 7360 10283 665 1391 7400 665 6339 10299 11923 6288 13817 12313 10628 </step>
+    <step num="4">5570 11951 9235 5720 8337 1802 5994 3550 8797 213 7238 13817 1780 210 11951 7111 7990 238 12689 </step>
+    <step num="5">8916 11951 11513 7811 12738 6395 5766 7990 6620 11004 5895 1681 10963 2147 </step>
+    <step num="6">6252 1391 12051 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2794 11951 3745 13233 1391 5994 1514 5895 6211 1681 11951 13233 12573 6949 13817 889 </steps_updated>
+    <steps_updated num="1">9179 210 8554 11951 12886 371 11951 11907 13817 10968 1681 5994 4721 451 8337 11836 </steps_updated>
+    <steps_updated num="2">12785 11951 8337 560 5994 13004 12605 13817 4536 2696 560 6285 1580 2985 4970 3231 13025 </steps_updated>
+    <steps_updated num="3">10936 5994 9190 7051 5378 5895 7155 2251 7777 2696 3988 6781 11951 9453 </steps_updated>
+    <steps_updated num="4">6235 3755 669 7115 5720 5895 7360 10283 665 1391 7400 665 6339 10299 11923 6288 13817 12313 10628 </steps_updated>
+    <steps_updated num="5">5570 11951 9235 5720 8337 1802 5994 3550 8797 213 7238 13817 1780 210 11951 7111 7990 238 12689 </steps_updated>
+    <steps_updated num="6">8916 11951 11513 7811 12738 6395 5766 7990 6620 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="7">6252 1391 12051 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eton Mess Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eton-mess-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">⅔ cup ; strawberry ; (100 g) </ingredient>
+    <ingredient num="1">6 ; meringue nests </ingredient>
+    <ingredient num="2">⅓ cup ; double cream ; (100 mL) </ingredient>
+    <ingredient num="3">¾ cup ; white chocolate, melted ; (150 g) </ingredient>
+    <ingredient num="4">6 ; lollipop sticks </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32124/low_1495125357.m3u8</low>
+    <high>https://vid.tasty.co/output/32124/mp4_720x1280/1495125357</high>
+  </video>
+  <steps>
+    <step num="0">Add the strawberries, two crushed meringue nests and double cream to a large mixing bowl, and whisk until thick. </step>
+    <step num="1">Transfer the mixture into shot glasses, then place lolly sticks into them. </step>
+    <step num="2">Freeze until solid. </step>
+    <step num="3">Take the pops out of the glass and dip in melted white chocolate, then roll in more crushed meringue. </step>
+    <step num="4">Freeze again if necessary. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the strawberries, two crushed meringue nests and double cream to a large mixing bowl, and whisk until thick. </steps_updated>
+    <steps_updated num="1">Transfer the mixture into shot glasses, then place lolly sticks into them. </steps_updated>
+    <steps_updated num="2">Freeze until solid. </steps_updated>
+    <steps_updated num="3">Take the pops out of the glass and dip in melted white chocolate, then roll in more crushed meringue. </steps_updated>
+    <steps_updated num="4">Freeze again if necessary. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

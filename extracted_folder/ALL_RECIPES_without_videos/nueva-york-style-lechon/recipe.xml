@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Nueva York-Style Lechon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nueva-york-style-lechon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/filipino-style-pork-stir-fried-noodles-lechon-pancit-by-jeepney</comp_url>
+  <ingredients>
+    <ingredient num="0">12 cloves ; garlic, minced </ingredient>
+    <ingredient num="1">2 tablespoons ; black pepper </ingredient>
+    <ingredient num="2">2 tablespoons ; salt </ingredient>
+    <ingredient num="3">10 lb ; suckling pig, patted dry ; (4.5 kg) </ingredient>
+    <ingredient num="4">4 stalks ; lemongrass, pounded, tough outer layer removed </ingredient>
+    <ingredient num="5">1 ; large white onion, quartered </ingredient>
+    <ingredient num="6">1 bunch ; green onion </ingredient>
+    <ingredient num="7">1 ½ lb ; longanisa humada ; (680 g) </ingredient>
+    <ingredient num="8">¼ cup ; soy sauce ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">BBQ</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96516/hls24_1527723411.m3u8</low>
+    <high>https://vid.tasty.co/output/96516/landscape_720/1527723411</high>
+  </video>
+  <duration>
+    <start_time>27.0</start_time>
+    <end_time>97.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 450˚F (230˚C). </step>
+    <step num="1">Combine the minced garlic, salt, and pepper in a medium bowl. Rub the mixture on the inside cavity of the suckling pig. </step>
+    <step num="2">Stuff the lemongrass, onion, green onions, and longanisa inside the cavity. </step>
+    <step num="3">Sew the cavity shut with butcher’s twine. </step>
+    <step num="4">Transfer the pig to a large baking sheet. Brush the pig with soy sauce and cover the ears and tail with aluminum foil. </step>
+    <step num="5">Roast for 30 minutes, then reduce the heat to 350˚F (180˚C) and continue to cook for 2½ hours, or until the internal temperature reaches 160˚F (70˚C) and the skin is crispy. </step>
+    <step num="6">Remove the pig from the oven and reserve the pan drippings for the pancit. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">Combine the minced garlic, salt, and pepper in a medium bowl. </steps_updated>
+    <steps_updated num="2">Rub the mixture on the inside cavity of the suckling pig. </steps_updated>
+    <steps_updated num="3">Stuff the lemongrass, onion, green onions, and longanisa inside the cavity. </steps_updated>
+    <steps_updated num="4">Sew the cavity shut with butcher’s twine. </steps_updated>
+    <steps_updated num="5">Transfer the pig to a large baking sheet. </steps_updated>
+    <steps_updated num="6">Brush the pig with soy sauce and cover the ears and tail with aluminum foil. </steps_updated>
+    <steps_updated num="7">Roast for 30 minutes, then reduce the heat to 350˚F (180˚C) and continue to cook for 2½ hours, or until the internal temperature reaches 160˚F (70˚C) and the skin is crispy. </steps_updated>
+    <steps_updated num="8">Remove the pig from the oven and reserve the pan drippings for the pancit. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

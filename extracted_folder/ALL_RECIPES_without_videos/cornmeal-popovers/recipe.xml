@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cornmeal Popovers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cornmeal-popovers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; large eggs </ingredient>
+    <ingredient num="1">4 tablespoons ; unsalted butter, 1/2 stick melted, plus 2 tablespoons softened for greasing </ingredient>
+    <ingredient num="2">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="3">3 ½ cups ; milk ; (840 mL) </ingredient>
+    <ingredient num="4">1 ½ cups ; all-purpose flour ; (185 g) </ingredient>
+    <ingredient num="5">1 cup ; cornmeal, finely ground ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/115609/hls24_1542306478.m3u8</low>
+    <high>https://vid.tasty.co/output/115609/landscape_720/1542306478</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine the eggs, melted butter, salt, and milk. Whisk well. </step>
+    <step num="1">Sift in the flour and cornmeal and slowly whisk to incorporate. Let the batter sit for at least 30 minutes, or up to 4 hours. </step>
+    <step num="2">Preheat the oven to 400˚F (200˚C). Place 2 12-cup muffin tins in the oven as it preheats. </step>
+    <step num="3">Remove the hot muffin tins from the oven and brush with butter, then return to the oven for 5 minutes. </step>
+    <step num="4">Remove the muffin tins from the oven and distribute the batter evenly among the muffin cups, filling them almost to the rim. </step>
+    <step num="5">Bake for 15 minutes, then reduce the oven temperature to 350˚F (180˚C) and bake for 15 minutes more, until the popovers are lightly browned and puffed. </step>
+    <step num="6">Serve immediately. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the eggs, melted butter, salt, and milk. </steps_updated>
+    <steps_updated num="1">Whisk well. </steps_updated>
+    <steps_updated num="2">Sift in the flour and cornmeal and slowly whisk to incorporate. </steps_updated>
+    <steps_updated num="3">Let the batter sit for at least 30 minutes, or up to 4 hours. </steps_updated>
+    <steps_updated num="4">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="5">Place 2 12-cup muffin tins in the oven as it preheats. </steps_updated>
+    <steps_updated num="6">Remove the hot muffin tins from the oven and brush with butter, then return to the oven for 5 minutes. </steps_updated>
+    <steps_updated num="7">Remove the muffin tins from the oven and distribute the batter evenly among the muffin cups, filling them almost to the rim. </steps_updated>
+    <steps_updated num="8">Bake for 15 minutes, then reduce the oven temperature to 350˚F (180˚C) and bake for 15 minutes more, until the popovers are lightly browned and puffed. </steps_updated>
+    <steps_updated num="9">Serve immediately. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

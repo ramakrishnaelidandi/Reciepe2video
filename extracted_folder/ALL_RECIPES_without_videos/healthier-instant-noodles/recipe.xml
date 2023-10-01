@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthier Instant Noodles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-instant-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-dorm-friendly-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; soy sauce </ingredient>
+    <ingredient num="1">½ teaspoon ; toasted sesame oil </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">¼ cup ; mushroom, thinly sliced ; (20 g) </ingredient>
+    <ingredient num="4">¼ cup ; carrot, cut into matchsticks ; (25 g) </ingredient>
+    <ingredient num="5">½ cup ; fresh spinach, chopped ; (20 g) </ingredient>
+    <ingredient num="6">1 cup ; dry instant noodle ; (100 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; green onion, chopped </ingredient>
+    <ingredient num="8">1 cup ; hot broth, or hot water ; (235 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57773/low_1508773504.m3u8</low>
+    <high>https://vid.tasty.co/output/57773/mp4_720x1280/1508773504</high>
+  </video>
+  <duration>
+    <start_time>31.97</start_time>
+    <end_time>49.22</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fill a mason jar with soy sauce, sesame oil, pepper, mushrooms, carrots, spinach, noodles, and green onions. </step>
+    <step num="1">Adjust seasonings to taste. </step>
+    <step num="2">Store in the fridge for up to 5 days. </step>
+    <step num="3">When you’re ready to serve, pour in the hot water or broth. Stir well. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fill a mason jar with soy sauce, sesame oil, pepper, mushrooms, carrots, spinach, noodles, and green onions. </steps_updated>
+    <steps_updated num="1">Adjust seasonings to taste. </steps_updated>
+    <steps_updated num="2">Store in the fridge for up to 5 days. </steps_updated>
+    <steps_updated num="3">When you’re ready to serve, pour in the hot water or broth. </steps_updated>
+    <steps_updated num="4">Stir well. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01015</start_time>
+    <end_time>01560</end_time>
+  </duration_human>
+</recipe>

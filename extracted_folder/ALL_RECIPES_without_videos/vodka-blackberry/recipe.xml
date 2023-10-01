@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vodka Blackberry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vodka-blackberry</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-cocktails</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; ice ; (110 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; blackberry jam </ingredient>
+    <ingredient num="2">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="3">¼ cup ; vodka ; (60 mL) </ingredient>
+    <ingredient num="4">lemon peel, for garnish </ingredient>
+    <ingredient num="5">cocktail shaker </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101021/hls24_1530810442.m3u8</low>
+    <high>https://vid.tasty.co/output/101021/landscape_720/1530810442</high>
+  </video>
+  <duration>
+    <start_time>66.0</start_time>
+    <end_time>98.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a cocktail shaker, combine the ice, blackberry jam, lemon juice, and vodka. </step>
+    <step num="1">Cover with the lid and shake vigorously for 30 seconds. </step>
+    <step num="2">Strain into desired serving glass. </step>
+    <step num="3">Garnish with the lemon peel. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a cocktail shaker, combine the ice, blackberry jam, lemon juice, and vodka. </steps_updated>
+    <steps_updated num="1">Cover with the lid and shake vigorously for 30 seconds. </steps_updated>
+    <steps_updated num="2">Strain into desired serving glass. </steps_updated>
+    <steps_updated num="3">Garnish with the lemon peel. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

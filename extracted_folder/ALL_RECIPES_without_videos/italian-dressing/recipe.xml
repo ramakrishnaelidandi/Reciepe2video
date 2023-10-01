@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Italian Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/italian-dressing</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/whole30-friendly-dressings</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; garlic, minced </ingredient>
+    <ingredient num="1">1 tablespoon ; fresh oregano, finely chopped </ingredient>
+    <ingredient num="2">2 tablespoons ; fresh parsley, finely chopped </ingredient>
+    <ingredient num="3">1 tablespoon ; fresh basil, finely chopped </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">¾ cup ; white wine vinegar ; (180 mL) </ingredient>
+    <ingredient num="7">1 cup ; olive oil ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/78713/hls24_1518559833.m3u8</low>
+    <high>https://vid.tasty.co/output/78713/landscape_720/1518559833</high>
+  </video>
+  <duration>
+    <start_time>7.666</start_time>
+    <end_time>26.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add garlic, oregano, parsley, basil, salt, pepper, white wine vinegar, and olive oil into a mason jar and secure lid tightly. </step>
+    <step num="1">Shake vigorously until ingredients are mixed thoroughly. </step>
+    <step num="2">Store dressing in the fridge and use within 1-2 weeks. You may need to shake up the ingredients again before each use. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add garlic, oregano, parsley, basil, salt, pepper, white wine vinegar, and olive oil into a mason jar and secure lid tightly. </steps_updated>
+    <steps_updated num="1">Shake vigorously until ingredients are mixed thoroughly. </steps_updated>
+    <steps_updated num="2">Store dressing in the fridge and use within 1-2 weeks. </steps_updated>
+    <steps_updated num="3">You may need to shake up the ingredients again before each use. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

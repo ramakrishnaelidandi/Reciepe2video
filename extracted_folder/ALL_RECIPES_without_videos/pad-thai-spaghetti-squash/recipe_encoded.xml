@@ -1,0 +1,74 @@
+<recipe>
+  <title>Pad Thai Spaghetti Squash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pad-thai-spaghetti-squash</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-squash-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 13402 2457 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 7845 </ingredient>
+    <ingredient num="4">3917 2605 13278 341 1387 </ingredient>
+    <ingredient num="5">3917 2605 13278 976 11021 13278 2935 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 341 1466 7845 13278 11953 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 3962 4985 11453 13278 3433 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 341 6334 13278 3433 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 6097 13798 </ingredient>
+    <ingredient num="10">12791 2605 13278 6209 6712 3962 13278 12237 5981 </ingredient>
+    <ingredient num="11">12791 2605 13278 10383 12282 13278 13125 8007 </ingredient>
+    <ingredient num="12">13086 9486 13278 11691 2260 </ingredient>
+    <ingredient num="13">3917 14014 13278 9110 5766 </ingredient>
+    <ingredient num="14">8580 9486 13278 14240 5895 7484 </ingredient>
+    <ingredient num="15">8580 9486 13278 6209 9712 10522 </ingredient>
+    <ingredient num="16">3917 14014 13278 11114 </ingredient>
+    <ingredient num="17">1580 2605 13278 7160 13798 9924 13278 2935 5981 </ingredient>
+    <ingredient num="18">3917 14014 13278 6209 14635 4125 13817 10015 </ingredient>
+    <ingredient num="19">3917 14014 13278 4155 10015 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Thai</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55204/low_1507246656.m3u8</low>
+    <high>https://vid.tasty.co/output/55204/mp4_720x1280/1507246656</high>
+  </video>
+  <duration>
+    <start_time>49.86</start_time>
+    <end_time>86.63</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 5281 13018 </step>
+    <step num="1">10936 5994 5133 5097 12205 11951 2457 210 8467 4429 11951 2457 9490 13700 12660 14365 210 7679 12823 6028 5994 8711 2348 5412 11951 1354 6688 7990 6175 8927 560 8523 12251 560 10694 432 4669 210 8467 </step>
+    <step num="2">9679 2696 11951 12320 10654 1391 7632 13817 1678 1391 12610 13817 12375 7831 7990 1190 11004 5895 1681 5994 1514 14138 13669 7944 11951 1012 </step>
+    <step num="3">7559 772 11951 13798 7611 4120 11951 13384 11691 7280 9110 7632 14240 9712 7654 7045 13798 10907 14635 13817 11384 210 5994 881 8266 2605 5895 13757 14511 13328 560 1011 </step>
+    <step num="4">6054 11951 2457 6781 11951 10439 812 1391 5994 12747 14467 7811 11951 5832 560 6722 5312 11531 6287 9502 </step>
+    <step num="5">10950 5994 2597 12377 4120 11951 6287 1391 11951 10837 8445 1466 10986 4985 12384 7272 3850 6712 13817 11951 9286 9179 2373 13352 560 11951 9599 2696 13402 2457 6835 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5281 13018 </steps_updated>
+    <steps_updated num="1">10936 5994 5133 5097 12205 11951 2457 210 8467 </steps_updated>
+    <steps_updated num="2">4429 11951 2457 9490 13700 12660 14365 210 7679 12823 6028 5994 8711 2348 5412 11951 1354 </steps_updated>
+    <steps_updated num="3">6688 7990 6175 8927 560 8523 </steps_updated>
+    <steps_updated num="4">12251 560 10694 432 4669 210 8467 </steps_updated>
+    <steps_updated num="5">9679 2696 11951 12320 10654 1391 7632 13817 1678 1391 12610 13817 12375 </steps_updated>
+    <steps_updated num="6">7831 7990 1190 11004 5895 1681 5994 1514 14138 13669 7944 11951 1012 </steps_updated>
+    <steps_updated num="7">7559 4120 13384 11691 7280 9110 7632 14240 9712 7654 7045 13798 10907 14635 13817 11384 210 5994 14511 13328 560 1011 </steps_updated>
+    <steps_updated num="8">6054 2457 6781 11951 11546 1391 5994 1514 14467 7811 11951 5832 560 6722 5312 11531 6287 9502 </steps_updated>
+    <steps_updated num="9">10950 5994 12377 4120 6287 1391 10837 8445 5016 4985 7272 7272 3850 6712 13817 9286 </steps_updated>
+    <steps_updated num="10">9179 2373 13352 560 11951 9599 2696 13402 2457 6835 </steps_updated>
+    <steps_updated num="11">12774 210 11951 7602 13817 10707 4711 1391 14621 13817 2903 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01543</start_time>
+    <end_time>02623</end_time>
+  </duration_human>
+</recipe>

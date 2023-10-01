@@ -1,0 +1,50 @@
+<recipe>
+  <title>BBQ Popcorn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-popcorn</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 2031 13278 11986 9496 </ingredient>
+    <ingredient num="1">1580 8071 13278 13389 11703 </ingredient>
+    <ingredient num="2">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="3">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="4">3917 8071 13278 3855 82 </ingredient>
+    <ingredient num="5">8580 9486 13278 1368 4834 </ingredient>
+    <ingredient num="6">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="7">3917 1580 9486 13278 6742 5766 </ingredient>
+    <ingredient num="8">1813 2605 13278 11091 2195 9632 13278 13412 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Snacks</category>
+    <category num="2">Game Day</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/126948/hls24_1552343103.m3u8</low>
+    <high>https://vid.tasty.co/output/126948/landscape_720/1552343103</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2192 14511 10968 3626 11951 6958 13389 8117 11384 8117 6334 8117 13817 12051 2257 5292 </step>
+    <step num="1">10950 5994 10909 2192 14511 10968 3626 11951 1368 4834 13817 8244 14158 2257 5292 </step>
+    <step num="2">12305 11951 6742 5766 210 5994 2597 10083 11770 13757 2082 9179 199 2195 12939 13817 6506 1391 11951 2445 9956 6665 2619 740 11951 12886 371 11951 12939 13817 510 8633 5452 13767 6659 1681 6665 13824 1438 9956 11951 1544 12573 3954 12339 13086 131 10639 837 3482 11951 7855 13817 3945 1788 7990 13133 131 560 2234 7115 11757 12939 560 1438 </step>
+    <step num="3">10007 13817 13630 11951 1368 4834 2373 11770 11951 7538 12775 1686 560 515 </step>
+    <step num="4">6252 11951 7717 2373 11770 11951 2195 13817 6142 560 6798 7317 </step>
+    <step num="5">12785 560 5994 12377 13817 13279 419 5895 11434 210 5994 3622 11826 4255 5994 10765 213 13817 3945 10694 2043 432 10875 210 5994 8466 3801 7990 3386 560 8580 2497 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 14511 10968 3626 11951 6958 13389 8117 11384 8117 6334 8117 13817 12051 </steps_updated>
+    <steps_updated num="1">2257 5292 </steps_updated>
+    <steps_updated num="2">10950 5994 10909 2192 14511 10968 3626 11951 1368 4834 13817 8244 14158 </steps_updated>
+    <steps_updated num="3">2257 5292 </steps_updated>
+    <steps_updated num="4">12305 11951 6742 5766 210 5994 2597 10083 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">9179 199 2195 12939 13817 6506 1391 11951 2445 </steps_updated>
+    <steps_updated num="6">9956 6665 2619 740 11951 12886 371 11951 12939 13817 510 8633 5452 13767 6659 1681 6665 13824 1438 </steps_updated>
+    <steps_updated num="7">9956 11951 1544 12573 3954 12339 13086 131 10639 837 3482 11951 7855 13817 3945 1788 7990 13133 131 560 2234 7115 11757 12939 560 1438 </steps_updated>
+    <steps_updated num="8">10007 13817 13630 11951 1368 4834 2373 11770 11951 7538 </steps_updated>
+    <steps_updated num="9">12775 1686 560 515 </steps_updated>
+    <steps_updated num="10">6252 11951 7717 2373 11770 11951 2195 13817 6142 560 6798 7317 </steps_updated>
+    <steps_updated num="11">12785 560 5994 12377 13817 13279 419 5895 11434 210 5994 3622 11826 4255 5994 10765 213 13817 3945 10694 2043 432 10875 210 5994 8466 3801 7990 3386 560 8580 2497 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<recipe>
+  <title>Mint Chip Avocado Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mint-chip-avocado-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 11728 6716 </ingredient>
+    <ingredient num="1">12791 2605 13278 9586 13278 7005 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 12773 6742 5802 13278 13125 8007 </ingredient>
+    <ingredient num="3">3917 8071 13278 13934 10937 </ingredient>
+    <ingredient num="4">3917 2157 13278 13510 82 </ingredient>
+    <ingredient num="5">5475 13826 1404 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33854/low_1497288234.m3u8</low>
+    <high>https://vid.tasty.co/output/33854/mp4_720x1280/1497288234</high>
+  </video>
+  <duration>
+    <start_time>17.0</start_time>
+    <end_time>53.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 6716 560 5994 12027 5895 8016 5349 14473 1391 14240 6742 9889 13934 10937 13817 12051 </step>
+    <step num="1">3262 1681 4376 14455 573 10860 2658 14532 </step>
+    <step num="2">1083 2373 669 5994 6911 3830 13817 7475 210 11951 4680 10506 </step>
+    <step num="3">13855 7990 7811 767 6865 14329 4429 9897 758 2234 560 14070 7990 8489 8927 7990 7372 14408 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 6716 560 5994 12027 5895 8016 5349 14473 1391 14240 6742 9889 13934 10937 13817 12051 </steps_updated>
+    <steps_updated num="1">3262 1681 4376 14455 573 10860 2658 14532 </steps_updated>
+    <steps_updated num="2">1083 2373 669 5994 6911 3830 13817 7475 210 11951 4680 10506 </steps_updated>
+    <steps_updated num="3">13855 7990 7811 767 6865 14329 </steps_updated>
+    <steps_updated num="4">4429 9897 758 2234 560 14070 7990 8489 8927 7990 7372 14408 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00569</start_time>
+    <end_time>01600</end_time>
+  </duration_human>
+</recipe>

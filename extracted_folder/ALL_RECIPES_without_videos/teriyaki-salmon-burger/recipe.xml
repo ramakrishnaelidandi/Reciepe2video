@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Teriyaki Salmon Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/teriyaki-salmon-burger</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">7 oz ; salmon fillet, skin-on ; (200 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="2">2 teaspoons ; mirin </ingredient>
+    <ingredient num="3">2 teaspoons ; sake </ingredient>
+    <ingredient num="4">1 teaspoon ; sugar </ingredient>
+    <ingredient num="5">1 ¼ cups ; rice, cooked ; (300 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; sesame oil </ingredient>
+    <ingredient num="7">green leaf lettuce, to serve </ingredient>
+    <ingredient num="8">mayonnaise, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/78581/hls24_1518542230.m3u8</low>
+    <high>https://vid.tasty.co/output/78581/landscape_720/1518542230</high>
+  </video>
+  <steps>
+    <step num="0">Combine soy sauce, mirin, sake, and sugar in a bowl and stir to combine. Add the salmon and marinate for 15 minutes. </step>
+    <step num="1">For the sauce, combine soy sauce, mirin, sake, and sugar in a bowl and stir to combine. </step>
+    <step num="2">Heat a pan over medium-high heat and add a splash of salad oil. Add the marinated salmon and cook until both sides are cooked through, about 3 minutes. </step>
+    <step num="3">Add the reserved marinade to the pan. Stir until the salmon is fully coated in the glaze. </step>
+    <step num="4">Form the rice into four patties. </step>
+    <step num="5">Heat another pan over medium-high heat and add the sesame oil. Add the rice “buns” and cook until the outside is crispy, about 5 minutes. </step>
+    <step num="6">Top the rice "bun" with a piece of green leaf lettuce, salmon, mayonnaise, and top with another rice “bun.” Repeat with remaining ingredients. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine soy sauce, mirin, sake, and sugar in a bowl and stir to combine. </steps_updated>
+    <steps_updated num="1">Add the salmon and marinate for 15 minutes. </steps_updated>
+    <steps_updated num="2">For the sauce, combine soy sauce, mirin, sake, and sugar in a bowl and stir to combine. </steps_updated>
+    <steps_updated num="3">Heat a pan over medium-high heat and add a splash of salad oil. </steps_updated>
+    <steps_updated num="4">Add the marinated salmon and cook until both sides are cooked through, about 3 minutes. </steps_updated>
+    <steps_updated num="5">Add the reserved marinade to the pan. </steps_updated>
+    <steps_updated num="6">Stir until the salmon is fully coated in the glaze. </steps_updated>
+    <steps_updated num="7">Form the rice into four patties. </steps_updated>
+    <steps_updated num="8">Heat another pan over medium-high heat and add the sesame oil. </steps_updated>
+    <steps_updated num="9">Add the rice “buns” and cook until the outside is crispy, about 5 minutes. </steps_updated>
+    <steps_updated num="10">Top the rice "bun" with a piece of green leaf lettuce, salmon, mayonnaise, and top with another rice “bun.” Repeat with remaining ingredients. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

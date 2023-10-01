@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Southwestern Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-omelette</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/weekend-brunch-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; oil </ingredient>
+    <ingredient num="1">½ cup ; ham, chopped ; (75 g) </ingredient>
+    <ingredient num="2">2 ; bell peppers, diced </ingredient>
+    <ingredient num="3">1 cup ; spinach ; (40 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">4 ; eggs </ingredient>
+    <ingredient num="7">½ cup ; jack cheese, shredded ; (65 g) </ingredient>
+    <ingredient num="8">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="9">1 ; avocado, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+    <category num="1">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22555/low_1485886490.m3u8</low>
+    <high>https://vid.tasty.co/output/22555/mp4_720x1280/1485886490</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>56.56</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat oil in a pan over high heat. </step>
+    <step num="1">Cook the ham, peppers, and spinach with a pinch of salt and pepper until the spinach has wilted. Transfer to a bowl. </step>
+    <step num="2">Whisk the 4 eggs with a pinch of salt &amp; pepper, then pour half of the mixture into the pan, swirling it around to make a full circle. Lower to a medium heat. </step>
+    <step num="3">Cook for about 15 seconds, then spoon half of the veggie mixture on one half of the omelette and sprinkle half of the jack and half the cheddar cheese on the other half. </step>
+    <step num="4">Cook until the cheese is half melted, then fold one half of the omelette over the other. </step>
+    <step num="5">Cook for another 15 seconds, then remove and transfer to a plate. </step>
+    <step num="6">Fan out half of the avocado slices on top of the omelette, then repeat with the other omelette. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a pan over high heat. </steps_updated>
+    <steps_updated num="1">Cook the ham, peppers, and spinach with a pinch of salt and pepper until the spinach has wilted. </steps_updated>
+    <steps_updated num="2">Transfer to a bowl. </steps_updated>
+    <steps_updated num="3">Whisk the 4 eggs with a pinch of salt &amp; pepper, then pour half of the mixture into the pan, swirling it around to make a full circle. </steps_updated>
+    <steps_updated num="4">Lower to a medium heat. </steps_updated>
+    <steps_updated num="5">Cook for about 15 seconds, then spoon half of the veggie mixture on one half of the omelette and sprinkle half of the jack and half the cheddar cheese on the other half. </steps_updated>
+    <steps_updated num="6">Cook until the cheese is half melted, then fold one half of the omelette over the other. </steps_updated>
+    <steps_updated num="7">Cook for another 15 seconds, then remove and transfer to a plate. </steps_updated>
+    <steps_updated num="8">Fan out half of the avocado slices on top of the omelette, then repeat with the other omelette. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00653</start_time>
+    <end_time>01713</end_time>
+  </duration_human>
+</recipe>

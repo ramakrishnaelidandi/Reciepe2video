@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fish And Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fish-and-chips</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; russet potatoes, cut into fried </ingredient>
+    <ingredient num="1">canola oil, for frying </ingredient>
+    <ingredient num="2">1 teaspoon ; kosher salt, plus more to taste </ingredient>
+    <ingredient num="3">2 lb ; cod fillets ; (910 g) </ingredient>
+    <ingredient num="4">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="5">2 ½ cups ; all-purpose flour, divided ; (310 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="7">1 bottle ; beer </ingredient>
+    <ingredient num="8">fresh parsley, chopped, for garnish </ingredient>
+    <ingredient num="9">1 ; lemon, cut into wedges, for serving </ingredient>
+    <ingredient num="10">tartar sauce, for serving </ingredient>
+    <ingredient num="11">ketchup, for serving </ingredient>
+    <ingredient num="12">malt vinegar, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129616/hls24_1554923865.m3u8</low>
+    <high>https://vid.tasty.co/output/129616/landscape_720/1554923865</high>
+  </video>
+  <steps>
+    <step num="0">Add the potatoes to a bowl of cold water to remove excess starch and prevent discoloration. </step>
+    <step num="1">Pour oil to a depth of 6 inches (15 cm) in a large heavy pot. Heat over medium-high heat until oil reaches 325˚F (160˚C). </step>
+    <step num="2">Drain the potatoes and blot dry thoroughly with paper towels. </step>
+    <step num="3">Working in batches, fry the potatoes in the hot oil for about 5 minutes, or until pale golden. With a slotted spoon or spider, transfer to a wire rack to drain. Season with salt. </step>
+    <step num="4">Increase the heat to high. When the oil temperature reaches 375˚F (190˚C), return the fries to the pot and fry until golden brown. Transfer to the rack to drain again and season with more salt. </step>
+    <step num="5">Reduce the heat to medium-high to let the oil temperature reduce to 350˚F (180˚C). </step>
+    <step num="6">Pat the cod fillets dry with a paper towel. Season all over with salt and pepper. </step>
+    <step num="7">Add 1 cup (125 G) of flour to a plate. Dredge the cod in the flour, shaking off any excess. </step>
+    <step num="8">In a large bowl, whisk to combine the remaining 1½ cups (185 G) of flour, 1 teaspoon salt, and baking powder. Gradually add the beer, whisking until smooth. </step>
+    <step num="9">Dip the dredged cod in the batter, turning to coat completely. </step>
+    <step num="10">Fry the cod in the hot oil until golden brown on all sides, 3-5 minutes. Transfer to a wire rack to drain for 3 minutes. Season with salt. </step>
+    <step num="11">Garnish the fish and chips with parsley and serve with lemon wedges, tartar sauce, ketchup, and malt vinegar. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the potatoes to a bowl of cold water to remove excess starch and prevent discoloration. </steps_updated>
+    <steps_updated num="1">Pour oil to a depth of 6 inches (15 cm) in a large heavy pot. </steps_updated>
+    <steps_updated num="2">Heat over medium-high heat until oil reaches 325˚F (160˚C). </steps_updated>
+    <steps_updated num="3">Drain the potatoes and blot dry thoroughly with paper towels. </steps_updated>
+    <steps_updated num="4">Working in batches, fry the potatoes in the hot oil for about 5 minutes, or until pale golden. </steps_updated>
+    <steps_updated num="5">With a slotted spoon or spider, transfer to a wire rack to drain. </steps_updated>
+    <steps_updated num="6">Season with salt. </steps_updated>
+    <steps_updated num="7">Increase the heat to high. </steps_updated>
+    <steps_updated num="8">When the oil temperature reaches 375˚F (190˚C), return the fries to the pot and fry until golden brown. </steps_updated>
+    <steps_updated num="9">Transfer to the rack to drain again and season with more salt. </steps_updated>
+    <steps_updated num="10">Reduce the heat to medium-high to let the oil temperature reduce to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="11">Pat the cod fillets dry with a paper towel. </steps_updated>
+    <steps_updated num="12">Season all over with salt and pepper. </steps_updated>
+    <steps_updated num="13">Add 1 cup (125 G) of flour to a plate. </steps_updated>
+    <steps_updated num="14">Dredge the cod in the flour, shaking off any excess. </steps_updated>
+    <steps_updated num="15">In a large bowl, whisk to combine the remaining 1½ cups (185 G) of flour, 1 teaspoon salt, and baking powder. </steps_updated>
+    <steps_updated num="16">Gradually add the beer, whisking until smooth. </steps_updated>
+    <steps_updated num="17">Dip the dredged cod in the batter, turning to coat completely. </steps_updated>
+    <steps_updated num="18">Fry the cod in the hot oil until golden brown on all sides, 3-5 minutes. </steps_updated>
+    <steps_updated num="19">Transfer to a wire rack to drain for 3 minutes. </steps_updated>
+    <steps_updated num="20">Season with salt. </steps_updated>
+    <steps_updated num="21">Garnish the fish and chips with parsley and serve with lemon wedges, tartar sauce, ketchup, and malt vinegar. </steps_updated>
+    <steps_updated num="22">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

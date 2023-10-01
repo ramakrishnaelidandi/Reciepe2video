@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Frozen Breakfast Burritos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-breakfast-burritos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">bacon </ingredient>
+    <ingredient num="1">sausage </ingredient>
+    <ingredient num="2">baby red potato, quartered </ingredient>
+    <ingredient num="3">1 ; red bell pepper, chopped </ingredient>
+    <ingredient num="4">1 ; yellow onion, chopped </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">10 ; eggs, beaten </ingredient>
+    <ingredient num="8">1 bag ; shredded cheese </ingredient>
+    <ingredient num="9">1 bunch ; green onion, sliced, optional </ingredient>
+    <ingredient num="10">flour tortilla </ingredient>
+    <ingredient num="11">parchment paper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32140/low_1495125400.m3u8</low>
+    <high>https://vid.tasty.co/output/32140/mp4_720x1280/1495125400</high>
+  </video>
+  <steps>
+    <step num="0">In a large skillet over medium heat, cook bacon (in batches if necessary) until crispy. Remove the bacon to a paper towel lined plate - leave to cool. </step>
+    <step num="1">In the same skillet - using leftover bacon grease (drain some if necessary) add the potatoes and season with salt and pepper. </step>
+    <step num="2">In the same saucepan, cook sausage until browned and cooked through. Remove to a paper towel lined bowl. </step>
+    <step num="3">Reduce heat to medium/low and pour beaten eggs into the skillet. Fold and stir eggs occasionally until cooked but still soft and moist. Remove from pan. </step>
+    <step num="4">While cooked ingredients are cooling slightly, gather flour tortillas, shredded cheese and sliced green onions (optional) and set them out on your table/workspace. </step>
+    <step num="5">To assemble the burritos, lay out a tortilla and start with a base of eggs followed by desired toppings and finish with cheese. </step>
+    <step num="6">To wrap, fold in both sides and then fold the bottom up and over all the ingredients. Roll up tightly. </step>
+    <step num="7">NOTE: If you find the tortillas are tearing, heat them up - a few at a time - for 20 seconds in the microwave before assembling. </step>
+    <step num="8">Wrap up in parchment paper. Place the parchment-wrapped burritos in a 1 gallon freezer bag and place in the freezer to store for up to one month. </step>
+    <step num="9">To Reheat: Remove the frozen burrito from the freezer. Unwrap from parchment paper and wrap the frozen burrito up in a damp paper towel. Place on a microwave safe plate and microwave for 3 minutes. </step>
+    <step num="10">Remove from microwave and rest for one minute before unwrapping. Remove the paper towel, serve with hot sauce, salsa, or sour cream! </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large skillet over medium heat, cook bacon (in batches if necessary) until crispy. </steps_updated>
+    <steps_updated num="1">Remove the bacon to a paper towel lined plate - leave to cool. </steps_updated>
+    <steps_updated num="2">In the same skillet - using leftover bacon grease (drain some if necessary) add the potatoes and season with salt and pepper. </steps_updated>
+    <steps_updated num="3">In the same saucepan, cook sausage until browned and cooked through. </steps_updated>
+    <steps_updated num="4">Remove to a paper towel lined bowl. </steps_updated>
+    <steps_updated num="5">Reduce heat to medium/low and pour beaten eggs into the skillet. </steps_updated>
+    <steps_updated num="6">Fold and stir eggs occasionally until cooked but still soft and moist. </steps_updated>
+    <steps_updated num="7">Remove from pan. </steps_updated>
+    <steps_updated num="8">While cooked ingredients are cooling slightly, gather flour tortillas, shredded cheese and sliced green onions (optional) and set them out on your table/workspace. </steps_updated>
+    <steps_updated num="9">To assemble the burritos, lay out a tortilla and start with a base of eggs followed by desired toppings and finish with cheese. </steps_updated>
+    <steps_updated num="10">To wrap, fold in both sides and then fold the bottom up and over all the ingredients. </steps_updated>
+    <steps_updated num="11">Roll up tightly. </steps_updated>
+    <steps_updated num="12">NOTE: If you find the tortillas are tearing, heat them up - a few at a time - for 20 seconds in the microwave before assembling. </steps_updated>
+    <steps_updated num="13">Wrap up in parchment paper. </steps_updated>
+    <steps_updated num="14">Place the parchment-wrapped burritos in a 1 gallon freezer bag and place in the freezer to store for up to one month. </steps_updated>
+    <steps_updated num="15">To Reheat: Remove the frozen burrito from the freezer. </steps_updated>
+    <steps_updated num="16">Unwrap from parchment paper and wrap the frozen burrito up in a damp paper towel. </steps_updated>
+    <steps_updated num="17">Place on a microwave safe plate and microwave for 3 minutes. </steps_updated>
+    <steps_updated num="18">Remove from microwave and rest for one minute before unwrapping. </steps_updated>
+    <steps_updated num="19">Remove the paper towel, serve with hot sauce, salsa, or sour cream! </steps_updated>
+    <steps_updated num="20">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

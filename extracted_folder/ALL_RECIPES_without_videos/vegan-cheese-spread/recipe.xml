@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan “Cheese” Spread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-cheese-spread</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheese-2-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; raw unsalted cashew, soaked in water for 3 hours ; (130 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; nutritional yeast </ingredient>
+    <ingredient num="2">1 tablespoon ; neutral oil </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54541/low_1506972119.m3u8</low>
+    <high>https://vid.tasty.co/output/54541/mp4_720x1280/1506972119</high>
+  </video>
+  <duration>
+    <start_time>0.75</start_time>
+    <end_time>33.42</end_time>
+  </duration>
+  <steps>
+    <step num="0">Soak cashews in water for 3 hours or over night. </step>
+    <step num="1">Combine all ingredients in food processor and process until fully incorporated and smooth. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak cashews in water for 3 hours or over night. </steps_updated>
+    <steps_updated num="1">Combine all ingredients in food processor and process until fully incorporated and smooth. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00075</start_time>
+    <end_time>00797</end_time>
+  </duration_human>
+</recipe>

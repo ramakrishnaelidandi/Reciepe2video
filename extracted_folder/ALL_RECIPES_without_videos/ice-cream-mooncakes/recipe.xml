@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ice Cream Mooncakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-mooncakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">orange sherbet, or mango sherbet, for the moon part in the middle </ingredient>
+    <ingredient num="1">vanilla ice cream, for the moon part in the middle </ingredient>
+    <ingredient num="2">strawberry ice cream </ingredient>
+    <ingredient num="3">coffee ice cream </ingredient>
+    <ingredient num="4">1 cup ; biscuit, crushed ; (100 g) </ingredient>
+    <ingredient num="5">3 tablespoons ; melted butter </ingredient>
+    <ingredient num="6">2 cups ; chocolate chips ; (350 g) </ingredient>
+    <ingredient num="7">¼ cup ; coconut oil ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32121/low_1495125365.m3u8</low>
+    <high>https://vid.tasty.co/output/32121/mp4_720x1280/1495125365</high>
+  </video>
+  <steps>
+    <step num="0">Using a melon baller or a cookie scoop, scoop out balls of orange/mango sherbet or vanilla ice cream. Place on parchment and freeze for two hours. These will be the “moons” inside the ice cream mooncake. </step>
+    <step num="1">While the ice cream balls are freezing, prepare the biscuit crumbs. Crust one cup (100 g) of biscuits, add the melted butter, and stir until the biscuits crumbs are coated in butter and stick together when packed. </step>
+    <step num="2">Take your ice cream mold or cup, put down a layer of strawberry or coffee ice cream. </step>
+    <step num="3">Place a ball of orange/mango/vanilla into the center. </step>
+    <step num="4">Layer on more strawberry or coffee ice cream. </step>
+    <step num="5">Top it off with the biscuits crumbs and press down. Freeze for another two hours. </step>
+    <step num="6">Prepare the chocolate coating, melt the chocolate chips and coconut oil. Stir until combined and smooth. Set aside until it has cooled to room temp. </step>
+    <step num="7">When ready, unmold your ice cream mooncakes. Pour the melted chocolate over. Freeze overnight. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a melon baller or a cookie scoop, scoop out balls of orange/mango sherbet or vanilla ice cream. </steps_updated>
+    <steps_updated num="1">Place on parchment and freeze for two hours. </steps_updated>
+    <steps_updated num="2">These will be the “moons” inside the ice cream mooncake. </steps_updated>
+    <steps_updated num="3">While the ice cream balls are freezing, prepare the biscuit crumbs. </steps_updated>
+    <steps_updated num="4">Crust one cup (100 g) of biscuits, add the melted butter, and stir until the biscuits crumbs are coated in butter and stick together when packed. </steps_updated>
+    <steps_updated num="5">Take your ice cream mold or cup, put down a layer of strawberry or coffee ice cream. </steps_updated>
+    <steps_updated num="6">Place a ball of orange/mango/vanilla into the center. </steps_updated>
+    <steps_updated num="7">Layer on more strawberry or coffee ice cream. </steps_updated>
+    <steps_updated num="8">Top it off with the biscuits crumbs and press down. </steps_updated>
+    <steps_updated num="9">Freeze for another two hours. </steps_updated>
+    <steps_updated num="10">Prepare the chocolate coating, melt the chocolate chips and coconut oil. </steps_updated>
+    <steps_updated num="11">Stir until combined and smooth. </steps_updated>
+    <steps_updated num="12">Set aside until it has cooled to room temp. </steps_updated>
+    <steps_updated num="13">When ready, unmold your ice cream mooncakes. </steps_updated>
+    <steps_updated num="14">Pour the melted chocolate over. </steps_updated>
+    <steps_updated num="15">Freeze overnight. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Churro Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/churro-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="1">3 tablespoons ; butter </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+    <ingredient num="3">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="4">3 ; eggs </ingredient>
+    <ingredient num="5">8 oz ; cream cheese, 2 packs, softened ; (225 g) </ingredient>
+    <ingredient num="6">1 can ; sweetened condensed milk </ingredient>
+    <ingredient num="7">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="8">1 packet ; unflavored gelatin, dissolved in 1/4 cup (60 ml) cold water </ingredient>
+    <ingredient num="9">1 cup ; whipped cream ; (60 g) </ingredient>
+    <ingredient num="10">sugar, to taste </ingredient>
+    <ingredient num="11">cinnamon, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112251/hls24_1539711501.m3u8</low>
+    <high>https://vid.tasty.co/output/112251/landscape_720/1539711501</high>
+  </video>
+  <steps>
+    <step num="0">In a saucepan combine water, butter and salt, bring to boil. Add the flour and mix well. </step>
+    <step num="1">Cook for a few minutes while stirring and remove from heat. </step>
+    <step num="2">Add the eggs one by one, beating well between each addition. </step>
+    <step num="3">Transfer the dough to a bag with a nozzle and pipe a large spiral on the base of a springform pan. </step>
+    <step num="4">Freeze the base until it is firm. </step>
+    <step num="5">Preheat a large pot of oil to 350˚F (175˚C). Make sure the pot is wide enough for the entire churro base to fit! </step>
+    <step num="6">Fry the churro base until it is golden brown on both sides. </step>
+    <step num="7">Transfer it to a plate and sprinkle with sugar and cinnamon to taste. Place the churro base in the springform pan and reserve. </step>
+    <step num="8">For the filling, in a bowl, beat the cream cheese, condensed milk, vanilla and hydrated gelatin until smooth. Then fold in the whipped cream. </step>
+    <step num="9">Pour the mixture on the churro base and refrigerate for 4 hours or until it is firm. Sprinkle with sugar and cinnamon to taste. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a saucepan combine water, butter and salt, bring to boil. </steps_updated>
+    <steps_updated num="1">Add the flour and mix well. </steps_updated>
+    <steps_updated num="2">Cook for a few minutes while stirring and remove from heat. </steps_updated>
+    <steps_updated num="3">Add the eggs one by one, beating well between each addition. </steps_updated>
+    <steps_updated num="4">Transfer the dough to a bag with a nozzle and pipe a large spiral on the base of a springform pan. </steps_updated>
+    <steps_updated num="5">Freeze the base until it is firm. </steps_updated>
+    <steps_updated num="6">Preheat a large pot of oil to 350˚F (175˚C). </steps_updated>
+    <steps_updated num="7">Make sure the pot is wide enough for the entire churro base to fit! </steps_updated>
+    <steps_updated num="8">Fry the churro base until it is golden brown on both sides. </steps_updated>
+    <steps_updated num="9">Transfer it to a plate and sprinkle with sugar and cinnamon to taste. </steps_updated>
+    <steps_updated num="10">Place the churro base in the springform pan and reserve. </steps_updated>
+    <steps_updated num="11">For the filling, in a bowl, beat the cream cheese, condensed milk, vanilla and hydrated gelatin until smooth. </steps_updated>
+    <steps_updated num="12">Then fold in the whipped cream. </steps_updated>
+    <steps_updated num="13">Pour the mixture on the churro base and refrigerate for 4 hours or until it is firm. </steps_updated>
+    <steps_updated num="14">Sprinkle with sugar and cinnamon to taste. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

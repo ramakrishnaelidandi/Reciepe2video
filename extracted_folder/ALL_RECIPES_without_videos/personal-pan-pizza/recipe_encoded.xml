@@ -1,0 +1,47 @@
+<recipe>
+  <title>Personal Pan Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/personal-pan-pizza</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-recipes-for-your-mini-frying-pan</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">2933 643 13278 6146 8337 13278 9018 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 9122 2260 </ingredient>
+    <ingredient num="3">12791 2605 13278 3333 10865 14538 13278 1936 5981 </ingredient>
+    <ingredient num="4">13086 13009 13278 5243 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91750/hls24_1524870883.m3u8</low>
+    <high>https://vid.tasty.co/output/91750/landscape_720/1524870883</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>30.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 11951 5766 210 5994 1459 5291 5687 11770 9721 2082 </step>
+    <step num="1">5570 11951 6146 8337 210 11951 5687 13817 3945 1240 6175 12689 </step>
+    <step num="2">11423 11951 8337 13817 11003 5994 7700 560 14484 11951 8337 8494 11951 551 371 11951 5687 13817 3386 11951 6701 </step>
+    <step num="3">2988 9122 2260 210 11951 937 371 11951 8337 13817 10707 1391 10865 14538 13817 7068 </step>
+    <step num="4">264 7990 13767 11004 1681 11951 8337 9490 12019 13817 14538 9490 1311 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 11951 5766 210 5994 1459 5291 5687 11770 9721 2082 </steps_updated>
+    <steps_updated num="1">5570 11951 6146 8337 210 11951 5687 13817 3945 1240 6175 12689 </steps_updated>
+    <steps_updated num="2">11423 11951 8337 13817 11003 5994 7700 560 14484 11951 8337 8494 11951 551 371 11951 5687 13817 3386 11951 6701 </steps_updated>
+    <steps_updated num="3">2988 9122 2260 210 11951 937 371 11951 8337 13817 10707 1391 10865 14538 13817 7068 </steps_updated>
+    <steps_updated num="4">264 7990 13767 11004 1681 11951 8337 9490 12019 13817 14538 9490 1311 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Veggie Hummus Trio Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-hummus-trio</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/party-platters-for-your-housewarming-party</comp_url>
+  <ingredients>
+    <ingredient num="0">24 oz ; hummus, divided ; (675 g) </ingredient>
+    <ingredient num="1">1 ; small avocado, sliced </ingredient>
+    <ingredient num="2">3 oz ; red pepper, roasted ; (85 g) </ingredient>
+    <ingredient num="3">½ cup ; beet, canned ; (100 g) </ingredient>
+    <ingredient num="4">pita chip, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Middle Eastern</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98981/hls24_1529341389.m3u8</low>
+    <high>https://vid.tasty.co/output/98981/landscape_720/1529341389</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a food processor, combine 8 ounces (225 g) of hummus with the avocado. Puree until smooth. Transfer to a small bowl. </step>
+    <step num="1">Clean the food processor. Add 8 ounces (225 g) of hummus and the red peppers. Puree until smooth. Transfer to another small bowl. </step>
+    <step num="2">Clean the food processor. Add the remaining hummus and the beets. Puree until smooth. Transfer to another small bowl. </step>
+    <step num="3">Serve with pita chips. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, combine 8 ounces (225 g) of hummus with the avocado. </steps_updated>
+    <steps_updated num="1">Puree until smooth. </steps_updated>
+    <steps_updated num="2">Transfer to a small bowl. </steps_updated>
+    <steps_updated num="3">Clean the food processor. </steps_updated>
+    <steps_updated num="4">Add 8 ounces (225 g) of hummus and the red peppers. </steps_updated>
+    <steps_updated num="5">Puree until smooth. </steps_updated>
+    <steps_updated num="6">Transfer to another small bowl. </steps_updated>
+    <steps_updated num="7">Clean the food processor. </steps_updated>
+    <steps_updated num="8">Add the remaining hummus and the beets. </steps_updated>
+    <steps_updated num="9">Puree until smooth. </steps_updated>
+    <steps_updated num="10">Transfer to another small bowl. </steps_updated>
+    <steps_updated num="11">Serve with pita chips. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00156</start_time>
+    <end_time>01087</end_time>
+  </duration_human>
+</recipe>

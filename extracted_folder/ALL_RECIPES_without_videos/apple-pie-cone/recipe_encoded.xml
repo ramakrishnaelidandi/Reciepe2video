@@ -1,0 +1,63 @@
+<recipe>
+  <title>Apple Pie Cone Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-cone</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pie-cones-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 213 13278 4844 1547 </ingredient>
+    <ingredient num="1">3917 2605 13278 12545 3962 13278 2935 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="3">12791 8071 13278 12425 </ingredient>
+    <ingredient num="4">3917 14014 13278 12367 </ingredient>
+    <ingredient num="5">12791 2605 13278 12282 13278 13125 8007 </ingredient>
+    <ingredient num="6">1580 14014 13278 597 10522 </ingredient>
+    <ingredient num="7">1319 2439 13033 </ingredient>
+    <ingredient num="8">329 2260 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26452/low_1489510566.m3u8</low>
+    <high>https://vid.tasty.co/output/26452/mp4_720x1280/1489510566</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>39.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">7692 2696 6385 3615 669 5994 7336 6823 4061 4308 7990 3917 4844 8800 </step>
+    <step num="2">14100 4844 213 669 8000 5570 2327 7811 797 12459 371 11951 213 13817 4536 8337 1802 11951 7336 5209 5994 1514 13489 11951 672 371 11951 4844 9453 </step>
+    <step num="3">7831 5966 8927 1681 11951 8337 9490 9892 1828 3557 10694 432 12542 2696 11951 6385 11426 </step>
+    <step num="4">10950 5994 13757 14511 4120 8554 11907 13817 596 </step>
+    <step num="5">5570 4844 2327 210 5994 12703 7990 4136 13817 1798 210 11951 6504 10665 </step>
+    <step num="6">426 10439 573 560 312 14594 13817 10903 7990 13133 8927 5895 1681 11951 6504 9490 2021 </step>
+    <step num="7">13494 3557 1391 2439 13033 13817 12313 226 242 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">7692 2696 6385 3615 669 5994 7336 </steps_updated>
+    <steps_updated num="2">6823 4061 4308 7990 3917 4844 8800 </steps_updated>
+    <steps_updated num="3">14100 4844 213 669 8000 </steps_updated>
+    <steps_updated num="4">5570 2327 7811 797 12459 371 11951 213 13817 4536 8337 1802 11951 7336 </steps_updated>
+    <steps_updated num="5">5209 5994 1514 13489 11951 672 371 11951 4844 9453 </steps_updated>
+    <steps_updated num="6">7831 5966 8927 1681 11951 8337 9490 9892 </steps_updated>
+    <steps_updated num="7">1828 3557 10694 432 12542 2696 11951 6385 11426 </steps_updated>
+    <steps_updated num="8">10950 5994 13757 14511 4120 8554 11907 13817 596 </steps_updated>
+    <steps_updated num="9">5570 4844 2327 210 5994 12703 7990 4136 13817 1798 210 11951 6504 10665 </steps_updated>
+    <steps_updated num="10">426 10439 573 560 312 14594 13817 10903 7990 13133 8927 5895 1681 11951 6504 9490 2021 </steps_updated>
+    <steps_updated num="11">13494 3557 1391 2439 13033 13817 12313 226 242 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01187</end_time>
+  </duration_human>
+</recipe>

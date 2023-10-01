@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Veggie Stock Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-stock</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">celery, top and bottom </ingredient>
+    <ingredient num="1">onion, top and bottom skins </ingredient>
+    <ingredient num="2">carrot, ends and skin </ingredient>
+    <ingredient num="3">potato, ends and skin </ingredient>
+    <ingredient num="4">asparagus, bottom stalks </ingredient>
+    <ingredient num="5">brussels sprouts, extra leaves and bottoms </ingredient>
+    <ingredient num="6">mushroom, stem </ingredient>
+    <ingredient num="7">bell pepper, top and bottoms </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Collect veggie scraps in a resealable container and freeze for up to 6 months. </step>
+    <step num="1">When you have enough scraps to make stock, add the scraps to a large pot and cover with water. </step>
+    <step num="2">Simmer over medium-low heat for at least 30 minutes, up to 3 hours. </step>
+    <step num="3">Strain the stock and transfer the liquid to resealable containers. </step>
+    <step num="4">Refrigerate for up to 4 days or freeze for up to 3 months. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Collect veggie scraps in a resealable container and freeze for up to 6 months. </steps_updated>
+    <steps_updated num="1">When you have enough scraps to make stock, add the scraps to a large pot and cover with water. </steps_updated>
+    <steps_updated num="2">Simmer over medium-low heat for at least 30 minutes, up to 3 hours. </steps_updated>
+    <steps_updated num="3">Strain the stock and transfer the liquid to resealable containers. </steps_updated>
+    <steps_updated num="4">Refrigerate for up to 4 days or freeze for up to 3 months. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03053</start_time>
+    <end_time>04380</end_time>
+  </duration_human>
+</recipe>

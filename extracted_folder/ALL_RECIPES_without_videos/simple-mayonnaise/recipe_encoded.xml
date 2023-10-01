@@ -1,0 +1,34 @@
+<recipe>
+  <title>Simple Mayonnaise Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-mayonnaise</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 14524 4036 10302 2281 </ingredient>
+    <ingredient num="1">3917 8071 13278 5316 6422 11703 </ingredient>
+    <ingredient num="2">3917 14014 13278 7741 4617 10769 </ingredient>
+    <ingredient num="3">3917 2605 13278 3645 7632 2807 2658 11338 5895 4168 13278 7503 8007 </ingredient>
+    <ingredient num="4">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="5">3917 8071 13278 3855 82 </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/129119/hls24_1554414449.m3u8</low>
+    <high>https://vid.tasty.co/output/129119/landscape_720/1554414449</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 8016 5349 4120 11951 4036 6422 8117 13817 4378 5923 7990 3917 6560 1681 9746 4516 </step>
+    <step num="1">10936 11951 9909 1196 12726 12723 12207 560 740 11951 7632 3917 14014 7811 5994 13312 9956 12514 8677 2532 371 11951 7632 740 11951 12886 210 5994 4410 10395 11024 12450 13051 5376 13824 560 13396 560 11951 7968 371 9864 1392 5895 5994 10222 2679 9179 11951 597 10522 13817 82 13817 8287 560 502 </step>
+    <step num="2">12785 560 5994 7261 2759 3801 13817 1023 210 11951 7524 12450 13051 5376 2505 7990 3386 560 3917 2812 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8016 5349 4120 11951 4036 6422 8117 13817 4378 </steps_updated>
+    <steps_updated num="1">5923 7990 3917 6560 1681 9746 4516 </steps_updated>
+    <steps_updated num="2">10936 11951 9909 1196 12726 12723 12207 560 740 11951 7632 3917 14014 7811 5994 13312 </steps_updated>
+    <steps_updated num="3">9956 12514 8677 2532 371 11951 7632 740 11951 12886 210 5994 4410 10395 11024 </steps_updated>
+    <steps_updated num="4">12450 13051 5376 13824 560 13396 560 11951 7968 371 9864 1392 5895 5994 10222 2679 </steps_updated>
+    <steps_updated num="5">9179 11951 597 10522 13817 82 13817 8287 560 502 </steps_updated>
+    <steps_updated num="6">12785 560 5994 7261 2759 3801 13817 1023 210 11951 7524 </steps_updated>
+    <steps_updated num="7">12450 13051 5376 2505 7990 3386 560 3917 2812 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

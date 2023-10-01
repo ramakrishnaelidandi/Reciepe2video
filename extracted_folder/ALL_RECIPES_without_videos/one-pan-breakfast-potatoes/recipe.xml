@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Breakfast Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-breakfast-potatoes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; russet potatoes, cut into bite-size pieces </ingredient>
+    <ingredient num="1">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="2">1 ; small white onion, diced </ingredient>
+    <ingredient num="3">olive oil, to taste </ingredient>
+    <ingredient num="4">1 tablespoon ; dried rosemary </ingredient>
+    <ingredient num="5">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="6">1 teaspoon ; paprika </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Breakfast</category>
+    <category num="7">Brunch</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22282/low_1485541605.m3u8</low>
+    <high>https://vid.tasty.co/output/22282/mp4_720x1280/1485541605</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 500˚F (260˚C). </step>
+    <step num="1">Dice potato, red bell pepper, and onion. Place on a baking sheet. </step>
+    <step num="2">Drizzle olive oil over everything and season with rosemary, garlic, paprika, salt, and pepper. Mix until evenly coated and spread into an even layer. </step>
+    <step num="3">Bake for 30 minutes, stirring every 10-15 minutes. </step>
+    <step num="4">Serve with your favorite breakfast sides. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 500˚F (260˚C). </steps_updated>
+    <steps_updated num="1">Dice potato, red bell pepper, and onion. </steps_updated>
+    <steps_updated num="2">Place on a baking sheet. </steps_updated>
+    <steps_updated num="3">Drizzle olive oil over everything and season with rosemary, garlic, paprika, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Mix until evenly coated and spread into an even layer. </steps_updated>
+    <steps_updated num="5">Bake for 30 minutes, stirring every 10-15 minutes. </steps_updated>
+    <steps_updated num="6">Serve with your favorite breakfast sides. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

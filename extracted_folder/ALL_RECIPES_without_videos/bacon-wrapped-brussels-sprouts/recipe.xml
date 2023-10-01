@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon-wrapped Brussels Sprouts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-wrapped-brussels-sprouts</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-thanksgiving-day-appetizers</comp_url>
+  <ingredients>
+    <ingredient num="0">12 strips ; bacon </ingredient>
+    <ingredient num="1">12 ; brussels sprouts </ingredient>
+    <ingredient num="2">maple syrup </ingredient>
+    <ingredient num="3">black pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15371/low_1479523353.m3u8</low>
+    <high>https://vid.tasty.co/output/15371/mp4_720x1280/1479523353</high>
+  </video>
+  <duration>
+    <start_time>70.0</start_time>
+    <end_time>90.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Lay out stips of bacon on a clean cutting board or other clean flat surface. </step>
+    <step num="1">Lightly brush each strip of bacon with maple syrup making sure to coat the entire surface of the meat. </step>
+    <step num="2">Lightly sprinkle with black pepper. </step>
+    <step num="3">Take a brussels sprouts and starting from the bottom, roll up each piece of bacon so that it evenly wraps the vegetable. </step>
+    <step num="4">Lightly brush the tops of each wrapped brussels sprout with more maple syrup and sprinkle on additional pepper. Transfer the pieces to a baking sheet making sure to place each piece of rolled-up bacon with the seam side down. </step>
+    <step num="5">Bake at 350˚F (180˚C) for 20-25 minutes or until bacon is done and thoroughly cooked. </step>
+    <step num="6">Remove from baking tray and place on paper towels to remove excess bacon fat. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Lay out stips of bacon on a clean cutting board or other clean flat surface. </steps_updated>
+    <steps_updated num="1">Lightly brush each strip of bacon with maple syrup making sure to coat the entire surface of the meat. </steps_updated>
+    <steps_updated num="2">Lightly sprinkle with black pepper. </steps_updated>
+    <steps_updated num="3">Take a brussels sprouts and starting from the bottom, roll up each piece of bacon so that it evenly wraps the vegetable. </steps_updated>
+    <steps_updated num="4">Lightly brush the tops of each wrapped brussels sprout with more maple syrup and sprinkle on additional pepper. </steps_updated>
+    <steps_updated num="5">Transfer the pieces to a baking sheet making sure to place each piece of rolled-up bacon with the seam side down. </steps_updated>
+    <steps_updated num="6">Bake at 350˚F (180˚C) for 20-25 minutes or until bacon is done and thoroughly cooked. </steps_updated>
+    <steps_updated num="7">Remove from baking tray and place on paper towels to remove excess bacon fat. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02154</start_time>
+    <end_time>02710</end_time>
+  </duration_human>
+</recipe>

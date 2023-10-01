@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Matcha Raindrop Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/matcha-raindrop-cake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/rain-drop-cake-2-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ tablespoons ; agar </ingredient>
+    <ingredient num="1">2 ½ teaspoons ; sugar </ingredient>
+    <ingredient num="2">½ teaspoon ; matcha powder </ingredient>
+    <ingredient num="3">1 cup ; water ; (250 mL) </ingredient>
+    <ingredient num="4">brown sugar syrup </ingredient>
+    <ingredient num="5">soybean flour </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79321/hls24_1518739991.m3u8</low>
+    <high>https://vid.tasty.co/output/79321/landscape_720/1518739991</high>
+  </video>
+  <duration>
+    <start_time>41.333</start_time>
+    <end_time>80.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put agar, sugar and green tea in the bowl and mix. </step>
+    <step num="1">Place water and mixture in a small pan, mix it, and heat on high to a boil. </step>
+    <step num="2">Boil it for 2 minutes with a low heat. </step>
+    <step num="3">Apply small pan to a bigger pot filled with ice water. chill while mixing for about 3 minutes </step>
+    <step num="4">Pour mixture into the round ice ball tray. Put it in the refrigerator for about 1 hour and cool it. </step>
+    <step num="5">Gently take it out from the ice tray and put it on a dish </step>
+    <step num="6">Pour Brown Sugar Syrup and Soybean Flour to taste. </step>
+    <step num="7">Enjoy! </step>
+    <step num="8">**Raindrop Cake® is a registered trademark owned by Darren Wong </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put agar, sugar and green tea in the bowl and mix. </steps_updated>
+    <steps_updated num="1">Place water and mixture in a small pan, mix it, and heat on high to a boil. </steps_updated>
+    <steps_updated num="2">Boil it for 2 minutes with a low heat. </steps_updated>
+    <steps_updated num="3">Apply small pan to a bigger pot filled with ice water. </steps_updated>
+    <steps_updated num="4">chill while mixing for about 3 minutes </steps_updated>
+    <steps_updated num="5">Pour mixture into the round ice ball tray. </steps_updated>
+    <steps_updated num="6">Put it in the refrigerator for about 1 hour and cool it. </steps_updated>
+    <steps_updated num="7">Gently take it out from the ice tray and put it on a dish </steps_updated>
+    <steps_updated num="8">Pour Brown Sugar Syrup and Soybean Flour to taste. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01035</start_time>
+    <end_time>01721</end_time>
+  </duration_human>
+</recipe>

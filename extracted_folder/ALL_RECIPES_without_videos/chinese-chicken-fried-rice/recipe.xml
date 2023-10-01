@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chinese Chicken Fried Rice</title>
+  <url>https://tasty.co/recipe/chinese-chicken-fried-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; oil ; (100 mL) </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+    <ingredient num="3">7 oz ; boneless, skinless chicken breast, sliced ; (200 g) </ingredient>
+    <ingredient num="4">1 ¾ cups ; rice, cooked ; (400 g) </ingredient>
+    <ingredient num="5">5 oz ; mixed vegetable ; (150 g) </ingredient>
+    <ingredient num="6">¼ cup ; light soy sauce ; (50 mL) </ingredient>
+    <ingredient num="7">1 oz ; spring onion ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26040/low_1489082402.m3u8</low>
+    <high>https://vid.tasty.co/output/26040/mp4_720x1280/1489082402</high>
+  </video>
+  <steps>
+    <step num="0">Heat a wok over medium-high heat for 5 minutes. Add the oil then stir in eggs and fry until just cooked. Once cooked, remove eggs from the wok and set aside. </step>
+    <step num="1">Heat up the wok until smoking hot and pour in the oil. </step>
+    <step num="2">Add the chicken breast and fry until they are just cooked. </step>
+    <step num="3">Add the rice and keep frying until they turn slightly brown. </step>
+    <step num="4">Add the vegetables and fry everything together until they are thoroughly cooked. </step>
+    <step num="5">Pour in the soy sauce and stir. </step>
+    <step num="6">Add the cooked eggs back in and toss them around until they break into pieces. </step>
+    <step num="7">Add in the spring onions and serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a wok over medium-high heat for 5 minutes. </steps_updated>
+    <steps_updated num="1">Add the oil then stir in eggs and fry until just cooked. </steps_updated>
+    <steps_updated num="2">Once cooked, remove eggs from the wok and set aside. </steps_updated>
+    <steps_updated num="3">Heat up the wok until smoking hot and pour in the oil. </steps_updated>
+    <steps_updated num="4">Add the chicken breast and fry until they are just cooked. </steps_updated>
+    <steps_updated num="5">Add the rice and keep frying until they turn slightly brown. </steps_updated>
+    <steps_updated num="6">Add the vegetables and fry everything together until they are thoroughly cooked. </steps_updated>
+    <steps_updated num="7">Pour in the soy sauce and stir. </steps_updated>
+    <steps_updated num="8">Add the cooked eggs back in and toss them around until they break into pieces. </steps_updated>
+    <steps_updated num="9">Add in the spring onions and serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

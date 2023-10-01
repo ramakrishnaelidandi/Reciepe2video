@@ -1,0 +1,80 @@
+<recipe>
+  <title>The Best Layered Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-best-classic-tomato-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">8580 9486 13278 9924 </ingredient>
+    <ingredient num="2">3917 13278 12384 10015 </ingredient>
+    <ingredient num="3">3917 9271 13278 2597 5425 4125 13817 10015 13278 3917 9271 </ingredient>
+    <ingredient num="4">3917 9271 13278 10848 8865 10015 13278 3917 9271 </ingredient>
+    <ingredient num="5">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="6">3917 715 13278 11088 5234 13278 4563 5981 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">11061 643 13278 14138 371 9668 30 13278 10187 5981 </ingredient>
+    <ingredient num="10">8580 9517 13278 8083 13538 </ingredient>
+    <ingredient num="11">13347 643 13278 14138 371 341 717 13278 10187 5981 </ingredient>
+    <ingredient num="12">13133 643 13278 12426 14538 13278 13345 5981 </ingredient>
+    <ingredient num="13">1580 2605 13278 6209 749 3962 13278 828 5981 </ingredient>
+    <ingredient num="14">3917 2605 13278 3333 109 13810 7789 3954 560 11567 13278 11953 5981 </ingredient>
+    <ingredient num="15">1580 2605 13278 6209 11911 3962 13278 828 5981 </ingredient>
+    <ingredient num="16">3917 13278 6216 </ingredient>
+    <ingredient num="17">12610 560 11567 </ingredient>
+    <ingredient num="18">10986 560 11567 </ingredient>
+    <ingredient num="19">3917 715 13278 8920 69 3745 13278 4563 5981 </ingredient>
+    <ingredient num="20">3333 10865 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49395/low_1503683618.m3u8</low>
+    <high>https://vid.tasty.co/output/49395/mp4_720x1280/1503683618</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">9179 8244 5766 13817 9924 560 5994 10060 4255 3996 2082 9956 13984 740 11951 5425 12384 4587 13817 1937 3633 13328 6601 1681 10963 1240 9810 12689 </step>
+    <step num="2">9956 11951 284 11628 9363 740 210 11951 11088 20 10720 12610 10986 13817 9668 14012 12473 560 4398 3128 3386 11951 13009 371 834 1681 11951 3061 7312 7340 666 12689 </step>
+    <step num="3">9956 11951 2260 9490 5475 1368 13817 11695 560 1297 4721 560 11951 551 371 11951 11745 740 11951 8083 13493 8211 11951 551 371 11951 5687 1391 5994 12295 1798 560 11136 8554 11951 3745 1368 9349 </step>
+    <step num="4">9956 11951 13538 4150 560 5994 9609 740 210 11951 341 5450 7042 13817 6142 560 1011 </step>
+    <step num="5">8785 11951 2260 560 5994 9609 6506 1391 5994 6762 13817 2550 7990 7811 767 238 8927 6353 4860 11951 7658 13328 6601 13817 415 817 5292 </step>
+    <step num="6">10950 5994 2597 14511 10968 3626 11951 2254 749 6696 11911 4036 12610 13817 12375 2257 5292 </step>
+    <step num="7">10950 5994 12875 10923 1645 13426 10765 11745 740 5994 11826 371 4909 560 11951 13545 13494 1391 12279 415 11434 5994 11826 371 10216 </step>
+    <step num="8">5362 1391 6646 11826 371 14245 12279 2254 12279 14245 3141 8111 13817 10226 </step>
+    <step num="9">4660 11951 10765 3830 1391 3615 13817 10903 7990 2800 12689 </step>
+    <step num="10">6054 11951 3615 13817 10903 2798 7990 2237 3274 13133 8927 1681 11951 14538 4255 10707 7312 870 13817 11951 4909 9490 5986 </step>
+    <step num="11">3235 13817 8956 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">9179 8244 5766 13817 9924 560 5994 10060 4255 3996 2082 </steps_updated>
+    <steps_updated num="2">9956 13984 740 11951 5425 12384 4587 13817 1937 </steps_updated>
+    <steps_updated num="3">3633 13328 6601 1681 10963 1240 9810 12689 </steps_updated>
+    <steps_updated num="4">9956 11951 284 11628 9363 740 210 11951 11088 20 10720 12610 10986 13817 9668 14012 </steps_updated>
+    <steps_updated num="5">12473 560 4398 3128 3386 11951 13009 371 834 1681 11951 3061 7312 7340 666 12689 </steps_updated>
+    <steps_updated num="6">9956 11951 2260 9490 5475 1368 13817 11695 560 1297 4721 560 11951 551 371 11951 11745 740 11951 8083 13493 </steps_updated>
+    <steps_updated num="7">8211 11951 551 371 11951 5687 1391 5994 12295 1798 560 11136 8554 11951 3745 1368 9349 </steps_updated>
+    <steps_updated num="8">9956 11951 13538 4150 560 5994 9609 740 210 11951 341 5450 7042 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="9">8785 11951 2260 560 5994 9609 6506 1391 5994 6762 13817 2550 7990 7811 767 238 8927 6353 4860 11951 7658 </steps_updated>
+    <steps_updated num="10">13328 6601 13817 415 817 5292 </steps_updated>
+    <steps_updated num="11">10950 5994 2597 14511 10968 3626 11951 2254 749 6696 11911 4036 12610 13817 12375 </steps_updated>
+    <steps_updated num="12">2257 5292 </steps_updated>
+    <steps_updated num="13">10950 5994 12875 10923 1645 13426 10765 11745 740 5994 11826 371 4909 560 11951 13545 </steps_updated>
+    <steps_updated num="14">13494 1391 12279 415 11434 5994 11826 371 10216 </steps_updated>
+    <steps_updated num="15">5362 1391 6646 11826 371 14245 12279 2254 12279 14245 3141 8111 13817 10226 </steps_updated>
+    <steps_updated num="16">4660 11951 10765 3830 1391 3615 13817 10903 7990 2800 12689 </steps_updated>
+    <steps_updated num="17">6054 11951 3615 13817 10903 2798 7990 2237 3274 13133 8927 1681 11951 14538 4255 10707 7312 870 13817 11951 4909 9490 5986 </steps_updated>
+    <steps_updated num="18">3235 13817 8956 </steps_updated>
+    <steps_updated num="19">9092 </steps_updated>
+  </steps_updated>
+</recipe>

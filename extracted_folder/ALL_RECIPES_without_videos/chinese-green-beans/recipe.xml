@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chinese Green Beans Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chinese-green-beans</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; vegetable oil ; (60 mL) </ingredient>
+    <ingredient num="1">1 lb ; string bean ; (450 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic </ingredient>
+    <ingredient num="3">1 teaspoon ; ginger </ingredient>
+    <ingredient num="4">3 ; scallions, chopped </ingredient>
+    <ingredient num="5">4 oz ; shiitake mushrooms ; (115 g) </ingredient>
+    <ingredient num="6">½ lb ; ground pork ; (230 g) </ingredient>
+    <ingredient num="7">4 ; dried red chilies </ingredient>
+    <ingredient num="8">1 tablespoon ; chili paste </ingredient>
+    <ingredient num="9">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="10">1 tablespoon ; rice wine </ingredient>
+    <ingredient num="11">white pepper, dash </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Sides</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32154/low_1495125393.m3u8</low>
+    <high>https://vid.tasty.co/output/32154/mp4_720x1280/1495125393</high>
+  </video>
+  <steps>
+    <step num="0">In a large pan or wok, heat the oil over high. Fry the string beans until they start blistering. Remove the string beans. </step>
+    <step num="1">In the same pan or wok, add the garlic, ginger, and scallions. Fry until fragrant. </step>
+    <step num="2">Add the mushrooms and ground pork. Fry until the pork is mostly done. Stir in the the dried red chilies and chili paste. </step>
+    <step num="3">Add the string beans back the pan/wok. Toss to combine everything. Add the soy sauce, rice wine, and a dash of white pepper. Serve! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pan or wok, heat the oil over high. </steps_updated>
+    <steps_updated num="1">Fry the string beans until they start blistering. </steps_updated>
+    <steps_updated num="2">Remove the string beans. </steps_updated>
+    <steps_updated num="3">In the same pan or wok, add the garlic, ginger, and scallions. </steps_updated>
+    <steps_updated num="4">Fry until fragrant. </steps_updated>
+    <steps_updated num="5">Add the mushrooms and ground pork. </steps_updated>
+    <steps_updated num="6">Fry until the pork is mostly done. </steps_updated>
+    <steps_updated num="7">Stir in the the dried red chilies and chili paste. </steps_updated>
+    <steps_updated num="8">Add the string beans back the pan/wok. </steps_updated>
+    <steps_updated num="9">Toss to combine everything. </steps_updated>
+    <steps_updated num="10">Add the soy sauce, rice wine, and a dash of white pepper. </steps_updated>
+    <steps_updated num="11">Serve! </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

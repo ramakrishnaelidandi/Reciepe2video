@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shrimp and Avocado Taco Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shrimp-and-avocado-taco-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; oil </ingredient>
+    <ingredient num="1">1 lb ; medium shrimp, peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="2">1 ; large head romaine lettuce, chopped </ingredient>
+    <ingredient num="3">4 ; tomatoes, diced </ingredient>
+    <ingredient num="4">½ ; jalapeño, deseeded and finely diced, ; optional </ingredient>
+    <ingredient num="5">¼ ; red onion, finely diced </ingredient>
+    <ingredient num="6">2 tablespoons ; fresh cilantro, minced </ingredient>
+    <ingredient num="7">1 ; large avocado, diced </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">2 tablespoons ; lime juice, or 1 lime </ingredient>
+    <ingredient num="10">½ teaspoon ; salt </ingredient>
+    <ingredient num="11">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="12">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="13">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="14">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="15">½ teaspoon ; chili powder </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Seafood</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Healthy</category>
+    <category num="6">Low-Carb</category>
+    <category num="7">Lunch</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21656/low_1485205510.m3u8</low>
+    <high>https://vid.tasty.co/output/21656/mp4_720x1280/1485205510</high>
+  </video>
+  <steps>
+    <step num="0">Heat the oil in a skillet over medium-high heat. </step>
+    <step num="1">Toss in the shrimp and immediately season with the taco seasoning. Sauté the shrimp just until each piece has started to turn pink, about 2 minutes. Remove from heat. </step>
+    <step num="2">In a large bowl, combine the lettuce, shrimp, tomatoes, jalpeño, red onion, cilantro, avocado, salt, and lime juice, and mix until the salad is well-combined. </step>
+    <step num="3">Serve with tortilla strips, if desired. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the oil in a skillet over medium-high heat. </steps_updated>
+    <steps_updated num="1">Toss in the shrimp and immediately season with the taco seasoning. </steps_updated>
+    <steps_updated num="2">Sauté the shrimp just until each piece has started to turn pink, about 2 minutes. </steps_updated>
+    <steps_updated num="3">Remove from heat. </steps_updated>
+    <steps_updated num="4">In a large bowl, combine the lettuce, shrimp, tomatoes, jalpeño, red onion, cilantro, avocado, salt, and lime juice, and mix until the salad is well-combined. </steps_updated>
+    <steps_updated num="5">Serve with tortilla strips, if desired. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

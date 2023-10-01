@@ -1,0 +1,45 @@
+<recipe>
+  <title>One-Pot Chicken Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-chicken-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">8580 13278 7983 3967 472 </ingredient>
+    <ingredient num="2">13086 13667 13278 11384 6459 10015 </ingredient>
+    <ingredient num="3">8883 643 13278 7983 547 13278 8902 8007 </ingredient>
+    <ingredient num="4">3917 2605 13278 8640 13033 13278 12462 8007 </ingredient>
+    <ingredient num="5">1580 715 13278 4018 5444 14502 13278 4563 5981 </ingredient>
+    <ingredient num="6">3917 1580 9517 13278 2431 109 14538 13278 8604 5981 </ingredient>
+    <ingredient num="7">11911 7928 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32204/low_1495125435.m3u8</low>
+    <high>https://vid.tasty.co/output/32204/mp4_720x1280/1495125435</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13799 7855 11951 5766 13817 1368 11951 9104 </step>
+    <step num="1">9179 4155 13817 9347 7990 6285 5994 6513 </step>
+    <step num="2">9179 42 1123 13817 5444 13817 14238 560 5994 11714 </step>
+    <step num="3">4660 13817 2864 11951 7855 560 5994 11779 7990 666 11838 </step>
+    <step num="4">426 3482 7855 13817 6142 210 109 4496 </step>
+    <step num="5">13494 1391 2768 5358 13 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13799 7855 11951 5766 13817 1368 11951 9104 </steps_updated>
+    <steps_updated num="1">9179 4155 13817 9347 7990 6285 5994 6513 </steps_updated>
+    <steps_updated num="2">9179 42 1123 13817 5444 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="3">4660 13817 2864 11951 7855 560 5994 11779 7990 666 11838 </steps_updated>
+    <steps_updated num="4">426 3482 7855 13817 6142 210 109 4496 </steps_updated>
+    <steps_updated num="5">13494 1391 2768 5358 13 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

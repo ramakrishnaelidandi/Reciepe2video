@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blackberry Tequila Punch Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blackberry-tequila-punch</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; blackberry ; (340 g) </ingredient>
+    <ingredient num="1">2 cups ; tequila ; (470 mL) </ingredient>
+    <ingredient num="2">4 ; limes, sliced </ingredient>
+    <ingredient num="3">4 sprigs ; fresh mint </ingredient>
+    <ingredient num="4">24 oz ; ginger beer ; (710 mL) </ingredient>
+    <ingredient num="5">24 oz ; club soda ; (710 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31832/low_1495124735.m3u8</low>
+    <high>https://vid.tasty.co/output/31832/mp4_720x1280/1495124735</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, crush blackberries into a pulpy mixture. Pour in tequila. </step>
+    <step num="1">Slice limes and add them with mint sprigs, and stir mixture. Chill for at least 30 minutes. </step>
+    <step num="2">Chill for at least 30 minutes. </step>
+    <step num="3">Right before serving, pour cold ginger beer and club soda into the mixture. Serve. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, crush blackberries into a pulpy mixture. </steps_updated>
+    <steps_updated num="1">Pour in tequila. </steps_updated>
+    <steps_updated num="2">Slice limes and add them with mint sprigs, and stir mixture. </steps_updated>
+    <steps_updated num="3">Chill for at least 30 minutes. </steps_updated>
+    <steps_updated num="4">Chill for at least 30 minutes. </steps_updated>
+    <steps_updated num="5">Right before serving, pour cold ginger beer and club soda into the mixture. </steps_updated>
+    <steps_updated num="6">Serve. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

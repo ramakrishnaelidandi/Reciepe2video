@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Chicken Spinach Bacon Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-chicken-spinach-bacon-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 strips ; bacon, chopped </ingredient>
+    <ingredient num="1">2 ; chicken breasts, sliced </ingredient>
+    <ingredient num="2">5 oz ; spinach ; (140 g) </ingredient>
+    <ingredient num="3">4 cloves ; garlic </ingredient>
+    <ingredient num="4">2 teaspoons ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">5 cups ; milk ; (1 ¼ L) </ingredient>
+    <ingredient num="7">1 lb ; penne pasta, dry ; (455 g) </ingredient>
+    <ingredient num="8">1 cup ; parmesan cheese, grated ; (110 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10498/low_1474505192.m3u8</low>
+    <high>https://vid.tasty.co/output/10498/mp4_720x1280/1474505192</high>
+  </video>
+  <steps>
+    <step num="0">Cook the bacon in a large pot over medium-high heat until crispy. </step>
+    <step num="1">Add the chicken and cook until no pink is showing. Remove the chicken. </step>
+    <step num="2">Cook the spinach, garlic, salt, and pepper with the bacon until the spinach has wilted. </step>
+    <step num="3">Put the chicken back in, add the milk, then stir. </step>
+    <step num="4">Bring the milk to a boil, then add the pasta. </step>
+    <step num="5">Stir constantly for about 10 minutes until the pasta is cooked. </step>
+    <step num="6">Add the parmesan, then mix until the cheese has melted. Serve! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook the bacon in a large pot over medium-high heat until crispy. </steps_updated>
+    <steps_updated num="1">Add the chicken and cook until no pink is showing. </steps_updated>
+    <steps_updated num="2">Remove the chicken. </steps_updated>
+    <steps_updated num="3">Cook the spinach, garlic, salt, and pepper with the bacon until the spinach has wilted. </steps_updated>
+    <steps_updated num="4">Put the chicken back in, add the milk, then stir. </steps_updated>
+    <steps_updated num="5">Bring the milk to a boil, then add the pasta. </steps_updated>
+    <steps_updated num="6">Stir constantly for about 10 minutes until the pasta is cooked. </steps_updated>
+    <steps_updated num="7">Add the parmesan, then mix until the cheese has melted. </steps_updated>
+    <steps_updated num="8">Serve! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

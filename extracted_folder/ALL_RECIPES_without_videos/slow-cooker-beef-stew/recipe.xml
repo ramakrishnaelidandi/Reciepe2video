@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Beef Stew Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-beef-stew</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 lb ; chuck roast ; (1.5 kg) </ingredient>
+    <ingredient num="1">⅓ cup ; all-purpose flour ; (40 g) </ingredient>
+    <ingredient num="2">1 ½ tablespoons ; salt, divided </ingredient>
+    <ingredient num="3">½ tablespoon ; pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="5">1 g ; red onion, diced ; 1 g </ingredient>
+    <ingredient num="6">1 ; celery stalk, diced </ingredient>
+    <ingredient num="7">1 ; carrot, diced </ingredient>
+    <ingredient num="8">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="9">28 oz ; can of plum tomatoes </ingredient>
+    <ingredient num="10">2 cups ; red wine ; (470 mL) </ingredient>
+    <ingredient num="11">1 ; bay leaf </ingredient>
+    <ingredient num="12">1 tablespoon ; fresh parsley, chopped, plus more for serving </ingredient>
+    <ingredient num="13">1 tablespoon ; chopped fresh sage </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16344/low_1480556731.m3u8</low>
+    <high>https://vid.tasty.co/output/16344/mp4_720x1280/1480556731</high>
+  </video>
+  <steps>
+    <step num="0">In a small bowl, combine flour, salt, and pepper. </step>
+    <step num="1">Rub the flour mixture on the beef, making sure it is covered entirely. </step>
+    <step num="2">Heat oil in large skillet. Sear the meat on every side until golden brown. </step>
+    <step num="3">Transfer meat into slow cooker. </step>
+    <step num="4">Add onion, celery, carrot, garlic, tomatoes, wine, herbs, bay leaf, and salt. </step>
+    <step num="5">Cook on low for 8 hours. </step>
+    <step num="6">Serve it with your favorite side dish and sprinkle some freshly chopped parsley. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, combine flour, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Rub the flour mixture on the beef, making sure it is covered entirely. </steps_updated>
+    <steps_updated num="2">Heat oil in large skillet. </steps_updated>
+    <steps_updated num="3">Sear the meat on every side until golden brown. </steps_updated>
+    <steps_updated num="4">Transfer meat into slow cooker. </steps_updated>
+    <steps_updated num="5">Add onion, celery, carrot, garlic, tomatoes, wine, herbs, bay leaf, and salt. </steps_updated>
+    <steps_updated num="6">Cook on low for 8 hours. </steps_updated>
+    <steps_updated num="7">Serve it with your favorite side dish and sprinkle some freshly chopped parsley. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

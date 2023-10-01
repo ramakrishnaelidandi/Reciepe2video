@@ -1,0 +1,32 @@
+<recipe>
+  <title>British S&#8217;mores Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/british-smores</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 63 12525 </ingredient>
+    <ingredient num="1">4061 8581 13278 5802 4680 </ingredient>
+    <ingredient num="2">8580 13278 8503 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32230/low_1495125508.m3u8</low>
+    <high>https://vid.tasty.co/output/32230/mp4_720x1280/1495125508</high>
+  </video>
+  <steps>
+    <step num="0">5570 5994 63 5585 1802 5994 10765 4577 14398 4061 8581 371 4680 13817 4817 8503 4255 10707 371 8712 </step>
+    <step num="1">2927 1896 5994 8283 7855 1681 11951 14630 10700 13817 11951 4680 13860 560 2632 </step>
+    <step num="2">6823 5994 125 1391 5994 437 63 13817 13279 3557 10316 4879 371 11951 6222 12976 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 5994 63 5585 1802 5994 10765 4577 14398 4061 8581 371 4680 13817 4817 8503 4255 10707 371 8712 </steps_updated>
+    <steps_updated num="1">2927 1896 5994 8283 7855 1681 11951 14630 10700 13817 11951 4680 13860 560 2632 </steps_updated>
+    <steps_updated num="2">6823 5994 125 1391 5994 437 63 13817 13279 3557 10316 </steps_updated>
+    <steps_updated num="3">4879 371 11951 6222 12976 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

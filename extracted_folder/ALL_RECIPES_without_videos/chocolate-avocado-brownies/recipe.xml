@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Avocado Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-avocado-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; ripe avocado, cubed </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; honey ; (170 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">⅔ cup ; whole wheat flour ; (75 g) </ingredient>
+    <ingredient num="5">¼ cup ; cocoa powder ; (30 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; baking powder </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33854/low_1497288234.m3u8</low>
+    <high>https://vid.tasty.co/output/33854/mp4_720x1280/1497288234</high>
+  </video>
+  <duration>
+    <start_time>97.0</start_time>
+    <end_time>130.825</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C). </step>
+    <step num="1">In a blender or food processor, combine avocado, eggs, honey and vanilla extract. Blend until smooth, scraping down sides as necessary. </step>
+    <step num="2">In a large bowl, whisk the flour, cocoa powder and baking powder. </step>
+    <step num="3">Combine the wet and dry mixtures and fold until a batter forms. Pour batter into a greased 8x8 inch baking pan. </step>
+    <step num="4">Bake for 20-30 minutes. Allow to cool. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="1">In a blender or food processor, combine avocado, eggs, honey and vanilla extract. </steps_updated>
+    <steps_updated num="2">Blend until smooth, scraping down sides as necessary. </steps_updated>
+    <steps_updated num="3">In a large bowl, whisk the flour, cocoa powder and baking powder. </steps_updated>
+    <steps_updated num="4">Combine the wet and dry mixtures and fold until a batter forms. </steps_updated>
+    <steps_updated num="5">Pour batter into a greased 8x8 inch baking pan. </steps_updated>
+    <steps_updated num="6">Bake for 20-30 minutes. </steps_updated>
+    <steps_updated num="7">Allow to cool. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02959</start_time>
+    <end_time>04577</end_time>
+  </duration_human>
+</recipe>

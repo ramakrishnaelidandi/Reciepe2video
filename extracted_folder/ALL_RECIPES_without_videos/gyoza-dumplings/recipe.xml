@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Gyoza Dumplings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/gyoza-dumplings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-dinners-from-tasty-japan</comp_url>
+  <ingredients>
+    <ingredient num="0">5.3 oz ; minced pork ; (150 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; sake </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; sugar </ingredient>
+    <ingredient num="4">1 clove ; garlic, grated </ingredient>
+    <ingredient num="5">1 ; ginger, grated </ingredient>
+    <ingredient num="6">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="7">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="8">1 teaspoon ; potato starch </ingredient>
+    <ingredient num="9">7 oz ; cabbage, minced ; (200 g) </ingredient>
+    <ingredient num="10">0.7 oz ; chinese chive, minced ; (20 g) </ingredient>
+    <ingredient num="11">30 sheets ; gyoza skin </ingredient>
+    <ingredient num="12">⅓ cup ; water ; (80 mL) </ingredient>
+    <ingredient num="13">2 teaspoons ; potato starch </ingredient>
+    <ingredient num="14">sesame oil </ingredient>
+    <ingredient num="15">soy sauce </ingredient>
+    <ingredient num="16">vinegar </ingredient>
+    <ingredient num="17">chili oil </ingredient>
+    <ingredient num="18">gyoza sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Sides</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17476/low_1481572212.m3u8</low>
+    <high>https://vid.tasty.co/output/17476/mp4_720x1280/1481572212</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>57.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put pork, sake, salt, and sugar in a bowl. Mix until meat is sticky. </step>
+    <step num="1">Combine garlic, ginger, soy sauce, sesame oil, potato starch, cabbage, and chive. Mix them very well in a bowl. </step>
+    <step num="2">Scoop a spoonful of filling onto the middle of the gyoza skin. </step>
+    <step num="3">Apply water for skin edge with your finger. Fold in half and pinch pleats into the edges, then wrap up. </step>
+    <step num="4">Heat sesame oil in the pan and lay gyoza in single layer. Keep on medium heat for 2 minutes. </step>
+    <step num="5">When gyoza turns brown, pour in slurry and put the lid on. Steam for 3 minutes. </step>
+    <step num="6">Take off the lid, put more sesame oil and cook over low heat. </step>
+    <step num="7">Cover a pan with a plate, turn over a pan. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put pork, sake, salt, and sugar in a bowl. </steps_updated>
+    <steps_updated num="1">Mix until meat is sticky. </steps_updated>
+    <steps_updated num="2">Combine garlic, ginger, soy sauce, sesame oil, potato starch, cabbage, and chive. </steps_updated>
+    <steps_updated num="3">Mix them very well in a bowl. </steps_updated>
+    <steps_updated num="4">Scoop a spoonful of filling onto the middle of the gyoza skin. </steps_updated>
+    <steps_updated num="5">Apply water for skin edge with your finger. </steps_updated>
+    <steps_updated num="6">Fold in half and pinch pleats into the edges, then wrap up. </steps_updated>
+    <steps_updated num="7">Heat sesame oil in the pan and lay gyoza in single layer. </steps_updated>
+    <steps_updated num="8">Keep on medium heat for 2 minutes. </steps_updated>
+    <steps_updated num="9">When gyoza turns brown, pour in slurry and put the lid on. </steps_updated>
+    <steps_updated num="10">Steam for 3 minutes. </steps_updated>
+    <steps_updated num="11">Take off the lid, put more sesame oil and cook over low heat. </steps_updated>
+    <steps_updated num="12">Cover a pan with a plate, turn over a pan. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

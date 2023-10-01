@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>90-Second Keto Bread</title>
+  <url>https://tasty.co/recipe/90-second-keto-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; almond flour </ingredient>
+    <ingredient num="1">½ teaspoon ; baking powder </ingredient>
+    <ingredient num="2">¼ cup ; shredded parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; fresh rosemary, chopped </ingredient>
+    <ingredient num="4">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">unsalted butter, melted </ingredient>
+    <ingredient num="8">1 ; large egg, beaten </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/104069/hls24_1533233565.m3u8</low>
+    <high>https://vid.tasty.co/output/104069/landscape_720/1533233565</high>
+  </video>
+  <steps>
+    <step num="0">In a microwave-safe ramekin or small bowl, combine the almond flour, baking powder, Parmesan, rosemary, garlic powder, salt, pepper, melted butter, and egg. Stir everything together with a fork until smooth. </step>
+    <step num="1">Microwave on high for 90 seconds, until the bread has risen. </step>
+    <step num="2">Let the bread cool in the ramekin, then serve as desired. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a microwave-safe ramekin or small bowl, combine the almond flour, baking powder, Parmesan, rosemary, garlic powder, salt, pepper, melted butter, and egg. </steps_updated>
+    <steps_updated num="1">Stir everything together with a fork until smooth. </steps_updated>
+    <steps_updated num="2">Microwave on high for 90 seconds, until the bread has risen. </steps_updated>
+    <steps_updated num="3">Let the bread cool in the ramekin, then serve as desired. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

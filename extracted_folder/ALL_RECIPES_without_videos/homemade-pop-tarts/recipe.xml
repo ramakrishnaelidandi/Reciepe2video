@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade "Pop Tarts" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-pop-tarts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; puff pastry, pie dough makes them more pop tart like, but we like the puff pastry better </ingredient>
+    <ingredient num="1">strawberry jam </ingredient>
+    <ingredient num="2">raspberry jam </ingredient>
+    <ingredient num="3">blueberry jam </ingredient>
+    <ingredient num="4">1 ; egg </ingredient>
+    <ingredient num="5">milk, some </ingredient>
+    <ingredient num="6">2 cups ; powdered sugar ; (320 g) </ingredient>
+    <ingredient num="7">¼ cup ; low fat milk ; (59 mL) </ingredient>
+    <ingredient num="8">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="9">food coloring, of choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31979/low_1495124957.m3u8</low>
+    <high>https://vid.tasty.co/output/31979/mp4_720x1280/1495124957</high>
+  </video>
+  <steps>
+    <step num="0">Cut puff pastry along fold lines and then in half, making 6 rectangular pieces. </step>
+    <step num="1">Coat edges of one section of pastry with egg wash (egg and milk whisked). </step>
+    <step num="2">Place desired amount of filling (we used equal parts of each jam) in the center and spread, leaving room on the edges. </step>
+    <step num="3">Then place a second piece of puff pastry on top, Push the edges of the two pastry pieces together with your fingers and then press with a fork to seal. </step>
+    <step num="4">Bake on wax paper at 190°C (375°F) for 20-30 minutes or until golden brown and puffy. </step>
+    <step num="5">For icing, mix all ingredients together. Add additional milk or sugar to achieve desired consistency. Apply to slightly cooked pastries. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut puff pastry along fold lines and then in half, making 6 rectangular pieces. </steps_updated>
+    <steps_updated num="1">Coat edges of one section of pastry with egg wash (egg and milk whisked). </steps_updated>
+    <steps_updated num="2">Place desired amount of filling (we used equal parts of each jam) in the center and spread, leaving room on the edges. </steps_updated>
+    <steps_updated num="3">Then place a second piece of puff pastry on top, Push the edges of the two pastry pieces together with your fingers and then press with a fork to seal. </steps_updated>
+    <steps_updated num="4">Bake on wax paper at 190°C (375°F) for 20-30 minutes or until golden brown and puffy. </steps_updated>
+    <steps_updated num="5">For icing, mix all ingredients together. </steps_updated>
+    <steps_updated num="6">Add additional milk or sugar to achieve desired consistency. </steps_updated>
+    <steps_updated num="7">Apply to slightly cooked pastries. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

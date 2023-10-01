@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rustic Potato Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rustic-potato-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-bbq-recipes-for-a-great-bbq</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ lb ; red potato, cut into 1-in (2 1/2 cm) pieces ; (680 g) </ingredient>
+    <ingredient num="1">1 ½ teaspoons ; salt, divided </ingredient>
+    <ingredient num="2">3 strips ; bacon, diced </ingredient>
+    <ingredient num="3">small yellow onion, finely chopped </ingredient>
+    <ingredient num="4">3 tablespoons ; white wine vinegar </ingredient>
+    <ingredient num="5">1 tablespoon ; dijon mustard </ingredient>
+    <ingredient num="6">1 teaspoon ; freshly ground black pepper </ingredient>
+    <ingredient num="7">2 tablespoons ; fresh chives, finely chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Sides</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99711/hls24_1529684842.m3u8</low>
+    <high>https://vid.tasty.co/output/99711/landscape_720/1529684842</high>
+  </video>
+  <duration>
+    <start_time>87.333</start_time>
+    <end_time>148.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the potatoes in a large pot, cover with enough cold water to cover the potatoes by 2 inches (5 cm), and bring to a boil. Season with ½ teaspoon salt, reduce the heat to medium, cover, and cook until the potatoes are fork-tender, 10-15 minutes. Drain and set aside to cool slightly. </step>
+    <step num="1">In a large skillet over medium-high heat, cook the bacon for five minutes or until crispy. Transfer to a paper towel-lined plate to drain. </step>
+    <step num="2">Add the onion to the bacon fat in the pan. Cook until tender and golden, about 10 minutes. Remove the pan from the heat. </step>
+    <step num="3">In a large bowl, whisk together the vinegar and mustard. Season with the remaining teaspoon of salt and the pepper. Add the potatoes, bacon, and onions. Toss to coat. Stir in the chives. Serve warm. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the potatoes in a large pot, cover with enough cold water to cover the potatoes by 2 inches (5 cm), and bring to a boil. </steps_updated>
+    <steps_updated num="1">Season with ½ teaspoon salt, reduce the heat to medium, cover, and cook until the potatoes are fork-tender, 10-15 minutes. </steps_updated>
+    <steps_updated num="2">Drain and set aside to cool slightly. </steps_updated>
+    <steps_updated num="3">In a large skillet over medium-high heat, cook the bacon for five minutes or until crispy. </steps_updated>
+    <steps_updated num="4">Transfer to a paper towel-lined plate to drain. </steps_updated>
+    <steps_updated num="5">Add the onion to the bacon fat in the pan. </steps_updated>
+    <steps_updated num="6">Cook until tender and golden, about 10 minutes. </steps_updated>
+    <steps_updated num="7">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="8">In a large bowl, whisk together the vinegar and mustard. </steps_updated>
+    <steps_updated num="9">Season with the remaining teaspoon of salt and the pepper. </steps_updated>
+    <steps_updated num="10">Add the potatoes, bacon, and onions. </steps_updated>
+    <steps_updated num="11">Toss to coat. </steps_updated>
+    <steps_updated num="12">Stir in the chives. </steps_updated>
+    <steps_updated num="13">Serve warm. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

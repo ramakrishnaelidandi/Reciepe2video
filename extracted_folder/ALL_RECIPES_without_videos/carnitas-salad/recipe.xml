@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Carnitas Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carnitas-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/keto-dinner-featuring-satay-beef-skewers-yellow-squash-lasagna-and-more</comp_url>
+  <ingredients>
+    <ingredient num="0">3 lb ; pork shoulder ; (1.5 kg) </ingredient>
+    <ingredient num="1">1 tablespoon ; kosher salt </ingredient>
+    <ingredient num="2">1 tablespoon ; pepper </ingredient>
+    <ingredient num="3">½ cup ; vegetable oil </ingredient>
+    <ingredient num="4">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="5">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="6">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="7">1 ; bay leaf </ingredient>
+    <ingredient num="8">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="9">1 ; medium white onion, finely chopped </ingredient>
+    <ingredient num="10">½ cup ; lime juice ; (120 mL) </ingredient>
+    <ingredient num="11">½ cup ; orange juice ; (120 mL) </ingredient>
+    <ingredient num="12">2 cups ; chicken broth ; (480 mL) </ingredient>
+    <ingredient num="13">6 cups ; mixed greens ; (210 g) </ingredient>
+    <ingredient num="14">1 cup ; shredded carrot ; (110 g) </ingredient>
+    <ingredient num="15">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="16">1 cup ; black beans ; (170 g) </ingredient>
+    <ingredient num="17">avocado, diced </ingredient>
+    <ingredient num="18">dressing, of choice, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/120182/hls24_1545074526.m3u8</low>
+    <high>https://vid.tasty.co/output/120182/landscape_720/1545074526</high>
+  </video>
+  <duration>
+    <start_time>153.0</start_time>
+    <end_time>229.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, season the pork with salt and pepper. Toss until well-coated. </step>
+    <step num="1">Heat the vegetable oil in a Dutch oven over high heat for 5 minutes, until very hot. </step>
+    <step num="2">Working in batches, sear the pork on each side for 1 minute, until a brown crust forms. </step>
+    <step num="3">Add all of the pork to the pot with the chili powder, oregano, cumin, bay leaf, garlic, and onion. Toss to combine. Add the lime juice, orange juice, and chicken broth. Cover, reduce the heat to medium-high, and cook until the meat is tender, 1 hour. </step>
+    <step num="4">Remove the pork from the pot and shred using 2 forks. Let the carnitas cool for 10 minutes. </step>
+    <step num="5">In a large bowl, combine the mixed greens, carnitas, carrots, corn, black beans, and avocado. Toss well. Add dressing, if desired. </step>
+    <step num="6">Divide between plates and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, season the pork with salt and pepper. </steps_updated>
+    <steps_updated num="1">Toss until well-coated. </steps_updated>
+    <steps_updated num="2">Heat the vegetable oil in a Dutch oven over high heat for 5 minutes, until very hot. </steps_updated>
+    <steps_updated num="3">Working in batches, sear the pork on each side for 1 minute, until a brown crust forms. </steps_updated>
+    <steps_updated num="4">Add all of the pork to the pot with the chili powder, oregano, cumin, bay leaf, garlic, and onion. </steps_updated>
+    <steps_updated num="5">Toss to combine. </steps_updated>
+    <steps_updated num="6">Add the lime juice, orange juice, and chicken broth. </steps_updated>
+    <steps_updated num="7">Cover, reduce the heat to medium-high, and cook until the meat is tender, 1 hour. </steps_updated>
+    <steps_updated num="8">Remove the pork from the pot and shred using 2 forks. </steps_updated>
+    <steps_updated num="9">Let the carnitas cool for 10 minutes. </steps_updated>
+    <steps_updated num="10">In a large bowl, combine the mixed greens, carnitas, carrots, corn, black beans, and avocado. </steps_updated>
+    <steps_updated num="11">Toss well. </steps_updated>
+    <steps_updated num="12">Add dressing, if desired. </steps_updated>
+    <steps_updated num="13">Divide between plates and serve. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

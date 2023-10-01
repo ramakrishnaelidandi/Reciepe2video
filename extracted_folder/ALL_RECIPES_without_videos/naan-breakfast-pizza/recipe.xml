@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Naan Breakfast Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/naan-breakfast-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 piece ; naan bread </ingredient>
+    <ingredient num="1">baked beans, to taste </ingredient>
+    <ingredient num="2">1 jar ; tikka masala sauce </ingredient>
+    <ingredient num="3">cheddar cheese, to taste </ingredient>
+    <ingredient num="4">1 ; egg </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27804/low_1490743089.m3u8</low>
+    <high>https://vid.tasty.co/output/27804/mp4_720x1280/1490743089</high>
+  </video>
+  <steps>
+    <step num="0">Mix together baked beans and tikka masala sauce and pour evenly on naan bread. </step>
+    <step num="1">Add grated cheese on top. </step>
+    <step num="2">Bake for 10 mins at 190°C (375°F). </step>
+    <step num="3">Make a dent in the melted cheese with an egg, then crack into the dent. </step>
+    <step num="4">Bake for another ten mins at 190°C (375°F). </step>
+    <step num="5">Cut into four pieces. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together baked beans and tikka masala sauce and pour evenly on naan bread. </steps_updated>
+    <steps_updated num="1">Add grated cheese on top. </steps_updated>
+    <steps_updated num="2">Bake for 10 mins at 190°C (375°F). </steps_updated>
+    <steps_updated num="3">Make a dent in the melted cheese with an egg, then crack into the dent. </steps_updated>
+    <steps_updated num="4">Bake for another ten mins at 190°C (375°F). </steps_updated>
+    <steps_updated num="5">Cut into four pieces. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

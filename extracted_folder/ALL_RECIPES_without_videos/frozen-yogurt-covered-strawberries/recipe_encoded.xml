@@ -1,0 +1,42 @@
+<recipe>
+  <title>Frozen Yogurt-covered Strawberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-yogurt-covered-strawberries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-lighter-sweet-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">9883 2605 13278 12347 9767 2694 450 13278 2423 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 9586 </ingredient>
+    <ingredient num="2">3917 14014 13278 12282 </ingredient>
+    <ingredient num="3">409 13278 7234 2597 </ingredient>
+    <ingredient num="4">1580 2605 13278 9550 3968 10468 3962 13278 9234 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68188/hls24_1513294858.m3u8</low>
+    <high>https://vid.tasty.co/output/68188/landscape_720/1513294858</high>
+  </video>
+  <duration>
+    <start_time>122.6</start_time>
+    <end_time>145.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 1100 2694 14240 13817 12282 210 5994 2192 12377 13817 6142 560 1011 </step>
+    <step num="1">2668 11951 13873 669 11951 3713 2207 8033 6665 12573 7568 229 </step>
+    <step num="2">2668 11951 466 13873 210 11951 3962 13969 13817 3345 4255 5994 3550 8797 213 8141 </step>
+    <step num="3">13855 7990 8580 14329 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 1100 2694 14240 13817 12282 210 5994 2192 12377 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="1">2668 11951 13873 669 11951 3713 2207 8033 6665 12573 7568 229 </steps_updated>
+    <steps_updated num="2">2668 11951 466 13873 210 11951 3962 13969 13817 3345 4255 5994 3550 8797 213 8141 </steps_updated>
+    <steps_updated num="3">13855 7990 8580 14329 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

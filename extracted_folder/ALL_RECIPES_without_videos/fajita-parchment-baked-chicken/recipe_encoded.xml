@@ -1,0 +1,59 @@
+<recipe>
+  <title>Fajita Parchment-Baked Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-parchment-baked-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/parchment-baked-chicken-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3550 1715 5895 9333 8450 2496 4735 2397 7449 11350 1645 </ingredient>
+    <ingredient num="1">3917 13278 7983 376 </ingredient>
+    <ingredient num="2">1580 13278 8083 10986 976 </ingredient>
+    <ingredient num="3">1580 13278 11091 7845 </ingredient>
+    <ingredient num="4">12791 13278 8083 12384 976 </ingredient>
+    <ingredient num="5">13086 9486 13278 5218 </ingredient>
+    <ingredient num="6">3917 8071 13278 10176 2634 </ingredient>
+    <ingredient num="7">3917 14014 13278 7495 14538 1279 </ingredient>
+    <ingredient num="8">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15904/low_1479942741.m3u8</low>
+    <high>https://vid.tasty.co/output/15904/mp4_720x1280/1479942741</high>
+  </video>
+  <duration>
+    <start_time>65.0</start_time>
+    <end_time>90.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">12595 11951 3550 12 210 1991 415 6927 8857 </step>
+    <step num="2">4540 12205 11951 2986 13817 6334 13817 7454 3755 4255 797 2532 371 11951 3550 8831 </step>
+    <step num="3">1594 4255 5766 13817 1678 4255 82 9606 12375 </step>
+    <step num="4">4124 11951 7983 4255 11951 12963 10242 1391 10176 3123 82 13817 10986 13817 1798 4255 3335 13494 1391 4496 </step>
+    <step num="5">12595 11951 3550 12 11770 11951 12816 13817 7776 11951 12 3626 5569 9753 3557 11770 8150 14473 11951 10663 </step>
+    <step num="6">7831 7990 7562 8927 5895 1681 1124 2281 371 7983 13751 10198 4928 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">12595 11951 3550 12 210 1991 415 6927 8857 </steps_updated>
+    <steps_updated num="2">4540 12205 11951 2986 13817 6334 13817 7454 3755 4255 797 2532 371 11951 3550 8831 </steps_updated>
+    <steps_updated num="3">1594 4255 5766 13817 1678 4255 82 9606 12375 </steps_updated>
+    <steps_updated num="4">4124 11951 7983 4255 11951 12963 </steps_updated>
+    <steps_updated num="5">10242 1391 10176 3123 82 13817 10986 13817 1798 4255 3335 </steps_updated>
+    <steps_updated num="6">13494 1391 4496 </steps_updated>
+    <steps_updated num="7">12595 11951 3550 12 11770 11951 12816 13817 7776 11951 12 3626 5569 9753 3557 11770 8150 14473 11951 10663 </steps_updated>
+    <steps_updated num="8">7831 7990 7562 8927 5895 1681 1124 2281 371 7983 13751 10198 4928 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

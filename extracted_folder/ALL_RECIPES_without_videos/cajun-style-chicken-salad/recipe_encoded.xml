@@ -1,0 +1,63 @@
+<recipe>
+  <title>Cajun-Style Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cajun-style-chicken-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 8355 2144 7983 7678 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 3173 13278 2080 7334 3962 </ingredient>
+    <ingredient num="3">1580 13278 8083 12384 1088 976 </ingredient>
+    <ingredient num="4">3917 13278 468 1088 976 </ingredient>
+    <ingredient num="5">13767 643 13278 8602 9491 10844 13278 8148 5981 </ingredient>
+    <ingredient num="6">6735 643 13278 13584 6143 13278 2583 5981 </ingredient>
+    <ingredient num="7">8580 2031 13278 9496 </ingredient>
+    <ingredient num="8">3917 8071 13278 499 7845 </ingredient>
+    <ingredient num="9">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="10">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="11">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="12">3917 8071 13278 82 </ingredient>
+    <ingredient num="13">12791 2605 13278 9767 3713 13278 9234 5981 </ingredient>
+    <ingredient num="14">12791 8071 13278 4155 10015 </ingredient>
+    <ingredient num="15">8580 9486 13278 9712 10522 </ingredient>
+    <ingredient num="16">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="17">3917 1580 2031 13278 8276 2634 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23257/low_1486488461.m3u8</low>
+    <high>https://vid.tasty.co/output/23257/mp4_720x1280/1486488461</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 3963 12013 </step>
+    <step num="1">10950 5994 2192 14511 4120 6958 6110 11384 8117 11227 5040 13817 12051 8583 5965 2031 371 11951 1869 2257 5292 </step>
+    <step num="2">309 6697 10860 371 11951 7983 7678 1391 11951 2634 10665 </step>
+    <step num="3">10950 2237 7753 13959 6326 2550 7983 4255 3996 7855 4061 8927 4884 7780 5895 1681 7983 9490 506 </step>
+    <step num="4">7831 7990 666 11004 5895 1681 11951 1124 2281 371 11951 7983 13751 10198 8776 1828 11951 7983 12886 7990 7679 12689 </step>
+    <step num="5">10950 5994 2192 14511 4120 2694 10015 4155 9712 7654 8244 5766 13817 8276 2634 10665 2257 5292 </step>
+    <step num="6">14100 7983 669 13637 </step>
+    <step num="7">10950 5994 2597 14511 740 7334 12816 8083 12384 468 8602 7042 13817 13584 6200 </step>
+    <step num="8">9179 11708 13817 841 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 14511 4120 6958 6110 11384 8117 11227 5040 13817 12051 </steps_updated>
+    <steps_updated num="2">8583 5965 2031 371 11951 1869 </steps_updated>
+    <steps_updated num="3">2257 5292 </steps_updated>
+    <steps_updated num="4">309 6697 10860 371 11951 7983 7678 1391 11951 2634 10665 </steps_updated>
+    <steps_updated num="5">10950 2237 7753 13959 6326 2550 7983 4255 3996 7855 4061 8927 4884 7780 5895 1681 7983 9490 506 </steps_updated>
+    <steps_updated num="6">7831 7990 666 11004 5895 1681 11951 1124 2281 371 11951 7983 13751 10198 8776 </steps_updated>
+    <steps_updated num="7">1828 11951 7983 12886 7990 7679 12689 </steps_updated>
+    <steps_updated num="8">10950 5994 2192 14511 4120 2694 10015 4155 9712 7654 8244 5766 13817 8276 2634 10665 </steps_updated>
+    <steps_updated num="9">2257 5292 </steps_updated>
+    <steps_updated num="10">14100 7983 669 13637 </steps_updated>
+    <steps_updated num="11">10950 5994 2597 14511 740 7334 12816 8083 12384 468 8602 7042 13817 13584 6200 </steps_updated>
+    <steps_updated num="12">9179 11708 13817 841 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

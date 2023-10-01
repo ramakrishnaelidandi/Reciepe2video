@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Chicken Parmesan Burgers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-chicken-parmesan-burgers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; bread crumbs ; (60 g) </ingredient>
+    <ingredient num="1">½ teaspoon ; salt </ingredient>
+    <ingredient num="2">¼ cup ; shredded parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="3">1 lb ; ground chicken ; (455 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">½ teaspoon ; dried basil </ingredient>
+    <ingredient num="8">½ teaspoon ; dried parsley </ingredient>
+    <ingredient num="9">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="10">¼ cup ; shredded parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="11">4 slices ; mozzarella cheese </ingredient>
+    <ingredient num="12">4 ; burger buns </ingredient>
+    <ingredient num="13">marinara sauce, to taste </ingredient>
+    <ingredient num="14">fresh basil, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10226/low_1474034882.m3u8</low>
+    <high>https://vid.tasty.co/output/10226/mp4_720x1280/1474034882</high>
+  </video>
+  <steps>
+    <step num="0">Stir bread crumbs, salt, and parmesan together in a bowl. </step>
+    <step num="1">In a large bowl, mix together chicken, salt, pepper, oregano, basil, parsley, minced garlic, and parmesan cheese. </step>
+    <step num="2">Grab a handful of the chicken mixture and pat it out flat in your palm. </step>
+    <step num="3">Place a slice of mozzarella cheese in the middle and fold the chicken over the edges. Make sure the cheese is fully covered on both sides by the chicken mixture. </step>
+    <step num="4">Cover the patty with the bread crumb mixture on both sides. </step>
+    <step num="5">Cook patty in a pan over medium-high heat for 4 minutes on each side. </step>
+    <step num="6">Place on a bun and garnish with marinara sauce and fresh basil. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Stir bread crumbs, salt, and parmesan together in a bowl. </steps_updated>
+    <steps_updated num="1">In a large bowl, mix together chicken, salt, pepper, oregano, basil, parsley, minced garlic, and parmesan cheese. </steps_updated>
+    <steps_updated num="2">Grab a handful of the chicken mixture and pat it out flat in your palm. </steps_updated>
+    <steps_updated num="3">Place a slice of mozzarella cheese in the middle and fold the chicken over the edges. </steps_updated>
+    <steps_updated num="4">Make sure the cheese is fully covered on both sides by the chicken mixture. </steps_updated>
+    <steps_updated num="5">Cover the patty with the bread crumb mixture on both sides. </steps_updated>
+    <steps_updated num="6">Cook patty in a pan over medium-high heat for 4 minutes on each side. </steps_updated>
+    <steps_updated num="7">Place on a bun and garnish with marinara sauce and fresh basil. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,69 @@
+<recipe>
+  <title>Braised Short Rib Ragu Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/braised-short-rib-ragu</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 715 13278 14269 1858 13278 8138 10482 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">8580 9486 13278 5766 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 12384 3962 13278 9473 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 5425 3962 13278 2935 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 4587 3962 13278 9473 5981 </ingredient>
+    <ingredient num="7">8580 9517 13278 8083 13538 13278 6901 8007 </ingredient>
+    <ingredient num="8">8580 9486 13278 4155 3962 </ingredient>
+    <ingredient num="9">8580 7033 13278 6209 7516 </ingredient>
+    <ingredient num="10">8580 9486 13278 9668 30 </ingredient>
+    <ingredient num="11">8580 9517 13278 1946 547 13278 6901 8007 </ingredient>
+    <ingredient num="12">13347 643 13278 9491 3917 14138 13278 4126 5981 </ingredient>
+    <ingredient num="13">3917 13278 796 13063 14252 </ingredient>
+    <ingredient num="14">6209 11911 7990 4711 </ingredient>
+    <ingredient num="15">2431 13541 3553 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32123/low_1495125354.m3u8</low>
+    <high>https://vid.tasty.co/output/32123/mp4_720x1280/1495125354</high>
+  </video>
+  <steps>
+    <step num="0">12287 82 13817 7845 12313 14269 9762 </step>
+    <step num="1">10950 5994 6007 6732 13799 1368 11951 14269 11245 210 14158 6054 13817 817 5292 </step>
+    <step num="2">10950 11951 5540 13799 740 11951 3962 7272 8445 13817 1701 264 1681 11453 12573 6470 </step>
+    <step num="3">9179 11951 8083 8286 2550 1681 8177 371 11951 3762 7312 10664 11353 </step>
+    <step num="4">12473 210 11951 4155 5984 9668 5337 1946 42 5450 7042 13063 6638 12610 13817 12375 </step>
+    <step num="5">4278 11951 870 14269 10012 14238 560 5994 11714 </step>
+    <step num="6">4660 13817 6657 7855 560 5994 5181 9411 7990 2734 12721 5895 1681 11951 3061 9490 12726 14371 </step>
+    <step num="7">12785 11951 3061 560 5994 10909 14511 5103 11951 8745 13817 14467 3409 11951 9906 </step>
+    <step num="8">4278 560 11951 4771 4676 3557 5994 6142 5833 8554 11951 3061 9490 7670 210 11951 9286 </step>
+    <step num="9">10917 11311 10383 1681 12550 560 8956 </step>
+    <step num="10">12774 11770 9635 13233 5895 950 13817 4711 1391 2431 13541 10544 13817 6209 13012 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12287 82 13817 7845 12313 14269 9762 </steps_updated>
+    <steps_updated num="1">10950 5994 6007 6732 13799 1368 11951 14269 11245 210 14158 </steps_updated>
+    <steps_updated num="2">6054 13817 817 5292 </steps_updated>
+    <steps_updated num="3">10950 11951 5540 13799 740 11951 3962 7272 8445 13817 1701 </steps_updated>
+    <steps_updated num="4">264 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="5">9179 11951 8083 8286 2550 1681 8177 371 11951 3762 7312 10664 11353 </steps_updated>
+    <steps_updated num="6">12473 210 11951 4155 5984 9668 5337 1946 42 5450 7042 13063 6638 12610 13817 12375 </steps_updated>
+    <steps_updated num="7">4278 11951 870 14269 10012 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="8">4660 13817 6657 7855 560 5994 5181 </steps_updated>
+    <steps_updated num="9">9411 7990 2734 12721 5895 1681 11951 3061 9490 12726 14371 </steps_updated>
+    <steps_updated num="10">12785 11951 3061 560 5994 10909 14511 5103 11951 8745 13817 14467 3409 11951 9906 </steps_updated>
+    <steps_updated num="11">4278 560 11951 4771 </steps_updated>
+    <steps_updated num="12">4676 3557 5994 6142 5833 8554 11951 3061 9490 7670 210 11951 9286 </steps_updated>
+    <steps_updated num="13">10917 11311 10383 1681 12550 560 8956 </steps_updated>
+    <steps_updated num="14">12774 11770 9635 13233 5895 950 13817 4711 1391 2431 13541 10544 13817 6209 13012 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Carrot Cake Cake Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carrot-cake-cake-pops</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cake-pops-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; carrot cake </ingredient>
+    <ingredient num="1">10 ; brigadeiroes </ingredient>
+    <ingredient num="2">condensed milk </ingredient>
+    <ingredient num="3">1 ; chocolate bars, melted </ingredient>
+    <ingredient num="4">sprinkles </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79998/hls24_1519157414.m3u8</low>
+    <high>https://vid.tasty.co/output/79998/landscape_720/1519157414</high>
+  </video>
+  <duration>
+    <start_time>206.166</start_time>
+    <end_time>240.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Break the cake into a large bowl, crumble it until it is in fine crumbs. </step>
+    <step num="1">Add sweet condensed milk and mix until you form a dough. </step>
+    <step num="2">Open a small amount of dough and cover one brigadeiro in it, rolling until you form a ball. </step>
+    <step num="3">Add one stick into each ball and freeze for 15 minutes. </step>
+    <step num="4">Dip your cake pops into melted chocolate, covering them. </step>
+    <step num="5">Let it rest and add some sprinkles on them. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Break the cake into a large bowl, crumble it until it is in fine crumbs. </steps_updated>
+    <steps_updated num="1">Add sweet condensed milk and mix until you form a dough. </steps_updated>
+    <steps_updated num="2">Open a small amount of dough and cover one brigadeiro in it, rolling until you form a ball. </steps_updated>
+    <steps_updated num="3">Add one stick into each ball and freeze for 15 minutes. </steps_updated>
+    <steps_updated num="4">Dip your cake pops into melted chocolate, covering them. </steps_updated>
+    <steps_updated num="5">Let it rest and add some sprinkles on them. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04987</start_time>
+    <end_time>05785</end_time>
+  </duration_human>
+</recipe>

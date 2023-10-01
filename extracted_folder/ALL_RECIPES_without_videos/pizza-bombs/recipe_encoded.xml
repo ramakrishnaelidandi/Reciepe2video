@@ -1,0 +1,55 @@
+<recipe>
+  <title>Pizza Bombs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-bombs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 10907 7990 14389 11951 5687 </ingredient>
+    <ingredient num="1">8268 1580 643 13278 14138 371 5585 12687 3917 14138 13278 1135 5981 </ingredient>
+    <ingredient num="2">9122 2260 </ingredient>
+    <ingredient num="3">976 5243 </ingredient>
+    <ingredient num="4">6267 371 10865 13810 7777 669 4530 </ingredient>
+    <ingredient num="5">10907 5335 </ingredient>
+    <ingredient num="6">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">3917 14014 13278 11239 2634 </ingredient>
+    <ingredient num="10">3333 109 13810 7990 3297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32270/low_1495125512.m3u8</low>
+    <high>https://vid.tasty.co/output/32270/mp4_720x1280/1495125512</high>
+  </video>
+  <steps>
+    <step num="0">14100 10763 5585 210 8467 8724 10763 2532 669 5994 372 1391 12313 5447 </step>
+    <step num="1">5570 5994 2192 6063 371 9122 7280 3917 6447 13817 3917 10224 371 10865 4255 10763 5585 11528 </step>
+    <step num="2">8785 11951 5832 3386 13817 13256 3291 3755 3626 13817 6770 11901 560 1752 6728 1618 7990 11951 11539 560 7804 5943 </step>
+    <step num="3">4124 11951 6146 7930 4255 5994 10765 213 10926 1391 2362 3550 8831 </step>
+    <step num="4">10895 5335 10907 4155 82 13817 10986 13817 11239 2634 210 5994 2192 7616 </step>
+    <step num="5">11881 11951 9924 2373 1802 10763 6146 10112 13817 10707 1391 8924 </step>
+    <step num="6">7831 7811 9477 9594 7990 666 8927 5895 1681 12525 11628 9861 506 </step>
+    <step num="7">9956 6146 7930 12573 10694 9815 560 2554 1966 7389 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 10763 5585 210 8467 </steps_updated>
+    <steps_updated num="1">8724 10763 2532 669 5994 372 1391 12313 5447 </steps_updated>
+    <steps_updated num="2">5570 5994 2192 6063 371 9122 7280 3917 6447 13817 3917 10224 371 10865 4255 10763 5585 11528 </steps_updated>
+    <steps_updated num="3">8785 11951 5832 3386 13817 13256 3291 3755 3626 13817 6770 11901 560 1752 6728 1618 7990 11951 11539 560 7804 5943 </steps_updated>
+    <steps_updated num="4">4124 11951 6146 7930 4255 5994 10765 213 10926 1391 2362 3550 8831 </steps_updated>
+    <steps_updated num="5">10895 5335 10907 4155 82 13817 10986 13817 11239 2634 210 5994 2192 7616 </steps_updated>
+    <steps_updated num="6">11881 11951 9924 2373 1802 10763 6146 10112 13817 10707 1391 8924 </steps_updated>
+    <steps_updated num="7">7831 7811 9477 9594 7990 666 8927 5895 1681 12525 11628 9861 506 </steps_updated>
+    <steps_updated num="8">9956 6146 7930 12573 10694 9815 560 2554 1966 7389 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

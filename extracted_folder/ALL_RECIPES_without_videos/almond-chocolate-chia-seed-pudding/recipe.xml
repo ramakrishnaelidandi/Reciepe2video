@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Almond Chocolate Chia Seed Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/almond-chocolate-chia-seed-pudding</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/chia-seed-pudding-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="1">1 cup ; almond milk ; (240 mL) </ingredient>
+    <ingredient num="2">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="3">2 tablespoons ; honey </ingredient>
+    <ingredient num="4">¼ cup ; chia seeds ; (40 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; dark cocoa powder </ingredient>
+    <ingredient num="6">slivered almonds </ingredient>
+    <ingredient num="7">chocolate shaving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Desserts</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30644/low_1493683013.m3u8</low>
+    <high>https://vid.tasty.co/output/30644/mp4_720x1280/1493683013</high>
+  </video>
+  <duration>
+    <start_time>25.0</start_time>
+    <end_time>48.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, mix the yogurt, almond milk, vanilla, honey, chia seeds, and cocoa powder together until well combined. </step>
+    <step num="1">Pour the mixture into an airtight container and refrigerate, covered for 4 hours. </step>
+    <step num="2">Spoon the pudding into desired serving dish and top with slivered almonds and chocolate shavings. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, mix the yogurt, almond milk, vanilla, honey, chia seeds, and cocoa powder together until well combined. </steps_updated>
+    <steps_updated num="1">Pour the mixture into an airtight container and refrigerate, covered for 4 hours. </steps_updated>
+    <steps_updated num="2">Spoon the pudding into desired serving dish and top with slivered almonds and chocolate shavings. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

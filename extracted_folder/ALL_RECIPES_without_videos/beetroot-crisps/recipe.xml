@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beetroot Crisps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beetroot-crisps</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 bulbs ; beetroot </ingredient>
+    <ingredient num="1">4 ¼ cups ; oil, for frying ; (1 L) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97812/hls24_1528475986.m3u8</low>
+    <high>https://vid.tasty.co/output/97812/landscape_720/1528475986</high>
+  </video>
+  <steps>
+    <step num="0">Start by preparing your beetroot. Wash thoroughly under water and remove the stems and root. Next, peel the beetroot and cut each bulb in half. </step>
+    <step num="1">Next, slice your beetroot as thinly as you can. For ease and speed, it is useful to use a food processor with the slicing attachment; if you don’t have one, just do your best to cut the beetroot as thinly as you can. </step>
+    <step num="2">Take a baking tray and cover with kitchen paper. Lay out the beetroot slices in one even layer, cover with more kitchen paper, and press down. Dry the beetroot overnight. (If you can’t wait this long, you can remove the kitchen paper and place the beetroot slices into an oven preheated to 210˚F (100˚C) for 15 minutes or until you can see the slices starting to dehydrate.) </step>
+    <step num="3">Place a deep saucepan over a medium heat and fill halfway with oil. Preheat the oil to 350˚F (180˚C). </step>
+    <step num="4">Once the oil is up to temperature, cook the beetroot in small batches for around 1 minute or until crispy. </step>
+    <step num="5">Carefully remove crisps from the oil and drain onto kitchen paper. Season with salt. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Start by preparing your beetroot. </steps_updated>
+    <steps_updated num="1">Wash thoroughly under water and remove the stems and root. </steps_updated>
+    <steps_updated num="2">Next, peel the beetroot and cut each bulb in half. </steps_updated>
+    <steps_updated num="3">Next, slice your beetroot as thinly as you can. </steps_updated>
+    <steps_updated num="4">For ease and speed, it is useful to use a food processor with the slicing attachment; if you don’t have one, just do your best to cut the beetroot as thinly as you can. </steps_updated>
+    <steps_updated num="5">Take a baking tray and cover with kitchen paper. </steps_updated>
+    <steps_updated num="6">Lay out the beetroot slices in one even layer, cover with more kitchen paper, and press down. </steps_updated>
+    <steps_updated num="7">Dry the beetroot overnight. </steps_updated>
+    <steps_updated num="8">(If you can’t wait this long, you can remove the kitchen paper and place the beetroot slices into an oven preheated to 210˚F (100˚C) for 15 minutes or until you can see the slices starting to dehydrate.) </steps_updated>
+    <steps_updated num="9">Place a deep saucepan over a medium heat and fill halfway with oil. </steps_updated>
+    <steps_updated num="10">Preheat the oil to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="11">Once the oil is up to temperature, cook the beetroot in small batches for around 1 minute or until crispy. </steps_updated>
+    <steps_updated num="12">Carefully remove crisps from the oil and drain onto kitchen paper. </steps_updated>
+    <steps_updated num="13">Season with salt. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

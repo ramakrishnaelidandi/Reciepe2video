@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pineapple Salsa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pineapple-salsa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-fruit-salsa-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; pineapple, diced ; (365 g) </ingredient>
+    <ingredient num="1">½ cup ; roma tomato, diced ; (100 g) </ingredient>
+    <ingredient num="2">½ cup ; orange bell pepper, finely diced ; (50 g) </ingredient>
+    <ingredient num="3">½ cup ; white onion, finely diced ; (75 g) </ingredient>
+    <ingredient num="4">½ cup ; fresh cilantro, chopped ; (20 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; lime juice </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Casual Party</category>
+    <category num="8">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33965/low_1497372632.m3u8</low>
+    <high>https://vid.tasty.co/output/33965/mp4_720x1280/1497372632</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>18.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix all ingredients together in a large bowl. </step>
+    <step num="1">Serve with chips or as a topping on your favorite meal. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix all ingredients together in a large bowl. </steps_updated>
+    <steps_updated num="1">Serve with chips or as a topping on your favorite meal. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

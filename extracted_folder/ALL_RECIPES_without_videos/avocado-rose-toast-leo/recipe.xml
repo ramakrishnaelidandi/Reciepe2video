@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Rose Toast (Leo) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-rose-toast-leo</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/astrology-avocado-toast</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; avocado </ingredient>
+    <ingredient num="1">1 slice ; multigrain toast </ingredient>
+    <ingredient num="2">1 tablespoon ; pomegranate seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124411/hls24_1549495745.m3u8</low>
+    <high>https://vid.tasty.co/output/124411/landscape_720/1549495745</high>
+  </video>
+  <duration>
+    <start_time>127.0</start_time>
+    <end_time>160.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel the avocado half, then slice crosswise very thinly, keeping the avocado shape intact as you go. Starting from one end, fan out the sliced avocado in straight line, then curl into a rose shape. </step>
+    <step num="1">Carefully transfer the avocado rose to the slice of toast. Top with the pomegranate seeds. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the avocado half, then slice crosswise very thinly, keeping the avocado shape intact as you go. </steps_updated>
+    <steps_updated num="1">Starting from one end, fan out the sliced avocado in straight line, then curl into a rose shape. </steps_updated>
+    <steps_updated num="2">Carefully transfer the avocado rose to the slice of toast. </steps_updated>
+    <steps_updated num="3">Top with the pomegranate seeds. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

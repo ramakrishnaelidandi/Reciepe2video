@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>High-Protein Gingerbread Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/high-protein-gingerbread-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; large eggs </ingredient>
+    <ingredient num="1">1 cup ; cream-style cottage cheese ; (225 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; molasses </ingredient>
+    <ingredient num="3">1 tablespoon ; honey </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">½ cup ; oat flour ; (45 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="7">1 teaspoon ; ground ginger </ingredient>
+    <ingredient num="8">½ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="9">½ teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="10">¼ teaspoon ; allspice </ingredient>
+    <ingredient num="11">¼ teaspoon ; ground cloves </ingredient>
+    <ingredient num="12">1 pinch of ; kosher salt </ingredient>
+    <ingredient num="13">1 tablespoon ; chia seeds </ingredient>
+    <ingredient num="14">oil, of choice, for greasing the skilled </ingredient>
+    <ingredient num="15">whipped cream, for serving </ingredient>
+    <ingredient num="16">orange, segments, for serving </ingredient>
+    <ingredient num="17">syrup, sweetener of choice, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118451/hls24_1544047009.m3u8</low>
+    <high>https://vid.tasty.co/output/118451/landscape_720/1544047009</high>
+  </video>
+  <steps>
+    <step num="0">In a blender, combine the eggs, cottage cheese, molasses, honey, vanilla, oat flour, baking powder, ginger, nutmeg, cinnamon, allspice, cloves, and salt. Blend until well combined. </step>
+    <step num="1">Pour the mixture into a medium bowl and fold in the chia seeds. </step>
+    <step num="2">Heat the oil in a large skillet over medium-high heat. Pour ¼ cup of batter into the pan and cook for 3 minutes, until bubbles start to form and the edges become golden brown.  Flip and cook for 3 minutes more, until golden brown on the other side. Repeat with the remaining batter. </step>
+    <step num="3">Top the pancakes with whipped cream, orange segments, and your sweetener of choice. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine the eggs, cottage cheese, molasses, honey, vanilla, oat flour, baking powder, ginger, nutmeg, cinnamon, allspice, cloves, and salt. </steps_updated>
+    <steps_updated num="1">Blend until well combined. </steps_updated>
+    <steps_updated num="2">Pour the mixture into a medium bowl and fold in the chia seeds. </steps_updated>
+    <steps_updated num="3">Heat the oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="4">Pour ¼ cup of batter into the pan and cook for 3 minutes, until bubbles start to form and the edges become golden brown. </steps_updated>
+    <steps_updated num="5">Flip and cook for 3 minutes more, until golden brown on the other side. </steps_updated>
+    <steps_updated num="6">Repeat with the remaining batter. </steps_updated>
+    <steps_updated num="7">Top the pancakes with whipped cream, orange segments, and your sweetener of choice. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

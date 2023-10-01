@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon Ranch Chicken Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-ranch-chicken-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">6 tablespoons ; ranch dressing </ingredient>
+    <ingredient num="4">6 slices ; bacon </ingredient>
+    <ingredient num="5">4 oz ; cheddar cheese ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39426/low_1498728774.m3u8</low>
+    <high>https://vid.tasty.co/output/39426/mp4_1280X720/1498728774</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Place chicken breast in a baking dish. Season chicken with salt and pepper, to taste. </step>
+    <step num="2">Spread 1-2 Tbsp. ranch on each chicken breast. </step>
+    <step num="3">Layer two slices of bacon on top of each chicken breast. </step>
+    <step num="4">Top with cheese. </step>
+    <step num="5">Bake for 40 minutes. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Place chicken breast in a baking dish. </steps_updated>
+    <steps_updated num="2">Season chicken with salt and pepper, to taste. </steps_updated>
+    <steps_updated num="3">Spread 1-2 Tbsp. </steps_updated>
+    <steps_updated num="4">ranch on each chicken breast. </steps_updated>
+    <steps_updated num="5">Layer two slices of bacon on top of each chicken breast. </steps_updated>
+    <steps_updated num="6">Top with cheese. </steps_updated>
+    <steps_updated num="7">Bake for 40 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

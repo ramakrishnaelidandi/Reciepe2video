@@ -1,0 +1,41 @@
+<recipe>
+  <title>Microwaved Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwaved-corn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quick-and-easy-thanksgiving-sides</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 579 13278 12655 1778 3716 </ingredient>
+    <ingredient num="1">1580 14014 13278 10907 5335 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+    <category num="3">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/62808/low_1510943608.m3u8</low>
+    <high>https://vid.tasty.co/output/62808/mp4_720x1280/1510943608</high>
+  </video>
+  <duration>
+    <start_time>2.9699999999999998</start_time>
+    <end_time>21.82</end_time>
+  </duration>
+  <steps>
+    <step num="0">5791 11951 3183 210 5994 4392 12 14179 13817 10503 7990 2933 12689 </step>
+    <step num="1">12251 560 10694 7990 2933 12689 </step>
+    <step num="2">11881 11951 3183 1391 5335 9924 13817 1678 1391 82 6497 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5791 11951 3183 210 5994 4392 12 14179 13817 10503 7990 2933 12689 </steps_updated>
+    <steps_updated num="1">12251 560 10694 7990 2933 12689 </steps_updated>
+    <steps_updated num="2">11881 11951 3183 1391 5335 9924 13817 1678 1391 82 6497 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00150</start_time>
+    <end_time>00666</end_time>
+  </duration_human>
+</recipe>

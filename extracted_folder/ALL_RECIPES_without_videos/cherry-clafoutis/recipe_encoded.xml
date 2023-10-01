@@ -1,0 +1,53 @@
+<recipe>
+  <title>Cherry Clafoutis Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cherry-clafoutis</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13133 13278 11349 </ingredient>
+    <ingredient num="1">3591 2605 13278 8554 5735 890 13278 7005 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="3">12791 8071 13278 3855 82 </ingredient>
+    <ingredient num="4">8580 13278 2597 12708 </ingredient>
+    <ingredient num="5">3917 2605 13278 2532 9606 2532 13278 7503 8007 </ingredient>
+    <ingredient num="6">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="7">8580 9486 13278 7974 9924 </ingredient>
+    <ingredient num="8">3917 14014 13278 6885 6145 7990 580 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/136384/hls24_1560893788.m3u8</low>
+    <high>https://vid.tasty.co/output/136384/landscape_720/1560893788</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 </step>
+    <step num="1">12131 11951 11349 5569 8072 3755 4255 10707 371 2237 7888 13426 5128 797 7811 5994 13312 5209 5994 11842 1623 7492 11951 8602 560 5103 11951 8918 2257 5292 </step>
+    <step num="2">10950 5994 13757 14511 10968 3626 11951 6467 6145 13817 12051 9179 11951 12708 13817 6142 3145 560 1011 9179 11951 3354 13817 1319 13817 8341 1681 12119 </step>
+    <step num="3">12305 11951 9924 210 2237 10329 828 1645 13959 10060 11770 13757 2082 9956 11951 9924 7312 4318 5103 11951 5687 6781 11951 2082 </step>
+    <step num="4">2988 11951 11349 3584 210 11951 10590 1083 11951 4428 11770 11951 7509 </step>
+    <step num="5">7831 7990 1190 11004 1681 11951 11896 9490 10963 1368 13817 10524 560 11951 1744 </step>
+    <step num="6">4058 11951 6885 4834 4255 143 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">12131 11951 11349 5569 8072 3755 4255 10707 371 2237 7888 13426 5128 797 7811 5994 13312 </steps_updated>
+    <steps_updated num="2">5209 5994 11842 1623 7492 11951 8602 560 5103 11951 8918 </steps_updated>
+    <steps_updated num="3">2257 5292 </steps_updated>
+    <steps_updated num="4">10950 5994 13757 14511 10968 3626 11951 6467 6145 13817 12051 </steps_updated>
+    <steps_updated num="5">9179 11951 12708 13817 6142 3145 560 1011 </steps_updated>
+    <steps_updated num="6">9179 11951 3354 13817 1319 13817 8341 1681 12119 </steps_updated>
+    <steps_updated num="7">12305 11951 9924 210 2237 10329 828 1645 13959 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="8">9956 11951 9924 7312 4318 5103 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="9">2988 11951 11349 3584 210 11951 10590 </steps_updated>
+    <steps_updated num="10">1083 11951 4428 11770 11951 7509 </steps_updated>
+    <steps_updated num="11">7831 7990 1190 11004 1681 11951 11896 9490 10963 1368 13817 10524 560 11951 1744 </steps_updated>
+    <steps_updated num="12">4058 11951 6885 4834 4255 143 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

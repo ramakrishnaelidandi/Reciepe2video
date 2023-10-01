@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Low Sugar Protein Power Brownies</title>
+  <url>https://tasty.co/recipe/power-protein-brownies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; bananas, very riped, chopped </ingredient>
+    <ingredient num="1">15 oz ; black beans, rinsed and drained ; (425 g) </ingredient>
+    <ingredient num="2">½ cup ; dark cocoa powder ; (60 g) </ingredient>
+    <ingredient num="3">⅔ cup ; almond butter, or nut butter of choice ; (160 g) </ingredient>
+    <ingredient num="4">1 cup ; almond flour ; (95 g) </ingredient>
+    <ingredient num="5">¼ teaspoon ; kosher salt </ingredient>
+    <ingredient num="6">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="7">1 tablespoon ; pure vanilla extract </ingredient>
+    <ingredient num="8">¼ cup ; dark chocolate chips ; (40 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125603/hls24_1551137544.m3u8</low>
+    <high>https://vid.tasty.co/output/125603/landscape_720/1551137544</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Grease and line a 8-inch (20 cm) square baking dish with parchment paper. </step>
+    <step num="1">In a food processor, combine the bananas, black beans, cocoa powder, almond butter, almond flour, salt, baking powder, and vanilla. Pulse until smooth. </step>
+    <step num="2">Pour the batter into the prepared baking dish. Sprinkle the dark chocolate chips over the top. </step>
+    <step num="3">Bake for 25 minutes, or until the brownies are set. </step>
+    <step num="4">Let cool, then slice into 12 pieces. Enjoy the brownies immediately, or store in the fridge for 1 week or in the freezer for up to 1 month. </step>
+    <step num="5">Enjoy </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Grease and line a 8-inch (20 cm) square baking dish with parchment paper. </steps_updated>
+    <steps_updated num="2">In a food processor, combine the bananas, black beans, cocoa powder, almond butter, almond flour, salt, baking powder, and vanilla. </steps_updated>
+    <steps_updated num="3">Pulse until smooth. </steps_updated>
+    <steps_updated num="4">Pour the batter into the prepared baking dish. </steps_updated>
+    <steps_updated num="5">Sprinkle the dark chocolate chips over the top. </steps_updated>
+    <steps_updated num="6">Bake for 25 minutes, or until the brownies are set. </steps_updated>
+    <steps_updated num="7">Let cool, then slice into 12 pieces. </steps_updated>
+    <steps_updated num="8">Enjoy the brownies immediately, or store in the fridge for 1 week or in the freezer for up to 1 month. </steps_updated>
+    <steps_updated num="9">Enjoy </steps_updated>
+  </steps_updated>
+</recipe>

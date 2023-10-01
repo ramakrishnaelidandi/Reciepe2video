@@ -1,0 +1,48 @@
+<recipe>
+  <title>Chicken Salad Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-salad-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 3333 7983 13278 9373 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 4587 341 </ingredient>
+    <ingredient num="2">3917 14014 13278 4617 12384 11588 341 </ingredient>
+    <ingredient num="3">11061 13278 8602 7042 976 210 2532 </ingredient>
+    <ingredient num="4">8580 9486 13278 12545 341 </ingredient>
+    <ingredient num="5">13086 9486 13278 9767 3713 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">10986 560 11567 </ingredient>
+    <ingredient num="8">8580 13009 13278 3305 2168 4465 </ingredient>
+    <ingredient num="9">3917 14252 13278 2080 9227 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>52.82</start_time>
+    <end_time>86.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 4120 12816 4587 12384 976 7042 12545 2694 82 13817 12375 </step>
+    <step num="1">2988 11951 7983 11812 4255 797 371 11951 13009 371 4465 13817 3345 11951 9227 4255 11951 11649 12793 13494 1391 13218 6929 13817 14238 11951 4817 13009 371 4465 6690 14100 210 2532 13817 3345 210 5994 6661 3801 1391 8177 6744 13817 10300 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 4120 12816 4587 12384 976 7042 12545 2694 82 13817 12375 </steps_updated>
+    <steps_updated num="1">2988 11951 7983 11812 4255 797 371 11951 13009 371 4465 13817 3345 11951 9227 4255 11951 11649 12793 </steps_updated>
+    <steps_updated num="2">13494 1391 13218 6929 13817 14238 11951 4817 13009 371 4465 6690 </steps_updated>
+    <steps_updated num="3">14100 210 2532 13817 3345 210 5994 6661 3801 1391 8177 6744 13817 10300 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01643</start_time>
+    <end_time>02629</end_time>
+  </duration_human>
+</recipe>

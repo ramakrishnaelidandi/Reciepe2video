@@ -1,0 +1,44 @@
+<recipe>
+  <title>White Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-you-should-know-how-to-make-in-your-20-s</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 3104 3790 7706 13278 6898 5981 </ingredient>
+    <ingredient num="1">3917 9883 9517 13278 12282 13278 4332 8007 </ingredient>
+    <ingredient num="2">3917 2157 13278 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97925/hls24_1528493552.m3u8</low>
+    <high>https://vid.tasty.co/output/97925/landscape_720/1528493552</high>
+  </video>
+  <duration>
+    <start_time>46.333</start_time>
+    <end_time>68.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">7069 11951 7706 210 5994 14546 2734 3009 5895 1681 11951 12282 3792 10784 </step>
+    <step num="1">9179 11951 12282 13817 82 560 5994 11844 13817 14238 560 5994 1002 11770 8283 2082 </step>
+    <step num="2">9179 11951 7706 13817 6991 8859 11951 12282 4603 560 5994 1002 3258 </step>
+    <step num="3">5570 11951 5378 4255 11951 11844 13817 6657 11951 7855 560 5994 5181 9411 7990 11607 12689 </step>
+    <step num="4">426 3482 11951 7855 13817 3945 11951 7706 14170 7990 2933 12689 </step>
+    <step num="5">10867 11951 7706 1391 5994 11206 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">7069 11951 7706 210 5994 14546 2734 3009 5895 1681 11951 12282 3792 10784 </steps_updated>
+    <steps_updated num="1">9179 11951 12282 13817 82 560 5994 11844 13817 14238 560 5994 1002 11770 8283 2082 </steps_updated>
+    <steps_updated num="2">9179 11951 7706 13817 6991 8859 11951 12282 4603 560 5994 1002 3258 </steps_updated>
+    <steps_updated num="3">5570 11951 5378 4255 11951 11844 13817 6657 11951 7855 560 5994 5181 </steps_updated>
+    <steps_updated num="4">9411 7990 11607 12689 </steps_updated>
+    <steps_updated num="5">426 3482 11951 7855 13817 3945 11951 7706 14170 7990 2933 12689 </steps_updated>
+    <steps_updated num="6">10867 11951 7706 1391 5994 11206 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

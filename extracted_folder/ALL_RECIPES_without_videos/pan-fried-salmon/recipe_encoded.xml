@@ -1,0 +1,48 @@
+<recipe>
+  <title>Pan-Fried Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pan-fried-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-cook-salmon</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 2144 7989 721 13278 8118 5981 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">8244 7632 7990 8224 </ingredient>
+    <ingredient num="4">3917 13278 5516 976 </ingredient>
+    <ingredient num="5">6209 5040 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Healthy</category>
+    <category num="2">Lunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24516/low_1487727857.m3u8</low>
+    <high>https://vid.tasty.co/output/24516/mp4_720x1280/1487727857</high>
+  </video>
+  <duration>
+    <start_time>20.3</start_time>
+    <end_time>44.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 5766 210 5994 9637 2641 </step>
+    <step num="1">10242 7989 1391 82 13817 12375 </step>
+    <step num="2">4124 11951 7989 4255 11951 10060 13817 4430 11951 9075 11402 560 6285 1666 371 11951 10772 3386 11951 1565 11423 11951 7989 1956 13817 2550 1681 1559 560 13772 7461 928 8927 7020 </step>
+    <step num="3">12774 1391 597 13817 9211 6497 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5766 210 5994 9637 2641 </steps_updated>
+    <steps_updated num="1">10242 7989 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="2">4124 11951 7989 4255 11951 10060 13817 4430 11951 9075 11402 560 6285 1666 371 11951 10772 3386 11951 1565 </steps_updated>
+    <steps_updated num="3">11423 11951 7989 1956 13817 2550 1681 1559 560 13772 7461 928 8927 7020 </steps_updated>
+    <steps_updated num="4">12774 1391 597 13817 9211 6497 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00669</start_time>
+    <end_time>01325</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pancake Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pancake-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="1">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="2">3 ; eggs </ingredient>
+    <ingredient num="3">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla </ingredient>
+    <ingredient num="5">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32187/low_1495125461.m3u8</low>
+    <high>https://vid.tasty.co/output/32187/mp4_720x1280/1495125461</high>
+  </video>
+  <steps>
+    <step num="0">Blend all ingredients in a blender until completely combined. </step>
+    <step num="1">Divide among all the cups of a greased muffin tin, cups will be about ⅓ full. </step>
+    <step num="2">Bake at 400°F/200°C for 13-15 minutes. Pancakes will puff up super big, then deflate when you remove them from the oven. </step>
+    <step num="3">Fill with whatever you want—fresh fruit and syrup, bacon and eggs, sausage, or jam and whipped cream. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Blend all ingredients in a blender until completely combined. </steps_updated>
+    <steps_updated num="1">Divide among all the cups of a greased muffin tin, cups will be about ⅓ full. </steps_updated>
+    <steps_updated num="2">Bake at 400°F/200°C for 13-15 minutes. </steps_updated>
+    <steps_updated num="3">Pancakes will puff up super big, then deflate when you remove them from the oven. </steps_updated>
+    <steps_updated num="4">Fill with whatever you want—fresh fruit and syrup, bacon and eggs, sausage, or jam and whipped cream. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Marsala Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-marsala</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast, butterflied, pounded, and divided into 2 </ingredient>
+    <ingredient num="1">flour, as needed </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 ½ cups ; mushroom ; (110 g) </ingredient>
+    <ingredient num="5">1 cup ; marsala wine ; (235 mL) </ingredient>
+    <ingredient num="6">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="7">1 clove ; garlic, minced </ingredient>
+    <ingredient num="8">1 tablespoon ; butter </ingredient>
+    <ingredient num="9">1 tablespoon ; parsley </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32205/low_1495125487.m3u8</low>
+    <high>https://vid.tasty.co/output/32205/mp4_720x1280/1495125487</high>
+  </video>
+  <steps>
+    <step num="0">Butterfly, pound and divide one chicken breast into 2 pieces. </step>
+    <step num="1">Combine flour, salt and pepper and dredge chicken breast in the seasoned flour. Dust off any excess. </step>
+    <step num="2">Fry the chicken in a little bit of oil on a hot skillet/pan. Fry 3 minutes per side. </step>
+    <step num="3">In the same skillet or pan, add the mushrooms. Cook until soft. </step>
+    <step num="4">Add the marsala wine, lemon juice, minced garlic, butter and parsley. Cook until sauce has slightly thickened. </step>
+    <step num="5">Serve chicken on top of or with pasta/ rice and spoon sauce over. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Butterfly, pound and divide one chicken breast into 2 pieces. </steps_updated>
+    <steps_updated num="1">Combine flour, salt and pepper and dredge chicken breast in the seasoned flour. </steps_updated>
+    <steps_updated num="2">Dust off any excess. </steps_updated>
+    <steps_updated num="3">Fry the chicken in a little bit of oil on a hot skillet/pan. </steps_updated>
+    <steps_updated num="4">Fry 3 minutes per side. </steps_updated>
+    <steps_updated num="5">In the same skillet or pan, add the mushrooms. </steps_updated>
+    <steps_updated num="6">Cook until soft. </steps_updated>
+    <steps_updated num="7">Add the marsala wine, lemon juice, minced garlic, butter and parsley. </steps_updated>
+    <steps_updated num="8">Cook until sauce has slightly thickened. </steps_updated>
+    <steps_updated num="9">Serve chicken on top of or with pasta/ rice and spoon sauce over. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

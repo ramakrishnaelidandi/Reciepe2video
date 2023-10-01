@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Omelette Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-omelette-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">36 ; tater tots, thawed </ingredient>
+    <ingredient num="1">8 ; eggs </ingredient>
+    <ingredient num="2">3 tablespoons ; milk </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">your favorite omelette fillings, of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32026/low_1495125035.m3u8</low>
+    <high>https://vid.tasty.co/output/32026/mp4_720x1280/1495125035</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, whisk together the eggs, milk, salt, and pepper. </step>
+    <step num="1">Push 3 tater tots in each cup of a non-stick muffin tin. </step>
+    <step num="2">Bake at 425°F (220°C) for 10 minutes. Remove from oven. </step>
+    <step num="3">Place your favorite omelette fillings in each muffin tin on top of the tater tots. </step>
+    <step num="4">Pour egg mixture into each muffin tin. </step>
+    <step num="5">Bake at 350°F (177°C) for 20 minutes, or until fully cooked! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, whisk together the eggs, milk, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Push 3 tater tots in each cup of a non-stick muffin tin. </steps_updated>
+    <steps_updated num="2">Bake at 425°F (220°C) for 10 minutes. </steps_updated>
+    <steps_updated num="3">Remove from oven. </steps_updated>
+    <steps_updated num="4">Place your favorite omelette fillings in each muffin tin on top of the tater tots. </steps_updated>
+    <steps_updated num="5">Pour egg mixture into each muffin tin. </steps_updated>
+    <steps_updated num="6">Bake at 350°F (177°C) for 20 minutes, or until fully cooked! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

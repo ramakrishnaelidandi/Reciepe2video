@@ -1,0 +1,38 @@
+<recipe>
+  <title>2-ingredient Flatbread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/two-ingredient-flatbread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 3305 3257 9767 3713 13278 13113 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 6844 6467 7789 3954 7990 580 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43260/low_1499798031.m3u8</low>
+    <high>https://vid.tasty.co/output/43260/mp4_720x1280/1499798031</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 12377 10968 3626 3713 13817 3917 2605 890 9373 5981 1681 3557 5818 5994 6873 9453 </step>
+    <step num="1">12785 8337 560 5994 13004 9061 877 669 12645 14311 13330 </step>
+    <step num="2">7692 2696 10763 461 371 8337 560 6285 6735 4735 828 1645 210 13657 10104 3884 371 890 560 3720 14207 5895 4555 </step>
+    <step num="3">264 11951 4465 210 5994 5316 6222 5687 817 11770 13757 8283 2082 264 10763 11801 7990 928 8927 1681 10963 1368 13817 3745 8119 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 12377 10968 3626 3713 13817 3917 2605 890 9373 5981 1681 3557 5818 5994 6873 9453 </steps_updated>
+    <steps_updated num="1">12785 8337 560 5994 13004 9061 </steps_updated>
+    <steps_updated num="2">877 669 12645 14311 13330 </steps_updated>
+    <steps_updated num="3">7692 2696 10763 461 371 8337 560 6285 6735 4735 828 1645 210 13657 10104 3884 371 890 560 3720 14207 5895 4555 </steps_updated>
+    <steps_updated num="4">264 11951 4465 210 5994 5316 6222 5687 817 11770 13757 8283 2082 </steps_updated>
+    <steps_updated num="5">264 10763 11801 7990 928 8927 1681 10963 1368 13817 3745 8119 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

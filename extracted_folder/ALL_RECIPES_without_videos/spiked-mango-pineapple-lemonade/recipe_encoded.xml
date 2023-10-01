@@ -1,0 +1,48 @@
+<recipe>
+  <title>Spiked Mango Pineapple Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spiked-mango-pineapple-lemonade</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spiked-lemonade-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2933 9517 13278 12282 13278 10187 56 1767 </ingredient>
+    <ingredient num="1">3917 2605 13278 597 10522 13278 12462 8007 </ingredient>
+    <ingredient num="2">3591 2605 13278 4834 13278 4873 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 14149 10471 13278 12462 8007 </ingredient>
+    <ingredient num="4">1580 2605 13278 10307 10522 13278 2935 8007 </ingredient>
+    <ingredient num="5">8580 9517 13278 819 13278 6901 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35992/low_1498690511.m3u8</low>
+    <high>https://vid.tasty.co/output/35992/mp4_720x1280/1498690511</high>
+  </video>
+  <duration>
+    <start_time>19.13</start_time>
+    <end_time>40.24</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 8554 11907 210 5994 2597 11856 13817 6142 1681 4834 7312 10033 </step>
+    <step num="1">9956 10058 173 7990 13086 12721 5895 1681 11951 11789 9490 1849 </step>
+    <step num="2">12774 1391 2439 13817 11951 6504 371 12313 13316 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 8554 11907 210 5994 2597 11856 13817 6142 1681 4834 7312 10033 </steps_updated>
+    <steps_updated num="1">9956 10058 173 7990 13086 12721 5895 1681 11951 11789 9490 1849 </steps_updated>
+    <steps_updated num="2">12774 1391 2439 13817 11951 6504 371 12313 13316 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00630</start_time>
+    <end_time>01226</end_time>
+  </duration_human>
+</recipe>

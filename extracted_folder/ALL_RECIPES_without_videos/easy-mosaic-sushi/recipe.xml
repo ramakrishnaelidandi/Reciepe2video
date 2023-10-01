@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Mosaic Sushi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-mosaic-sushi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; egg, beaten </ingredient>
+    <ingredient num="1">1 tablespoon ; sugar </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ cup ; rice vinegar ; (120 mL) </ingredient>
+    <ingredient num="4">1 cup ; sushi rice, cooked ; (230 g) </ingredient>
+    <ingredient num="5">3 sheets ; nori </ingredient>
+    <ingredient num="6">1 ; english cucumber, quartered lengthwise </ingredient>
+    <ingredient num="7">4 oz ; sushi-grade salmon, sliced into long strips ; (115 g) </ingredient>
+    <ingredient num="8">4 oz ; sushi-grade tuna, sliced into long strips ; (115 g) </ingredient>
+    <ingredient num="9">soy sauce, for serving </ingredient>
+    <ingredient num="10">wasabi, for serving </ingredient>
+    <ingredient num="11">pickled ginger, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Seafood</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98030/hls24_1528735198.m3u8</low>
+    <high>https://vid.tasty.co/output/98030/landscape_720/1528735198</high>
+  </video>
+  <steps>
+    <step num="0">Heat a medium nonstick pan over medium-high heat. Add the beaten egg to the pan and tilt the pan so the egg covers the bottom in a thin layer. Cook until the egg is firm, 3 minutes. Remove from the pan and let cool, then roll up. </step>
+    <step num="1">In a liquid measuring cup, mix together the sugar, salt, and rice vinegar and microwave for 2 minutes, or until the solids fully dissolve. </step>
+    <step num="2">Pour the seasoned sushi vinegar over the cooked rice and gently toss the rice until it comes to room temperature. </step>
+    <step num="3">Place a sheet of nori on a cutting board. Dip your hands in water and then pick up about half of the seasoned sushi rice and gently arrange it over the nori, spreading evenly all the way to the corners. </step>
+    <step num="4">Top the rice with another nori sheet, then cut the the sushi crosswise into 4 even strips. Set aside. </step>
+    <step num="5">Place another sheet of nori on a sushi rolling mat. Place a quartered strip of cucumber on the bottom edge of the nori and another cucumber strip an inch above it. Place 2 of the sushi rice/nori strips on top of the cucumber. </step>
+    <step num="6">Place a strip of salmon in between the strips of nori. Then, place the rolled omelet on top of the salmon. </step>
+    <step num="7">Place 2 strips of tuna on either side of the omelet roll. Then, place another piece of salmon on top of the omelette. </step>
+    <step num="8">Place the last 2 strips of rice and nori over the salmon. Place another strip of cucumber over the top piece of nori and roll the sushi 90 degrees. </step>
+    <step num="9">Tuck the final piece of cucumber in place and continue to roll the sushi until the nori completely wraps around, making sure to keep the roll as square as possible. </step>
+    <step num="10">Cut the roll into slices and serve immediately with soy sauce, wasabi, and pickled ginger alongside. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a medium nonstick pan over medium-high heat. </steps_updated>
+    <steps_updated num="1">Add the beaten egg to the pan and tilt the pan so the egg covers the bottom in a thin layer. </steps_updated>
+    <steps_updated num="2">Cook until the egg is firm, 3 minutes. </steps_updated>
+    <steps_updated num="3">Remove from the pan and let cool, then roll up. </steps_updated>
+    <steps_updated num="4">In a liquid measuring cup, mix together the sugar, salt, and rice vinegar and microwave for 2 minutes, or until the solids fully dissolve. </steps_updated>
+    <steps_updated num="5">Pour the seasoned sushi vinegar over the cooked rice and gently toss the rice until it comes to room temperature. </steps_updated>
+    <steps_updated num="6">Place a sheet of nori on a cutting board. </steps_updated>
+    <steps_updated num="7">Dip your hands in water and then pick up about half of the seasoned sushi rice and gently arrange it over the nori, spreading evenly all the way to the corners. </steps_updated>
+    <steps_updated num="8">Top the rice with another nori sheet, then cut the the sushi crosswise into 4 even strips. </steps_updated>
+    <steps_updated num="9">Set aside. </steps_updated>
+    <steps_updated num="10">Place another sheet of nori on a sushi rolling mat. </steps_updated>
+    <steps_updated num="11">Place a quartered strip of cucumber on the bottom edge of the nori and another cucumber strip an inch above it. </steps_updated>
+    <steps_updated num="12">Place 2 of the sushi rice/nori strips on top of the cucumber. </steps_updated>
+    <steps_updated num="13">Place a strip of salmon in between the strips of nori. </steps_updated>
+    <steps_updated num="14">Then, place the rolled omelet on top of the salmon. </steps_updated>
+    <steps_updated num="15">Place 2 strips of tuna on either side of the omelet roll. </steps_updated>
+    <steps_updated num="16">Then, place another piece of salmon on top of the omelette. </steps_updated>
+    <steps_updated num="17">Place the last 2 strips of rice and nori over the salmon. </steps_updated>
+    <steps_updated num="18">Place another strip of cucumber over the top piece of nori and roll the sushi 90 degrees. </steps_updated>
+    <steps_updated num="19">Tuck the final piece of cucumber in place and continue to roll the sushi until the nori completely wraps around, making sure to keep the roll as square as possible. </steps_updated>
+    <steps_updated num="20">Cut the roll into slices and serve immediately with soy sauce, wasabi, and pickled ginger alongside. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

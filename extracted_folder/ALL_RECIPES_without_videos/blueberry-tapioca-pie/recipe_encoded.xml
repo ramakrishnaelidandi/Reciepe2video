@@ -1,0 +1,62 @@
+<recipe>
+  <title>Blueberry Tapioca Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-tapioca-pie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-pies-around-the-us</comp_url>
+  <ingredients>
+    <ingredient num="0">14058 9486 13278 6145 3247 </ingredient>
+    <ingredient num="1">3917 14014 13278 13521 890 </ingredient>
+    <ingredient num="2">8580 9486 13278 1328 13783 </ingredient>
+    <ingredient num="3">4061 9517 13278 6209 1421 13278 5348 5981 </ingredient>
+    <ingredient num="4">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="5">8580 13278 3392 4844 2577 </ingredient>
+    <ingredient num="6">3917 14014 13278 5802 </ingredient>
+    <ingredient num="7">1319 2439 1123 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/116404/hls24_1542764234.m3u8</low>
+    <high>https://vid.tasty.co/output/116404/landscape_720/1542764234</high>
+  </video>
+  <duration>
+    <start_time>8.0</start_time>
+    <end_time>107.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 13194 13180 </step>
+    <step num="1">10950 5994 13757 14511 4120 11061 9486 371 6145 11951 6467 13817 1328 12888 </step>
+    <step num="2">6252 11951 4834 2373 11770 11951 10520 210 5994 2597 7616 9179 11951 597 10522 13817 6142 560 1011 </step>
+    <step num="3">9207 2237 10329 6155 8154 4844 2141 1391 3917 371 11951 4844 6362 </step>
+    <step num="4">6877 11951 1421 2373 669 11951 13207 5570 11951 11649 1547 4255 143 8724 11951 5832 371 11951 2577 3626 1391 5994 1514 13817 9839 7115 1198 8337 5412 11951 10860 1391 14540 </step>
+    <step num="5">11881 11951 5802 11770 11951 10707 1547 13817 1678 1391 11951 374 14014 371 8525 14100 5994 8631 14224 210 11951 10707 560 11136 14170 2658 11951 4844 5458 </step>
+    <step num="6">7831 11951 4844 7990 13133 11004 415 2864 11951 10439 2281 560 9988 1390 13817 10903 7990 13734 8927 7191 1681 11951 1547 9490 10963 1368 13817 11951 11539 9490 5986 </step>
+    <step num="7">13434 11951 4844 4255 5994 12195 6880 7990 7811 767 8580 12721 560 3945 11951 11539 9892 </step>
+    <step num="8">3235 13817 1966 1391 2439 5808 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 13194 13180 </steps_updated>
+    <steps_updated num="1">10950 5994 13757 14511 4120 11061 9486 371 6145 11951 6467 13817 1328 12888 </steps_updated>
+    <steps_updated num="2">6252 11951 4834 2373 11770 11951 10520 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="3">9179 11951 597 10522 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="4">9207 2237 10329 6155 8154 4844 2141 1391 3917 371 11951 4844 6362 </steps_updated>
+    <steps_updated num="5">6877 11951 1421 2373 669 11951 13207 </steps_updated>
+    <steps_updated num="6">5570 11951 11649 1547 4255 143 </steps_updated>
+    <steps_updated num="7">8724 11951 5832 371 11951 2577 3626 1391 5994 1514 13817 9839 7115 1198 8337 5412 11951 10860 1391 14540 </steps_updated>
+    <steps_updated num="8">11881 11951 5802 11770 11951 10707 1547 13817 1678 1391 11951 374 14014 371 8525 </steps_updated>
+    <steps_updated num="9">14100 5994 8631 14224 210 11951 10707 560 11136 14170 2658 11951 4844 5458 </steps_updated>
+    <steps_updated num="10">7831 11951 4844 7990 13133 11004 415 2864 11951 10439 2281 560 9988 1390 13817 10903 7990 13734 8927 7191 1681 11951 1547 9490 10963 1368 13817 11951 11539 9490 5986 </steps_updated>
+    <steps_updated num="11">13434 11951 4844 4255 5994 12195 6880 7990 7811 767 8580 12721 560 3945 11951 11539 9892 </steps_updated>
+    <steps_updated num="12">3235 13817 1966 1391 2439 5808 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

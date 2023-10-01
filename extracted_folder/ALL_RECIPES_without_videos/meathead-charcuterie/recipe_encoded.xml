@@ -1,0 +1,35 @@
+<recipe>
+  <title>Meathead Charcuterie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meathead-charcuterie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11585 </ingredient>
+    <ingredient num="1">4426 8244 </ingredient>
+    <ingredient num="2">8438 3700 </ingredient>
+    <ingredient num="3">8438 7558 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Casual Party</category>
+    <category num="1">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">4660 5994 8438 3700 1391 8438 8016 3711 </step>
+    <step num="1">8431 7497 8535 371 11585 560 6506 11951 8438 3960 3872 11951 4385 7591 8531 3318 13817 11845 10223 </step>
+    <step num="2">12775 772 2237 729 4255 11951 8438 5412 11951 4385 1542 7621 4426 2304 210 11951 562 560 3535 11951 9699 </step>
+    <step num="3">5570 11951 14178 4255 5994 7202 13817 740 14538 13817 7940 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">4660 5994 8438 3700 1391 8438 8016 3711 </steps_updated>
+    <steps_updated num="1">8431 7497 8535 371 11585 560 6506 11951 8438 3960 </steps_updated>
+    <steps_updated num="2">3872 11951 4385 7591 8531 3318 13817 11845 10223 </steps_updated>
+    <steps_updated num="3">12775 772 2237 729 4255 11951 8438 5412 11951 4385 1542 </steps_updated>
+    <steps_updated num="4">7621 4426 2304 210 11951 562 560 3535 11951 9699 </steps_updated>
+    <steps_updated num="5">5570 11951 14178 4255 5994 7202 13817 740 14538 13817 7940 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

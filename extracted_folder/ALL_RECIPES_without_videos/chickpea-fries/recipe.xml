@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chickpea Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chickpea-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; chickpea flour ; (200 g) </ingredient>
+    <ingredient num="1">4 cups ; water ; (960 mL) </ingredient>
+    <ingredient num="2">½ cup ; greek yogurt ; (145 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; fresh parsley, finely chopped </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh dill, finely chopped </ingredient>
+    <ingredient num="5">1 clove ; garlic, minced </ingredient>
+    <ingredient num="6">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32069/low_1495125301.m3u8</low>
+    <high>https://vid.tasty.co/output/32069/mp4_720x1280/1495125301</high>
+  </video>
+  <steps>
+    <step num="0">Bring 4 cups of water to a boil. Gradually whisk in 2 cups of chickpea flour. Continue to whisk until the mixture is thickened to the consistency of thick oatmeal. </step>
+    <step num="1">Immediately transfer to a greased, baking dish. [We used an 8x10 (20x25 cm), but a larger one will just produce thinner fries]. Knock the dish on your work surface a few times to ensure that the mixture spreads evenly and to release any air bubbles. </step>
+    <step num="2">Press plastic wrap over the mixture to ensure a flat surface and refrigerate for 2 hours until it has set firm. </step>
+    <step num="3">Dipping sauce: In a medium bowl, combine greek yogurt, a pinch of salt, finely chopped parsley, finely chopped dill, clove garlic minced, and lemon juice. </step>
+    <step num="4">Invert the baking dish on a cutting board (you may have to pull at the edges to release the suction for it to fall out cleanly). Slice into streak fry sizes. </step>
+    <step num="5">Shallow fry in oil until each side is golden and crispy. Salt immediately after coming out of oil. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring 4 cups of water to a boil. </steps_updated>
+    <steps_updated num="1">Gradually whisk in 2 cups of chickpea flour. </steps_updated>
+    <steps_updated num="2">Continue to whisk until the mixture is thickened to the consistency of thick oatmeal. </steps_updated>
+    <steps_updated num="3">Immediately transfer to a greased, baking dish. </steps_updated>
+    <steps_updated num="4">[We used an 8x10 (20x25 cm), but a larger one will just produce thinner fries]. </steps_updated>
+    <steps_updated num="5">Knock the dish on your work surface a few times to ensure that the mixture spreads evenly and to release any air bubbles. </steps_updated>
+    <steps_updated num="6">Press plastic wrap over the mixture to ensure a flat surface and refrigerate for 2 hours until it has set firm. </steps_updated>
+    <steps_updated num="7">Dipping sauce: In a medium bowl, combine greek yogurt, a pinch of salt, finely chopped parsley, finely chopped dill, clove garlic minced, and lemon juice. </steps_updated>
+    <steps_updated num="8">Invert the baking dish on a cutting board (you may have to pull at the edges to release the suction for it to fall out cleanly). </steps_updated>
+    <steps_updated num="9">Slice into streak fry sizes. </steps_updated>
+    <steps_updated num="10">Shallow fry in oil until each side is golden and crispy. </steps_updated>
+    <steps_updated num="11">Salt immediately after coming out of oil. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

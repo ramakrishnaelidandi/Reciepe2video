@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Nutella Pacoca Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nutella-pacoca-ice-cream</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 pieces ; paçoca </ingredient>
+    <ingredient num="1">1 can ; sweetened condensed milk </ingredient>
+    <ingredient num="2">2 cups ; heavy cream ; (475 mL) </ingredient>
+    <ingredient num="3">¼ cup ; chocolate hazelnut spread ; (75 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Brazilian</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29498/low_1492548478.m3u8</low>
+    <high>https://vid.tasty.co/output/29498/mp4_720x1280/1492548478</high>
+  </video>
+  <steps>
+    <step num="0">Crush 4 paçoca pieces in a bowl, then mix in the sweetened condensed milk to form a paste. </step>
+    <step num="1">In a large bowl, whip the heavy cream until soft peaks form, then fold in the paçoca mixture until evenly combined. </step>
+    <step num="2">Transfer the cream mixture into a square baking dish, then crumble the remaining 4 paçoca over the top. </step>
+    <step num="3">Spoon the Nutella over the mixture in large dollops, then taking a knife, swirl the Nutella and paçoca into the cream with a figure-8 motion. </step>
+    <step num="4">Freeze for at least 4 hours. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Crush 4 paçoca pieces in a bowl, then mix in the sweetened condensed milk to form a paste. </steps_updated>
+    <steps_updated num="1">In a large bowl, whip the heavy cream until soft peaks form, then fold in the paçoca mixture until evenly combined. </steps_updated>
+    <steps_updated num="2">Transfer the cream mixture into a square baking dish, then crumble the remaining 4 paçoca over the top. </steps_updated>
+    <steps_updated num="3">Spoon the Nutella over the mixture in large dollops, then taking a knife, swirl the Nutella and paçoca into the cream with a figure-8 motion. </steps_updated>
+    <steps_updated num="4">Freeze for at least 4 hours. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

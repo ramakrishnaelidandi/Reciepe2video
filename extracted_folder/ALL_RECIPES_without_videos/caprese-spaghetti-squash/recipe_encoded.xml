@@ -1,0 +1,71 @@
+<recipe>
+  <title>Caprese Spaghetti Squash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caprese-spaghetti-squash</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-squash-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 13402 2457 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 7845 </ingredient>
+    <ingredient num="4">3917 14014 13278 5766 </ingredient>
+    <ingredient num="5">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="6">1580 13278 11091 12384 341 </ingredient>
+    <ingredient num="7">3917 2605 13278 8602 9491 10844 13278 6898 5981 </ingredient>
+    <ingredient num="8">1580 8071 13278 82 </ingredient>
+    <ingredient num="9">1580 8071 13278 7845 </ingredient>
+    <ingredient num="10">6735 643 13278 1459 10865 6267 13278 9473 5981 </ingredient>
+    <ingredient num="11">6209 749 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55204/low_1507246656.m3u8</low>
+    <high>https://vid.tasty.co/output/55204/mp4_720x1280/1507246656</high>
+  </video>
+  <duration>
+    <start_time>0.43999999999999995</start_time>
+    <end_time>51.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 5281 13018 </step>
+    <step num="1">10936 5994 5133 5097 12205 11951 2457 210 8467 4429 11951 2457 9490 13700 12660 14365 210 7679 12823 6028 5994 8711 2348 5412 11951 1354 6688 7990 6175 8927 560 8523 12251 560 10694 432 4669 210 8467 </step>
+    <step num="2">9679 2696 11951 12320 10654 1391 7632 13817 1678 1391 12610 13817 12375 7831 7990 1190 11004 5895 1681 5994 1514 14138 13669 7944 11951 1012 </step>
+    <step num="3">10950 5994 5687 11770 13757 14307 740 11951 7632 4155 13817 7272 13817 1717 1681 11453 12573 6470 </step>
+    <step num="4">9179 11951 8602 7042 12610 13817 7845 13817 11779 1681 6665 12573 3745 13817 13824 560 13593 2296 </step>
+    <step num="5">6054 2457 6781 11951 11546 1391 5994 1514 14467 7811 11951 5832 560 6722 5312 11531 6287 9502 9179 11951 2457 560 11951 9668 2373 13817 10968 210 11951 10590 </step>
+    <step num="6">9179 2373 13352 560 11951 9599 2696 13402 2457 6835 13494 1391 1459 10865 2984 5077 13952 </step>
+    <step num="7">7831 2237 3274 5966 11004 5895 1681 14538 1039 </step>
+    <step num="8">12774 210 11951 7602 13817 10707 1391 13952 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5281 13018 </steps_updated>
+    <steps_updated num="1">10936 5994 5133 5097 12205 11951 2457 210 8467 </steps_updated>
+    <steps_updated num="2">4429 11951 2457 9490 13700 12660 14365 210 7679 12823 6028 5994 8711 2348 5412 11951 1354 </steps_updated>
+    <steps_updated num="3">6688 7990 6175 8927 560 8523 </steps_updated>
+    <steps_updated num="4">12251 560 10694 432 4669 210 8467 </steps_updated>
+    <steps_updated num="5">9679 2696 11951 12320 10654 1391 7632 13817 1678 1391 12610 13817 12375 </steps_updated>
+    <steps_updated num="6">7831 7990 1190 11004 5895 1681 5994 1514 14138 13669 7944 11951 1012 </steps_updated>
+    <steps_updated num="7">10950 5994 5687 11770 13757 14307 740 11951 7632 4155 13817 7272 13817 1717 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="8">9179 11951 8602 7042 12610 13817 7845 13817 11779 1681 6665 12573 3745 13817 13824 560 13593 2296 </steps_updated>
+    <steps_updated num="9">6054 2457 6781 11951 11546 1391 5994 1514 14467 7811 11951 5832 560 6722 5312 11531 6287 9502 </steps_updated>
+    <steps_updated num="10">9179 11951 2457 560 11951 9668 2373 13817 10968 210 11951 10590 </steps_updated>
+    <steps_updated num="11">9179 2373 13352 560 11951 9599 2696 13402 2457 6835 </steps_updated>
+    <steps_updated num="12">13494 1391 1459 10865 2984 5077 13952 </steps_updated>
+    <steps_updated num="13">7831 2237 3274 5966 11004 5895 1681 14538 1039 </steps_updated>
+    <steps_updated num="14">12774 210 11951 7602 13817 10707 1391 13952 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00050</start_time>
+    <end_time>01542</end_time>
+  </duration_human>
+</recipe>

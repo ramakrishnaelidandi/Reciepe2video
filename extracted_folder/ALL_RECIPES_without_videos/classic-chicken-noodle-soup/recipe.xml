@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Chicken Noodle Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-chicken-noodle-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="1">1 ; large onion, chopped </ingredient>
+    <ingredient num="2">3 ; large carrots, sliced </ingredient>
+    <ingredient num="3">4 stalks ; celery, chopped </ingredient>
+    <ingredient num="4">kosher salt, to taste </ingredient>
+    <ingredient num="5">black pepper, to taste </ingredient>
+    <ingredient num="6">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="7">8 cups ; chicken broth ; (2 L) </ingredient>
+    <ingredient num="8">8 oz ; egg noodles ; (225 g) </ingredient>
+    <ingredient num="9">4 cups ; shredded chicken breast ; (500 g) </ingredient>
+    <ingredient num="10">½ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+    <ingredient num="11">parmesan cheese, shredded, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Brunch</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31952/low_1495124888.m3u8</low>
+    <high>https://vid.tasty.co/output/31952/mp4_720x1280/1495124888</high>
+  </video>
+  <steps>
+    <step num="0">Heat the olive oil until shimmering over medium heat in a large soup pot. Add the onion, carrots, celery, and 1 teaspoon each salt and pepper. Cooking, stirring frequently, until the vegetables are very soft, about 15 minutes. </step>
+    <step num="1">Add the garlic and cook until fragrant, about 1 minute. Add the stock and bring to a boil. </step>
+    <step num="2">MAKE AHEAD: Do not add the noodles or parsley. Cool and refrigerate the soup in an airtight container for four days, or in the freezer for up to two months. Reheat on the stove and add the noodles and parsley just before serving. </step>
+    <step num="3">Add the noodles and cook 6 minutes, then add the chicken and cook about 2 minutes more, until the noodles are cooked through and the chicken is warmed through. </step>
+    <step num="4">Season to taste with salt and pepper, then stir in the parsley. </step>
+    <step num="5">Serve topped with Parmesan. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil until shimmering over medium heat in a large soup pot. </steps_updated>
+    <steps_updated num="1">Add the onion, carrots, celery, and 1 teaspoon each salt and pepper. </steps_updated>
+    <steps_updated num="2">Cooking, stirring frequently, until the vegetables are very soft, about 15 minutes. </steps_updated>
+    <steps_updated num="3">Add the garlic and cook until fragrant, about 1 minute. </steps_updated>
+    <steps_updated num="4">Add the stock and bring to a boil. </steps_updated>
+    <steps_updated num="5">MAKE AHEAD: Do not add the noodles or parsley. </steps_updated>
+    <steps_updated num="6">Cool and refrigerate the soup in an airtight container for four days, or in the freezer for up to two months. </steps_updated>
+    <steps_updated num="7">Reheat on the stove and add the noodles and parsley just before serving. </steps_updated>
+    <steps_updated num="8">Add the noodles and cook 6 minutes, then add the chicken and cook about 2 minutes more, until the noodles are cooked through and the chicken is warmed through. </steps_updated>
+    <steps_updated num="9">Season to taste with salt and pepper, then stir in the parsley. </steps_updated>
+    <steps_updated num="10">Serve topped with Parmesan. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hot Chocolate Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-chocolate</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-easy-recipes-for-chocolate-lovers</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ⅔ cups ; whole milk ; (400 mL) </ingredient>
+    <ingredient num="1">⅔ cup ; dark chocolate ; (100 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; caramel </ingredient>
+    <ingredient num="3">½ teaspoon ; sea salt </ingredient>
+    <ingredient num="4">whipped cream </ingredient>
+    <ingredient num="5">caramel sauce </ingredient>
+    <ingredient num="6">dark chocolate shard </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55255/low_1507295832.m3u8</low>
+    <high>https://vid.tasty.co/output/55255/mp4_720x1280/1507295832</high>
+  </video>
+  <duration>
+    <start_time>166.45</start_time>
+    <end_time>182.68</end_time>
+  </duration>
+  <steps>
+    <step num="0">Gently heat the milk in a saucepan over a medium heat. </step>
+    <step num="1">Stir in the dark chocolate, caramel, and sea salt. </step>
+    <step num="2">Take off the heat and pour into a tall glass. </step>
+    <step num="3">Top with whipped cream, caramel sauce, and dark chocolate shards. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Gently heat the milk in a saucepan over a medium heat. </steps_updated>
+    <steps_updated num="1">Stir in the dark chocolate, caramel, and sea salt. </steps_updated>
+    <steps_updated num="2">Take off the heat and pour into a tall glass. </steps_updated>
+    <steps_updated num="3">Top with whipped cream, caramel sauce, and dark chocolate shards. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05054</start_time>
+    <end_time>05494</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Huevos Rancheros-ish Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/huevos-rancheros-ish-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; vegetable oil ; (240 mL) </ingredient>
+    <ingredient num="1">5 ; corn tortillas, cut 4 of them in half </ingredient>
+    <ingredient num="2">14 oz ; black beans, 1 can ; (395 g) </ingredient>
+    <ingredient num="3">1 cup ; mexican blend cheese ; (100 g) </ingredient>
+    <ingredient num="4">1 ½ cups ; pico de gallo ; (300 g) </ingredient>
+    <ingredient num="5">6 ; eggs </ingredient>
+    <ingredient num="6">½ cup ; red enchilada sauce ; (120 mL) </ingredient>
+    <ingredient num="7">fresh cilantro, to taste </ingredient>
+    <ingredient num="8">cotija cheese, to taste </ingredient>
+    <ingredient num="9">cream mexicana, or sour cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Breakfast</category>
+    <category num="7">Brunch</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32074/low_1495125320.m3u8</low>
+    <high>https://vid.tasty.co/output/32074/mp4_720x1280/1495125320</high>
+  </video>
+  <steps>
+    <step num="0">Preheat your oven to 375˚F (190˚C) </step>
+    <step num="1">In vegetable oil, lightly fry your corn tortillas. Drain on a paper towel. </step>
+    <step num="2">In a 9 inch (25cm) cast iron skillet, arrange your lightly fried tortillas so they cover the bottom of the skillet. </step>
+    <step num="3">Add black beans evenly over tortillas. (Some will fall in-between the tortillas, thats ok!) </step>
+    <step num="4">Sprinkle Mexican blend cheese over the black beans. </step>
+    <step num="5">Add pico de gallo on top of the cheese. </step>
+    <step num="6">Using the back of a large spoon, create 6 wells in the pico de gallo for the eggs to rest in. </step>
+    <step num="7">Crack one egg into each well (6 wells for 6 eggs). </step>
+    <step num="8">Pour enchilada sauce over everything! </step>
+    <step num="9">Bake for 20-25 minutes. Check on it often to make sure your yolks don’t overcook! </step>
+    <step num="10">Top with your favorite huevos rancheros toppings. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat your oven to 375˚F (190˚C) </steps_updated>
+    <steps_updated num="1">In vegetable oil, lightly fry your corn tortillas. </steps_updated>
+    <steps_updated num="2">Drain on a paper towel. </steps_updated>
+    <steps_updated num="3">In a 9 inch (25cm) cast iron skillet, arrange your lightly fried tortillas so they cover the bottom of the skillet. </steps_updated>
+    <steps_updated num="4">Add black beans evenly over tortillas. </steps_updated>
+    <steps_updated num="5">(Some will fall in-between the tortillas, thats ok!) </steps_updated>
+    <steps_updated num="6">Sprinkle Mexican blend cheese over the black beans. </steps_updated>
+    <steps_updated num="7">Add pico de gallo on top of the cheese. </steps_updated>
+    <steps_updated num="8">Using the back of a large spoon, create 6 wells in the pico de gallo for the eggs to rest in. </steps_updated>
+    <steps_updated num="9">Crack one egg into each well (6 wells for 6 eggs). </steps_updated>
+    <steps_updated num="10">Pour enchilada sauce over everything! </steps_updated>
+    <steps_updated num="11">Bake for 20-25 minutes. </steps_updated>
+    <steps_updated num="12">Check on it often to make sure your yolks don’t overcook! </steps_updated>
+    <steps_updated num="13">Top with your favorite huevos rancheros toppings. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

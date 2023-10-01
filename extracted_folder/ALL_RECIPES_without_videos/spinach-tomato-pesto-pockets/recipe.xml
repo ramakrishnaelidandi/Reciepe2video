@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach Tomato Pesto Pockets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-tomato-pesto-pockets</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/puff-pockets-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 sheet ; puff pastry </ingredient>
+    <ingredient num="1">¼ cup ; pesto ; (55 g) </ingredient>
+    <ingredient num="2">1 cup ; spinach, cooked ; (40 g) </ingredient>
+    <ingredient num="3">2 ; roma tomatoes, sliced </ingredient>
+    <ingredient num="4">½ cup ; shredded mozzarella cheese ; (50 g) </ingredient>
+    <ingredient num="5">1 ; egg, for egg wash </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23042/low_1486150519.m3u8</low>
+    <high>https://vid.tasty.co/output/23042/mp4_720x1280/1486150519</high>
+  </video>
+  <duration>
+    <start_time>39.67</start_time>
+    <end_time>57.72</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Cut the puff pastry into six rectangles and place on a nonstick baking tray. </step>
+    <step num="2">On one rectangle, spread 1 tablespoon of pesto. Top with cooked spinach, 2 tomato slices, and mozzarella. </step>
+    <step num="3">Place a rectangle of pastry on top and seal the edges with a fork. Repeat with remaining pastry rectangles. </step>
+    <step num="4">Brush with egg wash. </step>
+    <step num="5">Bake for 15-20 minutes or until the pastry is flaky and golden. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F/200°C. </steps_updated>
+    <steps_updated num="1">Cut the puff pastry into six rectangles and place on a nonstick baking tray. </steps_updated>
+    <steps_updated num="2">On one rectangle, spread 1 tablespoon of pesto. </steps_updated>
+    <steps_updated num="3">Top with cooked spinach, 2 tomato slices, and mozzarella. </steps_updated>
+    <steps_updated num="4">Place a rectangle of pastry on top and seal the edges with a fork. </steps_updated>
+    <steps_updated num="5">Repeat with remaining pastry rectangles. </steps_updated>
+    <steps_updated num="6">Brush with egg wash. </steps_updated>
+    <steps_updated num="7">Bake for 15-20 minutes or until the pastry is flaky and golden. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01250</start_time>
+    <end_time>01749</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Croutons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-croutons</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">4 slices ; bread, stale and cubed </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; dried oregano </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200°C). </step>
+    <step num="1">Place the bread cubes on a greased baking sheet. Drizzle with the olive oil and season with the salt, garlic powder, and oregano. Toss until evenly coated </step>
+    <step num="2">Bake for 15 minutes, until golden brown and crisp. </step>
+    <step num="3">Use as croutons, or smash to make breadcrumbs. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Place the bread cubes on a greased baking sheet. </steps_updated>
+    <steps_updated num="2">Drizzle with the olive oil and season with the salt, garlic powder, and oregano. </steps_updated>
+    <steps_updated num="3">Toss until evenly coated </steps_updated>
+    <steps_updated num="4">Bake for 15 minutes, until golden brown and crisp. </steps_updated>
+    <steps_updated num="5">Use as croutons, or smash to make breadcrumbs. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00775</start_time>
+    <end_time>01186</end_time>
+  </duration_human>
+</recipe>

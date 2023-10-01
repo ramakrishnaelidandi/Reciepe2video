@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Energy Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-energy-bites</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/no-bake-energy-bites</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; dry oat ; (100 g) </ingredient>
+    <ingredient num="1">¼ cup ; almond butter ; (60 g) </ingredient>
+    <ingredient num="2">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="3">½ cup ; dried blueberry ; (50 g) </ingredient>
+    <ingredient num="4">¼ teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">½ teaspoon ; vanilla </ingredient>
+    <ingredient num="6">salt, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55099/low_1507223856.m3u8</low>
+    <high>https://vid.tasty.co/output/55099/mp4_720x1280/1507223856</high>
+  </video>
+  <duration>
+    <start_time>16.32</start_time>
+    <end_time>37.2</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix oats, almond butter and honey in a large bowl. </step>
+    <step num="1">Add dried blueberries, cinnamon, vanilla, and salt and mix to combine. </step>
+    <step num="2">Place bowl in the refrigerator for 30-60 minutes, or until the mixture has solidified. </step>
+    <step num="3">Mold mixture into bite-sized balls. </step>
+    <step num="4">Serve immediately. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix oats, almond butter and honey in a large bowl. </steps_updated>
+    <steps_updated num="1">Add dried blueberries, cinnamon, vanilla, and salt and mix to combine. </steps_updated>
+    <steps_updated num="2">Place bowl in the refrigerator for 30-60 minutes, or until the mixture has solidified. </steps_updated>
+    <steps_updated num="3">Mold mixture into bite-sized balls. </steps_updated>
+    <steps_updated num="4">Serve immediately. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00047</start_time>
+    <end_time>01127</end_time>
+  </duration_human>
+</recipe>

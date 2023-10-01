@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll Breakfast Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-breakfast-muffins</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; eggs </ingredient>
+    <ingredient num="1">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="2">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="3">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="4">2 teaspoons ; cinnamon </ingredient>
+    <ingredient num="5">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="6">2 packs ; cinnamon roll </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32137/low_1495125384.m3u8</low>
+    <high>https://vid.tasty.co/output/32137/mp4_720x1280/1495125384</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, mix eggs, milk, cream, vanilla extract, cinnamon, and sugar. Whisk together. </step>
+    <step num="1">Cut each cinnamon roll into eight pieces, and stuff inside a greased muffin tin. </step>
+    <step num="2">Pour batter in each tin about ¾ of the way. If you pour too much, the tin will overflow in the oven. </step>
+    <step num="3">Cover the tin and refrigerate for at least 2 hours, letting the cinnamon roll absorb the mixture. </step>
+    <step num="4">Bake at 350˚F (175˚C) for 35 minutes. </step>
+    <step num="5">Remove the muffin from the tin, top with icing and serve warm. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, mix eggs, milk, cream, vanilla extract, cinnamon, and sugar. </steps_updated>
+    <steps_updated num="1">Whisk together. </steps_updated>
+    <steps_updated num="2">Cut each cinnamon roll into eight pieces, and stuff inside a greased muffin tin. </steps_updated>
+    <steps_updated num="3">Pour batter in each tin about ¾ of the way. </steps_updated>
+    <steps_updated num="4">If you pour too much, the tin will overflow in the oven. </steps_updated>
+    <steps_updated num="5">Cover the tin and refrigerate for at least 2 hours, letting the cinnamon roll absorb the mixture. </steps_updated>
+    <steps_updated num="6">Bake at 350˚F (175˚C) for 35 minutes. </steps_updated>
+    <steps_updated num="7">Remove the muffin from the tin, top with icing and serve warm. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

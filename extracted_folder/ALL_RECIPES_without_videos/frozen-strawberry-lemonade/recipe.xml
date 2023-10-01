@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Frozen Strawberry Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-strawberry-lemonade</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-alcohol-optional-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; lemonade, divided ; (720 mL) </ingredient>
+    <ingredient num="1">6 ; strawberries, stemmed and halved, plus whole strawberries for garnish </ingredient>
+    <ingredient num="2">⅓ cup ; lemon-lime soda, or 3 ounces (90 ml) vodka ; (80 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106659/hls24_1535158158.m3u8</low>
+    <high>https://vid.tasty.co/output/106659/landscape_720/1535158158</high>
+  </video>
+  <duration>
+    <start_time>30.0</start_time>
+    <end_time>51.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fill an ice cube tray with 2 cups (480 ml) of lemonade. Freeze for at least 2 hours. </step>
+    <step num="1">Add the lemonade cubes, strawberries, the remaining cup of lemonade, and lemon-lime soda to a blender and blend on high speed until smooth. </step>
+    <step num="2">Pour into glasses and garnish with strawberries. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fill an ice cube tray with 2 cups (480 ml) of lemonade. </steps_updated>
+    <steps_updated num="1">Freeze for at least 2 hours. </steps_updated>
+    <steps_updated num="2">Add the lemonade cubes, strawberries, the remaining cup of lemonade, and lemon-lime soda to a blender and blend on high speed until smooth. </steps_updated>
+    <steps_updated num="3">Pour into glasses and garnish with strawberries. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

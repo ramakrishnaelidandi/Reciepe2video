@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef &amp; Bean Burritos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-bean-burritos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/freezer-prep-burritos</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="2">6 ; flour tortillas </ingredient>
+    <ingredient num="3">16 oz ; refried bean, 1 can ; (455 g) </ingredient>
+    <ingredient num="4">1 cup ; shredded mexican cheese blend ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51861/low_1505233198.m3u8</low>
+    <high>https://vid.tasty.co/output/51861/mp4_720x1280/1505233198</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add ground beef to a large skillet over high heat and sprinkle with taco seasoning. Cook, breaking up the meat, until browned. Drain the fat and set aside to cool. </step>
+    <step num="1">Assemble the burritos by microwaving the flour tortilla for 20 seconds, and begin to layer burrito starting with refried beans, followed by the cooked beef and cheese. </step>
+    <step num="2">Fold in the left and right sides of the tortilla and roll it up from the bottom, tucking the bottom edge under the filling. Wrap in parchment paper and label. Freeze up to 1 month. </step>
+    <step num="3">To reheat from frozen, wrap the burrito in a damp paper towel and microwave for 2-3 minutes, flipping halfway or until the center is hot. Let stand 1 minute before eating. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add ground beef to a large skillet over high heat and sprinkle with taco seasoning. </steps_updated>
+    <steps_updated num="1">Cook, breaking up the meat, until browned. </steps_updated>
+    <steps_updated num="2">Drain the fat and set aside to cool. </steps_updated>
+    <steps_updated num="3">Assemble the burritos by microwaving the flour tortilla for 20 seconds, and begin to layer burrito starting with refried beans, followed by the cooked beef and cheese. </steps_updated>
+    <steps_updated num="4">Fold in the left and right sides of the tortilla and roll it up from the bottom, tucking the bottom edge under the filling. </steps_updated>
+    <steps_updated num="5">Wrap in parchment paper and label. </steps_updated>
+    <steps_updated num="6">Freeze up to 1 month. </steps_updated>
+    <steps_updated num="7">To reheat from frozen, wrap the burrito in a damp paper towel and microwave for 2-3 minutes, flipping halfway or until the center is hot. </steps_updated>
+    <steps_updated num="8">Let stand 1 minute before eating. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00001</start_time>
+    <end_time>00828</end_time>
+  </duration_human>
+</recipe>

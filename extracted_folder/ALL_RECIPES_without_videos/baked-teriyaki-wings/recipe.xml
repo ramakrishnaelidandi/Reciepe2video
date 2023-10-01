@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Teriyaki Wings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-teriyaki-wings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-chicken-wings-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; chicken wings ; (455 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">⅓ cup ; low sodium soy sauce ; (70 mL) </ingredient>
+    <ingredient num="4">2 tablespoons ; honey </ingredient>
+    <ingredient num="5">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="6">1 tablespoon ; sesame seed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">BBQ</category>
+    <category num="10">Weeknight</category>
+    <category num="11">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25431/low_1488497931.m3u8</low>
+    <high>https://vid.tasty.co/output/25431/mp4_720x1280/1488497931</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F/200˚C. </step>
+    <step num="1">Remove excess moisture from chicken wings with a paper towel. </step>
+    <step num="2">In a large bowl, stir in baking powder and salt until chicken is thoroughly coated. </step>
+    <step num="3">Bake on a baking rack for 1 hour, or until golden brown and crispy, flipping every 20 minutes. (For best results, place baking rack on a baking sheet covered with parchment paper or foil to catch drippings). </step>
+    <step num="4">In a skillet, combine soy sauce, honey, and brown sugar on medium heat. Bring to a boil and add in sesame seeds. </step>
+    <step num="5">Once sauce is thickened, stir in chicken wings until fully coated. </step>
+    <step num="6">Serve with your favorite side dish or dipping sauce. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Remove excess moisture from chicken wings with a paper towel. </steps_updated>
+    <steps_updated num="2">In a large bowl, stir in baking powder and salt until chicken is thoroughly coated. </steps_updated>
+    <steps_updated num="3">Bake on a baking rack for 1 hour, or until golden brown and crispy, flipping every 20 minutes. </steps_updated>
+    <steps_updated num="4">(For best results, place baking rack on a baking sheet covered with parchment paper or foil to catch drippings). </steps_updated>
+    <steps_updated num="5">In a skillet, combine soy sauce, honey, and brown sugar on medium heat. </steps_updated>
+    <steps_updated num="6">Bring to a boil and add in sesame seeds. </steps_updated>
+    <steps_updated num="7">Once sauce is thickened, stir in chicken wings until fully coated. </steps_updated>
+    <steps_updated num="8">Serve with your favorite side dish or dipping sauce. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-02072</start_time>
+    <end_time>02734</end_time>
+  </duration_human>
+</recipe>

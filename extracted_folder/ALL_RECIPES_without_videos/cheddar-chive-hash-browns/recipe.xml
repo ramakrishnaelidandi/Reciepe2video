@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheddar-chive Hash Browns Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-chive-hash-browns</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/eggs-benedict-brunch-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; russet potatoes, peeled and grated </ingredient>
+    <ingredient num="1">¼ cup ; butter, melted ; (50 mL) </ingredient>
+    <ingredient num="2">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">¼ cup ; chives, chopped ; (10 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Brunch</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21672/low_1485207867.m3u8</low>
+    <high>https://vid.tasty.co/output/21672/mp4_720x1280/1485207867</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>29.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C) degrees. </step>
+    <step num="1">Peel and grate the potatoes, and soak them in ice water. Squeeze out excess water and place potatoes in a bowl. </step>
+    <step num="2">Add the rest of the ingredients to the bowl and mix well. </step>
+    <step num="3">On a nonstick pan, form patties of the potato mixture with your hands. </step>
+    <step num="4">Bake for 35-40 minutes or until brown and crispy. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C) degrees. </steps_updated>
+    <steps_updated num="1">Peel and grate the potatoes, and soak them in ice water. </steps_updated>
+    <steps_updated num="2">Squeeze out excess water and place potatoes in a bowl. </steps_updated>
+    <steps_updated num="3">Add the rest of the ingredients to the bowl and mix well. </steps_updated>
+    <steps_updated num="4">On a nonstick pan, form patties of the potato mixture with your hands. </steps_updated>
+    <steps_updated num="5">Bake for 35-40 minutes or until brown and crispy. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00900</end_time>
+  </duration_human>
+</recipe>

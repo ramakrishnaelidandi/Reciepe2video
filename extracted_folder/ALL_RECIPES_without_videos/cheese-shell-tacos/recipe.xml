@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese Shell Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-shell-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unique-recipes-for-taco-night</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; cheddar cheese, or cheese of choice, freshly shredded ; (300 g) </ingredient>
+    <ingredient num="1">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="2">1 ; small onion, diced </ingredient>
+    <ingredient num="3">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="4">1 ; jalapeño, seeded and diced </ingredient>
+    <ingredient num="5">1 packet ; taco seasoning </ingredient>
+    <ingredient num="6">⅓ cup ; water, if needed ; (80 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108354/hls24_1536355321.m3u8</low>
+    <high>https://vid.tasty.co/output/108354/landscape_720/1536355321</high>
+  </video>
+  <duration>
+    <start_time>2.833</start_time>
+    <end_time>54.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat your oven to 350˚F (180˚C). </step>
+    <step num="1">Freshly shred the cheese. Place your cheese in neat piles on an ungreased baking sheet. </step>
+    <step num="2">Bake for about 8 minutes, until all the individual shreds melt into one disc. Be careful not to let the cheese color too much. </step>
+    <step num="3">Once they are all melted, let them cool for 2 minutes on your baking sheet, then lift them onto paper towels to blot off any excess grease. </step>
+    <step num="4">To form the shells, lay them over a propped up utensil. (Or you can use anything in your kitchen, a wide bowl or saucepan could work too!) Set these aside to cool. </step>
+    <step num="5">To make the taco filling, brown the ground beef on high heat. Make a well in the center, add in the onion, jalapeños, garlic, and sprinkle in the taco seasoning packet. Stir to combine. Add water if you need it for a nice saucy filling. </step>
+    <step num="6">Use a fork to hold your cheese shell in place and fill with the beef mixture, and toppings of your choice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat your oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Freshly shred the cheese. </steps_updated>
+    <steps_updated num="2">Place your cheese in neat piles on an ungreased baking sheet. </steps_updated>
+    <steps_updated num="3">Bake for about 8 minutes, until all the individual shreds melt into one disc. </steps_updated>
+    <steps_updated num="4">Be careful not to let the cheese color too much. </steps_updated>
+    <steps_updated num="5">Once they are all melted, let them cool for 2 minutes on your baking sheet, then lift them onto paper towels to blot off any excess grease. </steps_updated>
+    <steps_updated num="6">To form the shells, lay them over a propped up utensil. </steps_updated>
+    <steps_updated num="7">(Or you can use anything in your kitchen, a wide bowl or saucepan could work too!) Set these aside to cool. </steps_updated>
+    <steps_updated num="8">To make the taco filling, brown the ground beef on high heat. </steps_updated>
+    <steps_updated num="9">Make a well in the center, add in the onion, jalapeños, garlic, and sprinkle in the taco seasoning packet. </steps_updated>
+    <steps_updated num="10">Stir to combine. </steps_updated>
+    <steps_updated num="11">Add water if you need it for a nice saucy filling. </steps_updated>
+    <steps_updated num="12">Use a fork to hold your cheese shell in place and fill with the beef mixture, and toppings of your choice. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

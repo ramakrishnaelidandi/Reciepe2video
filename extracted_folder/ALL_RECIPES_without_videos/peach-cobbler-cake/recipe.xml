@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peach Cobbler Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peach-cobbler-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 can ; cinnamon roll </ingredient>
+    <ingredient num="1">3 ; peaches </ingredient>
+    <ingredient num="2">1 ½ teaspoons ; corn starch </ingredient>
+    <ingredient num="3">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">vanilla ice cream, to taste </ingredient>
+    <ingredient num="5">mint leaf, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8661/low_1472761262.m3u8</low>
+    <high>https://vid.tasty.co/output/8661/mp4_720x1280/1472761262</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C). </step>
+    <step num="1">Separate cinnamon rolls and cut into 1 inch (2 ½cm) pieces. Place the cinnamon roll pieces into a medium bowl and set aside. </step>
+    <step num="2">Cut each peach into 8-12 wedges. Place in a medium bowl and add cornstarch and cinnamon and mix to coat each peach. </step>
+    <step num="3">In a baking dish place half of the cinnamon rolls down on the bottom. Then add half of the peaches on top. Repeat and add the rest of the ingredients. </step>
+    <step num="4">Drizzle the icing packet from the cinnamon roll tube over the cobbler. </step>
+    <step num="5">Bake for 30 minutes. </step>
+    <step num="6">Serve warm with a scoop of vanilla ice cream and a mint leaf (optional). </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="1">Separate cinnamon rolls and cut into 1 inch (2 ½cm) pieces. </steps_updated>
+    <steps_updated num="2">Place the cinnamon roll pieces into a medium bowl and set aside. </steps_updated>
+    <steps_updated num="3">Cut each peach into 8-12 wedges. </steps_updated>
+    <steps_updated num="4">Place in a medium bowl and add cornstarch and cinnamon and mix to coat each peach. </steps_updated>
+    <steps_updated num="5">In a baking dish place half of the cinnamon rolls down on the bottom. </steps_updated>
+    <steps_updated num="6">Then add half of the peaches on top. </steps_updated>
+    <steps_updated num="7">Repeat and add the rest of the ingredients. </steps_updated>
+    <steps_updated num="8">Drizzle the icing packet from the cinnamon roll tube over the cobbler. </steps_updated>
+    <steps_updated num="9">Bake for 30 minutes. </steps_updated>
+    <steps_updated num="10">Serve warm with a scoop of vanilla ice cream and a mint leaf (optional). </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

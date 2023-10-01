@@ -1,0 +1,51 @@
+<recipe>
+  <title>Spider Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spider-deviled-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6735 13278 4457 12708 </ingredient>
+    <ingredient num="1">2597 6975 12854 </ingredient>
+    <ingredient num="2">8580 9486 13278 13584 8016 7781 </ingredient>
+    <ingredient num="3">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="4">13086 9486 13278 13051 </ingredient>
+    <ingredient num="5">3917 14014 13278 6422 </ingredient>
+    <ingredient num="6">3917 14014 13278 4985 8016 7781 </ingredient>
+    <ingredient num="7">13584 8244 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">8431 5994 1798 13817 13260 3535 10836 4255 6735 4457 8536 </step>
+    <step num="1">5570 11951 4310 12708 210 5994 2597 12954 9179 13584 8016 7781 13817 2019 </step>
+    <step num="2">2447 11951 5301 10968 5412 13817 817 10261 7990 13133 12689 </step>
+    <step num="3">7069 11951 12708 210 8751 12282 13817 7368 560 8357 11951 4310 10729 </step>
+    <step num="4">14100 11951 12708 210 2532 13817 10909 11951 6216 9314 6781 11951 6216 5197 </step>
+    <step num="5">10895 11951 6216 9314 1391 11796 6422 13817 4985 8016 8096 </step>
+    <step num="6">2062 11951 6216 5031 2373 669 11951 6216 5197 </step>
+    <step num="7">13688 11951 13014 12708 1391 2237 8244 732 10450 3535 2237 8244 446 11003 2532 371 5994 13584 8244 7990 11951 9444 13817 8244 8535 7990 11951 10636 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8431 5994 1798 13817 13260 3535 10836 4255 6735 4457 8536 </steps_updated>
+    <steps_updated num="1">5570 11951 4310 12708 210 5994 2597 12954 </steps_updated>
+    <steps_updated num="2">9179 13584 8016 7781 13817 2019 </steps_updated>
+    <steps_updated num="3">2447 11951 5301 10968 5412 13817 817 10261 7990 13133 12689 </steps_updated>
+    <steps_updated num="4">7069 11951 12708 210 8751 12282 13817 7368 560 8357 11951 4310 10729 </steps_updated>
+    <steps_updated num="5">14100 11951 12708 210 2532 13817 10909 11951 6216 9314 6781 11951 6216 5197 </steps_updated>
+    <steps_updated num="6">10895 11951 6216 9314 1391 11796 6422 13817 4985 8016 8096 </steps_updated>
+    <steps_updated num="7">2062 11951 6216 5031 2373 669 11951 6216 5197 </steps_updated>
+    <steps_updated num="8">13688 11951 13014 12708 1391 2237 8244 732 </steps_updated>
+    <steps_updated num="9">10450 3535 2237 8244 446 11003 2532 371 5994 13584 8244 7990 11951 9444 13817 8244 8535 7990 11951 10636 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

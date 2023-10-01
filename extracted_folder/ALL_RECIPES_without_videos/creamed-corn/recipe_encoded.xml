@@ -1,0 +1,52 @@
+<recipe>
+  <title>Creamed Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamed-corn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-staples-if-you-only-have-a-microwave</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 2492 13278 12655 12939 7777 3482 </ingredient>
+    <ingredient num="1">8580 9486 13278 12282 </ingredient>
+    <ingredient num="2">3917 8071 13278 4834 </ingredient>
+    <ingredient num="3">12791 2605 13278 5335 10907 7887 1297 13278 13412 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 2532 9606 2532 13278 13125 8007 </ingredient>
+    <ingredient num="5">8580 2031 13278 12367 </ingredient>
+    <ingredient num="6">6293 516 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114497/hls24_1541542908.m3u8</low>
+    <high>https://vid.tasty.co/output/114497/landscape_720/1541542908</high>
+  </video>
+  <duration>
+    <start_time>75.0</start_time>
+    <end_time>124.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 3183 12939 560 5994 2597 7616 </step>
+    <step num="1">10950 5994 881 8266 2605 5895 2192 14511 4120 12282 13817 8525 12473 1681 11951 4834 5004 415 740 560 11951 12655 14473 1391 11951 5335 14057 12473 1681 3584 4309 </step>
+    <step num="2">4660 1391 5994 4157 13817 10503 7990 13086 12689 </step>
+    <step num="3">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 2532 13817 2532 13817 430 </step>
+    <step num="4">6054 11951 12377 6781 14186 6991 510 13817 10503 7990 13086 8927 3347 </step>
+    <step num="5">6054 11951 12377 6781 11951 10503 13817 740 11951 2532 13817 2532 10665 12473 560 1011 6688 7990 11061 11004 1681 11951 3183 7312 2296 </step>
+    <step num="6">1828 7091 415 10707 1391 976 8278 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 3183 12939 560 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">10950 5994 881 8266 2605 5895 2192 14511 4120 12282 13817 8525 </steps_updated>
+    <steps_updated num="2">12473 1681 11951 4834 5004 415 740 560 11951 12655 14473 1391 11951 5335 14057 </steps_updated>
+    <steps_updated num="3">12473 1681 3584 4309 </steps_updated>
+    <steps_updated num="4">4660 1391 5994 4157 13817 10503 7990 13086 12689 </steps_updated>
+    <steps_updated num="5">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 2532 13817 2532 13817 430 </steps_updated>
+    <steps_updated num="6">6054 11951 12377 6781 14186 6991 510 13817 10503 7990 13086 8927 3347 </steps_updated>
+    <steps_updated num="7">6054 11951 12377 6781 11951 10503 13817 740 11951 2532 13817 2532 10665 </steps_updated>
+    <steps_updated num="8">12473 560 1011 </steps_updated>
+    <steps_updated num="9">6688 7990 11061 11004 1681 11951 3183 7312 2296 </steps_updated>
+    <steps_updated num="10">1828 7091 415 10707 1391 976 8278 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

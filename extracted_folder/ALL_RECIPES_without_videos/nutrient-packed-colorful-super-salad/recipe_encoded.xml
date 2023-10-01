@@ -1,0 +1,53 @@
+<recipe>
+  <title>Nutrient-Packed Colorful Super Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nutrient-packed-colorful-super-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 2793 3790 6422 </ingredient>
+    <ingredient num="1">8580 9486 13278 9693 9171 6818 </ingredient>
+    <ingredient num="2">3917 14014 13278 6209 14635 2431 </ingredient>
+    <ingredient num="3">4061 13667 13278 4155 2431 </ingredient>
+    <ingredient num="4">3917 14014 13278 9110 4 488 </ingredient>
+    <ingredient num="5">12791 8071 13278 499 7845 </ingredient>
+    <ingredient num="6">12791 2605 13278 9908 14165 10769 13278 13125 8007 </ingredient>
+    <ingredient num="7">12791 2605 13278 597 10522 13278 13125 8007 </ingredient>
+    <ingredient num="8">1813 2605 13278 3141 7549 8244 5766 13278 12158 8007 </ingredient>
+    <ingredient num="9">3855 12610 560 11567 </ingredient>
+    <ingredient num="10">13584 10986 560 11567 </ingredient>
+    <ingredient num="11">8580 9517 13278 10344 8391 1088 976 13278 1316 5981 </ingredient>
+    <ingredient num="12">8580 13278 2597 8445 4125 13817 2431 </ingredient>
+    <ingredient num="13">8580 9517 13278 2340 9800 13278 1513 5981 </ingredient>
+    <ingredient num="14">8580 9517 13278 8083 747 1088 976 13278 6898 5981 </ingredient>
+    <ingredient num="15">3917 13278 8083 1466 10986 8695 13817 1088 976 </ingredient>
+    <ingredient num="16">3917 13278 468 4125 13817 472 </ingredient>
+    <ingredient num="17">3917 2605 13278 3414 3962 13278 11953 5981 </ingredient>
+    <ingredient num="18">1580 2605 13278 6209 431 3962 13278 828 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/122089/hls24_1546987325.m3u8</low>
+    <high>https://vid.tasty.co/output/122089/landscape_720/1546987325</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 881 8266 202 4120 11951 5920 9171 1285 14635 4155 9110 12320 6110 9908 14165 4450 597 7654 13817 8244 14158 283 1681 7568 9456 10242 560 11567 1391 82 13817 12375 </step>
+    <step num="1">9179 11951 8391 8445 8083 747 8741 8083 747 1466 10986 468 5432 13817 2768 560 5994 2597 7818 7616 </step>
+    <step num="2">1083 13218 8344 371 11708 11770 11951 11812 13817 1686 1681 12826 9490 3145 229 </step>
+    <step num="3">13688 1391 3954 488 9110 1245 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 881 8266 202 4120 11951 5920 9171 1285 14635 4155 9110 12320 6110 9908 14165 4450 597 7654 13817 8244 14158 </steps_updated>
+    <steps_updated num="1">283 1681 7568 9456 </steps_updated>
+    <steps_updated num="2">10242 560 11567 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">9179 11951 8391 8445 8083 747 8741 8083 747 1466 10986 468 5432 13817 2768 560 5994 2597 7818 7616 </steps_updated>
+    <steps_updated num="4">1083 13218 8344 371 11708 11770 11951 11812 13817 1686 1681 12826 9490 3145 229 </steps_updated>
+    <steps_updated num="5">13688 1391 3954 488 9110 1245 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

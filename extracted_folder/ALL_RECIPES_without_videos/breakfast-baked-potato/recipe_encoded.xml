@@ -1,0 +1,62 @@
+<recipe>
+  <title>Breakfast Baked Potato Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-baked-potato</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/loaded-baked-potatoes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 9780 13233 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">8580 2031 13278 82 </ingredient>
+    <ingredient num="3">3917 14014 13278 9924 </ingredient>
+    <ingredient num="4">8580 643 13278 9784 14538 13278 13412 5981 </ingredient>
+    <ingredient num="5">3917 14014 13278 7035 341 </ingredient>
+    <ingredient num="6">13086 13278 12708 </ingredient>
+    <ingredient num="7">8580 2031 13278 82 </ingredient>
+    <ingredient num="8">3917 8071 13278 7845 </ingredient>
+    <ingredient num="9">3917 14014 13278 6209 11292 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33642/low_1496942439.m3u8</low>
+    <high>https://vid.tasty.co/output/33642/mp4_720x1280/1496942439</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 </step>
+    <step num="1">12775 7944 13233 1391 5994 11206 12474 5994 10765 11020 5766 11951 13233 3145 13817 1678 1391 12051 </step>
+    <step num="2">7831 7990 6285 797 5664 4429 9082 3954 2274 2237 3274 13133 8927 4884 2868 9490 10428 </step>
+    <step num="3">9956 13473 7777 11951 13233 14487 1374 2696 11951 6634 13817 7545 11951 4031 2696 3540 12223 9635 2274 14234 </step>
+    <step num="4">2988 9924 4255 11951 1864 371 10763 4031 2696 6914 </step>
+    <step num="5">9179 13810 7035 797 6216 4884 6817 12610 13817 12375 13494 1391 7532 </step>
+    <step num="6">7831 2800 11004 1681 11951 6216 4617 7312 3745 8119 </step>
+    <step num="7">12774 10383 1391 7532 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">12775 7944 13233 1391 5994 11206 </steps_updated>
+    <steps_updated num="2">12474 5994 10765 11020 5766 11951 13233 3145 13817 1678 1391 12051 </steps_updated>
+    <steps_updated num="3">7831 7990 6285 797 5664 </steps_updated>
+    <steps_updated num="4">4429 9082 3954 2274 2237 3274 13133 8927 4884 2868 9490 10428 </steps_updated>
+    <steps_updated num="5">9956 13473 7777 11951 13233 14487 1374 2696 11951 6634 13817 7545 11951 4031 2696 3540 12223 9635 2274 14234 </steps_updated>
+    <steps_updated num="6">2988 9924 4255 11951 1864 371 10763 4031 2696 6914 </steps_updated>
+    <steps_updated num="7">9179 13810 7035 797 6216 4884 6817 12610 13817 12375 </steps_updated>
+    <steps_updated num="8">13494 1391 7532 </steps_updated>
+    <steps_updated num="9">7831 2800 11004 1681 11951 6216 4617 7312 3745 8119 </steps_updated>
+    <steps_updated num="10">12774 10383 1391 7532 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00000</start_time>
+    <end_time>01827</end_time>
+  </duration_human>
+</recipe>

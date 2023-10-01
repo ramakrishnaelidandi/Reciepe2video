@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hummus-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">14 oz ; chickpeas, 1 can ; (395 g) </ingredient>
+    <ingredient num="1">1 ; avocado </ingredient>
+    <ingredient num="2">1 clove ; garlic </ingredient>
+    <ingredient num="3">1 ; jalapeño pepper, seeded </ingredient>
+    <ingredient num="4">¼ cup ; fresh cilantro ; (10 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; cumin </ingredient>
+    <ingredient num="6">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="7">½ teaspoon ; salt </ingredient>
+    <ingredient num="8">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="9">2 tablespoons ; extra virgin olive oil </ingredient>
+    <ingredient num="10">fresh cilantro, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Middle Eastern</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Healthy</category>
+    <category num="6">Low-Carb</category>
+    <category num="7">Vegan</category>
+    <category num="8">Vegetarian</category>
+    <category num="9">Kid-Friendly</category>
+    <category num="10">Sides</category>
+    <category num="11">Snacks</category>
+    <category num="12">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46539/low_1502212838.m3u8</low>
+    <high>https://vid.tasty.co/output/46539/mp4_720x1280/1502212838</high>
+  </video>
+  <duration>
+    <start_time>82.97</start_time>
+    <end_time>109.059</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add chickpeas, avocado, garlic, lime juice, and seasonings to the bowl of a 2-quart food processor. Blend until smooth. </step>
+    <step num="1">While blending, slowly add in the olive oil until hummus is creamy and smooth. </step>
+    <step num="2">Garnish with chopped cilantro, some diced tomatoes, and a drizzle of olive oil. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add chickpeas, avocado, garlic, lime juice, and seasonings to the bowl of a 2-quart food processor. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">While blending, slowly add in the olive oil until hummus is creamy and smooth. </steps_updated>
+    <steps_updated num="3">Garnish with chopped cilantro, some diced tomatoes, and a drizzle of olive oil. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02549</start_time>
+    <end_time>03278</end_time>
+  </duration_human>
+</recipe>

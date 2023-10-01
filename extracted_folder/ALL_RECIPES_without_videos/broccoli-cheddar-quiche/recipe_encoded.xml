@@ -1,0 +1,56 @@
+<recipe>
+  <title>Broccoli Cheddar Quiche Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/broccoli-cheddar-quiche</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 8741 10015 13278 1513 5981 </ingredient>
+    <ingredient num="1">13086 9517 13278 6817 2468 3333 13278 10188 5981 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 3333 9784 13810 3247 13278 757 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 12610 3247 </ingredient>
+    <ingredient num="4">1580 8071 13278 10986 3247 </ingredient>
+    <ingredient num="5">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="6">11061 13278 12708 </ingredient>
+    <ingredient num="7">3917 2605 13278 8741 3962 13278 757 5981 </ingredient>
+    <ingredient num="8">3917 13278 9491 341 </ingredient>
+    <ingredient num="9">3917 13278 2192 12384 341 </ingredient>
+    <ingredient num="10">8580 9486 13278 2532 9606 2532 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71921/hls24_1515534838.m3u8</low>
+    <high>https://vid.tasty.co/output/71921/landscape_720/1515534838</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9988 8999 </step>
+    <step num="1">10950 5994 14511 740 8741 2274 3917 2605 11953 5981 9631 1580 8071 82 12610 13817 12791 8071 12375 12473 560 1011 </step>
+    <step num="2">5954 5994 6453 8387 1645 9637 5793 5687 1391 8244 14158 1083 11951 2340 2373 669 11951 10590 8724 3584 669 11951 5687 13817 11951 10860 371 11951 5687 1681 10524 10104 5994 8266 1384 </step>
+    <step num="3">7831 7990 7759 8927 1681 11951 13233 13824 560 2147 </step>
+    <step num="4">10950 5994 14511 10968 3626 11951 14463 8741 7042 12384 374 9631 2366 13817 11951 12886 371 11951 82 13817 12375 </step>
+    <step num="5">1083 11951 6216 2373 669 11951 3745 13207 7831 7990 2800 8927 1681 12708 12573 10319 </step>
+    <step num="6">1828 7091 415 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">10950 5994 14511 740 8741 2274 3917 2605 11953 5981 9631 1580 8071 82 12610 13817 12791 8071 12375 </steps_updated>
+    <steps_updated num="2">12473 560 1011 </steps_updated>
+    <steps_updated num="3">5954 5994 6453 8387 1645 9637 5793 5687 1391 8244 14158 </steps_updated>
+    <steps_updated num="4">1083 11951 2340 2373 669 11951 10590 </steps_updated>
+    <steps_updated num="5">8724 3584 669 11951 5687 13817 11951 10860 371 11951 5687 1681 10524 10104 5994 8266 1384 </steps_updated>
+    <steps_updated num="6">7831 7990 7759 8927 1681 11951 13233 13824 560 2147 </steps_updated>
+    <steps_updated num="7">10950 5994 14511 10968 3626 11951 14463 8741 7042 12384 374 9631 2366 13817 11951 12886 371 11951 82 13817 12375 </steps_updated>
+    <steps_updated num="8">1083 11951 6216 2373 669 11951 3745 13207 </steps_updated>
+    <steps_updated num="9">7831 7990 2800 8927 1681 12708 12573 10319 </steps_updated>
+    <steps_updated num="10">1828 7091 415 8956 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

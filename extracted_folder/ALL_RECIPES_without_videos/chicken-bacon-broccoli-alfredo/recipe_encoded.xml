@@ -1,0 +1,53 @@
+<recipe>
+  <title>Chicken Bacon Broccoli Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-bacon-broccoli-alfredo</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 11338 5766 </ingredient>
+    <ingredient num="1">8580 13278 8355 2144 7983 3967 341 </ingredient>
+    <ingredient num="2">1580 8071 13278 82 </ingredient>
+    <ingredient num="3">1580 8071 13278 7845 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 3962 </ingredient>
+    <ingredient num="5">8580 9517 13278 2340 9800 13278 9990 5981 </ingredient>
+    <ingredient num="6">8580 9517 13278 5802 13278 6901 8007 </ingredient>
+    <ingredient num="7">3917 2605 13278 3333 109 14538 13278 7289 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 6209 11911 3962 13278 12237 5981 </ingredient>
+    <ingredient num="9">4061 9259 13278 7035 8421 885 </ingredient>
+    <ingredient num="10">1580 715 13278 11609 3745 13278 9473 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51258/low_1504721585.m3u8</low>
+    <high>https://vid.tasty.co/output/51258/mp4_720x1280/1504721585</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>22.04</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 5766 210 5994 10083 11770 3996 2082 </step>
+    <step num="1">264 11951 7983 1391 11951 82 13817 12375 </step>
+    <step num="2">9179 11951 11384 13817 8741 8224 7990 6620 12689 </step>
+    <step num="3">9179 11951 9889 11493 11911 13817 7035 12427 560 5994 11714 </step>
+    <step num="4">9179 11951 11609 13817 1686 1681 3584 7670 13817 2260 12401 560 11951 11293 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5766 210 5994 10083 11770 3996 2082 </steps_updated>
+    <steps_updated num="1">264 11951 7983 1391 11951 82 13817 12375 </steps_updated>
+    <steps_updated num="2">9179 11951 11384 13817 8741 8224 7990 6620 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 9889 11493 11911 13817 7035 12427 560 5994 11714 </steps_updated>
+    <steps_updated num="4">9179 11951 11609 13817 1686 1681 3584 7670 13817 2260 12401 560 11951 11293 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00699</end_time>
+  </duration_human>
+</recipe>

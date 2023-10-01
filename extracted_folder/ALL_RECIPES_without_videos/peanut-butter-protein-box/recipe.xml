@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peanut Butter Protein Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-protein-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; apple, sliced </ingredient>
+    <ingredient num="1">½ cup ; celery ; (110 g) </ingredient>
+    <ingredient num="2">½ cup ; pretzel ; (50 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; peanut butter </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>40.41</start_time>
+    <end_time>53.64</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place apples into box. </step>
+    <step num="1">Place celery and pretzels into box. </step>
+    <step num="2">Scoop peanut butter into box. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place apples into box. </steps_updated>
+    <steps_updated num="1">Place celery and pretzels into box. </steps_updated>
+    <steps_updated num="2">Scoop peanut butter into box. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01271</start_time>
+    <end_time>01618</end_time>
+  </duration_human>
+</recipe>

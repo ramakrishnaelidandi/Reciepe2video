@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Popcorn Shrimp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/popcorn-shrimp</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; shrimp, deveined and peeled ; (455 g) </ingredient>
+    <ingredient num="1">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; cajun seasoning </ingredient>
+    <ingredient num="3">2 teaspoons ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="5">1 ; egg </ingredient>
+    <ingredient num="6">3 tablespoons ; milk </ingredient>
+    <ingredient num="7">1 teaspoon ; cajun seasoning </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12827/low_1477343628.m3u8</low>
+    <high>https://vid.tasty.co/output/12827/mp4_720x1280/1477343628</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, add seasoned flour ingredients. Mix well. </step>
+    <step num="1">Place half of the flour mixture into a large zip lock bag, reserve the rest. </step>
+    <step num="2">Add the shrimp to the bag and shake until each shrimp is coated with flour. Shake off any excess flour. </step>
+    <step num="3">In a separate bowl, add egg, milk, and cajun seasoning. Mix well. </step>
+    <step num="4">Dredge the floured shrimp in the egg mixture, then coat with the fresh seasoned flour mixture. </step>
+    <step num="5">Heat oil at 350°F (180°C). </step>
+    <step num="6">Fry shrimp for a few minutes until golden brown and cooked through. </step>
+    <step num="7">Serve with your favorite dipping sauce. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add seasoned flour ingredients. </steps_updated>
+    <steps_updated num="1">Mix well. </steps_updated>
+    <steps_updated num="2">Place half of the flour mixture into a large zip lock bag, reserve the rest. </steps_updated>
+    <steps_updated num="3">Add the shrimp to the bag and shake until each shrimp is coated with flour. </steps_updated>
+    <steps_updated num="4">Shake off any excess flour. </steps_updated>
+    <steps_updated num="5">In a separate bowl, add egg, milk, and cajun seasoning. </steps_updated>
+    <steps_updated num="6">Mix well. </steps_updated>
+    <steps_updated num="7">Dredge the floured shrimp in the egg mixture, then coat with the fresh seasoned flour mixture. </steps_updated>
+    <steps_updated num="8">Heat oil at 350°F (180°C). </steps_updated>
+    <steps_updated num="9">Fry shrimp for a few minutes until golden brown and cooked through. </steps_updated>
+    <steps_updated num="10">Serve with your favorite dipping sauce. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

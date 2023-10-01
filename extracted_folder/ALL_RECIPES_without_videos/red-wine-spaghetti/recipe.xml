@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Red Wine Spaghetti Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/red-wine-spaghetti</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; water ; (945 mL) </ingredient>
+    <ingredient num="1">1 bottle ; full bodied red wine, we used cabernet </ingredient>
+    <ingredient num="2">1 lb ; spaghetti ; (450 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="4">4 cloves ; garlic, thinly sliced </ingredient>
+    <ingredient num="5">1 teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="6">2 tablespoons ; butter </ingredient>
+    <ingredient num="7">1 cup ; freshly grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="8">½ cup ; flatleaf italian parsley ; (15 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31963/low_1495124951.m3u8</low>
+    <high>https://vid.tasty.co/output/31963/mp4_720x1280/1495124951</high>
+  </video>
+  <steps>
+    <step num="0">Measure ¼ cup (60 ml) of wine and set aside. </step>
+    <step num="1">Combine the water and the remainder of the bottle of wine in a large pot and bring to a boil. </step>
+    <step num="2">Once boiling, add spaghetti and cook (stirring frequently) until al dente, about 7 minutes. </step>
+    <step num="3">Reserve ¼ cup (60 ml) of the cooking liquid and drain the spaghetti. Set aside. </step>
+    <step num="4">In a large skillet, heat the olive oil on medium heat. Add the garlic and red pepper flakes and cook for 2 minutes, stirring occasionally. </step>
+    <step num="5">Add the reserved cooking liquid and reserved wine to the skillet and bring to a simmer. Add the pasta and toss to coat with the sauce. </step>
+    <step num="6">Add the butter and stir until it melts into the pasta. </step>
+    <step num="7">Add salt and pepper, parmesan, and parsley. Stir to combine. </step>
+    <step num="8">Serve on its own or top with more parmesan and parsley and open up another bottle of wine! </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Measure ¼ cup (60 ml) of wine and set aside. </steps_updated>
+    <steps_updated num="1">Combine the water and the remainder of the bottle of wine in a large pot and bring to a boil. </steps_updated>
+    <steps_updated num="2">Once boiling, add spaghetti and cook (stirring frequently) until al dente, about 7 minutes. </steps_updated>
+    <steps_updated num="3">Reserve ¼ cup (60 ml) of the cooking liquid and drain the spaghetti. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a large skillet, heat the olive oil on medium heat. </steps_updated>
+    <steps_updated num="6">Add the garlic and red pepper flakes and cook for 2 minutes, stirring occasionally. </steps_updated>
+    <steps_updated num="7">Add the reserved cooking liquid and reserved wine to the skillet and bring to a simmer. </steps_updated>
+    <steps_updated num="8">Add the pasta and toss to coat with the sauce. </steps_updated>
+    <steps_updated num="9">Add the butter and stir until it melts into the pasta. </steps_updated>
+    <steps_updated num="10">Add salt and pepper, parmesan, and parsley. </steps_updated>
+    <steps_updated num="11">Stir to combine. </steps_updated>
+    <steps_updated num="12">Serve on its own or top with more parmesan and parsley and open up another bottle of wine! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

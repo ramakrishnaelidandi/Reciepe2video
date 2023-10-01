@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Pulled Pork Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-pulled-pork-rolls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/game-day-bbq-rolls-2-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; ketchup ; (120 g) </ingredient>
+    <ingredient num="1">½ cup ; molasses ; (160 g) </ingredient>
+    <ingredient num="2">¼ cup ; apple cider vinegar ; (60 mL) </ingredient>
+    <ingredient num="3">¼ cup ; yellow mustard ; (60 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; worcestershire sauce </ingredient>
+    <ingredient num="5">1 clove ; garlic, minced </ingredient>
+    <ingredient num="6">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="7">2 lb ; boneless pork loin chop ; (905 g) </ingredient>
+    <ingredient num="8">2 teaspoons ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 tablespoon ; paprika </ingredient>
+    <ingredient num="11">½ ; onion, sliced </ingredient>
+    <ingredient num="12">1 lb ; pizza dough ; (455 g) </ingredient>
+    <ingredient num="13">fresh chives, chopped, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/61971/low_1510695563.m3u8</low>
+    <high>https://vid.tasty.co/output/61971/mp4_720x1280/1510695563</high>
+  </video>
+  <duration>
+    <start_time>22.32</start_time>
+    <end_time>112.19</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the ketchup, molasses, apple cider vinegar, yellow mustard, Worcestershire sauce, garlic, and pepper in a saucepan over medium heat, whisking to combine. </step>
+    <step num="1">Reduce heat and simmer for 15 minutes, stirring frequently. For thicker sauce, cook for additional 5 minutes </step>
+    <step num="2">Cool for 20 minutes. Store in an airtight container in refrigerator for up to 1 week. </step>
+    <step num="3">Add pork, salt, pepper, paprika, onion and 1 cup (290g) of prepared bbq sauce to a slow cooker. </step>
+    <step num="4">Cover and cook on high for 5-6 hours. </step>
+    <step num="5">Preheat oven to 375°F (180°C). </step>
+    <step num="6">Using a rolling pin, roll the dough into a 16x12-inch (40x30-cm) rectangle, about ¼-inch (6 mm) thick on a well-floured surface. </step>
+    <step num="7">Shred pork using two forks. </step>
+    <step num="8">Distribute pulled pork over the dough, leaving a 1-inch (2 cm) open strip on the short side facing you. </step>
+    <step num="9">Roll the dough into a log shape, pinching the seams to seal it. </step>
+    <step num="10">With a serrated knife, evenly cut roll into 6-8 slices. Arrange slices in a greased cake pan. </step>
+    <step num="11">Bake for 20-25 minutes. </step>
+    <step num="12">Cool for 10-15 minutes. </step>
+    <step num="13">Brush more BBQ sauce on rolls and top with chives, if desired. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the ketchup, molasses, apple cider vinegar, yellow mustard, Worcestershire sauce, garlic, and pepper in a saucepan over medium heat, whisking to combine. </steps_updated>
+    <steps_updated num="1">Reduce heat and simmer for 15 minutes, stirring frequently. </steps_updated>
+    <steps_updated num="2">For thicker sauce, cook for additional 5 minutes </steps_updated>
+    <steps_updated num="3">Cool for 20 minutes. </steps_updated>
+    <steps_updated num="4">Store in an airtight container in refrigerator for up to 1 week. </steps_updated>
+    <steps_updated num="5">Add pork, salt, pepper, paprika, onion and 1 cup (290g) of prepared bbq sauce to a slow cooker. </steps_updated>
+    <steps_updated num="6">Cover and cook on high for 5-6 hours. </steps_updated>
+    <steps_updated num="7">Preheat oven to 375°F (180°C). </steps_updated>
+    <steps_updated num="8">Using a rolling pin, roll the dough into a 16x12-inch (40x30-cm) rectangle, about ¼-inch (6 mm) thick on a well-floured surface. </steps_updated>
+    <steps_updated num="9">Shred pork using two forks. </steps_updated>
+    <steps_updated num="10">Distribute pulled pork over the dough, leaving a 1-inch (2 cm) open strip on the short side facing you. </steps_updated>
+    <steps_updated num="11">Roll the dough into a log shape, pinching the seams to seal it. </steps_updated>
+    <steps_updated num="12">With a serrated knife, evenly cut roll into 6-8 slices. </steps_updated>
+    <steps_updated num="13">Arrange slices in a greased cake pan. </steps_updated>
+    <steps_updated num="14">Bake for 20-25 minutes. </steps_updated>
+    <steps_updated num="15">Cool for 10-15 minutes. </steps_updated>
+    <steps_updated num="16">Brush more BBQ sauce on rolls and top with chives, if desired. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00061</start_time>
+    <end_time>03375</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,50 @@
+<recipe>
+  <title>Blueberry Mug Muffin Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-mug-muffin</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/portable-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">1813 2605 13278 13521 890 13278 336 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 4834 </ingredient>
+    <ingredient num="2">12791 8071 13278 10765 11703 </ingredient>
+    <ingredient num="3">12791 8071 13278 3855 82 </ingredient>
+    <ingredient num="4">12791 2605 13278 5802 13278 13125 8007 </ingredient>
+    <ingredient num="5">8580 9486 13278 7974 10907 5335 13817 13046 </ingredient>
+    <ingredient num="6">1580 8071 13278 1319 10937 </ingredient>
+    <ingredient num="7">3917 14014 13278 597 5921 </ingredient>
+    <ingredient num="8">12791 2605 13278 6209 1421 13278 1936 5981 </ingredient>
+    <ingredient num="9">11276 6145 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102123/hls24_1531775108.m3u8</low>
+    <high>https://vid.tasty.co/output/102123/landscape_720/1531775108</high>
+  </video>
+  <duration>
+    <start_time>87.0</start_time>
+    <end_time>129.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 3946 8341 3626 6467 6145 10765 8117 13817 3855 12051 </step>
+    <step num="1">9179 9889 10907 13817 12048 9393 1681 12119 </step>
+    <step num="2">12473 210 597 5921 13817 9149 </step>
+    <step num="3">6688 7990 9272 11004 5895 1681 14124 2476 6236 13817 3745 8119 </step>
+    <step num="4">13434 8580 12689 13494 1391 11276 4834 6497 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 3946 8341 3626 6467 6145 10765 8117 13817 3855 12051 </steps_updated>
+    <steps_updated num="1">9179 9889 10907 13817 12048 </steps_updated>
+    <steps_updated num="2">9393 1681 12119 </steps_updated>
+    <steps_updated num="3">12473 210 597 5921 13817 9149 </steps_updated>
+    <steps_updated num="4">6688 7990 9272 11004 5895 1681 14124 2476 6236 13817 3745 8119 </steps_updated>
+    <steps_updated num="5">13434 8580 12689 </steps_updated>
+    <steps_updated num="6">13494 1391 11276 4834 6497 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

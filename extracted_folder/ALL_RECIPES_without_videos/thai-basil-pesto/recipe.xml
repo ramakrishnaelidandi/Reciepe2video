@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thai Basil Peanut Pesto Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-basil-pesto</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; thai basil leaves, packed ; (80 g) </ingredient>
+    <ingredient num="1">4 cloves ; garlic </ingredient>
+    <ingredient num="2">¼ cup ; dry roasted peanuts ; (30 g) </ingredient>
+    <ingredient num="3">3 tablespoons ; sesame oil </ingredient>
+    <ingredient num="4">1 ½ tablespoons ; rice vinegar </ingredient>
+    <ingredient num="5">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="6">1 tablespoon ; agave nectar </ingredient>
+    <ingredient num="7">1 teaspoon ; soy sauce </ingredient>
+    <ingredient num="8">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Vietnamese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Vegan</category>
+    <category num="7">Vegetarian</category>
+    <category num="8">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44071/low_1500494935.m3u8</low>
+    <high>https://vid.tasty.co/output/44071/mp4_720x1280/1500494935</high>
+  </video>
+  <steps>
+    <step num="0">Place the Thai basil, garlic, peanuts, sesame oil, rice vinegar, red pepper flakes, agave nectar, soy sauce, and lime juice in the bowl of a food processor and puree until smooth. Add salt to taste. </step>
+    <step num="1">Use pesto immediately or transfer to an airtight container. Pesto can be stored in the refrigerator for up to two weeks. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the Thai basil, garlic, peanuts, sesame oil, rice vinegar, red pepper flakes, agave nectar, soy sauce, and lime juice in the bowl of a food processor and puree until smooth. </steps_updated>
+    <steps_updated num="1">Add salt to taste. </steps_updated>
+    <steps_updated num="2">Use pesto immediately or transfer to an airtight container. </steps_updated>
+    <steps_updated num="3">Pesto can be stored in the refrigerator for up to two weeks. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

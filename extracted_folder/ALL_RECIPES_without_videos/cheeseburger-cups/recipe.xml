@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheeseburger Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheeseburger-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 can ; refrigerated biscuit, 8 biscuits </ingredient>
+    <ingredient num="1">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="2">½ cup ; ketchup ; (120 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; worcestershire sauce </ingredient>
+    <ingredient num="4">1 tablespoon ; mustard </ingredient>
+    <ingredient num="5">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="6">8 slices ; cheese, small slices </ingredient>
+    <ingredient num="7">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32242/low_1495125507.m3u8</low>
+    <high>https://vid.tasty.co/output/32242/mp4_720x1280/1495125507</high>
+  </video>
+  <steps>
+    <step num="0">Crumble and cook the beef in a skillet adding salt and pepper to season. Drain. </step>
+    <step num="1">Mix in ketchup, Worcestershire, mustard, and brown sugar. </step>
+    <step num="2">Grease a muffin tin, and line 8 cups with the refrigerated biscuits. </step>
+    <step num="3">Divide the meat mixture among the 8 cups. </step>
+    <step num="4">Bake at 400°F (200°C) for 10-15 minutes, until the biscuit dough is brown. </step>
+    <step num="5">Top with cheese and bake an additional 5 minutes. </step>
+    <step num="6">Top with your favorite toppings and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Crumble and cook the beef in a skillet adding salt and pepper to season. </steps_updated>
+    <steps_updated num="1">Drain. </steps_updated>
+    <steps_updated num="2">Mix in ketchup, Worcestershire, mustard, and brown sugar. </steps_updated>
+    <steps_updated num="3">Grease a muffin tin, and line 8 cups with the refrigerated biscuits. </steps_updated>
+    <steps_updated num="4">Divide the meat mixture among the 8 cups. </steps_updated>
+    <steps_updated num="5">Bake at 400°F (200°C) for 10-15 minutes, until the biscuit dough is brown. </steps_updated>
+    <steps_updated num="6">Top with cheese and bake an additional 5 minutes. </steps_updated>
+    <steps_updated num="7">Top with your favorite toppings and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

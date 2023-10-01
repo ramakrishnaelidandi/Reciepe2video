@@ -1,0 +1,65 @@
+<recipe>
+  <title>Habanero Hot Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/habanero-hot-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fathers-day-hot-sauce</comp_url>
+  <ingredients>
+    <ingredient num="0">13767 13278 1569 5016 4736 10844 </ingredient>
+    <ingredient num="1">11061 13278 4387 11161 </ingredient>
+    <ingredient num="2">8580 9486 13278 8244 7632 3247 </ingredient>
+    <ingredient num="3">3917 2605 13278 5425 3962 13278 2935 5981 </ingredient>
+    <ingredient num="4">3917 13278 12384 3962 </ingredient>
+    <ingredient num="5">3917 1580 2031 13278 82 </ingredient>
+    <ingredient num="6">8580 9517 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="7">12791 2605 13278 9712 10522 13278 13125 8007 </ingredient>
+    <ingredient num="8">12791 2605 13278 4617 10769 13278 13125 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97590/hls24_1528329015.m3u8</low>
+    <high>https://vid.tasty.co/output/97590/landscape_720/1528329015</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 13194 13180 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">5570 11951 1569 2986 13817 11384 4255 11951 10765 8800 1594 1391 3917 14014 371 8244 5766 13817 1686 1391 4875 560 515 10917 123 11155 13941 11951 2986 1391 12313 4137 6292 </step>
+    <step num="2">2024 7990 13767 11004 1681 11951 5832 371 11951 2986 12573 2147 </step>
+    <step num="3">9179 11951 374 14014 371 8244 5766 560 5994 2597 10083 11770 8283 2082 9179 11951 5425 12384 13817 12051 264 7990 4061 11004 1681 11951 284 12573 10306 13817 14140 </step>
+    <step num="4">9179 11951 13384 9712 7654 4617 4450 13817 11951 6097 2986 13817 12224 8785 560 5994 8288 415 2864 11951 7855 560 4531 13817 11779 7990 13767 12689 </step>
+    <step num="5">6054 11951 10083 6781 11951 7855 13817 3945 435 </step>
+    <step num="6">1083 11951 4168 2373 669 5994 12027 13817 5042 1681 12119 </step>
+    <step num="7">5209 5994 7937 5406 11951 2260 669 5994 1460 5895 7051 13817 1023 210 11951 7111 7990 3386 560 8580 10770 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 13194 13180 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">5570 11951 1569 2986 13817 11384 4255 11951 10765 8800 </steps_updated>
+    <steps_updated num="3">1594 1391 3917 14014 371 8244 5766 13817 1686 1391 4875 560 515 </steps_updated>
+    <steps_updated num="4">10917 123 11155 13941 11951 2986 1391 12313 4137 6292 </steps_updated>
+    <steps_updated num="5">2024 7990 13767 11004 1681 11951 5832 371 11951 2986 12573 2147 </steps_updated>
+    <steps_updated num="6">9179 11951 374 14014 371 8244 5766 560 5994 2597 10083 11770 8283 2082 </steps_updated>
+    <steps_updated num="7">9179 11951 5425 12384 13817 12051 </steps_updated>
+    <steps_updated num="8">264 7990 4061 11004 1681 11951 284 12573 10306 13817 14140 </steps_updated>
+    <steps_updated num="9">9179 11951 13384 9712 7654 4617 4450 13817 11951 6097 2986 13817 12224 </steps_updated>
+    <steps_updated num="10">8785 560 5994 8288 415 2864 11951 7855 560 4531 13817 11779 7990 13767 12689 </steps_updated>
+    <steps_updated num="11">6054 11951 10083 6781 11951 7855 13817 3945 435 </steps_updated>
+    <steps_updated num="12">1083 11951 4168 2373 669 5994 12027 13817 5042 1681 12119 </steps_updated>
+    <steps_updated num="13">5209 5994 7937 5406 11951 2260 669 5994 1460 5895 7051 13817 1023 210 11951 7111 7990 3386 560 8580 10770 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00079</start_time>
+    <end_time>02068</end_time>
+  </duration_human>
+</recipe>

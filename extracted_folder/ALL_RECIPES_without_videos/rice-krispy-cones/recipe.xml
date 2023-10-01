@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rice Krispy Cones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rice-krispy-cones</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-impress-at-a-bake-sale</comp_url>
+  <ingredients>
+    <ingredient num="0">10 oz ; mini marshmallows ; (285 g) </ingredient>
+    <ingredient num="1">3 tablespoons ; butter </ingredient>
+    <ingredient num="2">6 cups ; crispy rice cereal ; (175 g) </ingredient>
+    <ingredient num="3">12 ; wafer cones </ingredient>
+    <ingredient num="4">chocolate, melted, for topping </ingredient>
+    <ingredient num="5">sprinkles, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30526/low_1493657558.m3u8</low>
+    <high>https://vid.tasty.co/output/30526/mp4_720x1280/1493657558</high>
+  </video>
+  <duration>
+    <start_time>46.0</start_time>
+    <end_time>78.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, add butter and marshmallow. Microwave for 2 minutes. Stir at 1 minute. </step>
+    <step num="1">Add the cereal and stir until the marshmallow evenly coats the cereal. </step>
+    <step num="2">Using a ice cream scoop, form treats into balls. </step>
+    <step num="3">Take a wafer cone and dip it in melted chocolate and then immediately sprinkle anything you desire. </step>
+    <step num="4">Place the rice krispy balls into the cone. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, add butter and marshmallow. </steps_updated>
+    <steps_updated num="1">Microwave for 2 minutes. </steps_updated>
+    <steps_updated num="2">Stir at 1 minute. </steps_updated>
+    <steps_updated num="3">Add the cereal and stir until the marshmallow evenly coats the cereal. </steps_updated>
+    <steps_updated num="4">Using a ice cream scoop, form treats into balls. </steps_updated>
+    <steps_updated num="5">Take a wafer cone and dip it in melted chocolate and then immediately sprinkle anything you desire. </steps_updated>
+    <steps_updated num="6">Place the rice krispy balls into the cone. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01416</start_time>
+    <end_time>02347</end_time>
+  </duration_human>
+</recipe>

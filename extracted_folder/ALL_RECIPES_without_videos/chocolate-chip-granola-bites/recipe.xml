@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Chip Granola Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-chip-granola-bites</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/no-bake-snack-bites</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; old fashion oat ; (80 g) </ingredient>
+    <ingredient num="1">½ cup ; nut butter, of your preference ; (120 g) </ingredient>
+    <ingredient num="2">½ cup ; chocolate chips ; (90 g) </ingredient>
+    <ingredient num="3">⅓ cup ; honey ; (115 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">1 teaspoon ; cinnamon, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49829/low_1503968354.m3u8</low>
+    <high>https://vid.tasty.co/output/49829/mp4_720x1280/1503968354</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>30.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix together oats, cinnamon, vanilla extract, nut butter, honey, and chocolate chips in a medium bowl until well-incorporated. </step>
+    <step num="1">Cover with plastic wrap and chill in the refrigerator for an hour. </step>
+    <step num="2">Roll into balls the size of a ping pong ball. </step>
+    <step num="3">Refrigerate in tightly sealed container for up to one week. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together oats, cinnamon, vanilla extract, nut butter, honey, and chocolate chips in a medium bowl until well-incorporated. </steps_updated>
+    <steps_updated num="1">Cover with plastic wrap and chill in the refrigerator for an hour. </steps_updated>
+    <steps_updated num="2">Roll into balls the size of a ping pong ball. </steps_updated>
+    <steps_updated num="3">Refrigerate in tightly sealed container for up to one week. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00037</start_time>
+    <end_time>00925</end_time>
+  </duration_human>
+</recipe>

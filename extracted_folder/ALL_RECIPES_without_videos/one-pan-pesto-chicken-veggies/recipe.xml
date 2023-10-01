@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Pesto Chicken &amp; Veggies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-pesto-chicken-veggies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">2 ; large zucchinis, sliced </ingredient>
+    <ingredient num="2">2 cartons ; cherry tomato </ingredient>
+    <ingredient num="3">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="4">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">1 jar ; pesto </ingredient>
+    <ingredient num="8">1 cup ; shredded mozzarella cheese ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16931/low_1481138182.m3u8</low>
+    <high>https://vid.tasty.co/output/16931/mp4_720x1280/1481138182</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Line a baking tray with aluminum foil. </step>
+    <step num="2">Lay out the 3 chicken breasts in the middle of the baking tray. Spread the zucchini evenly on one end and the cherry tomatoes on the other. </step>
+    <step num="3">Sprinkle the olive oil, garlic, salt, and pepper evenly over everything. Toss veggies to coat. </step>
+    <step num="4">Pour the jar of pesto evenly over the chicken breasts and top with mozzarella cheese. </step>
+    <step num="5">Bake in a preheated oven for 25-30 minutes. </step>
+    <step num="6">Rest chicken 10 minutes before serving. Lay chicken on bed of vegetables and sprinkle mozzarella to serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Line a baking tray with aluminum foil. </steps_updated>
+    <steps_updated num="2">Lay out the 3 chicken breasts in the middle of the baking tray. </steps_updated>
+    <steps_updated num="3">Spread the zucchini evenly on one end and the cherry tomatoes on the other. </steps_updated>
+    <steps_updated num="4">Sprinkle the olive oil, garlic, salt, and pepper evenly over everything. </steps_updated>
+    <steps_updated num="5">Toss veggies to coat. </steps_updated>
+    <steps_updated num="6">Pour the jar of pesto evenly over the chicken breasts and top with mozzarella cheese. </steps_updated>
+    <steps_updated num="7">Bake in a preheated oven for 25-30 minutes. </steps_updated>
+    <steps_updated num="8">Rest chicken 10 minutes before serving. </steps_updated>
+    <steps_updated num="9">Lay chicken on bed of vegetables and sprinkle mozzarella to serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

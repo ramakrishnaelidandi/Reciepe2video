@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco-Stuffed Peppers</title>
+  <url>https://tasty.co/recipe/taco-stuffed-peppers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="1">6 ; large bell peppers, or 8 medium, ensure they have a flat base so they will stand up when cooking </ingredient>
+    <ingredient num="2">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="3">1 ; medium yellow onion, diced </ingredient>
+    <ingredient num="4">1 can ; black beans, drained </ingredient>
+    <ingredient num="5">1 cup ; brown rice, cooked ; (225 g) </ingredient>
+    <ingredient num="6">1 cup ; frozen corn ; (165 g) </ingredient>
+    <ingredient num="7">1 jar ; medium chunky salsa, 1 jar, 16 oz </ingredient>
+    <ingredient num="8">2 tablespoons ; taco seasoning mix, 1 packet, or make your own </ingredient>
+    <ingredient num="9">1 ½ cups ; cheddar cheese, grated, or mexican blend cheese ; (150 g) </ingredient>
+    <ingredient num="10">guacamole, to garnish, optional </ingredient>
+    <ingredient num="11">sour cream, to garnish, optional </ingredient>
+    <ingredient num="12">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="13">1 ½ teaspoons ; ground cumin </ingredient>
+    <ingredient num="14">1 teaspoon ; salt </ingredient>
+    <ingredient num="15">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="16">1 teaspoon ; corn starch </ingredient>
+    <ingredient num="17">½ teaspoon ; paprika </ingredient>
+    <ingredient num="18">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="19">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="20">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="21">¼ teaspoon ; dried oregano </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32039/low_1495125015.m3u8</low>
+    <high>https://vid.tasty.co/output/32039/mp4_720x1280/1495125015</high>
+  </video>
+  <steps>
+    <step num="0">Cut off the top and remove the seeds from each pepper. </step>
+    <step num="1">Place in a baking dish and bake for 20 minutes in a preheated oven at 350˚F (175˚C). </step>
+    <step num="2">While the Peppers are roasting - heat oil in a large skillet over medium/high heat. Add ground beef and season with entire taco seasoning packet. Allow beef to brown on all sides. </step>
+    <step num="3">NOTE: If you made your own taco seasoning, you'll want to add 2 tablespoons. The ingredients above will make more than this recipe requires. </step>
+    <step num="4">Add diced onion - continuing to cook until softened. </step>
+    <step num="5">Reduce heat to Medium. Mix in the black beans, brown rice, corn, and salsa. </step>
+    <step num="6">Add in 1 cup (100g) of cheese and stir until incorporated and the cheese has melted. Remove from heat. </step>
+    <step num="7">Remove peppers from oven and fill each with the taco mixture. Top with additional cheese. </step>
+    <step num="8">Return to the oven for 15 minutes until the cheese has melted. </step>
+    <step num="9">Top each pepper with a generous scoop of guacamole and sour cream. Top with additional cheese. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut off the top and remove the seeds from each pepper. </steps_updated>
+    <steps_updated num="1">Place in a baking dish and bake for 20 minutes in a preheated oven at 350˚F (175˚C). </steps_updated>
+    <steps_updated num="2">While the Peppers are roasting - heat oil in a large skillet over medium/high heat. </steps_updated>
+    <steps_updated num="3">Add ground beef and season with entire taco seasoning packet. </steps_updated>
+    <steps_updated num="4">Allow beef to brown on all sides. </steps_updated>
+    <steps_updated num="5">NOTE: If you made your own taco seasoning, you'll want to add 2 tablespoons. </steps_updated>
+    <steps_updated num="6">The ingredients above will make more than this recipe requires. </steps_updated>
+    <steps_updated num="7">Add diced onion - continuing to cook until softened. </steps_updated>
+    <steps_updated num="8">Reduce heat to Medium. </steps_updated>
+    <steps_updated num="9">Mix in the black beans, brown rice, corn, and salsa. </steps_updated>
+    <steps_updated num="10">Add in 1 cup (100g) of cheese and stir until incorporated and the cheese has melted. </steps_updated>
+    <steps_updated num="11">Remove from heat. </steps_updated>
+    <steps_updated num="12">Remove peppers from oven and fill each with the taco mixture. </steps_updated>
+    <steps_updated num="13">Top with additional cheese. </steps_updated>
+    <steps_updated num="14">Return to the oven for 15 minutes until the cheese has melted. </steps_updated>
+    <steps_updated num="15">Top each pepper with a generous scoop of guacamole and sour cream. </steps_updated>
+    <steps_updated num="16">Top with additional cheese. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

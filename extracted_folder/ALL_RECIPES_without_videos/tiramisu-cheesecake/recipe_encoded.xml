@@ -1,0 +1,57 @@
+<recipe>
+  <title>Tiramisu Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tiramisu-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5527 13278 2597 11977 </ingredient>
+    <ingredient num="1">3917 2605 13278 7988 13278 7503 8007 </ingredient>
+    <ingredient num="2">8268 643 13278 13033 14538 13278 4563 5981 </ingredient>
+    <ingredient num="3">8268 643 13278 4788 14538 13278 4563 5981 </ingredient>
+    <ingredient num="4">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="5">3917 2605 13278 9889 6222 13278 7503 8007 </ingredient>
+    <ingredient num="6">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="7">4061 2031 13278 11710 </ingredient>
+    <ingredient num="8">8580 9486 13278 9053 11703 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/73391/hls24_1516239147.m3u8</low>
+    <high>https://vid.tasty.co/output/73391/landscape_720/1516239147</high>
+  </video>
+  <steps>
+    <step num="0">2668 11951 11977 210 6444 </step>
+    <step num="1">10950 4817 7471 1978 7154 10926 1391 3550 1715 11826 11951 2561 3435 12065 210 5994 3622 14614 </step>
+    <step num="2">13855 1681 11951 11977 12573 2681 </step>
+    <step num="3">10950 5994 14511 740 11951 13033 13810 4788 13810 13817 1319 6708 12473 560 1011 </step>
+    <step num="4">9179 11951 9889 6145 13817 11710 560 5994 12377 13817 8341 1681 11951 11710 7312 10033 </step>
+    <step num="5">1083 11951 5802 2373 7492 5994 14546 669 11951 12377 371 13033 4496 </step>
+    <step num="6">1083 3917 2605 14638 5981 371 14112 4428 669 5994 4491 10590 2356 1681 13693 6285 8580 12721 </step>
+    <step num="7">9179 797 11826 371 11579 11977 4255 10707 371 11951 10912 14112 14614 </step>
+    <step num="8">9179 6646 2605 14638 5981 371 14112 4428 4255 143 2356 7990 4817 13199 13817 6190 1391 374 4428 13817 13010 14614 </step>
+    <step num="9">2356 7990 8580 12721 5895 1681 10319 </step>
+    <step num="10">4058 11951 10707 1391 9053 785 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2668 11951 11977 210 6444 </steps_updated>
+    <steps_updated num="1">10950 4817 7471 1978 7154 10926 1391 3550 1715 11826 11951 2561 3435 12065 210 5994 3622 14614 </steps_updated>
+    <steps_updated num="2">13855 1681 11951 11977 12573 2681 </steps_updated>
+    <steps_updated num="3">10950 5994 14511 740 11951 13033 13810 4788 13810 13817 1319 6708 </steps_updated>
+    <steps_updated num="4">12473 560 1011 </steps_updated>
+    <steps_updated num="5">9179 11951 9889 6145 13817 11710 560 5994 12377 13817 8341 1681 11951 11710 7312 10033 </steps_updated>
+    <steps_updated num="6">1083 11951 5802 2373 7492 5994 14546 669 11951 12377 371 13033 4496 </steps_updated>
+    <steps_updated num="7">1083 3917 2605 14638 5981 371 14112 4428 669 5994 4491 10590 </steps_updated>
+    <steps_updated num="8">2356 1681 13693 6285 8580 12721 </steps_updated>
+    <steps_updated num="9">9179 797 11826 371 11579 11977 4255 10707 371 11951 10912 14112 14614 </steps_updated>
+    <steps_updated num="10">9179 6646 2605 14638 5981 371 14112 4428 4255 143 </steps_updated>
+    <steps_updated num="11">2356 7990 4817 13199 13817 6190 1391 374 4428 13817 13010 14614 </steps_updated>
+    <steps_updated num="12">2356 7990 8580 12721 5895 1681 10319 </steps_updated>
+    <steps_updated num="13">4058 11951 10707 1391 9053 785 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

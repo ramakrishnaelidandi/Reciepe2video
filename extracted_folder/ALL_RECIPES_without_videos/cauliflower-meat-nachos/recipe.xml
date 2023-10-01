@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower “Meat” Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-meat-nachos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cauliflower-beefless-tacos</comp_url>
+  <ingredients>
+    <ingredient num="0">1 medium head ; cauliflower, washed </ingredient>
+    <ingredient num="1">5 oz ; mushroom, such as baby bella, cleaned and quartered ; (140 g) </ingredient>
+    <ingredient num="2">1 ½ tablespoons ; olive oil </ingredient>
+    <ingredient num="3">1 ; medium yellow onion, minced </ingredient>
+    <ingredient num="4">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">2 teaspoons ; ground cumin </ingredient>
+    <ingredient num="6">1 ½ teaspoons ; smoked paprika </ingredient>
+    <ingredient num="7">2 tablespoons ; chili powder </ingredient>
+    <ingredient num="8">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">tortilla chips </ingredient>
+    <ingredient num="12">cherry tomato, sliced </ingredient>
+    <ingredient num="13">black olive, slice </ingredient>
+    <ingredient num="14">jalapeño slices </ingredient>
+    <ingredient num="15">shredded cheese blend </ingredient>
+    <ingredient num="16">fresh cilantro, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108686/hls24_1536702719.m3u8</low>
+    <high>https://vid.tasty.co/output/108686/landscape_720/1536702719</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut the cauliflower in half and break it into small florets. </step>
+    <step num="1">Place the florets in a food processor and pulse until they break down to rice-size pieces. Remove from the processor and set aside. </step>
+    <step num="2">Add the mushrooms to the food processor and pulse until broken down to rice-size pieces. </step>
+    <step num="3">Heat the olive oil in a large skillet over medium heat. Add the onion and garlic to the pan and cook for about 4 minutes, until fragrant and the onion is translucent. </step>
+    <step num="4">Add the cauliflower, mushrooms, cumin, smoked paprika, chili powder, soy sauce, salt, and pepper and stir. Cook for about 10 minutes, until the cauliflower and mushroom mixture is tender and the water released from the mushrooms has evaporated. </step>
+    <step num="5">Preheat the oven to 350ºF (180ºC). </step>
+    <step num="6">Add the tortilla chips to an oven-proof dish. </step>
+    <step num="7">Load with the cauliflower “meat” and other toppings of your choice. Sprinkle with the shredded cheese. </step>
+    <step num="8">Bake for about 10 minutes, until the cheese has melted. </step>
+    <step num="9">Let cool for 5 minutes, then garnish with cilantro and serve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the cauliflower in half and break it into small florets. </steps_updated>
+    <steps_updated num="1">Place the florets in a food processor and pulse until they break down to rice-size pieces. </steps_updated>
+    <steps_updated num="2">Remove from the processor and set aside. </steps_updated>
+    <steps_updated num="3">Add the mushrooms to the food processor and pulse until broken down to rice-size pieces. </steps_updated>
+    <steps_updated num="4">Heat the olive oil in a large skillet over medium heat. </steps_updated>
+    <steps_updated num="5">Add the onion and garlic to the pan and cook for about 4 minutes, until fragrant and the onion is translucent. </steps_updated>
+    <steps_updated num="6">Add the cauliflower, mushrooms, cumin, smoked paprika, chili powder, soy sauce, salt, and pepper and stir. </steps_updated>
+    <steps_updated num="7">Cook for about 10 minutes, until the cauliflower and mushroom mixture is tender and the water released from the mushrooms has evaporated. </steps_updated>
+    <steps_updated num="8">Preheat the oven to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="9">Add the tortilla chips to an oven-proof dish. </steps_updated>
+    <steps_updated num="10">Load with the cauliflower “meat” and other toppings of your choice. </steps_updated>
+    <steps_updated num="11">Sprinkle with the shredded cheese. </steps_updated>
+    <steps_updated num="12">Bake for about 10 minutes, until the cheese has melted. </steps_updated>
+    <steps_updated num="13">Let cool for 5 minutes, then garnish with cilantro and serve. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00079</start_time>
+    <end_time>01908</end_time>
+  </duration_human>
+</recipe>

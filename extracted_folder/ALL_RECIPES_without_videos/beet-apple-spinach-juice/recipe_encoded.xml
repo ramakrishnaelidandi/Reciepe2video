@@ -1,0 +1,42 @@
+<recipe>
+  <title>Beet Apple Spinach Juice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beet-apple-spinach-juice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-packed-juices</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 12669 13278 4587 341 </ingredient>
+    <ingredient num="1">3917 13278 3064 12545 10304 13817 341 </ingredient>
+    <ingredient num="2">8580 9517 13278 14122 341 13278 5348 5981 </ingredient>
+    <ingredient num="3">13086 9517 13278 13220 13278 2935 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102625/hls24_1532112993.m3u8</low>
+    <high>https://vid.tasty.co/output/102625/landscape_720/1532112993</high>
+  </video>
+  <duration>
+    <start_time>46.333</start_time>
+    <end_time>71.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 4587 12545 1394 13817 13220 560 5994 6212 13817 1279 1681 12119 </step>
+    <step num="1">5209 5994 10859 6469 1746 11951 10522 11770 5994 2597 881 8266 2605 560 5103 11951 8464 8431 5994 1798 560 5829 6142 11951 10374 13817 14484 2696 11951 4725 8583 11951 10374 560 772 10374 9313 </step>
+    <step num="2">4080 11951 10522 7990 7811 767 238 8927 1386 2505 3386 560 13086 609 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 4587 12545 1394 13817 13220 560 5994 6212 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="1">5209 5994 10859 6469 1746 11951 10522 11770 5994 2597 881 8266 2605 560 5103 11951 8464 </steps_updated>
+    <steps_updated num="2">8431 5994 1798 560 5829 6142 11951 10374 13817 14484 2696 11951 4725 </steps_updated>
+    <steps_updated num="3">8583 11951 10374 560 772 10374 9313 </steps_updated>
+    <steps_updated num="4">4080 11951 10522 7990 7811 767 238 8927 1386 2505 3386 560 13086 609 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

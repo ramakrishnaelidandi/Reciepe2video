@@ -1,0 +1,43 @@
+<recipe>
+  <title>Mason Jar Spicy Peanut Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mason-jar-spicy-peanut-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-simple-mason-jar-sauces</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 13798 9924 13278 7503 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 4155 10015 </ingredient>
+    <ingredient num="2">3917 14014 13278 14635 10015 </ingredient>
+    <ingredient num="3">8580 2031 13278 6319 2260 </ingredient>
+    <ingredient num="4">1580 2605 13278 11691 2260 13278 2935 8007 </ingredient>
+    <ingredient num="5">1580 2605 13278 6293 3962 13278 2264 5981 </ingredient>
+    <ingredient num="6">8580 9486 13278 11114 </ingredient>
+    <ingredient num="7">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94047/hls24_1526342726.m3u8</low>
+    <high>https://vid.tasty.co/output/94047/landscape_720/1526342726</high>
+  </video>
+  <duration>
+    <start_time>99.0</start_time>
+    <end_time>123.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 9190 4566 4120 11951 13798 10907 4155 14635 6319 7280 11691 7280 10286 7045 13817 2019 1709 560 1011 </step>
+    <step num="1">10434 210 11951 10437 7990 3386 560 5994 2812 </step>
+    <step num="2">9179 560 5994 6222 5687 1391 8016 2658 1762 12160 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 9190 4566 4120 11951 13798 10907 4155 14635 6319 7280 11691 7280 10286 7045 13817 2019 </steps_updated>
+    <steps_updated num="1">1709 560 1011 </steps_updated>
+    <steps_updated num="2">10434 210 11951 10437 7990 3386 560 5994 2844 </steps_updated>
+    <steps_updated num="3">9179 560 5994 6222 5687 1391 8016 2658 1762 12160 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

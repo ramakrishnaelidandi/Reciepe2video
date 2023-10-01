@@ -1,0 +1,50 @@
+<recipe>
+  <title>Hasselback Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hasselback-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 6209 13220 13278 2264 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 12426 14538 13278 2264 5981 </ingredient>
+    <ingredient num="2">8580 13278 7983 7678 </ingredient>
+    <ingredient num="3">12791 2605 13278 9784 14538 13278 828 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 9496 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32091/low_1495125317.m3u8</low>
+    <high>https://vid.tasty.co/output/32091/mp4_720x1280/1495125317</high>
+  </video>
+  <steps>
+    <step num="0">264 11951 13220 4255 5994 13757 7855 210 5994 7463 371 5766 7990 6175 8927 1681 3557 9490 4721 1320 </step>
+    <step num="1">12473 210 11951 12426 13817 2550 7990 5994 4689 9030 773 12251 560 435 </step>
+    <step num="2">14100 14224 669 11951 7983 7678 6285 8360 1841 636 3409 9801 953 7777 8554 11951 10772 7492 8861 6285 7869 371 11951 10772 573 9490 4320 1762 5376 12076 2455 </step>
+    <step num="3">4102 8554 371 11951 13220 13817 12426 2373 669 11951 2079 </step>
+    <step num="4">10242 11951 7983 1391 82 13817 12375 </step>
+    <step num="5">3208 11951 9784 13817 1678 3557 7686 4255 143 </step>
+    <step num="6">1709 11951 11088 9496 11770 11951 7983 560 740 8177 13780 13817 14304 </step>
+    <step num="7">7831 210 11951 3292 371 5994 7590 10439 7990 5169 8927 9084 12070 12615 11046 10008 1681 11951 14538 7312 5335 13817 11951 301 12573 10784 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">264 11951 13220 4255 5994 13757 7855 210 5994 7463 371 5766 7990 6175 8927 1681 3557 9490 4721 1320 </steps_updated>
+    <steps_updated num="1">12473 210 11951 12426 13817 2550 7990 5994 4689 9030 773 </steps_updated>
+    <steps_updated num="2">12251 560 435 </steps_updated>
+    <steps_updated num="3">14100 14224 669 11951 7983 7678 6285 8360 1841 636 3409 9801 953 7777 8554 11951 10772 7492 8861 6285 7869 371 11951 10772 573 9490 4320 1762 5376 12076 2455 </steps_updated>
+    <steps_updated num="4">4102 8554 371 11951 13220 13817 12426 2373 669 11951 2079 </steps_updated>
+    <steps_updated num="5">10242 11951 7983 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="6">3208 11951 9784 13817 1678 3557 7686 4255 143 </steps_updated>
+    <steps_updated num="7">1709 11951 11088 9496 11770 11951 7983 560 740 8177 13780 13817 14304 </steps_updated>
+    <steps_updated num="8">7831 210 11951 3292 371 5994 7590 10439 7990 5169 8927 9084 12070 12615 11046 10008 1681 11951 14538 7312 5335 13817 11951 301 12573 10784 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

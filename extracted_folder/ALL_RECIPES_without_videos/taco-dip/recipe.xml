@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">ground beef </ingredient>
+    <ingredient num="1">1 ; poblano pepper </ingredient>
+    <ingredient num="2">tortilla chips </ingredient>
+    <ingredient num="3">cream cheese </ingredient>
+    <ingredient num="4">shredded cheddar cheese, or any other tasty cheese, shredded </ingredient>
+    <ingredient num="5">milk </ingredient>
+    <ingredient num="6">flour tortilla </ingredient>
+    <ingredient num="7">tortilla chips </ingredient>
+    <ingredient num="8">canola oil spray </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31861/low_1495124855.m3u8</low>
+    <high>https://vid.tasty.co/output/31861/mp4_720x1280/1495124855</high>
+  </video>
+  <steps>
+    <step num="0">For the dip, cook ground beef until brown. Add taco seasoning and stir. Set the beef aside and cook chopped poblano pepper. </step>
+    <step num="1">In a saucepan, combine all cheese Pretty much any amount of each will work. Melt over low heat. Stir in milk as needed to reach a medium-thick consistency. </step>
+    <step num="2">Add beef and pepper. Stir until well combined. You may need to add more milk at this point. </step>
+    <step num="3">For the bowl, preheat oven to 190°C / 375°F. Take a large flour tortilla and warm for a few seconds in the oven. Spray the outside of upside-down oven-safe bowl with canola oil and press tortilla over the top. Cook in oven until brown. </step>
+    <step num="4">Fill tortilla bowl with dip. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the dip, cook ground beef until brown. </steps_updated>
+    <steps_updated num="1">Add taco seasoning and stir. </steps_updated>
+    <steps_updated num="2">Set the beef aside and cook chopped poblano pepper. </steps_updated>
+    <steps_updated num="3">In a saucepan, combine all cheese Pretty much any amount of each will work. </steps_updated>
+    <steps_updated num="4">Melt over low heat. </steps_updated>
+    <steps_updated num="5">Stir in milk as needed to reach a medium-thick consistency. </steps_updated>
+    <steps_updated num="6">Add beef and pepper. </steps_updated>
+    <steps_updated num="7">Stir until well combined. </steps_updated>
+    <steps_updated num="8">You may need to add more milk at this point. </steps_updated>
+    <steps_updated num="9">For the bowl, preheat oven to 190°C / 375°F. </steps_updated>
+    <steps_updated num="10">Take a large flour tortilla and warm for a few seconds in the oven. </steps_updated>
+    <steps_updated num="11">Spray the outside of upside-down oven-safe bowl with canola oil and press tortilla over the top. </steps_updated>
+    <steps_updated num="12">Cook in oven until brown. </steps_updated>
+    <steps_updated num="13">Fill tortilla bowl with dip. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

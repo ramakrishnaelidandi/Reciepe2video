@@ -1,0 +1,48 @@
+<recipe>
+  <title>Tomato Basil Sausage Spaghetti Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tomato-basil-sausage-spaghetti</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 715 13278 11088 13280 13278 9473 5981 </ingredient>
+    <ingredient num="1">1580 13278 12384 341 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 7845 </ingredient>
+    <ingredient num="4">8580 9517 13278 9122 2260 13278 9990 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 5802 13278 12462 8007 </ingredient>
+    <ingredient num="6">1580 2605 13278 6209 749 3962 13278 828 5981 </ingredient>
+    <ingredient num="7">1580 715 13278 11609 3745 13278 9473 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51258/low_1504721585.m3u8</low>
+    <high>https://vid.tasty.co/output/51258/mp4_720x1280/1504721585</high>
+  </video>
+  <duration>
+    <start_time>68.99</start_time>
+    <end_time>95.03</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 10083 560 3996 2082 </step>
+    <step num="1">264 11951 13280 210 11951 4771 </step>
+    <step num="2">9179 11951 7272 12610 13817 10986 8224 1681 11951 11453 12573 8991 13817 13280 9490 11695 560 2147 </step>
+    <step num="3">9179 11951 1400 9889 13817 749 8224 1681 2260 7312 6352 12624 </step>
+    <step num="4">9179 11951 11609 13817 1686 1681 3584 7670 13817 2260 12401 560 11951 11293 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">264 11951 13280 210 5994 10083 11770 3996 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 7272 12610 13817 10986 8224 1681 11951 11453 12573 8991 13817 13280 9490 11695 560 2147 </steps_updated>
+    <steps_updated num="2">9179 11951 1400 9889 13817 749 8224 1681 2260 7312 6352 12624 </steps_updated>
+    <steps_updated num="3">9179 11951 11609 13817 1686 1681 3584 7670 13817 2260 12401 560 11951 11293 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02128</start_time>
+    <end_time>02869</end_time>
+  </duration_human>
+</recipe>

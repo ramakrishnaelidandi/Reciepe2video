@@ -1,0 +1,44 @@
+<recipe>
+  <title>One-Pot Basil Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-basil-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 13278 12384 11588 3962 </ingredient>
+    <ingredient num="1">8580 13667 13278 4155 5614 </ingredient>
+    <ingredient num="2">1580 2605 13278 7905 4408 9491 10844 5895 7371 717 3962 669 2192 8577 13278 11953 5981 </ingredient>
+    <ingredient num="3">1813 2605 13278 6209 749 1404 7789 5994 8631 7033 560 8210 13278 6429 5981 </ingredient>
+    <ingredient num="4">1813 2605 13278 6209 11911 3962 13278 6429 5981 </ingredient>
+    <ingredient num="5">2933 643 13278 3580 5895 13402 13278 757 5981 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">10986 560 11567 </ingredient>
+    <ingredient num="8">3917 2157 13278 5614 9652 </ingredient>
+    <ingredient num="9">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="10">8580 1580 9517 13278 278 12282 13278 8941 8007 </ingredient>
+    <ingredient num="11">109 13810 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31866/low_1495124937.m3u8</low>
+    <high>https://vid.tasty.co/output/31866/mp4_720x1280/1495124937</high>
+  </video>
+  <steps>
+    <step num="0">5570 8554 371 11951 11907 7356 7990 11951 109 669 5994 2597 4771 264 4255 5994 8283 7855 7990 8580 11004 13877 11951 13402 669 11951 12282 1956 10719 564 5590 </step>
+    <step num="1">1595 11951 2281 560 5994 9899 7855 13817 1686 13817 6142 1616 1681 11951 881 13040 573 669 5994 7711 9286 1966 1391 3954 6209 6250 13817 10707 1391 8924 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 8554 371 11951 11907 7356 7990 11951 109 669 5994 2597 4771 </steps_updated>
+    <steps_updated num="1">264 4255 5994 8283 7855 7990 8580 11004 13877 11951 13402 669 11951 12282 1956 10719 564 5590 </steps_updated>
+    <steps_updated num="2">1595 11951 2281 560 5994 9899 7855 13817 1686 13817 6142 1616 1681 11951 881 13040 573 669 5994 7711 9286 </steps_updated>
+    <steps_updated num="3">1966 1391 3954 6209 6250 13817 10707 1391 8924 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

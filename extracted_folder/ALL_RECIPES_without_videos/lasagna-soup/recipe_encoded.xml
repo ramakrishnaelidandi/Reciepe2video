@@ -1,0 +1,61 @@
+<recipe>
+  <title>Lasagna Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lasagna-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pot-vegan-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">3917 13278 12384 341 </ingredient>
+    <ingredient num="2">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">8580 9486 13278 9668 30 </ingredient>
+    <ingredient num="4">3917 8071 13278 796 6250 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="6">13347 643 13278 5614 9668 13278 4126 5981 </ingredient>
+    <ingredient num="7">11061 9517 13278 4168 547 13278 4845 1767 </ingredient>
+    <ingredient num="8">1813 2605 13278 4985 11569 4980 13278 2264 5981 </ingredient>
+    <ingredient num="9">6735 643 13278 8920 69 14502 13278 9473 5981 </ingredient>
+    <ingredient num="10">13086 9517 13278 13220 13278 2935 5981 </ingredient>
+    <ingredient num="11">6209 749 7777 12522 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82307/hls24_1520041477.m3u8</low>
+    <high>https://vid.tasty.co/output/82307/landscape_720/1520041477</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 13799 7855 11951 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 6334 13817 2550 7990 199 11004 1681 13203 </step>
+    <step num="1">9179 11951 4155 9668 5337 749 13817 11227 13817 2550 7990 6865 3954 11004 5895 1681 11951 11453 12573 8991 13817 656 12573 11564 </step>
+    <step num="2">9179 11951 5614 7042 4168 42 13817 13187 13817 14238 560 5994 11714 5632 7855 560 3996 13817 2550 7990 13767 8927 5895 1681 1455 12573 14166 14371 </step>
+    <step num="3">906 3409 11951 8920 13633 669 6285 2396 404 13009 13817 740 560 11951 4771 1828 11951 1171 2550 7990 6646 8489 11004 5895 1681 11951 950 9490 3033 12699 13817 11951 1455 12573 14371 </step>
+    <step num="4">12473 210 11951 13220 13817 3945 3773 415 1966 7389 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 13799 7855 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 5766 10586 560 923 740 11951 6334 13817 2550 7990 199 11004 1681 13203 </steps_updated>
+    <steps_updated num="2">9179 11951 4155 9668 5337 749 13817 11227 13817 2550 7990 6865 3954 11004 5895 1681 11951 11453 12573 8991 13817 656 12573 11564 </steps_updated>
+    <steps_updated num="3">9179 11951 5614 7042 4168 42 13817 13187 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="4">5632 7855 560 3996 13817 2550 7990 13767 8927 5895 1681 1455 12573 14166 14371 </steps_updated>
+    <steps_updated num="5">906 3409 11951 8920 13633 669 6285 2396 404 13009 13817 740 560 11951 4771 </steps_updated>
+    <steps_updated num="6">1828 11951 1171 2550 7990 6646 8489 11004 5895 1681 11951 950 9490 3033 12699 13817 11951 1455 12573 14371 </steps_updated>
+    <steps_updated num="7">12473 210 11951 13220 13817 3945 3773 415 1966 7389 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00046</start_time>
+    <end_time>01371</end_time>
+  </duration_human>
+</recipe>

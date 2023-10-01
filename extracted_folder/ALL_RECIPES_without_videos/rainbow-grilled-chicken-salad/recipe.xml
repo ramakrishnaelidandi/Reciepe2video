@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rainbow Grilled Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-grilled-chicken-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="3">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="4">½ teaspoon ; cumin </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="8">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="9">¼ cup ; fresh cilantro, minced ; (10 g) </ingredient>
+    <ingredient num="10">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="11">¼ teaspoon ; salt </ingredient>
+    <ingredient num="12">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="13">1 head ; romaine lettuce, chopped </ingredient>
+    <ingredient num="14">½ cup ; red onion, diced ; (75 g) </ingredient>
+    <ingredient num="15">½ cup ; tomato, diced ; (100 g) </ingredient>
+    <ingredient num="16">½ cup ; orange bell pepper ; (50 g) </ingredient>
+    <ingredient num="17">¾ cup ; corn ; (130 g) </ingredient>
+    <ingredient num="18">½ cup ; fresh cilantro, chopped ; (20 g) </ingredient>
+    <ingredient num="19">¼ cup ; jalapeño, diced ; (25 g) </ingredient>
+    <ingredient num="20">1 ; avocado </ingredient>
+    <ingredient num="21">tortilla strips </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25789/low_1488909349.m3u8</low>
+    <high>https://vid.tasty.co/output/25789/mp4_720x1280/1488909349</high>
+  </video>
+  <steps>
+    <step num="0">Season chicken breasts with salt, pepper, chili powder, cumin, garlic powder, oregano, and olive oil. </step>
+    <step num="1">Cook over medium heat for about 10 minutes on each side or until internal temperature reaches 165˚F (75˚C). Remove from pan and slice breast into pieces. </step>
+    <step num="2">In a bowl, mix sour cream, cilantro, pepper, salt, and lime juice. Set aside until you are ready to serve. </step>
+    <step num="3">In a salad bowl, assemble the salad with the romaine on the bottom. Top with red onion, tomatoes, orange bell peppers, corn, cilantro, and jalapeños. </step>
+    <step num="4">Add the chicken strips. Gently toss salad with the sour cream dressing. </step>
+    <step num="5">Garnish with avocado slices and tortilla strips. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season chicken breasts with salt, pepper, chili powder, cumin, garlic powder, oregano, and olive oil. </steps_updated>
+    <steps_updated num="1">Cook over medium heat for about 10 minutes on each side or until internal temperature reaches 165˚F (75˚C). </steps_updated>
+    <steps_updated num="2">Remove from pan and slice breast into pieces. </steps_updated>
+    <steps_updated num="3">In a bowl, mix sour cream, cilantro, pepper, salt, and lime juice. </steps_updated>
+    <steps_updated num="4">Set aside until you are ready to serve. </steps_updated>
+    <steps_updated num="5">In a salad bowl, assemble the salad with the romaine on the bottom. </steps_updated>
+    <steps_updated num="6">Top with red onion, tomatoes, orange bell peppers, corn, cilantro, and jalapeños. </steps_updated>
+    <steps_updated num="7">Add the chicken strips. </steps_updated>
+    <steps_updated num="8">Gently toss salad with the sour cream dressing. </steps_updated>
+    <steps_updated num="9">Garnish with avocado slices and tortilla strips. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

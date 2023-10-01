@@ -1,0 +1,49 @@
+<recipe>
+  <title>Oatmeal Raisin Energy Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/oatmeal-raisin-energy-balls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-lighter-sweet-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 638 890 13278 2264 5981 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 9185 3109 3962 13278 12932 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 9765 13278 757 5981 </ingredient>
+    <ingredient num="3">1813 2605 13278 638 9924 13278 12158 5981 </ingredient>
+    <ingredient num="4">3917 1580 2031 13278 11088 12425 </ingredient>
+    <ingredient num="5">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="6">12791 8071 13278 82 </ingredient>
+    <ingredient num="7">3917 2605 13278 952 1967 13278 11953 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68188/hls24_1513294858.m3u8</low>
+    <high>https://vid.tasty.co/output/68188/landscape_720/1513294858</high>
+  </video>
+  <duration>
+    <start_time>48.0</start_time>
+    <end_time>96.27</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 638 890 13817 1885 210 5994 8016 9909 13817 8287 1681 7292 </step>
+    <step num="1">9179 11951 11909 638 10907 4654 1319 9525 13817 12610 13817 8287 1681 5994 8728 8337 11836 9179 3917 14014 371 12282 5358 4428 13130 13700 3639 </step>
+    <step num="2">12785 11951 2373 560 5994 12377 13817 6142 210 11951 952 1182 </step>
+    <step num="3">7692 11951 2373 669 9128 2984 13817 3945 1788 7811 10302 2281 7990 928 14329 </step>
+    <step num="4">10434 210 2237 2759 3801 7990 3386 560 3917 2812 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 638 890 13817 1885 210 5994 8016 9909 13817 8287 1681 7292 </steps_updated>
+    <steps_updated num="1">9179 11951 11909 638 10907 4654 1319 9525 13817 12610 13817 8287 1681 5994 8728 8337 11836 </steps_updated>
+    <steps_updated num="2">9179 3917 14014 371 12282 5358 4428 13130 13700 3639 </steps_updated>
+    <steps_updated num="3">12785 11951 2373 560 5994 12377 13817 6142 210 11951 952 1182 </steps_updated>
+    <steps_updated num="4">7692 11951 2373 669 9128 2984 13817 3945 1788 7811 10302 2281 7990 928 14329 </steps_updated>
+    <steps_updated num="5">10434 210 2237 2759 3801 7990 3386 560 3917 2812 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

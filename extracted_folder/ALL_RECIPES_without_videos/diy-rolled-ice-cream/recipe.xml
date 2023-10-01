@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>DIY Rolled Ice Cream</title>
+  <url>https://tasty.co/recipe/diy-rolled-ice-cream</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 pt ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="1">1 can ; sweetened condensed milk </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+    <ingredient num="3">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43755/low_1500080104.m3u8</low>
+    <high>https://vid.tasty.co/output/43755/mp4_720x1280/1500080104</high>
+  </video>
+  <steps>
+    <step num="0">Whisk the heavy cream, condensed milk, and salt in a bowl. </step>
+    <step num="1">Pour the mixture over a half sheet pan, or multiple quarter sheet pans. Make sure the ice cream base just barely covers the bottom. It should be ¼-inch (1 cm) thick or less. </step>
+    <step num="2">Sprinkle any chopped-up toppings you would like. With a whisk, mix the toppings into the ice cream base to ensure they’re evenly distributed. </step>
+    <step num="3">Freeze for at least 4 hours. Make sure to also put your scrapers and ice cream bowls in the freezer so the ice cream doesn’t melt while rolling. </step>
+    <step num="4">After the ice cream is frozen solid, remove from the freezer and quickly place the metal spatula/paint scraper at an 45° angle against the edge of the pan, pushing carefully forward. If the ice cream needs a little help forming, use a butter knife to push the sheet of cream into the roll. </step>
+    <step num="5">Place the rolled ice cream in a chilled bowl and top with any toppings you desire. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk the heavy cream, condensed milk, and salt in a bowl. </steps_updated>
+    <steps_updated num="1">Pour the mixture over a half sheet pan, or multiple quarter sheet pans. </steps_updated>
+    <steps_updated num="2">Make sure the ice cream base just barely covers the bottom. </steps_updated>
+    <steps_updated num="3">It should be ¼-inch (1 cm) thick or less. </steps_updated>
+    <steps_updated num="4">Sprinkle any chopped-up toppings you would like. </steps_updated>
+    <steps_updated num="5">With a whisk, mix the toppings into the ice cream base to ensure they’re evenly distributed. </steps_updated>
+    <steps_updated num="6">Freeze for at least 4 hours. </steps_updated>
+    <steps_updated num="7">Make sure to also put your scrapers and ice cream bowls in the freezer so the ice cream doesn’t melt while rolling. </steps_updated>
+    <steps_updated num="8">After the ice cream is frozen solid, remove from the freezer and quickly place the metal spatula/paint scraper at an 45° angle against the edge of the pan, pushing carefully forward. </steps_updated>
+    <steps_updated num="9">If the ice cream needs a little help forming, use a butter knife to push the sheet of cream into the roll. </steps_updated>
+    <steps_updated num="10">Place the rolled ice cream in a chilled bowl and top with any toppings you desire. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

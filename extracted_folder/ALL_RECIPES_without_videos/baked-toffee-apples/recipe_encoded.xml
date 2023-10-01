@@ -1,0 +1,57 @@
+<recipe>
+  <title>Baked Toffee Apples Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-toffee-apples</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 12545 341 </ingredient>
+    <ingredient num="1">3917 14014 13278 1368 4834 </ingredient>
+    <ingredient num="2">3917 8071 13278 12425 </ingredient>
+    <ingredient num="3">1580 8071 13278 12159 </ingredient>
+    <ingredient num="4">4061 13278 7848 </ingredient>
+    <ingredient num="5">3917 213 13278 8247 7969 </ingredient>
+    <ingredient num="6">8580 9486 13278 13832 2260 </ingredient>
+    <ingredient num="7">3917 13278 4036 7990 6216 10086 </ingredient>
+    <ingredient num="8">1368 4834 </ingredient>
+    <ingredient num="9">12425 </ingredient>
+    <ingredient num="10">1319 2439 13033 </ingredient>
+    <ingredient num="11">13832 2260 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13026/low_1477503471.m3u8</low>
+    <high>https://vid.tasty.co/output/13026/mp4_720x1280/1477503471</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11172 2033 </step>
+    <step num="1">10950 5994 2192 7110 2550 11951 12545 1368 6145 4654 13817 12159 11770 5994 4531 7855 1681 2296 </step>
+    <step num="2">14100 2734 7497 9259 4255 5994 2189 213 371 8247 8763 </step>
+    <step num="3">14100 4817 371 11951 9259 669 12645 13817 772 5994 2192 5929 4858 1391 8254 5362 560 772 2734 3954 5926 </step>
+    <step num="4">14100 11951 4091 371 11951 7848 13817 1374 2696 11951 3540 13260 1391 5994 9737 4370 </step>
+    <step num="5">9393 8177 371 11951 13832 2260 210 13817 13262 1391 11951 13832 9908 10665 </step>
+    <step num="6">5570 11951 12853 4255 10707 371 10763 9908 13817 13649 11951 374 9259 5412 11951 10139 4669 3482 7115 13304 </step>
+    <step num="7">5570 7848 210 2237 3267 5435 10654 11951 7969 1391 6216 10086 13817 1678 11770 8177 3954 1368 4834 13817 14242 </step>
+    <step num="8">7831 7990 5527 12689 </step>
+    <step num="9">12774 1391 2439 13033 13817 3954 13832 9286 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11172 2033 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 7110 2550 11951 12545 1368 6145 4654 13817 12159 11770 5994 4531 7855 1681 2296 </steps_updated>
+    <steps_updated num="2">14100 2734 7497 9259 4255 5994 2189 213 371 8247 8763 </steps_updated>
+    <steps_updated num="3">14100 4817 371 11951 9259 669 12645 13817 772 5994 2192 5929 4858 1391 8254 </steps_updated>
+    <steps_updated num="4">5362 560 772 2734 3954 5926 </steps_updated>
+    <steps_updated num="5">14100 11951 4091 371 11951 7848 13817 1374 2696 11951 3540 13260 1391 5994 9737 4370 </steps_updated>
+    <steps_updated num="6">9393 8177 371 11951 13832 2260 210 13817 13262 1391 11951 13832 9908 10665 </steps_updated>
+    <steps_updated num="7">5570 11951 12853 4255 10707 371 10763 9908 13817 13649 11951 374 9259 5412 11951 10139 4669 3482 7115 13304 </steps_updated>
+    <steps_updated num="8">5570 7848 210 2237 3267 5435 10654 11951 7969 1391 6216 10086 13817 1678 11770 8177 3954 1368 4834 13817 14242 </steps_updated>
+    <steps_updated num="9">7831 7990 5527 12689 </steps_updated>
+    <steps_updated num="10">12774 1391 2439 13033 13817 3954 13832 9286 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

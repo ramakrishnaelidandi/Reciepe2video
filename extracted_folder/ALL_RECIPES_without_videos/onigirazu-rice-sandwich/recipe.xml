@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Onigirazu (Rice Sandwich) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/onigirazu-rice-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/japanese-lunch</comp_url>
+  <ingredients>
+    <ingredient num="0">1 sheet ; nori </ingredient>
+    <ingredient num="1">1 cup ; rice, cooked ; (230 g) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">2 teaspoons ; sesame seeds </ingredient>
+    <ingredient num="4">2 tablespoons ; salmon, cooked </ingredient>
+    <ingredient num="5">1 ; shiso leaf </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93823/hls24_1526073991.m3u8</low>
+    <high>https://vid.tasty.co/output/93823/landscape_720/1526073991</high>
+  </video>
+  <duration>
+    <start_time>69.333</start_time>
+    <end_time>110.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Set the nori sheet on a clean work surface. Season the rice with a pinch of salt. </step>
+    <step num="1">Place half of the rice in the center of the nori and sprinkle with sesame seeds. Place the cooked salmon and shiso leaf on top. </step>
+    <step num="2">Top with the remaining rice, then wrap the nori into a square and flip upside down. Let rest about 1 minute. </step>
+    <step num="3">Cut in half. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Set the nori sheet on a clean work surface. </steps_updated>
+    <steps_updated num="1">Season the rice with a pinch of salt. </steps_updated>
+    <steps_updated num="2">Place half of the rice in the center of the nori and sprinkle with sesame seeds. </steps_updated>
+    <steps_updated num="3">Place the cooked salmon and shiso leaf on top. </steps_updated>
+    <steps_updated num="4">Top with the remaining rice, then wrap the nori into a square and flip upside down. </steps_updated>
+    <steps_updated num="5">Let rest about 1 minute. </steps_updated>
+    <steps_updated num="6">Cut in half. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

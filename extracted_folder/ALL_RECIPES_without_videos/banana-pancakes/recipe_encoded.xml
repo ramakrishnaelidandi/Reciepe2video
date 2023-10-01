@@ -1,0 +1,43 @@
+<recipe>
+  <title>Banana Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/nutritious-pancakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 11728 4850 </ingredient>
+    <ingredient num="1">8580 13278 12708 </ingredient>
+    <ingredient num="2">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="3">3917 8071 13278 12425 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19445/low_1482864702.m3u8</low>
+    <high>https://vid.tasty.co/output/19445/mp4_720x1280/1482864702</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>27.2</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 12833 8024 </step>
+    <step num="1">9393 210 11951 4036 415 1319 13817 14242 </step>
+    <step num="2">1083 2650 4428 210 12791 2605 13125 9443 1730 4255 5994 12352 5895 10060 11770 3996 2082 </step>
+    <step num="3">264 1681 8693 260 4255 11951 12605 371 11951 6576 415 10954 13817 2550 11951 11649 145 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 12833 8024 </steps_updated>
+    <steps_updated num="1">9393 210 11951 4036 415 1319 13817 14242 </steps_updated>
+    <steps_updated num="2">1083 2650 4428 210 12791 2605 13125 9443 1730 4255 5994 12352 5895 10060 11770 3996 2082 </steps_updated>
+    <steps_updated num="3">264 1681 8693 260 4255 11951 12605 371 11951 6576 415 10954 13817 2550 11951 11649 145 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

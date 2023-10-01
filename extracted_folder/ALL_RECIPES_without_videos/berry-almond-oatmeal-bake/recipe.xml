@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Berry Almond Oatmeal Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/berry-almond-oatmeal-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; milk ; (470 mL) </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="3">1 tablespoon ; butter, melted </ingredient>
+    <ingredient num="4">2 cups ; quick-cook oats ; (200 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="6">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="7">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">2 cups ; mixed berries, divided ; (200 g) </ingredient>
+    <ingredient num="10">½ cup ; sliced almonds ; (20 g) </ingredient>
+    <ingredient num="11">honey, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26832/low_1489772855.m3u8</low>
+    <high>https://vid.tasty.co/output/26832/mp4_720x1280/1489772855</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">In a bowl, whisk wet ingredients until combined. </step>
+    <step num="2">In a separate bowl, combine dry ingredients. </step>
+    <step num="3">Spread 1 cup (100 grams) of berries over the bottom of an 8x8 inch (20x20 cm) glass baking dish. Add dry mixture, then wet mixture, then the remaining berries. Top with sliced almonds. </step>
+    <step num="4">Bake 40-45 minutes, or until a knife inserted into the center comes out clean. </step>
+    <step num="5">Top with honey. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">In a bowl, whisk wet ingredients until combined. </steps_updated>
+    <steps_updated num="2">In a separate bowl, combine dry ingredients. </steps_updated>
+    <steps_updated num="3">Spread 1 cup (100 grams) of berries over the bottom of an 8x8 inch (20x20 cm) glass baking dish. </steps_updated>
+    <steps_updated num="4">Add dry mixture, then wet mixture, then the remaining berries. </steps_updated>
+    <steps_updated num="5">Top with sliced almonds. </steps_updated>
+    <steps_updated num="6">Bake 40-45 minutes, or until a knife inserted into the center comes out clean. </steps_updated>
+    <steps_updated num="7">Top with honey. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

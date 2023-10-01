@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Low-Carb Egg White Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/low-carb-egg-white-omelette</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; lime, Juiced </ingredient>
+    <ingredient num="1">⅔ cup ; water ; (160 mL) </ingredient>
+    <ingredient num="2">1 ; avocado, diced </ingredient>
+    <ingredient num="3">½ cup ; greek yogurt ; (140 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">black pepper, to taste </ingredient>
+    <ingredient num="6">4 tablespoons ; oil </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">black pepper, to taste </ingredient>
+    <ingredient num="9">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="10">1 ; green bell pepper, diced </ingredient>
+    <ingredient num="11">½ ; onion, diced </ingredient>
+    <ingredient num="12">2 cups ; fresh spinach ; (80 g) </ingredient>
+    <ingredient num="13">⅓ cup ; shredded sharp cheddar cheese ; (35 g) </ingredient>
+    <ingredient num="14">12 ; egg whites </ingredient>
+    <ingredient num="15">1 ; tomato, diced </ingredient>
+    <ingredient num="16">2 tablespoons ; fresh cilantro, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69785/hls24_1513896443.m3u8</low>
+    <high>https://vid.tasty.co/output/69785/landscape_720/1513896443</high>
+  </video>
+  <steps>
+    <step num="0">Place the lime juice, water, avocado, Greek yogurt, salt, and pepper in a blender and blend until smooth. Set aside. </step>
+    <step num="1">Add oil to a pan over medium heat. </step>
+    <step num="2">Add onions and peppers and cook until nearly soft, about 5 minutes. </step>
+    <step num="3">Add spinach and cheese and stir for another 2 to 3 minutes. Set aside. </step>
+    <step num="4">Add oil to a pan over medium heat. </step>
+    <step num="5">Add the egg whites to the pan and season with salt and pepper. Cook until set, about 2 minutes. </step>
+    <step num="6">Flip the eggs and let set for about 1 minute. </step>
+    <step num="7">Fill the egg whites with the pepper, onion, spinach, and cheese mixture. Roll up the egg white omelette. </step>
+    <step num="8">Top with avocado dressing, tomato, and cilantro. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the lime juice, water, avocado, Greek yogurt, salt, and pepper in a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Add oil to a pan over medium heat. </steps_updated>
+    <steps_updated num="3">Add onions and peppers and cook until nearly soft, about 5 minutes. </steps_updated>
+    <steps_updated num="4">Add spinach and cheese and stir for another 2 to 3 minutes. </steps_updated>
+    <steps_updated num="5">Set aside. </steps_updated>
+    <steps_updated num="6">Add oil to a pan over medium heat. </steps_updated>
+    <steps_updated num="7">Add the egg whites to the pan and season with salt and pepper. </steps_updated>
+    <steps_updated num="8">Cook until set, about 2 minutes. </steps_updated>
+    <steps_updated num="9">Flip the eggs and let set for about 1 minute. </steps_updated>
+    <steps_updated num="10">Fill the egg whites with the pepper, onion, spinach, and cheese mixture. </steps_updated>
+    <steps_updated num="11">Roll up the egg white omelette. </steps_updated>
+    <steps_updated num="12">Top with avocado dressing, tomato, and cilantro. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

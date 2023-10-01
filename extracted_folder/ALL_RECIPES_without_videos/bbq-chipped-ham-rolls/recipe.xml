@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chipped Ham Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chipped-ham-rolls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/game-day-bbq-rolls-2-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; deli ham, thinly sliced ; (905 g) </ingredient>
+    <ingredient num="1">½ ; onion, diced </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">1 cup ; BBQ sauce, of choice ; (290 g) </ingredient>
+    <ingredient num="4">1 lb ; pizza dough ; (455 g) </ingredient>
+    <ingredient num="5">relish, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/61971/low_1510695563.m3u8</low>
+    <high>https://vid.tasty.co/output/61971/mp4_720x1280/1510695563</high>
+  </video>
+  <duration>
+    <start_time>111.309</start_time>
+    <end_time>178.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add ham, salt, onion and bbq sauce to a slow cooker. </step>
+    <step num="1">Cover and cook on low for 5 hours. </step>
+    <step num="2">Shred ham using two forks. </step>
+    <step num="3">Preheat oven to 375°F (180°C). </step>
+    <step num="4">Using a rolling pin, roll the dough into a 16x12-inch (40x30-cm) rectangle, about ¼-inch (6 mm) thick on a well-floured surface. </step>
+    <step num="5">Distribute shredded ham over the dough, leaving a 1-inch (2 cm) open strip on the short side facing you. </step>
+    <step num="6">Roll the dough into a log shape, pinching the seams to seal it. </step>
+    <step num="7">With a serrated knife, evenly cut roll into 8 slices. Arrange slices in a greased cake pan. </step>
+    <step num="8">Bake in oven for 20-25 minutes. </step>
+    <step num="9">Cool in pan for 10-15 minutes. </step>
+    <step num="10">Drizzle rolls with more BBQ sauce and top with relish, if desired. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add ham, salt, onion and bbq sauce to a slow cooker. </steps_updated>
+    <steps_updated num="1">Cover and cook on low for 5 hours. </steps_updated>
+    <steps_updated num="2">Shred ham using two forks. </steps_updated>
+    <steps_updated num="3">Preheat oven to 375°F (180°C). </steps_updated>
+    <steps_updated num="4">Using a rolling pin, roll the dough into a 16x12-inch (40x30-cm) rectangle, about ¼-inch (6 mm) thick on a well-floured surface. </steps_updated>
+    <steps_updated num="5">Distribute shredded ham over the dough, leaving a 1-inch (2 cm) open strip on the short side facing you. </steps_updated>
+    <steps_updated num="6">Roll the dough into a log shape, pinching the seams to seal it. </steps_updated>
+    <steps_updated num="7">With a serrated knife, evenly cut roll into 8 slices. </steps_updated>
+    <steps_updated num="8">Arrange slices in a greased cake pan. </steps_updated>
+    <steps_updated num="9">Bake in oven for 20-25 minutes. </steps_updated>
+    <steps_updated num="10">Cool in pan for 10-15 minutes. </steps_updated>
+    <steps_updated num="11">Drizzle rolls with more BBQ sauce and top with relish, if desired. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03376</start_time>
+    <end_time>05190</end_time>
+  </duration_human>
+</recipe>

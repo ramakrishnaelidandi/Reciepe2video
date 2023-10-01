@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Weekday Lunch Kit Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/weekday-lunch-kit</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 oz ; sliced deli turkey ; (115 g) </ingredient>
+    <ingredient num="1">½ ; cucumber, sliced </ingredient>
+    <ingredient num="2">2 oz ; cheddar cheese, sliced ; (55 g) </ingredient>
+    <ingredient num="3">good thins sweet potato crackers </ingredient>
+    <ingredient num="4">3 tablespoons ; roasted red pepper garlic spread, see below </ingredient>
+    <ingredient num="5">2 ; red peppers, rough chopped </ingredient>
+    <ingredient num="6">1 head ; garlic </ingredient>
+    <ingredient num="7">3 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="8">2 tablespoons ; flat-leaf parsley, chopped </ingredient>
+    <ingredient num="9">2 tablespoons ; fresh oregano, chopped </ingredient>
+    <ingredient num="10">½ ; lemon, juiced </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24092/low_1487203661.m3u8</low>
+    <high>https://vid.tasty.co/output/24092/mp4_720x1280/1487203661</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 325˚F (160˚C). </step>
+    <step num="1">To prepare red pepper spread, cut the top quarter off a head of garlic and place in a baking dish or oven-safe skillet with the chopped peppers. Drizzle with 1 tablespoon of the olive oil and season with salt and pepper. Roast in oven for 1 hour. </step>
+    <step num="2">Once cooled, combine peppers and garlic, parsley, oregano, and lemon juice in a food processor or blender. Puree, slowly drizzling in remaining 2 tablespoons of olive oil. </step>
+    <step num="3">Chill for at least 1 hour, or up to overnight. </step>
+    <step num="4">Arrange turkey, cucumber, cheddar cheese, red pepper spread and Good Thins Sweet Potato crackers as desired in a resealable food container. Refrigerate until ready to eat. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 325˚F (160˚C). </steps_updated>
+    <steps_updated num="1">To prepare red pepper spread, cut the top quarter off a head of garlic and place in a baking dish or oven-safe skillet with the chopped peppers. </steps_updated>
+    <steps_updated num="2">Drizzle with 1 tablespoon of the olive oil and season with salt and pepper. </steps_updated>
+    <steps_updated num="3">Roast in oven for 1 hour. </steps_updated>
+    <steps_updated num="4">Once cooled, combine peppers and garlic, parsley, oregano, and lemon juice in a food processor or blender. </steps_updated>
+    <steps_updated num="5">Puree, slowly drizzling in remaining 2 tablespoons of olive oil. </steps_updated>
+    <steps_updated num="6">Chill for at least 1 hour, or up to overnight. </steps_updated>
+    <steps_updated num="7">Arrange turkey, cucumber, cheddar cheese, red pepper spread and Good Thins Sweet Potato crackers as desired in a resealable food container. </steps_updated>
+    <steps_updated num="8">Refrigerate until ready to eat. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

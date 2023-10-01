@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mushroom Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mushroom-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/meatless-tacos-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8 oz ; cremini mushroom, 1 package ; (225 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">⅓ ; onion, finely chopped </ingredient>
+    <ingredient num="3">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">2 tablespoons ; low sodium soy sauce </ingredient>
+    <ingredient num="5">1 teaspoon ; cumin </ingredient>
+    <ingredient num="6">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="7">black pepper, to taste </ingredient>
+    <ingredient num="8">tortilla, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Lunch</category>
+    <category num="8">Game Day</category>
+    <category num="9">Weeknight</category>
+    <category num="10">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60252/low_1509996185.m3u8</low>
+    <high>https://vid.tasty.co/output/60252/mp4_720x1280/1509996185</high>
+  </video>
+  <duration>
+    <start_time>93.88</start_time>
+    <end_time>140.56</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add mushrooms to food processor and pulse until a crumbly consistency is formed, making sure not to over-pulse. </step>
+    <step num="1">Heat olive oil in pan over medium heat. Once the oil begins to shimmer, add the onion and garlic and sauté until the onion is translucent. </step>
+    <step num="2">Add the mushrooms and saute for 8-10 minutes, or until most water has evaporated. </step>
+    <step num="3">Add soy sauce, cumin, chili powder and pepper. Sauté for 5 more minutes, or until desired consistency is reached. </step>
+    <step num="4">Serve on warm tortillas with desired taco toppings. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add mushrooms to food processor and pulse until a crumbly consistency is formed, making sure not to over-pulse. </steps_updated>
+    <steps_updated num="1">Heat olive oil in pan over medium heat. </steps_updated>
+    <steps_updated num="2">Once the oil begins to shimmer, add the onion and garlic and sauté until the onion is translucent. </steps_updated>
+    <steps_updated num="3">Add the mushrooms and saute for 8-10 minutes, or until most water has evaporated. </steps_updated>
+    <steps_updated num="4">Add soy sauce, cumin, chili powder and pepper. </steps_updated>
+    <steps_updated num="5">Sauté for 5 more minutes, or until desired consistency is reached. </steps_updated>
+    <steps_updated num="6">Serve on warm tortillas with desired taco toppings. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02875</start_time>
+    <end_time>04217</end_time>
+  </duration_human>
+</recipe>

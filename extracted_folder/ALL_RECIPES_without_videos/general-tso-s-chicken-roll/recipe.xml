@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>General Tso's Chicken Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/general-tso-s-chicken-roll</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">12 ; snap peas </ingredient>
+    <ingredient num="4">1 ; medium carrot, thinly sliced </ingredient>
+    <ingredient num="5">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="6">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">fresh ginger, chopped </ingredient>
+    <ingredient num="8">2 cups ; chicken stock ; (480 mL) </ingredient>
+    <ingredient num="9">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; chili flakes </ingredient>
+    <ingredient num="11">1 tablespoon ; rice vinegar </ingredient>
+    <ingredient num="12">1 tablespoon ; dark soy sauce </ingredient>
+    <ingredient num="13">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="14">2 teaspoons ; cornstarch, mixed with 2 teaspoons of water </ingredient>
+    <ingredient num="15">5 cups ; canola oil, for frying ; (1.2 L) </ingredient>
+    <ingredient num="16">1 cup ; corn starch ; (125 g) </ingredient>
+    <ingredient num="17">white rice, cooked, for serving </ingredient>
+    <ingredient num="18">1 tablespoon ; sesame seeds, for garnish </ingredient>
+    <ingredient num="19">¼ cup ; scallions, sliced, for garnish ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110363/hls24_1537980975.m3u8</low>
+    <high>https://vid.tasty.co/output/110363/landscape_720/1537980975</high>
+  </video>
+  <steps>
+    <step num="0">Place a chicken breast between 2 sheets of plastic wrap. Pound evenly to about ¼-inch (½ cm) thick, then season both sides with salt and pepper. </step>
+    <step num="1">Place 4 snap peas and a few carrot slices at the bottom edge of the chicken, then roll up tightly and wrap in plastic wrap. Repeat with the remaining chicken and vegetables. </step>
+    <step num="2">Chill the chicken rolls in the refrigerator for at least 30 minutes. </step>
+    <step num="3">Heat the sesame oil in a medium saucepan over high heat. Add the garlic and ginger and cook until they are toasty. </step>
+    <step num="4">Add the chicken stock, sugar, chile flakes, rice vinegar, soy sauce, tomato paste, and cornstarch slurry and whisk to combine. </step>
+    <step num="5">Cook until the sauce coats the back of a spoon and leaves a path when you run your finger through it. Remove from the heat and set aside. </step>
+    <step num="6">Heat the oil in a large pot until it reaches 350°F (180°C). </step>
+    <step num="7">Unwrap the chicken, then roll in the cornstarch until evenly coated. </step>
+    <step num="8">Fry two chicken rolls at a time for 5 minutes on each side, or until golden brown and the internal temperature reaches 165°F (75°C). </step>
+    <step num="9">Transfer the chicken to a wire rack to drain. If the chicken is not cooked through by the time it is golden brown on the outside, bake in the oven at 325°F (170°C) until that temperature is reached. </step>
+    <step num="10">Slice the chicken rolls and serve with rice alongside. Pour the sauce over the chicken and sprinkle with sesame seeds and scallions for garnish. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a chicken breast between 2 sheets of plastic wrap. </steps_updated>
+    <steps_updated num="1">Pound evenly to about ¼-inch (½ cm) thick, then season both sides with salt and pepper. </steps_updated>
+    <steps_updated num="2">Place 4 snap peas and a few carrot slices at the bottom edge of the chicken, then roll up tightly and wrap in plastic wrap. </steps_updated>
+    <steps_updated num="3">Repeat with the remaining chicken and vegetables. </steps_updated>
+    <steps_updated num="4">Chill the chicken rolls in the refrigerator for at least 30 minutes. </steps_updated>
+    <steps_updated num="5">Heat the sesame oil in a medium saucepan over high heat. </steps_updated>
+    <steps_updated num="6">Add the garlic and ginger and cook until they are toasty. </steps_updated>
+    <steps_updated num="7">Add the chicken stock, sugar, chile flakes, rice vinegar, soy sauce, tomato paste, and cornstarch slurry and whisk to combine. </steps_updated>
+    <steps_updated num="8">Cook until the sauce coats the back of a spoon and leaves a path when you run your finger through it. </steps_updated>
+    <steps_updated num="9">Remove from the heat and set aside. </steps_updated>
+    <steps_updated num="10">Heat the oil in a large pot until it reaches 350°F (180°C). </steps_updated>
+    <steps_updated num="11">Unwrap the chicken, then roll in the cornstarch until evenly coated. </steps_updated>
+    <steps_updated num="12">Fry two chicken rolls at a time for 5 minutes on each side, or until golden brown and the internal temperature reaches 165°F (75°C). </steps_updated>
+    <steps_updated num="13">Transfer the chicken to a wire rack to drain. </steps_updated>
+    <steps_updated num="14">If the chicken is not cooked through by the time it is golden brown on the outside, bake in the oven at 325°F (170°C) until that temperature is reached. </steps_updated>
+    <steps_updated num="15">Slice the chicken rolls and serve with rice alongside. </steps_updated>
+    <steps_updated num="16">Pour the sauce over the chicken and sprinkle with sesame seeds and scallions for garnish. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

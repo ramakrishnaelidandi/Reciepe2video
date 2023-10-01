@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Camembert Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/camembert-bread-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; camembert cheese </ingredient>
+    <ingredient num="1">1 tablespoon ; garlic paste </ingredient>
+    <ingredient num="2">2 tablespoons ; butter </ingredient>
+    <ingredient num="3">1 ; bread, circular loaf </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32040/low_1495124982.m3u8</low>
+    <high>https://vid.tasty.co/output/32040/mp4_720x1280/1495124982</high>
+  </video>
+  <steps>
+    <step num="0">Cut off the top of the bread loaf, and scoop out a hole large enough to fit the camembert. </step>
+    <step num="1">Microwave butter and garlic to create the garlic butter. </step>
+    <step num="2">Butter the inside of the bread bowl and lid with the garlic butter. </step>
+    <step num="3">Cut the top off of the camembert and place in bowl. Bake for 15 minutes at 180°C (350°F). </step>
+    <step num="4">Serve with the loaf innards. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut off the top of the bread loaf, and scoop out a hole large enough to fit the camembert. </steps_updated>
+    <steps_updated num="1">Microwave butter and garlic to create the garlic butter. </steps_updated>
+    <steps_updated num="2">Butter the inside of the bread bowl and lid with the garlic butter. </steps_updated>
+    <steps_updated num="3">Cut the top off of the camembert and place in bowl. </steps_updated>
+    <steps_updated num="4">Bake for 15 minutes at 180°C (350°F). </steps_updated>
+    <steps_updated num="5">Serve with the loaf innards. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

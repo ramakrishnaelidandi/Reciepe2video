@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Crispy Chili Beef Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crispy-chili-beef</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ lb ; frying steak ; (300 g) </ingredient>
+    <ingredient num="1">⅔ cup ; cornflour ; (100 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; chinese 5 spice </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+    <ingredient num="5">4 cups ; oil, for frying ; (1 L) </ingredient>
+    <ingredient num="6">2 ; red chilis </ingredient>
+    <ingredient num="7">1 ; spring onion, thinly sliced </ingredient>
+    <ingredient num="8">1 oz ; ginger, thinly sliced ; (25 g) </ingredient>
+    <ingredient num="9">1 ; red bell pepper, thinly sliced </ingredient>
+    <ingredient num="10">1 tablespoon ; garlic paste </ingredient>
+    <ingredient num="11">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="12">2 tablespoons ; sweet chilli sauce </ingredient>
+    <ingredient num="13">1 tablespoon ; red wine vinegar </ingredient>
+    <ingredient num="14">1 tablespoon ; tomato ketchup </ingredient>
+    <ingredient num="15">spring onion, to garnish </ingredient>
+    <ingredient num="16">red chilli, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47279/low_1502728351.m3u8</low>
+    <high>https://vid.tasty.co/output/47279/mp4_720x1280/1502728351</high>
+  </video>
+  <steps>
+    <step num="0">Slice the steaks into thin strips and place into a small bowl. </step>
+    <step num="1">Add the cornflour, 5 spice, salt, and pepper. Mix until evenly coated. </step>
+    <step num="2">Carefully heat the oil in a deep saucepan until it reaches 190°C (375°F). </step>
+    <step num="3">Carefully place the beef strips into the oil and fry for about 4-5 minutes, until golden brown. </step>
+    <step num="4">Place on some tissue to soak up the excess oil and set a aside. </step>
+    <step num="5">Meanwhile, prepare the sauce by adding a tablespoon of oil to a frying pan. Frying the chilies, spring onion, and ginger over a medium heat for a few minutes. Add garlic paste and fry for another minute. </step>
+    <step num="6">Stir in the soy sauce, sweet chili sauce, red wine vinegar, and tomato ketchup until thick. </step>
+    <step num="7">Stir in the beef steaks until evenly coated. </step>
+    <step num="8">Garnish with spring onion and red chilies. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the steaks into thin strips and place into a small bowl. </steps_updated>
+    <steps_updated num="1">Add the cornflour, 5 spice, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Mix until evenly coated. </steps_updated>
+    <steps_updated num="3">Carefully heat the oil in a deep saucepan until it reaches 190°C (375°F). </steps_updated>
+    <steps_updated num="4">Carefully place the beef strips into the oil and fry for about 4-5 minutes, until golden brown. </steps_updated>
+    <steps_updated num="5">Place on some tissue to soak up the excess oil and set a aside. </steps_updated>
+    <steps_updated num="6">Meanwhile, prepare the sauce by adding a tablespoon of oil to a frying pan. </steps_updated>
+    <steps_updated num="7">Frying the chilies, spring onion, and ginger over a medium heat for a few minutes. </steps_updated>
+    <steps_updated num="8">Add garlic paste and fry for another minute. </steps_updated>
+    <steps_updated num="9">Stir in the soy sauce, sweet chili sauce, red wine vinegar, and tomato ketchup until thick. </steps_updated>
+    <steps_updated num="10">Stir in the beef steaks until evenly coated. </steps_updated>
+    <steps_updated num="11">Garnish with spring onion and red chilies. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

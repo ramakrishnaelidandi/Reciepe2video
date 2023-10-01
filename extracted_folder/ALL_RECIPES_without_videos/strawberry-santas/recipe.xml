@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Santas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-santas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; strawberry, frozen will work too if fresh are not available </ingredient>
+    <ingredient num="1">1 tube ; icing, or substitute whipped cream for a fluffier santa </ingredient>
+    <ingredient num="2">mini chocolate chips, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32206/low_1495125500.m3u8</low>
+    <high>https://vid.tasty.co/output/32206/mp4_720x1280/1495125500</high>
+  </video>
+  <steps>
+    <step num="0">Slice the tops off the strawberries to create a flat surface for them to sit on. Slice the tip off the strawberry to make the hat. </step>
+    <step num="1">Squeeze some frosting or whipped cream on the strawberry, and replace the tip. </step>
+    <step num="2">Decorate the rest with a piping bag. </step>
+    <step num="3">Add the mini chocolate chips for eyes. </step>
+    <step num="4">Strawberry santas are mischievous, and tend to disappear quickly! Make enough for family and friends! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the tops off the strawberries to create a flat surface for them to sit on. </steps_updated>
+    <steps_updated num="1">Slice the tip off the strawberry to make the hat. </steps_updated>
+    <steps_updated num="2">Squeeze some frosting or whipped cream on the strawberry, and replace the tip. </steps_updated>
+    <steps_updated num="3">Decorate the rest with a piping bag. </steps_updated>
+    <steps_updated num="4">Add the mini chocolate chips for eyes. </steps_updated>
+    <steps_updated num="5">Strawberry santas are mischievous, and tend to disappear quickly! </steps_updated>
+    <steps_updated num="6">Make enough for family and friends! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

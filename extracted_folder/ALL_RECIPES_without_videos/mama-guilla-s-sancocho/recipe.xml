@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mama Guilla's Sancocho Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mama-guilla-s-sancocho</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 cup ; yellow onion, chopped ; (150 g) </ingredient>
+    <ingredient num="2">1 cup ; green pepper, diced ; (100 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; fresh cilantro, chopped, plus more for serving ; (60 g) </ingredient>
+    <ingredient num="4">5 cloves ; garlic, chopped </ingredient>
+    <ingredient num="5">½ cup ; white cooking wine ; (120 mL) </ingredient>
+    <ingredient num="6">14.5 oz ; diced tomato, 2 cans ; (410 g) </ingredient>
+    <ingredient num="7">15 oz ; tomato sauce, 1 can ; (425 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; sofrito </ingredient>
+    <ingredient num="9">2 tablespoons ; recaito </ingredient>
+    <ingredient num="10">3 tablespoons ; spanish green olive </ingredient>
+    <ingredient num="11">2 teaspoons ; ground cumin </ingredient>
+    <ingredient num="12">salt, to taste </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+    <ingredient num="14">1 lb ; chuck roast, or stew beef ; (455 g) </ingredient>
+    <ingredient num="15">2 cups ; chicken broth ; (480 mL) </ingredient>
+    <ingredient num="16">4 cups ; water ; (960 mL) </ingredient>
+    <ingredient num="17">1 lb ; chicken drumstick ; (455 g) </ingredient>
+    <ingredient num="18">3 ears ; corn, shucked, broken into large pieces </ingredient>
+    <ingredient num="19">2 ; russet potatoes, peeled and cubed </ingredient>
+    <ingredient num="20">1 ; yucca, peeled and cubed </ingredient>
+    <ingredient num="21">2 ; plantains, sliced into 2 in (5 cm) pieces </ingredient>
+    <ingredient num="22">avocado, halved, for serving </ingredient>
+    <ingredient num="23">white rice, cooked, for serving </ingredient>
+    <ingredient num="24">lime wedge, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110455/hls24_1538008067.m3u8</low>
+    <high>https://vid.tasty.co/output/110455/landscape_720/1538008067</high>
+  </video>
+  <steps>
+    <step num="0">Heat the olive oil in a large pot over medium heat. </step>
+    <step num="1">Add the onion, green pepper, cilantro, and garlic. Cook until the onions are translucent, about 5 minutes. </step>
+    <step num="2">Add the cooking wine, diced tomatoes, tomato sauce, sofrito, recaito, Spanish olives, cumin, salt, and pepper. Stir for 2-3 minutes to allow the flavors to meld. </step>
+    <step num="3">Add the stew beef. Increase the heat to high and cook for 2-3 minutes, until the meat is cooked through. </step>
+    <step num="4">Add the chicken broth and water. Stir to combine. Add the chicken, corn, potatoes, and yuca. Stir well. Cover and cook over medium-high heat for about 45 minutes, stirring occasionally, until the meat is tender and the potatoes are softened. </step>
+    <step num="5">Reduce the heat to low and add the plantains. Simmer uncovered for 15 minutes, until the plantains are tender. </step>
+    <step num="6">Garnish the soup with cilantro and serve with halved avocados, rice, and lime wedges, if desired. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil in a large pot over medium heat. </steps_updated>
+    <steps_updated num="1">Add the onion, green pepper, cilantro, and garlic. </steps_updated>
+    <steps_updated num="2">Cook until the onions are translucent, about 5 minutes. </steps_updated>
+    <steps_updated num="3">Add the cooking wine, diced tomatoes, tomato sauce, sofrito, recaito, Spanish olives, cumin, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Stir for 2-3 minutes to allow the flavors to meld. </steps_updated>
+    <steps_updated num="5">Add the stew beef. </steps_updated>
+    <steps_updated num="6">Increase the heat to high and cook for 2-3 minutes, until the meat is cooked through. </steps_updated>
+    <steps_updated num="7">Add the chicken broth and water. </steps_updated>
+    <steps_updated num="8">Stir to combine. </steps_updated>
+    <steps_updated num="9">Add the chicken, corn, potatoes, and yuca. </steps_updated>
+    <steps_updated num="10">Stir well. </steps_updated>
+    <steps_updated num="11">Cover and cook over medium-high heat for about 45 minutes, stirring occasionally, until the meat is tender and the potatoes are softened. </steps_updated>
+    <steps_updated num="12">Reduce the heat to low and add the plantains. </steps_updated>
+    <steps_updated num="13">Simmer uncovered for 15 minutes, until the plantains are tender. </steps_updated>
+    <steps_updated num="14">Garnish the soup with cilantro and serve with halved avocados, rice, and lime wedges, if desired. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+  <title>Banana Split Ice Cream Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-split-ice-cream-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">409 13278 894 4308 </ingredient>
+    <ingredient num="1">11061 9486 13278 7974 10907 5335 </ingredient>
+    <ingredient num="2">13086 13278 1938 976 </ingredient>
+    <ingredient num="3">8580 3115 13278 4680 2439 1123 564 13278 12078 5981 </ingredient>
+    <ingredient num="4">8580 3115 13278 1319 2439 1123 564 13278 12078 5981 </ingredient>
+    <ingredient num="5">8580 3115 13278 6114 2439 1123 564 13278 12078 5981 </ingredient>
+    <ingredient num="6">279 1123 7990 7818 </ingredient>
+    <ingredient num="7">3962 12411 7990 7818 </ingredient>
+    <ingredient num="8">3737 1149 7990 7818 </ingredient>
+    <ingredient num="9">4680 1285 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96920/hls24_1527891971.m3u8</low>
+    <high>https://vid.tasty.co/output/96920/landscape_720/1527891971</high>
+  </video>
+  <steps>
+    <step num="0">906 11951 894 4308 669 13009 13817 740 560 5994 8016 41 5797 1681 13757 9031 5563 </step>
+    <step num="1">1083 210 11951 5335 10907 13817 8287 7990 6646 5527 131 1681 11951 9924 9490 9456 </step>
+    <step num="2">1083 11951 1547 2373 669 5994 14541 1936 1645 4491 5687 13817 14484 573 1391 5994 7700 669 2237 5422 14614 13855 7990 13767 12689 </step>
+    <step num="3">6695 11951 959 8535 4255 10707 371 11951 13207 </step>
+    <step num="4">9679 11951 4680 2439 13033 11770 11951 4850 13817 11434 210 2237 5422 14614 13855 7990 5527 12689 5362 1391 11951 6114 2439 1123 415 13351 7990 6646 5527 12689 9179 11951 1319 2439 1123 415 13351 7990 3917 5664 </step>
+    <step num="5">11179 11951 10408 13817 12205 11951 8265 13494 10763 12205 1391 279 1123 3962 3850 5994 1149 13817 4680 12911 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">906 11951 894 4308 669 13009 13817 740 560 5994 8016 41 </steps_updated>
+    <steps_updated num="1">5797 1681 13757 9031 5563 </steps_updated>
+    <steps_updated num="2">1083 210 11951 5335 10907 13817 8287 7990 6646 5527 131 1681 11951 9924 9490 9456 </steps_updated>
+    <steps_updated num="3">1083 11951 1547 2373 669 5994 14541 1936 1645 4491 5687 13817 14484 573 1391 5994 7700 669 2237 5422 14614 </steps_updated>
+    <steps_updated num="4">13855 7990 13767 12689 </steps_updated>
+    <steps_updated num="5">6695 11951 959 8535 4255 10707 371 11951 13207 </steps_updated>
+    <steps_updated num="6">9679 11951 4680 2439 13033 11770 11951 4850 13817 11434 210 2237 5422 14614 </steps_updated>
+    <steps_updated num="7">13855 7990 5527 12689 </steps_updated>
+    <steps_updated num="8">5362 1391 11951 6114 2439 1123 415 13351 7990 6646 5527 12689 </steps_updated>
+    <steps_updated num="9">9179 11951 1319 2439 1123 415 13351 7990 3917 5664 </steps_updated>
+    <steps_updated num="10">11179 11951 10408 13817 12205 11951 8265 </steps_updated>
+    <steps_updated num="11">13494 10763 12205 1391 279 1123 3962 3850 5994 1149 13817 4680 12911 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

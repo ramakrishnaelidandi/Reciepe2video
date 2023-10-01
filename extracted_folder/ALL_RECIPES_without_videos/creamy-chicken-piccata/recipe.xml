@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Chicken Piccata Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-chicken-piccata</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">⅔ cup ; all-purpose flour ; (80 g) </ingredient>
+    <ingredient num="4">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="5">⅓ cup ; dry white wine ; (80 mL) </ingredient>
+    <ingredient num="6">2 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="7">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="8">2 tablespoons ; caper </ingredient>
+    <ingredient num="9">3 tablespoons ; lemon juice </ingredient>
+    <ingredient num="10">1 ½ cups ; chicken stock ; (360 mL) </ingredient>
+    <ingredient num="11">⅓ cup ; heavy cream ; (80 mL) </ingredient>
+    <ingredient num="12">2 tablespoons ; fresh flat-leaf parsley, chopped </ingredient>
+    <ingredient num="13">angel hair pasta, cooked, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/115216/hls24_1542052659.m3u8</low>
+    <high>https://vid.tasty.co/output/115216/landscape_720/1542052659</high>
+  </video>
+  <steps>
+    <step num="0">Butterfly each chicken breast. Lay a piece of parchment paper on top and pound to about ¼ inch (6 mm) thick. Season generously on both sides with salt and pepper. </step>
+    <step num="1">Cut each breast in half lengthwise so you have 4 pieces of chicken. </step>
+    <step num="2">Add the flour to a wide, shallow dish. Dredge each piece of chicken in flour, shaking off the excess. </step>
+    <step num="3">Heat the olive oil in a large skillet over medium heat. Fry the chicken until golden brown, about 3-4 minutes per side. Remove the chicken from the pan and set aside. </step>
+    <step num="4">Pour the white wine into the pan and cook until reduced by half, about 1 minute. </step>
+    <step num="5">Add the butter, garlic, and capers and cook until fragrant, about 2 minutes. </step>
+    <step num="6">Stir in the lemon juice and chicken stock and cook for 5 minutes, until the sauce has slightly thickened. </step>
+    <step num="7">Stir in the cream, then return the chicken to the pan. </step>
+    <step num="8">Sprinkle with the parsley and turn the chicken to coat in the sauce. Simmer for 2 minutes, until the sauce thickens slightly, then remove from the heat. </step>
+    <step num="9">Serve the chicken and sauce over angel hair pasta. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Butterfly each chicken breast. </steps_updated>
+    <steps_updated num="1">Lay a piece of parchment paper on top and pound to about ¼ inch (6 mm) thick. </steps_updated>
+    <steps_updated num="2">Season generously on both sides with salt and pepper. </steps_updated>
+    <steps_updated num="3">Cut each breast in half lengthwise so you have 4 pieces of chicken. </steps_updated>
+    <steps_updated num="4">Add the flour to a wide, shallow dish. </steps_updated>
+    <steps_updated num="5">Dredge each piece of chicken in flour, shaking off the excess. </steps_updated>
+    <steps_updated num="6">Heat the olive oil in a large skillet over medium heat. </steps_updated>
+    <steps_updated num="7">Fry the chicken until golden brown, about 3-4 minutes per side. </steps_updated>
+    <steps_updated num="8">Remove the chicken from the pan and set aside. </steps_updated>
+    <steps_updated num="9">Pour the white wine into the pan and cook until reduced by half, about 1 minute. </steps_updated>
+    <steps_updated num="10">Add the butter, garlic, and capers and cook until fragrant, about 2 minutes. </steps_updated>
+    <steps_updated num="11">Stir in the lemon juice and chicken stock and cook for 5 minutes, until the sauce has slightly thickened. </steps_updated>
+    <steps_updated num="12">Stir in the cream, then return the chicken to the pan. </steps_updated>
+    <steps_updated num="13">Sprinkle with the parsley and turn the chicken to coat in the sauce. </steps_updated>
+    <steps_updated num="14">Simmer for 2 minutes, until the sauce thickens slightly, then remove from the heat. </steps_updated>
+    <steps_updated num="15">Serve the chicken and sauce over angel hair pasta. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Instant Chicken Ramen Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/instant-chicken-ramen</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">½ tablespoon ; chicken bouillon powder </ingredient>
+    <ingredient num="1">½ teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="3">2 tablespoons ; shredded carrots </ingredient>
+    <ingredient num="4">¼ cup ; corn, cooked ; (45 g) </ingredient>
+    <ingredient num="5">¼ cup ; shredded rotisserie chicken ; (30 g) </ingredient>
+    <ingredient num="6">½ cup ; yakisoba noodle ; (75 g) </ingredient>
+    <ingredient num="7">1 tablespoon ; scallion, chopped </ingredient>
+    <ingredient num="8">1 ½ cups ; hot water ; (360 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102953/hls24_1532454040.m3u8</low>
+    <high>https://vid.tasty.co/output/102953/landscape_720/1532454040</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Make the seasoning: Combine the chicken bouillon, salt, and garlic powder in a 16-ounce (480 ml) mason jar. Stir with a fork until combined. </step>
+    <step num="1">Add the carrots, corn, chicken, Yakisoba noodles, and scallions. </step>
+    <step num="2">Store in the refrigerator for up to 2 days. </step>
+    <step num="3">When ready to eat, shake well to combine, then add hot water. Let sit for 2 minutes, then enjoy! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the seasoning: Combine the chicken bouillon, salt, and garlic powder in a 16-ounce (480 ml) mason jar. </steps_updated>
+    <steps_updated num="1">Stir with a fork until combined. </steps_updated>
+    <steps_updated num="2">Add the carrots, corn, chicken, Yakisoba noodles, and scallions. </steps_updated>
+    <steps_updated num="3">Store in the refrigerator for up to 2 days. </steps_updated>
+    <steps_updated num="4">When ready to eat, shake well to combine, then add hot water. </steps_updated>
+    <steps_updated num="5">Let sit for 2 minutes, then enjoy! </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01540</start_time>
+    <end_time>01900</end_time>
+  </duration_human>
+</recipe>

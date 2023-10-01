@@ -1,0 +1,63 @@
+<recipe>
+  <title>5 Layered Bean Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/layered-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">3917 13278 7266 11588 3962 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 11588 3962 </ingredient>
+    <ingredient num="3">8580 9517 13278 13584 13829 3745 13278 4606 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 11088 3170 </ingredient>
+    <ingredient num="5">3917 2157 13278 499 7845 </ingredient>
+    <ingredient num="6">11042 13510 12610 560 11567 </ingredient>
+    <ingredient num="7">14585 11088 13584 10986 560 11567 </ingredient>
+    <ingredient num="8">3917 12791 9517 13278 1484 13033 13278 14638 5981 </ingredient>
+    <ingredient num="9">1580 13278 7695 3701 </ingredient>
+    <ingredient num="10">11042 13510 12610 560 11567 </ingredient>
+    <ingredient num="11">4061 13278 10415 3962 </ingredient>
+    <ingredient num="12">1580 13278 7695 2716 </ingredient>
+    <ingredient num="13">1580 13278 7695 3701 </ingredient>
+    <ingredient num="14">11042 13510 12610 560 11567 </ingredient>
+    <ingredient num="15">3917 1580 9517 13278 3333 9784 14538 13278 757 5981 </ingredient>
+    <ingredient num="16">8580 9517 13278 8602 9491 3962 13278 5348 5981 </ingredient>
+    <ingredient num="17">9883 2605 13278 13584 12274 976 13278 11953 5981 </ingredient>
+    <ingredient num="18">9883 2605 13278 6293 976 13278 3433 5981 </ingredient>
+    <ingredient num="19">3917 2605 13278 14621 6638 3305 13278 336 5981 </ingredient>
+    <ingredient num="20">11237 10803 560 1966 </ingredient>
+    <ingredient num="21">6222 7280 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/77751/hls24_1518202566.m3u8</low>
+    <high>https://vid.tasty.co/output/77751/landscape_720/1518202566</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 11844 7855 11951 14158 9179 11951 2052 13817 11384 13817 9347 1681 1910 13086 560 2933 12689 </step>
+    <step num="1">9179 11951 13584 6143 13817 12833 1681 12119 10242 1391 11088 2670 499 10986 12610 13817 13584 12375 </step>
+    <step num="2">2988 11951 3984 2373 210 2237 5422 11826 11770 11951 551 371 5994 6453 12358 5098 13426 6325 </step>
+    <step num="3">10950 5994 13757 14511 6142 3626 11951 1484 13033 13817 9712 10522 13817 12616 1391 12051 2988 11951 1484 13033 2373 11770 11951 3984 14614 </step>
+    <step num="4">10950 6646 13757 14511 12833 3626 11951 10415 9712 10522 13817 9342 13817 12616 1391 12051 2988 11951 4485 2373 11770 11951 1484 13033 14614 </step>
+    <step num="5">6252 1391 11951 13810 7042 11150 10286 13817 1117 12774 1391 11237 11318 13817 6222 9286 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 11844 7855 11951 14158 </steps_updated>
+    <steps_updated num="1">9179 11951 2052 13817 11384 13817 9347 1681 1910 13086 560 2933 12689 </steps_updated>
+    <steps_updated num="2">9179 11951 13584 6143 13817 12833 1681 12119 </steps_updated>
+    <steps_updated num="3">10242 1391 11088 2670 499 10986 12610 13817 13584 12375 </steps_updated>
+    <steps_updated num="4">2988 11951 3984 2373 210 2237 5422 11826 11770 11951 551 371 5994 6453 12358 5098 13426 6325 </steps_updated>
+    <steps_updated num="5">10950 5994 13757 14511 6142 3626 11951 1484 13033 13817 9712 10522 13817 12616 1391 12051 </steps_updated>
+    <steps_updated num="6">2988 11951 1484 13033 2373 11770 11951 3984 14614 </steps_updated>
+    <steps_updated num="7">10950 6646 13757 14511 12833 3626 11951 10415 9712 10522 13817 9342 13817 12616 1391 12051 </steps_updated>
+    <steps_updated num="8">2988 11951 4485 2373 11770 11951 1484 13033 14614 </steps_updated>
+    <steps_updated num="9">6252 1391 11951 13810 7042 11150 10286 13817 1117 </steps_updated>
+    <steps_updated num="10">12774 1391 11237 11318 13817 6222 9286 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

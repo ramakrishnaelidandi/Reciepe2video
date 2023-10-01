@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Frosé Daiquiri Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frose-daiquiri</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/rose-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; frozen strawberry ; (150 g) </ingredient>
+    <ingredient num="1">¾ cup ; rum ; (175 mL) </ingredient>
+    <ingredient num="2">½ cup ; lime juice ; (120 mL) </ingredient>
+    <ingredient num="3">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="4">1 bottle ; rosé, frozen </ingredient>
+    <ingredient num="5">4 ; strawberries, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Date Night</category>
+    <category num="4">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49433/low_1503686463.m3u8</low>
+    <high>https://vid.tasty.co/output/49433/mp4_720x1280/1503686463</high>
+  </video>
+  <duration>
+    <start_time>34.72</start_time>
+    <end_time>50.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the frozen strawberries, lime juice, rum, sugar, and frozen rosé to a blender and blend until fully mixed. You may have to do this in two batches. </step>
+    <step num="1">Divide between four glasses, and garnish with a strawberry. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the frozen strawberries, lime juice, rum, sugar, and frozen rosé to a blender and blend until fully mixed. </steps_updated>
+    <steps_updated num="1">You may have to do this in two batches. </steps_updated>
+    <steps_updated num="2">Divide between four glasses, and garnish with a strawberry. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01093</start_time>
+    <end_time>01499</end_time>
+  </duration_human>
+</recipe>

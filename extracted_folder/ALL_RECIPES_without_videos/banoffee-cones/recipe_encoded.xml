@@ -1,0 +1,55 @@
+<recipe>
+  <title>Banoffee Cones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banoffee-cones</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11607 643 13278 8247 7969 13278 9990 5981 </ingredient>
+    <ingredient num="1">8580 1580 9517 13278 6435 13033 13278 8941 8007 </ingredient>
+    <ingredient num="2">3917 2605 13278 13832 2260 13278 6898 8007 </ingredient>
+    <ingredient num="3">3917 13278 959 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32215/low_1495125489.m3u8</low>
+    <high>https://vid.tasty.co/output/32215/mp4_720x1280/1495125489</high>
+  </video>
+  <steps>
+    <step num="0">12595 5994 3725 11938 9883 636 3104 1827 371 6385 3615 669 5439 1681 1762 11628 5994 9559 1391 5994 2218 11801 371 9810 1043 9146 9883 6009 745 1148 9559 669 5994 7336 6823 2658 13145 6385 4308 2658 1762 13029 </step>
+    <step num="1">14100 5994 213 371 8247 7969 669 5561 10187 636 13773 </step>
+    <step num="2">5791 11951 7969 5412 2237 6385 2327 5833 5312 3557 5046 5569 6285 3917 1043 10991 6009 8724 11951 4374 371 11951 7969 1802 8150 5833 5312 3557 2132 </step>
+    <step num="3">4124 1148 13305 10962 573 4255 5994 10765 213 13817 10654 1391 6216 7137 7831 7990 8008 8927 7811 55 13362 </step>
+    <step num="4">14006 11951 6435 5808 8583 6865 2597 10548 371 279 5808 </step>
+    <step num="5">9393 11951 374 279 13033 1391 11951 13832 9286 </step>
+    <step num="6">9679 2373 669 5994 8438 12854 7990 1194 </step>
+    <step num="7">8940 13817 12205 7956 </step>
+    <step num="8">6054 6385 7336 </step>
+    <step num="9">2062 4308 5569 14174 9499 635 636 371 13832 13033 13817 3917 12205 371 7956 13494 1391 5994 7374 371 8276 13033 13817 5994 9862 959 2519 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12595 5994 3725 11938 9883 636 3104 1827 371 6385 3615 669 5439 1681 1762 11628 5994 9559 1391 5994 2218 11801 371 9810 1043 9146 9883 6009 </steps_updated>
+    <steps_updated num="1">745 1148 9559 669 5994 7336 </steps_updated>
+    <steps_updated num="2">6823 2658 13145 6385 4308 2658 1762 13029 </steps_updated>
+    <steps_updated num="3">14100 5994 213 371 8247 7969 669 5561 10187 636 13773 </steps_updated>
+    <steps_updated num="4">5791 11951 7969 5412 2237 6385 2327 5833 5312 3557 5046 5569 6285 3917 1043 10991 6009 </steps_updated>
+    <steps_updated num="5">8724 11951 4374 371 11951 7969 1802 8150 5833 5312 3557 2132 </steps_updated>
+    <steps_updated num="6">4124 1148 13305 10962 573 4255 5994 10765 213 13817 10654 1391 6216 7137 7831 7990 8008 8927 7811 55 13362 </steps_updated>
+    <steps_updated num="7">14006 11951 6435 5808 </steps_updated>
+    <steps_updated num="8">8583 6865 2597 10548 371 279 5808 </steps_updated>
+    <steps_updated num="9">9393 11951 374 279 13033 1391 11951 13832 9286 </steps_updated>
+    <steps_updated num="10">9679 2373 669 5994 8438 12854 7990 1194 </steps_updated>
+    <steps_updated num="11">8940 13817 12205 7956 </steps_updated>
+    <steps_updated num="12">6054 6385 7336 </steps_updated>
+    <steps_updated num="13">2062 4308 5569 14174 9499 635 636 371 13832 13033 13817 3917 12205 371 7956 </steps_updated>
+    <steps_updated num="14">13494 1391 5994 7374 371 8276 13033 13817 5994 9862 959 2519 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Marshmallow S'mores Treats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/marshmallow-s-mores-treats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; graham cracker </ingredient>
+    <ingredient num="1">3 tablespoons ; butter </ingredient>
+    <ingredient num="2">10 oz ; marshmallow ; (300 g) </ingredient>
+    <ingredient num="3">3 cups ; chocolate, melted ; (680 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32023/low_1495125025.m3u8</low>
+    <high>https://vid.tasty.co/output/32023/mp4_720x1280/1495125025</high>
+  </video>
+  <steps>
+    <step num="0">Crush all graham crackers into large chunks. Around the size of a quarter works best. </step>
+    <step num="1">Microwave marshmallows and butter together in a large bowl for about two minutes, stopping to stir after one and a half minutes. Marshmallows should still be a little fluffy, but fully combined with the butter. </step>
+    <step num="2">Add graham crackers to marshmallows and mix until crackers are well coated. </step>
+    <step num="3">Place mixture in a large dish and spread evenly. </step>
+    <step num="4">Microwave chocolate chips for 60 seconds, stopping after 30 seconds to check and stir. If still not melted, microwave in 15 second increments until melted. </step>
+    <step num="5">Cover with melted chocolate. </step>
+    <step num="6">Cut into equal pieces. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Crush all graham crackers into large chunks. </steps_updated>
+    <steps_updated num="1">Around the size of a quarter works best. </steps_updated>
+    <steps_updated num="2">Microwave marshmallows and butter together in a large bowl for about two minutes, stopping to stir after one and a half minutes. </steps_updated>
+    <steps_updated num="3">Marshmallows should still be a little fluffy, but fully combined with the butter. </steps_updated>
+    <steps_updated num="4">Add graham crackers to marshmallows and mix until crackers are well coated. </steps_updated>
+    <steps_updated num="5">Place mixture in a large dish and spread evenly. </steps_updated>
+    <steps_updated num="6">Microwave chocolate chips for 60 seconds, stopping after 30 seconds to check and stir. </steps_updated>
+    <steps_updated num="7">If still not melted, microwave in 15 second increments until melted. </steps_updated>
+    <steps_updated num="8">Cover with melted chocolate. </steps_updated>
+    <steps_updated num="9">Cut into equal pieces. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Winter Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-winter-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/warm-winter-smoothies</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; red apple, cored and diced </ingredient>
+    <ingredient num="1">2 tablespoons ; gluten-free oats </ingredient>
+    <ingredient num="2">¼ teaspoon ; cinnamon </ingredient>
+    <ingredient num="3">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="4">½ tablespoon ; maple syrup </ingredient>
+    <ingredient num="5">1 cup ; milk, of choice ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Drinks</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117344/hls24_1543522574.m3u8</low>
+    <high>https://vid.tasty.co/output/117344/landscape_720/1543522574</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>48.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, combine the apple, oats, cinnamon, nutmeg, maple syrup, and milk. Blend on high speed for 3 minutes, or until completely smooth. </step>
+    <step num="1">Transfer the apple mixture to a small saucepan and heat over medium-low heat until just warmed through. Do not boil. </step>
+    <step num="2">Pour into a mug and serve immediately. </step>
+    <step num="3">Enjoy! </step>
+    <step num="4">Nutrition - Calories: 403, Total fat: 8 grams, Sodium: 133 mg, Total carbs: 72 grams, Dietary fiber: 9 grams, Sugars: 25 grams, Protein: 14 grams </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine the apple, oats, cinnamon, nutmeg, maple syrup, and milk. </steps_updated>
+    <steps_updated num="1">Blend on high speed for 3 minutes, or until completely smooth. </steps_updated>
+    <steps_updated num="2">Transfer the apple mixture to a small saucepan and heat over medium-low heat until just warmed through. </steps_updated>
+    <steps_updated num="3">Do not boil. </steps_updated>
+    <steps_updated num="4">Pour into a mug and serve immediately. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+    <steps_updated num="6">Nutrition - Calories: 403, Total fat: 8 grams, Sodium: 133 mg, Total carbs: 72 grams, Dietary fiber: 9 grams, Sugars: 25 grams, Protein: 14 grams </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Falafel Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/falafel-sliders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 oz ; chickpeas, 2 cans, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="1">1 cup ; red onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">½ cup ; fresh parsley ; (15 g) </ingredient>
+    <ingredient num="3">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="4">4 cloves ; garlic </ingredient>
+    <ingredient num="5">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="6">2 teaspoons ; cumin </ingredient>
+    <ingredient num="7">2 teaspoons ; coriander </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">olive oil, for greasing </ingredient>
+    <ingredient num="11">⅔ cup ; chickpeas ; (135 g) </ingredient>
+    <ingredient num="12">2 ; avocados </ingredient>
+    <ingredient num="13">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="14">2 cloves ; garlic </ingredient>
+    <ingredient num="15">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="16">¾ teaspoon ; salt </ingredient>
+    <ingredient num="17">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="18">½ cup ; tahini ; (250 g) </ingredient>
+    <ingredient num="19">⅓ cup ; water ; (80 mL) </ingredient>
+    <ingredient num="20">1 clove ; garlic, minced </ingredient>
+    <ingredient num="21">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="22">½ teaspoon ; salt </ingredient>
+    <ingredient num="23">12 ; slider buns </ingredient>
+    <ingredient num="24">12 slices ; tomato, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69017/hls24_1513704758.m3u8</low>
+    <high>https://vid.tasty.co/output/69017/landscape_720/1513704758</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">Add chickpeas, red onion, parsley, flour, garlic, lemon juice, cumin, coriander, salt and pepper to food processor and blend until smooth. </step>
+    <step num="2">Grease a 18x13-inch (46x33-cm) baking sheet with olive oil. Use a spatula to transfer falafel mixture to the pan. </step>
+    <step num="3">Using spatula and your hands, form the falafel mixture into a rectangle that is roughly the size of the slider buns. </step>
+    <step num="4">Bake falafel for 20-25 minutes or until crispy, flipping halfway through. </step>
+    <step num="5">For the avocado hummus, add avocados, chickpeas, garlic, olive oil, lemon juice, salt and pepper to food processor and blend until chunky. </step>
+    <step num="6">For the tahini sauce, whisk together tahini, water, garlic, lemon juice, salt and pepper in small mixing bowl. </step>
+    <step num="7">Keeping slider buns attached, cut them in half lengthwise with a serrated knife. Remove top half and set aside. </step>
+    <step num="8">When falafel is done baking, remove from oven and place on top of bottom half of slider buns. </step>
+    <step num="9">Top falafel with one layer of avocado hummus, followed by one layer of tomatoes. Drizzle with tahini sauce. </step>
+    <step num="10">Cover with top half of slider buns and cut into 12 sliders. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Add chickpeas, red onion, parsley, flour, garlic, lemon juice, cumin, coriander, salt and pepper to food processor and blend until smooth. </steps_updated>
+    <steps_updated num="2">Grease a 18x13-inch (46x33-cm) baking sheet with olive oil. </steps_updated>
+    <steps_updated num="3">Use a spatula to transfer falafel mixture to the pan. </steps_updated>
+    <steps_updated num="4">Using spatula and your hands, form the falafel mixture into a rectangle that is roughly the size of the slider buns. </steps_updated>
+    <steps_updated num="5">Bake falafel for 20-25 minutes or until crispy, flipping halfway through. </steps_updated>
+    <steps_updated num="6">For the avocado hummus, add avocados, chickpeas, garlic, olive oil, lemon juice, salt and pepper to food processor and blend until chunky. </steps_updated>
+    <steps_updated num="7">For the tahini sauce, whisk together tahini, water, garlic, lemon juice, salt and pepper in small mixing bowl. </steps_updated>
+    <steps_updated num="8">Keeping slider buns attached, cut them in half lengthwise with a serrated knife. </steps_updated>
+    <steps_updated num="9">Remove top half and set aside. </steps_updated>
+    <steps_updated num="10">When falafel is done baking, remove from oven and place on top of bottom half of slider buns. </steps_updated>
+    <steps_updated num="11">Top falafel with one layer of avocado hummus, followed by one layer of tomatoes. </steps_updated>
+    <steps_updated num="12">Drizzle with tahini sauce. </steps_updated>
+    <steps_updated num="13">Cover with top half of slider buns and cut into 12 sliders. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

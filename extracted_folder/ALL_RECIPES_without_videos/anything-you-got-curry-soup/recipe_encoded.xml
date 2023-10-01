@@ -1,0 +1,49 @@
+<recipe>
+  <title>Anything-You-Got Curry Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/anything-you-got-curry-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 4168 5766 </ingredient>
+    <ingredient num="1">3917 13278 13757 11091 12384 341 </ingredient>
+    <ingredient num="2">3917 14014 13278 6209 14635 10015 </ingredient>
+    <ingredient num="3">2933 13278 4387 10015 </ingredient>
+    <ingredient num="4">3855 12610 560 11567 </ingredient>
+    <ingredient num="5">10986 560 11567 </ingredient>
+    <ingredient num="6">3917 14014 13278 1368 4834 </ingredient>
+    <ingredient num="7">8580 9486 13278 11088 13056 </ingredient>
+    <ingredient num="8">13086 9486 13278 8083 11210 30 </ingredient>
+    <ingredient num="9">8580 9517 13278 3367 11486 6817 3962 13278 14577 5981 </ingredient>
+    <ingredient num="10">13347 643 13278 6742 5802 13278 892 8007 </ingredient>
+    <ingredient num="11">6209 14303 371 4399 7990 4711 </ingredient>
+    <ingredient num="12">6209 11925 371 4399 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124770/hls24_1550019784.m3u8</low>
+    <high>https://vid.tasty.co/output/124770/landscape_720/1550019784</high>
+  </video>
+  <steps>
+    <step num="0">8889 11951 4168 5766 210 5994 2597 10083 11770 3996 2082 9179 11951 12384 14635 4155 12610 13817 10986 2550 7990 6285 13086 11004 1681 11951 11453 13824 560 12418 13817 13593 9708 </step>
+    <step num="1">9179 11951 1368 6145 948 13817 11210 30 13817 6142 560 6798 11951 9044 264 1681 11951 2373 9490 13223 13817 10586 560 9609 6285 2933 12689 </step>
+    <step num="2">9179 11951 13233 13817 6742 9529 12473 560 4120 13817 14238 560 5994 11714 9956 12859 510 2864 11951 7855 560 11286 13817 11779 1681 11951 13233 12573 1910 6285 5527 12689 6054 6781 11951 2082 </step>
+    <step num="3">8225 11951 1171 669 1066 13817 4711 1391 10569 284 13817 656 1762 11628 4255 1716 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 11951 4168 5766 210 5994 2597 10083 11770 3996 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 12384 14635 4155 12610 13817 10986 2550 7990 6285 13086 11004 1681 11951 11453 13824 560 12418 13817 13593 9708 </steps_updated>
+    <steps_updated num="2">9179 11951 1368 6145 948 13817 11210 30 13817 6142 560 6798 11951 9044 </steps_updated>
+    <steps_updated num="3">264 1681 11951 2373 9490 13223 13817 10586 560 9609 6285 2933 12689 </steps_updated>
+    <steps_updated num="4">9179 11951 13233 13817 6742 9529 </steps_updated>
+    <steps_updated num="5">12473 560 4120 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="6">9956 12859 510 2864 11951 7855 560 11286 13817 11779 1681 11951 13233 12573 1910 6285 5527 12689 </steps_updated>
+    <steps_updated num="7">6054 6781 11951 2082 </steps_updated>
+    <steps_updated num="8">8225 11951 1171 669 1066 13817 4711 1391 10569 284 13817 656 1762 11628 4255 1716 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

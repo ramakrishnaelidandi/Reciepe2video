@@ -1,0 +1,47 @@
+<recipe>
+  <title>Banana Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-healthier-banana-swap-outs</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 959 </ingredient>
+    <ingredient num="1">3917 5228 13278 8630 10968 </ingredient>
+    <ingredient num="2">12791 2605 13278 12282 13278 13125 8007 </ingredient>
+    <ingredient num="3">8580 13278 12708 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14770/low_1479239773.m3u8</low>
+    <high>https://vid.tasty.co/output/14770/mp4_720x1280/1479239773</high>
+  </video>
+  <duration>
+    <start_time>1.33</start_time>
+    <end_time>32.33</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 5651 14522 </step>
+    <step num="1">10950 5994 2597 14511 12833 11951 959 1681 7412 4725 </step>
+    <step num="2">9179 11951 374 11907 560 11951 12377 13817 10968 1681 9456 </step>
+    <step num="3">1083 11951 10968 669 5994 2362 4698 10614 7449 5661 10765 10590 </step>
+    <step num="4">7831 7990 13133 12689 </step>
+    <step num="5">12251 560 10694 7990 2933 12689 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5651 14522 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 12833 11951 959 1681 7412 4725 </steps_updated>
+    <steps_updated num="2">9179 11951 374 11907 560 11951 12377 13817 10968 1681 9456 </steps_updated>
+    <steps_updated num="3">1083 11951 10968 669 5994 2362 4698 10614 7449 5661 10765 10590 </steps_updated>
+    <steps_updated num="4">7831 7990 13133 12689 </steps_updated>
+    <steps_updated num="5">12251 560 10694 7990 2933 12689 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Veggies and Couscous Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-veggies-and-couscous</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; potatoes, cubed </ingredient>
+    <ingredient num="1">½ head ; broccoli, cut into florets </ingredient>
+    <ingredient num="2">1 ; red bell pepper, seeded and chopped </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 tablespoon ; dried parsley </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">3 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="8">½ cup ; parmesan cheese ; (50 g) </ingredient>
+    <ingredient num="9">1 cup ; couscous, cooked ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15784/low_1479925898.m3u8</low>
+    <high>https://vid.tasty.co/output/15784/mp4_720x1280/1479925898</high>
+  </video>
+  <steps>
+    <step num="0">Lay out the potatoes, broccoli florets, and red pepper on a baking tray. </step>
+    <step num="1">Coat with the garlic powder, parsley, salt, pepper, and olive oil and mix together. </step>
+    <step num="2">Bake in the oven for 25 minutes at 350˚F (180°C). </step>
+    <step num="3">Coat with the parmesan. </step>
+    <step num="4">Mix together with the cooked couscous and olive oil. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Lay out the potatoes, broccoli florets, and red pepper on a baking tray. </steps_updated>
+    <steps_updated num="1">Coat with the garlic powder, parsley, salt, pepper, and olive oil and mix together. </steps_updated>
+    <steps_updated num="2">Bake in the oven for 25 minutes at 350˚F (180°C). </steps_updated>
+    <steps_updated num="3">Coat with the parmesan. </steps_updated>
+    <steps_updated num="4">Mix together with the cooked couscous and olive oil. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<recipe>
+  <title>Peking Duck-Inspired Burrito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peking-duck-inspired-burrito</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 9913 7678 </ingredient>
+    <ingredient num="1">3917 14014 13278 7632 3141 560 2550 </ingredient>
+    <ingredient num="2">12791 8071 13278 12610 341 </ingredient>
+    <ingredient num="3">8580 13667 13278 11384 </ingredient>
+    <ingredient num="4">3917 8071 13278 11691 2260 </ingredient>
+    <ingredient num="5">3917 8071 13278 7706 13538 </ingredient>
+    <ingredient num="6">3917 8071 13278 4849 11703 </ingredient>
+    <ingredient num="7">11948 3745 </ingredient>
+    <ingredient num="8">10837 560 11567 </ingredient>
+    <ingredient num="9">6293 560 11567 </ingredient>
+    <ingredient num="10">1851 7280 560 11567 </ingredient>
+    <ingredient num="11">890 11237 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Dinner</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32130/low_1495125357.m3u8</low>
+    <high>https://vid.tasty.co/output/32130/mp4_720x1280/1495125357</high>
+  </video>
+  <steps>
+    <step num="0">5570 9913 376 210 5687 560 3833 </step>
+    <step num="1">14137 7632 12610 4155 11691 7280 7706 8286 13817 4849 11703 669 11951 9913 2776 1828 3557 7162 7990 238 12689 </step>
+    <step num="2">9179 797 1184 371 5766 560 5994 6222 10060 11770 13757 2082 9179 11951 9913 7678 930 11801 258 2550 1681 11951 930 9490 870 13817 12019 5494 13176 3386 560 1882 11004 10013 4255 12313 12445 </step>
+    <step num="3">11423 11951 9913 5833 930 11801 9490 8857 5570 11951 10060 1896 11951 13148 7990 7460 8927 560 4689 5898 11951 1012 4872 148 11155 560 6870 11951 1012 </step>
+    <step num="4">6054 6781 10439 13817 3945 3557 12886 7990 7460 8927 432 10153 </step>
+    <step num="5">2988 1851 2260 11770 11951 890 6640 11826 4255 11951 11948 9913 4743 6367 13817 8278 </step>
+    <step num="6">5791 3557 8554 8857 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 9913 376 210 5687 560 3833 </steps_updated>
+    <steps_updated num="1">14137 7632 12610 4155 11691 7280 7706 8286 13817 4849 11703 669 11951 9913 2776 </steps_updated>
+    <steps_updated num="2">1828 3557 7162 7990 238 12689 </steps_updated>
+    <steps_updated num="3">9179 797 1184 </steps_updated>
+    <steps_updated num="4">371 5766 560 5994 6222 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">9179 11951 9913 7678 930 11801 258 2550 1681 11951 930 9490 870 13817 12019 5494 13176 3386 560 1882 11004 10013 4255 12313 12445 </steps_updated>
+    <steps_updated num="6">11423 11951 9913 5833 930 11801 9490 8857 </steps_updated>
+    <steps_updated num="7">5570 11951 10060 1896 11951 13148 7990 7460 8927 560 4689 5898 11951 1012 </steps_updated>
+    <steps_updated num="8">4872 148 11155 560 6870 11951 1012 </steps_updated>
+    <steps_updated num="9">6054 6781 10439 13817 3945 3557 12886 7990 7460 8927 432 10153 </steps_updated>
+    <steps_updated num="10">2988 1851 2260 11770 11951 890 6640 11826 4255 11951 11948 9913 4743 6367 13817 8278 </steps_updated>
+    <steps_updated num="11">5791 3557 8554 8857 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

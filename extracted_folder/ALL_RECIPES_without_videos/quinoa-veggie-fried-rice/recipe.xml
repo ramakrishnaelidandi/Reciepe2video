@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Quinoa &amp; Veggie “Fried Rice” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/quinoa-veggie-fried-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; quinoa, uncooked ; (170 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="3">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="4">8 oz ; mushroom ; (225 g) </ingredient>
+    <ingredient num="5">12 oz ; broccoli floret ; (340 g) </ingredient>
+    <ingredient num="6">2 ; medium carrots, sliced </ingredient>
+    <ingredient num="7">1 cup ; pea ; (150 g) </ingredient>
+    <ingredient num="8">2 ; eggs </ingredient>
+    <ingredient num="9">4 tablespoons ; reduced sodium soy sauce </ingredient>
+    <ingredient num="10">2 cups ; water ; (470 mL) </ingredient>
+    <ingredient num="11">2 ; scallions, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Latin American</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11066/low_1475174539.m3u8</low>
+    <high>https://vid.tasty.co/output/11066/mp4_720x1280/1475174539</high>
+  </video>
+  <steps>
+    <step num="0">In a medium pot, cook quinoa according to package instructions in 2 cups of water. Once cooked, fluff with a fork, then set aside. </step>
+    <step num="1">In a large pan, heat oil, then sauté garlic and ginger until fragrant. </step>
+    <step num="2">Add mushrooms, broccoli, and carrots. Stir until vegetables are tender. </step>
+    <step num="3">Return cooked quinoa to the pan. Add peas and stir until well-mixed. </step>
+    <step num="4">Create a space in the middle of the pan, add the eggs and scramble. Once the egg is cooked, stir it in with the rest of the dish. </step>
+    <step num="5">Add the soy sauce and give the dish a final stir. Serve while hot. Garnish with sliced scallions (optional). </step>
+    <step num="6">Serve while hot. Garnish with sliced scallions (optional). </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium pot, cook quinoa according to package instructions in 2 cups of water. </steps_updated>
+    <steps_updated num="1">Once cooked, fluff with a fork, then set aside. </steps_updated>
+    <steps_updated num="2">In a large pan, heat oil, then sauté garlic and ginger until fragrant. </steps_updated>
+    <steps_updated num="3">Add mushrooms, broccoli, and carrots. </steps_updated>
+    <steps_updated num="4">Stir until vegetables are tender. </steps_updated>
+    <steps_updated num="5">Return cooked quinoa to the pan. </steps_updated>
+    <steps_updated num="6">Add peas and stir until well-mixed. </steps_updated>
+    <steps_updated num="7">Create a space in the middle of the pan, add the eggs and scramble. </steps_updated>
+    <steps_updated num="8">Once the egg is cooked, stir it in with the rest of the dish. </steps_updated>
+    <steps_updated num="9">Add the soy sauce and give the dish a final stir. </steps_updated>
+    <steps_updated num="10">Serve while hot. </steps_updated>
+    <steps_updated num="11">Garnish with sliced scallions (optional). </steps_updated>
+    <steps_updated num="12">Serve while hot. </steps_updated>
+    <steps_updated num="13">Garnish with sliced scallions (optional). </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Basil Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-basil-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ ; onion, finely chopped </ingredient>
+    <ingredient num="1">2 cloves ; garlic, crushed </ingredient>
+    <ingredient num="2">½ cup ; baby plum tomato, halved or regular tomatoes chopped into small bits ; (100 g) </ingredient>
+    <ingredient num="3">⅓ cup ; fresh basil, chopped, plus a few sprigs to decorate ; (15 g) </ingredient>
+    <ingredient num="4">⅓ cup ; fresh parsley, chopped ; (15 g) </ingredient>
+    <ingredient num="5">5 oz ; linguine, or spaghetti ; (150 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">1 pinch ; crushed chillies </ingredient>
+    <ingredient num="9">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="10">2 ½ cups ; cold water ; (600 mL) </ingredient>
+    <ingredient num="11">parmesan cheese, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31866/low_1495124937.m3u8</low>
+    <high>https://vid.tasty.co/output/31866/mp4_720x1280/1495124937</high>
+  </video>
+  <steps>
+    <step num="0">Place all of the ingredients except for the parmesan into a large pot. Cook on a high heat for 2 minutes, submerging the spaghetti into the water once it’s softened enough. </step>
+    <step num="1">Lower the temperature to a medium/low heat and toss and stir continuously until the liquid reduces down into a thick sauce. serve with more fresh basil and top with parmesan. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place all of the ingredients except for the parmesan into a large pot. </steps_updated>
+    <steps_updated num="1">Cook on a high heat for 2 minutes, submerging the spaghetti into the water once it’s softened enough. </steps_updated>
+    <steps_updated num="2">Lower the temperature to a medium/low heat and toss and stir continuously until the liquid reduces down into a thick sauce. </steps_updated>
+    <steps_updated num="3">serve with more fresh basil and top with parmesan. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

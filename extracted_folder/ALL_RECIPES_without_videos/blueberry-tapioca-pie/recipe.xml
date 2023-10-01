@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Tapioca Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-tapioca-pie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-pies-around-the-us</comp_url>
+  <ingredients>
+    <ingredient num="0">7 tablespoons ; sugar, divided </ingredient>
+    <ingredient num="1">1 tablespoon ; all-purpose flour </ingredient>
+    <ingredient num="2">2 tablespoons ; tapioca granules </ingredient>
+    <ingredient num="3">4 cups ; fresh blueberry ; (400 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="5">2 ; premade pie crusts </ingredient>
+    <ingredient num="6">1 tablespoon ; milk </ingredient>
+    <ingredient num="7">vanilla ice cream, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/116404/hls24_1542764234.m3u8</low>
+    <high>https://vid.tasty.co/output/116404/landscape_720/1542764234</high>
+  </video>
+  <duration>
+    <start_time>8.0</start_time>
+    <end_time>107.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425˚F (220˚C). </step>
+    <step num="1">In a medium bowl, combine 6 tablespoons of sugar, the flour, and tapioca granules. </step>
+    <step num="2">Sprinkle the sugar mixture over the blueberries in a large bowl. Add the lemon juice and stir to combine. </step>
+    <step num="3">Line an 8-inch (20-cm) metal pie tin with 1 of the pie crusts. </step>
+    <step num="4">Spoon the blueberry mixture into the crust. Place the other crust on top. Press the edges of the crusts together with a fork and trim any excess dough around the sides with scissors. </step>
+    <step num="5">Brush the milk over the top crust and sprinkle with the remaining tablespoon of sugar. Cut a few slits in the top to release steam as the pie bakes. </step>
+    <step num="6">Bake the pie for 15 minutes, then reduce the oven temperature to 350˚F (180˚C) and bake for 30-35 minutes more, until the crust is golden brown and the filling is bubbling. </step>
+    <step num="7">Cool the pie on a wire rack for at least 2 hours to let the filling set. </step>
+    <step num="8">Slice and serve with ice cream. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">In a medium bowl, combine 6 tablespoons of sugar, the flour, and tapioca granules. </steps_updated>
+    <steps_updated num="2">Sprinkle the sugar mixture over the blueberries in a large bowl. </steps_updated>
+    <steps_updated num="3">Add the lemon juice and stir to combine. </steps_updated>
+    <steps_updated num="4">Line an 8-inch (20-cm) metal pie tin with 1 of the pie crusts. </steps_updated>
+    <steps_updated num="5">Spoon the blueberry mixture into the crust. </steps_updated>
+    <steps_updated num="6">Place the other crust on top. </steps_updated>
+    <steps_updated num="7">Press the edges of the crusts together with a fork and trim any excess dough around the sides with scissors. </steps_updated>
+    <steps_updated num="8">Brush the milk over the top crust and sprinkle with the remaining tablespoon of sugar. </steps_updated>
+    <steps_updated num="9">Cut a few slits in the top to release steam as the pie bakes. </steps_updated>
+    <steps_updated num="10">Bake the pie for 15 minutes, then reduce the oven temperature to 350˚F (180˚C) and bake for 30-35 minutes more, until the crust is golden brown and the filling is bubbling. </steps_updated>
+    <steps_updated num="11">Cool the pie on a wire rack for at least 2 hours to let the filling set. </steps_updated>
+    <steps_updated num="12">Slice and serve with ice cream. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

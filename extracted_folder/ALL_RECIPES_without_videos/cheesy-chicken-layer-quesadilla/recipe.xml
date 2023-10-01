@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Chicken Layer Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-chicken-layer-quesadilla</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; shredded chicken ; (250 g) </ingredient>
+    <ingredient num="1">1 cup ; black beans ; (170 g) </ingredient>
+    <ingredient num="2">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="3">1 jar ; salsa </ingredient>
+    <ingredient num="4">1 cup ; shredded cheese blend ; (100 g) </ingredient>
+    <ingredient num="5">4 ; large flour tortillas </ingredient>
+    <ingredient num="6">sour cream </ingredient>
+    <ingredient num="7">guacamole </ingredient>
+    <ingredient num="8">salsa </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25033/low_1488233567.m3u8</low>
+    <high>https://vid.tasty.co/output/25033/mp4_720x1280/1488233567</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">In a large pan over medium heat, cook the chicken, beans, corn, and salsa. </step>
+    <step num="2">In a springform pan, lay down one tortilla, then top with chicken mixture and cheese. </step>
+    <step num="3">Layer another tortilla on top and continue to stack until pan is full. </step>
+    <step num="4">Top with more cheese. </step>
+    <step num="5">Bake for 30 minutes or until cheese is melted. </step>
+    <step num="6">Top with sour cream, guacamole, and salsa. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a large pan over medium heat, cook the chicken, beans, corn, and salsa. </steps_updated>
+    <steps_updated num="2">In a springform pan, lay down one tortilla, then top with chicken mixture and cheese. </steps_updated>
+    <steps_updated num="3">Layer another tortilla on top and continue to stack until pan is full. </steps_updated>
+    <steps_updated num="4">Top with more cheese. </steps_updated>
+    <steps_updated num="5">Bake for 30 minutes or until cheese is melted. </steps_updated>
+    <steps_updated num="6">Top with sour cream, guacamole, and salsa. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

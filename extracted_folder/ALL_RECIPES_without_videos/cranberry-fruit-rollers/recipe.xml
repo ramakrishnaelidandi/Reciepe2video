@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cranberry Fruit Rollers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cranberry-fruit-rollers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fall-flavored-fruit-rollers</comp_url>
+  <ingredients>
+    <ingredient num="0">10 oz ; fresh cranberries ; (285 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="2">2 teaspoons ; lemon zest </ingredient>
+    <ingredient num="3">½ cup ; maple syrup ; (170 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111266/hls24_1538670683.m3u8</low>
+    <high>https://vid.tasty.co/output/111266/landscape_720/1538670683</high>
+  </video>
+  <duration>
+    <start_time>2.833</start_time>
+    <end_time>29.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 170°F (80°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">In a food processor, combine the cranberries, lemon juice, lemon zest, and maple syrup. Process until smooth. </step>
+    <step num="2">Spread the puree on the prepared baking sheet into an 8x11-inch (20x28 cm) rectangle about ¹⁄₁₆ inch (1 mm) thick. </step>
+    <step num="3">Bake for 6 hours, or until no longer sticky to the touch. Let cool completely. </step>
+    <step num="4">Roll the fruit sheet in the parchment paper. Trim the ends, then slice crosswise into 1-inch (2 cm) pieces. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 170°F (80°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">In a food processor, combine the cranberries, lemon juice, lemon zest, and maple syrup. </steps_updated>
+    <steps_updated num="3">Process until smooth. </steps_updated>
+    <steps_updated num="4">Spread the puree on the prepared baking sheet into an 8x11-inch (20x28 cm) rectangle about ¹⁄₁₆ inch (1 mm) thick. </steps_updated>
+    <steps_updated num="5">Bake for 6 hours, or until no longer sticky to the touch. </steps_updated>
+    <steps_updated num="6">Let cool completely. </steps_updated>
+    <steps_updated num="7">Roll the fruit sheet in the parchment paper. </steps_updated>
+    <steps_updated num="8">Trim the ends, then slice crosswise into 1-inch (2 cm) pieces. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

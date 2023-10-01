@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Penne Alla Vodka Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/penne-alla-vodka</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-italian-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">8 oz ; penne pasta, cooked ; (230 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">½ ; white onion, diced </ingredient>
+    <ingredient num="3">1 clove ; garlic, minced </ingredient>
+    <ingredient num="4">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="5">1 teaspoon ; dried basil </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">½ cup ; vodka ; (120 mL) </ingredient>
+    <ingredient num="8">1 ½ cups ; tomato sauce ; (390 g) </ingredient>
+    <ingredient num="9">½ cup ; heavy cream ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22789/low_1485992761.m3u8</low>
+    <high>https://vid.tasty.co/output/22789/mp4_720x1280/1485992761</high>
+  </video>
+  <duration>
+    <start_time>35.00</start_time>
+    <end_time>75.00</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat 1 tablespoon of olive oil in a large skillet. </step>
+    <step num="1">Add onion and 1 clove of garlic, and cook until onions are translucent. </step>
+    <step num="2">Add tomato sauce and mix to combine with onion and garlic. </step>
+    <step num="3">Add vodka, dried basil, red pepper flakes, and salt. Let this to simmer for 2 minutes to allow most of the alcohol to burn off. </step>
+    <step num="4">Add heavy cream and stir until fully combined. The sauce will turn into a beautiful light orange creamy mixture. </step>
+    <step num="5">Add cooked pasta to vodka sauce and mix until noodles are fully coated in sauce. </step>
+    <step num="6">Cover with a lid and let simmer for 5 minutes or until the sauce has reduced by half. </step>
+    <step num="7">Garnish with basil. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat 1 tablespoon of olive oil in a large skillet. </steps_updated>
+    <steps_updated num="1">Add onion and 1 clove of garlic, and cook until onions are translucent. </steps_updated>
+    <steps_updated num="2">Add tomato sauce and mix to combine with onion and garlic. </steps_updated>
+    <steps_updated num="3">Add vodka, dried basil, red pepper flakes, and salt. </steps_updated>
+    <steps_updated num="4">Let this to simmer for 2 minutes to allow most of the alcohol to burn off. </steps_updated>
+    <steps_updated num="5">Add heavy cream and stir until fully combined. </steps_updated>
+    <steps_updated num="6">The sauce will turn into a beautiful light orange creamy mixture. </steps_updated>
+    <steps_updated num="7">Add cooked pasta to vodka sauce and mix until noodles are fully coated in sauce. </steps_updated>
+    <steps_updated num="8">Cover with a lid and let simmer for 5 minutes or until the sauce has reduced by half. </steps_updated>
+    <steps_updated num="9">Garnish with basil. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated> 
+</recipe>

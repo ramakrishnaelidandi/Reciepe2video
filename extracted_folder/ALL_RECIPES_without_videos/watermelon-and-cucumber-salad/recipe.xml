@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Watermelon And Cucumber Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-and-cucumber-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; large watermelon, diced </ingredient>
+    <ingredient num="1">1 ; cucumber, diced </ingredient>
+    <ingredient num="2">1 ; red onion, chopped </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">feta cheese, to taste </ingredient>
+    <ingredient num="5">⅓ cup ; balsamic vinegar ; (80 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+    <category num="9">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46435/low_1502138501.m3u8</low>
+    <high>https://vid.tasty.co/output/46435/mp4_720x1280/1502138501</high>
+  </video>
+  <steps>
+    <step num="0">Cut a large watermelon in half lengthwise. </step>
+    <step num="1">Dice half of the watermelon and save the rind for later. </step>
+    <step num="2">Place watermelon, cucumber, red onion, salt, and balsamic vinegar into large bowl and mix together. </step>
+    <step num="3">Pour salad into hollowed out watermelon rind (optional). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut a large watermelon in half lengthwise. </steps_updated>
+    <steps_updated num="1">Dice half of the watermelon and save the rind for later. </steps_updated>
+    <steps_updated num="2">Place watermelon, cucumber, red onion, salt, and balsamic vinegar into large bowl and mix together. </steps_updated>
+    <steps_updated num="3">Pour salad into hollowed out watermelon rind (optional). </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

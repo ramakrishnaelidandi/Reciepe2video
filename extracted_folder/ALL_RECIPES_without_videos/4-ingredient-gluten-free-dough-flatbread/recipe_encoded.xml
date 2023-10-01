@@ -1,0 +1,41 @@
+<recipe>
+  <title>4-Ingredient Gluten-Free Dough Flatbread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/4-ingredient-gluten-free-dough-flatbread</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-gluten-free-dough</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12773 9767 3713 13278 13113 5981 </ingredient>
+    <ingredient num="1">8580 9517 13278 4933 890 2625 7789 3954 7990 8533 13278 10339 5981 </ingredient>
+    <ingredient num="2">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="3">12610 2658 13218 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91699/hls24_1524864789.m3u8</low>
+    <high>https://vid.tasty.co/output/91699/landscape_720/1524864789</high>
+  </video>
+  <duration>
+    <start_time>73.333</start_time>
+    <end_time>101.966</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 10968 3626 11951 2694 4933 890 2625 10765 8117 13817 82 1681 5994 8337 11836 </step>
+    <step num="1">12785 11951 8337 560 5994 11869 12605 13817 2890 669 2237 10329 828 1645 11043 </step>
+    <step num="2">14100 11951 10029 669 4061 14311 1649 13817 2890 10763 8162 560 6285 12791 2985 1745 51 13025 </step>
+    <step num="3">706 13260 10231 11951 8337 13009 560 5994 9637 5687 11853 11770 13757 2082 </step>
+    <step num="4">264 10763 11801 371 11951 4346 1681 3145 506 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 10968 3626 11951 2694 4933 890 2625 10765 8117 13817 82 1681 5994 8337 11836 </steps_updated>
+    <steps_updated num="1">12785 11951 8337 560 5994 11869 12605 13817 2890 669 2237 10329 828 1645 11043 </steps_updated>
+    <steps_updated num="2">14100 11951 10029 669 4061 14311 1649 13817 2890 10763 8162 560 6285 12791 2985 1745 51 13025 </steps_updated>
+    <steps_updated num="3">706 13260 10231 11951 8337 13009 560 5994 9637 5687 11853 11770 13757 2082 </steps_updated>
+    <steps_updated num="4">264 10763 11801 371 11951 4346 1681 3145 506 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

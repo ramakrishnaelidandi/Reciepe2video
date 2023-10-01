@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vietnamese Coffee Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vietnamese-coffee</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-asian-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; ground chicory coffee </ingredient>
+    <ingredient num="1">2 tablespoons ; sweetened condensed milk </ingredient>
+    <ingredient num="2">1 cup ; hot water ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vietnamese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96714/hls24_1527806756.m3u8</low>
+    <high>https://vid.tasty.co/output/96714/landscape_720/1527806756</high>
+  </video>
+  <duration>
+    <start_time>64.0</start_time>
+    <end_time>88.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour the ground coffee into a Vietnamese phin filter base. Place the phin filter strainer on top of the coffee. </step>
+    <step num="1">Pour the sweetened condensed milk into a glass. </step>
+    <step num="2">Place the phin assembly on top of the glass. Pour hot water into the phin filter. Place the phin filter lid on top and let the coffee drip through the filter into the glass. </step>
+    <step num="3">Stir well before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the ground coffee into a Vietnamese phin filter base. </steps_updated>
+    <steps_updated num="1">Place the phin filter strainer on top of the coffee. </steps_updated>
+    <steps_updated num="2">Pour the sweetened condensed milk into a glass. </steps_updated>
+    <steps_updated num="3">Place the phin assembly on top of the glass. </steps_updated>
+    <steps_updated num="4">Pour hot water into the phin filter. </steps_updated>
+    <steps_updated num="5">Place the phin filter lid on top and let the coffee drip through the filter into the glass. </steps_updated>
+    <steps_updated num="6">Stir well before serving. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

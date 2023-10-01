@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Saltfish Buljol Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/saltfish-buljol</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/trinidadian-roti</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; salt cod fish ; (910 g) </ingredient>
+    <ingredient num="1">3 qt ; water ; (2 ½ L) </ingredient>
+    <ingredient num="2">3 ; lemons, quartered </ingredient>
+    <ingredient num="3">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="4">½ ; medium white onion, diced </ingredient>
+    <ingredient num="5">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">¼ cup ; fresh scallion, chopped ; (25 g) </ingredient>
+    <ingredient num="7">½ ; yellow bell pepper, diced </ingredient>
+    <ingredient num="8">½ ; orange bell pepper, diced </ingredient>
+    <ingredient num="9">1 cup ; tomato, chopped ; (200 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; fresh parsley </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+    <ingredient num="12">½ ; lime </ingredient>
+    <ingredient num="13">fresh cilantro, for garnish </ingredient>
+    <ingredient num="14">avocado, sliced, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81799/hls24_1519864109.m3u8</low>
+    <high>https://vid.tasty.co/output/81799/landscape_720/1519864109</high>
+  </video>
+  <duration>
+    <start_time>59.0</start_time>
+    <end_time>94.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Break the fish in pieces, removing any bones, and place in large saucepan with the water and lemons. Boil over medium-high heat for 10-15 minutes. </step>
+    <step num="1">Taste the fish at this point to check the salt level. If it is still too salty, repeat step 1. </step>
+    <step num="2">Drain and shred the fish with your fingers. </step>
+    <step num="3">Heat the oil in a large skillet over medium heat. Add the onion, garlic, scallions, bell peppers, tomatoes, and parsley, and cook for 1-2 minutes. </step>
+    <step num="4">Add the saltfish and cook for another 5 minutes. </step>
+    <step num="5">Season with black pepper and lime juice, and garnish with cilantro. Serve with sliced avocado. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Break the fish in pieces, removing any bones, and place in large saucepan with the water and lemons. </steps_updated>
+    <steps_updated num="1">Boil over medium-high heat for 10-15 minutes. </steps_updated>
+    <steps_updated num="2">Taste the fish at this point to check the salt level. </steps_updated>
+    <steps_updated num="3">If it is still too salty, repeat step 1. </steps_updated>
+    <steps_updated num="4">Drain and shred the fish with your fingers. </steps_updated>
+    <steps_updated num="5">Heat the oil in a large skillet over medium heat. </steps_updated>
+    <steps_updated num="6">Add the onion, garlic, scallions, bell peppers, tomatoes, and parsley, and cook for 1-2 minutes. </steps_updated>
+    <steps_updated num="7">Add the saltfish and cook for another 5 minutes. </steps_updated>
+    <steps_updated num="8">Season with black pepper and lime juice, and garnish with cilantro. </steps_updated>
+    <steps_updated num="9">Serve with sliced avocado. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01454</start_time>
+    <end_time>02261</end_time>
+  </duration_human>
+</recipe>

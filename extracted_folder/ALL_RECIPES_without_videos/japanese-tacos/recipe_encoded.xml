@@ -1,0 +1,56 @@
+<recipe>
+  <title>Japanese Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/japanese-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unique-recipes-for-taco-night</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 13278 10837 341 </ingredient>
+    <ingredient num="1">1580 13278 8848 341 </ingredient>
+    <ingredient num="2">8580 13278 10075 3962 </ingredient>
+    <ingredient num="3">3917 13278 8076 14635 3962 </ingredient>
+    <ingredient num="4">8580 13278 1670 4052 3962 </ingredient>
+    <ingredient num="5">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="6">8580 2031 13278 8596 </ingredient>
+    <ingredient num="7">3917 14014 13278 10769 </ingredient>
+    <ingredient num="8">12791 8071 13278 4834 </ingredient>
+    <ingredient num="9">4061 643 13278 11088 7983 13278 6518 5981 </ingredient>
+    <ingredient num="10">8580 9486 13278 1807 </ingredient>
+    <ingredient num="11">12610 560 11567 </ingredient>
+    <ingredient num="12">13584 10986 560 11567 </ingredient>
+    <ingredient num="13">3917 8071 13278 4985 12384 1088 976 </ingredient>
+    <ingredient num="14">4061 13278 5817 </ingredient>
+    <ingredient num="15">7334 560 1966 </ingredient>
+    <ingredient num="16">4061 13278 8602 7042 14432 </ingredient>
+    <ingredient num="17">3333 10865 13810 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108354/hls24_1536355321.m3u8</low>
+    <high>https://vid.tasty.co/output/108354/landscape_720/1536355321</high>
+  </video>
+  <duration>
+    <start_time>52.333</start_time>
+    <end_time>85.916</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 10837 8848 266 2139 14635 14543 11691 7280 10157 4450 13817 4834 560 5994 12377 13817 6183 596 </step>
+    <step num="1">8889 5994 5687 11770 13757 7855 13817 740 11951 7983 13817 10672 264 1681 6728 4860 10866 13817 3745 8119 </step>
+    <step num="2">9179 12610 13584 7845 13817 4985 12034 6985 2470 415 817 5292 </step>
+    <step num="3">5570 9227 4255 797 11801 371 11951 6640 415 10707 1391 12816 3917 9491 13817 4496 13494 1391 11951 5992 13817 1073 2373 13817 7475 9386 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 10837 8848 266 2139 14635 14543 11691 7280 10157 4450 13817 4834 560 5994 12377 13817 6183 596 </steps_updated>
+    <steps_updated num="1">8889 5994 5687 11770 13757 7855 13817 740 11951 7983 13817 10672 </steps_updated>
+    <steps_updated num="2">264 1681 6728 4860 10866 13817 3745 8119 </steps_updated>
+    <steps_updated num="3">9179 12610 13584 7845 13817 4985 12034 </steps_updated>
+    <steps_updated num="4">6985 2470 415 817 5292 </steps_updated>
+    <steps_updated num="5">5570 9227 4255 797 11801 371 11951 6640 415 10707 1391 12816 3917 9491 13817 4496 </steps_updated>
+    <steps_updated num="6">13494 1391 11951 5992 13817 1073 2373 13817 7475 9386 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

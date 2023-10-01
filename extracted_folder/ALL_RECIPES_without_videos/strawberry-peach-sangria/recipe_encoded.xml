@@ -1,0 +1,57 @@
+<recipe>
+  <title>Strawberry Peach Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-peach-sangria</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13133 13278 13873 </ingredient>
+    <ingredient num="1">8580 13278 12776 </ingredient>
+    <ingredient num="2">8580 9517 13278 12282 13278 6901 8007 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 4834 13278 1513 5981 </ingredient>
+    <ingredient num="4">3917 1460 13278 4617 8286 2189 </ingredient>
+    <ingredient num="5">9883 2605 13278 6160 13278 7642 8007 </ingredient>
+    <ingredient num="6">3917 1460 13278 2297 5895 11276 4617 8286 2189 </ingredient>
+    <ingredient num="7">2439 723 560 1780 </ingredient>
+    <ingredient num="8">13767 13278 7234 3141 7990 3020 976 </ingredient>
+    <ingredient num="9">8580 13278 4908 3141 7990 3020 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+    <category num="7">Happy Hour</category>
+    <category num="8">Casual Party</category>
+    <category num="9">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9436/low_1472666200.m3u8</low>
+    <high>https://vid.tasty.co/output/9436/mp4_720x1280/1472666200</high>
+  </video>
+  <steps>
+    <step num="0">13841 11951 4985 4091 371 11951 13873 13817 12205 11951 3233 </step>
+    <step num="1">10950 5994 7110 2319 4834 210 2019 </step>
+    <step num="2">9179 11951 13873 13817 3233 </step>
+    <step num="3">8785 560 5994 11526 1002 13817 2864 560 13757 2082 9731 7990 205 13133 11004 5895 1681 11951 13873 13593 9746 13817 11951 12776 12573 2021 </step>
+    <step num="4">8845 11951 6818 13817 173 7990 8580 13199 5895 1681 12429 13841 8571 11682 </step>
+    <step num="5">10950 5994 7961 4120 11951 13046 1285 976 3141 10884 4617 8286 13817 9931 </step>
+    <step num="6">4080 7990 928 14329 </step>
+    <step num="7">9679 6504 669 1754 1391 531 5406 3285 13817 10707 1391 9118 5895 11276 13493 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">13841 11951 4985 4091 371 11951 13873 13817 12205 11951 3233 </steps_updated>
+    <steps_updated num="1">10950 5994 7110 2319 4834 210 2019 </steps_updated>
+    <steps_updated num="2">9179 11951 13873 13817 3233 </steps_updated>
+    <steps_updated num="3">8785 560 5994 11526 1002 13817 2864 560 13757 2082 </steps_updated>
+    <steps_updated num="4">9731 7990 205 13133 11004 5895 1681 11951 13873 13593 9746 13817 11951 12776 12573 2021 </steps_updated>
+    <steps_updated num="5">8845 11951 6818 13817 173 7990 8580 13199 5895 1681 12429 </steps_updated>
+    <steps_updated num="6">13841 8571 11682 </steps_updated>
+    <steps_updated num="7">10950 5994 7961 4120 11951 13046 1285 976 3141 10884 4617 8286 13817 9931 </steps_updated>
+    <steps_updated num="8">4080 7990 928 14329 </steps_updated>
+    <steps_updated num="9">9679 6504 669 1754 1391 531 5406 3285 13817 10707 1391 9118 5895 11276 13493 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

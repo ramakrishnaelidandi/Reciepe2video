@@ -1,0 +1,59 @@
+<recipe>
+  <title>Mixed Vegetable Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mixed-vegetable-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 7601 </ingredient>
+    <ingredient num="1">3917 13278 10882 6817 4125 </ingredient>
+    <ingredient num="2">1580 3173 13278 2340 </ingredient>
+    <ingredient num="3">3917 13278 5425 4125 </ingredient>
+    <ingredient num="4">3917 8071 13278 12610 3247 </ingredient>
+    <ingredient num="5">1813 2605 13278 2431 109 14538 13278 4239 5981 </ingredient>
+    <ingredient num="6">1813 2605 13278 12956 1230 13278 6429 5981 </ingredient>
+    <ingredient num="7">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="8">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="9">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="10">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="11">3917 13278 6216 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34494/low_1497918025.m3u8</low>
+    <high>https://vid.tasty.co/output/34494/mp4_720x1280/1497918025</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">12474 5994 4669 8667 4019 11951 6753 10882 6817 5425 13817 2340 1391 5994 8646 14538 8761 </step>
+    <step num="2">12785 11951 2431 284 560 5994 13757 12377 13817 12616 1391 1580 8071 371 12051 9393 1681 3145 9456 </step>
+    <step num="3">1828 11951 284 1788 7990 5527 8927 1681 11951 82 7312 3729 2696 8177 371 11951 4149 </step>
+    <step num="4">12785 11951 2431 4068 669 5994 3895 1811 13817 10069 560 1746 2658 9741 881 2658 1762 8792 </step>
+    <step num="5">5570 11951 2431 4068 13352 669 5994 12377 13817 10968 1391 11951 6696 5094 10986 374 12610 6334 8117 11384 8117 8244 7632 13817 13784 9393 1681 3145 4309 </step>
+    <step num="6">745 11951 2373 669 5169 8811 4202 13817 10231 560 5994 3550 8797 10765 8800 </step>
+    <step num="7">7831 7990 1491 8927 5895 1681 4202 12573 10963 1240 9309 10763 14166 8119 </step>
+    <step num="8">12774 1391 12313 6507 371 7361 9286 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">12474 5994 4669 8667 4019 11951 6753 10882 6817 5425 13817 2340 1391 5994 8646 14538 8761 </steps_updated>
+    <steps_updated num="2">12785 11951 2431 284 560 5994 13757 12377 13817 12616 1391 1580 8071 371 12051 </steps_updated>
+    <steps_updated num="3">9393 1681 3145 9456 </steps_updated>
+    <steps_updated num="4">1828 11951 284 1788 7990 5527 8927 1681 11951 82 7312 3729 2696 8177 371 11951 4149 </steps_updated>
+    <steps_updated num="5">12785 11951 2431 4068 669 5994 3895 1811 13817 10069 560 1746 2658 9741 881 2658 1762 8792 </steps_updated>
+    <steps_updated num="6">5570 11951 2431 4068 13352 669 5994 12377 13817 10968 1391 11951 6696 5094 10986 374 12610 6334 8117 11384 8117 8244 7632 13817 13784 </steps_updated>
+    <steps_updated num="7">9393 1681 3145 4309 </steps_updated>
+    <steps_updated num="8">745 11951 2373 669 5169 8811 4202 13817 10231 560 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="9">7831 7990 1491 8927 5895 1681 4202 12573 10963 1240 9309 10763 14166 8119 </steps_updated>
+    <steps_updated num="10">12774 1391 12313 6507 371 7361 9286 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

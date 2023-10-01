@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Penne With Tomato Sauce Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/penne-with-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pantry-pastas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">½ ; medium onion, finely diced </ingredient>
+    <ingredient num="2">½ teaspoon ; red chili flakes </ingredient>
+    <ingredient num="3">1 clove ; garlic, minced </ingredient>
+    <ingredient num="4">14 oz ; crushed tomato, 1 can ; (395 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">½ lb ; penne pasta ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98211/hls24_1528823656.m3u8</low>
+    <high>https://vid.tasty.co/output/98211/landscape_720/1528823656</high>
+  </video>
+  <duration>
+    <start_time>8.666</start_time>
+    <end_time>44.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat a large sauté pan over medium heat. Add the olive oil and onion, and cook until the onion is translucent, 8-10 minutes. </step>
+    <step num="1">Add the chile flakes and garlic, and cook for another 2 minutes, until fragrant. Stir in tomatoes and simmer uncovered for 20 minutes. </step>
+    <step num="2">Bring a large pot of salted water to a boil. Cook the pasta according to package instructions. Save ½ cup (120 ml) of pasta water, then drain. </step>
+    <step num="3">Add the drained pasta to the sauce. Stir well, adding a little pasta water if needed to loosen the sauce. Season with salt to taste. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a large sauté pan over medium heat. </steps_updated>
+    <steps_updated num="1">Add the olive oil and onion, and cook until the onion is translucent, 8-10 minutes. </steps_updated>
+    <steps_updated num="2">Add the chile flakes and garlic, and cook for another 2 minutes, until fragrant. </steps_updated>
+    <steps_updated num="3">Stir in tomatoes and simmer uncovered for 20 minutes. </steps_updated>
+    <steps_updated num="4">Bring a large pot of salted water to a boil. </steps_updated>
+    <steps_updated num="5">Cook the pasta according to package instructions. </steps_updated>
+    <steps_updated num="6">Save ½ cup (120 ml) of pasta water, then drain. </steps_updated>
+    <steps_updated num="7">Add the drained pasta to the sauce. </steps_updated>
+    <steps_updated num="8">Stir well, adding a little pasta water if needed to loosen the sauce. </steps_updated>
+    <steps_updated num="9">Season with salt to taste. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

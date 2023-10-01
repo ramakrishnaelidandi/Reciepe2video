@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Summer De-Bloating Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/summer-de-bloating-smoothie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; frozen pineapple ; (165 g) </ingredient>
+    <ingredient num="1">1 ; frozen banana </ingredient>
+    <ingredient num="2">¼ ; english cucumber, cubed </ingredient>
+    <ingredient num="3">1 tablespoon ; pure matcha powder </ingredient>
+    <ingredient num="4">ginger root, 1 inch (2 1/2 cm) piece </ingredient>
+    <ingredient num="5">1 ¼ cups ; coconut water ; (295 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Drinks</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33380/low_1496448342.m3u8</low>
+    <high>https://vid.tasty.co/output/33380/mp4_720x1280/1496448342</high>
+  </video>
+  <steps>
+    <step num="0">Put all ingredients into a blender. </step>
+    <step num="1">Mix until smooth. Add more coconut water as needed. For a thicker consistency, add more ice. </step>
+    <step num="2">Serve and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put all ingredients into a blender. </steps_updated>
+    <steps_updated num="1">Mix until smooth. </steps_updated>
+    <steps_updated num="2">Add more coconut water as needed. </steps_updated>
+    <steps_updated num="3">For a thicker consistency, add more ice. </steps_updated>
+    <steps_updated num="4">Serve and enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

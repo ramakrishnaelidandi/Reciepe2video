@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cider Poached Pears Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cider-poached-pears</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; pear </ingredient>
+    <ingredient num="1">1 cup ; apple cider ; (250 mL) </ingredient>
+    <ingredient num="2">⅔ cup ; orange juice ; (150 mL) </ingredient>
+    <ingredient num="3">2 ; star anises </ingredient>
+    <ingredient num="4">1 ; cinnamon stick </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">2 tablespoons ; greek yogurt </ingredient>
+    <ingredient num="7">almond, a handful </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Date Night</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32133/low_1495125418.m3u8</low>
+    <high>https://vid.tasty.co/output/32133/mp4_720x1280/1495125418</high>
+  </video>
+  <steps>
+    <step num="0">Peel the pear, cut in half and core. </step>
+    <step num="1">Add the cider, orange juice, star anise, cinnamon stick and vanilla extract to a small to medium pan. </step>
+    <step num="2">Bring to boil, then reduce to a simmer. </step>
+    <step num="3">Add the pear halves and poach at a low-medium heat for 10-20 minutes (until you can stick a knife through with no resistance). </step>
+    <step num="4">Remove the pear halves when cooked. </step>
+    <step num="5">Reduce the rest of the mixture over a medium heat until it is a thicker glaze. </step>
+    <step num="6">Serve the pears with a dollop of greek yogurt, a handful of toasted almonds and the glaze. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the pear, cut in half and core. </steps_updated>
+    <steps_updated num="1">Add the cider, orange juice, star anise, cinnamon stick and vanilla extract to a small to medium pan. </steps_updated>
+    <steps_updated num="2">Bring to boil, then reduce to a simmer. </steps_updated>
+    <steps_updated num="3">Add the pear halves and poach at a low-medium heat for 10-20 minutes (until you can stick a knife through with no resistance). </steps_updated>
+    <steps_updated num="4">Remove the pear halves when cooked. </steps_updated>
+    <steps_updated num="5">Reduce the rest of the mixture over a medium heat until it is a thicker glaze. </steps_updated>
+    <steps_updated num="6">Serve the pears with a dollop of greek yogurt, a handful of toasted almonds and the glaze. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

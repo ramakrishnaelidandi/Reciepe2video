@@ -1,0 +1,45 @@
+<recipe>
+  <title>BBQ Chicken Ring Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-ring</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 1580 9517 13278 3745 12816 3333 13278 7006 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 8083 12384 341 13278 757 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 4716 2260 13278 14638 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 10865 14538 13278 6518 5981 </ingredient>
+    <ingredient num="4">8268 13009 13278 14539 12687 8580 10988 </ingredient>
+    <ingredient num="5">13076 3948 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">BBQ</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12398/low_1476831393.m3u8</low>
+    <high>https://vid.tasty.co/output/12398/mp4_720x1280/1476831393</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 3963 10164 </step>
+    <step num="1">10950 5994 2597 14511 4120 3333 12816 8083 12384 13817 4716 9286 </step>
+    <step num="2">5570 5994 2192 14511 7860 1391 10865 13810 210 11951 8365 371 5994 2362 10765 5687 13817 8093 14539 8337 5439 5412 11951 12377 1391 11951 12603 7086 4255 11951 14476 </step>
+    <step num="3">6252 1580 371 11951 14538 14473 11951 1864 371 11951 4804 13817 1798 4716 7983 2373 4255 10707 371 11951 13810 10455 210 5994 13854 2992 13494 1391 11951 12886 371 11951 3193 </step>
+    <step num="4">4124 11951 10707 371 11951 9559 11770 11951 11539 13817 6190 1681 11951 8554 371 11951 5439 11628 3977 11410 5412 11951 198 </step>
+    <step num="5">7831 7990 2800 8927 5895 1681 10963 2147 </step>
+    <step num="6">14100 669 13009 13817 1966 1391 6507 11708 210 5994 12377 210 11951 2336 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 3963 10164 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 4120 3333 12816 8083 12384 13817 4716 9286 </steps_updated>
+    <steps_updated num="2">5570 5994 2192 14511 7860 1391 10865 13810 210 11951 8365 371 5994 2362 10765 5687 13817 8093 14539 8337 5439 5412 11951 12377 1391 11951 12603 7086 4255 11951 14476 </steps_updated>
+    <steps_updated num="3">6252 1580 371 11951 14538 14473 11951 1864 371 11951 4804 13817 1798 4716 7983 2373 4255 10707 371 11951 13810 10455 210 5994 13854 2992 </steps_updated>
+    <steps_updated num="4">13494 1391 11951 12886 371 11951 3193 </steps_updated>
+    <steps_updated num="5">4124 11951 10707 371 11951 9559 11770 11951 11539 13817 6190 1681 11951 8554 371 11951 5439 11628 3977 11410 5412 11951 198 </steps_updated>
+    <steps_updated num="6">7831 7990 2800 8927 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="7">14100 669 13009 13817 1966 1391 6507 11708 210 5994 12377 210 11951 2336 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

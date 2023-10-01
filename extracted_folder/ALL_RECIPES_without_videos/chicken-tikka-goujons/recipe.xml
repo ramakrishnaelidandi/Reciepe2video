@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Tikka Goujons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-tikka-goujons</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">⅓ cup ; plain flour ; (50 g) </ingredient>
+    <ingredient num="2">1 cup ; panko breadcrumbs ; (50 g) </ingredient>
+    <ingredient num="3">2 ; eggs, beaten </ingredient>
+    <ingredient num="4">mango chutney, to serve </ingredient>
+    <ingredient num="5">4 tablespoons ; greek yogurt </ingredient>
+    <ingredient num="6">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="7">2 teaspoons ; garam masala </ingredient>
+    <ingredient num="8">1 teaspoon ; turmeric </ingredient>
+    <ingredient num="9">1 teaspoon ; fresh ginger, crushed </ingredient>
+    <ingredient num="10">1 teaspoon ; garlic, crushed </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19312/low_1482446954.m3u8</low>
+    <high>https://vid.tasty.co/output/19312/mp4_720x1280/1482446954</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 180°C (350°F). </step>
+    <step num="1">Cut the chicken breasts into thin strips. </step>
+    <step num="2">In a re-sealable bag, mix the marinade ingredients together and place the chicken strips inside. Make sure they are thoroughly covered and marinate in the fridge for 2 hours (or more if you want a stronger flavour). </step>
+    <step num="3">Remove the chicken from the marinade and cover in flour, then egg, then panko breadcrumbs. </step>
+    <step num="4">Bake for 25 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="1">Cut the chicken breasts into thin strips. </steps_updated>
+    <steps_updated num="2">In a re-sealable bag, mix the marinade ingredients together and place the chicken strips inside. </steps_updated>
+    <steps_updated num="3">Make sure they are thoroughly covered and marinate in the fridge for 2 hours (or more if you want a stronger flavour). </steps_updated>
+    <steps_updated num="4">Remove the chicken from the marinade and cover in flour, then egg, then panko breadcrumbs. </steps_updated>
+    <steps_updated num="5">Bake for 25 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

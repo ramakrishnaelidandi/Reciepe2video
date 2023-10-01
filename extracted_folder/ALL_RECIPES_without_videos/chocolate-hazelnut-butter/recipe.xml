@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Hazelnut Butter Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-hazelnut-butter</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-nut-butters-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; roasted hazelnut ; (450 g) </ingredient>
+    <ingredient num="1">⅓ cup ; unsweetened cocoa powder ; (40 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; maple syrup </ingredient>
+    <ingredient num="3">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="4">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="5">food processor </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31127/low_1494259317.m3u8</low>
+    <high>https://vid.tasty.co/output/31127/mp4_720x1280/1494259317</high>
+  </video>
+  <duration>
+    <start_time>83.0</start_time>
+    <end_time>117.399</end_time>
+  </duration>
+  <steps>
+    <step num="0">NOTE: If you have unroasted nuts, preheat oven to 350°F (180°C). Spread hazelnuts onto a baking tray and bake for 10-12 minutes or until you can smell them. </step>
+    <step num="1">In a food processor, blend roasted hazelnuts. Scrape down the sides when necessary. </step>
+    <step num="2">Once the hazelnuts have broken down and become crumbly, add unsweetened cocoa powder, maple syrup, and vanilla extract. </step>
+    <step num="3">Blend again and slowly add canola oil while still mixing. Add more canola oil if you want a creamier texture. </step>
+    <step num="4">Pour into a jar, store in a refrigerator and use within one month. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">NOTE: If you have unroasted nuts, preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Spread hazelnuts onto a baking tray and bake for 10-12 minutes or until you can smell them. </steps_updated>
+    <steps_updated num="2">In a food processor, blend roasted hazelnuts. </steps_updated>
+    <steps_updated num="3">Scrape down the sides when necessary. </steps_updated>
+    <steps_updated num="4">Once the hazelnuts have broken down and become crumbly, add unsweetened cocoa powder, maple syrup, and vanilla extract. </steps_updated>
+    <steps_updated num="5">Blend again and slowly add canola oil while still mixing. </steps_updated>
+    <steps_updated num="6">Add more canola oil if you want a creamier texture. </steps_updated>
+    <steps_updated num="7">Pour into a jar, store in a refrigerator and use within one month. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02532</start_time>
+    <end_time>03519</end_time>
+  </duration_human>
+</recipe>

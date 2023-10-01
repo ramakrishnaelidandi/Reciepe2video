@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon And Cheese In A Mug Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-and-cheese-in-a-mug</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fast-easy-breakfast-in-a-mug-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 slice ; bread </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">2 tablespoons ; milk </ingredient>
+    <ingredient num="3">1 pinch ; cheddar cheese </ingredient>
+    <ingredient num="4">1 pinch ; salt </ingredient>
+    <ingredient num="5">1 pinch ; pepper </ingredient>
+    <ingredient num="6">bacon, to taste </ingredient>
+    <ingredient num="7">tomato, to taste </ingredient>
+    <ingredient num="8">green onion, minced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20921/low_1484677868.m3u8</low>
+    <high>https://vid.tasty.co/output/20921/mp4_720x1280/1484677868</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>29.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Slice bread into cubes. </step>
+    <step num="1">In a bowl, add egg, milk, cheese, salt, and pepper, and mix. </step>
+    <step num="2">In a microwave-safe mug, place half of the cubed bread and desired amount of bacon and tomato. </step>
+    <step num="3">Place the rest of the bread and fixins and pour the egg mixture into the mug. </step>
+    <step num="4">Microwave for 1½ minutes or until egg is fully cooked. </step>
+    <step num="5">Sprinkle with some green onions. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice bread into cubes. </steps_updated>
+    <steps_updated num="1">In a bowl, add egg, milk, cheese, salt, and pepper, and mix. </steps_updated>
+    <steps_updated num="2">In a microwave-safe mug, place half of the cubed bread and desired amount of bacon and tomato. </steps_updated>
+    <steps_updated num="3">Place the rest of the bread and fixins and pour the egg mixture into the mug. </steps_updated>
+    <steps_updated num="4">Microwave for 1½ minutes or until egg is fully cooked. </steps_updated>
+    <steps_updated num="5">Sprinkle with some green onions. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00886</end_time>
+  </duration_human>
+</recipe>

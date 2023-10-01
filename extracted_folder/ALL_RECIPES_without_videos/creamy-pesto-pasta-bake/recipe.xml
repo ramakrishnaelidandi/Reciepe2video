@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Pesto Pasta Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-pesto-pasta-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; fresh basil ; (160 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic </ingredient>
+    <ingredient num="2">½ cup ; pine nuts ; (65 g) </ingredient>
+    <ingredient num="3">¾ cup ; grated parmesan cheese, grated ; (80 g) </ingredient>
+    <ingredient num="4">¾ cup ; olive oil ; (180 mL) </ingredient>
+    <ingredient num="5">¼ cup ; cold water ; (60 mL) </ingredient>
+    <ingredient num="6">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">½ teaspoon ; pepper </ingredient>
+    <ingredient num="9">12 oz ; fusilli pasta, al dente ; (340 g) </ingredient>
+    <ingredient num="10">1 cup ; cherry tomato, halved ; (200 g) </ingredient>
+    <ingredient num="11">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="12">8 oz ; mozzarella ball ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8921/low_1472776994.m3u8</low>
+    <high>https://vid.tasty.co/output/8921/mp4_720x1280/1472776994</high>
+  </video>
+  <steps>
+    <step num="0">To make the pesto, mix basil, garlic, pine nuts, parmesan, cold water, heavy cream, salt, and pepper in a food processor for about 30 seconds. Add in olive oil. Process until combined, set aside. </step>
+    <step num="1">Cook fusilli to very al dente, or about 3-4 minutes before the package instructs for cook time, then drain pasta. </step>
+    <step num="2">Halve cherry tomatoes. </step>
+    <step num="3">In a skillet or casserole pan, mix fusilli, cherry tomatoes, and pesto. </step>
+    <step num="4">Top with grated parmesan and mozzarella balls. </step>
+    <step num="5">Bake at 400° Fahrenheit for 10-15 minutes, or until mozzarella has melted. </step>
+    <step num="6">Garnish with additional parmesan and fresh basil. Serve immediately. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To make the pesto, mix basil, garlic, pine nuts, parmesan, cold water, heavy cream, salt, and pepper in a food processor for about 30 seconds. </steps_updated>
+    <steps_updated num="1">Add in olive oil. </steps_updated>
+    <steps_updated num="2">Process until combined, set aside. </steps_updated>
+    <steps_updated num="3">Cook fusilli to very al dente, or about 3-4 minutes before the package instructs for cook time, then drain pasta. </steps_updated>
+    <steps_updated num="4">Halve cherry tomatoes. </steps_updated>
+    <steps_updated num="5">In a skillet or casserole pan, mix fusilli, cherry tomatoes, and pesto. </steps_updated>
+    <steps_updated num="6">Top with grated parmesan and mozzarella balls. </steps_updated>
+    <steps_updated num="7">Bake at 400° Fahrenheit for 10-15 minutes, or until mozzarella has melted. </steps_updated>
+    <steps_updated num="8">Garnish with additional parmesan and fresh basil. </steps_updated>
+    <steps_updated num="9">Serve immediately. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

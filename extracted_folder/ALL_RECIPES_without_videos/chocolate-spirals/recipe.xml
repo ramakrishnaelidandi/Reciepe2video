@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Spirals Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-spirals</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/puff-pasty-decorating</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray </ingredient>
+    <ingredient num="1">flour, for dusting </ingredient>
+    <ingredient num="2">8.6 oz ; puff pastry, 1 sheet, thawed if frozen ; (245 g) </ingredient>
+    <ingredient num="3">¼ cup ; chocolate hazelnut spread ; (75 g) </ingredient>
+    <ingredient num="4">1 ; egg, beaten </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105922/hls24_1534791579.m3u8</low>
+    <high>https://vid.tasty.co/output/105922/landscape_720/1534791579</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>40.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Roll out the puff pastry on a lightly floured surface to a 12-inch by 14-inch (30 cm by 35 cm) rectangle. </step>
+    <step num="1">Use a spatula to spread the chocolate hazelnut spread over half of the pastry. Fold other half of the pastry over the chocolate spread. </step>
+    <step num="2">Preheat the oven to 400˚F (200˚C). Grease a baking sheet with nonstick spray. </step>
+    <step num="3">Slice lengthwise into twelve ½-inch (1 cm) wide strips. </step>
+    <step num="4">Hold the top of a strip with one hand and use your other hand to twist. Once the twist goes all the way up the strip, roll into a tight spiral. Repeat with the rest of the strips. </step>
+    <step num="5">Transfer the spirals to the prepared baking sheet and brush with egg wash. </step>
+    <step num="6">Bake for 12 minutes, or until golden brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Roll out the puff pastry on a lightly floured surface to a 12-inch by 14-inch (30 cm by 35 cm) rectangle. </steps_updated>
+    <steps_updated num="1">Use a spatula to spread the chocolate hazelnut spread over half of the pastry. </steps_updated>
+    <steps_updated num="2">Fold other half of the pastry over the chocolate spread. </steps_updated>
+    <steps_updated num="3">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="4">Grease a baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="5">Slice lengthwise into twelve ½-inch (1 cm) wide strips. </steps_updated>
+    <steps_updated num="6">Hold the top of a strip with one hand and use your other hand to twist. </steps_updated>
+    <steps_updated num="7">Once the twist goes all the way up the strip, roll into a tight spiral. </steps_updated>
+    <steps_updated num="8">Repeat with the rest of the strips. </steps_updated>
+    <steps_updated num="9">Transfer the spirals to the prepared baking sheet and brush with egg wash. </steps_updated>
+    <steps_updated num="10">Bake for 12 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

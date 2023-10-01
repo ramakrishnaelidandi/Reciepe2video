@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mango Pineapple Sorbet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mango-pineapple-sorbet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sorbet-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; pineapple, diced ; (365 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; mango, diced ; (250 g) </ingredient>
+    <ingredient num="2">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="3">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="4">1 ½ cups ; mango, diced ; (250 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8674/low_1472760061.m3u8</low>
+    <high>https://vid.tasty.co/output/8674/mp4_720x1280/1472760061</high>
+  </video>
+  <duration>
+    <start_time>30.54</start_time>
+    <end_time>58.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine water, sugar, and mangoes in a pot over medium heat. Once the sugar has dissolved, simmer for 30 minutes and reduce. </step>
+    <step num="1">Pour simple syrup through a strainer and remove excess liquid, then let it cool to room temperature. </step>
+    <step num="2">In a blender, combine simple syrup, pineapple, and the remaining mango. Blend until well-combined. </step>
+    <step num="3">Pour into an 8×8 inch (20x20 cm) baking dish and freeze for at least 12 hours. </step>
+    <step num="4">Take out of the freezer and let sit for 5-10 minutes before scooping. </step>
+    <step num="5">Serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine water, sugar, and mangoes in a pot over medium heat. </steps_updated>
+    <steps_updated num="1">Once the sugar has dissolved, simmer for 30 minutes and reduce. </steps_updated>
+    <steps_updated num="2">Pour simple syrup through a strainer and remove excess liquid, then let it cool to room temperature. </steps_updated>
+    <steps_updated num="3">In a blender, combine simple syrup, pineapple, and the remaining mango. </steps_updated>
+    <steps_updated num="4">Blend until well-combined. </steps_updated>
+    <steps_updated num="5">Pour into an 8×8 inch (20x20 cm) baking dish and freeze for at least 12 hours. </steps_updated>
+    <steps_updated num="6">Take out of the freezer and let sit for 5-10 minutes before scooping. </steps_updated>
+    <steps_updated num="7">Serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00967</start_time>
+    <end_time>01774</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,50 @@
+<recipe>
+  <title>Vanilla 'Box' Cake Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-box-cake-pops</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/ladies-game-night</comp_url>
+  <ingredients>
+    <ingredient num="0">13133 643 13278 11091 14124 3446 9864 12968 560 3756 6062 13046 13278 13345 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 1319 10209 13278 13412 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 4617 13826 7789 8580 13728 4318 3247 13278 4563 5981 </ingredient>
+    <ingredient num="3">11815 7990 5283 2517 </ingredient>
+    <ingredient num="4">11598 12401 13278 2025 1297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96268/hls24_1527625549.m3u8</low>
+    <high>https://vid.tasty.co/output/96268/landscape_720/1527625549</high>
+  </video>
+  <duration>
+    <start_time>105.0</start_time>
+    <end_time>153.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 12147 11951 14124 669 11042 1566 10745 9179 11951 1319 10209 13817 10968 13948 </step>
+    <step num="1">8724 11951 14124 2373 669 2237 2439 10224 8141 2668 11951 2025 12401 669 8580 9486 371 5335 4617 13826 415 1297 3755 669 11951 937 371 10763 14124 260 1864 11951 2439 10224 8141 </step>
+    <step num="2">13855 7990 7811 767 8580 12721 5895 3386 560 6735 14329 </step>
+    <step num="3">8431 5994 9924 5668 5895 9070 7700 560 4121 11951 14124 1544 6781 11951 2439 10224 8141 686 2696 11951 14124 1824 </step>
+    <step num="4">2668 10763 14124 260 210 11951 374 5335 4617 9769 8020 1391 1397 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 12147 11951 14124 669 11042 1566 10745 </steps_updated>
+    <steps_updated num="1">9179 11951 1319 10209 13817 10968 13948 </steps_updated>
+    <steps_updated num="2">8724 11951 14124 2373 669 2237 2439 10224 8141 </steps_updated>
+    <steps_updated num="3">2668 11951 2025 12401 669 8580 9486 371 5335 4617 13826 415 1297 3755 669 11951 937 371 10763 14124 260 1864 11951 2439 10224 8141 </steps_updated>
+    <steps_updated num="4">13855 7990 7811 767 8580 12721 5895 3386 560 6735 14329 </steps_updated>
+    <steps_updated num="5">8431 5994 9924 5668 5895 9070 7700 560 4121 11951 14124 1544 6781 11951 2439 10224 8141 </steps_updated>
+    <steps_updated num="6">686 2696 11951 14124 1824 </steps_updated>
+    <steps_updated num="7">2668 10763 14124 260 210 11951 374 5335 4617 9769 </steps_updated>
+    <steps_updated num="8">8020 1391 1397 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

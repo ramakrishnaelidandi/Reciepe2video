@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Alaska Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-alaska</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 pt ; vanilla ice cream, softened ; (345 g) </ingredient>
+    <ingredient num="1">2 pt ; strawberry ice cream, softened ; (690 g) </ingredient>
+    <ingredient num="2">2 pt ; chocolate ice cream, softened ; (690 g) </ingredient>
+    <ingredient num="3">1 cup ; butter, at room temperature ; (230 g) </ingredient>
+    <ingredient num="4">2 cups ; sugar ; (400 g) </ingredient>
+    <ingredient num="5">4 ; eggs, at room temperature </ingredient>
+    <ingredient num="6">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="7">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="10">3 cups ; cake flour, sifted </ingredient>
+    <ingredient num="11">4 ; egg whites, at room temperature </ingredient>
+    <ingredient num="12">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="13">1 teaspoon ; cream of tartar </ingredient>
+    <ingredient num="14">1 teaspoon ; vanilla extract </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41902/low_1498851394.m3u8</low>
+    <high>https://vid.tasty.co/output/41902/mp4_720x1280/1498851394</high>
+  </video>
+  <steps>
+    <step num="0">Wrap a 10-inch (25 cm) freezer-safe bowl in plastic wrap. Scoop the vanilla ice cream into the bowl, and using a spatula smooth the ice cream to form an even layer. Freeze for 1 hour, or until frozen. </step>
+    <step num="1">Remove the bowl from the freezer, and scoop the strawberry ice cream onto the frozen vanilla layer. Using a spatula, smooth the strawberry ice cream to form an even layer. Freeze for 1 hour, or until frozen. </step>
+    <step num="2">After the strawberry layer is frozen, repeat with chocolate ice cream. </step>
+    <step num="3">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="4">In a bowl, add the eggs and sugar and whisk until well combined. </step>
+    <step num="5">Add 1 egg and mix until combined. Repeat with remaining eggs, mixing after each egg is added. </step>
+    <step num="6">Alternate adding a little bit of flour and milk, whisking after each addition until combined. Repeat until the flour and milk have been used up. The batter should be smooth and creamy. </step>
+    <step num="7">Add the baking powder, salt, and vanilla extract and whisk until well combined. </step>
+    <step num="8">Pour the batter into a greased and floured 10-inch (25 cm) cake tin. </step>
+    <step num="9">Bake for 50 minutes to 1 hour, until the top is golden brown and a toothpick comes out clean. </step>
+    <step num="10">Let the cake cool completely. Once cool, invert the cake onto a plate and set aside. </step>
+    <step num="11">Bring a pan of water to a simmer over medium heat. </step>
+    <step num="12">Place a heatproof bowl over the simmering water, and add the egg whites, sugar, and cream of tartar. Whisk constantly until the sugar has dissolved and the egg white mixture is warm, about 3 minutes. </step>
+    <step num="13">Remove the bowl from the pan. Using a hand mixer, beat the egg white mixture until stiff, glossy peaks form, about 10 minutes. Add the vanilla extract and mix until just combined. </step>
+    <step num="14">Remove the bowl of ice cream from the freezer and gently invert it onto the cake, creating a dome shape. Remove the plastic wrap from the ice cream. </step>
+    <step num="15">Working quickly, use a spatula to spread a layer of meringue over the entire cake and ice cream dome so that it’s fully coated. </step>
+    <step num="16">Using a kitchen torch, brown the peaks of meringue. </step>
+    <step num="17">Serve immediately. </step>
+    <step num="18">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Wrap a 10-inch (25 cm) freezer-safe bowl in plastic wrap. </steps_updated>
+    <steps_updated num="1">Scoop the vanilla ice cream into the bowl, and using a spatula smooth the ice cream to form an even layer. </steps_updated>
+    <steps_updated num="2">Freeze for 1 hour, or until frozen. </steps_updated>
+    <steps_updated num="3">Remove the bowl from the freezer, and scoop the strawberry ice cream onto the frozen vanilla layer. </steps_updated>
+    <steps_updated num="4">Using a spatula, smooth the strawberry ice cream to form an even layer. </steps_updated>
+    <steps_updated num="5">Freeze for 1 hour, or until frozen. </steps_updated>
+    <steps_updated num="6">After the strawberry layer is frozen, repeat with chocolate ice cream. </steps_updated>
+    <steps_updated num="7">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="8">In a bowl, add the eggs and sugar and whisk until well combined. </steps_updated>
+    <steps_updated num="9">Add 1 egg and mix until combined. </steps_updated>
+    <steps_updated num="10">Repeat with remaining eggs, mixing after each egg is added. </steps_updated>
+    <steps_updated num="11">Alternate adding a little bit of flour and milk, whisking after each addition until combined. </steps_updated>
+    <steps_updated num="12">Repeat until the flour and milk have been used up. </steps_updated>
+    <steps_updated num="13">The batter should be smooth and creamy. </steps_updated>
+    <steps_updated num="14">Add the baking powder, salt, and vanilla extract and whisk until well combined. </steps_updated>
+    <steps_updated num="15">Pour the batter into a greased and floured 10-inch (25 cm) cake tin. </steps_updated>
+    <steps_updated num="16">Bake for 50 minutes to 1 hour, until the top is golden brown and a toothpick comes out clean. </steps_updated>
+    <steps_updated num="17">Let the cake cool completely. </steps_updated>
+    <steps_updated num="18">Once cool, invert the cake onto a plate and set aside. </steps_updated>
+    <steps_updated num="19">Bring a pan of water to a simmer over medium heat. </steps_updated>
+    <steps_updated num="20">Place a heatproof bowl over the simmering water, and add the egg whites, sugar, and cream of tartar. </steps_updated>
+    <steps_updated num="21">Whisk constantly until the sugar has dissolved and the egg white mixture is warm, about 3 minutes. </steps_updated>
+    <steps_updated num="22">Remove the bowl from the pan. </steps_updated>
+    <steps_updated num="23">Using a hand mixer, beat the egg white mixture until stiff, glossy peaks form, about 10 minutes. </steps_updated>
+    <steps_updated num="24">Add the vanilla extract and mix until just combined. </steps_updated>
+    <steps_updated num="25">Remove the bowl of ice cream from the freezer and gently invert it onto the cake, creating a dome shape. </steps_updated>
+    <steps_updated num="26">Remove the plastic wrap from the ice cream. </steps_updated>
+    <steps_updated num="27">Working quickly, use a spatula to spread a layer of meringue over the entire cake and ice cream dome so that it’s fully coated. </steps_updated>
+    <steps_updated num="28">Using a kitchen torch, brown the peaks of meringue. </steps_updated>
+    <steps_updated num="29">Serve immediately. </steps_updated>
+    <steps_updated num="30">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

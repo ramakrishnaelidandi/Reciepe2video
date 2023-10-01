@@ -1,0 +1,60 @@
+<recipe>
+  <title>One-pan Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 11338 5766 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="2">3917 8071 13278 3855 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 11088 13584 7845 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 11588 3962 </ingredient>
+    <ingredient num="5">3917 13278 13757 12384 3962 </ingredient>
+    <ingredient num="6">8580 9517 13278 9122 7280 3247 13278 11919 5981 </ingredient>
+    <ingredient num="7">11061 13278 8920 8036 </ingredient>
+    <ingredient num="8">3917 2605 13278 12426 14538 13278 10339 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 10865 14538 13278 6518 5981 </ingredient>
+    <ingredient num="10">8580 9486 13278 6209 749 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32190/low_1495125436.m3u8</low>
+    <high>https://vid.tasty.co/output/32190/mp4_720x1280/1495125436</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11880 6038 </step>
+    <step num="1">8889 11951 5766 210 5994 13959 10060 11770 8283 2082 </step>
+    <step num="2">264 11951 20 12610 13817 7845 1681 11951 1838 7312 12385 13817 11951 1946 9490 11695 560 2147 </step>
+    <step num="3">9179 11951 11384 13817 6334 13817 2550 1681 11453 12573 11695 560 13593 6470 </step>
+    <step num="4">9179 797 2605 371 11951 9122 2260 13817 2550 1681 11951 2260 7312 12781 560 5994 14012 </step>
+    <step num="5">5209 5994 2597 1798 5895 5994 5633 1623 8177 371 11951 1946 2373 7542 11951 11801 371 11951 11745 8362 5994 1992 5312 4628 1762 560 11793 8920 8036 9653 11951 12982 906 6285 4817 8920 8036 210 3191 560 13262 210 11951 8595 </step>
+    <step num="6">13494 11951 1946 2373 1391 11951 12886 371 11951 8920 768 2988 11951 12886 371 11951 9122 2260 4255 10707 371 11951 768 12326 11951 12426 4255 10707 371 11951 2260 13817 11434 7317 </step>
+    <step num="7">6252 11951 10865 14538 11770 11951 2254 13817 10707 1391 11951 13952 </step>
+    <step num="8">7831 7990 2800 8927 1681 14538 9490 12269 13817 10963 2147 </step>
+    <step num="9">8832 6138 415 8956 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11880 6038 </steps_updated>
+    <steps_updated num="1">8889 11951 5766 210 5994 13959 10060 11770 8283 2082 </steps_updated>
+    <steps_updated num="2">264 11951 20 12610 13817 7845 1681 11951 1838 7312 12385 13817 11951 1946 9490 11695 560 2147 </steps_updated>
+    <steps_updated num="3">9179 11951 11384 13817 6334 13817 2550 1681 11453 12573 11695 560 13593 6470 </steps_updated>
+    <steps_updated num="4">9179 797 2605 371 11951 9122 2260 13817 2550 1681 11951 2260 7312 12781 560 5994 14012 </steps_updated>
+    <steps_updated num="5">5209 5994 2597 1798 5895 5994 5633 1623 8177 371 11951 1946 2373 7542 11951 11801 371 11951 11745 8362 5994 1992 5312 4628 1762 560 11793 8920 8036 9653 11951 12982 </steps_updated>
+    <steps_updated num="6">906 6285 4817 8920 8036 210 3191 560 13262 210 11951 8595 </steps_updated>
+    <steps_updated num="7">13494 11951 1946 2373 1391 11951 12886 371 11951 8920 768 </steps_updated>
+    <steps_updated num="8">2988 11951 12886 371 11951 9122 2260 4255 10707 371 11951 768 </steps_updated>
+    <steps_updated num="9">12326 11951 12426 4255 10707 371 11951 2260 13817 11434 7317 </steps_updated>
+    <steps_updated num="10">6252 11951 10865 14538 11770 11951 2254 13817 10707 1391 11951 13952 </steps_updated>
+    <steps_updated num="11">7831 7990 2800 8927 1681 14538 9490 12269 13817 10963 2147 </steps_updated>
+    <steps_updated num="12">8832 6138 415 8956 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

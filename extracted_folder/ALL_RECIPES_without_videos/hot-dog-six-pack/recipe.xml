@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hot Dog Six Pack Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-dog-six-pack</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 sheet ; puff pastry </ingredient>
+    <ingredient num="1">1 ; hot dog sausage </ingredient>
+    <ingredient num="2">shredded cheese, to taste </ingredient>
+    <ingredient num="3">scallion, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31986/low_1495125051.m3u8</low>
+    <high>https://vid.tasty.co/output/31986/mp4_720x1280/1495125051</high>
+  </video>
+  <steps>
+    <step num="0">Cut the hot dog into six equal sized pieces. </step>
+    <step num="1">Then cut puff pastry into sections just large enough to wrap around the pieces of hot dog. </step>
+    <step num="2">Wrap the hot dogs with the cut puff pastry. </step>
+    <step num="3">Place them on a baking sheet or foil in two rows of 3 with just a little space between each. </step>
+    <step num="4">Top with cheese and scallions and bake at 400°F (204°C) for 25 minutes or until golden brown. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the hot dog into six equal sized pieces. </steps_updated>
+    <steps_updated num="1">Then cut puff pastry into sections just large enough to wrap around the pieces of hot dog. </steps_updated>
+    <steps_updated num="2">Wrap the hot dogs with the cut puff pastry. </steps_updated>
+    <steps_updated num="3">Place them on a baking sheet or foil in two rows of 3 with just a little space between each. </steps_updated>
+    <steps_updated num="4">Top with cheese and scallions and bake at 400°F (204°C) for 25 minutes or until golden brown. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Wings 4 Ways Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-wings-4-ways</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; chicken wings ; (910 g) </ingredient>
+    <ingredient num="1">olive oil </ingredient>
+    <ingredient num="2">1 tablespoon ; Fiery Seasoning </ingredient>
+    <ingredient num="3">lime wedge </ingredient>
+    <ingredient num="4">fresh cilantro, minced, for garnish </ingredient>
+    <ingredient num="5">2 lb ; chicken wings ; (910 g) </ingredient>
+    <ingredient num="6">olive oil </ingredient>
+    <ingredient num="7">1 ½ tablespoons ; Zesty Seasoning </ingredient>
+    <ingredient num="8">lemon wedge </ingredient>
+    <ingredient num="9">fresh basil, for garnish </ingredient>
+    <ingredient num="10">2 lb ; chicken wings ; (910 g) </ingredient>
+    <ingredient num="11">olive oil </ingredient>
+    <ingredient num="12">1 tablespoon ; Jazzy Seasoning </ingredient>
+    <ingredient num="13">4 tablespoons ; butter </ingredient>
+    <ingredient num="14">4 tablespoons ; honey </ingredient>
+    <ingredient num="15">2 teaspoons ; apple cider vinegar </ingredient>
+    <ingredient num="16">½ teaspoon ; salt </ingredient>
+    <ingredient num="17">2 lb ; chicken wings ; (910 g) </ingredient>
+    <ingredient num="18">olive oil </ingredient>
+    <ingredient num="19">1 ½ tablespoons ; Savory Seasoning, divided </ingredient>
+    <ingredient num="20">4 tablespoons ; butter </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Appetizers</category>
+    <category num="1">Snacks</category>
+    <category num="2">Game Day</category>
+    <category num="3">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/137314/hls24_1561590500.m3u8</low>
+    <high>https://vid.tasty.co/output/137314/landscape_720/1561590500</high>
+  </video>
+  <steps>
+    <step num="0">Fiery </step>
+    <step num="1">Heat grill to high heat. Place wings on the grill and close lid. Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. </step>
+    <step num="2">Remove wings from grill. Squeeze with lime wedges and garnish with minced cilantro. </step>
+    <step num="3">Zesty </step>
+    <step num="4">Heat grill to high heat. Place wings on the grill and close lid. Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. </step>
+    <step num="5">Remove wings from grill. Squeeze with lemon wedges and garnish with basil leaves. </step>
+    <step num="6">Jazzy </step>
+    <step num="7">Heat grill to high heat. Place wings on the grill and close lid. Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. Remove wings from grill and set aside. </step>
+    <step num="8">In a small pot over low heat, melt the butter. Add honey, apple cider vinegar, and salt and bring to a simmer. Remove from heat. </step>
+    <step num="9">Drizzle grilled wings with honey butter. </step>
+    <step num="10">Savory </step>
+    <step num="11">Heat grill to high heat. Place wings on the grill and close lid. Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. Remove wings from grill and set aside. </step>
+    <step num="12">Drizzle grilled wings with herb butter. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fiery </steps_updated>
+    <steps_updated num="1">Heat grill to high heat. </steps_updated>
+    <steps_updated num="2">Place wings on the grill and close lid. </steps_updated>
+    <steps_updated num="3">Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. </steps_updated>
+    <steps_updated num="4">Remove wings from grill. </steps_updated>
+    <steps_updated num="5">Squeeze with lime wedges and garnish with minced cilantro. </steps_updated>
+    <steps_updated num="6">Zesty </steps_updated>
+    <steps_updated num="7">Heat grill to high heat. </steps_updated>
+    <steps_updated num="8">Place wings on the grill and close lid. </steps_updated>
+    <steps_updated num="9">Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. </steps_updated>
+    <steps_updated num="10">Remove wings from grill. </steps_updated>
+    <steps_updated num="11">Squeeze with lemon wedges and garnish with basil leaves. </steps_updated>
+    <steps_updated num="12">Jazzy </steps_updated>
+    <steps_updated num="13">Heat grill to high heat. </steps_updated>
+    <steps_updated num="14">Place wings on the grill and close lid. </steps_updated>
+    <steps_updated num="15">Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. </steps_updated>
+    <steps_updated num="16">Remove wings from grill and set aside. </steps_updated>
+    <steps_updated num="17">In a small pot over low heat, melt the butter. </steps_updated>
+    <steps_updated num="18">Add honey, apple cider vinegar, and salt and bring to a simmer. </steps_updated>
+    <steps_updated num="19">Remove from heat. </steps_updated>
+    <steps_updated num="20">Drizzle grilled wings with honey butter. </steps_updated>
+    <steps_updated num="21">Savory </steps_updated>
+    <steps_updated num="22">Heat grill to high heat. </steps_updated>
+    <steps_updated num="23">Place wings on the grill and close lid. </steps_updated>
+    <steps_updated num="24">Grill for 8–10 minutes, then flip and grill for another 8–10 minutes (with the lid closed), or until wings are fully cooked through. </steps_updated>
+    <steps_updated num="25">Remove wings from grill and set aside. </steps_updated>
+    <steps_updated num="26">Drizzle grilled wings with herb butter. </steps_updated>
+    <steps_updated num="27">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

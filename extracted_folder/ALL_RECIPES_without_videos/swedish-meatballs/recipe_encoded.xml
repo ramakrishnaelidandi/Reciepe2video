@@ -1,0 +1,72 @@
+<recipe>
+  <title>Swedish Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/swedish-meatballs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/party-meatballs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 5234 13278 4563 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 12956 1230 13278 2264 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 12384 11588 10015 13278 3433 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 6209 11911 11588 3962 13278 12237 5981 </ingredient>
+    <ingredient num="5">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="6">8580 13278 12708 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">12791 2605 13278 9924 13278 13412 5981 </ingredient>
+    <ingredient num="10">12791 2605 13278 13521 890 13278 1258 5981 </ingredient>
+    <ingredient num="11">8580 9517 13278 1946 547 13278 6901 8007 </ingredient>
+    <ingredient num="12">1580 8071 13278 11088 9223 </ingredient>
+    <ingredient num="13">1580 8071 13278 5363 14585 2431 </ingredient>
+    <ingredient num="14">3917 2605 13278 8640 13033 13278 7503 8007 </ingredient>
+    <ingredient num="15">12610 560 11567 </ingredient>
+    <ingredient num="16">10986 560 11567 </ingredient>
+    <ingredient num="17">6209 11911 1404 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47184/low_1502490038.m3u8</low>
+    <high>https://vid.tasty.co/output/47184/mp4_720x1280/1502490038</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">10950 5994 11435 12377 10968 3626 11951 20 10720 4465 8092 12384 11911 4155 14463 12610 13817 7845 1681 644 4309 </step>
+    <step num="2">12946 5994 399 5285 371 11951 3061 2373 13817 4536 669 5994 14560 5362 1391 374 3061 13817 10231 560 2237 7753 6880 4255 5994 213 8141 </step>
+    <step num="3">7831 13391 7990 13133 11004 1681 10963 2147 2257 5292 </step>
+    <step num="4">12305 9924 210 5994 5687 4255 13757 7855 13817 2234 3557 560 1368 12624 12473 210 11951 890 2043 13817 2550 7990 6285 3917 12110 8362 5994 9746 4696 </step>
+    <step num="5">9179 11951 1946 42 6991 13817 2550 1681 3557 13776 </step>
+    <step num="6">9179 210 11951 11088 1821 5363 12610 10986 13817 11951 8640 1123 6991 13817 14238 560 5994 11779 7990 2933 12689 </step>
+    <step num="7">9179 11951 13391 13817 6798 3755 1391 11951 5753 </step>
+    <step num="8">6252 1391 11951 11911 12753 1391 11923 13817 7329 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">10950 5994 11435 12377 10968 3626 11951 20 10720 4465 8092 12384 11911 4155 14463 12610 13817 7845 1681 644 4309 </steps_updated>
+    <steps_updated num="2">12946 5994 399 5285 371 11951 3061 2373 13817 4536 669 5994 14560 </steps_updated>
+    <steps_updated num="3">5362 1391 374 3061 13817 10231 560 2237 7753 6880 4255 5994 213 8141 </steps_updated>
+    <steps_updated num="4">7831 13391 7990 13133 11004 1681 10963 2147 </steps_updated>
+    <steps_updated num="5">2257 5292 </steps_updated>
+    <steps_updated num="6">12305 9924 210 5994 5687 4255 13757 7855 13817 2234 3557 560 1368 12624 </steps_updated>
+    <steps_updated num="7">12473 210 11951 890 2043 13817 2550 7990 6285 3917 12110 8362 5994 9746 4696 </steps_updated>
+    <steps_updated num="8">9179 11951 1946 42 6991 13817 2550 1681 3557 13776 </steps_updated>
+    <steps_updated num="9">9179 210 11951 11088 1821 5363 12610 10986 13817 11951 8640 1123 6991 13817 14238 560 5994 11779 7990 2933 12689 </steps_updated>
+    <steps_updated num="10">9179 11951 13391 13817 6798 3755 1391 11951 5753 </steps_updated>
+    <steps_updated num="11">6252 1391 11951 11911 12753 1391 11923 13817 7329 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01609</start_time>
+    <end_time>02489</end_time>
+  </duration_human>
+</recipe>

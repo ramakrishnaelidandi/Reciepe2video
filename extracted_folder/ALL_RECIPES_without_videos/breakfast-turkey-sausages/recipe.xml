@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Turkey Sausages Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-turkey-sausages</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ways-to-use-ground-turkey</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; lean ground turkey ; (455 g) </ingredient>
+    <ingredient num="1">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="2">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="3">1 teaspoon ; ground sage </ingredient>
+    <ingredient num="4">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">oil, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44557/low_1500670490.m3u8</low>
+    <high>https://vid.tasty.co/output/44557/mp4_720x1280/1500670490</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>21.39</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the turkey, pepper, thyme, sage, garlic powder, and salt to a large bowl and mix to combine. </step>
+    <step num="1">Form the turkey meat into eight equal patties. </step>
+    <step num="2">Heat a skillet on medium heat and coat with a bit of oil. Cook patties for 5-10 minutes on each side, or until the inside is no longer pink. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the turkey, pepper, thyme, sage, garlic powder, and salt to a large bowl and mix to combine. </steps_updated>
+    <steps_updated num="1">Form the turkey meat into eight equal patties. </steps_updated>
+    <steps_updated num="2">Heat a skillet on medium heat and coat with a bit of oil. </steps_updated>
+    <steps_updated num="3">Cook patties for 5-10 minutes on each side, or until the inside is no longer pink. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

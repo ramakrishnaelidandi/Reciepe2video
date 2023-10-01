@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-deviled-eggs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/deviled-eggs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; eggs, hard-boiled </ingredient>
+    <ingredient num="1">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="2">3 strips ; bacon, cooked, chopped </ingredient>
+    <ingredient num="3">¼ cup ; fresh chives, finely chopped ; (10 g) </ingredient>
+    <ingredient num="4">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">bacon, cooked and chopped </ingredient>
+    <ingredient num="8">fresh chives, finely chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43566/low_1499981396.m3u8</low>
+    <high>https://vid.tasty.co/output/43566/mp4_720x1280/1499981396</high>
+  </video>
+  <duration>
+    <start_time>71.29</start_time>
+    <end_time>95.45</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the eggs in a pot and fill with cold water until the eggs are just covered. Bring the pot to a boil, then cover, remove from heat, and let sit for about 12 minutes. </step>
+    <step num="1">Transfer the eggs to a bowl of ice water for about 3 minutes, then peel them and cut them in half. Transfer the egg yolks to a bowl, and set the cooked egg whites aside. </step>
+    <step num="2">Mix the sour cream, bacon, chives, cheddar cheese, salt, and pepper with the yolks and transfer to a piping bag. (Alternatively, use a zip-top bag with a corner cut off.) </step>
+    <step num="3">Pipe the mixture into the eggs, garnish with the bacon and chives, and serve chilled. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the eggs in a pot and fill with cold water until the eggs are just covered. </steps_updated>
+    <steps_updated num="1">Bring the pot to a boil, then cover, remove from heat, and let sit for about 12 minutes. </steps_updated>
+    <steps_updated num="2">Transfer the eggs to a bowl of ice water for about 3 minutes, then peel them and cut them in half. </steps_updated>
+    <steps_updated num="3">Transfer the egg yolks to a bowl, and set the cooked egg whites aside. </steps_updated>
+    <steps_updated num="4">Mix the sour cream, bacon, chives, cheddar cheese, salt, and pepper with the yolks and transfer to a piping bag. </steps_updated>
+    <steps_updated num="5">(Alternatively, use a zip-top bag with a corner cut off.) </steps_updated>
+    <steps_updated num="6">Pipe the mixture into the eggs, garnish with the bacon and chives, and serve chilled. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02193</start_time>
+    <end_time>02869</end_time>
+  </duration_human>
+</recipe>

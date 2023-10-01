@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cast Iron Paella Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cast-iron-paella</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">720 ; 3 cups ; chicken stock </ingredient>
+    <ingredient num="1">1 pinch ; saffron thread </ingredient>
+    <ingredient num="2">½ lb ; shrimp, peeled and deveined ; (225 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; kosher salt, divided </ingredient>
+    <ingredient num="4">½ teaspoon ; freshly ground black pepper </ingredient>
+    <ingredient num="5">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="6">1 ½ cups ; chorizo, thinly sliced ; (205 g) </ingredient>
+    <ingredient num="7">1 ; medium yellow onion, finely chopped </ingredient>
+    <ingredient num="8">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="9">1 teaspoon ; paprika </ingredient>
+    <ingredient num="10">1 ½ cups ; arborio rice ; (300 g) </ingredient>
+    <ingredient num="11">14 ½ oz ; diced tomato, 1 can, drained ; (410 g) </ingredient>
+    <ingredient num="12">½ lb ; mussels, scrubbed and debearded ; (225 g) </ingredient>
+    <ingredient num="13">½ cup ; frozen peas, thawed ; (75 g) </ingredient>
+    <ingredient num="14">½ ; lemon, juiced </ingredient>
+    <ingredient num="15">¼ cup ; fresh parsley leaves, finely chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/132240/hls24_1557438538.m3u8</low>
+    <high>https://vid.tasty.co/output/132240/landscape_720/1557438538</high>
+  </video>
+  <steps>
+    <step num="0">Add the chicken stock to a microwave-safe liquid measuring cup and microwave on high power for 3 minutes, until hot. Stir in the saffron threads and set aside. </step>
+    <step num="1">On a cutting board, pat the shrimp dry with paper towels. Season with 1 teaspoon of salt and the pepper on both sides and set aside. </step>
+    <step num="2">Heat the olive oil in a 12-inch (30 cm) cast-iron skillet over medium-high heat until it begins to shimmer. Add the chorizo and cook, stirring, until browned in spots, 3 minutes. Add the onion and cook until softened, about 3 minutes. Add the garlic and paprika and cook, stirring, until aromatic, about 30 seconds. Add the rice and stir until lightly toasted, 1 minute. </step>
+    <step num="3">Add the tomatoes and reserved chicken stock and stir to combine. Reduce the heat to low and cover the pan with a lid. Cook without stirring until the rice is al dente, 15 minutes. </step>
+    <step num="4">Remove the lid and arrange the shrimp, mussels, and peas on top of the rice. Cover and increase the heat to medium-high. Cook until the shrimp are opaque and the mussels are open, 5 minutes. Discard any mussels that do not open. </step>
+    <step num="5">Remove the lid and pour the lemon juice over the paella. Sprinkle with the remaining teaspoon of salt and the parsley and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the chicken stock to a microwave-safe liquid measuring cup and microwave on high power for 3 minutes, until hot. </steps_updated>
+    <steps_updated num="1">Stir in the saffron threads and set aside. </steps_updated>
+    <steps_updated num="2">On a cutting board, pat the shrimp dry with paper towels. </steps_updated>
+    <steps_updated num="3">Season with 1 teaspoon of salt and the pepper on both sides and set aside. </steps_updated>
+    <steps_updated num="4">Heat the olive oil in a 12-inch (30 cm) cast-iron skillet over medium-high heat until it begins to shimmer. </steps_updated>
+    <steps_updated num="5">Add the chorizo and cook, stirring, until browned in spots, 3 minutes. </steps_updated>
+    <steps_updated num="6">Add the onion and cook until softened, about 3 minutes. </steps_updated>
+    <steps_updated num="7">Add the garlic and paprika and cook, stirring, until aromatic, about 30 seconds. </steps_updated>
+    <steps_updated num="8">Add the rice and stir until lightly toasted, 1 minute. </steps_updated>
+    <steps_updated num="9">Add the tomatoes and reserved chicken stock and stir to combine. </steps_updated>
+    <steps_updated num="10">Reduce the heat to low and cover the pan with a lid. </steps_updated>
+    <steps_updated num="11">Cook without stirring until the rice is al dente, 15 minutes. </steps_updated>
+    <steps_updated num="12">Remove the lid and arrange the shrimp, mussels, and peas on top of the rice. </steps_updated>
+    <steps_updated num="13">Cover and increase the heat to medium-high. </steps_updated>
+    <steps_updated num="14">Cook until the shrimp are opaque and the mussels are open, 5 minutes. </steps_updated>
+    <steps_updated num="15">Discard any mussels that do not open. </steps_updated>
+    <steps_updated num="16">Remove the lid and pour the lemon juice over the paella. </steps_updated>
+    <steps_updated num="17">Sprinkle with the remaining teaspoon of salt and the parsley and serve. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

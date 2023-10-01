@@ -1,0 +1,44 @@
+<recipe>
+  <title>Bean And Cheese Toaster "Quesadilla" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bean-and-cheese-toaster-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/toaster-quesadillas</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 890 11237 </ingredient>
+    <ingredient num="1">12791 2605 13278 1112 6143 13278 336 5981 </ingredient>
+    <ingredient num="2">2933 8535 13278 14038 </ingredient>
+    <ingredient num="3">12791 2605 13278 3333 14538 1279 13278 1936 5981 </ingredient>
+    <ingredient num="4">10599 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111008/hls24_1538432924.m3u8</low>
+    <high>https://vid.tasty.co/output/111008/landscape_720/1538432924</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>30.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">5209 5994 9924 5097 11434 11951 1112 6143 210 2237 5422 11826 1802 11951 328 </step>
+    <step num="1">9179 11951 14038 8535 13817 3333 14538 560 11951 10707 2532 371 11951 328 </step>
+    <step num="2">12595 11951 11237 210 2532 6781 11951 5239 415 7475 210 11951 1523 6770 148 11155 560 1063 11951 328 </step>
+    <step num="3">2275 4255 2520 1681 10963 2147 1094 560 772 11901 3557 8189 3794 1828 10694 7990 6620 8927 432 484 6781 11951 7672 </step>
+    <step num="4">12774 1391 10599 5358 13 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 9924 5097 11434 11951 1112 6143 210 2237 5422 11826 1802 11951 328 </steps_updated>
+    <steps_updated num="1">9179 11951 14038 8535 13817 3333 14538 560 11951 10707 2532 371 11951 328 </steps_updated>
+    <steps_updated num="2">12595 11951 11237 210 2532 6781 11951 5239 415 7475 210 11951 1523 6770 148 11155 560 1063 11951 328 </steps_updated>
+    <steps_updated num="3">2275 4255 2520 1681 10963 2147 </steps_updated>
+    <steps_updated num="4">1094 560 772 11901 3557 8189 3794 </steps_updated>
+    <steps_updated num="5">1828 10694 7990 6620 8927 432 484 6781 11951 7672 </steps_updated>
+    <steps_updated num="6">12774 1391 10599 5358 13 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

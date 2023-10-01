@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mint Chip Avocado Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mint-chip-avocado-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; large ripe avocados </ingredient>
+    <ingredient num="1">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="2">¼ cup ; full-fat coconut milk ; (60 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; peppermint extract </ingredient>
+    <ingredient num="4">1 pinch ; sea salt </ingredient>
+    <ingredient num="5">dark chocolate, chopped, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33854/low_1497288234.m3u8</low>
+    <high>https://vid.tasty.co/output/33854/mp4_720x1280/1497288234</high>
+  </video>
+  <duration>
+    <start_time>17.0</start_time>
+    <end_time>53.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the avocados to a blender or food processor, along with honey, coconut milk, peppermint extract and salt. </step>
+    <step num="1">Blend until smooth, scraping down sides as necessary. </step>
+    <step num="2">Pour mixture into a freezer-safe dish and fold in the chocolate chunks. </step>
+    <step num="3">Freeze for at least 2-3 hours. If freezing overnight, allow to defrost for 10-15 minutes for easier scooping. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the avocados to a blender or food processor, along with honey, coconut milk, peppermint extract and salt. </steps_updated>
+    <steps_updated num="1">Blend until smooth, scraping down sides as necessary. </steps_updated>
+    <steps_updated num="2">Pour mixture into a freezer-safe dish and fold in the chocolate chunks. </steps_updated>
+    <steps_updated num="3">Freeze for at least 2-3 hours. </steps_updated>
+    <steps_updated num="4">If freezing overnight, allow to defrost for 10-15 minutes for easier scooping. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00569</start_time>
+    <end_time>01600</end_time>
+  </duration_human>
+</recipe>

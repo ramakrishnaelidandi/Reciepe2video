@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Sandwich Roll Up Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-sandwich-roll-up</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9 slices ; white bread </ingredient>
+    <ingredient num="1">6 rashers ; bacon, cooked </ingredient>
+    <ingredient num="2">2 ; breakfast sausages, cooked </ingredient>
+    <ingredient num="3">egg, scrambled </ingredient>
+    <ingredient num="4">ketchup </ingredient>
+    <ingredient num="5">1 tablespoon ; butter </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19304/low_1482446696.m3u8</low>
+    <high>https://vid.tasty.co/output/19304/mp4_720x1280/1482446696</high>
+  </video>
+  <steps>
+    <step num="0">Stack the slices of bread and cut the crusts off. </step>
+    <step num="1">Arrange the slices in a 3" x 3" (7.5cm x 7.5cm) square on clingfilm, overlapping them slightly. </step>
+    <step num="2">Roll out with a rolling pin until they are all combined together. </step>
+    <step num="3">Spread ketchup over the square, then add the scrambled egg, bacon and sausages to the bottom third of the square. Drizzle ketchup on top of the sausages. </step>
+    <step num="4">Roll up and remove the cling film. Cut in half. </step>
+    <step num="5">Heat up the butter in a pan and fry the rolls in butter until all sides are golden brown. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Stack the slices of bread and cut the crusts off. </steps_updated>
+    <steps_updated num="1">Arrange the slices in a 3" x 3" (7.5cm x 7.5cm) square on clingfilm, overlapping them slightly. </steps_updated>
+    <steps_updated num="2">Roll out with a rolling pin until they are all combined together. </steps_updated>
+    <steps_updated num="3">Spread ketchup over the square, then add the scrambled egg, bacon and sausages to the bottom third of the square. </steps_updated>
+    <steps_updated num="4">Drizzle ketchup on top of the sausages. </steps_updated>
+    <steps_updated num="5">Roll up and remove the cling film. </steps_updated>
+    <steps_updated num="6">Cut in half. </steps_updated>
+    <steps_updated num="7">Heat up the butter in a pan and fry the rolls in butter until all sides are golden brown. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

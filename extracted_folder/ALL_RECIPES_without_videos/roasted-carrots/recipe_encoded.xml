@@ -1,0 +1,48 @@
+<recipe>
+  <title>Roasted Carrots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-carrots</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quick-and-easy-thanksgiving-sides</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 11021 13278 4563 5981 </ingredient>
+    <ingredient num="1">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="4">8580 9486 13278 9171 6818 </ingredient>
+    <ingredient num="5">6209 11911 1404 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/62808/low_1510943608.m3u8</low>
+    <high>https://vid.tasty.co/output/62808/mp4_720x1280/1510943608</high>
+  </video>
+  <duration>
+    <start_time>40.29</start_time>
+    <end_time>47.54</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">9179 11951 9151 560 5994 213 11745 13817 1686 1391 8244 7632 12610 10986 13817 9171 12911 </step>
+    <step num="2">2024 7990 5527 12689 </step>
+    <step num="3">13494 1391 13012 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">9179 11951 9151 560 5994 213 11745 13817 1686 1391 8244 7632 12610 10986 13817 9171 12911 </steps_updated>
+    <steps_updated num="2">2024 7990 5527 12689 </steps_updated>
+    <steps_updated num="3">13494 1391 13012 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00667</start_time>
+    <end_time>01438</end_time>
+  </duration_human>
+</recipe>

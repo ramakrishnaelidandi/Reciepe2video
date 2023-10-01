@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Mozzarella Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-mozzarella</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheeses</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; raw cashews ; (130 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; non-dairy yogurt starter </ingredient>
+    <ingredient num="2">2 teaspoons ; xanthan gum powder </ingredient>
+    <ingredient num="3">4 cups ; water ; (960 mL) </ingredient>
+    <ingredient num="4">1 tablespoon ; salt, plus more as needed </ingredient>
+    <ingredient num="5">1 teaspoon ; apple cider vinegar </ingredient>
+    <ingredient num="6">4 tablespoons ; agar-agar flakes </ingredient>
+    <ingredient num="7">1 cup ; tapioca starch ; (125 g) </ingredient>
+    <ingredient num="8">1 ½ cups ; refined coconut oil ; (300 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108211/hls24_1536269245.m3u8</low>
+    <high>https://vid.tasty.co/output/108211/landscape_720/1536269245</high>
+  </video>
+  <duration>
+    <start_time>20.833</start_time>
+    <end_time>79.366</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a medium saucepan filled with water to a boil. Add the cashews and boil for 30 minutes, then drain. </step>
+    <step num="1">Add the boiled cashews, non-dairy yogurt starter, xanthan gum, and water to a blender. Blend until smooth. </step>
+    <step num="2">Transfer the “cheese” mixture to a large bowl, cover with a kitchen towel, and let sit at room temperature, or between 72º-90ºF (22˚-32˚C), for 12-16 hours. </step>
+    <step num="3">Return the mixture to the blender. Add the salt, apple cider vinegar, agar agar flakes, tapioca starch, and coconut oil. Blend until smooth. </step>
+    <step num="4">Fill a large bowl with water and salt generously. Stir to dissolve the salt, then add ice. Set aside. </step>
+    <step num="5">Transfer the “cheese” mixture to a large saucepan over medium-high heat. Stir constantly until the mixture begins to pull together, 3-5 minutes. </step>
+    <step num="6">Using an ice cream scoop, scoop golf ball to baseball-size pieces of the mixture into the ice water. Allow the “mozzarella” balls to sit for 30 minutes, until they have firmed up and become stretchy. </step>
+    <step num="7">Store in salt water in the fridge for up to 1 week. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a medium saucepan filled with water to a boil. </steps_updated>
+    <steps_updated num="1">Add the cashews and boil for 30 minutes, then drain. </steps_updated>
+    <steps_updated num="2">Add the boiled cashews, non-dairy yogurt starter, xanthan gum, and water to a blender. </steps_updated>
+    <steps_updated num="3">Blend until smooth. </steps_updated>
+    <steps_updated num="4">Transfer the “cheese” mixture to a large bowl, cover with a kitchen towel, and let sit at room temperature, or between 72º-90ºF (22˚-32˚C), for 12-16 hours. </steps_updated>
+    <steps_updated num="5">Return the mixture to the blender. </steps_updated>
+    <steps_updated num="6">Add the salt, apple cider vinegar, agar agar flakes, tapioca starch, and coconut oil. </steps_updated>
+    <steps_updated num="7">Blend until smooth. </steps_updated>
+    <steps_updated num="8">Fill a large bowl with water and salt generously. </steps_updated>
+    <steps_updated num="9">Stir to dissolve the salt, then add ice. </steps_updated>
+    <steps_updated num="10">Set aside. </steps_updated>
+    <steps_updated num="11">Transfer the “cheese” mixture to a large saucepan over medium-high heat. </steps_updated>
+    <steps_updated num="12">Stir constantly until the mixture begins to pull together, 3-5 minutes. </steps_updated>
+    <steps_updated num="13">Using an ice cream scoop, scoop golf ball to baseball-size pieces of the mixture into the ice water. </steps_updated>
+    <steps_updated num="14">Allow the “mozzarella” balls to sit for 30 minutes, until they have firmed up and become stretchy. </steps_updated>
+    <steps_updated num="15">Store in salt water in the fridge for up to 1 week. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

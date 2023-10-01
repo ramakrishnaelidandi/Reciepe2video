@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Whipped Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/whipped-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-you-should-know-how-to-make-in-your-20-s</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; heavy whipping cream ; (240 mL) </ingredient>
+    <ingredient num="1">2 tablespoons ; sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97925/hls24_1528493552.m3u8</low>
+    <high>https://vid.tasty.co/output/97925/landscape_720/1528493552</high>
+  </video>
+  <duration>
+    <start_time>119.0</start_time>
+    <end_time>141.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the cream to a large bowl. Using a hand mixer, beat the cream until soft peaks form. </step>
+    <step num="1">Add the sugar and continue to beat until stiff peaks form. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the cream to a large bowl. </steps_updated>
+    <steps_updated num="1">Using a hand mixer, beat the cream until soft peaks form. </steps_updated>
+    <steps_updated num="2">Add the sugar and continue to beat until stiff peaks form. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

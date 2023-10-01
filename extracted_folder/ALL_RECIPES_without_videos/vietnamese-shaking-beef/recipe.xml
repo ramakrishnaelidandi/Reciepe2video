@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vietnamese Shaking Beef Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vietnamese-shaking-beef</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; thick rib eye steak, boneless, cut into 1-inch (2 1/2 cm) cubes ; (910 g) </ingredient>
+    <ingredient num="1">10 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">3 tablespoons ; brown sugar </ingredient>
+    <ingredient num="3">5 tablespoons ; soy sauce, divided </ingredient>
+    <ingredient num="4">2 tablespoons ; oyster sauce </ingredient>
+    <ingredient num="5">1 tablespoon ; fish sauce </ingredient>
+    <ingredient num="6">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="7">1 tablespoon ; granulated sugar </ingredient>
+    <ingredient num="8">2 tablespoons ; white vinegar </ingredient>
+    <ingredient num="9">2 tablespoons ; water </ingredient>
+    <ingredient num="10">1 ; red onion, sliced into rings </ingredient>
+    <ingredient num="11">2 bunches ; watercress </ingredient>
+    <ingredient num="12">3 ; roma tomatoes, sliced </ingredient>
+    <ingredient num="13">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="14">fresh cilantro, for garnish </ingredient>
+    <ingredient num="15">white rice, cooked, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vietnamese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/89842/hls24_1523983253.m3u8</low>
+    <high>https://vid.tasty.co/output/89842/landscape_720/1523983253</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine the beef, garlic, brown sugar, 3 tablespoons of soy sauce, oyster sauce, fish sauce, and black pepper. Toss to combine. Let marinate at room temperature for 30 minutes. </step>
+    <step num="1">In small bowl, combine the granulated sugar, remaining 2 tablespoons of soy sauce, white vinegar, and water. Add the red onion slices and coat the red onions in the dressing thoroughly. Set aside to soak. </step>
+    <step num="2">On a platter, arrange the watercress and tomato slices. </step>
+    <step num="3">Preheat a large wok or skillet over high heat, then add the vegetable oil. When the oil is shimmering, swirl the oil around in the pan. Add half of the beef cubes and sear on all sides, shaking the pan, until the meat is slightly charred and medium rare, 3-5 minutes. Set the meat aside and repeat with remaining beef. </step>
+    <step num="4">Arrange the beef on the bed of watercress and tomatoes. Top with the dressed red onions and fresh cilantro. </step>
+    <step num="5">Serve with domed white rice. For a full meal, serve alongside Vietnamese crepes, spring rolls, and banh mi sandwiches. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the beef, garlic, brown sugar, 3 tablespoons of soy sauce, oyster sauce, fish sauce, and black pepper. </steps_updated>
+    <steps_updated num="1">Toss to combine. </steps_updated>
+    <steps_updated num="2">Let marinate at room temperature for 30 minutes. </steps_updated>
+    <steps_updated num="3">In small bowl, combine the granulated sugar, remaining 2 tablespoons of soy sauce, white vinegar, and water. </steps_updated>
+    <steps_updated num="4">Add the red onion slices and coat the red onions in the dressing thoroughly. </steps_updated>
+    <steps_updated num="5">Set aside to soak. </steps_updated>
+    <steps_updated num="6">On a platter, arrange the watercress and tomato slices. </steps_updated>
+    <steps_updated num="7">Preheat a large wok or skillet over high heat, then add the vegetable oil. </steps_updated>
+    <steps_updated num="8">When the oil is shimmering, swirl the oil around in the pan. </steps_updated>
+    <steps_updated num="9">Add half of the beef cubes and sear on all sides, shaking the pan, until the meat is slightly charred and medium rare, 3-5 minutes. </steps_updated>
+    <steps_updated num="10">Set the meat aside and repeat with remaining beef. </steps_updated>
+    <steps_updated num="11">Arrange the beef on the bed of watercress and tomatoes. </steps_updated>
+    <steps_updated num="12">Top with the dressed red onions and fresh cilantro. </steps_updated>
+    <steps_updated num="13">Serve with domed white rice. </steps_updated>
+    <steps_updated num="14">For a full meal, serve alongside Vietnamese crepes, spring rolls, and banh mi sandwiches. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

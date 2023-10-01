@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One Pot Garlic Parmesan Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-garlic-parmesan-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="1">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">2 cups ; chicken broth ; (470 mL) </ingredient>
+    <ingredient num="3">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="4">8 oz ; fettuccine ; (225 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">¼ cup ; grated parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; fresh parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58958/low_1509380974.m3u8</low>
+    <high>https://vid.tasty.co/output/58958/mp4_720x1280/1509380974</high>
+  </video>
+  <steps>
+    <step num="0">Heat unsalted butter in a large skillet over medium high heat. Add garlic and cook, stirring frequently, until fragrant, about 1-2 minutes. </step>
+    <step num="1">Add in the chicken broth, milk, and fettuccine. Season with salt and pepper. </step>
+    <step num="2">Bring the pot to a boil, then reduce heat and simmer, stirring occasionally, until pasta is cooked through, about 18-20 minutes. </step>
+    <step num="3">Stir in Parmesan. If the mixture is too thick, add more milk as needed until desired consistency is reached. </step>
+    <step num="4">Serve immediately, and top with parsley. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat unsalted butter in a large skillet over medium high heat. </steps_updated>
+    <steps_updated num="1">Add garlic and cook, stirring frequently, until fragrant, about 1-2 minutes. </steps_updated>
+    <steps_updated num="2">Add in the chicken broth, milk, and fettuccine. </steps_updated>
+    <steps_updated num="3">Season with salt and pepper. </steps_updated>
+    <steps_updated num="4">Bring the pot to a boil, then reduce heat and simmer, stirring occasionally, until pasta is cooked through, about 18-20 minutes. </steps_updated>
+    <steps_updated num="5">Stir in Parmesan. </steps_updated>
+    <steps_updated num="6">If the mixture is too thick, add more milk as needed until desired consistency is reached. </steps_updated>
+    <steps_updated num="7">Serve immediately, and top with parsley. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

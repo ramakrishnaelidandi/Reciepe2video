@@ -1,0 +1,57 @@
+<recipe>
+  <title>Chicken Avocado Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-avocado-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 8244 5766 13278 2935 8007 </ingredient>
+    <ingredient num="1">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="4">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="5">3917 8071 13278 13389 10876 </ingredient>
+    <ingredient num="6">3917 1547 13278 6146 1547 </ingredient>
+    <ingredient num="7">8580 9109 13278 6209 10865 14538 </ingredient>
+    <ingredient num="8">8580 9517 13278 7983 8833 8421 7777 669 8535 13278 12922 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 12384 341 13278 3433 5981 </ingredient>
+    <ingredient num="10">13086 13278 6716 </ingredient>
+    <ingredient num="11">14058 13278 5071 717 </ingredient>
+    <ingredient num="12">5766 8226 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32168/low_1495125383.m3u8</low>
+    <high>https://vid.tasty.co/output/32168/mp4_720x1280/1495125383</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 5273 4566 10968 8244 7632 10015 4155 12610 13584 10986 11227 13817 13389 10876 6690 </step>
+    <step num="1">1709 3557 12923 13817 7545 3557 210 7111 7990 1916 </step>
+    <step num="2">10917 2356 4709 11770 11384 9286 1642 4686 7990 3386 560 797 2844 </step>
+    <step num="3">14648 11951 10439 7811 1984 8847 </step>
+    <step num="4">9060 8226 11951 7868 10765 11745 4536 2696 11951 13761 6146 14321 5358 10719 2363 11003 5994 11526 5687 560 772 11951 1547 4765 7868 4255 11951 10590 </step>
+    <step num="5">2988 11384 2260 4255 6146 14321 3345 573 976 6209 8111 976 7983 7678 853 13817 1678 341 914 </step>
+    <step num="6">7831 3557 210 11951 10439 7990 7562 8927 1681 11951 14538 4033 13817 11951 1547 13593 10963 2147 </step>
+    <step num="7">12946 11951 6146 2696 13817 3345 573 976 10415 13817 8177 5071 8720 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 5273 4566 10968 8244 7632 10015 4155 12610 13584 10986 11227 13817 13389 10876 6690 </steps_updated>
+    <steps_updated num="1">1709 3557 12923 13817 7545 3557 210 7111 7990 1916 </steps_updated>
+    <steps_updated num="2">10917 2356 4709 11770 11384 9286 </steps_updated>
+    <steps_updated num="3">1642 4686 7990 3386 560 797 2844 </steps_updated>
+    <steps_updated num="4">14648 11951 10439 7811 1984 8847 </steps_updated>
+    <steps_updated num="5">9060 8226 11951 7868 10765 11745 4536 2696 11951 13761 6146 14321 5358 10719 2363 11003 5994 11526 5687 560 772 11951 1547 4765 7868 4255 11951 10590 </steps_updated>
+    <steps_updated num="6">2988 11384 2260 4255 6146 14321 3345 573 976 6209 8111 976 7983 7678 853 13817 1678 341 914 </steps_updated>
+    <steps_updated num="7">7831 3557 210 11951 10439 7990 7562 8927 1681 11951 14538 4033 13817 11951 1547 13593 10963 2147 </steps_updated>
+    <steps_updated num="8">12946 11951 6146 2696 13817 3345 573 976 10415 13817 8177 5071 8720 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<recipe>
+  <title>Apple Peel Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-peel-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">6735 13278 2597 7341 6416 13817 4125 </ingredient>
+    <ingredient num="1">13086 9486 13278 4834 </ingredient>
+    <ingredient num="2">3917 8071 13278 12425 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>77.333</start_time>
+    <end_time>94.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 14396 8275 </step>
+    <step num="1">5570 11951 9908 3775 4255 5994 10765 213 10926 1391 3550 8831 </step>
+    <step num="2">9393 11951 4834 13817 12425 210 5994 2192 12377 13817 1678 3557 11770 11951 5366 </step>
+    <step num="3">7643 11951 3775 1391 12313 13676 1681 3584 7670 1391 11951 4834 10665 </step>
+    <step num="4">7831 7990 6285 238 11004 10390 11951 3775 14166 7492 1391 5994 6656 371 14043 </step>
+    <step num="5">1828 10694 432 1735 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 14396 8275 </steps_updated>
+    <steps_updated num="1">5570 11951 9908 3775 4255 5994 10765 213 10926 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">9393 11951 4834 13817 12425 210 5994 2192 12377 13817 1678 3557 11770 11951 5366 </steps_updated>
+    <steps_updated num="3">7643 11951 3775 1391 12313 13676 1681 3584 7670 1391 11951 4834 10665 </steps_updated>
+    <steps_updated num="4">7831 7990 6285 238 11004 10390 11951 3775 14166 7492 1391 5994 6656 371 14043 </steps_updated>
+    <steps_updated num="5">1828 10694 432 1735 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

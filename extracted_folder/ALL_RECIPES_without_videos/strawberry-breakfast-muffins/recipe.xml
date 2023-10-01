@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Breakfast Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-breakfast-muffins</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; whole wheat flour ; (115 g) </ingredient>
+    <ingredient num="1">1 ¼ teaspoons ; baking powder </ingredient>
+    <ingredient num="2">¼ teaspoon ; salt </ingredient>
+    <ingredient num="3">1 cup ; strawberry, diced ; (200 g) </ingredient>
+    <ingredient num="4">2 ; eggs, room temperature </ingredient>
+    <ingredient num="5">⅓ cup ; honey ; (115 g) </ingredient>
+    <ingredient num="6">½ cup ; greek yogurt, room temperature ; (140 g) </ingredient>
+    <ingredient num="7">3 tablespoons ; coconut oil, melted, plus more for greasing </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13546/low_1478040240.m3u8</low>
+    <high>https://vid.tasty.co/output/13546/mp4_720x1280/1478040240</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">In a large mixing bowl, whisk together the eggs, yogurt, honey, strawberries, and coconut oil until well combined. </step>
+    <step num="2">Add the flour, baking powder, and salt, and fold the batter together using a rubber spatula. Stop folding once all of the dry ingredients have disappeared into the batter. </step>
+    <step num="3">Using a medium ice cream scoop, pour one scoop full of batter into each well of a greased muffin tin. </step>
+    <step num="4">Bake for for 20-25 minutes, until a toothpick inserted in the center of a muffin comes out clean. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">In a large mixing bowl, whisk together the eggs, yogurt, honey, strawberries, and coconut oil until well combined. </steps_updated>
+    <steps_updated num="2">Add the flour, baking powder, and salt, and fold the batter together using a rubber spatula. </steps_updated>
+    <steps_updated num="3">Stop folding once all of the dry ingredients have disappeared into the batter. </steps_updated>
+    <steps_updated num="4">Using a medium ice cream scoop, pour one scoop full of batter into each well of a greased muffin tin. </steps_updated>
+    <steps_updated num="5">Bake for for 20-25 minutes, until a toothpick inserted in the center of a muffin comes out clean. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

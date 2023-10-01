@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hot Cross Bread And Butter Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-cross-bread-and-butter-pudding</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; hot cross buns </ingredient>
+    <ingredient num="1">butter </ingredient>
+    <ingredient num="2">1 cup ; dark chocolate chip ; (150 g) </ingredient>
+    <ingredient num="3">1 cup ; milk ; (250 mL) </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">1 teaspoon ; caster sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32193/low_1495125447.m3u8</low>
+    <high>https://vid.tasty.co/output/32193/mp4_720x1280/1495125447</high>
+  </video>
+  <steps>
+    <step num="0">Cut the hot cross buns in half and butter both sides. Sprinkle in half of the chocolate chips across all six buns and close. </step>
+    <step num="1">Place in a tin that gives them a snug fit. </step>
+    <step num="2">Whisk together the milk, egg and sugar in another bowl and pour over the buns. Sprinkle over the other half of the chocolate chips. </step>
+    <step num="3">Bake for 30 mins at 300°F convection (150°C Fan). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the hot cross buns in half and butter both sides. </steps_updated>
+    <steps_updated num="1">Sprinkle in half of the chocolate chips across all six buns and close. </steps_updated>
+    <steps_updated num="2">Place in a tin that gives them a snug fit. </steps_updated>
+    <steps_updated num="3">Whisk together the milk, egg and sugar in another bowl and pour over the buns. </steps_updated>
+    <steps_updated num="4">Sprinkle over the other half of the chocolate chips. </steps_updated>
+    <steps_updated num="5">Bake for 30 mins at 300°F convection (150°C Fan). </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

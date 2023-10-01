@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Tomato Shrimp Rotini Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-tomato-shrimp-rotini-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/rotini-pasta-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; butter </ingredient>
+    <ingredient num="1">2 lb ; shrimp, deveined and peeled ; (905 g) </ingredient>
+    <ingredient num="2">1 cup ; tomato, chopped ; (200 g) </ingredient>
+    <ingredient num="3">½ cup ; green onion, chopped ; (50 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; chili powder </ingredient>
+    <ingredient num="5">½ cup ; fresh parsley, chopped ; (15 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; salt </ingredient>
+    <ingredient num="7">2 teaspoons ; pepper </ingredient>
+    <ingredient num="8">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="9">1 ¼ cups ; rotini pasta ; (250 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9424/low_1472654502.m3u8</low>
+    <high>https://vid.tasty.co/output/9424/mp4_720x1280/1472654502</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>26.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Melt butter in a large pot over medium-high heat. </step>
+    <step num="1">Cook the shrimp until pink. </step>
+    <step num="2">Add the tomato, green onion, chili powder, parsley, salt, and pepper, stirring until evenly mixed. </step>
+    <step num="3">Pour in the milk, bringing to a boil. </step>
+    <step num="4">Stir in the cooked pasta until well-coated. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt butter in a large pot over medium-high heat. </steps_updated>
+    <steps_updated num="1">Cook the shrimp until pink. </steps_updated>
+    <steps_updated num="2">Add the tomato, green onion, chili powder, parsley, salt, and pepper, stirring until evenly mixed. </steps_updated>
+    <steps_updated num="3">Pour in the milk, bringing to a boil. </steps_updated>
+    <steps_updated num="4">Stir in the cooked pasta until well-coated. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00809</end_time>
+  </duration_human>
+</recipe>

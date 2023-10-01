@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cranberry Sauce Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cranberry-sauce-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-holiday-leftovers</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; cranberry sauce ; (140 g) </ingredient>
+    <ingredient num="1">½ cup ; frozen strawberry ; (75 g) </ingredient>
+    <ingredient num="2">½ ; banana </ingredient>
+    <ingredient num="3">½ cup ; ice ; (110 g) </ingredient>
+    <ingredient num="4">½ cup ; milk, of your choice ; (120 mL) </ingredient>
+    <ingredient num="5">½ cup ; mixed greens, of your choice, optional ; (40 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; orange zest </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/119172/hls24_1544558806.m3u8</low>
+    <high>https://vid.tasty.co/output/119172/landscape_720/1544558806</high>
+  </video>
+  <duration>
+    <start_time>52.166</start_time>
+    <end_time>68.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, combine the cranberry sauce, frozen strawberries, banana, ice, milk, greens, and orange zest. Blend until smooth. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine the cranberry sauce, frozen strawberries, banana, ice, milk, greens, and orange zest. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

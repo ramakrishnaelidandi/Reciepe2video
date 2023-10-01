@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Fajita Quesadillas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-fajita-quesadillas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 breasts ; chicken breast </ingredient>
+    <ingredient num="1">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="2">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="3">1 ; onion, sliced </ingredient>
+    <ingredient num="4">4 cloves ; garlic cloves, sliced </ingredient>
+    <ingredient num="5">3 ; bell peppers, sliced </ingredient>
+    <ingredient num="6">1 ; lime, juiced </ingredient>
+    <ingredient num="7">8 ; tortillas </ingredient>
+    <ingredient num="8">2 tablespoons ; butter </ingredient>
+    <ingredient num="9">2 cups ; shredded cheese, mexican blend ; (220 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32097/low_1495125377.m3u8</low>
+    <high>https://vid.tasty.co/output/32097/mp4_720x1280/1495125377</high>
+  </video>
+  <steps>
+    <step num="0">Slice the chicken breasts into strips, about an inch apart, and coat with taco seasoning. In a large skillet, heat 1 Tbsp. vegetable oil and cook chicken until no longer pink and slightly charred. Remove cooked chicken from the skillet. </step>
+    <step num="1">Heat another Tbsp. oil, add onion and garlic and cook for a couple minutes until it’s slightly translucent. Add the peppers, and cook slightly, then mix in the cooked chicken. Remove from heat and set aside. </step>
+    <step num="2">In a clean pan, melt a bit of butter. Add a tortilla and move it around until it’s buttery. Add cheese, then fajita mixture, then more cheese, then top with another tortilla and pat it down. </step>
+    <step num="3">Flip the quesadilla over and cook the other side until it’s golden. Remove from pan and cut into quarters. Repeat these steps with the remaining tortillas. </step>
+    <step num="4">*Optional - Serve with sour cream, guacamole, and salsa. Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the chicken breasts into strips, about an inch apart, and coat with taco seasoning. </steps_updated>
+    <steps_updated num="1">In a large skillet, heat 1 Tbsp. </steps_updated>
+    <steps_updated num="2">vegetable oil and cook chicken until no longer pink and slightly charred. </steps_updated>
+    <steps_updated num="3">Remove cooked chicken from the skillet. </steps_updated>
+    <steps_updated num="4">Heat another Tbsp. </steps_updated>
+    <steps_updated num="5">oil, add onion and garlic and cook for a couple minutes until it’s slightly translucent. </steps_updated>
+    <steps_updated num="6">Add the peppers, and cook slightly, then mix in the cooked chicken. </steps_updated>
+    <steps_updated num="7">Remove from heat and set aside. </steps_updated>
+    <steps_updated num="8">In a clean pan, melt a bit of butter. </steps_updated>
+    <steps_updated num="9">Add a tortilla and move it around until it’s buttery. </steps_updated>
+    <steps_updated num="10">Add cheese, then fajita mixture, then more cheese, then top with another tortilla and pat it down. </steps_updated>
+    <steps_updated num="11">Flip the quesadilla over and cook the other side until it’s golden. </steps_updated>
+    <steps_updated num="12">Remove from pan and cut into quarters. </steps_updated>
+    <steps_updated num="13">Repeat these steps with the remaining tortillas. </steps_updated>
+    <steps_updated num="14">*Optional - Serve with sour cream, guacamole, and salsa. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

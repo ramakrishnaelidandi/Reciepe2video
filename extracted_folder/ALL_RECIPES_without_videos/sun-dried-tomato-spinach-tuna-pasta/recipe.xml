@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sun-Dried Tomato &amp; Spinach Tuna Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sun-dried-tomato-spinach-tuna-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/no-fuss-dinner-you-can-make-with-canned-tuna</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="2">½ cup ; sundried tomato ; (25 g) </ingredient>
+    <ingredient num="3">1 ; lemon, juiced </ingredient>
+    <ingredient num="4">10 oz ; tuna, canned, drained ; (285 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">2 cups ; whole wheat pasta, cooked according to package instructions ; (200 g) </ingredient>
+    <ingredient num="8">2 cups ; fresh spinach ; (80 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99269/hls24_1529447421.m3u8</low>
+    <high>https://vid.tasty.co/output/99269/landscape_720/1529447421</high>
+  </video>
+  <duration>
+    <start_time>88.0</start_time>
+    <end_time>123.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the olive oil in a large skillet over medium-high heat.  Add the garlic and cook for about 30 seconds, until fragrant. </step>
+    <step num="1">Add the sun-dried tomatoes and lemon juice and cook for 1-2 minutes, until fragrant. </step>
+    <step num="2">Add the tuna, salt, and pepper, and mix until thoroughly combined. </step>
+    <step num="3">Add the pasta and spinach and cook for about 1 minute, until spinach starts to wilt. </step>
+    <step num="4">Remove the pasta from the heat and serve. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="1">Add the garlic and cook for about 30 seconds, until fragrant. </steps_updated>
+    <steps_updated num="2">Add the sun-dried tomatoes and lemon juice and cook for 1-2 minutes, until fragrant. </steps_updated>
+    <steps_updated num="3">Add the tuna, salt, and pepper, and mix until thoroughly combined. </steps_updated>
+    <steps_updated num="4">Add the pasta and spinach and cook for about 1 minute, until spinach starts to wilt. </steps_updated>
+    <steps_updated num="5">Remove the pasta from the heat and serve. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

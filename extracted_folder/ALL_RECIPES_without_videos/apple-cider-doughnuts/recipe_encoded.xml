@@ -1,0 +1,69 @@
+<recipe>
+  <title>Apple Cider Doughnuts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-cider-doughnuts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 1580 9517 13278 9908 6410 12781 573 560 7887 2605 2935 9443 13278 7465 8007 </ingredient>
+    <ingredient num="1">12791 2605 13278 9924 13278 13412 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 8653 4834 13278 6898 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 6949 1368 4834 13278 7289 5981 </ingredient>
+    <ingredient num="4">8580 13278 2597 12708 </ingredient>
+    <ingredient num="5">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="6">9883 2605 13278 1484 13033 13278 7642 5981 </ingredient>
+    <ingredient num="7">4061 9517 13278 890 13278 9990 5981 </ingredient>
+    <ingredient num="8">3917 1580 2031 13278 82 </ingredient>
+    <ingredient num="9">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="10">8580 2031 13278 12425 </ingredient>
+    <ingredient num="11">3917 8071 13278 12159 </ingredient>
+    <ingredient num="12">11338 7632 7990 5291 </ingredient>
+    <ingredient num="13">12425 6145 7990 13715 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13255/low_1477615623.m3u8</low>
+    <high>https://vid.tasty.co/output/13255/mp4_720x1280/1477615623</high>
+  </video>
+  <steps>
+    <step num="0">8785 9908 14165 560 5994 1002 11770 3996 2082 10211 573 560 1580 2605 2935 9443 7531 6285 5169 5686 </step>
+    <step num="1">1083 669 5994 2597 13426 8266 1384 </step>
+    <step num="2">9179 9924 560 6222 14165 13817 6142 560 2632 2257 2891 435 </step>
+    <step num="3">10950 5994 2597 14511 8341 3626 12708 1391 4617 13817 1368 8525 9179 13046 712 2207 1484 1123 13817 1319 6708 </step>
+    <step num="4">10950 5994 2597 12377 5895 210 5994 11042 10859 1497 817 11770 11951 6118 13333 5068 3626 6467 10765 8117 12610 4654 13817 12825 </step>
+    <step num="5">5209 5994 12295 13908 10968 5316 11907 669 11951 6118 1681 644 9456 </step>
+    <step num="6">4660 13817 1780 7990 3917 5664 </step>
+    <step num="7">12474 5994 12726 2398 6540 4536 2696 11951 13046 8337 560 6285 9255 8891 1645 13080 13817 7777 669 106 7134 10104 7969 11160 5895 5994 9190 9058 13817 5994 1460 761 6369 4080 7777 10021 13767 8927 3954 5358 14532 </step>
+    <step num="8">8889 5766 560 9988 8999 </step>
+    <step num="9">8916 10399 199 7811 5994 7555 9309 6107 1681 10963 4255 6697 6701 </step>
+    <step num="10">6054 560 5994 12 1811 10926 10765 213 560 8681 7692 210 12425 4834 3343 8161 10316 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 9908 14165 560 5994 1002 11770 3996 2082 </steps_updated>
+    <steps_updated num="1">10211 573 560 1580 2605 2935 9443 7531 6285 5169 5686 </steps_updated>
+    <steps_updated num="2">1083 669 5994 2597 13426 8266 1384 </steps_updated>
+    <steps_updated num="3">9179 9924 560 6222 14165 13817 6142 560 2632 </steps_updated>
+    <steps_updated num="4">2257 2891 435 </steps_updated>
+    <steps_updated num="5">10950 5994 2597 14511 8341 3626 12708 1391 4617 13817 1368 8525 </steps_updated>
+    <steps_updated num="6">9179 13046 712 2207 1484 1123 13817 1319 6708 </steps_updated>
+    <steps_updated num="7">10950 5994 2597 12377 5895 210 5994 11042 10859 1497 817 11770 11951 6118 13333 5068 3626 6467 10765 8117 12610 4654 13817 12825 </steps_updated>
+    <steps_updated num="8">5209 5994 12295 13908 10968 5316 11907 669 11951 6118 1681 644 9456 </steps_updated>
+    <steps_updated num="9">4660 13817 1780 7990 3917 5664 </steps_updated>
+    <steps_updated num="10">12474 5994 12726 2398 6540 4536 2696 11951 13046 8337 560 6285 9255 8891 1645 13080 13817 7777 669 106 7134 10104 7969 11160 5895 5994 9190 9058 13817 5994 1460 761 6369 </steps_updated>
+    <steps_updated num="11">4080 7777 10021 13767 8927 3954 5358 14532 </steps_updated>
+    <steps_updated num="12">8889 5766 560 9988 8999 </steps_updated>
+    <steps_updated num="13">8916 10399 199 7811 5994 7555 9309 6107 1681 10963 4255 6697 6701 </steps_updated>
+    <steps_updated num="14">6054 560 5994 12 1811 10926 10765 213 560 8681 </steps_updated>
+    <steps_updated num="15">7692 210 12425 4834 3343 8161 10316 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

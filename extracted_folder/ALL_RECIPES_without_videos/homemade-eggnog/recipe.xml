@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Eggnog Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-eggnog</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-eggnog-and-eggnog-cookie-dippers</comp_url>
+  <ingredients>
+    <ingredient num="0">4 cups ; milk, divided ; (960 mL) </ingredient>
+    <ingredient num="1">2 ; large eggs </ingredient>
+    <ingredient num="2">3 ; large eggs, only use the yolk, reserve whites for eggnog cookie dippers </ingredient>
+    <ingredient num="3">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="4">1 pinch ; kosher salt </ingredient>
+    <ingredient num="5">1 cup ; heavy cream ; (240 mL) </ingredient>
+    <ingredient num="6">1 cup ; dark rum, or spiced rum (optional) ; (240 mL) </ingredient>
+    <ingredient num="7">nutmeg, freshly grated for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/119366/hls24_1544636532.m3u8</low>
+    <high>https://vid.tasty.co/output/119366/landscape_720/1544636532</high>
+  </video>
+  <duration>
+    <start_time>7.0</start_time>
+    <end_time>97.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat 3 cups (720 ml) of milk in a medium saucepan over medium-low heat until it is steaming, 5-6 minutes (do not allow it to come to a boil.) </step>
+    <step num="1">While the milk is warming, whisk together the eggs, egg yolks, sugar, and a pinch of salt in a medium bowl until pale yellow in color, 1-2 minutes. </step>
+    <step num="2">Once the milk has begun to steam, slowly pour half into the egg mixture while continuously whisking so the eggs don’t scramble. Once combined, slowly pour the egg and milk mixture back into the saucepan. 4. Keep warm over medium-low heat, stirring continuously for 15-20 minutes, until the mixture has thickened enough to coat the back of a spoon. </step>
+    <step num="3">Prepare an ice bath in a large bowl. Place a medium bowl in the ice bath and set a fine-mesh sieve on top. Pour the egg mixture through the sieve to remove any unwanted egg bits. </step>
+    <step num="4">Remove the sieve and add the remaining cup of milk and heavy cream, and stir to combine. Let cool for 20 minutes, stirring every 5. Add the rum, if desired, then cover and refrigerate for at least 2 hours. The eggnog will keep in the fridge for up to 3 days. </step>
+    <step num="5">Serve with freshly grated nutmeg on top. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat 3 cups (720 ml) of milk in a medium saucepan over medium-low heat until it is steaming, 5-6 minutes (do not allow it to come to a boil.) </steps_updated>
+    <steps_updated num="1">While the milk is warming, whisk together the eggs, egg yolks, sugar, and a pinch of salt in a medium bowl until pale yellow in color, 1-2 minutes. </steps_updated>
+    <steps_updated num="2">Once the milk has begun to steam, slowly pour half into the egg mixture while continuously whisking so the eggs don’t scramble. </steps_updated>
+    <steps_updated num="3">Once combined, slowly pour the egg and milk mixture back into the saucepan. </steps_updated>
+    <steps_updated num="4">4. </steps_updated>
+    <steps_updated num="5">Keep warm over medium-low heat, stirring continuously for 15-20 minutes, until the mixture has thickened enough to coat the back of a spoon. </steps_updated>
+    <steps_updated num="6">Prepare an ice bath in a large bowl. </steps_updated>
+    <steps_updated num="7">Place a medium bowl in the ice bath and set a fine-mesh sieve on top. </steps_updated>
+    <steps_updated num="8">Pour the egg mixture through the sieve to remove any unwanted egg bits. </steps_updated>
+    <steps_updated num="9">Remove the sieve and add the remaining cup of milk and heavy cream, and stir to combine. </steps_updated>
+    <steps_updated num="10">Let cool for 20 minutes, stirring every 5. </steps_updated>
+    <steps_updated num="11">Add the rum, if desired, then cover and refrigerate for at least 2 hours. </steps_updated>
+    <steps_updated num="12">The eggnog will keep in the fridge for up to 3 days. </steps_updated>
+    <steps_updated num="13">Serve with freshly grated nutmeg on top. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

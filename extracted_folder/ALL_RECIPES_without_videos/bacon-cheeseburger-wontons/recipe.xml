@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon Cheeseburger Wontons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-cheeseburger-wontons</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; onion, diced </ingredient>
+    <ingredient num="1">2 cloves ; garlic </ingredient>
+    <ingredient num="2">2 strips ; bacon </ingredient>
+    <ingredient num="3">1 lb ; ground beef ; (500 g) </ingredient>
+    <ingredient num="4">1 cup ; mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="5">⅓ cup ; gherkin, chopped ; (50 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; mustard, american </ingredient>
+    <ingredient num="7">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="8">1 ; egg, beaten </ingredient>
+    <ingredient num="9">6 tablespoons ; mayonnaise </ingredient>
+    <ingredient num="10">3 tablespoons ; ketchup </ingredient>
+    <ingredient num="11">1 tablespoon ; mustard, american </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32149/low_1495125332.m3u8</low>
+    <high>https://vid.tasty.co/output/32149/mp4_720x1280/1495125332</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">Fry the onion, garlic, bacon and mince until cooked and transfer into a large bowl. </step>
+    <step num="2">Add the mozzarella, gherkins and mustard, and mix well. Set filling aside. </step>
+    <step num="3">In a large bowl, make a well in the flour and slowly mix in the beaten egg and water until combined. Knead for 5-10 minutes then leave in a warm place to rest for 1-2 hours. </step>
+    <step num="4">Once rested, knead for another minute, then divide dough into 4. Roll out each piece until it is a 7x7 inch (18x18 cm), then cut into 4. </step>
+    <step num="5">Put 1 tbsp of the filling into each square, brush the sides with water and then fold into triangles. Repeat for all the dough. </step>
+    <step num="6">Oil a baking tray and cook wontons for 8-10 minutes at your oven’s highest temperature. </step>
+    <step num="7">To make the sauce, mix together the mayo, ketchup, and mustard. </step>
+    <step num="8">Serve and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Fry the onion, garlic, bacon and mince until cooked and transfer into a large bowl. </steps_updated>
+    <steps_updated num="2">Add the mozzarella, gherkins and mustard, and mix well. </steps_updated>
+    <steps_updated num="3">Set filling aside. </steps_updated>
+    <steps_updated num="4">In a large bowl, make a well in the flour and slowly mix in the beaten egg and water until combined. </steps_updated>
+    <steps_updated num="5">Knead for 5-10 minutes then leave in a warm place to rest for 1-2 hours. </steps_updated>
+    <steps_updated num="6">Once rested, knead for another minute, then divide dough into 4. </steps_updated>
+    <steps_updated num="7">Roll out each piece until it is a 7x7 inch (18x18 cm), then cut into 4. </steps_updated>
+    <steps_updated num="8">Put 1 tbsp of the filling into each square, brush the sides with water and then fold into triangles. </steps_updated>
+    <steps_updated num="9">Repeat for all the dough. </steps_updated>
+    <steps_updated num="10">Oil a baking tray and cook wontons for 8-10 minutes at your oven’s highest temperature. </steps_updated>
+    <steps_updated num="11">To make the sauce, mix together the mayo, ketchup, and mustard. </steps_updated>
+    <steps_updated num="12">Serve and enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

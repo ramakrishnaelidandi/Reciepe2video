@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Turkey &amp; Cream Cheese Pinwheels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turkey-cream-cheese-pinwheels</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/back-to-school-lunch-prep</comp_url>
+  <ingredients>
+    <ingredient num="0">2 slices ; whole wheat bread </ingredient>
+    <ingredient num="1">2 tablespoons ; cream cheese </ingredient>
+    <ingredient num="2">2 leaves ; lettuce </ingredient>
+    <ingredient num="3">4 slices ; turkey breast deli meat </ingredient>
+    <ingredient num="4">cherry tomato, as desired </ingredient>
+    <ingredient num="5">¼ cup ; wheat cereal ; (25 g) </ingredient>
+    <ingredient num="6">¼ cup ; pretzel stick ; (15 g) </ingredient>
+    <ingredient num="7">¼ cup ; chocolate candy ; (50 g) </ingredient>
+    <ingredient num="8">¼ cup ; raisin ; (40 g) </ingredient>
+    <ingredient num="9">1 ; juice box, frozen </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46650/low_1502234080.m3u8</low>
+    <high>https://vid.tasty.co/output/46650/mp4_720x1280/1502234080</high>
+  </video>
+  <duration>
+    <start_time>29.0</start_time>
+    <end_time>60.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread 1 tablespoon of cream cheese on 1 piece of bread. </step>
+    <step num="1">Place lettuce and turkey on the cream cheese. </step>
+    <step num="2">Roll it up with the bread on the outside. Cut in half and place in bento box. </step>
+    <step num="3">Place cherry tomatoes in one compartment and in another add cereal, pretzels, chocolate candies, and raisins. </step>
+    <step num="4">Pack bento box in a lunch box with a frozen juice box to keep everything cold. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread 1 tablespoon of cream cheese on 1 piece of bread. </steps_updated>
+    <steps_updated num="1">Place lettuce and turkey on the cream cheese. </steps_updated>
+    <steps_updated num="2">Roll it up with the bread on the outside. </steps_updated>
+    <steps_updated num="3">Cut in half and place in bento box. </steps_updated>
+    <steps_updated num="4">Place cherry tomatoes in one compartment and in another add cereal, pretzels, chocolate candies, and raisins. </steps_updated>
+    <steps_updated num="5">Pack bento box in a lunch box with a frozen juice box to keep everything cold. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00909</start_time>
+    <end_time>01831</end_time>
+  </duration_human>
+</recipe>

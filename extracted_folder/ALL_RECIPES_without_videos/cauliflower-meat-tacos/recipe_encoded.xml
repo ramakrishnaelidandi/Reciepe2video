@@ -1,0 +1,64 @@
+<recipe>
+  <title>Cauliflower &#8220;Meat&#8221; Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-meat-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cauliflower-beefless-tacos</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13757 3173 13278 1633 6416 </ingredient>
+    <ingredient num="1">2933 643 13278 9325 2807 2658 7905 11442 4324 13817 14432 13278 9018 5981 </ingredient>
+    <ingredient num="2">3917 1580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="3">3917 13278 13757 11091 12384 10015 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">8580 2031 13278 11088 3170 </ingredient>
+    <ingredient num="6">3917 1580 2031 13278 11986 9496 </ingredient>
+    <ingredient num="7">8580 9486 13278 13389 11703 </ingredient>
+    <ingredient num="8">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">10986 560 11567 </ingredient>
+    <ingredient num="11">3183 11237 </ingredient>
+    <ingredient num="12">9491 341 </ingredient>
+    <ingredient num="13">468 341 </ingredient>
+    <ingredient num="14">9668 5218 </ingredient>
+    <ingredient num="15">6209 14621 </ingredient>
+    <ingredient num="16">9712 5157 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108686/hls24_1536702719.m3u8</low>
+    <high>https://vid.tasty.co/output/108686/landscape_720/1536702719</high>
+  </video>
+  <duration>
+    <start_time>1.3330000000000002</start_time>
+    <end_time>78.766</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 11951 10426 210 2532 13817 827 3557 669 2192 243 </step>
+    <step num="1">5570 11951 4772 210 5994 8016 9909 13817 8287 1681 6665 827 573 560 9682 13637 6054 6781 11951 9909 13817 817 5292 </step>
+    <step num="2">9179 11951 14094 560 11951 8016 9909 13817 8287 1681 14339 573 560 9682 13637 </step>
+    <step num="3">8889 11951 8244 5766 210 5994 2597 10060 11770 13757 2082 9179 11951 6334 13817 11384 560 11951 5687 13817 2550 7990 6285 4061 11004 1681 13223 13817 11951 6334 9490 6470 </step>
+    <step num="4">9179 11951 1633 9806 2670 11986 6958 13389 8117 11691 7280 12610 13817 7845 13817 12224 264 7990 6285 13767 11004 1681 11951 10426 13817 13902 2373 9490 10306 13817 11951 12282 1711 6781 11951 14094 7312 389 </step>
+    <step num="5">9179 11951 10426 7921 560 11951 6640 14473 1391 12313 226 7857 12774 1391 5994 9712 1911 </step>
+    <step num="6">4429 1762 11628 9935 11951 10426 7921 217 2505 10912 210 2237 2759 3801 7990 6285 8580 2497 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 11951 10426 210 2532 13817 827 3557 669 2192 243 </steps_updated>
+    <steps_updated num="1">5570 11951 4772 210 5994 8016 9909 13817 8287 1681 6665 827 573 560 9682 13637 </steps_updated>
+    <steps_updated num="2">6054 6781 11951 9909 13817 817 5292 </steps_updated>
+    <steps_updated num="3">9179 11951 14094 560 11951 8016 9909 13817 8287 1681 14339 573 560 9682 13637 </steps_updated>
+    <steps_updated num="4">8889 11951 8244 5766 210 5994 2597 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">9179 11951 6334 13817 11384 560 11951 5687 13817 2550 7990 6285 4061 11004 1681 13223 13817 11951 6334 9490 6470 </steps_updated>
+    <steps_updated num="6">9179 11951 1633 9806 2670 11986 6958 13389 8117 11691 7280 12610 13817 7845 13817 12224 </steps_updated>
+    <steps_updated num="7">264 7990 6285 13767 11004 1681 11951 10426 13817 13902 2373 9490 10306 13817 11951 12282 1711 6781 11951 14094 7312 389 </steps_updated>
+    <steps_updated num="8">9179 11951 10426 7921 560 11951 6640 14473 1391 12313 226 7857 </steps_updated>
+    <steps_updated num="9">12774 1391 5994 9712 1911 </steps_updated>
+    <steps_updated num="10">4429 1762 11628 9935 11951 10426 7921 217 2505 10912 210 2237 2759 3801 7990 6285 8580 2497 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

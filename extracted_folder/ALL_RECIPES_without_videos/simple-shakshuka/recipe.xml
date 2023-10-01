@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Shakshuka Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-shakshuka</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-unique-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">olive oil, drizzle </ingredient>
+    <ingredient num="1">1 cup ; yellow onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">1 ; orange bell pepper, diced </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">½ teaspoon ; cumin </ingredient>
+    <ingredient num="6">½ teaspoon ; paprika </ingredient>
+    <ingredient num="7">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="8">28 oz ; crushed tomatoes, 1 can ; (795 g) </ingredient>
+    <ingredient num="9">1 ; bay leaf </ingredient>
+    <ingredient num="10">1 ½ cups ; fresh baby kale ; (100 g) </ingredient>
+    <ingredient num="11">4 ; large eggs </ingredient>
+    <ingredient num="12">¼ cup ; feta cheese, crumble ; (25 g) </ingredient>
+    <ingredient num="13">bread, toasted, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105971/hls24_1534801160.m3u8</low>
+    <high>https://vid.tasty.co/output/105971/landscape_720/1534801160</high>
+  </video>
+  <duration>
+    <start_time>165.0</start_time>
+    <end_time>232.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat a large cast iron skillet over medium-low heat. </step>
+    <step num="1">Once the pan is hot, add the olive oil and swirl to coat the pan. Add the onion, bell pepper, salt, and pepper. Sauté 5 minutes, or until the onion is almost translucent. </step>
+    <step num="2">Add the cumin, paprika, and garlic. Sauté 2-3 minutes, or until the garlic is slightly brown. </step>
+    <step num="3">Pour in the crushed tomatoes and add the bay leaf. Simmer for 10-15 minutes, or until the mixture has thickened. </step>
+    <step num="4">Stir in the baby kale until wilted. </step>
+    <step num="5">Reduce the heat to low, then carefully crack the eggs into the sauce. Cover and simmer until the egg whites are set, about 10-12 minutes. </step>
+    <step num="6">Top with the feta cheese and remove the pan from the heat. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat a large cast iron skillet over medium-low heat. </steps_updated>
+    <steps_updated num="1">Once the pan is hot, add the olive oil and swirl to coat the pan. </steps_updated>
+    <steps_updated num="2">Add the onion, bell pepper, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Sauté 5 minutes, or until the onion is almost translucent. </steps_updated>
+    <steps_updated num="4">Add the cumin, paprika, and garlic. </steps_updated>
+    <steps_updated num="5">Sauté 2-3 minutes, or until the garlic is slightly brown. </steps_updated>
+    <steps_updated num="6">Pour in the crushed tomatoes and add the bay leaf. </steps_updated>
+    <steps_updated num="7">Simmer for 10-15 minutes, or until the mixture has thickened. </steps_updated>
+    <steps_updated num="8">Stir in the baby kale until wilted. </steps_updated>
+    <steps_updated num="9">Reduce the heat to low, then carefully crack the eggs into the sauce. </steps_updated>
+    <steps_updated num="10">Cover and simmer until the egg whites are set, about 10-12 minutes. </steps_updated>
+    <steps_updated num="11">Top with the feta cheese and remove the pan from the heat. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Spinach And Tomato Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-spinach-and-tomato-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-3</comp_url>
+  <ingredients>
+    <ingredient num="0">4 oz ; dried whole wheat penne ; (115 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil, plus 1 tsp, divided </ingredient>
+    <ingredient num="2">½ ; yellow onion, diced </ingredient>
+    <ingredient num="3">¼ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="4">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">¾ cup ; diced tomato, 1 can, with juice ; (150 g) </ingredient>
+    <ingredient num="6">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="7">¼ teaspoon ; ground black pepper </ingredient>
+    <ingredient num="8">1 cup ; shredded rotisserie chicken ; (125 g) </ingredient>
+    <ingredient num="9">1 cup ; baby spinach ; (40 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94177/hls24_1526421103.m3u8</low>
+    <high>https://vid.tasty.co/output/94177/landscape_720/1526421103</high>
+  </video>
+  <duration>
+    <start_time>105.333</start_time>
+    <end_time>153.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a large pot of salted water to a boil over high heat and cook the pasta according to the package instructions. Reserve ¾ cup (175 ml) of pasta cooking water, then drain the pasta in a colander and place the pot back on the stove over medium heat </step>
+    <step num="1">To the pot, add the olive oil, onion, red pepper flakes, and garlic. Cook until fragrant, about 2 minutes. Add the tomatoes and reserved pasta water, and simmer until reduced by half, about 4 minutes. Season with the salt and pepper. </step>
+    <step num="2">Add the pasta back to the pot, along with the shredded chicken and spinach, and stir to combine and wilt the spinach. </step>
+    <step num="3">Store the leftovers in the fridge for the rest of the week. </step>
+    <step num="4">*Vegan/Vegetarian Substitution: Omit the shredded chicken. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a large pot of salted water to a boil over high heat and cook the pasta according to the package instructions. </steps_updated>
+    <steps_updated num="1">Reserve ¾ cup (175 ml) of pasta cooking water, then drain the pasta in a colander and place the pot back on the stove over medium heat </steps_updated>
+    <steps_updated num="2">To the pot, add the olive oil, onion, red pepper flakes, and garlic. </steps_updated>
+    <steps_updated num="3">Cook until fragrant, about 2 minutes. </steps_updated>
+    <steps_updated num="4">Add the tomatoes and reserved pasta water, and simmer until reduced by half, about 4 minutes. </steps_updated>
+    <steps_updated num="5">Season with the salt and pepper. </steps_updated>
+    <steps_updated num="6">Add the pasta back to the pot, along with the shredded chicken and spinach, and stir to combine and wilt the spinach. </steps_updated>
+    <steps_updated num="7">Store the leftovers in the fridge for the rest of the week. </steps_updated>
+    <steps_updated num="8">*Vegan/Vegetarian Substitution: Omit the shredded chicken. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

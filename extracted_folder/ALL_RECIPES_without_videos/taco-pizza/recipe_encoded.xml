@@ -1,0 +1,50 @@
+<recipe>
+  <title>Taco Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">8580 9486 13278 10176 2634 </ingredient>
+    <ingredient num="4">3917 8134 13278 6146 8337 </ingredient>
+    <ingredient num="5">8580 9517 13278 7495 1279 14538 13278 6898 5981 </ingredient>
+    <ingredient num="6">8580 9517 13278 7334 3333 13278 4337 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 9491 341 13278 6898 5981 </ingredient>
+    <ingredient num="8">3917 13278 468 341 </ingredient>
+    <ingredient num="9">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31474/low_1494629601.m3u8</low>
+    <high>https://vid.tasty.co/output/31474/mp4_720x1280/1494629601</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">10950 5994 10060 11770 8283 14307 2550 11088 1946 1391 12610 10986 13817 10176 2634 1681 7568 907 6054 6781 7855 13817 817 5292 </step>
+    <step num="2">5570 6146 8337 4255 5994 3550 8797 10765 8800 7831 7990 13767 12689 </step>
+    <step num="3">13494 6146 8337 1391 1946 2373 13817 4496 7831 7990 2237 3274 2933 12689 </step>
+    <step num="4">13494 6146 1391 7334 7042 468 13817 1484 5808 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">10950 5994 10060 11770 8283 14307 2550 11088 1946 1391 12610 10986 13817 10176 2634 1681 7568 907 </steps_updated>
+    <steps_updated num="2">6054 6781 7855 13817 817 5292 </steps_updated>
+    <steps_updated num="3">5570 6146 8337 4255 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="4">7831 7990 13767 12689 </steps_updated>
+    <steps_updated num="5">13494 6146 8337 1391 1946 2373 13817 4496 </steps_updated>
+    <steps_updated num="6">7831 7990 2237 3274 2933 12689 </steps_updated>
+    <steps_updated num="7">13494 6146 1391 7334 7042 468 13817 1484 5808 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

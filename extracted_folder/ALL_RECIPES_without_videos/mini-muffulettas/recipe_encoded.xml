@@ -1,0 +1,54 @@
+<recipe>
+  <title>Mini Muffulettas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-muffulettas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 2208 12274 11711 9185 13278 10475 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 6097 8083 10986 7461 3962 13278 2264 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 9866 6124 </ingredient>
+    <ingredient num="3">12791 8071 13278 13584 7845 </ingredient>
+    <ingredient num="4">1580 8071 13278 11239 2634 </ingredient>
+    <ingredient num="5">12791 8071 13278 10848 5315 </ingredient>
+    <ingredient num="6">12791 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="7">3917 7051 13278 11239 3893 6124 </ingredient>
+    <ingredient num="8">1813 2605 13278 3141 7549 8244 5766 13278 12158 8007 </ingredient>
+    <ingredient num="9">8580 13278 1459 9920 12478 </ingredient>
+    <ingredient num="10">6735 8535 13278 8456 </ingredient>
+    <ingredient num="11">6735 8535 13278 8715 </ingredient>
+    <ingredient num="12">6735 8535 13278 13508 </ingredient>
+    <ingredient num="13">4061 8535 13278 3538 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Lunch</category>
+    <category num="2">Sides</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/133140/hls24_1558119732.m3u8</low>
+    <high>https://vid.tasty.co/output/133140/landscape_720/1558119732</high>
+  </video>
+  <steps>
+    <step num="0">6823 11951 8244 8038 9179 11951 11150 8083 5016 8169 10986 6302 3123 10848 12320 8083 7845 8635 13817 12673 560 5994 8016 9909 13817 8287 1681 4533 10660 12785 560 5994 13757 12377 13817 8341 210 11951 8244 14158 4660 13817 817 5292 </step>
+    <step num="1">6823 11951 3979 14100 3482 11951 10707 1813 371 10763 12991 13817 817 5292 12775 5103 11951 1864 371 11951 3176 9304 6285 5994 7116 10187 12791 1645 11826 371 4465 4178 8583 11951 4465 1393 7990 6646 14318 </step>
+    <step num="2">9179 5994 2597 6481 371 8244 11812 560 11951 551 371 11951 4465 1066 13817 11434 7317 10452 4061 8535 371 4282 4061 8535 371 6058 4061 8535 371 2227 13817 8580 8535 371 3538 210 10763 8179 13494 1391 6646 11826 371 8244 11812 13817 11434 7317 4660 1391 11951 4465 9277 4660 13528 1391 8438 7558 13817 173 7990 7811 767 4061 13199 3386 560 14142 </step>
+    <step num="3">11233 12550 560 7397 12205 11951 7877 669 8000 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6823 11951 8244 8038 9179 11951 11150 8083 5016 8169 10986 6302 3123 10848 12320 8083 7845 8635 13817 12673 560 5994 8016 9909 13817 8287 1681 4533 10660 </steps_updated>
+    <steps_updated num="1">12785 560 5994 13757 12377 13817 8341 210 11951 8244 14158 </steps_updated>
+    <steps_updated num="2">4660 13817 817 5292 </steps_updated>
+    <steps_updated num="3">6823 11951 3979 14100 3482 11951 10707 1813 371 10763 12991 13817 817 5292 </steps_updated>
+    <steps_updated num="4">12775 5103 11951 1864 371 11951 3176 9304 6285 5994 7116 10187 12791 1645 11826 371 4465 4178 </steps_updated>
+    <steps_updated num="5">8583 11951 4465 1393 7990 6646 14318 </steps_updated>
+    <steps_updated num="6">9179 5994 2597 6481 371 8244 11812 560 11951 551 371 11951 4465 1066 13817 11434 7317 </steps_updated>
+    <steps_updated num="7">10452 4061 8535 371 4282 4061 8535 371 6058 4061 8535 371 2227 13817 8580 8535 371 3538 210 10763 8179 </steps_updated>
+    <steps_updated num="8">13494 1391 6646 11826 371 8244 11812 13817 11434 7317 </steps_updated>
+    <steps_updated num="9">4660 1391 11951 4465 9277 </steps_updated>
+    <steps_updated num="10">4660 13528 1391 8438 7558 13817 173 7990 7811 767 4061 13199 3386 560 14142 </steps_updated>
+    <steps_updated num="11">11233 12550 560 7397 12205 11951 7877 669 8000 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

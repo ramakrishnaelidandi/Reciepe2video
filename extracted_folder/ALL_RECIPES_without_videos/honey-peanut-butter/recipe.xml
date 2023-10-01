@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Peanut Butter Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-peanut-butter</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-nut-butters-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; roasted unsalted peanut ; (375 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; honey </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="4">food processor </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31127/low_1494259317.m3u8</low>
+    <high>https://vid.tasty.co/output/31127/mp4_720x1280/1494259317</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>24.17</end_time>
+  </duration>
+  <steps>
+    <step num="0">NOTE: If you have unroasted nuts, preheat oven to 350°F (180°C). Spread peanuts onto a baking tray and bake for 10-12 minutes or until you can smell them. </step>
+    <step num="1">In a food processor, blend peanuts. Scrape down the sides when necessary. </step>
+    <step num="2">When the peanuts have broken down and become crumbly, add in honey and salt while still blending. </step>
+    <step num="3">The mixture will turn into a ball and eventually even out. </step>
+    <step num="4">Slowly add canola oil while still blending. Add more canola oil if you want a creamier texture. </step>
+    <step num="5">Pour into a jar, store in a refrigerator and use within one month. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">NOTE: If you have unroasted nuts, preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Spread peanuts onto a baking tray and bake for 10-12 minutes or until you can smell them. </steps_updated>
+    <steps_updated num="2">In a food processor, blend peanuts. </steps_updated>
+    <steps_updated num="3">Scrape down the sides when necessary. </steps_updated>
+    <steps_updated num="4">When the peanuts have broken down and become crumbly, add in honey and salt while still blending. </steps_updated>
+    <steps_updated num="5">The mixture will turn into a ball and eventually even out. </steps_updated>
+    <steps_updated num="6">Slowly add canola oil while still blending. </steps_updated>
+    <steps_updated num="7">Add more canola oil if you want a creamier texture. </steps_updated>
+    <steps_updated num="8">Pour into a jar, store in a refrigerator and use within one month. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00731</end_time>
+  </duration_human>
+</recipe>

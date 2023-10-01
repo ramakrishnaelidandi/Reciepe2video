@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Honey Mustard Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-honey-mustard-chicken-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/1-rotisserie-chicken-4-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; mustard </ingredient>
+    <ingredient num="1">1 tablespoon ; honey </ingredient>
+    <ingredient num="2">½ tablespoon ; olive oil </ingredient>
+    <ingredient num="3">1 squeeze ; lemon juice </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="6">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">2 cups ; romaine lettuce, chopped ; (140 g) </ingredient>
+    <ingredient num="8">¼ cup ; red onion, sliced ; (35 g) </ingredient>
+    <ingredient num="9">¼ cup ; cherry tomato, halved ; (50 g) </ingredient>
+    <ingredient num="10">¼ cup ; avocado, diced ; (35 g) </ingredient>
+    <ingredient num="11">1 ; rotisserie chicken breast, sliced </ingredient>
+    <ingredient num="12">1 ; egg, hard boiled and sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59232/low_1509474932.m3u8</low>
+    <high>https://vid.tasty.co/output/59232/mp4_720x1280/1509474932</high>
+  </video>
+  <duration>
+    <start_time>77.98</start_time>
+    <end_time>119.55</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small bowl, add mustard, honey, olive oil, lemon juice, salt, pepper, and garlic powder. Stir until combined. </step>
+    <step num="1">In a large bowl, add lettuce, onion, tomatoes, avocado, and chicken. </step>
+    <step num="2">Drizzle with honey mustard dressing and toss until evenly coated. </step>
+    <step num="3">Serve with hard-boiled egg. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, add mustard, honey, olive oil, lemon juice, salt, pepper, and garlic powder. </steps_updated>
+    <steps_updated num="1">Stir until combined. </steps_updated>
+    <steps_updated num="2">In a large bowl, add lettuce, onion, tomatoes, avocado, and chicken. </steps_updated>
+    <steps_updated num="3">Drizzle with honey mustard dressing and toss until evenly coated. </steps_updated>
+    <steps_updated num="4">Serve with hard-boiled egg. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02396</start_time>
+    <end_time>03616</end_time>
+  </duration_human>
+</recipe>

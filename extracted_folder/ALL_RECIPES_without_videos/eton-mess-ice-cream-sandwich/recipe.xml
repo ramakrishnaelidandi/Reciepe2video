@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eton Mess Ice-cream Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eton-mess-ice-cream-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; strawberries </ingredient>
+    <ingredient num="1">2 ; meringue nests </ingredient>
+    <ingredient num="2">1 scoop ; vanilla ice cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32055/low_1495125048.m3u8</low>
+    <high>https://vid.tasty.co/output/32055/mp4_720x1280/1495125048</high>
+  </video>
+  <steps>
+    <step num="0">Cut the tops off of strawberries and apply to the bottom of two pieces of meringue. </step>
+    <step num="1">Place a large scoop of ice cream on top of the strawberry side of one meringue and cover with second meringue to create a sandwich. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the tops off of strawberries and apply to the bottom of two pieces of meringue. </steps_updated>
+    <steps_updated num="1">Place a large scoop of ice cream on top of the strawberry side of one meringue and cover with second meringue to create a sandwich. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

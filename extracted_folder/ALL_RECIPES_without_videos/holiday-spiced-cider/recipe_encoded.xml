@@ -1,0 +1,44 @@
+<recipe>
+  <title>Holiday Spiced Cider Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/holiday-spiced-cider</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 13956 </ingredient>
+    <ingredient num="1">8580 2031 13278 3305 2414 </ingredient>
+    <ingredient num="2">3917 13278 9908 </ingredient>
+    <ingredient num="3">3917 8071 13278 3305 9223 </ingredient>
+    <ingredient num="4">4061 13278 12425 12401 </ingredient>
+    <ingredient num="5">3917 12744 13278 9908 14165 13278 5643 1767 </ingredient>
+    <ingredient num="6">1580 2605 13278 1368 4834 13278 7289 5981 </ingredient>
+    <ingredient num="7">3917 8071 13278 12159 </ingredient>
+    <ingredient num="8">104 5895 14290 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32000/low_1495124999.m3u8</low>
+    <high>https://vid.tasty.co/output/32000/mp4_720x1280/1495124999</high>
+  </video>
+  <steps>
+    <step num="0">10504 13956 1391 6529 7737 1762 11628 5994 13796 1247 13796 12854 5895 14538 7050 1762 14138 11003 5312 560 2505 11951 2180 1896 2184 </step>
+    <step num="1">10504 9908 1391 10262 </step>
+    <step num="2">10838 11951 1379 12545 12425 11078 9908 6410 1368 4834 13817 12159 669 12313 3025 4500 </step>
+    <step num="3">426 4255 8283 7990 8580 13199 415 2505 10383 4255 9721 1681 6851 12550 560 11232 </step>
+    <step num="4">4528 2658 9490 5895 1391 5994 8812 9526 3415 371 104 14290 11819 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10504 13956 1391 6529 </steps_updated>
+    <steps_updated num="1">7737 1762 11628 5994 13796 1247 13796 12854 5895 14538 7050 1762 14138 11003 5312 560 2505 11951 2180 1896 2184 </steps_updated>
+    <steps_updated num="2">10504 9908 1391 10262 </steps_updated>
+    <steps_updated num="3">10838 11951 1379 12545 12425 11078 9908 6410 1368 4834 13817 12159 669 12313 3025 4500 </steps_updated>
+    <steps_updated num="4">426 4255 8283 7990 8580 13199 415 2505 10383 4255 9721 1681 6851 12550 560 11232 </steps_updated>
+    <steps_updated num="5">4528 2658 9490 5895 1391 5994 8812 9526 3415 371 104 14290 11819 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

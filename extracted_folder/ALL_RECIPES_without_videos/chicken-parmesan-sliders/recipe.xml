@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Parmesan Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parmesan-sliders</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sliders-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">12 packs ; dinner rolls or Hawaiian sweet rolls </ingredient>
+    <ingredient num="1">3 cups ; shredded rotisserie chicken ; (375 g) </ingredient>
+    <ingredient num="2">½ cup ; marinara sauce ; (115 g) </ingredient>
+    <ingredient num="3">8 oz ; fresh mozzarella cheese, sliced ; (225 g) </ingredient>
+    <ingredient num="4">¼ cup ; fresh basil, chopped ; (10 g) </ingredient>
+    <ingredient num="5">½ cup ; butter, melted ; (125 mL) </ingredient>
+    <ingredient num="6">3 cloves ; garlic, finely chopped </ingredient>
+    <ingredient num="7">2 tablespoons ; fresh parsley, finely chopped </ingredient>
+    <ingredient num="8">2 tablespoons ; grated parmesan cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28925/low_1491942453.m3u8</low>
+    <high>https://vid.tasty.co/output/28925/mp4_720x1280/1491942453</high>
+  </video>
+  <duration>
+    <start_time>44.0</start_time>
+    <end_time>62.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). </step>
+    <step num="1">Slice the rolls in half lengthwise. Place the bottom half in a 9 x 13-inch (23 x 33-cm) rimmed baking dish. Spread the chicken evenly on top, followed by the marinara, mozzarella, and basil. Top with the remaining rolls. </step>
+    <step num="2">Mix the melted butter in a small bowl with the garlic, parsley, and Parmesan. Brush the tops of the rolls with the butter mixture. Bake for 20 minutes, or until the bread is golden brown. Slice into individual sliders, then serve. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Slice the rolls in half lengthwise. </steps_updated>
+    <steps_updated num="2">Place the bottom half in a 9 x 13-inch (23 x 33-cm) rimmed baking dish. </steps_updated>
+    <steps_updated num="3">Spread the chicken evenly on top, followed by the marinara, mozzarella, and basil. </steps_updated>
+    <steps_updated num="4">Top with the remaining rolls. </steps_updated>
+    <steps_updated num="5">Mix the melted butter in a small bowl with the garlic, parsley, and Parmesan. </steps_updated>
+    <steps_updated num="6">Brush the tops of the rolls with the butter mixture. </steps_updated>
+    <steps_updated num="7">Bake for 20 minutes, or until the bread is golden brown. </steps_updated>
+    <steps_updated num="8">Slice into individual sliders, then serve. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01356</start_time>
+    <end_time>02115</end_time>
+  </duration_human>
+</recipe>

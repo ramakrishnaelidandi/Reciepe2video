@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Hamburger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-hamburger</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; ground beef ; (340 g) </ingredient>
+    <ingredient num="1">kosher salt, to taste </ingredient>
+    <ingredient num="2">freshly ground black pepper </ingredient>
+    <ingredient num="3">1 tablespoon ; vegetable oil </ingredient>
+    <ingredient num="4">2 slices ; cheese, such as swiss cheddar or american, optional </ingredient>
+    <ingredient num="5">2 ; hamburger buns </ingredient>
+    <ingredient num="6">topping of your choice, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Game Day</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99719/hls24_1529686101.m3u8</low>
+    <high>https://vid.tasty.co/output/99719/landscape_720/1529686101</high>
+  </video>
+  <steps>
+    <step num="0">Divide the beef into 2 patties, each about ¾-inch (2 cm) thick and 3 ½ inches (9 cm) in diameter. Transfer the patties to a plate or a baking sheet lined with parchment paper and refrigerate for 30 minutes. </step>
+    <step num="1">Remove the patties from the fridge and season on both sides with salt and pepper. </step>
+    <step num="2">Heat a large cast-iron skillet over medium-high heat. Add the oil to the pan and swirl to evenly coat. Place the patties in the skillet and cook, undisturbed, on the first side for 5 minutes, until a brown crust forms. </step>
+    <step num="3">Flip the patties, top each with a slice of cheese (optional), and cook, undisturbed, until the patties are browned on the other side, the cheese is melted, and the meat is cooked through, about 5 minutes more for medium-well doneness. </step>
+    <step num="4">Remove the patties from the pan and transfer to a clean cutting board. Let rest for about 5 minutes. </step>
+    <step num="5">Place the burger patties on buns and serve with your favorite toppings and sauces. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Divide the beef into 2 patties, each about ¾-inch (2 cm) thick and 3 ½ inches (9 cm) in diameter. </steps_updated>
+    <steps_updated num="1">Transfer the patties to a plate or a baking sheet lined with parchment paper and refrigerate for 30 minutes. </steps_updated>
+    <steps_updated num="2">Remove the patties from the fridge and season on both sides with salt and pepper. </steps_updated>
+    <steps_updated num="3">Heat a large cast-iron skillet over medium-high heat. </steps_updated>
+    <steps_updated num="4">Add the oil to the pan and swirl to evenly coat. </steps_updated>
+    <steps_updated num="5">Place the patties in the skillet and cook, undisturbed, on the first side for 5 minutes, until a brown crust forms. </steps_updated>
+    <steps_updated num="6">Flip the patties, top each with a slice of cheese (optional), and cook, undisturbed, until the patties are browned on the other side, the cheese is melted, and the meat is cooked through, about 5 minutes more for medium-well doneness. </steps_updated>
+    <steps_updated num="7">Remove the patties from the pan and transfer to a clean cutting board. </steps_updated>
+    <steps_updated num="8">Let rest for about 5 minutes. </steps_updated>
+    <steps_updated num="9">Place the burger patties on buns and serve with your favorite toppings and sauces. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

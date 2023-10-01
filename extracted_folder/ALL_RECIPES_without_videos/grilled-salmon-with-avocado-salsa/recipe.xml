@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Salmon With Avocado Salsa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-salmon-with-avocado-salsa</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 teaspoon ; paprika </ingredient>
+    <ingredient num="4">4 ; salmon fillets </ingredient>
+    <ingredient num="5">2 ; avocados </ingredient>
+    <ingredient num="6">¼ ; red onion </ingredient>
+    <ingredient num="7">1 ; lime, juiced </ingredient>
+    <ingredient num="8">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="9">1 ½ teaspoons ; salt </ingredient>
+    <ingredient num="10">cilantro, chopped for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Seafood</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Dinner</category>
+    <category num="7">Date Night</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31942/low_1495124937.m3u8</low>
+    <high>https://vid.tasty.co/output/31942/mp4_720x1280/1495124937</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, mix oil, salt, pepper, and paprika. Coat the salmon fillets with the marinade and refrigerate for 30 minutes. </step>
+    <step num="1">Grill the salmon on an 11" griddle pan on high heat for two minutes on each side. </step>
+    <step num="2">In a separate bowl, lightly toss avocados, ¼ red onion, the juice from one lime, 1 tablespoon olive oil, and salt to taste. </step>
+    <step num="3">Spoon avocado salsa on top of the cooked salmon. Top with finely cut cilantro. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, mix oil, salt, pepper, and paprika. </steps_updated>
+    <steps_updated num="1">Coat the salmon fillets with the marinade and refrigerate for 30 minutes. </steps_updated>
+    <steps_updated num="2">Grill the salmon on an 11" griddle pan on high heat for two minutes on each side. </steps_updated>
+    <steps_updated num="3">In a separate bowl, lightly toss avocados, ¼ red onion, the juice from one lime, 1 tablespoon olive oil, and salt to taste. </steps_updated>
+    <steps_updated num="4">Spoon avocado salsa on top of the cooked salmon. </steps_updated>
+    <steps_updated num="5">Top with finely cut cilantro. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<recipe>
+  <title>Poached Egg Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/poached-egg</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 6216 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>117.0</start_time>
+    <end_time>136.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 10083 371 12282 560 5994 8288 415 2864 560 5994 11779 560 3313 465 4273 8830 13785 5099 </step>
+    <step num="1">12473 11951 12282 210 5994 3541 10490 560 3535 5994 1218 9956 11951 12282 6946 573 10622 13968 11951 6216 669 11951 937 371 11951 1218 1828 11951 6216 2550 1681 11951 4617 7568 12126 13817 11951 5031 9490 6728 4860 1114 6175 12689 </step>
+    <step num="2">6054 11951 6216 1391 5994 6436 13908 14548 5316 4255 12 7603 1678 82 13817 7845 6497 </step>
+    <step num="3">12774 1391 12313 226 6616 11644 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 10083 371 12282 560 5994 8288 415 2864 560 5994 11779 560 3313 465 4273 8830 13785 5099 </steps_updated>
+    <steps_updated num="1">12473 11951 12282 210 5994 3541 10490 560 3535 5994 1218 </steps_updated>
+    <steps_updated num="2">9956 11951 12282 6946 573 10622 13968 11951 6216 669 11951 937 371 11951 1218 </steps_updated>
+    <steps_updated num="3">1828 11951 6216 2550 1681 11951 4617 7568 12126 13817 11951 5031 9490 6728 4860 1114 6175 12689 </steps_updated>
+    <steps_updated num="4">6054 11951 6216 1391 5994 6436 13908 14548 5316 4255 12 7603 1678 82 13817 7845 6497 </steps_updated>
+    <steps_updated num="5">12774 1391 12313 226 6616 11644 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

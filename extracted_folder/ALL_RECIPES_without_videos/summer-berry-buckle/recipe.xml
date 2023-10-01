@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Summer Berry Buckle Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/summer-berry-buckle</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; butter, softened ; (115 g) </ingredient>
+    <ingredient num="1">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="2">¼ cup ; brown sugar ; (55 g) </ingredient>
+    <ingredient num="3">3 ; eggs </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="5">1 ½ cups ; flour ; (185 g) </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="8">¼ teaspoon ; baking powder </ingredient>
+    <ingredient num="9">4 ½ cups ; mixed berries, blackberries, blueberries, raspberries ; (790 g) </ingredient>
+    <ingredient num="10">powdered sugar, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33469/low_1496770195.m3u8</low>
+    <high>https://vid.tasty.co/output/33469/mp4_720x1280/1496770195</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Grease a 9-inch (23 cm) cake pan with butter. </step>
+    <step num="2">In a medium bowl, mix the butter, sugar, and brown sugar until fluffy. </step>
+    <step num="3">Add the eggs one at a time, then add the vanilla. Whisk until combined. </step>
+    <step num="4">Fold in the flour, salt, cinnamon, and baking powder until combined. </step>
+    <step num="5">Fold in the berries. </step>
+    <step num="6">Transfer to a baking pan. </step>
+    <step num="7">Bake for 40 minutes, or until golden brown. </step>
+    <step num="8">Cool for 30 minutes before serving. </step>
+    <step num="9">Slice and sprinkle with powdered sugar. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Grease a 9-inch (23 cm) cake pan with butter. </steps_updated>
+    <steps_updated num="2">In a medium bowl, mix the butter, sugar, and brown sugar until fluffy. </steps_updated>
+    <steps_updated num="3">Add the eggs one at a time, then add the vanilla. </steps_updated>
+    <steps_updated num="4">Whisk until combined. </steps_updated>
+    <steps_updated num="5">Fold in the flour, salt, cinnamon, and baking powder until combined. </steps_updated>
+    <steps_updated num="6">Fold in the berries. </steps_updated>
+    <steps_updated num="7">Transfer to a baking pan. </steps_updated>
+    <steps_updated num="8">Bake for 40 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="9">Cool for 30 minutes before serving. </steps_updated>
+    <steps_updated num="10">Slice and sprinkle with powdered sugar. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

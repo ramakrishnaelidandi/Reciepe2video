@@ -1,0 +1,45 @@
+<recipe>
+  <title>Honey Barbecue Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-barbecue-sauce</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 13757 4617 12384 341 </ingredient>
+    <ingredient num="1">13086 13667 13278 4155 7461 3962 </ingredient>
+    <ingredient num="2">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="3">8580 9517 13278 8675 9431 5895 1764 13278 4551 5981 </ingredient>
+    <ingredient num="4">3917 2605 13278 9908 14165 10769 13278 7503 8007 </ingredient>
+    <ingredient num="5">3917 2605 13278 9586 13278 6982 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 5316 6422 11703 </ingredient>
+    <ingredient num="7">3917 8071 13278 3855 82 </ingredient>
+    <ingredient num="8">3917 8071 13278 14585 11088 13584 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">BBQ</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129118/hls24_1554414413.m3u8</low>
+    <high>https://vid.tasty.co/output/129118/landscape_720/1554414413</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 6007 10067 7110 4120 11951 12384 4155 13817 2019 264 11770 13757 7855 1681 11951 6334 9490 8991 13817 10348 6285 2933 12689 </step>
+    <step num="1">9179 11951 8675 9908 14165 4450 14240 13817 6422 785 8697 8224 7990 5527 11004 1681 11951 2260 9490 3152 10242 1391 82 13817 12375 </step>
+    <step num="2">6054 11951 5687 6781 11951 2082 5209 2237 3432 6212 5042 11951 2260 1681 12119 1828 10694 7727 6285 2800 12689 </step>
+    <step num="3">12785 560 5994 8751 2759 3801 13817 1023 210 11951 7524 12450 8961 2260 217 2505 7990 3386 560 4061 2497 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 6007 10067 7110 4120 11951 12384 4155 13817 2019 </steps_updated>
+    <steps_updated num="1">264 11770 13757 7855 1681 11951 6334 9490 8991 13817 10348 6285 2933 12689 </steps_updated>
+    <steps_updated num="2">9179 11951 8675 9908 14165 4450 14240 13817 6422 785 </steps_updated>
+    <steps_updated num="3">8697 8224 7990 5527 11004 1681 11951 2260 9490 3152 </steps_updated>
+    <steps_updated num="4">10242 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="5">6054 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="6">5209 2237 3432 6212 5042 11951 2260 1681 12119 </steps_updated>
+    <steps_updated num="7">1828 10694 7727 6285 2800 12689 </steps_updated>
+    <steps_updated num="8">12785 560 5994 8751 2759 3801 13817 1023 210 11951 7524 </steps_updated>
+    <steps_updated num="9">12450 8961 2260 217 2505 7990 3386 560 4061 2497 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

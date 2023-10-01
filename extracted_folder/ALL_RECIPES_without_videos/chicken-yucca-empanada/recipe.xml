@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Yucca Empanada Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-yucca-empanada</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/empanadas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">olive oil </ingredient>
+    <ingredient num="1">1 ; medium tomato, chopped </ingredient>
+    <ingredient num="2">scallions, chopped </ingredient>
+    <ingredient num="3">½ ; medium white onion, chopped </ingredient>
+    <ingredient num="4">8 cloves ; garlic </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">1 lb ; chicken, cooked, shredded ; (455 g) </ingredient>
+    <ingredient num="7">8 cups ; yucca, cooked ; (1.6 kg) </ingredient>
+    <ingredient num="8">6 slices ; mozzarella cheese, halved </ingredient>
+    <ingredient num="9">3 cups ; vegetable oil, for frying ; (720 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90709/hls24_1524514253.m3u8</low>
+    <high>https://vid.tasty.co/output/90709/landscape_720/1524514253</high>
+  </video>
+  <duration>
+    <start_time>65.666</start_time>
+    <end_time>113.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the olive oil in a large pan over medium heat until shimmering. Add the tomato, scallions, onion, garlic, and salt, and cook, stirring occasionally. </step>
+    <step num="1">Add the chicken, and cook for 5 minutes or until the chicken is warmed through. </step>
+    <step num="2">For the dough, mash the cooked yucca with a fork in a large bowl. </step>
+    <step num="3">Roll a 4-inch (10-cm) ball of yucca and place in the center of a piece of plastic wrap. Add another piece of plastic wrap over the dough and flatten to create a small circle. Roll out to a 6-inch (15-cm) round. </step>
+    <step num="4">Scoop 3 tablespoons of the chicken mixture onto the dough and add a couple of pieces of mozzarella over the chicken mixture. Fold over the dough to form an empanada and seal the edges. Repeat with the rest of the dough and filling. </step>
+    <step num="5">Heat 2 inches (5 cm) of oil in a large pan over high heat to 350ºF (180ºC). Place the empanadas in the oil and cook for 2-3 minutes or until brown on both sides. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil in a large pan over medium heat until shimmering. </steps_updated>
+    <steps_updated num="1">Add the tomato, scallions, onion, garlic, and salt, and cook, stirring occasionally. </steps_updated>
+    <steps_updated num="2">Add the chicken, and cook for 5 minutes or until the chicken is warmed through. </steps_updated>
+    <steps_updated num="3">For the dough, mash the cooked yucca with a fork in a large bowl. </steps_updated>
+    <steps_updated num="4">Roll a 4-inch (10-cm) ball of yucca and place in the center of a piece of plastic wrap. </steps_updated>
+    <steps_updated num="5">Add another piece of plastic wrap over the dough and flatten to create a small circle. </steps_updated>
+    <steps_updated num="6">Roll out to a 6-inch (15-cm) round. </steps_updated>
+    <steps_updated num="7">Scoop 3 tablespoons of the chicken mixture onto the dough and add a couple of pieces of mozzarella over the chicken mixture. </steps_updated>
+    <steps_updated num="8">Fold over the dough to form an empanada and seal the edges. </steps_updated>
+    <steps_updated num="9">Repeat with the rest of the dough and filling. </steps_updated>
+    <steps_updated num="10">Heat 2 inches (5 cm) of oil in a large pan over high heat to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="11">Place the empanadas in the oil and cook for 2-3 minutes or until brown on both sides. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Shepherd’s Pies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-shepherds-pies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ head ; cauliflower florets </ingredient>
+    <ingredient num="1">1 clove ; garlic, minced </ingredient>
+    <ingredient num="2">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">¼ teaspoon ; salt </ingredient>
+    <ingredient num="4">¼ teaspoon ; black pepper </ingredient>
+    <ingredient num="5">½ ; yellow onion, chopped </ingredient>
+    <ingredient num="6">2 ; carrots, sliced </ingredient>
+    <ingredient num="7">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">½ lb ; lean ground turkey ; (225 g) </ingredient>
+    <ingredient num="9">½ teaspoon ; salt </ingredient>
+    <ingredient num="10">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="11">¼ teaspoon ; dried rosemary, finely chopped </ingredient>
+    <ingredient num="12">¼ teaspoon ; dried thyme, finely chopped </ingredient>
+    <ingredient num="13">1 tablespoon ; flour </ingredient>
+    <ingredient num="14">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="15">½ cup ; chicken broth ; (120 mL) </ingredient>
+    <ingredient num="16">½ cup ; frozen peas ; (75 g) </ingredient>
+    <ingredient num="17">½ cup ; frozen corn ; (90 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Dinner</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28032/low_1490908784.m3u8</low>
+    <high>https://vid.tasty.co/output/28032/mp4_720x1280/1490908784</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F/180˚C. </step>
+    <step num="1">Steam the cauliflower for 8 minutes, or until softened. Let cool and drain. </step>
+    <step num="2">With a potato masher or hand blender, mash the cauliflower, garlic, olive oil, salt, and pepper. Set aside. </step>
+    <step num="3">In a cast-iron pan, heat a little olive oil and sauté the onions and carrots until they begin to soften, about 3-4 minutes. Add the garlic and sauté for 1 minute. </step>
+    <step num="4">Add the ground turkey, salt, pepper, thyme, and rosemary and cook until turkey is browned and cooked through, about 3-4 minutes. </step>
+    <step num="5">Add flour and stir to combine. </step>
+    <step num="6">Add the tomato paste and broth while whisking. </step>
+    <step num="7">Add the peas and corn and cook until hot, about 5 minutes. </step>
+    <step num="8">In a lined 12-cup muffin tray, evenly portion out the turkey mixture, followed by the mashed cauliflower. </step>
+    <step num="9">Sprinkle with cheese, as desired. </step>
+    <step num="10">Bake for 10-15 minutes, or until the cheese is melted and has started to brown. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F/180˚C. </steps_updated>
+    <steps_updated num="1">Steam the cauliflower for 8 minutes, or until softened. </steps_updated>
+    <steps_updated num="2">Let cool and drain. </steps_updated>
+    <steps_updated num="3">With a potato masher or hand blender, mash the cauliflower, garlic, olive oil, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a cast-iron pan, heat a little olive oil and sauté the onions and carrots until they begin to soften, about 3-4 minutes. </steps_updated>
+    <steps_updated num="6">Add the garlic and sauté for 1 minute. </steps_updated>
+    <steps_updated num="7">Add the ground turkey, salt, pepper, thyme, and rosemary and cook until turkey is browned and cooked through, about 3-4 minutes. </steps_updated>
+    <steps_updated num="8">Add flour and stir to combine. </steps_updated>
+    <steps_updated num="9">Add the tomato paste and broth while whisking. </steps_updated>
+    <steps_updated num="10">Add the peas and corn and cook until hot, about 5 minutes. </steps_updated>
+    <steps_updated num="11">In a lined 12-cup muffin tray, evenly portion out the turkey mixture, followed by the mashed cauliflower. </steps_updated>
+    <steps_updated num="12">Sprinkle with cheese, as desired. </steps_updated>
+    <steps_updated num="13">Bake for 10-15 minutes, or until the cheese is melted and has started to brown. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

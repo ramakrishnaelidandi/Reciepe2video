@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Veggie Breakfast Casserole Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-breakfast-casserole</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/slow-cooker-breakfasts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 cups ; sweet potato, peeled, diced, divided ; (800 g) </ingredient>
+    <ingredient num="1">1 cup ; mushroom, divided ; (75 g) </ingredient>
+    <ingredient num="2">2 ; red bell peppers, diced, seeded, divided </ingredient>
+    <ingredient num="3">1 cup ; broccoli floret, divided ; (150 g) </ingredient>
+    <ingredient num="4">1 cup ; tomato, diced, divided ; (200 g) </ingredient>
+    <ingredient num="5">½ ; white onion, divided </ingredient>
+    <ingredient num="6">2 cups ; spinach, divided ; (80 g) </ingredient>
+    <ingredient num="7">8 ; eggs </ingredient>
+    <ingredient num="8">4 ; egg whites </ingredient>
+    <ingredient num="9">¾ cup ; milk ; (175 g) </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59282/low_1509486319.m3u8</low>
+    <high>https://vid.tasty.co/output/59282/mp4_720x1280/1509486319</high>
+  </video>
+  <duration>
+    <start_time>38.55</start_time>
+    <end_time>79.88</end_time>
+  </duration>
+  <steps>
+    <step num="0">Layer half of the sweet potatoes on the bottom of a greased slow cooker. </step>
+    <step num="1">Layer half of the mushrooms, red bell peppers, broccoli florets, tomatoes, onions, and spinach. </step>
+    <step num="2">Repeat the layers with the remaining sweet potatoes, mushrooms, red bell peppers broccoli florets, tomatoes, onions, and spinach. </step>
+    <step num="3">In a large bowl or measuring cup, whisk together the eggs, egg whites, milk, salt, and pepper. </step>
+    <step num="4">Pour the egg mixture over the vegetables. </step>
+    <step num="5">Top with cheddar cheese. </step>
+    <step num="6">Cover and cook on low for 6-8 hours. </step>
+    <step num="7">Carefully remove lid and serve hot. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Layer half of the sweet potatoes on the bottom of a greased slow cooker. </steps_updated>
+    <steps_updated num="1">Layer half of the mushrooms, red bell peppers, broccoli florets, tomatoes, onions, and spinach. </steps_updated>
+    <steps_updated num="2">Repeat the layers with the remaining sweet potatoes, mushrooms, red bell peppers broccoli florets, tomatoes, onions, and spinach. </steps_updated>
+    <steps_updated num="3">In a large bowl or measuring cup, whisk together the eggs, egg whites, milk, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Pour the egg mixture over the vegetables. </steps_updated>
+    <steps_updated num="5">Top with cheddar cheese. </steps_updated>
+    <steps_updated num="6">Cover and cook on low for 6-8 hours. </steps_updated>
+    <steps_updated num="7">Carefully remove lid and serve hot. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01213</start_time>
+    <end_time>02405</end_time>
+  </duration_human>
+</recipe>

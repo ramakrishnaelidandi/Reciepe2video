@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Deep-Fried Sticky Ribs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/deep-fried-sticky-ribs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; honey </ingredient>
+    <ingredient num="1">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="2">¼ cup ; hoisin sauce ; (70 mL) </ingredient>
+    <ingredient num="3">2 tablespoons ; sriracha </ingredient>
+    <ingredient num="4">2 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="5">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="6">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">½ rack ; baby back ribs </ingredient>
+    <ingredient num="11">oil, for frying </ingredient>
+    <ingredient num="12">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="13">¼ cup ; hoisin sauce ; (70 mL) </ingredient>
+    <ingredient num="14">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="15">2 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="16">½ cup ; honey ; (170 mL) </ingredient>
+    <ingredient num="17">toasted sesame seed, to taste </ingredient>
+    <ingredient num="18">green onion, thinly sliced, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16600/low_1480724922.m3u8</low>
+    <high>https://vid.tasty.co/output/16600/mp4_720x1280/1480724922</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, prepare marinade - mix soy sauce, hoisin sauce, honey, Sriracha, rice vinegar, sesame oil, garlic, ginger, salt, pepper, and the ribs. </step>
+    <step num="1">Marinate for at least 1 hour in the refrigerator. </step>
+    <step num="2">Preheat oven to 275˚F (190˚C). </step>
+    <step num="3">Bake ribs on a baking sheet for 30 minutes. </step>
+    <step num="4">Make the sticky sauce in a saucepan by combining soy sauce, hoisin sauce, sesame oil, rice vinegar, and honey. Bring to a low boil, reduce heat, and simmer until sauce has thickened, about 30 minutes. </step>
+    <step num="5">Heat oil for frying to 350˚F (180˚C). </step>
+    <step num="6">Place ribs into the oil a few at a time and fry for 4 minutes, flipping them occasionally. Drain on a paper towel. </step>
+    <step num="7">Toss fried ribs in the sticky sauce and garnish with toasted sesame seeds and green onions. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, prepare marinade - mix soy sauce, hoisin sauce, honey, Sriracha, rice vinegar, sesame oil, garlic, ginger, salt, pepper, and the ribs. </steps_updated>
+    <steps_updated num="1">Marinate for at least 1 hour in the refrigerator. </steps_updated>
+    <steps_updated num="2">Preheat oven to 275˚F (190˚C). </steps_updated>
+    <steps_updated num="3">Bake ribs on a baking sheet for 30 minutes. </steps_updated>
+    <steps_updated num="4">Make the sticky sauce in a saucepan by combining soy sauce, hoisin sauce, sesame oil, rice vinegar, and honey. </steps_updated>
+    <steps_updated num="5">Bring to a low boil, reduce heat, and simmer until sauce has thickened, about 30 minutes. </steps_updated>
+    <steps_updated num="6">Heat oil for frying to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="7">Place ribs into the oil a few at a time and fry for 4 minutes, flipping them occasionally. </steps_updated>
+    <steps_updated num="8">Drain on a paper towel. </steps_updated>
+    <steps_updated num="9">Toss fried ribs in the sticky sauce and garnish with toasted sesame seeds and green onions. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-lemonade</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; medium lemons </ingredient>
+    <ingredient num="1">1 ; lemon, sliced into rings </ingredient>
+    <ingredient num="2">1 cup ; white sugar, plus additional for coating ; (200 g) </ingredient>
+    <ingredient num="3">4 cups ; water ; (960 mL) </ingredient>
+    <ingredient num="4">4 cups ; ice ; (560 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33735/low_1497033819.m3u8</low>
+    <high>https://vid.tasty.co/output/33735/mp4_720x1280/1497033819</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, halve the lemons and coat the cut sides with a thin layer of sugar. </step>
+    <step num="1">Place the lemons on an 11" griddle pan cut side down and cook them over medium-high heat for 6-8 minutes, until caramelized. </step>
+    <step num="2">Remove lemons from the griddle and rest them for 5-10 minutes. </step>
+    <step num="3">Juice lemons over a fine mesh strainer into a half gallon (2 liter) pitcher. </step>
+    <step num="4">Once all the lemons are juiced, add the white sugar, lemon rings, water, and ice (see note). Stir until the sugar is dissolved. </step>
+    <step num="5">NOTE: Do not add the ice if preparing ahead of time. Add the ice immediately before serving. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, halve the lemons and coat the cut sides with a thin layer of sugar. </steps_updated>
+    <steps_updated num="1">Place the lemons on an 11" griddle pan cut side down and cook them over medium-high heat for 6-8 minutes, until caramelized. </steps_updated>
+    <steps_updated num="2">Remove lemons from the griddle and rest them for 5-10 minutes. </steps_updated>
+    <steps_updated num="3">Juice lemons over a fine mesh strainer into a half gallon (2 liter) pitcher. </steps_updated>
+    <steps_updated num="4">Once all the lemons are juiced, add the white sugar, lemon rings, water, and ice (see note). </steps_updated>
+    <steps_updated num="5">Stir until the sugar is dissolved. </steps_updated>
+    <steps_updated num="6">NOTE: Do not add the ice if preparing ahead of time. </steps_updated>
+    <steps_updated num="7">Add the ice immediately before serving. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

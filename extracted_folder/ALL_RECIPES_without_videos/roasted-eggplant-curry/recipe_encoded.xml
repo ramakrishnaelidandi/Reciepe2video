@@ -1,0 +1,71 @@
+<recipe>
+  <title>Roasted Eggplant Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-eggplant-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 13757 333 </ingredient>
+    <ingredient num="1">12791 2605 13278 8244 5766 13278 13125 8007 </ingredient>
+    <ingredient num="2">13510 12610 560 11567 </ingredient>
+    <ingredient num="3">1580 8071 13278 14585 11088 10986 7789 3954 560 11567 </ingredient>
+    <ingredient num="4">12791 2605 13278 6742 5766 13278 13125 8007 </ingredient>
+    <ingredient num="5">1580 13278 13757 4617 12384 3962 </ingredient>
+    <ingredient num="6">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="7">8580 2031 13278 11088 126 </ingredient>
+    <ingredient num="8">3917 8071 13278 11986 9496 </ingredient>
+    <ingredient num="9">3917 8071 13278 11088 4461 </ingredient>
+    <ingredient num="10">3917 14014 13278 11088 13056 </ingredient>
+    <ingredient num="11">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="12">3917 8071 13278 14635 4125 13817 10015 </ingredient>
+    <ingredient num="13">13086 13278 3665 7042 1461 13659 14192 5285 </ingredient>
+    <ingredient num="14">13133 643 13278 6742 5802 13278 13345 8007 </ingredient>
+    <ingredient num="15">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="16">3745 11948 7990 7818 </ingredient>
+    <ingredient num="17">6209 6712 1404 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101330/hls24_1531154611.m3u8</low>
+    <high>https://vid.tasty.co/output/101330/landscape_720/1531154611</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 5281 13018 </step>
+    <step num="1">3235 11951 4091 3482 11951 2070 415 12205 3755 210 2532 7959 14100 10763 2532 1956 3954 7959 4124 11951 8535 4255 2349 7868 10860 13817 7777 3449 669 11811 14088 12205 2686 560 1978 1170 </step>
+    <step num="2">12785 560 5994 10765 11020 13630 1391 11951 8244 7632 12610 13817 12375 7831 7990 2800 11004 13328 14166 8180 1681 10963 2147 </step>
+    <step num="3">10950 5994 2597 7110 7855 11951 6742 5766 11770 8283 7186 9179 11951 7272 6142 7990 3917 6560 415 2864 11951 7855 560 4531 13817 12484 13328 6601 1681 11951 11453 12573 10963 1240 6285 6735 12689 </step>
+    <step num="4">12473 210 11951 13389 8117 3407 13817 11986 4700 264 1681 94 6285 3917 6513 </step>
+    <step num="5">12473 210 11951 11088 975 1580 8071 371 13584 10986 948 4155 13817 1255 264 7990 5994 8631 8927 7191 13328 4837 </step>
+    <step num="6">9179 11951 3962 7042 6742 9889 13384 13817 11951 6097 6785 </step>
+    <step num="7">8785 11951 11210 560 5994 9609 415 2864 560 9721 14307 510 13817 11779 7990 2800 12689 12450 2260 5376 2864 13817 13396 12624 </step>
+    <step num="8">12774 11951 11210 10383 11770 11948 10366 1391 3962 1117 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 5281 13018 </steps_updated>
+    <steps_updated num="1">3235 11951 4091 3482 11951 2070 415 12205 3755 210 2532 7959 </steps_updated>
+    <steps_updated num="2">14100 10763 2532 1956 3954 7959 </steps_updated>
+    <steps_updated num="3">4124 11951 8535 4255 2349 7868 10860 13817 7777 3449 669 11811 </steps_updated>
+    <steps_updated num="4">14088 12205 2686 560 1978 1170 </steps_updated>
+    <steps_updated num="5">12785 560 5994 10765 11020 13630 1391 11951 8244 7632 12610 13817 12375 </steps_updated>
+    <steps_updated num="6">7831 7990 2800 11004 13328 14166 8180 1681 10963 2147 </steps_updated>
+    <steps_updated num="7">10950 5994 2597 7110 7855 11951 6742 5766 11770 8283 7186 </steps_updated>
+    <steps_updated num="8">9179 11951 7272 6142 7990 3917 6560 415 2864 11951 7855 560 4531 13817 12484 13328 6601 1681 11951 11453 12573 10963 1240 6285 6735 12689 </steps_updated>
+    <steps_updated num="9">12473 210 11951 13389 8117 3407 13817 11986 4700 </steps_updated>
+    <steps_updated num="10">264 1681 94 6285 3917 12110 </steps_updated>
+    <steps_updated num="11">12473 210 11951 11088 975 1580 8071 371 13584 10986 948 4155 13817 1255 </steps_updated>
+    <steps_updated num="12">264 7990 5994 8631 8927 7191 13328 4837 </steps_updated>
+    <steps_updated num="13">9179 11951 3962 7042 6742 9889 13384 13817 11951 6097 6785 </steps_updated>
+    <steps_updated num="14">8785 11951 11210 560 5994 9609 415 2864 560 9721 14307 510 13817 11779 7990 2800 12689 </steps_updated>
+    <steps_updated num="15">12450 2260 5376 2864 13817 13396 12624 </steps_updated>
+    <steps_updated num="16">12774 11951 11210 10383 11770 11948 10366 1391 3962 1117 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

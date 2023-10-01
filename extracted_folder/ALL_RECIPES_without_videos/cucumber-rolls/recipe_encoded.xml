@@ -1,0 +1,47 @@
+<recipe>
+  <title>Cucumber Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cucumber-rolls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/party-platters-for-your-housewarming-party</comp_url>
+  <ingredients>
+    <ingredient num="0">6735 643 13278 13033 13810 564 13278 9473 5981 </ingredient>
+    <ingredient num="1">13086 643 13278 11986 9069 3962 13278 7005 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 6209 4564 10015 </ingredient>
+    <ingredient num="3">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="4">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="5">8580 13278 2597 1387 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98981/hls24_1529341389.m3u8</low>
+    <high>https://vid.tasty.co/output/98981/landscape_720/1529341389</high>
+  </video>
+  <duration>
+    <start_time>44.0</start_time>
+    <end_time>79.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 10968 3626 13033 13810 11986 9069 4564 11384 8117 13817 13584 12375 </step>
+    <step num="1">5209 5994 4168 12862 5895 3334 7368 11951 1387 3449 669 7497 10832 13841 11951 2202 10092 </step>
+    <step num="2">3496 11951 4125 5992 8535 1391 12 10285 560 254 7115 1198 4149 </step>
+    <step num="3">2988 5994 2192 6481 371 11539 11770 5994 5992 2519 </step>
+    <step num="4">8476 6781 797 786 13528 4536 11951 5992 669 5994 12271 5362 1391 374 5992 8535 13817 198 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 10968 3626 13033 13810 11986 9069 4564 11384 8117 13817 13584 12375 </steps_updated>
+    <steps_updated num="1">5209 5994 4168 12862 5895 3334 7368 11951 1387 3449 669 7497 10832 </steps_updated>
+    <steps_updated num="2">13841 11951 2202 10092 </steps_updated>
+    <steps_updated num="3">3496 11951 4125 5992 8535 1391 12 10285 560 254 7115 1198 4149 </steps_updated>
+    <steps_updated num="4">2988 5994 2192 6481 371 11539 11770 5994 5992 2519 </steps_updated>
+    <steps_updated num="5">8476 6781 797 786 13528 4536 11951 5992 669 5994 12271 </steps_updated>
+    <steps_updated num="6">5362 1391 374 5992 8535 13817 198 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

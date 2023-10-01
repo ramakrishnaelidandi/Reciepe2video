@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Neapolitan Dairy-free Milkshake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/neapolitan-dairy-free-milkshake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dairy-free-milkshakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; frozen bananas </ingredient>
+    <ingredient num="1">3 scoops ; dairy-free vanilla ice cream </ingredient>
+    <ingredient num="2">⅔ cup ; dairy-free milk ; (160 mL) </ingredient>
+    <ingredient num="3">¼ cup ; ice cube ; (50 g) </ingredient>
+    <ingredient num="4">1 cup ; strawberry ; (150 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; cocoa powder </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Drinks</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32780/low_1495660029.m3u8</low>
+    <high>https://vid.tasty.co/output/32780/mp4_720x1280/1495660029</high>
+  </video>
+  <duration>
+    <start_time>55.29</start_time>
+    <end_time>104.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, combine frozen bananas, dairy-free vanilla ice cream, dairy-free milk, and ice cubes. </step>
+    <step num="1">Blend until combined. </step>
+    <step num="2">Evenly distribute mixture into 3 cups, rough ¾ cup (200 ml) each. Set one cup to the side. </step>
+    <step num="3">Add one mixture back in the blender and add strawberries. Mix until well blended and set aside. </step>
+    <step num="4">Add the last mixture in the blender and add cocoa powder. Mix until well blended and set aside. </step>
+    <step num="5">In a cup, pour chocolate mixture first. Using a spoon, pour the strawberry mixture onto the spoon and spread it around the glass. Using a spoon, pour the vanilla mixture on top. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine frozen bananas, dairy-free vanilla ice cream, dairy-free milk, and ice cubes. </steps_updated>
+    <steps_updated num="1">Blend until combined. </steps_updated>
+    <steps_updated num="2">Evenly distribute mixture into 3 cups, rough ¾ cup (200 ml) each. </steps_updated>
+    <steps_updated num="3">Set one cup to the side. </steps_updated>
+    <steps_updated num="4">Add one mixture back in the blender and add strawberries. </steps_updated>
+    <steps_updated num="5">Mix until well blended and set aside. </steps_updated>
+    <steps_updated num="6">Add the last mixture in the blender and add cocoa powder. </steps_updated>
+    <steps_updated num="7">Mix until well blended and set aside. </steps_updated>
+    <steps_updated num="8">In a cup, pour chocolate mixture first. </steps_updated>
+    <steps_updated num="9">Using a spoon, pour the strawberry mixture onto the spoon and spread it around the glass. </steps_updated>
+    <steps_updated num="10">Using a spoon, pour the vanilla mixture on top. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01714</start_time>
+    <end_time>03176</end_time>
+  </duration_human>
+</recipe>

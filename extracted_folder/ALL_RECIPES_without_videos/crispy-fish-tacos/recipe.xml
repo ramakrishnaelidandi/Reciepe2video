@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Crispy Fish Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crispy-fish-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/shrimp-tacos-vs-fish-tacos</comp_url>
+  <ingredients>
+    <ingredient num="0">½ head ; green cabbage, finely shredded </ingredient>
+    <ingredient num="1">½ ; medium red onion, small diced </ingredient>
+    <ingredient num="2">2 ; roma tomatoes, diced </ingredient>
+    <ingredient num="3">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="4">1 ; small jalapeño, diced </ingredient>
+    <ingredient num="5">2 tablespoons ; lime juice </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; old bay seasoning </ingredient>
+    <ingredient num="9">½ teaspoon ; baking powder </ingredient>
+    <ingredient num="10">1 cup ; lager beer ; (240 mL) </ingredient>
+    <ingredient num="11">vegetable oil, for frying </ingredient>
+    <ingredient num="12">1 lb ; fresh cod, cut into 1-inch (2-cm) thick strips ; (455 g) </ingredient>
+    <ingredient num="13">2 ; medium avocados </ingredient>
+    <ingredient num="14">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="15">¼ cup ; lime juice ; (60 mL) </ingredient>
+    <ingredient num="16">salt, to taste </ingredient>
+    <ingredient num="17">corn tortilla, warmed </ingredient>
+    <ingredient num="18">radish, thinly sliced, for serving, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/113618/hls24_1540840058.m3u8</low>
+    <high>https://vid.tasty.co/output/113618/landscape_720/1540840058</high>
+  </video>
+  <duration>
+    <start_time>4.5</start_time>
+    <end_time>103.916</end_time>
+  </duration>
+  <steps>
+    <step num="0">Make the cabbage slaw: Combine the cabbage, onion, tomato, cilantro, jalapeño, lime juice, and salt in a large bowl. Toss well, then set aside. </step>
+    <step num="1">Make the crispy fish: In a large bowl, combine the flour, Old Bay, and baking powder. Add the beer and whisk until smooth. Let sit for 15 minutes. </step>
+    <step num="2">Heat the vegetable oil in a large pot until it reaches 350°F (180°C). </step>
+    <step num="3">Coat the fish in the batter, then transfer to the oil and fry until golden on the outside and cooked through, 5-7 minutes. Drain the fish on a wire rack set over a baking sheet lined with paper towels. </step>
+    <step num="4">Make the avocado crema: Add the avocados, sour cream, lime juice, and salt to a blender and blend until smooth. </step>
+    <step num="5">To assemble the tacos, add a bit of the cabbage slaw to a warmed tortilla. Top with a piece of fried fish, avocado crema, and sliced radish. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the cabbage slaw: Combine the cabbage, onion, tomato, cilantro, jalapeño, lime juice, and salt in a large bowl. </steps_updated>
+    <steps_updated num="1">Toss well, then set aside. </steps_updated>
+    <steps_updated num="2">Make the crispy fish: In a large bowl, combine the flour, Old Bay, and baking powder. </steps_updated>
+    <steps_updated num="3">Add the beer and whisk until smooth. </steps_updated>
+    <steps_updated num="4">Let sit for 15 minutes. </steps_updated>
+    <steps_updated num="5">Heat the vegetable oil in a large pot until it reaches 350°F (180°C). </steps_updated>
+    <steps_updated num="6">Coat the fish in the batter, then transfer to the oil and fry until golden on the outside and cooked through, 5-7 minutes. </steps_updated>
+    <steps_updated num="7">Drain the fish on a wire rack set over a baking sheet lined with paper towels. </steps_updated>
+    <steps_updated num="8">Make the avocado crema: Add the avocados, sour cream, lime juice, and salt to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="9">To assemble the tacos, add a bit of the cabbage slaw to a warmed tortilla. </steps_updated>
+    <steps_updated num="10">Top with a piece of fried fish, avocado crema, and sliced radish. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

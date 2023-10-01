@@ -1,0 +1,46 @@
+<recipe>
+  <title>Smoked Salmon Cucumber Sub Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smoked-salmon-cucumber-sub</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cucumber-subs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 1387 </ingredient>
+    <ingredient num="1">1580 2605 13278 13033 14538 13278 7289 5981 </ingredient>
+    <ingredient num="2">1580 13278 8083 12384 3962 </ingredient>
+    <ingredient num="3">12791 2605 13278 6209 3043 13278 12237 5981 </ingredient>
+    <ingredient num="4">6735 13009 13278 11986 7989 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51392/low_1504802973.m3u8</low>
+    <high>https://vid.tasty.co/output/51392/mp4_720x1280/1504802973</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">8431 5994 4168 12862 560 7368 11951 5993 </step>
+    <step num="1">12474 5994 4669 8667 7777 13817 7346 11951 7211 10993 7777 11951 1387 210 8467 9679 2696 11951 1245 13817 8048 </step>
+    <step num="2">10950 5994 2192 3624 14511 4120 11951 13033 13810 8083 12384 13817 4564 13817 10968 1681 3145 9456 </step>
+    <step num="3">2988 11951 13033 14538 2373 4255 6697 10860 371 11951 9864 10837 10707 1391 11986 9069 13817 1739 11951 1045 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8431 5994 4168 12862 560 7368 11951 5993 </steps_updated>
+    <steps_updated num="1">12474 5994 4669 8667 7777 13817 7346 11951 7211 </steps_updated>
+    <steps_updated num="2">10993 7777 11951 1387 210 8467 </steps_updated>
+    <steps_updated num="3">9679 2696 11951 1245 13817 8048 </steps_updated>
+    <steps_updated num="4">10950 5994 2192 3624 14511 4120 11951 13033 13810 8083 12384 13817 4564 13817 10968 1681 3145 9456 </steps_updated>
+    <steps_updated num="5">2988 11951 13033 14538 2373 4255 6697 10860 371 11951 9864 10837 10707 1391 11986 9069 13817 1739 11951 1045 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01007</start_time>
+    <end_time>01814</end_time>
+  </duration_human>
+</recipe>

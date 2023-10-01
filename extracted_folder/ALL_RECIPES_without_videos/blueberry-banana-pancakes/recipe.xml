@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Banana Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-banana-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-healthier-banana-swap-outs</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; bananas </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">blueberry, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14770/low_1479239773.m3u8</low>
+    <high>https://vid.tasty.co/output/14770/mp4_720x1280/1479239773</high>
+  </video>
+  <duration>
+    <start_time>31.4</start_time>
+    <end_time>60.72</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, mash the bananas until they reach a liquid state. </step>
+    <step num="1">Whisk in the eggs. </step>
+    <step num="2">Heat butter or oil in a large skillet over medium heat. </step>
+    <step num="3">Pour batter into the warm skillet to cook. Garnish with desired number of blueberries. After about a minute and a half (or until golden) flip to finish cooking. </step>
+    <step num="4">Allow to cool for a minute. Serve warm. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, mash the bananas until they reach a liquid state. </steps_updated>
+    <steps_updated num="1">Whisk in the eggs. </steps_updated>
+    <steps_updated num="2">Heat butter or oil in a large skillet over medium heat. </steps_updated>
+    <steps_updated num="3">Pour batter into the warm skillet to cook. </steps_updated>
+    <steps_updated num="4">Garnish with desired number of blueberries. </steps_updated>
+    <steps_updated num="5">After about a minute and a half (or until golden) flip to finish cooking. </steps_updated>
+    <steps_updated num="6">Allow to cool for a minute. </steps_updated>
+    <steps_updated num="7">Serve warm. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

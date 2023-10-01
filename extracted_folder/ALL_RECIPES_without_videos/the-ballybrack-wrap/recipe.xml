@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Ballybrack Wrap Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-ballybrack-wrap</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">1 ; chipolata sausage </ingredient>
+    <ingredient num="2">2 slices ; edam cheese </ingredient>
+    <ingredient num="3">2 slices ; bacon, halved, or 3-4 streaky bacon slices </ingredient>
+    <ingredient num="4">½ teaspoon ; paprika, smoked is good too! </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic granules </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">1 pinch ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19285/low_1482445607.m3u8</low>
+    <high>https://vid.tasty.co/output/19285/mp4_720x1280/1482445607</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 200°C (400°F). </step>
+    <step num="1">Prep all of the ingredients first to avoid touching things with chicken fingers. Slice the bacon, remove the cheese and sausage from their packaging, etc. </step>
+    <step num="2">Mix together all of the seasonings. </step>
+    <step num="3">Place the chicken breast on a sheet of clingfilm, then cut it horizontally 95% of the way through to butterfly it. </step>
+    <step num="4">Wrap it in the clingfilm, then thin it out by bashing it with a rolling pin. </step>
+    <step num="5">Season the chicken, then wrap the sausage in a slice of cheese and put in the centre of the flattened out chicken. </step>
+    <step num="6">Roll it up, then season the other side of the chicken. </step>
+    <step num="7">Wrap the chicken in one or two more slices of cheese and season the remaining side of the chicken. </step>
+    <step num="8">Wrap the bacon around the cheesy chicken nice and tight. </step>
+    <step num="9">Transfer to a tray and bake for 25 minutes. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 200°C (400°F). </steps_updated>
+    <steps_updated num="1">Prep all of the ingredients first to avoid touching things with chicken fingers. </steps_updated>
+    <steps_updated num="2">Slice the bacon, remove the cheese and sausage from their packaging, etc. </steps_updated>
+    <steps_updated num="3">Mix together all of the seasonings. </steps_updated>
+    <steps_updated num="4">Place the chicken breast on a sheet of clingfilm, then cut it horizontally 95% of the way through to butterfly it. </steps_updated>
+    <steps_updated num="5">Wrap it in the clingfilm, then thin it out by bashing it with a rolling pin. </steps_updated>
+    <steps_updated num="6">Season the chicken, then wrap the sausage in a slice of cheese and put in the centre of the flattened out chicken. </steps_updated>
+    <steps_updated num="7">Roll it up, then season the other side of the chicken. </steps_updated>
+    <steps_updated num="8">Wrap the chicken in one or two more slices of cheese and season the remaining side of the chicken. </steps_updated>
+    <steps_updated num="9">Wrap the bacon around the cheesy chicken nice and tight. </steps_updated>
+    <steps_updated num="10">Transfer to a tray and bake for 25 minutes. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

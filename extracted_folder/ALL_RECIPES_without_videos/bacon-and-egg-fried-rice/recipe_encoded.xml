@@ -1,0 +1,55 @@
+<recipe>
+  <title>Bacon And Egg Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-and-egg-fried-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 2597 12708 </ingredient>
+    <ingredient num="1">6735 643 13278 8932 13278 2583 5981 </ingredient>
+    <ingredient num="2">3917 13278 13757 6334 </ingredient>
+    <ingredient num="3">3917 14014 13278 4168 5766 </ingredient>
+    <ingredient num="4">2933 9517 13278 11948 3745 13278 10187 10482 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">13584 10986 560 11567 </ingredient>
+    <ingredient num="7">3917 8071 13278 4834 </ingredient>
+    <ingredient num="8">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="9">4985 12384 1404 2658 13218 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28953/low_1491945011.m3u8</low>
+    <high>https://vid.tasty.co/output/28953/mp4_720x1280/1491945011</high>
+  </video>
+  <steps>
+    <step num="0">8315 2734 12708 210 2237 7888 12377 13817 740 5994 10222 371 82 1681 8460 </step>
+    <step num="1">14100 8932 669 1318 13009 13817 11588 11188 11951 12034 </step>
+    <step num="2">8889 5766 210 6811 5994 7742 5895 9637 5291 5687 11770 13757 7855 13817 740 9917 8536 11982 9345 11951 142 10570 6665 12573 12560 3606 5103 6781 7742 13817 817 5292 </step>
+    <step num="3">9179 8932 560 11951 7742 13817 2234 3557 560 2896 573 13817 13593 7167 9956 11951 8932 9490 3606 13176 3557 2696 371 11951 7742 13817 817 2891 14473 1391 11951 3699 8536 </step>
+    <step num="4">9179 11951 341 6334 560 11951 7742 13817 9531 1681 6470 10993 740 11951 3745 11948 772 11901 11951 7706 9490 7399 13817 13473 13817 9531 7990 8580 560 2933 12689 8431 7700 560 827 3386 7115 9945 </step>
+    <step num="5">9179 11951 12610 10986 6145 13817 11691 9286 12473 7990 6646 12110 5895 771 </step>
+    <step num="6">9956 7708 9490 14170 5649 3482 11951 7706 13817 3557 9490 2043 494 8180 740 3699 12708 13817 3745 6106 </step>
+    <step num="7">6252 1391 4985 12384 2658 13 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8315 2734 12708 210 2237 7888 12377 13817 740 5994 10222 371 82 1681 8460 </steps_updated>
+    <steps_updated num="1">14100 8932 669 1318 13009 13817 11588 11188 11951 12034 </steps_updated>
+    <steps_updated num="2">8889 5766 210 6811 5994 7742 5895 9637 5291 5687 11770 13757 7855 13817 740 9917 8536 </steps_updated>
+    <steps_updated num="3">11982 9345 11951 142 10570 6665 12573 12560 3606 5103 6781 7742 13817 817 5292 </steps_updated>
+    <steps_updated num="4">9179 8932 560 11951 7742 13817 2234 3557 560 2896 573 13817 13593 7167 </steps_updated>
+    <steps_updated num="5">9956 11951 8932 9490 3606 13176 3557 2696 371 11951 7742 13817 817 2891 14473 1391 11951 3699 8536 </steps_updated>
+    <steps_updated num="6">9179 11951 341 6334 560 11951 7742 13817 9531 1681 6470 </steps_updated>
+    <steps_updated num="7">10993 740 11951 3745 11948 772 11901 11951 7706 9490 7399 13817 13473 13817 9531 7990 8580 560 2933 12689 </steps_updated>
+    <steps_updated num="8">8431 7700 560 827 3386 7115 9945 </steps_updated>
+    <steps_updated num="9">9179 11951 12610 10986 6145 13817 11691 9286 </steps_updated>
+    <steps_updated num="10">12473 7990 6646 12110 5895 771 </steps_updated>
+    <steps_updated num="11">9956 7708 9490 14170 5649 3482 11951 7706 13817 3557 9490 2043 494 8180 740 3699 12708 13817 3745 6106 </steps_updated>
+    <steps_updated num="12">6252 1391 4985 12384 2658 13 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

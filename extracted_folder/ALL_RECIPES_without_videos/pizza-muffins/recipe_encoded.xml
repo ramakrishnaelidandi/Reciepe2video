@@ -1,0 +1,63 @@
+<recipe>
+  <title>Pizza Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-muffins</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-recipes-using-pancake-mix</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 2650 10968 13278 9373 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 10907 5335 13278 6518 5981 </ingredient>
+    <ingredient num="2">13086 13278 14463 3247 </ingredient>
+    <ingredient num="3">1580 14014 13278 796 6250 </ingredient>
+    <ingredient num="4">1580 14014 13278 796 5616 </ingredient>
+    <ingredient num="5">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">1813 2605 13278 1459 5243 12205 13278 2264 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 3333 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="8">3917 2605 13278 9889 371 6507 13278 12462 8007 </ingredient>
+    <ingredient num="9">11607 13278 8602 7042 5895 5071 9668 </ingredient>
+    <ingredient num="10">8580 9486 13278 8640 13033 </ingredient>
+    <ingredient num="11">8580 9486 13278 2431 109 14538 </ingredient>
+    <ingredient num="12">9122 7280 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65612/hls24_1512415315.m3u8</low>
+    <high>https://vid.tasty.co/output/65612/landscape_720/1512415315</high>
+  </video>
+  <duration>
+    <start_time>104.99</start_time>
+    <end_time>171.39</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 11454 </step>
+    <step num="1">10950 5994 13757 14511 740 11951 2650 3446 10907 13817 3917 6216 13817 10968 1681 4309 </step>
+    <step num="2">8724 6285 3917 14014 371 8337 669 5994 2362 12829 12841 10590 </step>
+    <step num="3">6252 749 11227 11384 8117 6447 10865 13810 13817 717 11770 11951 9453 </step>
+    <step num="4">10950 5994 2597 8266 202 8341 3626 8580 14463 9889 13817 8640 5808 1083 2373 11770 11951 11649 11907 210 10763 12841 1344 13494 1391 109 4496 </step>
+    <step num="5">7831 5169 11004 5895 1681 10963 2147 </step>
+    <step num="6">13434 7990 2933 12689 </step>
+    <step num="7">12774 1391 9122 2260 7990 2110 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 11454 </steps_updated>
+    <steps_updated num="1">10950 5994 13757 14511 740 11951 2650 3446 10907 13817 3917 6216 13817 10968 1681 4309 </steps_updated>
+    <steps_updated num="2">8724 6285 3917 14014 371 8337 669 5994 2362 12829 12841 10590 </steps_updated>
+    <steps_updated num="3">6252 749 11227 11384 8117 6447 10865 13810 13817 717 11770 11951 9453 </steps_updated>
+    <steps_updated num="4">10950 5994 2597 8266 202 8341 3626 8580 14463 9889 13817 8640 5808 </steps_updated>
+    <steps_updated num="5">1083 2373 11770 11951 11649 11907 210 10763 12841 1344 </steps_updated>
+    <steps_updated num="6">13494 1391 109 4496 </steps_updated>
+    <steps_updated num="7">7831 5169 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="8">13434 7990 2933 12689 </steps_updated>
+    <steps_updated num="9">12774 1391 9122 2260 7990 2110 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02544</start_time>
+    <end_time>04131</end_time>
+  </duration_human>
+</recipe>

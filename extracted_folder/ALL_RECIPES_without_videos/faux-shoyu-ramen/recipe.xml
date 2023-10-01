@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Faux Shoyu Ramen Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/faux-shoyu-ramen</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-instant-ramen-upgrades</comp_url>
+  <ingredients>
+    <ingredient num="0">1 package ; instant ramen, prepared </ingredient>
+    <ingredient num="1">2 teaspoons ; soy sauce </ingredient>
+    <ingredient num="2">2 sheets ; toasted nori snack, sliced </ingredient>
+    <ingredient num="3">1 ; soft-boiled egg, halved </ingredient>
+    <ingredient num="4">3 slices ; thick bacon, cooked </ingredient>
+    <ingredient num="5">2 teaspoons ; scallions, thinly sliced </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">black sesame seeds, toasted, for garnish, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102372/hls24_1531937316.m3u8</low>
+    <high>https://vid.tasty.co/output/102372/landscape_720/1531937316</high>
+  </video>
+  <duration>
+    <start_time>66.333</start_time>
+    <end_time>89.316</end_time>
+  </duration>
+  <steps>
+    <step num="0">To a pot with 2 cups (480 ml) of boiling water add the ramen seasoning packet and a tablespoon of butter. Stir until the butter melts and then add the ramen noodle cube and cook until the noodles become tender, 2 minutes. Pour the ramen into a bowl. </step>
+    <step num="1">To the prepared ramen, add the soy sauce and stir to incorporate. </step>
+    <step num="2">Top with the nori, egg, bacon, scallions, and season with salt and pepper. Sprinkle with sesame seeds, if using. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To a pot with 2 cups (480 ml) of boiling water add the ramen seasoning packet and a tablespoon of butter. </steps_updated>
+    <steps_updated num="1">Stir until the butter melts and then add the ramen noodle cube and cook until the noodles become tender, 2 minutes. </steps_updated>
+    <steps_updated num="2">Pour the ramen into a bowl. </steps_updated>
+    <steps_updated num="3">To the prepared ramen, add the soy sauce and stir to incorporate. </steps_updated>
+    <steps_updated num="4">Top with the nori, egg, bacon, scallions, and season with salt and pepper. </steps_updated>
+    <steps_updated num="5">Sprinkle with sesame seeds, if using. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

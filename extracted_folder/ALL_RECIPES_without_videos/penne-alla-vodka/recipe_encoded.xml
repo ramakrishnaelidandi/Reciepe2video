@@ -1,0 +1,58 @@
+<recipe>
+  <title>Penne Alla Vodka Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/penne-alla-vodka</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-italian-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">6735 643 13278 4018 5444 3745 13278 2583 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="2">1580 13278 4617 12384 341 </ingredient>
+    <ingredient num="3">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="4">1580 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 6250 </ingredient>
+    <ingredient num="6">3917 8071 13278 82 </ingredient>
+    <ingredient num="7">1580 2605 13278 819 13278 2935 8007 </ingredient>
+    <ingredient num="8">3917 1580 9517 13278 9668 2260 13278 10132 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 8640 13033 13278 2935 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22789/low_1485992761.m3u8</low>
+    <high>https://vid.tasty.co/output/22789/mp4_720x1280/1485992761</high>
+  </video>
+  <duration>
+    <start_time>35.00</start_time>
+    <end_time>75.00</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 3917 14014 371 8244 5766 210 5994 2597 2641 </step>
+    <step num="1">9179 6334 13817 3917 2414 371 4155 13817 2550 1681 11453 12573 6470 </step>
+    <step num="2">9179 9668 2260 13817 10968 560 4120 1391 6334 13817 1937 </step>
+    <step num="3">9179 1057 796 749 8083 7845 8635 13817 12051 1828 1148 560 11779 7990 8580 8927 560 2234 6241 371 11951 3762 560 6870 11353 </step>
+    <step num="4">9179 8640 13033 13817 6142 1681 7568 4309 12450 2260 217 837 669 5994 5041 6949 13956 7160 10665 </step>
+    <step num="5">9179 3745 950 560 819 2260 13817 10968 1681 13633 12573 7568 7670 210 9286 </step>
+    <step num="6">4660 1391 5994 5378 13817 3945 11779 7990 2933 8927 5895 1681 11951 2260 7312 12781 5569 8467 </step>
+    <step num="7">13688 1391 13952 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 3917 14014 371 8244 5766 210 5994 2597 2641 </steps_updated>
+    <steps_updated num="1">9179 6334 13817 3917 2414 371 4155 13817 2550 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="2">9179 9668 2260 13817 10968 560 4120 1391 6334 13817 1937 </steps_updated>
+    <steps_updated num="3">9179 1057 796 749 8083 7845 8635 13817 12051 </steps_updated>
+    <steps_updated num="4">1828 1148 560 11779 7990 8580 8927 560 2234 6241 371 11951 3762 560 6870 11353 </steps_updated>
+    <steps_updated num="5">9179 8640 13033 13817 6142 1681 7568 4309 </steps_updated>
+    <steps_updated num="6">12450 2260 217 837 669 5994 5041 6949 13956 7160 10665 </steps_updated>
+    <steps_updated num="7">9179 3745 950 560 819 2260 13817 10968 1681 13633 12573 7568 7670 210 9286 </steps_updated>
+    <steps_updated num="8">4660 1391 5994 5378 13817 3945 11779 7990 2933 8927 5895 1681 11951 2260 7312 12781 5569 8467 </steps_updated>
+    <steps_updated num="9">13688 1391 13952 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated> 
+</recipe>

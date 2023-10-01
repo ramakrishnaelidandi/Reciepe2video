@@ -1,0 +1,70 @@
+<recipe>
+  <title>Maple-glazed Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/maple-glazed-salmon</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 4168 5766 </ingredient>
+    <ingredient num="1">12791 2605 13278 9171 6818 13278 3433 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 13956 10522 </ingredient>
+    <ingredient num="3">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="4">3917 8071 13278 11088 14418 </ingredient>
+    <ingredient num="5">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="6">10986 560 11567 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">4061 643 13278 7989 7761 8580 2133 13278 6518 5981 </ingredient>
+    <ingredient num="9">6209 11911 7990 4711 </ingredient>
+    <ingredient num="10">3917 715 13278 2340 9800 13278 4563 5981 </ingredient>
+    <ingredient num="11">12610 560 11567 </ingredient>
+    <ingredient num="12">8580 9486 13278 9924 </ingredient>
+    <ingredient num="13">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="14">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="15">3917 8071 13278 597 5921 </ingredient>
+    <ingredient num="16">3917 8071 13278 8083 7845 10876 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19561/low_1482971378.m3u8</low>
+    <high>https://vid.tasty.co/output/19561/mp4_720x1280/1482971378</high>
+  </video>
+  <steps>
+    <step num="0">2715 11951 9069 7855 4168 5766 4255 3996 210 5994 13959 2641 </step>
+    <step num="1">2715 11951 8741 13262 5994 13757 10083 14166 1391 2019 9179 5994 13030 371 82 13817 12207 2032 2019 </step>
+    <step num="2">10950 11951 14393 8341 3626 9171 1285 13956 7654 11691 7280 4155 12610 13817 7845 210 5994 13757 7616 </step>
+    <step num="3">2257 10261 8580 9486 7990 3297 1916 </step>
+    <step num="4">5570 7989 2133 1864 11951 12377 13817 772 11901 10763 11801 9490 8090 1391 9286 </step>
+    <step num="5">13283 11951 7989 6865 8927 4255 10763 145 </step>
+    <step num="6">11881 11951 4091 1391 11951 2260 817 5292 </step>
+    <step num="7">10936 11951 10083 371 12282 12859 740 11951 2340 13817 6506 2445 764 7990 8580 12689 </step>
+    <step num="8">11720 1896 278 12282 560 3201 11951 4905 </step>
+    <step num="9">10950 11951 6124 10083 371 8741 6142 210 10907 11691 7280 8083 7845 8635 8177 597 9342 13817 11384 4255 9721 2082 9393 1681 2340 9490 10681 </step>
+    <step num="10">12474 10763 2773 1966 5994 10289 371 7989 13817 1374 371 12414 </step>
+    <step num="11">13494 1391 8276 6966 13817 1678 2768 7990 3741 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2715 11951 9069 7855 4168 5766 4255 3996 210 5994 13959 2641 </steps_updated>
+    <steps_updated num="1">2715 11951 8741 13262 5994 13757 10083 14166 1391 2019 </steps_updated>
+    <steps_updated num="2">9179 5994 13030 371 82 13817 12207 2032 2019 </steps_updated>
+    <steps_updated num="3">10950 11951 14393 8341 3626 9171 1285 13956 7654 11691 7280 4155 12610 13817 7845 210 5994 13757 7616 </steps_updated>
+    <steps_updated num="4">2257 10261 8580 9486 7990 3297 1916 </steps_updated>
+    <steps_updated num="5">5570 7989 2133 1864 11951 12377 13817 772 11901 10763 11801 9490 8090 1391 9286 </steps_updated>
+    <steps_updated num="6">13283 11951 7989 6865 8927 4255 10763 145 </steps_updated>
+    <steps_updated num="7">11881 11951 4091 1391 11951 2260 817 5292 </steps_updated>
+    <steps_updated num="8">10936 11951 10083 371 12282 12859 740 11951 2340 13817 6506 2445 </steps_updated>
+    <steps_updated num="9">764 7990 8580 12689 </steps_updated>
+    <steps_updated num="10">11720 1896 278 12282 560 3201 11951 4905 </steps_updated>
+    <steps_updated num="11">10950 11951 6124 10083 371 8741 6142 210 10907 11691 7280 8083 7845 8635 8177 597 9342 13817 11384 4255 9721 2082 </steps_updated>
+    <steps_updated num="12">9393 1681 2340 9490 10681 </steps_updated>
+    <steps_updated num="13">12474 10763 2773 1966 5994 10289 371 7989 13817 1374 371 12414 </steps_updated>
+    <steps_updated num="14">13494 1391 8276 6966 13817 1678 2768 7990 3741 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

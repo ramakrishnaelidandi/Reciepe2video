@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hot Toddy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-toddy</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-slow-cooker-cocktails-to-serve-at-your-next-holiday-party</comp_url>
+  <ingredients>
+    <ingredient num="0">14 cups ; hot water ; (3 ⅓ L) </ingredient>
+    <ingredient num="1">⅔ cup ; fresh lemon juice ; (160 mL) </ingredient>
+    <ingredient num="2">⅔ cup ; honey ; (225 g) </ingredient>
+    <ingredient num="3">5 ; star anises </ingredient>
+    <ingredient num="4">10 ; black tea bags </ingredient>
+    <ingredient num="5">2 ; lemons, thinly sliced </ingredient>
+    <ingredient num="6">8 fl oz ; whiskey ; (235 mL) </ingredient>
+    <ingredient num="7">lemon wedge, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112113/hls24_1539385219.m3u8</low>
+    <high>https://vid.tasty.co/output/112113/landscape_720/1539385219</high>
+  </video>
+  <duration>
+    <start_time>50.166</start_time>
+    <end_time>99.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the hot water, lemon juice, honey, and star anise to a slow cooker. Stir to combine. </step>
+    <step num="1">Turn the heat to high, cover, and warm until the water begins to steam, about 30 minutes. </step>
+    <step num="2">Add the black tea bags and let steep for about 8 minutes. Remove the tea bags and reduce the heat setting to warm. </step>
+    <step num="3">Add the lemons and whiskey. Stir to combine. </step>
+    <step num="4">Ladle into mugs and garnish with lemon wedges. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the hot water, lemon juice, honey, and star anise to a slow cooker. </steps_updated>
+    <steps_updated num="1">Stir to combine. </steps_updated>
+    <steps_updated num="2">Turn the heat to high, cover, and warm until the water begins to steam, about 30 minutes. </steps_updated>
+    <steps_updated num="3">Add the black tea bags and let steep for about 8 minutes. </steps_updated>
+    <steps_updated num="4">Remove the tea bags and reduce the heat setting to warm. </steps_updated>
+    <steps_updated num="5">Add the lemons and whiskey. </steps_updated>
+    <steps_updated num="6">Stir to combine. </steps_updated>
+    <steps_updated num="7">Ladle into mugs and garnish with lemon wedges. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

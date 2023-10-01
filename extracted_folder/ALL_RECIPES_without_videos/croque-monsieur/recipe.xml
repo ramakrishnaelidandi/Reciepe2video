@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Croque Monsieur Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/croque-monsieur</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; milk ; (250 mL) </ingredient>
+    <ingredient num="1">⅔ cup ; double cream ; (150 mL) </ingredient>
+    <ingredient num="2">1 ; onion, roughly chopped </ingredient>
+    <ingredient num="3">2 cloves ; garlic, crushed </ingredient>
+    <ingredient num="4">2 ; bay leaves </ingredient>
+    <ingredient num="5">2 tablespoons ; butter </ingredient>
+    <ingredient num="6">¼ cup ; flour ; (25 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; dijon mustard </ingredient>
+    <ingredient num="8">1 pinch ; ground nutmeg </ingredient>
+    <ingredient num="9">4 slices ; white bread </ingredient>
+    <ingredient num="10">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="11">dijon mustard, to spread </ingredient>
+    <ingredient num="12">1 cup ; gruyère cheese, grated ; (100 g) </ingredient>
+    <ingredient num="13">6 slices ; ham </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68868/hls24_1513638988.m3u8</low>
+    <high>https://vid.tasty.co/output/68868/landscape_720/1513638988</high>
+  </video>
+  <steps>
+    <step num="0">In a saucepan, combine the milk, double cream, onion, garlic and bay leaves and heat over a medium heat until it just starts to boil. </step>
+    <step num="1">Take off the heat and leave to infuse for 10 minutes. </step>
+    <step num="2">Pour the milk mixture through a sieve into a jug. </step>
+    <step num="3">Then, in a saucepan, gently melt the butter and add the flour. Stir together over a low-medium heat for 1 -2 minutes. </step>
+    <step num="4">Gradually add the milk in three parts whilst continually stirring. </step>
+    <step num="5">Continue to stir and bring the sauce to a gentle boil. </step>
+    <step num="6">Take off the heat and stir in the dijon mustard and ground nutmeg. </step>
+    <step num="7">Next, brush the two slices of bread with the melted butter and grill for about 5 minutes until golden brown. </step>
+    <step num="8">Take out of the grill and preheat the heat the oven to 180°C (350°F). </step>
+    <step num="9">Flip the slices of bread over and spread one slice with a thin layer of dijon mustard, followed by another layer of the béchamel sauce, followed by the cheese and then the ham. </step>
+    <step num="10">Place the other slice of bread on top and coat with more béchamel sauce and cheese. </step>
+    <step num="11">Bake for about 15 minutes, until the cheese is bubbling. </step>
+    <step num="12">Serve with fresh salad! </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a saucepan, combine the milk, double cream, onion, garlic and bay leaves and heat over a medium heat until it just starts to boil. </steps_updated>
+    <steps_updated num="1">Take off the heat and leave to infuse for 10 minutes. </steps_updated>
+    <steps_updated num="2">Pour the milk mixture through a sieve into a jug. </steps_updated>
+    <steps_updated num="3">Then, in a saucepan, gently melt the butter and add the flour. </steps_updated>
+    <steps_updated num="4">Stir together over a low-medium heat for 1 -2 minutes. </steps_updated>
+    <steps_updated num="5">Gradually add the milk in three parts whilst continually stirring. </steps_updated>
+    <steps_updated num="6">Continue to stir and bring the sauce to a gentle boil. </steps_updated>
+    <steps_updated num="7">Take off the heat and stir in the dijon mustard and ground nutmeg. </steps_updated>
+    <steps_updated num="8">Next, brush the two slices of bread with the melted butter and grill for about 5 minutes until golden brown. </steps_updated>
+    <steps_updated num="9">Take out of the grill and preheat the heat the oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="10">Flip the slices of bread over and spread one slice with a thin layer of dijon mustard, followed by another layer of the béchamel sauce, followed by the cheese and then the ham. </steps_updated>
+    <steps_updated num="11">Place the other slice of bread on top and coat with more béchamel sauce and cheese. </steps_updated>
+    <steps_updated num="12">Bake for about 15 minutes, until the cheese is bubbling. </steps_updated>
+    <steps_updated num="13">Serve with fresh salad! </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

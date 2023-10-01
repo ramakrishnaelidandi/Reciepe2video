@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Shredded Chicken Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-shredded-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 oz ; salsa ; (455 g) </ingredient>
+    <ingredient num="1">2 ; limes, juiced </ingredient>
+    <ingredient num="2">1 package ; taco seasoning </ingredient>
+    <ingredient num="3">3 tablespoons ; fresh cilantro, chopped </ingredient>
+    <ingredient num="4">3 lb ; chicken breast ; (1.3 kg) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31939/low_1495124924.m3u8</low>
+    <high>https://vid.tasty.co/output/31939/mp4_720x1280/1495124924</high>
+  </video>
+  <steps>
+    <step num="0">In your slow cooker, mix the salsa, lime juice, taco seasoning, and cilantro. </step>
+    <step num="1">Salt and pepper the chicken to taste, then mix into the sauce. Cover and cook on high for four hours or low for seven to eight hours. </step>
+    <step num="2">Remove the chicken, shred with two forks, and return to the slow cooker and stir. </step>
+    <step num="3">Freeze leftovers in an airtight bag for up to six months! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In your slow cooker, mix the salsa, lime juice, taco seasoning, and cilantro. </steps_updated>
+    <steps_updated num="1">Salt and pepper the chicken to taste, then mix into the sauce. </steps_updated>
+    <steps_updated num="2">Cover and cook on high for four hours or low for seven to eight hours. </steps_updated>
+    <steps_updated num="3">Remove the chicken, shred with two forks, and return to the slow cooker and stir. </steps_updated>
+    <steps_updated num="4">Freeze leftovers in an airtight bag for up to six months! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

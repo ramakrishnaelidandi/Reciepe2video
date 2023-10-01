@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate-Dipped Oranges Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-dipped-oranges</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; orange </ingredient>
+    <ingredient num="1">1 cup ; semi-sweet chocolate chips ; (175 g) </ingredient>
+    <ingredient num="2">½ cup ; rainbow sprinkles ; (80 g) </ingredient>
+    <ingredient num="3">½ cup ; freeze-dried strawberry, crushed ; (75 g) </ingredient>
+    <ingredient num="4">½ cup ; almond, chopped ; (70 g) </ingredient>
+    <ingredient num="5">½ cup ; coarse sea salt ; (120 g) </ingredient>
+    <ingredient num="6">lollipop sticks, or other small stick equivalent </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Date Night</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26208/low_1489168817.m3u8</low>
+    <high>https://vid.tasty.co/output/26208/mp4_720x1280/1489168817</high>
+  </video>
+  <steps>
+    <step num="0">Peel orange into slices and insert lollipop sticks. </step>
+    <step num="1">Melt chocolate chips in microwave at 30-second intervals until the chocolate is easy to stir. </step>
+    <step num="2">Dip orange slices halfway in chocolate, and then in each topping of your choice. </step>
+    <step num="3">If needed, chill oranges in the freezer for 5 minutes to help harden the chocolate. </step>
+    <step num="4">*Additional oranges can be used to increase serving size </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel orange into slices and insert lollipop sticks. </steps_updated>
+    <steps_updated num="1">Melt chocolate chips in microwave at 30-second intervals until the chocolate is easy to stir. </steps_updated>
+    <steps_updated num="2">Dip orange slices halfway in chocolate, and then in each topping of your choice. </steps_updated>
+    <steps_updated num="3">If needed, chill oranges in the freezer for 5 minutes to help harden the chocolate. </steps_updated>
+    <steps_updated num="4">*Additional oranges can be used to increase serving size </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

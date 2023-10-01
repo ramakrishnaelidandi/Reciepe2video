@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Raspberry Puff Pastry Flower Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-puff-pastry-flower</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/puff-pastry-decorations-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 sheet ; puff pastry </ingredient>
+    <ingredient num="1">1 ; egg wash </ingredient>
+    <ingredient num="2">9 ; raspberries </ingredient>
+    <ingredient num="3">2 tablespoons ; chocolate hazelnut spread </ingredient>
+    <ingredient num="4">1 ; powdered sugar, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/66978/hls24_1512777983.m3u8</low>
+    <high>https://vid.tasty.co/output/66978/landscape_720/1512777983</high>
+  </video>
+  <duration>
+    <start_time>65.0</start_time>
+    <end_time>95.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut the puff pastry into 9 equal squares. </step>
+    <step num="1">Taking one of the squares, cut in the middle of each corner making sure your cuts do not touch in the center. </step>
+    <step num="2">Place ½ teaspoon of hazelnut spread in the center. </step>
+    <step num="3">Fold each corner to the center and press down until the pastry sticks. Brush each side of the fold with egg wash. </step>
+    <step num="4">Brush each side of the fold with egg wash. </step>
+    <step num="5">Pinch the corners of each fold together to create a petal shape, creating 4 petals. </step>
+    <step num="6">Place a raspberry in the center. </step>
+    <step num="7">Preheat oven to 400˚F (200˚C). </step>
+    <step num="8">Repeat with the remaining pastry squares. </step>
+    <step num="9">Bake for 15–20 minutes, until pastry is golden brown and puffed. </step>
+    <step num="10">Serve with a sprinkle of powdered sugar. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Cut the puff pastry into 9 equal squares. </steps_updated>
+    <steps_updated num="2">Taking one of the squares, cut in the middle of each corner making sure your cuts do not touch in the center. </steps_updated>
+    <steps_updated num="3">Place ½ teaspoon of hazelnut spread in the center. </steps_updated>
+    <steps_updated num="4">Fold each corner to the center and press down until the pastry sticks. </steps_updated>
+    <steps_updated num="5">Brush each side of the fold with egg wash. </steps_updated>
+    <steps_updated num="6">Brush each side of the fold with egg wash. </steps_updated>
+    <steps_updated num="7">Pinch the corners of each fold together to create a petal shape, creating 4 petals. </steps_updated>
+    <steps_updated num="8">Place a raspberry in the center. </steps_updated>
+    <steps_updated num="9">Repeat with the remaining pastry squares. </steps_updated>
+    <steps_updated num="10">Bake for 15–20 minutes, until pastry is golden brown and puffed. </steps_updated>
+    <steps_updated num="11">Serve with a sprinkle of powdered sugar. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01588</start_time>
+    <end_time>02289</end_time>
+  </duration_human>
+</recipe>

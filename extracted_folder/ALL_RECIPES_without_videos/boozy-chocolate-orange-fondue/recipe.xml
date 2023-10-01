@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Boozy Chocolate Orange Fondue Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boozy-chocolate-orange-fondue</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">orange liqueur, to taste </ingredient>
+    <ingredient num="1">1 ; chocolate orange </ingredient>
+    <ingredient num="2">½ cup ; double cream ; (100 mL) </ingredient>
+    <ingredient num="3">1 tablespoon ; vanilla extract </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32035/low_1495125008.m3u8</low>
+    <high>https://vid.tasty.co/output/32035/mp4_720x1280/1495125008</high>
+  </video>
+  <steps>
+    <step num="0">Add all ingredients to a heatproof bowl and cook on low in the slow cooker for 1 hour. </step>
+    <step num="1">Give it a stir. </step>
+    <step num="2">Take it out of the slow cooker and serve with fruit or sweets! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all ingredients to a heatproof bowl and cook on low in the slow cooker for 1 hour. </steps_updated>
+    <steps_updated num="1">Give it a stir. </steps_updated>
+    <steps_updated num="2">Take it out of the slow cooker and serve with fruit or sweets! </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

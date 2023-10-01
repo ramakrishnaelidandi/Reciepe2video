@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Berry French Toast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/berry-french-toast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">10 slices ; whole wheat bread, cut into cubes </ingredient>
+    <ingredient num="1">8 oz ; raspberry ; (250 g) </ingredient>
+    <ingredient num="2">8 oz ; blackberry ; (250 g) </ingredient>
+    <ingredient num="3">10 ; strawberries, trimmed and sliced </ingredient>
+    <ingredient num="4">8 oz ; blueberry ; (250 g) </ingredient>
+    <ingredient num="5">½ cup ; water, warm ; (120 mL) </ingredient>
+    <ingredient num="6">3 tablespoons ; honey </ingredient>
+    <ingredient num="7">5 ; eggs </ingredient>
+    <ingredient num="8">2 ½ cups ; milk, of choice ; (355 mL) </ingredient>
+    <ingredient num="9">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="10">2 teaspoons ; cinnamon </ingredient>
+    <ingredient num="11">1 pinch ; salt </ingredient>
+    <ingredient num="12">greek yogurt, as desired </ingredient>
+    <ingredient num="13">maple syrup, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20792/low_1484352061.m3u8</low>
+    <high>https://vid.tasty.co/output/20792/mp4_720x1280/1484352061</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">In a large bowl, whisk together warm water and honey. </step>
+    <step num="2">Add eggs, milk, vanilla extract, cinnamon, and salt. Whisk. </step>
+    <step num="3">Place bread cubes into a well-greased cast-iron pan. </step>
+    <step num="4">Pour the egg mixture over the bread cubes and submerge all of the bread cubes. Let soak for 20 minutes. </step>
+    <step num="5">Arrange the fruit on top. </step>
+    <step num="6">Bake for approximately 1 hour. </step>
+    <step num="7">Serve with yogurt and maple syrup. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, whisk together warm water and honey. </steps_updated>
+    <steps_updated num="2">Add eggs, milk, vanilla extract, cinnamon, and salt. </steps_updated>
+    <steps_updated num="3">Whisk. </steps_updated>
+    <steps_updated num="4">Place bread cubes into a well-greased cast-iron pan. </steps_updated>
+    <steps_updated num="5">Pour the egg mixture over the bread cubes and submerge all of the bread cubes. </steps_updated>
+    <steps_updated num="6">Let soak for 20 minutes. </steps_updated>
+    <steps_updated num="7">Arrange the fruit on top. </steps_updated>
+    <steps_updated num="8">Bake for approximately 1 hour. </steps_updated>
+    <steps_updated num="9">Serve with yogurt and maple syrup. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

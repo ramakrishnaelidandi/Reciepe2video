@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Coconut Chicken Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coconut-chicken-curry</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/trinidadian-roti</comp_url>
+  <ingredients>
+    <ingredient num="0">3 lb ; chicken, cubed ; (1.3 kg) </ingredient>
+    <ingredient num="1">¼ ; medium white onion, diced </ingredient>
+    <ingredient num="2">¼ cup ; fresh scallion, chopped ; (25 g) </ingredient>
+    <ingredient num="3">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh cilantro, chopped </ingredient>
+    <ingredient num="5">3 tablespoons ; curry powder </ingredient>
+    <ingredient num="6">4 sprigs ; fresh thyme </ingredient>
+    <ingredient num="7">2 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="8">2 teaspoons ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">2 tablespoons ; oil </ingredient>
+    <ingredient num="11">½ ; medium white onion, diced </ingredient>
+    <ingredient num="12">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="13">2 tablespoons ; curry powder </ingredient>
+    <ingredient num="14">¼ cup ; fresh scallion, chopped ; (25 g) </ingredient>
+    <ingredient num="15">13.5 oz ; coconut milk, 1 can ; (890 mL) </ingredient>
+    <ingredient num="16">pepper, to taste </ingredient>
+    <ingredient num="17">1 ½ cups ; chicken broth ; (360 mL) </ingredient>
+    <ingredient num="18">fresh cilantro, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81799/hls24_1519864109.m3u8</low>
+    <high>https://vid.tasty.co/output/81799/landscape_720/1519864109</high>
+  </video>
+  <duration>
+    <start_time>92.666</start_time>
+    <end_time>139.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large mixing bowl, combine the chicken with the onion, scallions, garlic, cilantro, curry powder, thyme, parsley, salt, and pepper. Mix and let marinate for at least 1 hour in the refrigerator. </step>
+    <step num="1">Heat the oil in a medium skillet over medium heat until shimmering, and add the onion and garlic. Cook for 1-2 minutes, until fragrant. </step>
+    <step num="2">Add the curry powder and stir well, cooking for 3-4 minutes more. </step>
+    <step num="3">Add the scallions and coconut milk, increase the heat to medium-high, and cook for 8-10 minutes, until the coconut milk is boiling and begins to thicken. </step>
+    <step num="4">Add the marinated chicken and stir well. Cook the chicken for 5 minutes, or until starting to brown. Season with pepper. </step>
+    <step num="5">Add the chicken broth to the pot and stir. </step>
+    <step num="6">Bring to a rolling boil and cover the pot. Simmer for 30 minutes, until the sauce thickens into a gravy. </step>
+    <step num="7">Garnish with cilantro. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mixing bowl, combine the chicken with the onion, scallions, garlic, cilantro, curry powder, thyme, parsley, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Mix and let marinate for at least 1 hour in the refrigerator. </steps_updated>
+    <steps_updated num="2">Heat the oil in a medium skillet over medium heat until shimmering, and add the onion and garlic. </steps_updated>
+    <steps_updated num="3">Cook for 1-2 minutes, until fragrant. </steps_updated>
+    <steps_updated num="4">Add the curry powder and stir well, cooking for 3-4 minutes more. </steps_updated>
+    <steps_updated num="5">Add the scallions and coconut milk, increase the heat to medium-high, and cook for 8-10 minutes, until the coconut milk is boiling and begins to thicken. </steps_updated>
+    <steps_updated num="6">Add the marinated chicken and stir well. </steps_updated>
+    <steps_updated num="7">Cook the chicken for 5 minutes, or until starting to brown. </steps_updated>
+    <steps_updated num="8">Season with pepper. </steps_updated>
+    <steps_updated num="9">Add the chicken broth to the pot and stir. </steps_updated>
+    <steps_updated num="10">Bring to a rolling boil and cover the pot. </steps_updated>
+    <steps_updated num="11">Simmer for 30 minutes, until the sauce thickens into a gravy. </steps_updated>
+    <steps_updated num="12">Garnish with cilantro. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02268</start_time>
+    <end_time>03340</end_time>
+  </duration_human>
+</recipe>

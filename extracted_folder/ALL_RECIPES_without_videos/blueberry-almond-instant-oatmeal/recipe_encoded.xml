@@ -1,0 +1,49 @@
+<recipe>
+  <title>Blueberry Almond Instant Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-almond-instant-oatmeal</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-instant-oatmeal-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 5075 12893 13278 2264 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 8307 1421 </ingredient>
+    <ingredient num="2">3917 14014 13278 10010 638 </ingredient>
+    <ingredient num="3">3917 14014 13278 5375 5315 </ingredient>
+    <ingredient num="4">11216 8071 13278 1319 3984 </ingredient>
+    <ingredient num="5">8580 2031 13278 6145 371 6507 </ingredient>
+    <ingredient num="6">9883 2605 13278 13384 5895 9889 2032 13278 7642 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54595/low_1506984226.m3u8</low>
+    <high>https://vid.tasty.co/output/54595/mp4_720x1280/1506984226</high>
+  </video>
+  <duration>
+    <start_time>35.7</start_time>
+    <end_time>52.41</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 5075 5420 8307 4406 13969 1319 12690 5375 12320 13817 4834 669 5994 9190 13531 </step>
+    <step num="1">10434 210 5994 7091 5316 3345 7990 3386 560 5994 8043 </step>
+    <step num="2">10450 2910 5406 2032 12282 5895 5802 11770 1182 12473 560 4120 13817 3945 1788 7990 13086 12689 </step>
+    <step num="3">12774 1391 10010 9169 13817 6209 9149 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 5075 5420 8307 4406 13969 1319 12690 5375 12320 13817 4834 669 5994 9190 13531 </steps_updated>
+    <steps_updated num="1">10434 210 5994 7091 5316 3345 7990 3386 560 5994 8043 </steps_updated>
+    <steps_updated num="2">10450 2910 5406 2032 12282 5895 5802 11770 1182 </steps_updated>
+    <steps_updated num="3">12473 560 4120 13817 3945 1788 7990 13086 12689 </steps_updated>
+    <steps_updated num="4">12774 1391 10010 9169 13817 6209 9149 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01110</start_time>
+    <end_time>01585</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Crispy Baked Chicken Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crispy-baked-chicken-roll</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 strips ; bacon </ingredient>
+    <ingredient num="1">1 ; medium yellow onion, sliced </ingredient>
+    <ingredient num="2">2 cups ; fresh spinach ; (80 g) </ingredient>
+    <ingredient num="3">5 ; chicken breasts </ingredient>
+    <ingredient num="4">2 teaspoons ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">10 slices ; ham </ingredient>
+    <ingredient num="7">12 slices ; swiss cheese </ingredient>
+    <ingredient num="8">3 cups ; all-purpose flour ; (375 g) </ingredient>
+    <ingredient num="9">8 ; large eggs, beaten </ingredient>
+    <ingredient num="10">3 cups ; panko breadcrumbs ; (150 g) </ingredient>
+    <ingredient num="11">fresh parsley, chopped, for sprinkling </ingredient>
+    <ingredient num="12">3 tablespoons ; butter </ingredient>
+    <ingredient num="13">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="14">3 tablespoons ; flour </ingredient>
+    <ingredient num="15">2 cups ; milk ; (480 mL) </ingredient>
+    <ingredient num="16">¼ cup ; dijon mustard ; (60 g) </ingredient>
+    <ingredient num="17">salt, to taste </ingredient>
+    <ingredient num="18">pepper, to taste </ingredient>
+    <ingredient num="19">1 cup ; shredded parmesan cheese ; (110 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88491/hls24_1523053518.m3u8</low>
+    <high>https://vid.tasty.co/output/88491/landscape_720/1523053518</high>
+  </video>
+  <steps>
+    <step num="0">In a medium cast iron skillet or pan, cook the bacon until almost brown, about 5 minutes. </step>
+    <step num="1">Add the onions and cook, stirring, until caramelized, about 10 minutes. </step>
+    <step num="2">Add the spinach and cook until wilted, about 3 minutes. Remove the pan from the heat. </step>
+    <step num="3">Place a chicken breast on a piece of plastic wrap. Cover with more plastic wrap and pound until thin. Repeat with remaining chicken breasts. </step>
+    <step num="4">Lay out a large piece of plastic wrap and layer the chicken on the plastic so the edges are overlapping slightly. </step>
+    <step num="5">Season with salt and pepper. </step>
+    <step num="6">Layer the ham, Swiss cheese, and bacon-carmelized onion mixture over the chicken. </step>
+    <step num="7">Roll the chicken into a log tightly wrap in plastic, twisting the ends to seal. </step>
+    <step num="8">Refrigerate for 1 hour to set. </step>
+    <step num="9">Add the flour, eggs, and panko to 3 separate baking sheets or other wide, shallow dishes. Roll the chicken in the flour, then in the egg, and finally in the panko. Coat once more in the egg, then panko. </step>
+    <step num="10">Transfer the chicken roll to a greased baking sheet and bake at 375° (190 celsius) for 40 minutes, until golden brown. </step>
+    <step num="11">Make the creamy Dijon sauce: in a small pot over medium heat, melt the butter. Add the garlic and cook until aromatic. Add the flour and cook until starting to brown. Whisk in the milk, then add the mustard and season with salt and pepper. Add the Parmesan and cook until the sauce is thickened. </step>
+    <step num="12">Slice the chicken roll and serve with the sauce and fresh parsley. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium cast iron skillet or pan, cook the bacon until almost brown, about 5 minutes. </steps_updated>
+    <steps_updated num="1">Add the onions and cook, stirring, until caramelized, about 10 minutes. </steps_updated>
+    <steps_updated num="2">Add the spinach and cook until wilted, about 3 minutes. </steps_updated>
+    <steps_updated num="3">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="4">Place a chicken breast on a piece of plastic wrap. </steps_updated>
+    <steps_updated num="5">Cover with more plastic wrap and pound until thin. </steps_updated>
+    <steps_updated num="6">Repeat with remaining chicken breasts. </steps_updated>
+    <steps_updated num="7">Lay out a large piece of plastic wrap and layer the chicken on the plastic so the edges are overlapping slightly. </steps_updated>
+    <steps_updated num="8">Season with salt and pepper. </steps_updated>
+    <steps_updated num="9">Layer the ham, Swiss cheese, and bacon-carmelized onion mixture over the chicken. </steps_updated>
+    <steps_updated num="10">Roll the chicken into a log tightly wrap in plastic, twisting the ends to seal. </steps_updated>
+    <steps_updated num="11">Refrigerate for 1 hour to set. </steps_updated>
+    <steps_updated num="12">Add the flour, eggs, and panko to 3 separate baking sheets or other wide, shallow dishes. </steps_updated>
+    <steps_updated num="13">Roll the chicken in the flour, then in the egg, and finally in the panko. </steps_updated>
+    <steps_updated num="14">Coat once more in the egg, then panko. </steps_updated>
+    <steps_updated num="15">Transfer the chicken roll to a greased baking sheet and bake at 375° (190 celsius) for 40 minutes, until golden brown. </steps_updated>
+    <steps_updated num="16">Make the creamy Dijon sauce: in a small pot over medium heat, melt the butter. </steps_updated>
+    <steps_updated num="17">Add the garlic and cook until aromatic. </steps_updated>
+    <steps_updated num="18">Add the flour and cook until starting to brown. </steps_updated>
+    <steps_updated num="19">Whisk in the milk, then add the mustard and season with salt and pepper. </steps_updated>
+    <steps_updated num="20">Add the Parmesan and cook until the sauce is thickened. </steps_updated>
+    <steps_updated num="21">Slice the chicken roll and serve with the sauce and fresh parsley. </steps_updated>
+    <steps_updated num="22">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

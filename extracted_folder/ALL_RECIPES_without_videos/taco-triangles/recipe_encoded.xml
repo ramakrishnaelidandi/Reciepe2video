@@ -1,0 +1,82 @@
+<recipe>
+  <title>Taco Triangles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-triangles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">3917 13278 11091 12384 976 </ingredient>
+    <ingredient num="2">3917 13278 8083 1466 10986 976 </ingredient>
+    <ingredient num="3">3917 13278 4985 1466 10986 976 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 7845 </ingredient>
+    <ingredient num="6">3917 8071 13278 9496 </ingredient>
+    <ingredient num="7">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="8">3917 8071 13278 3170 </ingredient>
+    <ingredient num="9">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="10">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="11">3917 13278 7695 3701 </ingredient>
+    <ingredient num="12">3917 2605 13278 3333 7983 13278 9373 5981 </ingredient>
+    <ingredient num="13">3917 14138 13278 13584 13829 6124 13817 4980 </ingredient>
+    <ingredient num="14">3917 2605 13278 11088 20 3745 13278 6898 5981 </ingredient>
+    <ingredient num="15">13767 13278 890 5817 </ingredient>
+    <ingredient num="16">8580 9517 13278 14538 1279 13278 6898 5981 </ingredient>
+    <ingredient num="17">3917 13278 2597 4036 9917 </ingredient>
+    <ingredient num="18">7632 7990 5291 </ingredient>
+    <ingredient num="19">6209 6712 7990 7818 </ingredient>
+    <ingredient num="20">1484 1123 7990 7818 </ingredient>
+    <ingredient num="21">14322 7990 7818 </ingredient>
+    <ingredient num="22">10599 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/84344/hls24_1520961839.m3u8</low>
+    <high>https://vid.tasty.co/output/84344/landscape_720/1520961839</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 5687 11770 13757 14307 740 11951 8244 7632 12384 8083 13817 4985 1466 10986 12610 10986 6958 13389 8117 2670 11384 8117 13817 796 3875 9393 560 1011 </step>
+    <step num="1">9179 11951 9712 10522 13817 2550 11951 284 1681 91 6285 2933 12689 </step>
+    <step num="2">2486 11951 284 210 2734 13757 7139 </step>
+    <step num="3">10450 797 14511 740 11951 3333 9104 10450 6646 14511 740 11951 13584 6200 10450 11951 10465 14511 740 11951 11088 12982 </step>
+    <step num="4">12473 10763 12377 1681 12826 9490 9456 </step>
+    <step num="5">14100 5994 11237 210 2532 1391 5994 6146 8508 5895 4144 </step>
+    <step num="6">10838 5994 6481 371 797 371 11951 7105 210 11951 937 371 11951 11237 2532 13817 1678 1391 4496 </step>
+    <step num="7">12595 10763 2530 11770 11951 12255 6028 5994 10062 </step>
+    <step num="8">11423 11951 11237 9559 11770 5833 11951 13305 9490 7584 </step>
+    <step num="9">11881 11951 12872 371 11951 11237 1391 6216 10086 13817 14484 1391 5994 1514 560 4510 </step>
+    <step num="10">5362 1391 11951 374 5817 13817 10715 </step>
+    <step num="11">10950 5994 11358 11745 7855 4817 4735 371 5766 560 12738 1610 </step>
+    <step num="12">9956 11951 5766 9490 1725 3345 6865 11237 5439 210 11951 5687 13817 2550 4255 10763 11801 7990 13086 11004 5895 1681 10963 2147 </step>
+    <step num="13">11720 11951 5439 4255 5994 6880 </step>
+    <step num="14">12774 1391 6712 1484 1123 14322 13817 3335 </step>
+    <step num="15">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 5687 11770 13757 14307 740 11951 8244 7632 12384 8083 13817 4985 1466 10986 12610 10986 6958 13389 8117 2670 11384 8117 13817 796 3875 </steps_updated>
+    <steps_updated num="1">9393 560 1011 </steps_updated>
+    <steps_updated num="2">9179 11951 9712 10522 13817 2550 11951 284 1681 91 6285 2933 12689 </steps_updated>
+    <steps_updated num="3">2486 11951 284 210 2734 13757 7139 </steps_updated>
+    <steps_updated num="4">10450 797 14511 740 11951 3333 9104 </steps_updated>
+    <steps_updated num="5">10450 6646 14511 740 11951 13584 6200 </steps_updated>
+    <steps_updated num="6">10450 11951 10465 14511 740 11951 11088 12982 </steps_updated>
+    <steps_updated num="7">12473 10763 12377 1681 12826 9490 9456 </steps_updated>
+    <steps_updated num="8">14100 5994 11237 210 2532 1391 5994 6146 8508 5895 4144 </steps_updated>
+    <steps_updated num="9">10838 5994 6481 371 797 371 11951 7105 210 11951 937 371 11951 11237 2532 13817 1678 1391 4496 </steps_updated>
+    <steps_updated num="10">12595 10763 2530 11770 11951 12255 6028 5994 10062 </steps_updated>
+    <steps_updated num="11">11423 11951 11237 9559 11770 5833 11951 13305 9490 7584 </steps_updated>
+    <steps_updated num="12">11881 11951 12872 371 11951 11237 1391 6216 10086 13817 14484 1391 5994 1514 560 4510 </steps_updated>
+    <steps_updated num="13">5362 1391 11951 374 5817 13817 10715 </steps_updated>
+    <steps_updated num="14">10950 5994 11358 11745 7855 4817 4735 371 5766 560 12738 1610 </steps_updated>
+    <steps_updated num="15">9956 11951 5766 9490 1725 3345 6865 11237 5439 210 11951 5687 13817 2550 4255 10763 11801 7990 13086 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="16">11720 11951 5439 4255 5994 6880 </steps_updated>
+    <steps_updated num="17">12774 1391 6712 1484 1123 14322 13817 3335 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

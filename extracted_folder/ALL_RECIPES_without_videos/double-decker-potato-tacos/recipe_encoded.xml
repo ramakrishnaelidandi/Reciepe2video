@@ -1,0 +1,63 @@
+<recipe>
+  <title>Double-Decker Potato Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/double-decker-potato-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/double-decker-potato-tacos-from-trois-familia</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 4550 6817 5895 2192 4260 10121 5266 3745 1391 930 4255 13278 5065 5981 </ingredient>
+    <ingredient num="1">9883 2605 13278 10907 3917 7887 11078 5335 13278 8118 5981 </ingredient>
+    <ingredient num="2">6735 13667 13278 4155 11588 3962 </ingredient>
+    <ingredient num="3">3917 2605 13278 8640 1123 545 13278 7503 8007 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">4617 10986 560 11567 </ingredient>
+    <ingredient num="6">8268 13278 890 5149 9666 </ingredient>
+    <ingredient num="7">7845 8572 13810 3424 560 11567 </ingredient>
+    <ingredient num="8">8268 13278 1940 3183 10176 2979 </ingredient>
+    <ingredient num="9">9712 10522 </ingredient>
+    <ingredient num="10">5871 13650 7836 11021 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14866/low_1479318787.m3u8</low>
+    <high>https://vid.tasty.co/output/14866/mp4_720x1280/1479318787</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">4660 11951 13233 1391 278 12282 13817 11779 1681 1910 6285 1213 12689 </step>
+    <step num="1">5823 11951 3962 11384 210 11951 9924 11770 9721 7855 1681 564 9801 11155 7340 6285 13767 12689 9179 11951 13033 13817 14238 560 5994 11714 </step>
+    <step num="2">6530 12833 11951 2868 2373 13817 7475 210 11951 10383 11384 2373 3343 11951 13233 12573 8161 10316 </step>
+    <step num="3">10242 560 11567 1391 82 13817 4617 12375 11311 10316 </step>
+    <step num="4">6823 11951 10525 10176 1712 4255 5994 12352 11770 9721 14307 1678 5994 11237 1391 6285 8580 9486 3333 7845 8572 4496 9956 11951 14538 2305 3345 11951 1940 3183 10176 9636 4255 11951 10971 11237 13817 14484 11951 5817 3626 560 3535 11951 6435 3515 5179 </step>
+    <step num="5">9393 11951 10383 13233 1391 9712 10522 13817 3345 210 11951 6435 3515 5179 13494 1391 7508 9486 371 11764 9843 13650 1214 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">4660 11951 13233 1391 278 12282 13817 11779 1681 1910 6285 1213 12689 </steps_updated>
+    <steps_updated num="1">5823 11951 3962 11384 210 11951 9924 11770 9721 7855 1681 564 9801 11155 7340 6285 13767 12689 </steps_updated>
+    <steps_updated num="2">9179 11951 13033 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="3">6530 12833 11951 2868 2373 13817 7475 210 11951 10383 11384 2373 3343 11951 13233 12573 8161 10316 </steps_updated>
+    <steps_updated num="4">10242 560 11567 1391 82 13817 4617 12375 </steps_updated>
+    <steps_updated num="5">11311 10316 </steps_updated>
+    <steps_updated num="6">6823 11951 10525 10176 1712 4255 5994 12352 11770 9721 14307 1678 5994 11237 1391 6285 8580 9486 3333 7845 8572 4496 </steps_updated>
+    <steps_updated num="7">9956 11951 14538 2305 3345 11951 1940 3183 10176 9636 4255 11951 10971 11237 13817 14484 11951 5817 3626 560 3535 11951 6435 3515 5179 </steps_updated>
+    <steps_updated num="8">9393 11951 10383 13233 1391 9712 10522 13817 3345 210 11951 6435 3515 5179 </steps_updated>
+    <steps_updated num="9">13494 1391 7508 9486 371 11764 9843 13650 1214 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00000</start_time>
+    <end_time>02223</end_time>
+  </duration_human>
+</recipe>

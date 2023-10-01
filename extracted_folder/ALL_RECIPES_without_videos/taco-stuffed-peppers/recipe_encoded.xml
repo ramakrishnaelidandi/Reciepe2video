@@ -1,0 +1,78 @@
+<recipe>
+  <title>Taco-Stuffed Peppers</title>
+  <url>https://tasty.co/recipe/taco-stuffed-peppers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 4168 5766 </ingredient>
+    <ingredient num="1">11061 13278 2597 1466 5016 5895 6735 12100 8159 6665 11628 5994 7868 4810 5833 6665 217 794 3386 10570 8224 </ingredient>
+    <ingredient num="2">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="3">3917 13278 13757 11091 12384 341 </ingredient>
+    <ingredient num="4">3917 14138 13278 13584 13829 6124 </ingredient>
+    <ingredient num="5">3917 2605 13278 1368 11948 3745 13278 9473 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 11579 3183 13278 8604 5981 </ingredient>
+    <ingredient num="7">3917 7051 13278 13757 5953 10599 3917 4566 8268 643 </ingredient>
+    <ingredient num="8">8580 9486 13278 10176 2634 3446 3917 12183 5895 772 12313 10096 </ingredient>
+    <ingredient num="9">3917 1580 9517 13278 9784 13810 13801 5895 7495 1279 14538 13278 757 5981 </ingredient>
+    <ingredient num="10">14322 560 4313 2517 </ingredient>
+    <ingredient num="11">1484 1123 560 4313 2517 </ingredient>
+    <ingredient num="12">3917 14014 13278 13389 11703 </ingredient>
+    <ingredient num="13">3917 1580 2031 13278 11088 3170 </ingredient>
+    <ingredient num="14">3917 8071 13278 82 </ingredient>
+    <ingredient num="15">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="16">3917 8071 13278 3183 11008 </ingredient>
+    <ingredient num="17">1580 8071 13278 9496 </ingredient>
+    <ingredient num="18">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="19">1580 8071 13278 6334 11703 </ingredient>
+    <ingredient num="20">12791 8071 13278 499 7845 </ingredient>
+    <ingredient num="21">12791 8071 13278 796 5616 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32039/low_1495125015.m3u8</low>
+    <high>https://vid.tasty.co/output/32039/mp4_720x1280/1495125015</high>
+  </video>
+  <steps>
+    <step num="0">14100 3482 11951 10707 13817 5103 11951 1245 6781 10763 12375 </step>
+    <step num="1">5570 210 5994 10765 3830 13817 10903 7990 5527 8927 210 5994 11853 10439 7811 9988 11323 </step>
+    <step num="2">4829 11951 7665 12573 7529 8861 7855 5766 210 5994 2597 10060 11770 13605 2082 9179 11088 1946 13817 12616 1391 887 10176 2634 10834 12251 1946 560 1368 4255 8554 6701 </step>
+    <step num="3">10917 4429 1762 11668 12313 10096 10176 3123 2306 11465 560 740 8580 11314 12450 11907 12583 217 772 3954 12339 1148 5143 8382 </step>
+    <step num="4">9179 341 6334 8861 5787 560 2550 1681 2296 </step>
+    <step num="5">10211 7855 560 12461 9393 210 11951 13584 13829 1368 11948 12655 13817 3335 </step>
+    <step num="6">9179 210 3917 2605 11814 371 14538 13817 6142 1681 10281 13817 11951 14538 7312 1311 6054 6781 2082 </step>
+    <step num="7">6054 2986 6781 10439 13817 13262 10763 1391 11951 10176 10665 13494 1391 3274 4496 </step>
+    <step num="8">4278 560 11951 10439 7990 13133 8927 1681 11951 14538 7312 1311 </step>
+    <step num="9">13494 10763 7845 1391 5994 1015 1374 371 11905 13817 1484 5808 13494 1391 3274 4496 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 3482 11951 10707 13817 5103 11951 1245 6781 10763 12375 </steps_updated>
+    <steps_updated num="1">5570 210 5994 10765 3830 13817 10903 7990 5527 8927 210 5994 11853 10439 7811 9988 11323 </steps_updated>
+    <steps_updated num="2">4829 11951 7665 12573 7529 8861 7855 5766 210 5994 2597 10060 11770 13605 2082 </steps_updated>
+    <steps_updated num="3">9179 11088 1946 13817 12616 1391 887 10176 2634 10834 </steps_updated>
+    <steps_updated num="4">12251 1946 560 1368 4255 8554 6701 </steps_updated>
+    <steps_updated num="5">10917 4429 1762 11668 12313 10096 10176 3123 2306 11465 560 740 8580 11314 </steps_updated>
+    <steps_updated num="6">12450 11907 12583 217 772 3954 12339 1148 5143 8382 </steps_updated>
+    <steps_updated num="7">9179 341 6334 8861 5787 560 2550 1681 2296 </steps_updated>
+    <steps_updated num="8">10211 7855 560 12461 </steps_updated>
+    <steps_updated num="9">9393 210 11951 13584 13829 1368 11948 12655 13817 3335 </steps_updated>
+    <steps_updated num="10">9179 210 3917 2605 11814 371 14538 13817 6142 1681 10281 13817 11951 14538 7312 1311 </steps_updated>
+    <steps_updated num="11">6054 6781 2082 </steps_updated>
+    <steps_updated num="12">6054 2986 6781 10439 13817 13262 10763 1391 11951 10176 10665 </steps_updated>
+    <steps_updated num="13">13494 1391 3274 4496 </steps_updated>
+    <steps_updated num="14">4278 560 11951 10439 7990 13133 8927 1681 11951 14538 7312 1311 </steps_updated>
+    <steps_updated num="15">13494 10763 7845 1391 5994 1015 1374 371 11905 13817 1484 5808 </steps_updated>
+    <steps_updated num="16">13494 1391 3274 4496 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

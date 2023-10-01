@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Margherita Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-margherita</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; bread flour ; (480 g) </ingredient>
+    <ingredient num="1">2 ½ tablespoons ; kosher salt, divided </ingredient>
+    <ingredient num="2">1 tablespoon ; sugar </ingredient>
+    <ingredient num="3">2 cups ; warm water ; (470 mL) </ingredient>
+    <ingredient num="4">1 ½ teaspoons ; active dry yeast </ingredient>
+    <ingredient num="5">3 tablespoons ; extra virgin olive oil </ingredient>
+    <ingredient num="6">28 oz ; whole tomatoes, san marzano or other good quality tomatoes ; (795 g) </ingredient>
+    <ingredient num="7">4 cloves ; garlic </ingredient>
+    <ingredient num="8">1 lb ; fresh mozzarella cheese, sliced 1/2-inch (1 1/4 cm) thick ; (455 g) </ingredient>
+    <ingredient num="9">2 cups ; fresh basil ; (80 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27102/low_1490131674.m3u8</low>
+    <high>https://vid.tasty.co/output/27102/mp4_720x1280/1490131674</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl combine flour, 1½ tablespoons salt, and sugar. </step>
+    <step num="1">In a medium bowl, combine water, yeast, and 1 tablespoon of olive oil. Stir well and let rest for 2 minutes. </step>
+    <step num="2">Add yeast mixture to flour mixture and combine using your hands or a stand mixer with a dough hook, at least two minutes. Let dough rest for 20 minutes, uncovered, at room temperature. </step>
+    <step num="3">On a floured work surface, separate dough into 4 even portions. Work each into a circular ball, then place the balls onto a baking sheet lined with wax paper. Cover with a damp towel and rest, refrigerated, for at least 4 hours. </step>
+    <step num="4">In a blender or food processor, combine tomatoes, 2 tablespoons of olive oil, 1 tablespoon of salt, and garlic. Process until smooth. </step>
+    <step num="5">Preheat oven to 550°F/290°C. Place a pizza stone or large cast-iron griddle on the center rack. Heat for at least 45 minutes. </step>
+    <step num="6">On a floured work surface, use your fingertips to create a ring around the outside (your crust) of one of the risen balls of dough. Using the pads of your fingers, gently flatten out the dough inside the ring. </step>
+    <step num="7">Gently lift up the dough and let it hang off your knuckles, stretching itself out with its own weight. Slowly rotate the circle of dough, continuing to let it stretch off your knuckles. Go all the way around the circle once, taking care not to let it hang too long in one place and stretch too thin. </step>
+    <step num="8">Using a large spoon, spread a thin layer of sauce across the dough, leaving room for the crust. </step>
+    <step num="9">Evenly place three slices of mozzarella on top of the sauce, then sprinkle a handful of torn basil leaves evenly over your pizza. Or top with whatever you desire: sausage, peppers, onions… just about anything can be a pizza topping! </step>
+    <step num="10">Carefully slide the pizza onto a floured sheet or pizza peel and place on top of your stone or griddle in the oven. Cook for 7 to 10 minutes, until the cheese is bubbly and the top of the crust is just beginning to blacken. </step>
+    <step num="11">Remove from oven and let cool for 3-4 minutes before slicing. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl combine flour, 1½ tablespoons salt, and sugar. </steps_updated>
+    <steps_updated num="1">In a medium bowl, combine water, yeast, and 1 tablespoon of olive oil. </steps_updated>
+    <steps_updated num="2">Stir well and let rest for 2 minutes. </steps_updated>
+    <steps_updated num="3">Add yeast mixture to flour mixture and combine using your hands or a stand mixer with a dough hook, at least two minutes. </steps_updated>
+    <steps_updated num="4">Let dough rest for 20 minutes, uncovered, at room temperature. </steps_updated>
+    <steps_updated num="5">On a floured work surface, separate dough into 4 even portions. </steps_updated>
+    <steps_updated num="6">Work each into a circular ball, then place the balls onto a baking sheet lined with wax paper. </steps_updated>
+    <steps_updated num="7">Cover with a damp towel and rest, refrigerated, for at least 4 hours. </steps_updated>
+    <steps_updated num="8">In a blender or food processor, combine tomatoes, 2 tablespoons of olive oil, 1 tablespoon of salt, and garlic. </steps_updated>
+    <steps_updated num="9">Process until smooth. </steps_updated>
+    <steps_updated num="10">Preheat oven to 550°F/290°C. </steps_updated>
+    <steps_updated num="11">Place a pizza stone or large cast-iron griddle on the center rack. </steps_updated>
+    <steps_updated num="12">Heat for at least 45 minutes. </steps_updated>
+    <steps_updated num="13">On a floured work surface, use your fingertips to create a ring around the outside (your crust) of one of the risen balls of dough. </steps_updated>
+    <steps_updated num="14">Using the pads of your fingers, gently flatten out the dough inside the ring. </steps_updated>
+    <steps_updated num="15">Gently lift up the dough and let it hang off your knuckles, stretching itself out with its own weight. </steps_updated>
+    <steps_updated num="16">Slowly rotate the circle of dough, continuing to let it stretch off your knuckles. </steps_updated>
+    <steps_updated num="17">Go all the way around the circle once, taking care not to let it hang too long in one place and stretch too thin. </steps_updated>
+    <steps_updated num="18">Using a large spoon, spread a thin layer of sauce across the dough, leaving room for the crust. </steps_updated>
+    <steps_updated num="19">Evenly place three slices of mozzarella on top of the sauce, then sprinkle a handful of torn basil leaves evenly over your pizza. </steps_updated>
+    <steps_updated num="20">Or top with whatever you desire: sausage, peppers, onions… just about anything can be a pizza topping! </steps_updated>
+    <steps_updated num="21">Carefully slide the pizza onto a floured sheet or pizza peel and place on top of your stone or griddle in the oven. </steps_updated>
+    <steps_updated num="22">Cook for 7 to 10 minutes, until the cheese is bubbly and the top of the crust is just beginning to blacken. </steps_updated>
+    <steps_updated num="23">Remove from oven and let cool for 3-4 minutes before slicing. </steps_updated>
+    <steps_updated num="24">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

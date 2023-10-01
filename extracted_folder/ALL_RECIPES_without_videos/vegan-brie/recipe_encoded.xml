@@ -1,0 +1,55 @@
+<recipe>
+  <title>Vegan Brie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-brie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheeses</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12188 11677 13278 12933 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 12557 384 14077 3713 13278 2935 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 3678 6742 7632 5335 13278 2935 8007 </ingredient>
+    <ingredient num="3">3917 8071 13278 12927 10026 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="6">8580 9486 13278 1328 890 </ingredient>
+    <ingredient num="7">3917 8071 13278 6412 10876 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108211/hls24_1536269245.m3u8</low>
+    <high>https://vid.tasty.co/output/108211/landscape_720/1536269245</high>
+  </video>
+  <duration>
+    <start_time>110.833</start_time>
+    <end_time>180.716</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 13757 11844 7860 1391 12282 560 5994 11714 9179 11951 11677 13817 1002 7990 238 11004 415 8681 </step>
+    <step num="1">9179 11951 8571 280 2694 6742 7632 12927 6984 12610 13817 12282 560 5994 12095 3262 1681 12119 </step>
+    <step num="2">12785 11951 5486 2373 560 5994 2597 14511 6506 1391 5994 3895 14179 13817 3945 1788 7811 10302 4273 5895 8830 7413 5949 7990 2971 14329 </step>
+    <step num="3">12785 11951 2373 560 5994 2597 11844 11770 3996 7855 13817 740 1328 890 13817 556 556 13342 3633 5693 5465 1681 11951 2373 9490 7711 13817 12350 6672 6781 11951 10860 371 11951 11745 6285 2933 12689 </step>
+    <step num="4">9207 2237 10329 6155 14032 10765 3830 1391 12434 13817 5406 210 11951 6222 14538 10665 4660 1391 11951 10576 1828 10694 210 11951 7111 1681 13693 5553 14329 </step>
+    <step num="5">6054 11951 10576 9938 14462 6672 5895 3345 11951 14538 4255 5994 12195 6880 13817 173 7990 3386 560 5080 12721 11638 217 13593 10584 11951 4860 3557 3029 </step>
+    <step num="6">10434 210 11951 7111 7990 3386 560 4061 2497 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 13757 11844 7860 1391 12282 560 5994 11714 </steps_updated>
+    <steps_updated num="1">9179 11951 11677 13817 1002 7990 238 11004 415 8681 </steps_updated>
+    <steps_updated num="2">9179 11951 8571 280 2694 6742 7632 12927 6984 12610 13817 12282 560 5994 12095 </steps_updated>
+    <steps_updated num="3">3262 1681 12119 </steps_updated>
+    <steps_updated num="4">12785 11951 5486 2373 560 5994 2597 14511 6506 1391 5994 3895 14179 13817 3945 1788 7811 10302 4273 5895 8830 7413 5949 7990 2971 14329 </steps_updated>
+    <steps_updated num="5">12785 11951 2373 560 5994 2597 11844 11770 3996 7855 13817 740 1328 890 13817 556 556 13342 </steps_updated>
+    <steps_updated num="6">3633 5693 5465 1681 11951 2373 9490 7711 13817 12350 6672 6781 11951 10860 371 11951 11745 6285 2933 12689 </steps_updated>
+    <steps_updated num="7">9207 2237 10329 6155 14032 10765 3830 1391 12434 13817 5406 210 11951 6222 14538 10665 </steps_updated>
+    <steps_updated num="8">4660 1391 11951 10576 </steps_updated>
+    <steps_updated num="9">1828 10694 210 11951 7111 1681 13693 5553 14329 </steps_updated>
+    <steps_updated num="10">6054 11951 10576 </steps_updated>
+    <steps_updated num="11">9938 14462 6672 5895 3345 11951 14538 4255 5994 12195 6880 13817 173 7990 3386 560 5080 12721 11638 217 13593 10584 11951 4860 3557 3029 </steps_updated>
+    <steps_updated num="12">10434 210 11951 7111 7990 3386 560 4061 2497 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

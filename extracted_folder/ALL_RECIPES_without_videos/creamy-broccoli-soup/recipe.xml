@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Broccoli Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-broccoli-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-holiday-leftovers</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 ; small onion, diced </ingredient>
+    <ingredient num="2">3 ; garlics, minced </ingredient>
+    <ingredient num="3">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 cups ; mashed potato ; (500 g) </ingredient>
+    <ingredient num="6">2 small heads ; broccoli, including stems, chopped </ingredient>
+    <ingredient num="7">2 ½ cups ; low sodium vegetable broth ; (600 mL) </ingredient>
+    <ingredient num="8">2 ½ cups ; milk, of your choice ; (600 mL) </ingredient>
+    <ingredient num="9">¼ teaspoon ; ground nutmeg </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/119172/hls24_1544558806.m3u8</low>
+    <high>https://vid.tasty.co/output/119172/landscape_720/1544558806</high>
+  </video>
+  <duration>
+    <start_time>4.0</start_time>
+    <end_time>53.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the olive oil in a large pot over medium heat. Once the oil begins to shimmer, add the onion and cook for 3-4 minutes, until semi-translucent. Add the garlic, salt, and pepper and cook for 2-3 minutes more, until the garlic is fragrant. </step>
+    <step num="1">Add the mashed potatoes, broccoli, vegetable broth, and milk and bring to a boil. Cover and reduce the heat to low. Simmer for 20 minutes, or until the broccoli is tender. </step>
+    <step num="2">Use an immersion blender to blend the soup until smooth. </step>
+    <step num="3">Stir in the nutmeg, then ladle into bowls. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil in a large pot over medium heat. </steps_updated>
+    <steps_updated num="1">Once the oil begins to shimmer, add the onion and cook for 3-4 minutes, until semi-translucent. </steps_updated>
+    <steps_updated num="2">Add the garlic, salt, and pepper and cook for 2-3 minutes more, until the garlic is fragrant. </steps_updated>
+    <steps_updated num="3">Add the mashed potatoes, broccoli, vegetable broth, and milk and bring to a boil. </steps_updated>
+    <steps_updated num="4">Cover and reduce the heat to low. </steps_updated>
+    <steps_updated num="5">Simmer for 20 minutes, or until the broccoli is tender. </steps_updated>
+    <steps_updated num="6">Use an immersion blender to blend the soup until smooth. </steps_updated>
+    <steps_updated num="7">Stir in the nutmeg, then ladle into bowls. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

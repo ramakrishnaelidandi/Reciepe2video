@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Split Pea Soup Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/split-pea-soup-bread-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; sourdough loaf </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">2 ; onions, chopped </ingredient>
+    <ingredient num="3">2 ; carrots, chopped </ingredient>
+    <ingredient num="4">3 stalks ; celery, chopped </ingredient>
+    <ingredient num="5">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">2 ½ cups ; split pea ; (375 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 teaspoon ; turmeric </ingredient>
+    <ingredient num="11">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="12">3 ; potatoes, peeled, cubed </ingredient>
+    <ingredient num="13">8 cups ; vegetable stock ; (2 L) </ingredient>
+    <ingredient num="14">2 ; bay leaves </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Lunch</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71043/hls24_1515030338.m3u8</low>
+    <high>https://vid.tasty.co/output/71043/landscape_720/1515030338</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, place the loaf of bread on its side and slice off the top portion. Using a small knife, cut around the inside of the bread, being careful not to cut through the sides, and scoop out the center of the roll. Save this for dipping later on or use for bread crumbs. </step>
+    <step num="1">In a large soup pot, combine the olive oil, onions, carrots, and celery, and cook 5 minutes over medium heat until onions are translucent. </step>
+    <step num="2">Add the garlic and cook 2 minutes. </step>
+    <step num="3">Add the split peas, thyme, salt, pepper, tumeric, and red pepper flakes, and stir until well combined. </step>
+    <step num="4">Add the vegetable stock and bay leaves, cover with a lid and cook for 40 minutes. </step>
+    <step num="5">Add potatoes, then cover and cook 20 more minutes. </step>
+    <step num="6">Remove bay leaves and serve soup in your bread bowl. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, place the loaf of bread on its side and slice off the top portion. </steps_updated>
+    <steps_updated num="1">Using a small knife, cut around the inside of the bread, being careful not to cut through the sides, and scoop out the center of the roll. </steps_updated>
+    <steps_updated num="2">Save this for dipping later on or use for bread crumbs. </steps_updated>
+    <steps_updated num="3">In a large soup pot, combine the olive oil, onions, carrots, and celery, and cook 5 minutes over medium heat until onions are translucent. </steps_updated>
+    <steps_updated num="4">Add the garlic and cook 2 minutes. </steps_updated>
+    <steps_updated num="5">Add the split peas, thyme, salt, pepper, tumeric, and red pepper flakes, and stir until well combined. </steps_updated>
+    <steps_updated num="6">Add the vegetable stock and bay leaves, cover with a lid and cook for 40 minutes. </steps_updated>
+    <steps_updated num="7">Add potatoes, then cover and cook 20 more minutes. </steps_updated>
+    <steps_updated num="8">Remove bay leaves and serve soup in your bread bowl. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

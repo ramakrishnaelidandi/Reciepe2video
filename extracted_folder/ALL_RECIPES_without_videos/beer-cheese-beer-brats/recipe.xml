@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beer Cheese Beer Brats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beer-cheese-beer-brats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">24 fl oz ; beer, of choice ; (710 mL) </ingredient>
+    <ingredient num="1">5 ; bratwursts </ingredient>
+    <ingredient num="2">5 ; hot dog buns </ingredient>
+    <ingredient num="3">1 cup ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="4">2 cups ; shredded cheese, of your choice ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Game Day</category>
+    <category num="3">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31981/low_1495125050.m3u8</low>
+    <high>https://vid.tasty.co/output/31981/mp4_720x1280/1495125050</high>
+  </video>
+  <steps>
+    <step num="0">Add beer and brats to sauce pan. </step>
+    <step num="1">Cook on medium high heat for 10-15 minutes. </step>
+    <step num="2">Place brats on grill and cook until done (probably another 10-15 min). </step>
+    <step num="3">With 1 cup (235 ml) of beer in the pot, add cream cheese and cheddar. </step>
+    <step num="4">Stir until cheese is mixed. </step>
+    <step num="5">Add the cheese mixture on top of the beer brats. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add beer and brats to sauce pan. </steps_updated>
+    <steps_updated num="1">Cook on medium high heat for 10-15 minutes. </steps_updated>
+    <steps_updated num="2">Place brats on grill and cook until done (probably another 10-15 min). </steps_updated>
+    <steps_updated num="3">With 1 cup (235 ml) of beer in the pot, add cream cheese and cheddar. </steps_updated>
+    <steps_updated num="4">Stir until cheese is mixed. </steps_updated>
+    <steps_updated num="5">Add the cheese mixture on top of the beer brats. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

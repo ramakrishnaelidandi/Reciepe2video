@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Rollups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-rollups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; pizza crust, refrigerated </ingredient>
+    <ingredient num="1">½ cup ; BBQ sauce ; (145 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; rotisserie chicken, shredded ; (190 g) </ingredient>
+    <ingredient num="3">½ g ; red onion, finely chopped ; ½ g </ingredient>
+    <ingredient num="4">1 cup ; shredded cheese ; (100 g) </ingredient>
+    <ingredient num="5">¼ cup ; parsley, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Italian</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32109/low_1495125366.m3u8</low>
+    <high>https://vid.tasty.co/output/32109/mp4_720x1280/1495125366</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">Roll out the pizza crust into a rectangle. </step>
+    <step num="2">Spread on the BBQ sauce. Top with chicken, onion, cheese, and parsley. </step>
+    <step num="3">Roll it up longways, and cut into slices. Bake face-up for 15 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Roll out the pizza crust into a rectangle. </steps_updated>
+    <steps_updated num="2">Spread on the BBQ sauce. </steps_updated>
+    <steps_updated num="3">Top with chicken, onion, cheese, and parsley. </steps_updated>
+    <steps_updated num="4">Roll it up longways, and cut into slices. </steps_updated>
+    <steps_updated num="5">Bake face-up for 15 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

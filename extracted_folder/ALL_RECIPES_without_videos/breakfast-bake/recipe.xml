@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-bake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-recipes-using-pancake-mix</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">1 lb ; bacon, cooked, drained, and diced ; (455 g) </ingredient>
+    <ingredient num="2">1 ; tomato, diced </ingredient>
+    <ingredient num="3">1 cup ; broccoli floret, finely chopped ; (150 g) </ingredient>
+    <ingredient num="4">2 cups ; potato hash brown ; (260 g) </ingredient>
+    <ingredient num="5">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="6">1 cup ; pancake mix ; (125 g) </ingredient>
+    <ingredient num="7">4 ; eggs </ingredient>
+    <ingredient num="8">2 cups ; milk, of choice ; (470 mL) </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">¼ teaspoon ; salt </ingredient>
+    <ingredient num="11">scallion, thinly sliced, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65612/hls24_1512415315.m3u8</low>
+    <high>https://vid.tasty.co/output/65612/landscape_720/1512415315</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>54.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Place the bacon, tomato, and broccoli in greased casserole dish. </step>
+    <step num="2">Sprinkle hash browns and cheese on top. </step>
+    <step num="3">In a large bowl, whisk together pancake mix, eggs, milk, salt, and pepper. </step>
+    <step num="4">Pour pancake mixture over ingredients in the casserole dish. </step>
+    <step num="5">Bake for 45 minutes. </step>
+    <step num="6">Let cool for 5 minutes before serving. </step>
+    <step num="7">Top with scallions, and serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Place the bacon, tomato, and broccoli in greased casserole dish. </steps_updated>
+    <steps_updated num="2">Sprinkle hash browns and cheese on top. </steps_updated>
+    <steps_updated num="3">In a large bowl, whisk together pancake mix, eggs, milk, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Pour pancake mixture over ingredients in the casserole dish. </steps_updated>
+    <steps_updated num="5">Bake for 45 minutes. </steps_updated>
+    <steps_updated num="6">Let cool for 5 minutes before serving. </steps_updated>
+    <steps_updated num="7">Top with scallions, and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00047</start_time>
+    <end_time>01321</end_time>
+  </duration_human>
+</recipe>

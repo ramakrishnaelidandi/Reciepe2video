@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Apple Spice Cobbler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-apple-spice-cobbler</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">20 oz ; apple pie filling, 2 cans ; (565 g) </ingredient>
+    <ingredient num="1">1 box ; spice cake mix </ingredient>
+    <ingredient num="2">8 oz ; butter ; (225 g) </ingredient>
+    <ingredient num="3">vanilla ice cream, optional, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35553/low_1498683232.m3u8</low>
+    <high>https://vid.tasty.co/output/35553/mp4_720x1280/1498683232</high>
+  </video>
+  <steps>
+    <step num="0">Combine the Apple Pie filling, cake mix, and butter in the slow cooker </step>
+    <step num="1">Bake on High for 2 to 2.5 hours </step>
+    <step num="2">Server a la mode with vanilla ice cream or your favorite whipped cream. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the Apple Pie filling, cake mix, and butter in the slow cooker </steps_updated>
+    <steps_updated num="1">Bake on High for 2 to 2.5 hours </steps_updated>
+    <steps_updated num="2">Server a la mode with vanilla ice cream or your favorite whipped cream. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

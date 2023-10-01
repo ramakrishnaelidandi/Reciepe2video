@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef Stew Gratin Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-stew-gratin</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; diced beef ; (500 g) </ingredient>
+    <ingredient num="1">½ cup ; plain flour ; (50 g) </ingredient>
+    <ingredient num="2">olive oil </ingredient>
+    <ingredient num="3">1 ; onion, diced </ingredient>
+    <ingredient num="4">2 ; carrots, diced </ingredient>
+    <ingredient num="5">2 stems ; celery, diced </ingredient>
+    <ingredient num="6">2 tablespoons ; tomato puree </ingredient>
+    <ingredient num="7">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">1 pinch ; fresh rosemary </ingredient>
+    <ingredient num="9">1 cup ; chopped tomato ; (200 g) </ingredient>
+    <ingredient num="10">½ cup ; red wine ; (125 mL) </ingredient>
+    <ingredient num="11">1 ¼ cups ; beef stock ; (300 mL) </ingredient>
+    <ingredient num="12">2 ; large potatoes, thinly chopped </ingredient>
+    <ingredient num="13">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="14">salt, to taste </ingredient>
+    <ingredient num="15">pepper, to taste </ingredient>
+    <ingredient num="16">fresh thyme </ingredient>
+    <ingredient num="17">½ cup ; gruyère cheese, grated ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Fusion</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12029/low_1476378511.m3u8</low>
+    <high>https://vid.tasty.co/output/12029/mp4_720x1280/1476378511</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 180°C (350˚F). </step>
+    <step num="1">Add salt and pepper to the flour and use it to coat the diced beef. Brown off beef in a deep ovenproof pan with olive oil. Remove from pan. </step>
+    <step num="2">Add more oil and fry the onions until translucent. Add the carrots and celery and fry for another 3-5 minutes. Add the garlic and fry for 2 minutes together with the beef. </step>
+    <step num="3">Add in the tomato puree and rosemary and fry for a further 2-3 minutes. Add the chopped tomato and cook for 2 minutes. </step>
+    <step num="4">Add the red wine and allow to reduce slightly. Add the beef stock and allow to reduce for 10 minutes. </step>
+    <step num="5">Cover the pot with a lid and cook for 2 hours. </step>
+    <step num="6">Remove and cover the top of the stew with thinly-chopped peeled potatoes, arranged so they are overlapping slightly. </step>
+    <step num="7">Cover with melted butter, salt, pepper, and thyme and cook for a further 45 minutes at 200°C (400˚F) with the lid off. </step>
+    <step num="8">Remove from oven once potatoes are cooked and cover with the grated gruyere. Grill on high for 5-10 minutes until cheese is bubbling. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 180°C (350˚F). </steps_updated>
+    <steps_updated num="1">Add salt and pepper to the flour and use it to coat the diced beef. </steps_updated>
+    <steps_updated num="2">Brown off beef in a deep ovenproof pan with olive oil. </steps_updated>
+    <steps_updated num="3">Remove from pan. </steps_updated>
+    <steps_updated num="4">Add more oil and fry the onions until translucent. </steps_updated>
+    <steps_updated num="5">Add the carrots and celery and fry for another 3-5 minutes. </steps_updated>
+    <steps_updated num="6">Add the garlic and fry for 2 minutes together with the beef. </steps_updated>
+    <steps_updated num="7">Add in the tomato puree and rosemary and fry for a further 2-3 minutes. </steps_updated>
+    <steps_updated num="8">Add the chopped tomato and cook for 2 minutes. </steps_updated>
+    <steps_updated num="9">Add the red wine and allow to reduce slightly. </steps_updated>
+    <steps_updated num="10">Add the beef stock and allow to reduce for 10 minutes. </steps_updated>
+    <steps_updated num="11">Cover the pot with a lid and cook for 2 hours. </steps_updated>
+    <steps_updated num="12">Remove and cover the top of the stew with thinly-chopped peeled potatoes, arranged so they are overlapping slightly. </steps_updated>
+    <steps_updated num="13">Cover with melted butter, salt, pepper, and thyme and cook for a further 45 minutes at 200°C (400˚F) with the lid off. </steps_updated>
+    <steps_updated num="14">Remove from oven once potatoes are cooked and cover with the grated gruyere. </steps_updated>
+    <steps_updated num="15">Grill on high for 5-10 minutes until cheese is bubbling. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

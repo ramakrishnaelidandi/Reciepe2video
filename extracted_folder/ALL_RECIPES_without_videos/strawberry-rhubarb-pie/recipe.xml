@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Rhubarb Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-rhubarb-pie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-seasonal-recipes-to-try-in-may</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; rhubarb, chopped ; (300 g) </ingredient>
+    <ingredient num="1">3 cups ; strawberry, quartered ; (450 g) </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">¼ cup ; cornstarch ; (30 g) </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">1 package ; pie dough </ingredient>
+    <ingredient num="6">whipped cream, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Weeknight</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30354/low_1493397144.m3u8</low>
+    <high>https://vid.tasty.co/output/30354/mp4_720x1280/1493397144</high>
+  </video>
+  <duration>
+    <start_time>144.0</start_time>
+    <end_time>175.233</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, toss the strawberries and rhubarb with the sugar, salt, and cornstarch. Set to the side. </step>
+    <step num="1">Line a pie tin with the pie dough. </step>
+    <step num="2">Preheat the oven to 375°F (190°C). </step>
+    <step num="3">Empty rhubarb and strawberry mixture into the pie tin, evenly distributing the mixture. </step>
+    <step num="4">Cut pie dough into strips and weave a lattice design on top of the pie. (You can also top with more pie dough in a full sheet with slits.) </step>
+    <step num="5">Bake the pie until the filling is bubbling and the crust is golden brown, about 2 hours. Cover the edge of the pie with foil if it begins to darken. </step>
+    <step num="6">Let cool slightly before serving. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, toss the strawberries and rhubarb with the sugar, salt, and cornstarch. </steps_updated>
+    <steps_updated num="2">Set to the side. </steps_updated>
+    <steps_updated num="3">Line a pie tin with the pie dough. </steps_updated>
+    <steps_updated num="4">Empty rhubarb and strawberry mixture into the pie tin, evenly distributing the mixture. </steps_updated>
+    <steps_updated num="5">Cut pie dough into strips and weave a lattice design on top of the pie. </steps_updated>
+    <steps_updated num="6">(You can also top with more pie dough in a full sheet with slits.) </steps_updated>
+    <steps_updated num="7">Bake the pie until the filling is bubbling and the crust is golden brown, about 2 hours. </steps_updated>
+    <steps_updated num="8">Cover the edge of the pie with foil if it begins to darken. </steps_updated>
+    <steps_updated num="9">Let cool slightly before serving. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03849</start_time>
+    <end_time>05267</end_time>
+  </duration_human>
+</recipe>

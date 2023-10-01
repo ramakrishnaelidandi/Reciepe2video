@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tofu “Egg” Breakfast Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-egg-breakfast-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-recipes-to-help-you-go-vegan</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">7 oz ; tofu </ingredient>
+    <ingredient num="2">2 tablespoons ; soy sauce, divided </ingredient>
+    <ingredient num="3">½ teaspoon ; garlic powder, divided </ingredient>
+    <ingredient num="4">¼ teaspoon ; turmeric, divided </ingredient>
+    <ingredient num="5">¼ cup ; vegan mayonnaise </ingredient>
+    <ingredient num="6">¼ cup ; ketchup </ingredient>
+    <ingredient num="7">2 ; hashbrowns, cooked </ingredient>
+    <ingredient num="8">2 ; ciabatta rolls </ingredient>
+    <ingredient num="9">sliced tomatoes, to serve </ingredient>
+    <ingredient num="10">sliced avocado, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75285/hls24_1517247139.m3u8</low>
+    <high>https://vid.tasty.co/output/75285/landscape_720/1517247139</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Remove tofu from package and drain. Wrap the tofu in paper towels and cover with a couple heavy books. Let sit for 10 to 15 minutes to remove excess water. </step>
+    <step num="1">Cut tofu in half, reserving one half for a future recipe. Slice into 4 rectangles. </step>
+    <step num="2">Add olive oil to pan over medium heat. Add the tofu rectangles, 1 tablespoon soy sauce, ¼ teaspoon garlic powder, and ⅛ teaspoon turmeric, and let brown for 3 to 4 minutes before flipping over. Repeat on other side with other half of seasonings. </step>
+    <step num="3">When both sides are browned, transfer tofu to plate. </step>
+    <step num="4">To make sauce, combine vegan mayo and ketchup in small bowl. </step>
+    <step num="5">Assemble sandwiches by coating ciabatta roll with sauce, then stack on 1 hashbrown, tofu “eggs” sliced tomato and sliced avocado. Repeat with remaining ingredients. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove tofu from package and drain. </steps_updated>
+    <steps_updated num="1">Wrap the tofu in paper towels and cover with a couple heavy books. </steps_updated>
+    <steps_updated num="2">Let sit for 10 to 15 minutes to remove excess water. </steps_updated>
+    <steps_updated num="3">Cut tofu in half, reserving one half for a future recipe. </steps_updated>
+    <steps_updated num="4">Slice into 4 rectangles. </steps_updated>
+    <steps_updated num="5">Add olive oil to pan over medium heat. </steps_updated>
+    <steps_updated num="6">Add the tofu rectangles, 1 tablespoon soy sauce, ¼ teaspoon garlic powder, and ⅛ teaspoon turmeric, and let brown for 3 to 4 minutes before flipping over. </steps_updated>
+    <steps_updated num="7">Repeat on other side with other half of seasonings. </steps_updated>
+    <steps_updated num="8">When both sides are browned, transfer tofu to plate. </steps_updated>
+    <steps_updated num="9">To make sauce, combine vegan mayo and ketchup in small bowl. </steps_updated>
+    <steps_updated num="10">Assemble sandwiches by coating ciabatta roll with sauce, then stack on 1 hashbrown, tofu “eggs” sliced tomato and sliced avocado. </steps_updated>
+    <steps_updated num="11">Repeat with remaining ingredients. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01540</start_time>
+    <end_time>03450</end_time>
+  </duration_human>
+</recipe>

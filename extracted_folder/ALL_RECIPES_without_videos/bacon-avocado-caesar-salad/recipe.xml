@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon Avocado Caesar Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-avocado-caesar-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/steak-dinner-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">1 head ; romaine lettuce </ingredient>
+    <ingredient num="1">4 slices ; bacon, cooked and crumbled </ingredient>
+    <ingredient num="2">1 ; avocado, diced </ingredient>
+    <ingredient num="3">½ cup ; crouton ; (15 g) </ingredient>
+    <ingredient num="4">½ cup ; parmesan cheese, shaved, add extra for serving ; (55 g) </ingredient>
+    <ingredient num="5">¼ cup ; caesar dressing ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18619/low_1482187028.m3u8</low>
+    <high>https://vid.tasty.co/output/18619/mp4_720x1280/1482187028</high>
+  </video>
+  <duration>
+    <start_time>34.0</start_time>
+    <end_time>55.55</end_time>
+  </duration>
+  <steps>
+    <step num="0">Slice the lettuce into about 1-inch (2 ½ cm) pieces, then transfer to a large salad bowl. </step>
+    <step num="1">Add the bacon, avocado, croutons, cheese, and dressing, mixing until evenly combined. </step>
+    <step num="2">Serve with additional parmesan on top. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the lettuce into about 1-inch (2 ½ cm) pieces, then transfer to a large salad bowl. </steps_updated>
+    <steps_updated num="1">Add the bacon, avocado, croutons, cheese, and dressing, mixing until evenly combined. </steps_updated>
+    <steps_updated num="2">Serve with additional parmesan on top. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01082</start_time>
+    <end_time>01678</end_time>
+  </duration_human>
+</recipe>

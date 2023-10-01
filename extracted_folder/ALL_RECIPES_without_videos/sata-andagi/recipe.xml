@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sata Andagi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sata-andagi</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/street-treats-from-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">oil, for frying </ingredient>
+    <ingredient num="1">6 cups ; all purpose flour ; (750 g) </ingredient>
+    <ingredient num="2">3 cups ; sugar ; (600 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; baking soda </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">6 ; large eggs </ingredient>
+    <ingredient num="6">1 cup ; whole milk ; (240 mL) </ingredient>
+    <ingredient num="7">¼ cup ; orange ; (60 mL) </ingredient>
+    <ingredient num="8">1 pinch of ; orange zest </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96870/hls24_1527884128.m3u8</low>
+    <high>https://vid.tasty.co/output/96870/landscape_720/1527884128</high>
+  </video>
+  <duration>
+    <start_time>359.0</start_time>
+    <end_time>412.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fill a deep pot or skillet with enough oil to come 2 inches (5 cm) from the top of the pan. Heat the oil over medium heat until it reaches 350°F (180°C). </step>
+    <step num="1">In a large bowl, whisk together the flour, sugar, baking soda, and salt. </step>
+    <step num="2">Stir in the eggs, milk, and orange juice. Mix until a thick batter forms. </step>
+    <step num="3">Add the orange zest and mix to incorporate. </step>
+    <step num="4">Using a cookie scoop or tablespoon, drop ping pong ball-size dough balls into the hot oil. </step>
+    <step num="5">Fry for about 5-7 minutes, or until golden brown. The doughnuts should float to the surface when they are done. </step>
+    <step num="6">Drain on a paper towel-lined plate. </step>
+    <step num="7">Serve hot. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fill a deep pot or skillet with enough oil to come 2 inches (5 cm) from the top of the pan. </steps_updated>
+    <steps_updated num="1">Heat the oil over medium heat until it reaches 350°F (180°C). </steps_updated>
+    <steps_updated num="2">In a large bowl, whisk together the flour, sugar, baking soda, and salt. </steps_updated>
+    <steps_updated num="3">Stir in the eggs, milk, and orange juice. </steps_updated>
+    <steps_updated num="4">Mix until a thick batter forms. </steps_updated>
+    <steps_updated num="5">Add the orange zest and mix to incorporate. </steps_updated>
+    <steps_updated num="6">Using a cookie scoop or tablespoon, drop ping pong ball-size dough balls into the hot oil. </steps_updated>
+    <steps_updated num="7">Fry for about 5-7 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="8">The doughnuts should float to the surface when they are done. </steps_updated>
+    <steps_updated num="9">Drain on a paper towel-lined plate. </steps_updated>
+    <steps_updated num="10">Serve hot. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

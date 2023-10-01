@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pepperoni Pizza Potato Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-potato-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; potatoes </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="4">4 tablespoons ; pizza sauce, basic marinara sauce, or whatever you have handy </ingredient>
+    <ingredient num="5">1 cup ; cheddar cheese, or mozzarella, grated ; (125 g) </ingredient>
+    <ingredient num="6">3 ½ oz ; pepperoni, salami or chorizo, chopped into chunks ; (100 g) </ingredient>
+    <ingredient num="7">½ cup ; mixed peppers, diced ; (100 g) </ingredient>
+    <ingredient num="8">½ cup ; mushrooms, diced ; (75 g) </ingredient>
+    <ingredient num="9">1 ; red onion, diced </ingredient>
+    <ingredient num="10">pepperoni, big slices, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Brunch</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13687/low_1478128192.m3u8</low>
+    <high>https://vid.tasty.co/output/13687/mp4_720x1280/1478128192</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 200°C/400°F/Gas Mark 6. </step>
+    <step num="1">Thinly slice the potatoes. </step>
+    <step num="2">Toss potatoes in the salt, pepper, garlic powder, and olive oil until evenly coated. </step>
+    <step num="3">Place on a tray and bake for 20-25 minutes until slightly crispy, turning halfway through the bake time. </step>
+    <step num="4">Lower the oven temperature to 180°C/350°F/Gas Mark 4. </step>
+    <step num="5">Place half of the potatoes into a round, oven proof cake tin. </step>
+    <step num="6">Top with half of the pizza sauce, and then half of the other toppings. </step>
+    <step num="7">Make another layer with all the toppings again. </step>
+    <step num="8">Finish off the dish with a bit more cheese and the pepperoni slices if you’re using them. </step>
+    <step num="9">Bake for 15 minutes, or until the cheese is melted and turning golden brown. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 200°C/400°F/Gas Mark 6. </steps_updated>
+    <steps_updated num="1">Thinly slice the potatoes. </steps_updated>
+    <steps_updated num="2">Toss potatoes in the salt, pepper, garlic powder, and olive oil until evenly coated. </steps_updated>
+    <steps_updated num="3">Place on a tray and bake for 20-25 minutes until slightly crispy, turning halfway through the bake time. </steps_updated>
+    <steps_updated num="4">Lower the oven temperature to 180°C/350°F/Gas Mark 4. </steps_updated>
+    <steps_updated num="5">Place half of the potatoes into a round, oven proof cake tin. </steps_updated>
+    <steps_updated num="6">Top with half of the pizza sauce, and then half of the other toppings. </steps_updated>
+    <steps_updated num="7">Make another layer with all the toppings again. </steps_updated>
+    <steps_updated num="8">Finish off the dish with a bit more cheese and the pepperoni slices if you’re using them. </steps_updated>
+    <steps_updated num="9">Bake for 15 minutes, or until the cheese is melted and turning golden brown. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

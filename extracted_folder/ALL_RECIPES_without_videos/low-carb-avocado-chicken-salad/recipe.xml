@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Low-Carb Avocado Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/low-carb-avocado-chicken-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">⅔ cup ; greek yogurt, plain ; (190 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">⅛ teaspoon ; chili powder </ingredient>
+    <ingredient num="4">1 ; avocado, cubed, divided </ingredient>
+    <ingredient num="5">2 ; chicken breasts, cooked and shredded </ingredient>
+    <ingredient num="6">1 stalk ; celery, diced </ingredient>
+    <ingredient num="7">2 tablespoons ; red onion, diced </ingredient>
+    <ingredient num="8">kosher salt, to taste </ingredient>
+    <ingredient num="9">bread, low-carb, for serving, optional </ingredient>
+    <ingredient num="10">fresh cilantro leaves, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121934/hls24_1546897597.m3u8</low>
+    <high>https://vid.tasty.co/output/121934/landscape_720/1546897597</high>
+  </video>
+  <steps>
+    <step num="0">In a blender or food processor, combine the yogurt, lime juice, pepper, and chili powder and pulse to combine. Add ½ of the avocado and blend until creamy. </step>
+    <step num="1">In a medium bowl, combine the chicken, yogurt sauce, celery, the remaining ½ avocado, onion, and salt. Mix until well combined. </step>
+    <step num="2">Serve on low-carb bread and garnish with cilantro, or as desired. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender or food processor, combine the yogurt, lime juice, pepper, and chili powder and pulse to combine. </steps_updated>
+    <steps_updated num="1">Add ½ of the avocado and blend until creamy. </steps_updated>
+    <steps_updated num="2">In a medium bowl, combine the chicken, yogurt sauce, celery, the remaining ½ avocado, onion, and salt. </steps_updated>
+    <steps_updated num="3">Mix until well combined. </steps_updated>
+    <steps_updated num="4">Serve on low-carb bread and garnish with cilantro, or as desired. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

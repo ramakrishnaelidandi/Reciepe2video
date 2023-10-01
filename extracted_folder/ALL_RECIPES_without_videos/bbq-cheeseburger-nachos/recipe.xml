@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Cheeseburger Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-cheeseburger-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9 oz ; tortilla chips ; (255 g) </ingredient>
+    <ingredient num="1">1 lb ; ground beef, cooked and drained ; (455 g) </ingredient>
+    <ingredient num="2">½ cup ; BBQ sauce ; (145 g) </ingredient>
+    <ingredient num="3">2 cups ; cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="4">1 cup ; mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="5">½ ; tomato, diced </ingredient>
+    <ingredient num="6">½ ; red onion, sliced thinly </ingredient>
+    <ingredient num="7">8 strips ; bacon, cooked and crumbled </ingredient>
+    <ingredient num="8">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C). </step>
+    <step num="1">In a large pan or skillet, lay down half of the tortilla chips, followed by half of the ground beef, bbq sauce, cheddar, mozzarella, tomato, red onion, bacon, and parsley. Repeat with the remaining half of the ingredients, followed by a drizzle of BBQ sauce on top. </step>
+    <step num="2">Bake for 15 minutes, until cheese is melted. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="1">In a large pan or skillet, lay down half of the tortilla chips, followed by half of the ground beef, bbq sauce, cheddar, mozzarella, tomato, red onion, bacon, and parsley. </steps_updated>
+    <steps_updated num="2">Repeat with the remaining half of the ingredients, followed by a drizzle of BBQ sauce on top. </steps_updated>
+    <steps_updated num="3">Bake for 15 minutes, until cheese is melted. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

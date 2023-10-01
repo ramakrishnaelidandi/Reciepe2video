@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Bell Peppers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-bell-peppers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; bell peppers </ingredient>
+    <ingredient num="1">1 tablespoon ; kosher salt </ingredient>
+    <ingredient num="2">1 tablespoon ; freshly ground black pepper </ingredient>
+    <ingredient num="3">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="4">½ cup ; fresh chives, finely chopped ; (20 g) </ingredient>
+    <ingredient num="5">4 ; large eggs </ingredient>
+    <ingredient num="6">4 strips ; cooked bacon </ingredient>
+    <ingredient num="7">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31931/low_1495124882.m3u8</low>
+    <high>https://vid.tasty.co/output/31931/mp4_720x1280/1495124882</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">On a cutting board, split the bell peppers in half from stem to base. Cut out the stem and the seeds. </step>
+    <step num="2">Transfer halved peppers to a baking tray, cavity side up. Sprinkle each half with salt and pepper. </step>
+    <step num="3">Bake for 15-20 minutes, until peppers are slightly soft. </step>
+    <step num="4">Sprinkle the mozzarella and half of the chives evenly among the four pepper halves. Then crack eggs into the center of each pepper. </step>
+    <step num="5">Sprinkle the salt, pepper, bacon, cheddar, and remaining chives on top of the eggs. </step>
+    <step num="6">Bake for 15-20 minutes, until egg whites are set. Serve! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">On a cutting board, split the bell peppers in half from stem to base. </steps_updated>
+    <steps_updated num="2">Cut out the stem and the seeds. </steps_updated>
+    <steps_updated num="3">Transfer halved peppers to a baking tray, cavity side up. </steps_updated>
+    <steps_updated num="4">Sprinkle each half with salt and pepper. </steps_updated>
+    <steps_updated num="5">Bake for 15-20 minutes, until peppers are slightly soft. </steps_updated>
+    <steps_updated num="6">Sprinkle the mozzarella and half of the chives evenly among the four pepper halves. </steps_updated>
+    <steps_updated num="7">Then crack eggs into the center of each pepper. </steps_updated>
+    <steps_updated num="8">Sprinkle the salt, pepper, bacon, cheddar, and remaining chives on top of the eggs. </steps_updated>
+    <steps_updated num="9">Bake for 15-20 minutes, until egg whites are set. </steps_updated>
+    <steps_updated num="10">Serve! </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pomegranate Champagne Spritzer Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pomegranate-champagne-spritzer</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; pomegranate </ingredient>
+    <ingredient num="1">½ ; lemon </ingredient>
+    <ingredient num="2">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="3">champagne, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19294/low_1482445857.m3u8</low>
+    <high>https://vid.tasty.co/output/19294/mp4_720x1280/1482445857</high>
+  </video>
+  <steps>
+    <step num="0">Cut the pomegranate in half, and hit it over a bowl with a wooden spoon to release the seeds. </step>
+    <step num="1">Squeeze half a lemon over the pomegranate seeds. </step>
+    <step num="2">Pour a half cup of water over the seeds and lemon juice, and spoon the mixture into ice tray of choice. </step>
+    <step num="3">Freeze the cubes for an hour or until solid. </step>
+    <step num="4">In a glass, put one cube and then top with champagne. </step>
+    <step num="5">Watch the drink transform while the ice cube melts. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the pomegranate in half, and hit it over a bowl with a wooden spoon to release the seeds. </steps_updated>
+    <steps_updated num="1">Squeeze half a lemon over the pomegranate seeds. </steps_updated>
+    <steps_updated num="2">Pour a half cup of water over the seeds and lemon juice, and spoon the mixture into ice tray of choice. </steps_updated>
+    <steps_updated num="3">Freeze the cubes for an hour or until solid. </steps_updated>
+    <steps_updated num="4">In a glass, put one cube and then top with champagne. </steps_updated>
+    <steps_updated num="5">Watch the drink transform while the ice cube melts. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

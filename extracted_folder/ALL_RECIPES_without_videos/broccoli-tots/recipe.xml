@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Broccoli Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/broccoli-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; broccoli, cut into small florets ; (340 g) </ingredient>
+    <ingredient num="1">¼ cup ; scallions, thinly sliced ; (25 g) </ingredient>
+    <ingredient num="2">2 cloves ; large garlic, finely diced </ingredient>
+    <ingredient num="3">⅔ cup ; shredded cheddar cheese ; (70 g) </ingredient>
+    <ingredient num="4">1 ; egg, beaten </ingredient>
+    <ingredient num="5">⅔ cup ; bread crumbs ; (75 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">2 teaspoons ; Sriracha, optional but recommended </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32171/low_1495125351.m3u8</low>
+    <high>https://vid.tasty.co/output/32171/mp4_720x1280/1495125351</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (204°C). </step>
+    <step num="1">Fill a medium saucepan with water and bring to a boil. Aggressively season with salt. Blanch the broccoli in boiling water for about two minutes. </step>
+    <step num="2">Drain and finely chop the cooked broccoli. </step>
+    <step num="3">In a mixing bowl, add broccoli, scallions, garlic, cheddar, egg, and bread crumbs. Optional: Add hot sauce of choice. Mix well and chill in the refrigerator for 15–20 minutes. </step>
+    <step num="4">Spray a nonstick baking sheet with nonstick spray. Shape the mixture into tot shapes and spread them evenly on the sheet. </step>
+    <step num="5">Bake for 8–9 minutes. Flip and then bake for an additional 8–9 minutes on the other side until golden brown. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (204°C). </steps_updated>
+    <steps_updated num="1">Fill a medium saucepan with water and bring to a boil. </steps_updated>
+    <steps_updated num="2">Aggressively season with salt. </steps_updated>
+    <steps_updated num="3">Blanch the broccoli in boiling water for about two minutes. </steps_updated>
+    <steps_updated num="4">Drain and finely chop the cooked broccoli. </steps_updated>
+    <steps_updated num="5">In a mixing bowl, add broccoli, scallions, garlic, cheddar, egg, and bread crumbs. </steps_updated>
+    <steps_updated num="6">Optional: Add hot sauce of choice. </steps_updated>
+    <steps_updated num="7">Mix well and chill in the refrigerator for 15–20 minutes. </steps_updated>
+    <steps_updated num="8">Spray a nonstick baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="9">Shape the mixture into tot shapes and spread them evenly on the sheet. </steps_updated>
+    <steps_updated num="10">Bake for 8–9 minutes. </steps_updated>
+    <steps_updated num="11">Flip and then bake for an additional 8–9 minutes on the other side until golden brown. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

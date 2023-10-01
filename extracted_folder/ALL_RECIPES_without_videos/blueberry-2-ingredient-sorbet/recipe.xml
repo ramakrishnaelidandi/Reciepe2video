@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry 2-ingredient Sorbet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-2-ingredient-sorbet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/2-ingredient-sorbet-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; blueberry, frozen ; (455 g) </ingredient>
+    <ingredient num="1">¼ cup ; honey ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33130/low_1496261480.m3u8</low>
+    <high>https://vid.tasty.co/output/33130/mp4_720x1280/1496261480</high>
+  </video>
+  <duration>
+    <start_time>68.45</start_time>
+    <end_time>91.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the blueberries and honey to a food processor and combine until evenly mixed. </step>
+    <step num="1">Transfer to a loaf pan and transfer to freezer until completely frozen. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the blueberries and honey to a food processor and combine until evenly mixed. </steps_updated>
+    <steps_updated num="1">Transfer to a loaf pan and transfer to freezer until completely frozen. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02114</start_time>
+    <end_time>02753</end_time>
+  </duration_human>
+</recipe>

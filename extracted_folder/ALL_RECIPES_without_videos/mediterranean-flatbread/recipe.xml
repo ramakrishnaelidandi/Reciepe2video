@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mediterranean Flatbread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mediterranean-flatbread</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-meals-high-in-iron</comp_url>
+  <ingredients>
+    <ingredient num="0">olive oil, to taste </ingredient>
+    <ingredient num="1">4 cups ; kale, chopped ; (270 g) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">2 tablespoons ; pine nuts </ingredient>
+    <ingredient num="5">red pepper flakes, to taste </ingredient>
+    <ingredient num="6">⅓ cup ; sun-dried tomato ; (20 g) </ingredient>
+    <ingredient num="7">2 ; flatbreads </ingredient>
+    <ingredient num="8">4 tablespoons ; hummus </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100664/hls24_1530551884.m3u8</low>
+    <high>https://vid.tasty.co/output/100664/landscape_720/1530551884</high>
+  </video>
+  <duration>
+    <start_time>0.5</start_time>
+    <end_time>55.099</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium skillet, heat a drizzle of olive oil over medium heat. Once the oil begins to shimmer, add the kale and cook for 3-4 minutes, until semi-wilted. Season with a pinch of salt. </step>
+    <step num="1">Add a splash of water and continue to cook for 3-4 minutes until the kale is mostly wilted. </step>
+    <step num="2">Add another drizzle of olive oil and the garlic, pine nuts, and red pepper flakes to the pan. Cook for another 3-4 minutes until the garlic is fragrant and the pine nuts are toasted. </step>
+    <step num="3">Add the sun-dried tomatoes and cook for 2-3 more minutes until the kale is completely wilted and tender. Transfer the kale mixture to a bowl and set aside. </step>
+    <step num="4">In the same pan, add a drizzle of oil from the jar of sun-dried tomatoes. Heat the flatbreads, 1 at a time, for 2-3 minutes on each side until golden brown. </step>
+    <step num="5">Transfer the flatbreads to a cutting board and spread with the hummus. Spoon the kale mixture on top and cut into quarters. </step>
+    <step num="6">Sprinkle with more red pepper flakes, if desired, and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium skillet, heat a drizzle of olive oil over medium heat. </steps_updated>
+    <steps_updated num="1">Once the oil begins to shimmer, add the kale and cook for 3-4 minutes, until semi-wilted. </steps_updated>
+    <steps_updated num="2">Season with a pinch of salt. </steps_updated>
+    <steps_updated num="3">Add a splash of water and continue to cook for 3-4 minutes until the kale is mostly wilted. </steps_updated>
+    <steps_updated num="4">Add another drizzle of olive oil and the garlic, pine nuts, and red pepper flakes to the pan. </steps_updated>
+    <steps_updated num="5">Cook for another 3-4 minutes until the garlic is fragrant and the pine nuts are toasted. </steps_updated>
+    <steps_updated num="6">Add the sun-dried tomatoes and cook for 2-3 more minutes until the kale is completely wilted and tender. </steps_updated>
+    <steps_updated num="7">Transfer the kale mixture to a bowl and set aside. </steps_updated>
+    <steps_updated num="8">In the same pan, add a drizzle of oil from the jar of sun-dried tomatoes. </steps_updated>
+    <steps_updated num="9">Heat the flatbreads, 1 at a time, for 2-3 minutes on each side until golden brown. </steps_updated>
+    <steps_updated num="10">Transfer the flatbreads to a cutting board and spread with the hummus. </steps_updated>
+    <steps_updated num="11">Spoon the kale mixture on top and cut into quarters. </steps_updated>
+    <steps_updated num="12">Sprinkle with more red pepper flakes, if desired, and serve. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

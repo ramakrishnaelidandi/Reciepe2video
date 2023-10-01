@@ -1,0 +1,53 @@
+<recipe>
+  <title>Watermelon Gazpacho Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-gazpacho</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-gazpachos-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 9517 13278 2787 8695 13817 472 13278 5065 5981 </ingredient>
+    <ingredient num="1">3917 13278 10837 4125 8695 13817 325 7990 4711 </ingredient>
+    <ingredient num="2">3917 13278 8083 1466 10986 8695 13817 3962 </ingredient>
+    <ingredient num="3">1580 13278 3579 8695 13817 1404 7789 3954 976 669 4199 7990 4711 </ingredient>
+    <ingredient num="4">12791 2605 13278 6209 3878 6638 7789 3954 5625 7990 4711 13278 12237 5981 </ingredient>
+    <ingredient num="5">13086 9486 13278 3352 10769 </ingredient>
+    <ingredient num="6">3917 2157 13278 82 </ingredient>
+    <ingredient num="7">3917 2157 13278 7845 </ingredient>
+    <ingredient num="8">8580 9486 13278 3141 7549 8244 5766 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100107/hls24_1530035894.m3u8</low>
+    <high>https://vid.tasty.co/output/100107/landscape_720/1530035894</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 2787 10837 1466 10986 3579 5663 3352 4450 12610 13817 7845 560 5994 8016 9909 5895 10857 </step>
+    <step num="1">4829 6014 12723 740 11951 8244 5766 13817 4861 6593 1681 11951 2373 7312 13794 12313 13218 7799 </step>
+    <step num="2">12785 11951 1171 560 5994 2597 12377 13817 173 7990 7811 767 238 11004 5895 758 560 2234 11951 14517 560 12978 </step>
+    <step num="3">12774 11951 1171 2189 13817 4711 1391 5994 12205 371 10837 5994 12205 371 3579 13817 5994 1113 371 7807 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 2787 10837 1466 10986 3579 5663 3352 4450 12610 13817 7845 560 5994 8016 9909 5895 10857 </steps_updated>
+    <steps_updated num="1">4829 6014 12723 740 11951 8244 5766 13817 4861 6593 1681 11951 2373 7312 13794 12313 13218 7799 </steps_updated>
+    <steps_updated num="2">12785 11951 1171 560 5994 2597 12377 13817 173 7990 7811 767 238 11004 5895 758 560 2234 11951 14517 560 12978 </steps_updated>
+    <steps_updated num="3">12774 11951 1171 2189 13817 4711 1391 5994 12205 371 10837 5994 12205 371 3579 13817 5994 1113 371 7807 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01426</start_time>
+    <end_time>02318</end_time>
+  </duration_human>
+</recipe>

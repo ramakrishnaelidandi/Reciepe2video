@@ -1,0 +1,54 @@
+<recipe>
+  <title>Rosemary Roasted Sweet Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rosemary-roasted-sweet-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-roasted-veggies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 10882 13233 </ingredient>
+    <ingredient num="1">8580 9486 13278 5766 </ingredient>
+    <ingredient num="2">3917 14014 13278 796 7516 </ingredient>
+    <ingredient num="3">3917 8071 13278 82 </ingredient>
+    <ingredient num="4">3917 8071 13278 7845 </ingredient>
+    <ingredient num="5">6209 11911 1404 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31203/low_1494349079.m3u8</low>
+    <high>https://vid.tasty.co/output/31203/mp4_720x1280/1494349079</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>23.46</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 13018 </step>
+    <step num="1">3235 11951 10707 13817 551 3482 371 11951 10882 2274 13817 12205 13233 210 2532 9387 6117 10763 2532 4255 11951 12133 786 415 12205 13086 7287 8829 13817 10493 426 11951 13233 4255 2349 11801 13817 772 4061 5895 7460 3954 4743 560 1978 1170 </step>
+    <step num="2">12785 11951 10882 13233 560 5994 10765 11020 415 740 11951 7632 5984 12610 13817 12375 7643 560 6798 7317 </step>
+    <step num="3">7831 7990 3366 11004 1681 11951 10882 13233 12573 10306 13817 11695 560 1368 5412 11951 10663 </step>
+    <step num="4">1828 10694 7990 2933 12689 13688 1391 3962 2768 432 3044 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 13018 </steps_updated>
+    <steps_updated num="1">3235 11951 10707 13817 551 3482 371 11951 10882 2274 13817 12205 13233 210 2532 9387 </steps_updated>
+    <steps_updated num="2">6117 10763 2532 4255 11951 12133 786 415 12205 13086 7287 8829 13817 10493 </steps_updated>
+    <steps_updated num="3">426 11951 13233 4255 2349 11801 13817 772 4061 5895 7460 3954 4743 560 1978 1170 </steps_updated>
+    <steps_updated num="4">12785 11951 10882 13233 560 5994 10765 11020 415 740 11951 7632 5984 12610 13817 12375 </steps_updated>
+    <steps_updated num="5">7643 560 6798 7317 </steps_updated>
+    <steps_updated num="6">7831 7990 3366 11004 1681 11951 10882 13233 12573 10306 13817 11695 560 1368 5412 11951 10663 </steps_updated>
+    <steps_updated num="7">1828 10694 7990 2933 12689 </steps_updated>
+    <steps_updated num="8">13688 1391 3962 2768 432 3044 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00728</end_time>
+  </duration_human>
+</recipe>

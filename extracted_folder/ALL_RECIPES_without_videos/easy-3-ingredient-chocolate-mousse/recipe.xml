@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy 3-Ingredient Chocolate Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-3-ingredient-chocolate-mousse</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 oz ; marshmallow ; (140 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; milk ; (360 mL) </ingredient>
+    <ingredient num="2">1 cup ; dark chocolate ; (170 g) </ingredient>
+    <ingredient num="3">whipped cream </ingredient>
+    <ingredient num="4">chocolate, grated </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124547/hls24_1549651327.m3u8</low>
+    <high>https://vid.tasty.co/output/124547/landscape_720/1549651327</high>
+  </video>
+  <steps>
+    <step num="0">In a medium pot, combine the marshmallows and milk. Cook over medium heat, stirring constantly, until the marshmallows are completely melted, 5-7 minutes. </step>
+    <step num="1">Pour the marshmallow mixture over the chocolate in a medium heatproof bowl. Let sit for 2-3 minutes, then whisk until well combined and smooth. </step>
+    <step num="2">Divide the mixture between 4 serving cups. Chill in the refrigerator for at least 1 hour, or until set. </step>
+    <step num="3">Top with whipped cream and grated chocolate, if desired. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium pot, combine the marshmallows and milk. </steps_updated>
+    <steps_updated num="1">Cook over medium heat, stirring constantly, until the marshmallows are completely melted, 5-7 minutes. </steps_updated>
+    <steps_updated num="2">Pour the marshmallow mixture over the chocolate in a medium heatproof bowl. </steps_updated>
+    <steps_updated num="3">Let sit for 2-3 minutes, then whisk until well combined and smooth. </steps_updated>
+    <steps_updated num="4">Divide the mixture between 4 serving cups. </steps_updated>
+    <steps_updated num="5">Chill in the refrigerator for at least 1 hour, or until set. </steps_updated>
+    <steps_updated num="6">Top with whipped cream and grated chocolate, if desired. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

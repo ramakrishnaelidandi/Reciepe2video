@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Chocolate Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-chocolate-mousse</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 can ; chickpea water, aquafaba </ingredient>
+    <ingredient num="1">½ cup ; dark chocolate, vegan </ingredient>
+    <ingredient num="2">2 tablespoons ; sugar </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Vegan</category>
+    <category num="7">Vegetarian</category>
+    <category num="8">Desserts</category>
+    <category num="9">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28056/low_1490912455.m3u8</low>
+    <high>https://vid.tasty.co/output/28056/mp4_720x1280/1490912455</high>
+  </video>
+  <steps>
+    <step num="0">In a medium-sized bowl, beat aquafaba until stiff peaks form. </step>
+    <step num="1">Gently fold in melted chocolate, sugar, and vanilla, being careful not to overmix. </step>
+    <step num="2">Distribute mousse into 3 cups and chill for at least 3 hours, ideally overnight. </step>
+    <step num="3">Garnish with fresh strawberries or fruit of choice. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium-sized bowl, beat aquafaba until stiff peaks form. </steps_updated>
+    <steps_updated num="1">Gently fold in melted chocolate, sugar, and vanilla, being careful not to overmix. </steps_updated>
+    <steps_updated num="2">Distribute mousse into 3 cups and chill for at least 3 hours, ideally overnight. </steps_updated>
+    <steps_updated num="3">Garnish with fresh strawberries or fruit of choice. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

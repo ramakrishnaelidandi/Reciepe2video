@@ -1,0 +1,46 @@
+<recipe>
+  <title>Matcha Latte Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/matcha-latte</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tea-lattes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 1580 2031 13278 8182 8117 7789 3954 7990 580 </ingredient>
+    <ingredient num="1">3917 14014 13278 6222 12282 </ingredient>
+    <ingredient num="2">1580 14014 13278 7484 8524 2517 </ingredient>
+    <ingredient num="3">3917 2605 13278 5802 13278 7503 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114059/hls24_1541113086.m3u8</low>
+    <high>https://vid.tasty.co/output/114059/landscape_720/1541113086</high>
+  </video>
+  <duration>
+    <start_time>1.3330000000000002</start_time>
+    <end_time>45.066</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 8182 560 5994 12703 13817 5406 210 11951 6222 12282 13817 4054 </step>
+    <step num="1">283 1391 5994 2192 8341 5895 5994 8182 9233 1681 14549 8693 1978 4255 11951 9061 </step>
+    <step num="2">14239 11951 5802 5569 14330 3557 560 5994 7354 13531 1709 11264 1681 13145 8693 5563 13827 10503 11951 5802 7990 7759 131 560 3917 6560 6854 217 5829 3535 5014 2761 </step>
+    <step num="3">1083 11951 5802 669 11951 7114 </step>
+    <step num="4">4058 11951 10707 1391 3954 8509 5358 13 </step>
+    <step num="5">9092 </step>
+    <step num="6">10326 4884 7818 8861 9022 13128 7426 1673 2933 5102 7660 6919 14223 7426 4270 2800 5102 9718 3427 1975 14367 6421 409 5102 12898 11852 221 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 8182 560 5994 12703 13817 5406 210 11951 6222 12282 13817 4054 </steps_updated>
+    <steps_updated num="1">283 1391 5994 2192 8341 5895 5994 8182 9233 1681 14549 8693 1978 4255 11951 9061 </steps_updated>
+    <steps_updated num="2">14239 11951 5802 5569 14330 3557 560 5994 7354 13531 </steps_updated>
+    <steps_updated num="3">1709 11264 1681 13145 8693 5563 </steps_updated>
+    <steps_updated num="4">13827 10503 11951 5802 7990 7759 131 560 3917 6560 6854 217 5829 3535 5014 2761 </steps_updated>
+    <steps_updated num="5">1083 11951 5802 669 11951 7114 </steps_updated>
+    <steps_updated num="6">4058 11951 10707 1391 3954 8509 5358 13 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+    <steps_updated num="8">10326 4884 7818 8861 9022 13128 7426 1673 2933 5102 7660 6919 14223 7426 4270 2800 5102 9718 3427 1975 14367 6421 409 5102 12898 11852 221 </steps_updated>
+  </steps_updated>
+</recipe>

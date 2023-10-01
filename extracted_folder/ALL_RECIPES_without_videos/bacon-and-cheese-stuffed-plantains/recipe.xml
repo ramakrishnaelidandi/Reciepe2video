@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon And Cheese Stuffed Plantains Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-and-cheese-stuffed-plantains</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; ripe plantains </ingredient>
+    <ingredient num="1">½ cup ; butter, melted ; (100 g) </ingredient>
+    <ingredient num="2">3 slices ; bacon </ingredient>
+    <ingredient num="3">1 cup ; mozzarella cheese, grated ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Brazilian</category>
+    <category num="1">British</category>
+    <category num="2">Latin American</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32090/low_1495125301.m3u8</low>
+    <high>https://vid.tasty.co/output/32090/mp4_720x1280/1495125301</high>
+  </video>
+  <steps>
+    <step num="0">Pre-heat the oven to 200°C (400°F). </step>
+    <step num="1">Remove the peel from the plantains. </step>
+    <step num="2">Cover in melted butter. </step>
+    <step num="3">Bake for around 20 minutes then flip the plantains, cooking for another 20 minutes until golden brown on both sides. </step>
+    <step num="4">Chop the bacon into bits and fry until crispy. </step>
+    <step num="5">Cut the cooked plantains down the middle. </step>
+    <step num="6">Stuff with the mozzarella, bacon and extra mozzarella. </step>
+    <step num="7">Bake for another 5 minutes until the cheese has melted. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pre-heat the oven to 200°C (400°F). </steps_updated>
+    <steps_updated num="1">Remove the peel from the plantains. </steps_updated>
+    <steps_updated num="2">Cover in melted butter. </steps_updated>
+    <steps_updated num="3">Bake for around 20 minutes then flip the plantains, cooking for another 20 minutes until golden brown on both sides. </steps_updated>
+    <steps_updated num="4">Chop the bacon into bits and fry until crispy. </steps_updated>
+    <steps_updated num="5">Cut the cooked plantains down the middle. </steps_updated>
+    <steps_updated num="6">Stuff with the mozzarella, bacon and extra mozzarella. </steps_updated>
+    <steps_updated num="7">Bake for another 5 minutes until the cheese has melted. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

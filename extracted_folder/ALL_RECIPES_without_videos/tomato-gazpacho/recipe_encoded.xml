@@ -1,0 +1,64 @@
+<recipe>
+  <title>Tomato Gazpacho Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tomato-gazpacho</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-gazpachos-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 13757 10065 717 </ingredient>
+    <ingredient num="1">8580 13278 2912 10644 1632 210 12282 </ingredient>
+    <ingredient num="2">3917 13278 13757 13294 10837 8695 13817 3962 </ingredient>
+    <ingredient num="3">1580 13278 8083 1466 10986 8695 13817 3962 </ingredient>
+    <ingredient num="4">12791 13278 8083 12384 341 </ingredient>
+    <ingredient num="5">1580 2605 13278 6209 749 7789 3954 7990 4711 13278 828 5981 </ingredient>
+    <ingredient num="6">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="7">3917 13278 5516 3701 </ingredient>
+    <ingredient num="8">3917 7463 13278 12282 </ingredient>
+    <ingredient num="9">8580 9486 13278 8083 13538 10769 </ingredient>
+    <ingredient num="10">3917 2157 13278 82 </ingredient>
+    <ingredient num="11">3917 2157 13278 7845 </ingredient>
+    <ingredient num="12">8580 9486 13278 3141 7549 8244 7632 7789 3954 7990 4189 </ingredient>
+    <ingredient num="13">10398 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100107/hls24_1530035894.m3u8</low>
+    <high>https://vid.tasty.co/output/100107/landscape_720/1530035894</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">8940 11951 12236 14238 5994 2597 10083 371 12282 560 5994 11526 11714 10346 2237 2439 9727 210 5994 2597 12377 13817 817 847 12775 3345 11951 717 210 11951 2032 2019 9731 7990 238 6659 5895 1681 11951 930 10586 560 3295 12775 10231 11951 717 1391 5994 6436 1798 560 11951 2439 14264 9956 10694 9815 560 2554 6183 7368 11951 899 3482 13817 8048 13190 11951 7042 7478 11951 6974 </step>
+    <step num="1">9179 11951 8084 2071 7042 10837 1466 10986 8083 12384 749 4155 597 7654 13384 8083 13538 4450 12610 13817 7845 560 5994 8016 9909 5895 12095 </step>
+    <step num="2">4829 6014 12723 740 11951 8244 5766 13817 4861 6593 1681 11951 2373 7312 13794 12313 13218 9265 14330 3954 12282 2658 13615 560 3313 12313 13218 9545 </step>
+    <step num="3">12785 11951 1171 560 5994 2597 12377 13817 173 7811 767 238 11004 5895 758 560 2234 11951 14517 560 12978 </step>
+    <step num="4">12774 11951 1171 2189 1391 5994 13630 371 10981 8244 7632 13817 4711 1391 10169 13817 6209 13952 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8940 11951 12236 14238 5994 2597 10083 371 12282 560 5994 11526 11714 </steps_updated>
+    <steps_updated num="1">10346 2237 2439 9727 210 5994 2597 12377 13817 817 847 </steps_updated>
+    <steps_updated num="2">12775 3345 11951 717 210 11951 2032 2019 </steps_updated>
+    <steps_updated num="3">9731 7990 238 6659 5895 1681 11951 930 10586 560 3295 </steps_updated>
+    <steps_updated num="4">12775 10231 11951 717 1391 5994 6436 1798 560 11951 2439 14264 </steps_updated>
+    <steps_updated num="5">9956 10694 9815 560 2554 6183 7368 11951 899 3482 13817 8048 </steps_updated>
+    <steps_updated num="6">13190 11951 7042 7478 11951 6974 </steps_updated>
+    <steps_updated num="7">9179 11951 8084 2071 7042 10837 1466 10986 8083 12384 749 4155 597 7654 13384 8083 13538 4450 12610 13817 7845 560 5994 8016 9909 5895 12095 </steps_updated>
+    <steps_updated num="8">4829 6014 12723 740 11951 8244 5766 13817 4861 6593 1681 11951 2373 7312 13794 12313 13218 9265 14330 3954 12282 2658 13615 560 3313 12313 13218 9545 </steps_updated>
+    <steps_updated num="9">12785 11951 1171 560 5994 2597 12377 13817 173 7811 767 238 11004 5895 758 560 2234 11951 14517 560 12978 </steps_updated>
+    <steps_updated num="10">12774 11951 1171 2189 1391 5994 13630 371 10981 8244 7632 13817 4711 1391 10169 13817 6209 13952 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00348</start_time>
+    <end_time>01425</end_time>
+  </duration_human>
+</recipe>

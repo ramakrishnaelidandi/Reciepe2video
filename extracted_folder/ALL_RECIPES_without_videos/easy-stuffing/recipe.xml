@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Stuffing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-stuffing</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-staples-if-you-only-have-a-microwave</comp_url>
+  <ingredients>
+    <ingredient num="0">10 oz ; stuffing mix ; (285 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; water ; (360 mL) </ingredient>
+    <ingredient num="2">4 tablespoons ; melted butter </ingredient>
+    <ingredient num="3">1 stalk ; celery, sliced </ingredient>
+    <ingredient num="4">1 ; apple, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114497/hls24_1541542908.m3u8</low>
+    <high>https://vid.tasty.co/output/114497/landscape_720/1541542908</high>
+  </video>
+  <duration>
+    <start_time>26.0</start_time>
+    <end_time>69.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large microwave-safe bowl, add the stuffing mix, then pour in the water and melted butter and stir until evenly mixed. </step>
+    <step num="1">Cover with a kitchen towel and microwave on full power for 2 minutes. </step>
+    <step num="2">Remove the bowl from the microwave, add the celery and apple, and stir until well mixed. </step>
+    <step num="3">Cover and microwave for 2 more minutes. Remove the bowl and stir, then cover and microwave for 1 minute more until stuffing is moist and a little crispy on the edges. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large microwave-safe bowl, add the stuffing mix, then pour in the water and melted butter and stir until evenly mixed. </steps_updated>
+    <steps_updated num="1">Cover with a kitchen towel and microwave on full power for 2 minutes. </steps_updated>
+    <steps_updated num="2">Remove the bowl from the microwave, add the celery and apple, and stir until well mixed. </steps_updated>
+    <steps_updated num="3">Cover and microwave for 2 more minutes. </steps_updated>
+    <steps_updated num="4">Remove the bowl and stir, then cover and microwave for 1 minute more until stuffing is moist and a little crispy on the edges. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

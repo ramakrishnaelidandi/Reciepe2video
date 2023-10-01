@@ -1,0 +1,60 @@
+<recipe>
+  <title>Sunflower Veggie Burgers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sunflower-veggie-burgers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-burgers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 8570 5315 13278 9018 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 11091 12384 11588 3962 13278 336 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 1368 11948 3745 13278 9494 5981 </ingredient>
+    <ingredient num="3">1580 8071 13278 796 9211 </ingredient>
+    <ingredient num="4">1580 8071 13278 82 </ingredient>
+    <ingredient num="5">8580 9486 13278 12282 </ingredient>
+    <ingredient num="6">3917 2605 13278 5425 3962 13278 12933 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 4587 3962 13278 2935 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32863/low_1495738727.m3u8</low>
+    <high>https://vid.tasty.co/output/32863/mp4_720x1280/1495738727</high>
+  </video>
+  <duration>
+    <start_time>86.789</start_time>
+    <end_time>125.289</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 3963 12013 </step>
+    <step num="1">10950 11951 12377 371 5994 8016 5349 740 8570 6974 3693 1681 11588 2265 </step>
+    <step num="2">9179 12384 1368 11948 5040 12610 13817 12282 13817 3382 1681 4309 </step>
+    <step num="3">9179 11021 13817 10848 13817 8287 7679 7287 560 1011 </step>
+    <step num="4">5209 5994 1580 2605 2935 9443 8266 202 13601 2933 1010 6781 11951 10665 5570 1802 5994 8574 2362 8372 213 10590 </step>
+    <step num="5">7831 7990 238 11004 5895 1681 10524 13817 7340 9309 11770 14166 8119 </step>
+    <step num="6">12774 6396 1391 12313 226 3074 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="1">10950 11951 12377 371 5994 8016 5349 740 8570 6974 </steps_updated>
+    <steps_updated num="2">3693 1681 11588 2265 </steps_updated>
+    <steps_updated num="3">9179 12384 1368 11948 5040 12610 13817 12282 13817 3382 1681 4309 </steps_updated>
+    <steps_updated num="4">9179 11021 13817 10848 13817 8287 7679 7287 560 1011 </steps_updated>
+    <steps_updated num="5">5209 5994 1580 2605 2935 9443 8266 202 13601 2933 1010 6781 11951 10665 </steps_updated>
+    <steps_updated num="6">5570 1802 5994 8574 2362 8372 213 10590 </steps_updated>
+    <steps_updated num="7">7831 7990 238 11004 5895 1681 10524 13817 7340 9309 11770 14166 8119 </steps_updated>
+    <steps_updated num="8">12774 6396 1391 12313 226 3074 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02662</start_time>
+    <end_time>03774</end_time>
+  </duration_human>
+</recipe>

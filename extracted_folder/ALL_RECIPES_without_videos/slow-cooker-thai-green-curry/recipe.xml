@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Thai Green Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-thai-green-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; bone-in, skin-on chicken thighs ; (1 kg) </ingredient>
+    <ingredient num="1">2 tablespoons ; thai green curry paste, add more depending on how spicy you like it </ingredient>
+    <ingredient num="2">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="3">3 cups ; red bell pepper, sliced ; (300 g) </ingredient>
+    <ingredient num="4">½ cup ; green beans, topped and tailed ; (200 g) </ingredient>
+    <ingredient num="5">1 ; red chili, chopped and deseeded </ingredient>
+    <ingredient num="6">15 oz ; coconut milk, 1 can ; (400 g) </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">oil, for frying </ingredient>
+    <ingredient num="10">rice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18527/low_1482172905.m3u8</low>
+    <high>https://vid.tasty.co/output/18527/mp4_720x1280/1482172905</high>
+  </video>
+  <steps>
+    <step num="0">Sear the chicken in batches in a few tablespoons of oil, seasoning with salt and pepper as you go. </step>
+    <step num="1">Transfer to the slow cooker and spoon over the Thai green curry paste and drizzle over the soy sauce. </step>
+    <step num="2">Cook on high for 2.5 hours. </step>
+    <step num="3">Stir in the peppers, green beans, chilli, and coconut milk. </step>
+    <step num="4">Cook for a further 30 minutes. </step>
+    <step num="5">Serve over rice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Sear the chicken in batches in a few tablespoons of oil, seasoning with salt and pepper as you go. </steps_updated>
+    <steps_updated num="1">Transfer to the slow cooker and spoon over the Thai green curry paste and drizzle over the soy sauce. </steps_updated>
+    <steps_updated num="2">Cook on high for 2.5 hours. </steps_updated>
+    <steps_updated num="3">Stir in the peppers, green beans, chilli, and coconut milk. </steps_updated>
+    <steps_updated num="4">Cook for a further 30 minutes. </steps_updated>
+    <steps_updated num="5">Serve over rice. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

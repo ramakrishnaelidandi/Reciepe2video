@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pesto Parmesan Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-parmesan-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/crispy-cheese-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; shredded parmesan cheese ; (200 g) </ingredient>
+    <ingredient num="1">¼ cup ; pesto ; (55 g) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/72969/hls24_1516125423.m3u8</low>
+    <high>https://vid.tasty.co/output/72969/landscape_720/1516125423</high>
+  </video>
+  <duration>
+    <start_time>40.0</start_time>
+    <end_time>71.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180˚C). </step>
+    <step num="1">In a medium-sized mixing bowl, combine Parmesan cheese, pesto, salt, and pepper. </step>
+    <step num="2">Spoon cheese mixture into a greased mini muffin tin. </step>
+    <step num="3">Bake 5-8 minutes, or until cheese is melted and edges are slightly brown. </step>
+    <step num="4">Cool for 10 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180˚C). </steps_updated>
+    <steps_updated num="1">In a medium-sized mixing bowl, combine Parmesan cheese, pesto, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Spoon cheese mixture into a greased mini muffin tin. </steps_updated>
+    <steps_updated num="3">Bake 5-8 minutes, or until cheese is melted and edges are slightly brown. </steps_updated>
+    <steps_updated num="4">Cool for 10 minutes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00996</start_time>
+    <end_time>01717</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fried Banana Fritters À La Mode Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fried-banana-fritters-a-la-mode</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; ripe bananas </ingredient>
+    <ingredient num="1">2 tablespoons ; all-purpose flour </ingredient>
+    <ingredient num="2">2 teaspoons ; rice flour </ingredient>
+    <ingredient num="3">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; sugar </ingredient>
+    <ingredient num="6">oil, for deep frying </ingredient>
+    <ingredient num="7">1 scoop ; vanilla ice cream </ingredient>
+    <ingredient num="8">1 tablespoon ; chocolate syrup </ingredient>
+    <ingredient num="9">1 tablespoon ; sweetened condensed milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32115/low_1495125338.m3u8</low>
+    <high>https://vid.tasty.co/output/32115/mp4_720x1280/1495125338</high>
+  </video>
+  <steps>
+    <step num="0">Mash the bananas in a bowl. </step>
+    <step num="1">Stir in all-purpose flour, rice flour, baking soda and salt until mixed. Mix in sugar. </step>
+    <step num="2">Heat up cooking oil for deep frying in a small pan. </step>
+    <step num="3">Once the oil is hot, scoop up a spoonful, roughly a tablespoon, of batter into the frying pan. Deep fry until golden brown. </step>
+    <step num="4">Place the fritters on a paper towel to remove excess oil. </step>
+    <step num="5">Serve the fritters with a scoop of vanilla ice cream. Drizzle with chocolate syrup and sweetened condensed milk. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mash the bananas in a bowl. </steps_updated>
+    <steps_updated num="1">Stir in all-purpose flour, rice flour, baking soda and salt until mixed. </steps_updated>
+    <steps_updated num="2">Mix in sugar. </steps_updated>
+    <steps_updated num="3">Heat up cooking oil for deep frying in a small pan. </steps_updated>
+    <steps_updated num="4">Once the oil is hot, scoop up a spoonful, roughly a tablespoon, of batter into the frying pan. </steps_updated>
+    <steps_updated num="5">Deep fry until golden brown. </steps_updated>
+    <steps_updated num="6">Place the fritters on a paper towel to remove excess oil. </steps_updated>
+    <steps_updated num="7">Serve the fritters with a scoop of vanilla ice cream. </steps_updated>
+    <steps_updated num="8">Drizzle with chocolate syrup and sweetened condensed milk. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

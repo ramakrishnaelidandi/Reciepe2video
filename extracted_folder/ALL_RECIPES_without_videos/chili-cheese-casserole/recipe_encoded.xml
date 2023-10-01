@@ -1,0 +1,46 @@
+<recipe>
+  <title>Chili Cheese Casserole Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-cheese-casserole</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13133 643 13278 3984 13711 3917 14138 13278 13345 5981 </ingredient>
+    <ingredient num="1">6735 643 13278 9668 7280 3917 14138 13278 9473 5981 </ingredient>
+    <ingredient num="2">6735 13278 5817 </ingredient>
+    <ingredient num="3">8580 9517 13278 3333 9784 14538 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58818/low_1509138172.m3u8</low>
+    <high>https://vid.tasty.co/output/58818/mp4_720x1280/1509138172</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 14511 740 11951 13389 13817 9668 2260 13817 6142 560 1011 </step>
+    <step num="1">9179 5994 11826 371 11951 13389 2373 560 11951 551 371 5994 8023 6310 10765 10590 13494 1391 5994 11826 371 5149 5994 11826 371 13711 13817 1678 1391 4496 </step>
+    <step num="2">5362 1681 8554 11907 12573 11409 9082 11901 11951 10707 11826 9490 4496 </step>
+    <step num="3">4660 13817 173 7990 7811 767 13086 13199 3386 560 14142 </step>
+    <step num="4">3915 10439 560 9988 8999 </step>
+    <step num="5">6054 11951 7112 6781 11951 7111 13817 3945 1788 7990 13767 8927 4255 12313 7705 </step>
+    <step num="6">2433 2734 1912 210 11951 8896 13817 6506 1391 2141 8450 5833 5312 11951 3615 8189 13941 11951 14538 14614 </step>
+    <step num="7">7831 7990 11877 11004 5895 1681 14538 9490 1311 </step>
+    <step num="8">14100 13817 8956 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 740 11951 13389 13817 9668 2260 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="1">9179 5994 11826 371 11951 13389 2373 560 11951 551 371 5994 8023 6310 10765 10590 </steps_updated>
+    <steps_updated num="2">13494 1391 5994 11826 371 5149 5994 11826 371 13711 13817 1678 1391 4496 </steps_updated>
+    <steps_updated num="3">5362 1681 8554 11907 12573 11409 9082 11901 11951 10707 11826 9490 4496 </steps_updated>
+    <steps_updated num="4">4660 13817 173 7990 7811 767 13086 13199 3386 560 14142 </steps_updated>
+    <steps_updated num="5">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="6">6054 11951 7112 6781 11951 7111 13817 3945 1788 7990 13767 8927 4255 12313 7705 </steps_updated>
+    <steps_updated num="7">2433 2734 1912 210 11951 8896 13817 6506 1391 2141 8450 5833 5312 11951 3615 8189 13941 11951 14538 14614 </steps_updated>
+    <steps_updated num="8">7831 7990 11877 11004 5895 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="9">14100 13817 8956 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

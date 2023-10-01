@@ -1,0 +1,49 @@
+<recipe>
+  <title>Easy Orange Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-orange-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 8355 2144 7983 3967 472 </ingredient>
+    <ingredient num="1">12791 2605 13278 11691 2260 13278 13125 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 13956 10522 </ingredient>
+    <ingredient num="3">12791 2605 13278 12367 13278 1258 5981 </ingredient>
+    <ingredient num="4">8580 9486 13278 5766 </ingredient>
+    <ingredient num="5">9883 2605 13278 13956 10522 13278 10475 8007 </ingredient>
+    <ingredient num="6">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="7">3917 14014 13278 1851 2260 </ingredient>
+    <ingredient num="8">3917 14014 13278 7706 10769 </ingredient>
+    <ingredient num="9">8580 9486 13278 1368 4834 </ingredient>
+    <ingredient num="10">3917 14014 13278 12367 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34952/low_1498504563.m3u8</low>
+    <high>https://vid.tasty.co/output/34952/mp4_720x1280/1498504563</high>
+  </video>
+  <steps>
+    <step num="0">3235 7983 376 669 1170 </step>
+    <step num="1">10950 5994 14511 4120 6966 295 9179 7983 13817 6142 560 515 </step>
+    <step num="2">1828 7162 7811 767 3917 5664 </step>
+    <step num="3">10950 5994 11745 7855 5766 4255 3996 2082 6054 7983 6781 6966 1391 5994 6436 13908 13817 2550 8554 10860 1681 10963 1240 6285 2933 12689 </step>
+    <step num="4">9179 2260 11907 560 5687 13817 14238 560 5994 8288 3624 7992 1681 2373 10485 6285 2933 12689 </step>
+    <step num="5">12774 11770 7706 5358 13 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 7983 376 669 1170 </steps_updated>
+    <steps_updated num="1">10950 5994 14511 4120 6966 295 </steps_updated>
+    <steps_updated num="2">9179 7983 13817 6142 560 515 </steps_updated>
+    <steps_updated num="3">1828 7162 7811 767 3917 5664 </steps_updated>
+    <steps_updated num="4">10950 5994 11745 7855 5766 4255 3996 2082 </steps_updated>
+    <steps_updated num="5">6054 7983 6781 6966 1391 5994 6436 13908 13817 2550 8554 10860 1681 10963 1240 6285 2933 12689 </steps_updated>
+    <steps_updated num="6">9179 2260 11907 560 5687 13817 14238 560 5994 8288 3624 7992 1681 2373 10485 6285 2933 12689 </steps_updated>
+    <steps_updated num="7">12774 11770 7706 5358 13 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

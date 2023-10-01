@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; egg yolks </ingredient>
+    <ingredient num="1">2 ; egg whites, whipped </ingredient>
+    <ingredient num="2">3 tablespoons ; sugar </ingredient>
+    <ingredient num="3">1 ⅓ cups ; milk, more if the batter is too thick ; (315 mL) </ingredient>
+    <ingredient num="4">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">1 ½ cups ; flour ; (185 g) </ingredient>
+    <ingredient num="7">¼ cup ; cocoa powder ; (30 g) </ingredient>
+    <ingredient num="8">2 ½ teaspoons ; baking powder </ingredient>
+    <ingredient num="9">3 ½ oz ; chocolate, finely chopped ; (105 g) </ingredient>
+    <ingredient num="10">1 tablespoon ; butter, or oil for cooking </ingredient>
+    <ingredient num="11">1 cup ; heavy cream ; (235 mL) </ingredient>
+    <ingredient num="12">8 oz ; chocolate chips ; (175 g) </ingredient>
+    <ingredient num="13">raspberry, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39762/low_1498771102.m3u8</low>
+    <high>https://vid.tasty.co/output/39762/mp4_720x1280/1498771102</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, mix together yolks and sugar, while still whisking, add milk </step>
+    <step num="1">Carefully fold in whipped egg whites. </step>
+    <step num="2">NOTE: It's better to use a spoon rather than a whisk. </step>
+    <step num="3">Add and mix the melted butter and the vanilla. </step>
+    <step num="4">In another large bowl, mix the sieved flour, cocoa powder, and the baking powder. </step>
+    <step num="5">Form a little well in the middle and pour the milk and eggs mixture. Stir until the batter is smooth. </step>
+    <step num="6">Mix in the chopped chocolate. Let the batter sit for 15-20 minutes. </step>
+    <step num="7">To make the ganache, in a small saucepan, heat the heavy cream, without letting it boil. </step>
+    <step num="8">Take off the heat, mix with the chocolate chips until perfectly smooth. </step>
+    <step num="9">Over low to medium heat, pour ¼ cup (60 ml) of pancake batter on a well-oiled pan. </step>
+    <step num="10">When bubbles start to form on the surface of the pancake, flip and cook it for a minute on the other side. </step>
+    <step num="11">When the pancakes are ready, pour the chocolate ganache on top. </step>
+    <step num="12">NOTE: If the ganache has hardened while you were making the pancakes, you can microwave it for 15-20 seconds. </step>
+    <step num="13">Garnish with raspberries. </step>
+    <step num="14">Enjoy ! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, mix together yolks and sugar, while still whisking, add milk </steps_updated>
+    <steps_updated num="1">Carefully fold in whipped egg whites. </steps_updated>
+    <steps_updated num="2">NOTE: It's better to use a spoon rather than a whisk. </steps_updated>
+    <steps_updated num="3">Add and mix the melted butter and the vanilla. </steps_updated>
+    <steps_updated num="4">In another large bowl, mix the sieved flour, cocoa powder, and the baking powder. </steps_updated>
+    <steps_updated num="5">Form a little well in the middle and pour the milk and eggs mixture. </steps_updated>
+    <steps_updated num="6">Stir until the batter is smooth. </steps_updated>
+    <steps_updated num="7">Mix in the chopped chocolate. </steps_updated>
+    <steps_updated num="8">Let the batter sit for 15-20 minutes. </steps_updated>
+    <steps_updated num="9">To make the ganache, in a small saucepan, heat the heavy cream, without letting it boil. </steps_updated>
+    <steps_updated num="10">Take off the heat, mix with the chocolate chips until perfectly smooth. </steps_updated>
+    <steps_updated num="11">Over low to medium heat, pour ¼ cup (60 ml) of pancake batter on a well-oiled pan. </steps_updated>
+    <steps_updated num="12">When bubbles start to form on the surface of the pancake, flip and cook it for a minute on the other side. </steps_updated>
+    <steps_updated num="13">When the pancakes are ready, pour the chocolate ganache on top. </steps_updated>
+    <steps_updated num="14">NOTE: If the ganache has hardened while you were making the pancakes, you can microwave it for 15-20 seconds. </steps_updated>
+    <steps_updated num="15">Garnish with raspberries. </steps_updated>
+    <steps_updated num="16">Enjoy ! </steps_updated>
+  </steps_updated>
+</recipe>

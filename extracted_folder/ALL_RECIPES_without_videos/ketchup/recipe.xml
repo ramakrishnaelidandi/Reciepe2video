@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ketchup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ketchup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">24 oz ; tomato paste ; (680 g) </ingredient>
+    <ingredient num="1">½ cup ; light brown sugar, packed ; (110 g) </ingredient>
+    <ingredient num="2">½ cup ; dark molasses ; (170 g) </ingredient>
+    <ingredient num="3">1 ½ teaspoons ; garlic powder </ingredient>
+    <ingredient num="4">1 ½ teaspoons ; onion powder </ingredient>
+    <ingredient num="5">½ teaspoon ; mustard powder </ingredient>
+    <ingredient num="6">¼ teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="7">½ teaspoon ; ground allspice </ingredient>
+    <ingredient num="8">3 tablespoons ; worcestershire sauce </ingredient>
+    <ingredient num="9">½ cup ; apple cider vinegar ; (120 mL) </ingredient>
+    <ingredient num="10">1 tablespoon ; kosher salt </ingredient>
+    <ingredient num="11">1 cup ; filtered water ; (240 mL) </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/129120/hls24_1554414486.m3u8</low>
+    <high>https://vid.tasty.co/output/129120/landscape_720/1554414486</high>
+  </video>
+  <steps>
+    <step num="0">In a large, shallow saucepan, combine the tomato paste, brown sugar, molasses, garlic powder, onion powder, mustard powder, cinnamon, allspice, Worcestershire sauce, vinegar, salt, and water. Bring to a low boil over medium heat, stirring occasionally to prevent burning. Cook for 25-30 minutes, until reduced by about a quarter. The ketchup should be thick and spreadable. Let cool completely. </step>
+    <step num="1">Transfer to a clean, airtight container and store in the refrigerator. The ketchup should keep for up to 3 weeks. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large, shallow saucepan, combine the tomato paste, brown sugar, molasses, garlic powder, onion powder, mustard powder, cinnamon, allspice, Worcestershire sauce, vinegar, salt, and water. </steps_updated>
+    <steps_updated num="1">Bring to a low boil over medium heat, stirring occasionally to prevent burning. </steps_updated>
+    <steps_updated num="2">Cook for 25-30 minutes, until reduced by about a quarter. </steps_updated>
+    <steps_updated num="3">The ketchup should be thick and spreadable. </steps_updated>
+    <steps_updated num="4">Let cool completely. </steps_updated>
+    <steps_updated num="5">Transfer to a clean, airtight container and store in the refrigerator. </steps_updated>
+    <steps_updated num="6">The ketchup should keep for up to 3 weeks. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

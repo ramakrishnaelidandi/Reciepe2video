@@ -1,0 +1,56 @@
+<recipe>
+  <title>Mini Corn Dogs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-corn-dogs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 9723 13278 9018 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="3">4061 2031 13278 10765 11703 </ingredient>
+    <ingredient num="4">12791 8071 13278 82 </ingredient>
+    <ingredient num="5">11216 8071 13278 7845 </ingredient>
+    <ingredient num="6">3917 13278 6216 </ingredient>
+    <ingredient num="7">3917 2605 13278 5802 13278 12462 8007 </ingredient>
+    <ingredient num="8">2933 13278 6222 14281 </ingredient>
+    <ingredient num="9">3917 14014 13278 890 </ingredient>
+    <ingredient num="10">3917 2952 13278 4168 7632 7990 5291 13278 3798 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30710/low_1493751321.m3u8</low>
+    <high>https://vid.tasty.co/output/30710/mp4_720x1280/1493751321</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 6043 3624 14511 8341 3626 5316 295 </step>
+    <step num="1">10993 740 11951 6216 13817 9529 12473 1681 4428 9490 6873 1391 6728 4859 13817 1780 210 7111 7990 2800 12689 </step>
+    <step num="2">14100 11951 6222 14281 669 1813 13009 13817 6798 210 890 560 5829 4428 560 1297 560 11951 1710 </step>
+    <step num="3">3915 5766 560 5651 8614 </step>
+    <step num="4">2368 890 1636 6222 14281 669 3183 11056 4428 5569 10104 5994 11206 6823 11901 560 7568 6798 11951 14281 432 5291 210 11951 14158 </step>
+    <step num="5">8916 7811 5651 455 7990 199 8927 5895 1681 10963 2147 2715 5422 8224 11003 5994 6436 5028 1798 5895 5994 6656 371 4875 560 9991 11951 2822 3183 1710 </step>
+    <step num="6">9837 3482 1198 5766 1391 12 3566 </step>
+    <step num="7">12774 1391 11801 371 4068 5895 11682 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 6043 3624 14511 8341 3626 5316 295 </steps_updated>
+    <steps_updated num="1">10993 740 11951 6216 13817 9529 </steps_updated>
+    <steps_updated num="2">12473 1681 4428 9490 6873 1391 6728 4859 13817 1780 210 7111 7990 2800 12689 </steps_updated>
+    <steps_updated num="3">14100 11951 6222 14281 669 1813 13009 13817 6798 210 890 560 5829 4428 560 1297 560 11951 1710 </steps_updated>
+    <steps_updated num="4">3915 5766 560 5651 8614 </steps_updated>
+    <steps_updated num="5">2368 890 1636 6222 14281 669 3183 11056 4428 5569 10104 5994 11206 </steps_updated>
+    <steps_updated num="6">6823 11901 560 7568 6798 11951 14281 432 5291 210 11951 14158 </steps_updated>
+    <steps_updated num="7">8916 7811 5651 455 7990 199 8927 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="8">2715 5422 8224 11003 5994 6436 5028 1798 5895 5994 6656 371 4875 560 9991 11951 2822 3183 1710 </steps_updated>
+    <steps_updated num="9">9837 3482 1198 5766 1391 12 3566 </steps_updated>
+    <steps_updated num="10">12774 1391 11801 371 4068 5895 11682 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

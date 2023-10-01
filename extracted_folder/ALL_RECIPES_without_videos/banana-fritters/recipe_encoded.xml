@@ -1,0 +1,52 @@
+<recipe>
+  <title>Banana Fritters Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-fritters</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-desserts-to-make-with-ripe-bananas</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 11728 1938 4125 </ingredient>
+    <ingredient num="1">3917 2605 13278 2650 10968 13278 9373 5981 </ingredient>
+    <ingredient num="2">1580 8071 13278 12425 </ingredient>
+    <ingredient num="3">9883 2605 13278 5802 13278 7642 8007 </ingredient>
+    <ingredient num="4">7632 7990 5291 </ingredient>
+    <ingredient num="5">6885 6145 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54120/low_1506633610.m3u8</low>
+    <high>https://vid.tasty.co/output/54120/mp4_720x1280/1506633610</high>
+  </video>
+  <duration>
+    <start_time>0.029999999999999805</start_time>
+    <end_time>33.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 3624 14511 11003 5994 1514 560 13663 11951 8024 </step>
+    <step num="1">9179 210 2650 3446 12425 13817 9529 283 3626 1681 4309 </step>
+    <step num="2">8916 210 14158 11059 3917 14014 4884 1244 </step>
+    <step num="3">264 7990 6285 6865 8927 1681 6665 12573 10963 1368 13817 3745 7492 11951 2336 </step>
+    <step num="4">6252 6885 8525 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 3624 14511 11003 5994 1514 560 13663 11951 8024 </steps_updated>
+    <steps_updated num="1">9179 210 2650 3446 12425 13817 9529 </steps_updated>
+    <steps_updated num="2">283 3626 1681 4309 </steps_updated>
+    <steps_updated num="3">8916 210 14158 </steps_updated>
+    <steps_updated num="4">11059 3917 14014 4884 1244 </steps_updated>
+    <steps_updated num="5">264 7990 6285 6865 8927 1681 6665 12573 10963 1368 13817 3745 7492 11951 2336 </steps_updated>
+    <steps_updated num="6">6252 6885 8525 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00047</start_time>
+    <end_time>01034</end_time>
+  </duration_human>
+</recipe>

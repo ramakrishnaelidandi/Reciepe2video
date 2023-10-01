@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Barbecue Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-barbecue-sauce</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; medium white onion, diced </ingredient>
+    <ingredient num="1">3 cloves ; garlic, roughly chopped </ingredient>
+    <ingredient num="2">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="3">2 cups ; ketchup, homemade or store-bought ; (480 g) </ingredient>
+    <ingredient num="4">1 cup ; apple cider vinegar ; (240 mL) </ingredient>
+    <ingredient num="5">1 cup ; honey ; (335 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; dry mustard powder </ingredient>
+    <ingredient num="7">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="8">1 teaspoon ; freshly ground black pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">BBQ</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129118/hls24_1554414413.m3u8</low>
+    <high>https://vid.tasty.co/output/129118/landscape_720/1554414413</high>
+  </video>
+  <steps>
+    <step num="0">In a large, shallow saucepan, combine the onion, garlic, and water. Cook over medium heat until the onion is translucent and softened, about 5 minutes. </step>
+    <step num="1">Add the ketchup, apple cider vinegar, honey, and mustard powder. Continue cooking for 20 minutes, until the sauce is thickened. Season with salt and pepper. </step>
+    <step num="2">Remove the pan from the heat. Using an immersion blender, puree the sauce until smooth. Let cool completely, about 25 minutes. </step>
+    <step num="3">Transfer to a clean airtight container and store in the refrigerator. The barbecue sauce will keep for up to 4 days. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large, shallow saucepan, combine the onion, garlic, and water. </steps_updated>
+    <steps_updated num="1">Cook over medium heat until the onion is translucent and softened, about 5 minutes. </steps_updated>
+    <steps_updated num="2">Add the ketchup, apple cider vinegar, honey, and mustard powder. </steps_updated>
+    <steps_updated num="3">Continue cooking for 20 minutes, until the sauce is thickened. </steps_updated>
+    <steps_updated num="4">Season with salt and pepper. </steps_updated>
+    <steps_updated num="5">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="6">Using an immersion blender, puree the sauce until smooth. </steps_updated>
+    <steps_updated num="7">Let cool completely, about 25 minutes. </steps_updated>
+    <steps_updated num="8">Transfer to a clean airtight container and store in the refrigerator. </steps_updated>
+    <steps_updated num="9">The barbecue sauce will keep for up to 4 days. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Barbecue Beer Can Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-beer-can-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; brown sugar ; (75 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; onion powder </ingredient>
+    <ingredient num="2">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="3">1 teaspoon ; mustard powder </ingredient>
+    <ingredient num="4">2 teaspoons ; smoked paprika </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">2 teaspoons ; dried tarragon </ingredient>
+    <ingredient num="7">2 teaspoons ; salt </ingredient>
+    <ingredient num="8">5 lb ; whole chicken, 1 whole chicken, gizzards removed ; (2 ¼ kg) </ingredient>
+    <ingredient num="9">1 can ; beer </ingredient>
+    <ingredient num="10">½ cup ; barbecue sauce ; (145 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45728/low_1501610489.m3u8</low>
+    <high>https://vid.tasty.co/output/45728/mp4_720x1280/1501610489</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, add the brown sugar, onion powder, garlic powder, mustard powder, smoked paprika, pepper, tarragon, and salt and stir to combine. Use half of the spice rub to season the entire chicken. Cover with plastic wrap and refrigerate for at least 2 hours or up to overnight. </step>
+    <step num="1">Preheat the grill to 350°F (190°C). </step>
+    <step num="2">Remove the chicken from the fridge and season with the remaining spice rub. our out half the can of beer. Place the half-filled can in the chicken cavity and stand it upright. </step>
+    <step num="3">Grill the chicken over indirect heat for 30-40 minutes. Baste the chicken with barbecue sauce and cook for another 10-15 minutes, until the internal temperature reaches 165°F (75°C). </step>
+    <step num="4">Remove chicken from the grill and let rest for 15 minutes before carving. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add the brown sugar, onion powder, garlic powder, mustard powder, smoked paprika, pepper, tarragon, and salt and stir to combine. </steps_updated>
+    <steps_updated num="1">Use half of the spice rub to season the entire chicken. </steps_updated>
+    <steps_updated num="2">Cover with plastic wrap and refrigerate for at least 2 hours or up to overnight. </steps_updated>
+    <steps_updated num="3">Preheat the grill to 350°F (190°C). </steps_updated>
+    <steps_updated num="4">Remove the chicken from the fridge and season with the remaining spice rub. </steps_updated>
+    <steps_updated num="5">our out half the can of beer. </steps_updated>
+    <steps_updated num="6">Place the half-filled can in the chicken cavity and stand it upright. </steps_updated>
+    <steps_updated num="7">Grill the chicken over indirect heat for 30-40 minutes. </steps_updated>
+    <steps_updated num="8">Baste the chicken with barbecue sauce and cook for another 10-15 minutes, until the internal temperature reaches 165°F (75°C). </steps_updated>
+    <steps_updated num="9">Remove chicken from the grill and let rest for 15 minutes before carving. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

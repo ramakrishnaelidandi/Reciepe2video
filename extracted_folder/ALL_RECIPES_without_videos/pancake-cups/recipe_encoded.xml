@@ -1,0 +1,39 @@
+<recipe>
+  <title>Pancake Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pancake-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 890 13278 13125 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="2">13086 13278 12708 </ingredient>
+    <ingredient num="3">8580 9486 13278 10907 5335 </ingredient>
+    <ingredient num="4">1580 8071 13278 1319 </ingredient>
+    <ingredient num="5">3297 371 12313 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32187/low_1495125461.m3u8</low>
+    <high>https://vid.tasty.co/output/32187/mp4_720x1280/1495125461</high>
+  </video>
+  <steps>
+    <step num="0">3262 8554 11907 210 5994 12027 1681 2043 4309 </step>
+    <step num="1">877 8794 8554 11951 9517 371 5994 2362 12841 2860 9517 217 11484 6285 1813 11177 </step>
+    <step num="2">7831 7811 6953 7990 2106 12689 8056 217 8247 3386 3041 4269 415 7976 10570 1762 5103 3755 6781 11951 2378 </step>
+    <step num="3">1349 1391 10569 1762 12945 6504 13817 1285 8932 13817 14463 4437 5895 9282 13817 279 5808 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3262 8554 11907 210 5994 12027 1681 2043 4309 </steps_updated>
+    <steps_updated num="1">877 8794 8554 11951 9517 371 5994 2362 12841 2860 9517 217 11484 6285 1813 11177 </steps_updated>
+    <steps_updated num="2">7831 7811 6953 7990 2106 12689 </steps_updated>
+    <steps_updated num="3">8056 217 8247 3386 3041 4269 415 7976 10570 1762 5103 3755 6781 11951 2378 </steps_updated>
+    <steps_updated num="4">1349 1391 10569 1762 12945 6504 13817 1285 8932 13817 14463 4437 5895 9282 13817 279 5808 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

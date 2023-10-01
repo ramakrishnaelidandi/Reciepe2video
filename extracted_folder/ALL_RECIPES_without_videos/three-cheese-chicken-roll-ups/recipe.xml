@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Three-Cheese Chicken Roll-ups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/three-cheese-chicken-roll-ups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cloves ; garlic </ingredient>
+    <ingredient num="1">2 cups ; spinach ; (80 g) </ingredient>
+    <ingredient num="2">½ cup ; ricotta cheese ; (125 g) </ingredient>
+    <ingredient num="3">¼ cup ; parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="4">4 ; chicken breasts, thinly sliced </ingredient>
+    <ingredient num="5">2 ; eggs, beaten </ingredient>
+    <ingredient num="6">1 cup ; seasoned breadcrumbs ; (115 g) </ingredient>
+    <ingredient num="7">1 cup ; marinara sauce ; (260 g) </ingredient>
+    <ingredient num="8">4 slices ; mozzarella cheese </ingredient>
+    <ingredient num="9">fresh basil, chopped </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32145/low_1495125400.m3u8</low>
+    <high>https://vid.tasty.co/output/32145/mp4_720x1280/1495125400</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450°F (230°C). </step>
+    <step num="1">Sauté the garlic and spinach in oil until the spinach wilts. Add the ricotta, parmesan, salt, and pepper, and stir until heated. </step>
+    <step num="2">Salt and pepper the chicken breasts, add the cheese mixture, and roll ‘em up. </step>
+    <step num="3">Dip each chicken breast roll-up in the egg, then the breadcrumbs, and place in a 8×8 (20 x 20 cm) or 9×9 (22 x 22 cm) baking dish seam side down. </step>
+    <step num="4">Bake for 25 minutes. </step>
+    <step num="5">Remove from oven and top with marinara sauce and mozzarella. Bake an additional 5 minutes. Remove from oven and top with basil. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450°F (230°C). </steps_updated>
+    <steps_updated num="1">Sauté the garlic and spinach in oil until the spinach wilts. </steps_updated>
+    <steps_updated num="2">Add the ricotta, parmesan, salt, and pepper, and stir until heated. </steps_updated>
+    <steps_updated num="3">Salt and pepper the chicken breasts, add the cheese mixture, and roll ‘em up. </steps_updated>
+    <steps_updated num="4">Dip each chicken breast roll-up in the egg, then the breadcrumbs, and place in a 8×8 (20 x 20 cm) or 9×9 (22 x 22 cm) baking dish seam side down. </steps_updated>
+    <steps_updated num="5">Bake for 25 minutes. </steps_updated>
+    <steps_updated num="6">Remove from oven and top with marinara sauce and mozzarella. </steps_updated>
+    <steps_updated num="7">Bake an additional 5 minutes. </steps_updated>
+    <steps_updated num="8">Remove from oven and top with basil. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet And Sour Pork Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-and-sour-pork</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ lb ; pork, chopped into bite size pieces ; (200 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; corn flour </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">1 cup ; corn flour ; (100 g) </ingredient>
+    <ingredient num="5">2 ½ cups ; oil ; (500 mL) </ingredient>
+    <ingredient num="6">2 tablespoons ; oil </ingredient>
+    <ingredient num="7">2 teaspoons ; garlic, crushed </ingredient>
+    <ingredient num="8">½ ; green bell pepper, chopped </ingredient>
+    <ingredient num="9">½ ; red bell pepper, chopped </ingredient>
+    <ingredient num="10">⅔ cup ; pineapple ; (150 g) </ingredient>
+    <ingredient num="11">¼ cup ; white caster sugar ; (50 g) </ingredient>
+    <ingredient num="12">¼ cup ; rice vinegar ; (50 mL) </ingredient>
+    <ingredient num="13">2 tablespoons ; ketchup </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54479/low_1506963655.m3u8</low>
+    <high>https://vid.tasty.co/output/54479/mp4_720x1280/1506963655</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, combine all marinade ingredients with the pork. Cover and leave to marinade in the fridge 20 minutes. </step>
+    <step num="1">Place the corn flour in a large bowl and toss the marinated pork chunks until liberally coated. </step>
+    <step num="2">In a medium-sized saucepan, heat the oil to 350˚F (180°C). </step>
+    <step num="3">Deep fry the pork pieces for about 3-4 minutes until the coating is golden brown and the pork is cooked throughout. Set aside. </step>
+    <step num="4">For the sauce, place a frying pan over a medium heat and add the oil. </step>
+    <step num="5">Sauté the garlic until fragrant, then fry the peppers until soften. </step>
+    <step num="6">Add in the pineapple and warm thorough. </step>
+    <step num="7">Add the sugar, vinegar, and ketchup, stir. Bring the mixture to a boil. </step>
+    <step num="8">Add the pork to the frying pan and coat everything evenly with the sauce. </step>
+    <step num="9">Serve top with sesame seeds. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, combine all marinade ingredients with the pork. </steps_updated>
+    <steps_updated num="1">Cover and leave to marinade in the fridge 20 minutes. </steps_updated>
+    <steps_updated num="2">Place the corn flour in a large bowl and toss the marinated pork chunks until liberally coated. </steps_updated>
+    <steps_updated num="3">In a medium-sized saucepan, heat the oil to 350˚F (180°C). </steps_updated>
+    <steps_updated num="4">Deep fry the pork pieces for about 3-4 minutes until the coating is golden brown and the pork is cooked throughout. </steps_updated>
+    <steps_updated num="5">Set aside. </steps_updated>
+    <steps_updated num="6">For the sauce, place a frying pan over a medium heat and add the oil. </steps_updated>
+    <steps_updated num="7">Sauté the garlic until fragrant, then fry the peppers until soften. </steps_updated>
+    <steps_updated num="8">Add in the pineapple and warm thorough. </steps_updated>
+    <steps_updated num="9">Add the sugar, vinegar, and ketchup, stir. </steps_updated>
+    <steps_updated num="10">Bring the mixture to a boil. </steps_updated>
+    <steps_updated num="11">Add the pork to the frying pan and coat everything evenly with the sauce. </steps_updated>
+    <steps_updated num="12">Serve top with sesame seeds. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

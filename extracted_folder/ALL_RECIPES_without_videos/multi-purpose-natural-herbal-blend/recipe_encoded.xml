@@ -1,0 +1,28 @@
+<recipe>
+  <title>Multi-Purpose Natural Herbal Blend Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/multi-purpose-natural-herbal-blend</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 3878 13278 12237 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 3349 13278 13125 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 10579 14157 13278 12237 5981 </ingredient>
+    <ingredient num="3">8580 9486 13278 913 </ingredient>
+    <ingredient num="4">7402 6661 13796 5301 5895 6661 731 </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/91589/hls24_1524851708.m3u8</low>
+    <high>https://vid.tasty.co/output/91589/landscape_720/1524851708</high>
+  </video>
+  <steps>
+    <step num="0">10895 5663 14301 10579 9232 13817 913 210 5994 7616 </step>
+    <step num="1">9679 8580 13728 5895 13218 8793 669 10763 13796 12854 13817 10697 3936 </step>
+    <step num="2">10434 210 2237 2759 3801 13817 11003 2658 10283 7156 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 5663 14301 10579 9232 13817 913 210 5994 7616 </steps_updated>
+    <steps_updated num="1">9679 8580 13728 5895 13218 8793 669 10763 13796 12854 13817 10697 3936 </steps_updated>
+    <steps_updated num="2">10434 210 2237 2759 3801 13817 11003 2658 10283 7156 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

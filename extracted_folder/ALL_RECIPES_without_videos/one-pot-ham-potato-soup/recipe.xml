@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pot Ham &amp; Potato Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-ham-potato-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 strips ; bacon, cut into 1-inch (2 cm) pieces </ingredient>
+    <ingredient num="1">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">1 cup ; carrot, diced ; (120 g) </ingredient>
+    <ingredient num="3">1 cup ; celery, diced ; (225 g) </ingredient>
+    <ingredient num="4">3 tablespoons ; flour </ingredient>
+    <ingredient num="5">2 cups ; ham, cooked and cubed ; (300 g) </ingredient>
+    <ingredient num="6">2 ; potatoes, cubed </ingredient>
+    <ingredient num="7">1 teaspoon ; fresh thyme </ingredient>
+    <ingredient num="8">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="9">6 cups ; chicken broth ; (1.4 L) </ingredient>
+    <ingredient num="10">2 ; bay leaves </ingredient>
+    <ingredient num="11">2 cups ; heavy cream ; (480 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19770/low_1483483711.m3u8</low>
+    <high>https://vid.tasty.co/output/19770/mp4_720x1280/1483483711</high>
+  </video>
+  <steps>
+    <step num="0">In a 6-quart (5.7 liters) dutch oven, cook bacon over medium-high heat until fat is rendered out and the pieces begin to get crispy. </step>
+    <step num="1">Add onion, carrot, and celery, and cook until just tender, about 3 minutes. </step>
+    <step num="2">Reduce heat to medium and add flour, stirring constantly for 1-2 minutes to avoid lumps. </step>
+    <step num="3">Add ham, potatoes, thyme, and black pepper. Stir to coat the meat and potatoes in the roux/vegetable mix. </step>
+    <step num="4">Add the chicken broth and bay leaves. </step>
+    <step num="5">Cover and bring to a boil. Then reduce heat to medium-low and cook covered for 25-30 minutes. </step>
+    <step num="6">Remove bay leaves and stir in cream. Return to a simmer and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a 6-quart (5.7 liters) dutch oven, cook bacon over medium-high heat until fat is rendered out and the pieces begin to get crispy. </steps_updated>
+    <steps_updated num="1">Add onion, carrot, and celery, and cook until just tender, about 3 minutes. </steps_updated>
+    <steps_updated num="2">Reduce heat to medium and add flour, stirring constantly for 1-2 minutes to avoid lumps. </steps_updated>
+    <steps_updated num="3">Add ham, potatoes, thyme, and black pepper. </steps_updated>
+    <steps_updated num="4">Stir to coat the meat and potatoes in the roux/vegetable mix. </steps_updated>
+    <steps_updated num="5">Add the chicken broth and bay leaves. </steps_updated>
+    <steps_updated num="6">Cover and bring to a boil. </steps_updated>
+    <steps_updated num="7">Then reduce heat to medium-low and cook covered for 25-30 minutes. </steps_updated>
+    <steps_updated num="8">Remove bay leaves and stir in cream. </steps_updated>
+    <steps_updated num="9">Return to a simmer and serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

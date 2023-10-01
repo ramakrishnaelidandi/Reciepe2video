@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon and Pecan Cheeseball Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-and-pecan-cheeseball</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">250 g ; cream cheese ; 250 g </ingredient>
+    <ingredient num="1">2 ¼ cups ; mature cheddar, grated ; (250 g) </ingredient>
+    <ingredient num="2">¼ cup ; blue cheese ; (30 g) </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">1 ; red pepper, finely chopped, divided </ingredient>
+    <ingredient num="6">2 ; spring onions, finely chopped </ingredient>
+    <ingredient num="7">¾ cup ; chopped pecans, divided ; (100 g) </ingredient>
+    <ingredient num="8">4 slices ; cooked bacon, chopped, divided </ingredient>
+    <ingredient num="9">¾ cup ; fresh parsley, chopped ; (25 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; poppy seed </ingredient>
+    <ingredient num="11">crackers, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32092/low_1495125341.m3u8</low>
+    <high>https://vid.tasty.co/output/32092/mp4_720x1280/1495125341</high>
+  </video>
+  <steps>
+    <step num="0">Put all of the cheese, a bit of salt, and a pepper into a big bowl and mix it all up with a fork. </step>
+    <step num="1">Add ½ of the red pepper, all of the spring onions, ½ of the pecans and ½ of the bacon in to the bowl and combine it with the cheese mixture. </step>
+    <step num="2">Pour the mixture onto a sheet of cling film and wrap it all up. Shape it into a ball and refrigerate for at least 1 hour. </step>
+    <step num="3">In a shallow bowl, mix together the rest of the red pepper, pecans, and the bacon along with all of the parsley and the poppy seeds. </step>
+    <step num="4">Remove the cling film from the cheeseball and roll it around the topping mixture until completely covered. </step>
+    <step num="5">Serve with a selection of crackers. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put all of the cheese, a bit of salt, and a pepper into a big bowl and mix it all up with a fork. </steps_updated>
+    <steps_updated num="1">Add ½ of the red pepper, all of the spring onions, ½ of the pecans and ½ of the bacon in to the bowl and combine it with the cheese mixture. </steps_updated>
+    <steps_updated num="2">Pour the mixture onto a sheet of cling film and wrap it all up. </steps_updated>
+    <steps_updated num="3">Shape it into a ball and refrigerate for at least 1 hour. </steps_updated>
+    <steps_updated num="4">In a shallow bowl, mix together the rest of the red pepper, pecans, and the bacon along with all of the parsley and the poppy seeds. </steps_updated>
+    <steps_updated num="5">Remove the cling film from the cheeseball and roll it around the topping mixture until completely covered. </steps_updated>
+    <steps_updated num="6">Serve with a selection of crackers. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

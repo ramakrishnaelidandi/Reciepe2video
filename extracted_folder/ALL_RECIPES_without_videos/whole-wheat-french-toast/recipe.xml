@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Whole Wheat French Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/whole-wheat-french-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffle-press-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; large eggs </ingredient>
+    <ingredient num="1">1 cup ; milk, of choice ; (240 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; maple syrup, plus more for serving </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">1 teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">8 slices ; whole wheat bread </ingredient>
+    <ingredient num="7">powdered sugar, for sprinkling </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81311/hls24_1519693104.m3u8</low>
+    <high>https://vid.tasty.co/output/81311/landscape_720/1519693104</high>
+  </video>
+  <duration>
+    <start_time>103.0</start_time>
+    <end_time>144.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat Griddler, fitted with the griddle plates, to 375°F (190°C), and grease with nonstick spray. </step>
+    <step num="1">Use a whisk to beat the eggs in a 9x13-inch (23x33-cm) casserole dish until smooth. </step>
+    <step num="2">Add the milk, maple syrup, vanilla, cinnamon, and salt, and whisk until smooth and well combined. </step>
+    <step num="3">Dunk the bread in the batter, 4 slices at a time, until just soaked. Do not let the bread soak in the wet ingredients too long or it will become too wet and fall apart when you attempt to pick it up. </step>
+    <step num="4">Transfer the soaked bread to the Griddler and cook for 10 minutes. </step>
+    <step num="5">Sprinkle with powdered sugar, drizzle with maple syrup, and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat Griddler, fitted with the griddle plates, to 375°F (190°C), and grease with nonstick spray. </steps_updated>
+    <steps_updated num="1">Use a whisk to beat the eggs in a 9x13-inch (23x33-cm) casserole dish until smooth. </steps_updated>
+    <steps_updated num="2">Add the milk, maple syrup, vanilla, cinnamon, and salt, and whisk until smooth and well combined. </steps_updated>
+    <steps_updated num="3">Dunk the bread in the batter, 4 slices at a time, until just soaked. </steps_updated>
+    <steps_updated num="4">Do not let the bread soak in the wet ingredients too long or it will become too wet and fall apart when you attempt to pick it up. </steps_updated>
+    <steps_updated num="5">Transfer the soaked bread to the Griddler and cook for 10 minutes. </steps_updated>
+    <steps_updated num="6">Sprinkle with powdered sugar, drizzle with maple syrup, and serve. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02513</start_time>
+    <end_time>03473</end_time>
+  </duration_human>
+</recipe>

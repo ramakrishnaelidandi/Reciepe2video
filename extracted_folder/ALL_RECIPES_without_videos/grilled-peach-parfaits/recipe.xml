@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Peach Parfaits Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-peach-parfaits</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffle-press-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; ripe peaches </ingredient>
+    <ingredient num="1">oil, for brushing </ingredient>
+    <ingredient num="2">greek yogurt, for serving </ingredient>
+    <ingredient num="3">honey, for serving </ingredient>
+    <ingredient num="4">granola, for serving </ingredient>
+    <ingredient num="5">fresh mint leaf, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81311/hls24_1519693104.m3u8</low>
+    <high>https://vid.tasty.co/output/81311/landscape_720/1519693104</high>
+  </video>
+  <duration>
+    <start_time>143.0</start_time>
+    <end_time>178.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat Griddler, fitted with the grill plates, to 425°F (220°C), and grease with nonstick spray. </step>
+    <step num="1">Using a sharp knife, slice the peaches in half, cutting around the pit. Twist the two halves to separate and discard the pits. </step>
+    <step num="2">Brush the cut sides of the peach halves with a bit of oil. </step>
+    <step num="3">Place the peaches, cut side down, on the Griddler and close the press so that the top plate is touching all the peaches evenly. </step>
+    <step num="4">Cook for 4 minutes, until the peaches have developed dark grill marks. </step>
+    <step num="5">Transfer the peaches to a serving plate and top with Greek yogurt, a drizzle of honey, and a sprinkle of granola. </step>
+    <step num="6">Garnish with mint leaves and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat Griddler, fitted with the grill plates, to 425°F (220°C), and grease with nonstick spray. </steps_updated>
+    <steps_updated num="1">Using a sharp knife, slice the peaches in half, cutting around the pit. </steps_updated>
+    <steps_updated num="2">Twist the two halves to separate and discard the pits. </steps_updated>
+    <steps_updated num="3">Brush the cut sides of the peach halves with a bit of oil. </steps_updated>
+    <steps_updated num="4">Place the peaches, cut side down, on the Griddler and close the press so that the top plate is touching all the peaches evenly. </steps_updated>
+    <steps_updated num="5">Cook for 4 minutes, until the peaches have developed dark grill marks. </steps_updated>
+    <steps_updated num="6">Transfer the peaches to a serving plate and top with Greek yogurt, a drizzle of honey, and a sprinkle of granola. </steps_updated>
+    <steps_updated num="7">Garnish with mint leaves and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03474</start_time>
+    <end_time>04270</end_time>
+  </duration_human>
+</recipe>

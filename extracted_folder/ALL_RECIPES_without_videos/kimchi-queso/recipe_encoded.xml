@@ -1,0 +1,51 @@
+<recipe>
+  <title>Kimchi Queso Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kimchi-queso</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 1580 9517 13278 11000 3962 13278 9473 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 11060 8083 7845 8117 13086 9064 5358 1762 665 3557 10534 </ingredient>
+    <ingredient num="2">2933 9517 13278 3333 9784 14538 13278 9990 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 1484 13033 13278 2583 5981 </ingredient>
+    <ingredient num="4">3917 13278 4985 12384 3962 </ingredient>
+    <ingredient num="5">6192 4832 7928 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Korean</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Appetizers</category>
+    <category num="8">Snacks</category>
+    <category num="9">Casual Party</category>
+    <category num="10">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32117/low_1495125352.m3u8</low>
+    <high>https://vid.tasty.co/output/32117/mp4_720x1280/1495125352</high>
+  </video>
+  <steps>
+    <step num="0">13190 2923 13817 3345 210 14511 817 5292 </step>
+    <step num="1">10950 5994 13757 7110 6983 9784 14538 8162 10772 7142 10719 1954 12386 9801 8161 2570 </step>
+    <step num="2">9179 11951 1484 5808 12305 13817 6142 1681 11951 2373 9490 12119 </step>
+    <step num="3">9179 11951 8083 7845 11703 13817 6142 1681 3584 6151 </step>
+    <step num="4">9179 2923 13817 11779 1681 3584 13592 13817 12119 12450 881 6781 11951 2923 5401 11213 11951 10381 5312 11951 8407 9490 7879 4861 1648 13817 13328 5966 8927 13817 3557 217 6873 5943 </step>
+    <step num="5">12774 9808 1391 3962 4985 12034 4546 3874 1391 10803 12188 14303 5895 2411 669 11951 10984 14598 1818 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">13190 2923 13817 3345 210 14511 817 5292 </steps_updated>
+    <steps_updated num="1">10950 5994 13757 7110 6983 9784 14538 8162 10772 7142 10719 1954 12386 9801 8161 2570 </steps_updated>
+    <steps_updated num="2">9179 11951 1484 5808 </steps_updated>
+    <steps_updated num="3">12305 13817 6142 1681 11951 2373 9490 12119 </steps_updated>
+    <steps_updated num="4">9179 11951 8083 7845 11703 13817 6142 1681 3584 6151 </steps_updated>
+    <steps_updated num="5">9179 2923 13817 11779 1681 3584 13592 13817 12119 </steps_updated>
+    <steps_updated num="6">12450 881 6781 11951 2923 5401 11213 11951 10381 5312 11951 8407 9490 7879 4861 1648 13817 13328 5966 8927 13817 3557 217 6873 5943 </steps_updated>
+    <steps_updated num="7">12774 9808 1391 3962 4985 12034 </steps_updated>
+    <steps_updated num="8">4546 3874 1391 10803 12188 14303 5895 2411 669 11951 10984 14598 1818 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

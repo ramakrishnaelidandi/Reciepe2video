@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Fennel And Sausage Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-fennel-and-sausage-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-seasonal-recipes-to-try-in-may</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; hot italian sausage ; (455 g) </ingredient>
+    <ingredient num="1">1 ; large onion, sliced thin </ingredient>
+    <ingredient num="2">5 cloves ; garlic, sliced </ingredient>
+    <ingredient num="3">1 ; fennel bulb, sliced thin </ingredient>
+    <ingredient num="4">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">6 oz ; tomato paste ; (170 g) </ingredient>
+    <ingredient num="8">14 ½ oz ; canned chopped tomato ; (410 g) </ingredient>
+    <ingredient num="9">1 lb ; orecchiette pasta, cooked ; (455 g) </ingredient>
+    <ingredient num="10">½ cup ; shaved paresan cheese ; (55 g) </ingredient>
+    <ingredient num="11">1 cup ; mozzarella pearl ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+    <category num="1">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30354/low_1493397144.m3u8</low>
+    <high>https://vid.tasty.co/output/30354/mp4_720x1280/1493397144</high>
+  </video>
+  <duration>
+    <start_time>80.0</start_time>
+    <end_time>126.4</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the sausage to a large pot on medium high. Cook until browned. Remove temporarily from the pot. </step>
+    <step num="1">Add sliced fennel, onion, garlic, oregano, salt and pepper. Cook until the onions and fennel are golden and caramelized. </step>
+    <step num="2">Add the tomato paste, chopped tomatoes, and meat. Stir and cook until the tomato paste has darkened and is aromatic. </step>
+    <step num="3">Bring to a boil, reduce to simmer, and cook until the sauce thickens slightly. </step>
+    <step num="4">Add the cooked pasta, the grated parmesan, and the mozzarella pearls. Stir until well combined and heated through. </step>
+    <step num="5">Garnish with fennel fronds, (the green leaves of the fennel bulb). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the sausage to a large pot on medium high. </steps_updated>
+    <steps_updated num="1">Cook until browned. </steps_updated>
+    <steps_updated num="2">Remove temporarily from the pot. </steps_updated>
+    <steps_updated num="3">Add sliced fennel, onion, garlic, oregano, salt and pepper. </steps_updated>
+    <steps_updated num="4">Cook until the onions and fennel are golden and caramelized. </steps_updated>
+    <steps_updated num="5">Add the tomato paste, chopped tomatoes, and meat. </steps_updated>
+    <steps_updated num="6">Stir and cook until the tomato paste has darkened and is aromatic. </steps_updated>
+    <steps_updated num="7">Bring to a boil, reduce to simmer, and cook until the sauce thickens slightly. </steps_updated>
+    <steps_updated num="8">Add the cooked pasta, the grated parmesan, and the mozzarella pearls. </steps_updated>
+    <steps_updated num="9">Stir until well combined and heated through. </steps_updated>
+    <steps_updated num="10">Garnish with fennel fronds, (the green leaves of the fennel bulb). </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01625</start_time>
+    <end_time>03821</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tofu Turkey Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-turkey</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">14 oz ; extra firm tofu ; (400 g) </ingredient>
+    <ingredient num="1">¾ cup ; pinto bean ; (130 g) </ingredient>
+    <ingredient num="2">6 tablespoons ; nutritional yeast </ingredient>
+    <ingredient num="3">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="4">1 tablespoon ; poultry seasoning </ingredient>
+    <ingredient num="5">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="6">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper </ingredient>
+    <ingredient num="8">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="9">1 cup ; low sodium vegetable broth ; (240 mL) </ingredient>
+    <ingredient num="10">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="11">2 ½ cups ; vital wheat gluten ; (310 g) </ingredient>
+    <ingredient num="12">½ cup ; vegan stuffing ; (100 g) </ingredient>
+    <ingredient num="13">gravy, for serving </ingredient>
+    <ingredient num="14">2 ; wooden skewers </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121047/hls24_1545421707.m3u8</low>
+    <high>https://vid.tasty.co/output/121047/landscape_720/1545421707</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 375°F (190°C). </step>
+    <step num="1">Soak the wooden skewers in water to prevent them from burning when baking. </step>
+    <step num="2">Crumble the tofu into a medium bowl lined with a dish towel. Gather the sides of the dish towel and squeeze out as much liquid as possible from the tofu. </step>
+    <step num="3">To a food processor, add the pinto beans, drained tofu, nutritional yeast, soy sauce, poultry seasoning, garlic, salt, pepper, onion powder, and vegetable broth and puree until smooth. With the processor running, pour in the olive oil and continue blending until incorporated. </step>
+    <step num="4">Add the vital wheat gluten to a large bowl, add the mixture from the food processor, and stir until the dough comes together enough that it can be kneaded. Knead for 1-2 minutes, until most of the cracks have disappeared, then turn out onto a clean surface and shape into a ball. Cut off about ¼ of the dough with a bench scraper and set aside. </step>
+    <step num="5">Transfer the remaining dough to a small glass bowl. Using your hands, form a hole in the center and evenly stretch the edges to help it expand to about 3-4 inches (8 cm) in diameter. </step>
+    <step num="6">Scoop the stuffing into the well, then stretch the sides of the dough over the stuffing to encase completely. </step>
+    <step num="7">Wrap the tofu turkey in parchment paper, then in foil. </step>
+    <step num="8">Divide the reserved dough in half and shape into 2 drumsticks. Insert a wooden skewer in each one. Wrap the drumsticks in parchment paper, then foil. </step>
+    <step num="9">Set the tofu turkey and drumsticks on a baking sheet and bake for 1 hour, flipping every 20 minutes. Remove the drumsticks after 40 minutes. </step>
+    <step num="10">Serve with gravy. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Soak the wooden skewers in water to prevent them from burning when baking. </steps_updated>
+    <steps_updated num="2">Crumble the tofu into a medium bowl lined with a dish towel. </steps_updated>
+    <steps_updated num="3">Gather the sides of the dish towel and squeeze out as much liquid as possible from the tofu. </steps_updated>
+    <steps_updated num="4">To a food processor, add the pinto beans, drained tofu, nutritional yeast, soy sauce, poultry seasoning, garlic, salt, pepper, onion powder, and vegetable broth and puree until smooth. </steps_updated>
+    <steps_updated num="5">With the processor running, pour in the olive oil and continue blending until incorporated. </steps_updated>
+    <steps_updated num="6">Add the vital wheat gluten to a large bowl, add the mixture from the food processor, and stir until the dough comes together enough that it can be kneaded. </steps_updated>
+    <steps_updated num="7">Knead for 1-2 minutes, until most of the cracks have disappeared, then turn out onto a clean surface and shape into a ball. </steps_updated>
+    <steps_updated num="8">Cut off about ¼ of the dough with a bench scraper and set aside. </steps_updated>
+    <steps_updated num="9">Transfer the remaining dough to a small glass bowl. </steps_updated>
+    <steps_updated num="10">Using your hands, form a hole in the center and evenly stretch the edges to help it expand to about 3-4 inches (8 cm) in diameter. </steps_updated>
+    <steps_updated num="11">Scoop the stuffing into the well, then stretch the sides of the dough over the stuffing to encase completely. </steps_updated>
+    <steps_updated num="12">Wrap the tofu turkey in parchment paper, then in foil. </steps_updated>
+    <steps_updated num="13">Divide the reserved dough in half and shape into 2 drumsticks. </steps_updated>
+    <steps_updated num="14">Insert a wooden skewer in each one. </steps_updated>
+    <steps_updated num="15">Wrap the drumsticks in parchment paper, then foil. </steps_updated>
+    <steps_updated num="16">Set the tofu turkey and drumsticks on a baking sheet and bake for 1 hour, flipping every 20 minutes. </steps_updated>
+    <steps_updated num="17">Remove the drumsticks after 40 minutes. </steps_updated>
+    <steps_updated num="18">Serve with gravy. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

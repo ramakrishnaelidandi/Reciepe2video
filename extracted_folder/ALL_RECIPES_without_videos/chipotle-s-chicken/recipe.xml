@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chipotle's Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chipotle-s-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-diy-chipotle-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; boneless, skinless chicken thighs ; (455 g) </ingredient>
+    <ingredient num="1">kosher salt, to taste </ingredient>
+    <ingredient num="2">freshly ground black pepper, to tate </ingredient>
+    <ingredient num="3">6 oz ; chipotle pepper in adobo sauce, 1/2 can, finely chopped ; (170 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; vegetable oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103338/hls24_1532710728.m3u8</low>
+    <high>https://vid.tasty.co/output/103338/landscape_720/1532710728</high>
+  </video>
+  <duration>
+    <start_time>85.0</start_time>
+    <end_time>124.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">On a cutting board, season the chicken all over with salt and pepper. </step>
+    <step num="1">Transfer the chicken to a large zip-top bag with the chopped chipotles and mix until the chicken is fully coated. </step>
+    <step num="2">Refrigerate for at least 2 hours, up to overnight. </step>
+    <step num="3">Heat the oil in a large skillet over medium-high heat. </step>
+    <step num="4">Add the chicken and cook until golden brown, 4 minutes per side. </step>
+    <step num="5">Remove the chicken with tongs and place on a cutting board. Let cool for 5 minutes. Cut the chicken into bite-sized pieces. </step>
+    <step num="6">Transfer the chicken back to the pan over medium-high heat and cook, stirring frequently, for 2-3 minutes, until all pieces are browned. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, season the chicken all over with salt and pepper. </steps_updated>
+    <steps_updated num="1">Transfer the chicken to a large zip-top bag with the chopped chipotles and mix until the chicken is fully coated. </steps_updated>
+    <steps_updated num="2">Refrigerate for at least 2 hours, up to overnight. </steps_updated>
+    <steps_updated num="3">Heat the oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="4">Add the chicken and cook until golden brown, 4 minutes per side. </steps_updated>
+    <steps_updated num="5">Remove the chicken with tongs and place on a cutting board. </steps_updated>
+    <steps_updated num="6">Let cool for 5 minutes. </steps_updated>
+    <steps_updated num="7">Cut the chicken into bite-sized pieces. </steps_updated>
+    <steps_updated num="8">Transfer the chicken back to the pan over medium-high heat and cook, stirring frequently, for 2-3 minutes, until all pieces are browned. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

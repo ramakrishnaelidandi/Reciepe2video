@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Brie Crostinis Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-brie-crostinis</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-party-appetizers-for-the-lazy-cook</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; baguette </ingredient>
+    <ingredient num="1">7 oz ; brie cheese, sliced ; (200 g) </ingredient>
+    <ingredient num="2">2 ; granny smith apples, thinly sliced </ingredient>
+    <ingredient num="3">½ cup ; candied walnuts, chopped ; (50 g) </ingredient>
+    <ingredient num="4">honey, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106496/hls24_1535067282.m3u8</low>
+    <high>https://vid.tasty.co/output/106496/landscape_720/1535067282</high>
+  </video>
+  <duration>
+    <start_time>54.0</start_time>
+    <end_time>78.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 550°F (285°C), or as high as your oven will go. Line a baking sheet with parchment paper. </step>
+    <step num="1">Using a serrated knife, slice the baguette crosswise on a slight diagonal into ½-inch (1 cm) slices. Transfer the baguette slices to the prepared baking sheet. </step>
+    <step num="2">Top each piece of bread with 1-2 slices of Brie cheese. </step>
+    <step num="3">Bake for 5 minutes, or until Brie begins to bubble and the bread is toasted. </step>
+    <step num="4">Top each piece of bread with 1-2 apple slices and candied walnuts. Drizzle with honey. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 550°F (285°C), or as high as your oven will go. </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Using a serrated knife, slice the baguette crosswise on a slight diagonal into ½-inch (1 cm) slices. </steps_updated>
+    <steps_updated num="3">Transfer the baguette slices to the prepared baking sheet. </steps_updated>
+    <steps_updated num="4">Top each piece of bread with 1-2 slices of Brie cheese. </steps_updated>
+    <steps_updated num="5">Bake for 5 minutes, or until Brie begins to bubble and the bread is toasted. </steps_updated>
+    <steps_updated num="6">Top each piece of bread with 1-2 apple slices and candied walnuts. </steps_updated>
+    <steps_updated num="7">Drizzle with honey. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,48 @@
+<recipe>
+  <title>Pizza Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-waffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8883 643 13278 6146 12687 3917 8449 5895 9431 6146 8337 13278 8902 5981 </ingredient>
+    <ingredient num="1">4061 9486 13278 9122 2260 </ingredient>
+    <ingredient num="2">3917 2605 13278 3333 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="3">409 8535 13278 5243 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51247/low_1504720315.m3u8</low>
+    <high>https://vid.tasty.co/output/51247/mp4_720x1280/1504720315</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>17.62</end_time>
+  </duration>
+  <steps>
+    <step num="0">3235 11951 6146 8337 669 6735 14311 14243 415 14484 10763 9152 1339 </step>
+    <step num="1">5570 4061 13009 371 8337 669 5994 10945 2362 894 9757 </step>
+    <step num="2">2988 797 14014 371 1400 12791 2605 1936 14386 371 8111 13817 13086 8535 371 5243 4255 10763 9152 371 9453 </step>
+    <step num="3">13494 1391 11951 4061 374 13009 371 8337 13817 4510 </step>
+    <step num="4">264 7990 6175 11004 1681 10963 1240 415 8956 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 6146 8337 669 6735 14311 14243 415 14484 10763 9152 1339 </steps_updated>
+    <steps_updated num="1">5570 4061 13009 371 8337 669 5994 10945 2362 894 9757 </steps_updated>
+    <steps_updated num="2">2988 797 14014 371 1400 12791 2605 1936 14386 371 8111 13817 13086 8535 371 5243 4255 10763 9152 371 9453 </steps_updated>
+    <steps_updated num="3">13494 1391 11951 4061 374 13009 371 8337 13817 4510 </steps_updated>
+    <steps_updated num="4">264 7990 6175 11004 1681 10963 1240 415 8956 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00547</end_time>
+  </duration_human>
+</recipe>

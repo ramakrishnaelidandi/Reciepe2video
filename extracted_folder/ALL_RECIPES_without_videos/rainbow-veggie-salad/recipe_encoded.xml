@@ -1,0 +1,55 @@
+<recipe>
+  <title>Rainbow Veggie Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-veggie-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-chicken-parmesan-dinner-for-2</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 3173 2942 7334 3962 </ingredient>
+    <ingredient num="1">3917 2605 13278 8602 7042 10844 </ingredient>
+    <ingredient num="2">3917 2605 13278 5425 3333 </ingredient>
+    <ingredient num="3">3917 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="4">3917 13278 10837 976 9606 10844 </ingredient>
+    <ingredient num="5">1580 13278 8083 12384 341 </ingredient>
+    <ingredient num="6">13086 9486 13278 8083 13538 10769 </ingredient>
+    <ingredient num="7">13086 9486 13278 9586 </ingredient>
+    <ingredient num="8">13086 9486 13278 9260 6422 </ingredient>
+    <ingredient num="9">3917 14014 13278 796 5616 </ingredient>
+    <ingredient num="10">3917 13278 11384 6459 10015 </ingredient>
+    <ingredient num="11">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="12">12610 560 11567 </ingredient>
+    <ingredient num="13">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Sides</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23652/low_1486751842.m3u8</low>
+    <high>https://vid.tasty.co/output/23652/mp4_720x1280/1486751842</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>34.19</end_time>
+  </duration>
+  <steps>
+    <step num="0">12474 5994 4669 8667 7514 3173 371 6087 </step>
+    <step num="1">10950 5994 2597 14511 4120 11951 2080 7334 8602 7042 3333 8445 11091 1466 10986 10837 13817 341 8083 12034 </step>
+    <step num="2">10450 772 11951 3948 4120 11951 8083 13538 4450 14240 9260 5920 796 11227 4155 12610 13817 7845 210 5994 13757 14511 13817 8341 3626 1681 11951 11708 9490 13025 </step>
+    <step num="3">1083 11951 11708 11770 11951 11812 644 432 3044 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 7514 3173 371 6087 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 4120 11951 2080 7334 8602 7042 3333 8445 11091 1466 10986 10837 13817 341 8083 12034 </steps_updated>
+    <steps_updated num="2">10450 772 11951 3948 4120 11951 8083 13538 4450 14240 9260 5920 796 11227 4155 12610 13817 7845 210 5994 13757 14511 13817 8341 3626 1681 11951 11708 9490 13025 </steps_updated>
+    <steps_updated num="3">1083 11951 11708 11770 11951 11812 644 432 3044 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy French Onion Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-french-onion-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; boneless, skinless chicken thighs </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; dried parsley </ingredient>
+    <ingredient num="5">1 tablespoon ; butter </ingredient>
+    <ingredient num="6">6 ; large onions, thinly sliced </ingredient>
+    <ingredient num="7">1 tablespoon ; fresh thyme </ingredient>
+    <ingredient num="8">1 cup ; beef stock ; (235 mL) </ingredient>
+    <ingredient num="9">2 cups ; gruyère cheese, shredded ; (200 g) </ingredient>
+    <ingredient num="10">bread, sliced and toasted, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59789/low_1509657744.m3u8</low>
+    <high>https://vid.tasty.co/output/59789/mp4_720x1280/1509657744</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, add the chicken thighs, salt, pepper, garlic, dried parsley, and olive oil, and toss until evenly coated. </step>
+    <step num="1">Add the chicken to a skillet on medium-high heat. Sear until golden brown, about 4 minutes. Flip and cook the other side of the chicken, 2 minutes. Remove the chicken from the pan and set aside. </step>
+    <step num="2">Preheat oven to broil. </step>
+    <step num="3">Add the butter, sliced onions, salt, and pepper to the same pan, stirring occasionally until softened. Reduce heat to low and cook until they are deeply caramelized, about 1 hour. </step>
+    <step num="4">Add thyme and beef broth and bring the mixture to a simmer. </step>
+    <step num="5">Add the chicken on top of the onions, and sprinkle with Gruyère cheese. </step>
+    <step num="6">Broil for 5 minutes, until the cheese is melted and golden brown. </step>
+    <step num="7">Serve over bread. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, add the chicken thighs, salt, pepper, garlic, dried parsley, and olive oil, and toss until evenly coated. </steps_updated>
+    <steps_updated num="1">Add the chicken to a skillet on medium-high heat. </steps_updated>
+    <steps_updated num="2">Sear until golden brown, about 4 minutes. </steps_updated>
+    <steps_updated num="3">Flip and cook the other side of the chicken, 2 minutes. </steps_updated>
+    <steps_updated num="4">Remove the chicken from the pan and set aside. </steps_updated>
+    <steps_updated num="5">Preheat oven to broil. </steps_updated>
+    <steps_updated num="6">Add the butter, sliced onions, salt, and pepper to the same pan, stirring occasionally until softened. </steps_updated>
+    <steps_updated num="7">Reduce heat to low and cook until they are deeply caramelized, about 1 hour. </steps_updated>
+    <steps_updated num="8">Add thyme and beef broth and bring the mixture to a simmer. </steps_updated>
+    <steps_updated num="9">Add the chicken on top of the onions, and sprinkle with Gruyère cheese. </steps_updated>
+    <steps_updated num="10">Broil for 5 minutes, until the cheese is melted and golden brown. </steps_updated>
+    <steps_updated num="11">Serve over bread. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

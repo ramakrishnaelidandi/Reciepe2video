@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vodka Chocolate Chillies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vodka-chocolate-chillies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; red chilis </ingredient>
+    <ingredient num="1">12 fl oz ; vodka ; (350 mL) </ingredient>
+    <ingredient num="2">1 cup ; dark chocolate ; (150 g) </ingredient>
+    <ingredient num="3">1 pinch ; black pepper </ingredient>
+    <ingredient num="4">¾ cup ; white chocolate ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Snacks</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/37272/low_1498721323.m3u8</low>
+    <high>https://vid.tasty.co/output/37272/mp4_720x1280/1498721323</high>
+  </video>
+  <steps>
+    <step num="0">Remove seeds and veins from 6 chillies. (Wearing latex gloves for this part is advised.) </step>
+    <step num="1">Refrigerate chillies in vodka for 4-12 hours. </step>
+    <step num="2">Melt dark chocolate and stir in black pepper </step>
+    <step num="3">Dip the chillies in the dark chocolate, coating fully, and rest on some baking paper </step>
+    <step num="4">Drizzle with melted white chocolate. Quick tip: you can make white chocolate thinner by stirring a teaspoon of vegetable oil to it after it’s melted. </step>
+    <step num="5">Leave to set in the fridge (about 30-60 minutes). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove seeds and veins from 6 chillies. </steps_updated>
+    <steps_updated num="1">(Wearing latex gloves for this part is advised.) </steps_updated>
+    <steps_updated num="2">Refrigerate chillies in vodka for 4-12 hours. </steps_updated>
+    <steps_updated num="3">Melt dark chocolate and stir in black pepper </steps_updated>
+    <steps_updated num="4">Dip the chillies in the dark chocolate, coating fully, and rest on some baking paper </steps_updated>
+    <steps_updated num="5">Drizzle with melted white chocolate. </steps_updated>
+    <steps_updated num="6">Quick tip: you can make white chocolate thinner by stirring a teaspoon of vegetable oil to it after it’s melted. </steps_updated>
+    <steps_updated num="7">Leave to set in the fridge (about 30-60 minutes). </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

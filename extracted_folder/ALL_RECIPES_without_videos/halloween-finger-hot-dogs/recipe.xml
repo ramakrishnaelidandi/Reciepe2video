@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Halloween Finger Hot Dogs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/halloween-finger-hot-dogs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-halloween-appetizers</comp_url>
+  <ingredients>
+    <ingredient num="0">8 ; hot dogs </ingredient>
+    <ingredient num="1">8 ; hot dog buns </ingredient>
+    <ingredient num="2">ketchup, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12708/low_1477076379.m3u8</low>
+    <high>https://vid.tasty.co/output/12708/mp4_720x1280/1477076379</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>24.83</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a skillet, cook hot dogs until golden brown. </step>
+    <step num="1">With a knife, carefully make 3 slits in the middle of the hot dog, 3 towards the end of the hot dog, and cut the casing off of the tip of the hot dog to make it look like a finger. </step>
+    <step num="2">Spread ketchup in the hot dog buns, and place the hot dogs. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a skillet, cook hot dogs until golden brown. </steps_updated>
+    <steps_updated num="1">With a knife, carefully make 3 slits in the middle of the hot dog, 3 towards the end of the hot dog, and cut the casing off of the tip of the hot dog to make it look like a finger. </steps_updated>
+    <steps_updated num="2">Spread ketchup in the hot dog buns, and place the hot dogs. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00759</end_time>
+  </duration_human>
+</recipe>

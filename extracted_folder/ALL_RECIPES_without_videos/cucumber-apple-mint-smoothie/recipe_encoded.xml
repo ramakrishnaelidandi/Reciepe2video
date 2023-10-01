@@ -1,0 +1,42 @@
+<recipe>
+  <title>Cucumber Apple Mint Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cucumber-apple-mint-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-packed-smoothies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 10837 4125 13817 976 </ingredient>
+    <ingredient num="1">12791 2605 13278 3878 14252 13278 12237 5981 </ingredient>
+    <ingredient num="2">3917 13278 4985 12545 341 </ingredient>
+    <ingredient num="3">3917 14014 13278 9586 </ingredient>
+    <ingredient num="4">1580 13278 468 341 </ingredient>
+    <ingredient num="5">3917 1580 9517 13278 2439 13278 10952 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43506/low_1499967409.m3u8</low>
+    <high>https://vid.tasty.co/output/43506/mp4_720x1280/1499967409</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>17.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 10837 5663 12545 14240 13817 4485 210 5994 12027 5895 8016 9909 13817 1279 1681 644 4309 </step>
+    <step num="1">9179 210 11951 2439 13817 4861 560 1279 1681 11951 2373 9490 12119 </step>
+    <step num="2">12774 7389 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 10837 5663 12545 14240 13817 4485 210 5994 12027 5895 8016 9909 13817 1279 1681 644 4309 </steps_updated>
+    <steps_updated num="1">9179 210 11951 2439 13817 4861 560 1279 1681 11951 2373 9490 12119 </steps_updated>
+    <steps_updated num="2">12774 7389 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

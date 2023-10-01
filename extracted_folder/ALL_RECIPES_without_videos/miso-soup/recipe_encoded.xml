@@ -1,0 +1,46 @@
+<recipe>
+  <title>Miso Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/miso-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">14058 643 13278 11366 13278 6898 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 2909 4011 13278 3433 5981 </ingredient>
+    <ingredient num="2">8580 643 13278 10849 13902 13278 13412 5981 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 3740 13278 1536 8007 </ingredient>
+    <ingredient num="4">8580 9486 13278 3032 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>99.0</start_time>
+    <end_time>152.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">5209 5186 5268 7777 11951 11366 669 14159 9839 2909 12750 14100 13902 672 </step>
+    <step num="1">10950 5994 13757 5285 7110 9179 3740 13817 14238 3557 560 5994 11714 9179 14412 2909 12644 13817 4755 7990 13086 12689 </step>
+    <step num="2">426 371 11951 2082 10950 5994 2192 5435 3345 12052 9179 5994 2192 8344 371 3740 13817 2319 11951 12052 1083 11770 6856 3032 669 11951 4771 426 13352 11951 7855 13817 10383 3386 11951 4723 14462 432 3557 13451 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5186 5268 7777 11951 11366 669 14159 9839 2909 12750 </steps_updated>
+    <steps_updated num="1">14100 13902 672 </steps_updated>
+    <steps_updated num="2">10950 5994 13757 5285 7110 9179 3740 13817 14238 3557 560 5994 11714 </steps_updated>
+    <steps_updated num="3">9179 14412 2909 12644 13817 4755 7990 13086 12689 </steps_updated>
+    <steps_updated num="4">426 371 11951 2082 </steps_updated>
+    <steps_updated num="5">10950 5994 2192 5435 3345 12052 </steps_updated>
+    <steps_updated num="6">9179 5994 2192 8344 371 3740 13817 2319 11951 12052 </steps_updated>
+    <steps_updated num="7">1083 11770 6856 3032 669 11951 4771 </steps_updated>
+    <steps_updated num="8">426 13352 11951 7855 13817 10383 3386 11951 4723 14462 432 3557 13451 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

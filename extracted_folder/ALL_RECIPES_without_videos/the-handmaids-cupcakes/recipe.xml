@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Handmaid’s Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-handmaids-cupcakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/emmy-s-inspired-cupcakes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; cream cheese frosting ; (230 g) </ingredient>
+    <ingredient num="1">2 drops ; burgundy gel food coloring </ingredient>
+    <ingredient num="2">12 ; red velvet cupcakes </ingredient>
+    <ingredient num="3">12 ; round chocolate truffles </ingredient>
+    <ingredient num="4">6 oz ; fondant ; (170 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107911/hls24_1536098453.m3u8</low>
+    <high>https://vid.tasty.co/output/107911/landscape_720/1536098453</high>
+  </video>
+  <duration>
+    <start_time>6.0</start_time>
+    <end_time>35.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix the burgundy food coloring with the cream cheese frosting. </step>
+    <step num="1">Transfer the frosting to a piping bag fitted with a round tip and pipe onto the cupcakes. </step>
+    <step num="2">Place the chocolate truffles on top of the frosting. </step>
+    <step num="3">Take a small piece of fondant and flatten into a quarter-size circle. Place on top of a chocolate truffle and gently fold over the sides to resemble a bonnet. Repeat with the remaining cupcakes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix the burgundy food coloring with the cream cheese frosting. </steps_updated>
+    <steps_updated num="1">Transfer the frosting to a piping bag fitted with a round tip and pipe onto the cupcakes. </steps_updated>
+    <steps_updated num="2">Place the chocolate truffles on top of the frosting. </steps_updated>
+    <steps_updated num="3">Take a small piece of fondant and flatten into a quarter-size circle. </steps_updated>
+    <steps_updated num="4">Place on top of a chocolate truffle and gently fold over the sides to resemble a bonnet. </steps_updated>
+    <steps_updated num="5">Repeat with the remaining cupcakes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mocha French Toast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mocha-french-toast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tubes ; flaky biscuit dough, 16 biscuits </ingredient>
+    <ingredient num="1">3 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">2 tablespoons ; instant coffee </ingredient>
+    <ingredient num="5">2 bars ; chocolate bars </ingredient>
+    <ingredient num="6">cooking spray </ingredient>
+    <ingredient num="7">whipped cream, optional, for garnish </ingredient>
+    <ingredient num="8">chocolate syrup, optional, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Desserts</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8563/low_1472566856.m3u8</low>
+    <high>https://vid.tasty.co/output/8563/mp4_720x1280/1472566856</high>
+  </video>
+  <steps>
+    <step num="0">Cut each biscuit into 4 pieces and place in a large bowl. </step>
+    <step num="1">In a separate bowl, whisk the eggs, milk, vanilla extract, and instant coffee until well-blended. </step>
+    <step num="2">Pour the liquid mixture over the biscuits and stir to coat. </step>
+    <step num="3">Spoon half of the biscuit and liquid mixture into a greased 9x9-inch (22cm x 22cm) baking dish. </step>
+    <step num="4">Place the chocolate bars on top and cover with the remaining half of the biscuit mixture. </step>
+    <step num="5">Bake for 25-30 minutes, or until the biscuits are no longer doughy on the inside and there is no more liquid. </step>
+    <step num="6">Cool for 10 minutes and serve with a dollop of whipped cream and drizzle of chocolate syrup. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut each biscuit into 4 pieces and place in a large bowl. </steps_updated>
+    <steps_updated num="1">In a separate bowl, whisk the eggs, milk, vanilla extract, and instant coffee until well-blended. </steps_updated>
+    <steps_updated num="2">Pour the liquid mixture over the biscuits and stir to coat. </steps_updated>
+    <steps_updated num="3">Spoon half of the biscuit and liquid mixture into a greased 9x9-inch (22cm x 22cm) baking dish. </steps_updated>
+    <steps_updated num="4">Place the chocolate bars on top and cover with the remaining half of the biscuit mixture. </steps_updated>
+    <steps_updated num="5">Bake for 25-30 minutes, or until the biscuits are no longer doughy on the inside and there is no more liquid. </steps_updated>
+    <steps_updated num="6">Cool for 10 minutes and serve with a dollop of whipped cream and drizzle of chocolate syrup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

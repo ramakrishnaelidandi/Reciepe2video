@@ -1,0 +1,50 @@
+<recipe>
+  <title>Primanti&#8217;s Sandwich From Pittsburgh Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/primantis-sandwich-from-pittsburgh</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">12386 11239 4465 </ingredient>
+    <ingredient num="1">6735 8535 13278 5925 </ingredient>
+    <ingredient num="2">3917 12205 13278 3538 14538 </ingredient>
+    <ingredient num="3">3917 2629 13278 14465 7256 </ingredient>
+    <ingredient num="4">3917 2629 13278 7527 </ingredient>
+    <ingredient num="5">8580 8535 13278 9668 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Lunch</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>56.0</start_time>
+    <end_time>80.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3235 11951 6302 3176 4669 8535 6285 2237 2985 8891 1645 210 14602 6445 11901 11951 4465 9490 10302 2281 7990 11951 7345 6923 </step>
+    <step num="1">5570 6735 8535 371 4672 8554 146 4255 10707 371 10763 5192 4255 5994 5687 5895 11610 264 11770 13757 7855 7990 199 12689 </step>
+    <step num="2">11423 11951 5925 11770 13817 740 11951 3538 4496 264 1681 11951 14538 1039 </step>
+    <step num="3">5570 11951 5925 13817 14538 4255 797 12205 371 1208 </step>
+    <step num="4">13494 1391 3184 6228 9668 4743 13817 10707 1391 11951 11649 12205 371 1208 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 6302 3176 4669 8535 6285 2237 2985 8891 1645 210 14602 </steps_updated>
+    <steps_updated num="1">6445 11901 11951 4465 9490 10302 2281 7990 11951 7345 6923 </steps_updated>
+    <steps_updated num="2">5570 6735 8535 371 4672 8554 146 4255 10707 371 10763 5192 4255 5994 5687 5895 11610 </steps_updated>
+    <steps_updated num="3">264 11770 13757 7855 7990 199 12689 </steps_updated>
+    <steps_updated num="4">11423 11951 5925 11770 13817 740 11951 3538 4496 </steps_updated>
+    <steps_updated num="5">264 1681 11951 14538 1039 </steps_updated>
+    <steps_updated num="6">5570 11951 5925 13817 14538 4255 797 12205 371 1208 </steps_updated>
+    <steps_updated num="7">13494 1391 3184 6228 9668 4743 13817 10707 1391 11951 11649 12205 371 1208 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01741</start_time>
+    <end_time>02419</end_time>
+  </duration_human>
+</recipe>

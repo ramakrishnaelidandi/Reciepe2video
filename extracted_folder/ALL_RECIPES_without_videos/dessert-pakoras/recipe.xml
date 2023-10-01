@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Dessert Pakoras Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dessert-pakoras</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">vegetable oil, for frying </ingredient>
+    <ingredient num="1">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="2">1 cup ; cornflour ; (125 g) </ingredient>
+    <ingredient num="3">¼ teaspoon ; baking soda </ingredient>
+    <ingredient num="4">1 teaspoon ; sugar </ingredient>
+    <ingredient num="5">2 cups ; milk ; (480 mL) </ingredient>
+    <ingredient num="6">½ teaspoon ; vanilla essense </ingredient>
+    <ingredient num="7">1 ; red apple, sliced crosswise </ingredient>
+    <ingredient num="8">2 ; bananas, sliced crosswise </ingredient>
+    <ingredient num="9">7 ; small chocolate bars </ingredient>
+    <ingredient num="10">7 ; sandwich cookies </ingredient>
+    <ingredient num="11">powdered sugar, for dusting </ingredient>
+    <ingredient num="12">honey, for drizzling </ingredient>
+    <ingredient num="13">strawberry syrup, for dipping </ingredient>
+    <ingredient num="14">chocolate syrup, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/42849/low_1499323627.m3u8</low>
+    <high>https://vid.tasty.co/output/42849/mp4_720x1280/1499323627</high>
+  </video>
+  <steps>
+    <step num="0">Heat the oil in a medium pot over medium heat until it reaches 350˚F (180˚C). </step>
+    <step num="1">In a medium bowl, combine the flour, cornflour, baking soda, and sugar. Whisk well. </step>
+    <step num="2">Add the milk and whisk to combine. Add the vanilla and whisk to incorporate. </step>
+    <step num="3">Dip the apple slices in the batter, letting the excess drip off. </step>
+    <step num="4">Fry the battered apples in the hot oil, 2 at a time, until golden brown on both sides. Drain on paper towels. </step>
+    <step num="5">Repeat with the sliced bananas, chocolate bars, and chocolate sandwich cookies. </step>
+    <step num="6">Dust the dessert pakoras with powdered sugar and drizzle with honey. Serve with strawberry and chocolate syrup for dipping. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the oil in a medium pot over medium heat until it reaches 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a medium bowl, combine the flour, cornflour, baking soda, and sugar. </steps_updated>
+    <steps_updated num="2">Whisk well. </steps_updated>
+    <steps_updated num="3">Add the milk and whisk to combine. </steps_updated>
+    <steps_updated num="4">Add the vanilla and whisk to incorporate. </steps_updated>
+    <steps_updated num="5">Dip the apple slices in the batter, letting the excess drip off. </steps_updated>
+    <steps_updated num="6">Fry the battered apples in the hot oil, 2 at a time, until golden brown on both sides. </steps_updated>
+    <steps_updated num="7">Drain on paper towels. </steps_updated>
+    <steps_updated num="8">Repeat with the sliced bananas, chocolate bars, and chocolate sandwich cookies. </steps_updated>
+    <steps_updated num="9">Dust the dessert pakoras with powdered sugar and drizzle with honey. </steps_updated>
+    <steps_updated num="10">Serve with strawberry and chocolate syrup for dipping. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,52 @@
+<recipe>
+  <title>Spicy Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-chicken-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 8355 2144 7983 376 </ingredient>
+    <ingredient num="1">8580 9517 13278 12282 13278 4551 8007 </ingredient>
+    <ingredient num="2">3917 2605 13278 1807 13278 7503 8007 </ingredient>
+    <ingredient num="3">8580 8535 13278 6209 14418 </ingredient>
+    <ingredient num="4">8580 13278 10286 4985 1649 11189 </ingredient>
+    <ingredient num="5">4061 9486 13278 11691 2260 </ingredient>
+    <ingredient num="6">3917 14014 13278 4834 </ingredient>
+    <ingredient num="7">13086 9486 13278 7706 10769 </ingredient>
+    <ingredient num="8">8580 2031 13278 13389 3984 30 </ingredient>
+    <ingredient num="9">8580 9486 13278 9110 5766 </ingredient>
+    <ingredient num="10">8580 9486 13278 488 9110 5315 </ingredient>
+    <ingredient num="11">3917 8071 13278 4155 2431 </ingredient>
+    <ingredient num="12">3917 8071 13278 2431 14418 </ingredient>
+    <ingredient num="13">3917 13278 9491 976 </ingredient>
+    <ingredient num="14">3917 13278 10837 4926 </ingredient>
+    <ingredient num="15">3917 13278 6209 14621 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32959/low_1495825972.m3u8</low>
+    <high>https://vid.tasty.co/output/32959/mp4_720x1280/1495825972</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 11435 13799 740 11951 7983 8833 13384 3058 976 14635 13817 10286 13817 14238 560 5994 1002 11770 8283 2082 </step>
+    <step num="1">9956 11951 12282 9490 12859 10954 11951 7983 376 11770 13817 9370 11951 5378 4255 10707 371 11951 4771 426 3482 11951 7855 13817 1752 11951 10083 1788 7811 10302 2281 7990 238 12689 4080 210 11951 2907 </step>
+    <step num="2">10950 5994 2192 14511 4120 8554 11951 2260 11907 13817 10968 3631 </step>
+    <step num="3">12474 5994 2773 8093 11951 976 7042 4926 6367 13817 976 7983 11118 </step>
+    <step num="4">13494 1391 14621 13817 13630 1391 9286 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 11435 13799 740 11951 7983 8833 13384 3058 976 14635 13817 10286 13817 14238 560 5994 1002 11770 8283 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 12282 9490 12859 10954 11951 7983 376 11770 13817 9370 11951 5378 4255 10707 371 11951 4771 </steps_updated>
+    <steps_updated num="2">426 3482 11951 7855 13817 1752 11951 10083 1788 7811 10302 2281 7990 238 12689 </steps_updated>
+    <steps_updated num="3">4080 210 11951 2907 </steps_updated>
+    <steps_updated num="4">10950 5994 2192 14511 4120 8554 11951 2260 11907 13817 10968 3631 </steps_updated>
+    <steps_updated num="5">12474 5994 2773 8093 11951 976 7042 4926 6367 13817 976 7983 11118 </steps_updated>
+    <steps_updated num="6">13494 1391 14621 13817 13630 1391 9286 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Teriyaki Salmon Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/teriyaki-salmon-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 fillets ; salmon </ingredient>
+    <ingredient num="1">2 oz ; honey ; (50 g) </ingredient>
+    <ingredient num="2">1 handful ; sesame seed </ingredient>
+    <ingredient num="3">½ cup ; soy sauce ; (100 mL) </ingredient>
+    <ingredient num="4">½ ; lemon, juiced </ingredient>
+    <ingredient num="5">1 oz ; ginger, chopped ; (25 g) </ingredient>
+    <ingredient num="6">1 ; red chili, sliced </ingredient>
+    <ingredient num="7">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">1 pinch ; sea salt </ingredient>
+    <ingredient num="9">sesame seed, to taste </ingredient>
+    <ingredient num="10">spring onion, to taste </ingredient>
+    <ingredient num="11">red chili, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Seafood</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Date Night</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18926/low_1482341207.m3u8</low>
+    <high>https://vid.tasty.co/output/18926/mp4_720x1280/1482341207</high>
+  </video>
+  <steps>
+    <step num="0">Cut the salmon into bite-size cubes. Set aside. </step>
+    <step num="1">Prepare the marinade by mixing the soy sauce, lemon juice, ginger, chilli, garlic, and sea salt together. </step>
+    <step num="2">Mix the salmon into the marinade, cover, and marinate for 15-30 minutes. </step>
+    <step num="3">In a large pan with a little oil, pour in the marinade and add the honey and sesame seeds. </step>
+    <step num="4">Mix together until it starts to bubble and gets thicker/saucier. </step>
+    <step num="5">Add the salmon and fry for a couple of minutes on each side. </step>
+    <step num="6">Take off the heat and garnish with more sesame seeds, spring onion, red chilli, and cocktail sticks. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the salmon into bite-size cubes. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Prepare the marinade by mixing the soy sauce, lemon juice, ginger, chilli, garlic, and sea salt together. </steps_updated>
+    <steps_updated num="3">Mix the salmon into the marinade, cover, and marinate for 15-30 minutes. </steps_updated>
+    <steps_updated num="4">In a large pan with a little oil, pour in the marinade and add the honey and sesame seeds. </steps_updated>
+    <steps_updated num="5">Mix together until it starts to bubble and gets thicker/saucier. </steps_updated>
+    <steps_updated num="6">Add the salmon and fry for a couple of minutes on each side. </steps_updated>
+    <steps_updated num="7">Take off the heat and garnish with more sesame seeds, spring onion, red chilli, and cocktail sticks. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,45 @@
+<recipe>
+  <title>Rice Cake Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rice-cake-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 7706 12618 </ingredient>
+    <ingredient num="1">3917 13278 4036 3627 8571 </ingredient>
+    <ingredient num="2">1580 13278 468 976 </ingredient>
+    <ingredient num="3">3917 8071 13278 8083 7845 10876 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>71.64</start_time>
+    <end_time>84.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 7706 12618 669 4127 13637 </step>
+    <step num="1">5570 7706 12618 13817 11951 13046 9428 6216 210 11951 14139 </step>
+    <step num="2">5570 11951 4485 669 11951 5228 13817 5406 8177 8083 7845 10876 669 5994 10909 9356 </step>
+    <step num="3">2356 1681 12550 560 10215 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 7706 12618 669 4127 13637 </steps_updated>
+    <steps_updated num="1">5570 7706 12618 13817 11951 13046 9428 6216 210 11951 14139 </steps_updated>
+    <steps_updated num="2">5570 11951 4485 669 11951 5228 13817 5406 8177 8083 7845 10876 669 5994 10909 9356 </steps_updated>
+    <steps_updated num="3">2356 1681 12550 560 10215 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02211</start_time>
+    <end_time>02553</end_time>
+  </duration_human>
+</recipe>

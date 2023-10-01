@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cuban From Miami Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cuban-from-miami</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">cuban bread </ingredient>
+    <ingredient num="1">4 slices ; sweet ham </ingredient>
+    <ingredient num="2">3 slices ; slow roasted pork </ingredient>
+    <ingredient num="3">5 slices ; swiss cheese </ingredient>
+    <ingredient num="4">yellow mustard </ingredient>
+    <ingredient num="5">sandwich pickle </ingredient>
+    <ingredient num="6">butter </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>23.0</start_time>
+    <end_time>57.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut off the ends of the Cuban bread, then slice in half. </step>
+    <step num="1">Add mustard, then ham, then pork, then cheese, then pickles, then place the bun on top. </step>
+    <step num="2">Place the sandwich on pan or griddle over low heat. Brush top with melted butter. </step>
+    <step num="3">Press the sandwich with a panini press, or if you don’t have a press use a heavy pot or pie dish and push down. </step>
+    <step num="4">Cook 5-10 minutes on each side or until golden brown and cheese is melted. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut off the ends of the Cuban bread, then slice in half. </steps_updated>
+    <steps_updated num="1">Add mustard, then ham, then pork, then cheese, then pickles, then place the bun on top. </steps_updated>
+    <steps_updated num="2">Place the sandwich on pan or griddle over low heat. </steps_updated>
+    <steps_updated num="3">Brush top with melted butter. </steps_updated>
+    <steps_updated num="4">Press the sandwich with a panini press, or if you don’t have a press use a heavy pot or pie dish and push down. </steps_updated>
+    <steps_updated num="5">Cook 5-10 minutes on each side or until golden brown and cheese is melted. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00745</start_time>
+    <end_time>01740</end_time>
+  </duration_human>
+</recipe>

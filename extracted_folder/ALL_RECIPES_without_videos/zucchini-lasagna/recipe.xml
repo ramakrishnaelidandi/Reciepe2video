@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zucchini Lasagna</title>
+  <url>https://tasty.co/recipe/zucchini-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; zucchinis </ingredient>
+    <ingredient num="1">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">½ ; large white onion </ingredient>
+    <ingredient num="4">2 cloves ; garlic </ingredient>
+    <ingredient num="5">1 lb ; ground turkey ; (455 g) </ingredient>
+    <ingredient num="6">28 oz ; crushed tomato ; (795 g) </ingredient>
+    <ingredient num="7">2 teaspoons ; dried basil </ingredient>
+    <ingredient num="8">2 teaspoons ; dried parsley </ingredient>
+    <ingredient num="9">2 teaspoons ; dried oregano </ingredient>
+    <ingredient num="10">½ teaspoon ; salt </ingredient>
+    <ingredient num="11">½ teaspoon ; pepper </ingredient>
+    <ingredient num="12">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="13">1 ; bay leaf </ingredient>
+    <ingredient num="14">16 oz ; ricotta cheese ; (455 g) </ingredient>
+    <ingredient num="15">1 ; egg </ingredient>
+    <ingredient num="16">1 tablespoon ; fresh parsley, minced </ingredient>
+    <ingredient num="17">¼ cup ; grated parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="18">¼ teaspoon ; salt </ingredient>
+    <ingredient num="19">½ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/73871/hls24_1516405335.m3u8</low>
+    <high>https://vid.tasty.co/output/73871/landscape_720/1516405335</high>
+  </video>
+  <steps>
+    <step num="0">Cut the ends off of the zucchini, and cut in half, lengthwise. </step>
+    <step num="1">Using a vegetable peeler, peel long strips of zucchini (these will be your “noodles”) and set on a baking sheet lined with paper towels. </step>
+    <step num="2">Dab zucchini strips with a paper towel to absorb the excess moisture. </step>
+    <step num="3">In a large pot, add olive oil, onions, and garlic. Cook until translucent, about 4-5 minutes. </step>
+    <step num="4">Add ground turkey, and cook for another 4-5 minutes, or until the turkey has browned slightly. </step>
+    <step num="5">Pour in crushed tomatoes, basil, parsley, oregano, salt, pepper, tomato paste, and a bay leaf. Cover and let simmer for 30 minutes. </step>
+    <step num="6">Preheat oven to 375˚F (190˚C). </step>
+    <step num="7">In a bowl, combine ricotta cheese, egg, parsley, parmesan, salt, and pepper. Mix until well combined. </step>
+    <step num="8">Using a baking dish, layer turkey sauce, zucchini strips, ricotta mixture, and parmesan. Repeat until there are 3 layers total, ending with the turkey sauce and topping that with parmesan cheese. </step>
+    <step num="9">Bake for 50 minutes (times and temperatures may vary depending on the oven). </step>
+    <step num="10">Let rest for at least 20 minutes. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the ends off of the zucchini, and cut in half, lengthwise. </steps_updated>
+    <steps_updated num="1">Using a vegetable peeler, peel long strips of zucchini (these will be your “noodles”) and set on a baking sheet lined with paper towels. </steps_updated>
+    <steps_updated num="2">Dab zucchini strips with a paper towel to absorb the excess moisture. </steps_updated>
+    <steps_updated num="3">In a large pot, add olive oil, onions, and garlic. </steps_updated>
+    <steps_updated num="4">Cook until translucent, about 4-5 minutes. </steps_updated>
+    <steps_updated num="5">Add ground turkey, and cook for another 4-5 minutes, or until the turkey has browned slightly. </steps_updated>
+    <steps_updated num="6">Pour in crushed tomatoes, basil, parsley, oregano, salt, pepper, tomato paste, and a bay leaf. </steps_updated>
+    <steps_updated num="7">Cover and let simmer for 30 minutes. </steps_updated>
+    <steps_updated num="8">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="9">In a bowl, combine ricotta cheese, egg, parsley, parmesan, salt, and pepper. </steps_updated>
+    <steps_updated num="10">Mix until well combined. </steps_updated>
+    <steps_updated num="11">Using a baking dish, layer turkey sauce, zucchini strips, ricotta mixture, and parmesan. </steps_updated>
+    <steps_updated num="12">Repeat until there are 3 layers total, ending with the turkey sauce and topping that with parmesan cheese. </steps_updated>
+    <steps_updated num="13">Bake for 50 minutes (times and temperatures may vary depending on the oven). </steps_updated>
+    <steps_updated num="14">Let rest for at least 20 minutes. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

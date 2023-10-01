@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Pot Roast</title>
+  <url>https://tasty.co/recipe/slow-cooker-pot-roast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-slow-cooker-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">3 lb ; chuck roast ; (1.5 kg) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 oz ; dried onion soup mix ; (30 g) </ingredient>
+    <ingredient num="4">1 ; onion, diced </ingredient>
+    <ingredient num="5">3 ; gold potatoes, diced </ingredient>
+    <ingredient num="6">3 ; large carrots, chopped </ingredient>
+    <ingredient num="7">½ cup ; water ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10106/low_1473885705.m3u8</low>
+    <high>https://vid.tasty.co/output/10106/mp4_720x1280/1473885705</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>10.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the chuck roast in a 7-quart (6 ½ liters) slow cooker and season with salt and pepper. </step>
+    <step num="1">Sprinkle the onion soup pack and top with vegetables and water. </step>
+    <step num="2">Cook on low for 8 hours, or high for 4-5 hours. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the chuck roast in a 7-quart (6 ½ liters) slow cooker and season with salt and pepper. </steps_updated>
+    <steps_updated num="1">Sprinkle the onion soup pack and top with vegetables and water. </steps_updated>
+    <steps_updated num="2">Cook on low for 8 hours, or high for 4-5 hours. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00584</end_time>
+  </duration_human>
+</recipe>

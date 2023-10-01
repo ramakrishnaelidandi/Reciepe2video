@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fresh Herb Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-herb-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-actually-use-your-kitchen-gadgets</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; fresh cilantro leaves ; (20 g) </ingredient>
+    <ingredient num="1">½ cup ; fresh parsley leaves ; (20 g) </ingredient>
+    <ingredient num="2">2 cloves ; garlic </ingredient>
+    <ingredient num="3">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="4">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="5">¼ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="6">½ teaspoon ; kosher salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121130/hls24_1545434348.m3u8</low>
+    <high>https://vid.tasty.co/output/121130/landscape_720/1545434348</high>
+  </video>
+  <duration>
+    <start_time>148.833</start_time>
+    <end_time>177.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the cilantro, parsley, garlic, olive oil, lime juice, red pepper flakes, and salt to a mortar and pestle, and crush until a smooth paste forms. </step>
+    <step num="1">Add to your favorite proteins, vegetables, and more! </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the cilantro, parsley, garlic, olive oil, lime juice, red pepper flakes, and salt to a mortar and pestle, and crush until a smooth paste forms. </steps_updated>
+    <steps_updated num="1">Add to your favorite proteins, vegetables, and more! </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

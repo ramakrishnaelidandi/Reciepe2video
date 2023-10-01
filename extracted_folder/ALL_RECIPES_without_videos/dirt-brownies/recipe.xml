@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Dirt Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dirt-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-impress-at-a-bake-sale</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ¼ cups ; sugar ; (250 g) </ingredient>
+    <ingredient num="1">¾ cup ; cocoa powder ; (90 g) </ingredient>
+    <ingredient num="2">10 tablespoons ; butter, melted </ingredient>
+    <ingredient num="3">¼ teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="5">2 ; eggs </ingredient>
+    <ingredient num="6">½ cup ; flour ; (65 g) </ingredient>
+    <ingredient num="7">chocolate frosting, as needed </ingredient>
+    <ingredient num="8">chocolate cookie crumb, as needed </ingredient>
+    <ingredient num="9">gummy worms, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30526/low_1493657558.m3u8</low>
+    <high>https://vid.tasty.co/output/30526/mp4_720x1280/1493657558</high>
+  </video>
+  <duration>
+    <start_time>1.4900000000000002</start_time>
+    <end_time>46.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 325°F (160°C). </step>
+    <step num="1">In a large bowl, combine sugar, cocoa powder, and butter. Stir using a spatula or a wooden spoon. It will be gritty. </step>
+    <step num="2">Combine vanilla and 1 egg. Mix until the egg is fully incorporated. Then mix in the other egg. </step>
+    <step num="3">Add flour and salt, and mix into the batter. </step>
+    <step num="4">Transfer into a baking dish and bake for 20 minutes and let it cool completely. </step>
+    <step num="5">Spread the chocolate frosting and then the gummy worms, followed by the cookie crumbs. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 325°F (160°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, combine sugar, cocoa powder, and butter. </steps_updated>
+    <steps_updated num="2">Stir using a spatula or a wooden spoon. </steps_updated>
+    <steps_updated num="3">It will be gritty. </steps_updated>
+    <steps_updated num="4">Combine vanilla and 1 egg. </steps_updated>
+    <steps_updated num="5">Mix until the egg is fully incorporated. </steps_updated>
+    <steps_updated num="6">Then mix in the other egg. </steps_updated>
+    <steps_updated num="7">Add flour and salt, and mix into the batter. </steps_updated>
+    <steps_updated num="8">Transfer into a baking dish and bake for 20 minutes and let it cool completely. </steps_updated>
+    <steps_updated num="9">Spread the chocolate frosting and then the gummy worms, followed by the cookie crumbs. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00104</start_time>
+    <end_time>01415</end_time>
+  </duration_human>
+</recipe>

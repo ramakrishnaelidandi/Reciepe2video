@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef &amp; Broccoli Cauliflower Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-broccoli-cauliflower-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cauliflower-fried-rice-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower </ingredient>
+    <ingredient num="1">¾ lb ; flank steak, sliced into small strips ; (340 g) </ingredient>
+    <ingredient num="2">2 cups ; broccoli floret ; (350 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="5">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="6">2 tablespoons ; brown sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12979/low_1477441621.m3u8</low>
+    <high>https://vid.tasty.co/output/12979/mp4_720x1280/1477441621</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Remove all leaves and cut the cauliflower into small florets. </step>
+    <step num="1">Place the florets in a food processor and blend until they are a rice-like texture. Be careful not to over process or it may turn mushy. Set aside, and drain excess moisture with a towel, if desired. </step>
+    <step num="2">In a large saucepan over medium-high heat, cook the steak until no pink is showing. Add the broccoli, salt, pepper, soy sauce, and brown sugar. </step>
+    <step num="3">Cook for 4-5 minutes until most of the liquid has reduced. </step>
+    <step num="4">Add the cauliflower rice, then cook for about 3-4 more minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove all leaves and cut the cauliflower into small florets. </steps_updated>
+    <steps_updated num="1">Place the florets in a food processor and blend until they are a rice-like texture. </steps_updated>
+    <steps_updated num="2">Be careful not to over process or it may turn mushy. </steps_updated>
+    <steps_updated num="3">Set aside, and drain excess moisture with a towel, if desired. </steps_updated>
+    <steps_updated num="4">In a large saucepan over medium-high heat, cook the steak until no pink is showing. </steps_updated>
+    <steps_updated num="5">Add the broccoli, salt, pepper, soy sauce, and brown sugar. </steps_updated>
+    <steps_updated num="6">Cook for 4-5 minutes until most of the liquid has reduced. </steps_updated>
+    <steps_updated num="7">Add the cauliflower rice, then cook for about 3-4 more minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01310</start_time>
+    <end_time>02019</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Raspberry Mango Sangria Ice Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-mango-sangria-ice-pops</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-sangria-pops</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; mango, chopped ; (165 g) </ingredient>
+    <ingredient num="1">½ cup ; fresh raspberry, divided, plus 24 raspberries ; (60 g) </ingredient>
+    <ingredient num="2">2 cups ; rosé wine ; (480 mL) </ingredient>
+    <ingredient num="3">1 cup ; lemon-lime soda ; (240 mL) </ingredient>
+    <ingredient num="4">2 oz ; triple sec ; (60 mL) </ingredient>
+    <ingredient num="5">ice pop mold </ingredient>
+    <ingredient num="6">ice pop stick </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99529/hls24_1529602710.m3u8</low>
+    <high>https://vid.tasty.co/output/99529/landscape_720/1529602710</high>
+  </video>
+  <duration>
+    <start_time>33.5</start_time>
+    <end_time>66.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, combine the mango, ½ cup (60 g) raspberries, the rosé, lemon-lime soda, and triple sec and blend until smooth. </step>
+    <step num="1">Place 2 raspberries in each ice pop mold. </step>
+    <step num="2">Pour the mixture into the ice pop molds, seal with the lids, and add the ice pop sticks. </step>
+    <step num="3">Freeze until solid, at least 4 hours, or overnight. </step>
+    <step num="4">Carefully remove the ice pops from the molds. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, combine the mango, ½ cup (60 g) raspberries, the rosé, lemon-lime soda, and triple sec and blend until smooth. </steps_updated>
+    <steps_updated num="1">Place 2 raspberries in each ice pop mold. </steps_updated>
+    <steps_updated num="2">Pour the mixture into the ice pop molds, seal with the lids, and add the ice pop sticks. </steps_updated>
+    <steps_updated num="3">Freeze until solid, at least 4 hours, or overnight. </steps_updated>
+    <steps_updated num="4">Carefully remove the ice pops from the molds. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

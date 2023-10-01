@@ -1,0 +1,55 @@
+<recipe>
+  <title>One-Pot Pad Thai Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-pad-thai</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6735 643 13278 8592 7149 69 5895 13633 371 12313 6507 13278 10339 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 9110 7632 3247 </ingredient>
+    <ingredient num="2">8580 13278 12708 </ingredient>
+    <ingredient num="3">3917 13278 7983 8833 341 </ingredient>
+    <ingredient num="4">12791 2605 13278 2052 13278 1936 5981 </ingredient>
+    <ingredient num="5">9883 2605 13278 8592 7149 2260 13278 7642 8007 </ingredient>
+    <ingredient num="6">3917 2605 13278 3984 8376 13278 11953 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 3850 4353 7789 3954 7990 4711 13278 9377 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 4985 12384 7789 3954 7990 4711 13278 1936 5981 </ingredient>
+    <ingredient num="9">12791 2605 13278 6209 6712 7789 3954 7990 4711 13278 12237 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31989/low_1495125005.m3u8</low>
+    <high>https://vid.tasty.co/output/31989/mp4_720x1280/1495125005</high>
+  </video>
+  <steps>
+    <step num="0">264 13633 12968 560 3756 1254 </step>
+    <step num="1">7643 1391 3917 1184 371 9110 5766 13817 817 5292 </step>
+    <step num="2">1083 1580 1184 371 9110 5766 669 12313 10083 13817 740 4817 8574 9917 8536 11233 11951 12708 12573 11469 10279 817 5292 </step>
+    <step num="3">1083 6646 1580 1184 371 9110 5766 669 11951 10083 13817 740 3917 341 7983 11118 2257 10261 1956 7983 9490 7568 907 </step>
+    <step num="4">9179 2973 560 11951 10083 1531 12533 7990 9110 5766 3859 8861 7708 5376 11484 9815 1838 4529 6781 8224 11951 12085 13817 2550 1681 8574 870 13817 11564 13827 740 12313 12279 14463 13817 7983 13352 669 11951 4771 </step>
+    <step num="5">1083 210 8592 7149 2260 4335 5994 13761 2373 5895 772 12313 10096 2373 371 14311 1649 6319 7632 7706 4450 11691 7280 1368 6145 9712 7654 13817 1502 </step>
+    <step num="6">13494 1391 3984 2534 5614 3850 4985 7272 13817 6712 13817 6142 1681 3145 10208 </step>
+    <step num="7">1980 3386 13817 4711 1391 3141 3850 4985 7272 13817 1117 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">264 13633 12968 560 3756 1254 </steps_updated>
+    <steps_updated num="1">7643 1391 3917 1184 </steps_updated>
+    <steps_updated num="2">371 9110 5766 13817 817 5292 </steps_updated>
+    <steps_updated num="3">1083 1580 1184 </steps_updated>
+    <steps_updated num="4">371 9110 5766 669 12313 10083 13817 740 4817 8574 9917 8536 </steps_updated>
+    <steps_updated num="5">11233 11951 12708 12573 11469 10279 817 5292 </steps_updated>
+    <steps_updated num="6">1083 6646 1580 1184 </steps_updated>
+    <steps_updated num="7">371 9110 5766 669 11951 10083 13817 740 3917 341 7983 11118 </steps_updated>
+    <steps_updated num="8">2257 10261 1956 7983 9490 7568 907 </steps_updated>
+    <steps_updated num="9">9179 2973 560 11951 10083 1531 12533 7990 9110 5766 3859 8861 7708 5376 11484 9815 1838 4529 6781 8224 11951 12085 13817 2550 1681 8574 870 13817 11564 </steps_updated>
+    <steps_updated num="10">13827 740 12313 12279 14463 13817 7983 13352 669 11951 4771 </steps_updated>
+    <steps_updated num="11">1083 210 8592 7149 2260 4335 5994 13761 2373 5895 772 12313 10096 2373 371 14311 1649 6319 7632 7706 4450 11691 7280 1368 6145 9712 7654 13817 1502 </steps_updated>
+    <steps_updated num="12">13494 1391 3984 2534 5614 3850 4985 7272 13817 6712 13817 6142 1681 3145 10208 </steps_updated>
+    <steps_updated num="13">1980 3386 13817 4711 1391 3141 3850 4985 7272 13817 1117 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

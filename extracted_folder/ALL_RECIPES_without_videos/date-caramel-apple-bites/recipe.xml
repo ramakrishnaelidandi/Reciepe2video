@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Caramel Apple Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/date-caramel-apple-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; apples </ingredient>
+    <ingredient num="1">30 ; pitted dates </ingredient>
+    <ingredient num="2">½ cup ; water, hot ; (120 mL) </ingredient>
+    <ingredient num="3">¼ cup ; almond milk ; (60 mL) </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">topping of your choice, if desired </ingredient>
+    <ingredient num="7">popsicle stick, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12302/low_1476751834.m3u8</low>
+    <high>https://vid.tasty.co/output/12302/mp4_720x1280/1476751834</high>
+  </video>
+  <steps>
+    <step num="0">In a small bowl, pour the hot water over the dates. Allow the dates to soak for 10-15 mins. This makes them easier to blend. </step>
+    <step num="1">Add the date and the water to a food processor and blend until smooth. </step>
+    <step num="2">NOTE: If your date puree is looking thick and chunky, add a few splashes of water while the food processor is running until the mixture thins out. </step>
+    <step num="3">Add the date mixture to a sauce pan over medium-low heat. Add the almond milk, vanilla extract, and salt, and mix to combine. Stir often for 8-10 minutes until thick. </step>
+    <step num="4">Use a melon baller to scoop out apple balls. </step>
+    <step num="5">While the caramel cools, stick the apple balls onto the popsicle sticks. Dip the apple sticks into the caramel, roll in toppings (if desired), and allow to set in the fridge for 30 minutes. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, pour the hot water over the dates. </steps_updated>
+    <steps_updated num="1">Allow the dates to soak for 10-15 mins. </steps_updated>
+    <steps_updated num="2">This makes them easier to blend. </steps_updated>
+    <steps_updated num="3">Add the date and the water to a food processor and blend until smooth. </steps_updated>
+    <steps_updated num="4">NOTE: If your date puree is looking thick and chunky, add a few splashes of water while the food processor is running until the mixture thins out. </steps_updated>
+    <steps_updated num="5">Add the date mixture to a sauce pan over medium-low heat. </steps_updated>
+    <steps_updated num="6">Add the almond milk, vanilla extract, and salt, and mix to combine. </steps_updated>
+    <steps_updated num="7">Stir often for 8-10 minutes until thick. </steps_updated>
+    <steps_updated num="8">Use a melon baller to scoop out apple balls. </steps_updated>
+    <steps_updated num="9">While the caramel cools, stick the apple balls onto the popsicle sticks. </steps_updated>
+    <steps_updated num="10">Dip the apple sticks into the caramel, roll in toppings (if desired), and allow to set in the fridge for 30 minutes. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>
