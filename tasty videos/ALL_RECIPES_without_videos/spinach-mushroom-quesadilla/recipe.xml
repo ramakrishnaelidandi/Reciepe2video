@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach &amp; Mushroom Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-mushroom-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quesadillas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">½ cup ; mushrooms, sliced ; (40 g) </ingredient>
+    <ingredient num="2">2 cloves ; garlic </ingredient>
+    <ingredient num="3">3 cups ; fresh spinach ; (120 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">3 ; eggs </ingredient>
+    <ingredient num="7">2 ; large flour tortillas </ingredient>
+    <ingredient num="8">1 cup ; shredded mozzarella cheese, double for 2 quesadillas ; (100 g) </ingredient>
+    <ingredient num="9">½ cup ; shredded parmesan cheese, double for 2 quesadillas ; (60 g) </ingredient>
+    <ingredient num="10">fresh parsley </ingredient>
+    <ingredient num="11">salsa </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7994/low_1472223451.m3u8</low>
+    <high>https://vid.tasty.co/output/7994/mp4_720x1280/1472223451</high>
+  </video>
+  <duration>
+    <start_time>29.86</start_time>
+    <end_time>58.84</end_time>
+  </duration>
+  <steps>
+    <step num="0">Let the oil heat up in the skillet and add the garlic followed by the mushrooms. Cook until the mushrooms have softened and caramelized a bit. </step>
+    <step num="1">Add the spinach and cook until spinach has wilted. </step>
+    <step num="2">Crack in the eggs and scramble with the veggies. Season with salt and pepper, and stir until fully cooked. Remove from the pan and set aside. </step>
+    <step num="3">Place the tortilla in the skillet and add a layer of both cheeses on half of the tortilla. </step>
+    <step num="4">Add the scramble, top with more cheese and fold the tortilla in half. </step>
+    <step num="5">Cook for 6 minutes over medium heat, flipping half way. </step>
+    <step num="6">Serve with salsa and garnish with fresh parsley. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Let the oil heat up in the skillet and add the garlic followed by the mushrooms. </steps_updated>
+    <steps_updated num="1">Cook until the mushrooms have softened and caramelized a bit. </steps_updated>
+    <steps_updated num="2">Add the spinach and cook until spinach has wilted. </steps_updated>
+    <steps_updated num="3">Crack in the eggs and scramble with the veggies. </steps_updated>
+    <steps_updated num="4">Season with salt and pepper, and stir until fully cooked. </steps_updated>
+    <steps_updated num="5">Remove from the pan and set aside. </steps_updated>
+    <steps_updated num="6">Place the tortilla in the skillet and add a layer of both cheeses on half of the tortilla. </steps_updated>
+    <steps_updated num="7">Add the scramble, top with more cheese and fold the tortilla in half. </steps_updated>
+    <steps_updated num="8">Cook for 6 minutes over medium heat, flipping half way. </steps_updated>
+    <steps_updated num="9">Serve with salsa and garnish with fresh parsley. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00957</start_time>
+    <end_time>01775</end_time>
+  </duration_human>
+</recipe>

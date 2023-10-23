@@ -1,0 +1,43 @@
+<recipe>
+  <title>Vegan Basil Ricotta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-basil-ricotta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheeses</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12188 11677 13278 12933 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 6209 6250 14252 13278 336 5981 </ingredient>
+    <ingredient num="2">1580 13278 5516 3701 </ingredient>
+    <ingredient num="3">1580 8071 13278 82 </ingredient>
+    <ingredient num="4">11061 13695 643 13278 12282 13278 7642 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Snacks</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108211/hls24_1536269245.m3u8</low>
+    <high>https://vid.tasty.co/output/108211/landscape_720/1536269245</high>
+  </video>
+  <duration>
+    <start_time>89.333</start_time>
+    <end_time>112.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 13757 11844 7860 1391 12282 560 5994 11714 9179 11951 11677 13817 1002 7990 238 11004 415 8681 </step>
+    <step num="1">9179 11951 8571 280 749 597 7654 13817 82 560 5994 12095 10737 560 2625 415 12723 740 11951 12282 3343 11951 12027 9490 6341 1681 11951 12567 13751 12313 13218 7799 </step>
+    <step num="2">12774 6908 5895 1023 210 11951 10437 7990 3386 560 4061 2497 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 13757 11844 7860 1391 12282 560 5994 11714 </steps_updated>
+    <steps_updated num="1">9179 11951 11677 13817 1002 7990 238 11004 415 8681 </steps_updated>
+    <steps_updated num="2">9179 11951 8571 280 749 597 7654 13817 82 560 5994 12095 </steps_updated>
+    <steps_updated num="3">10737 560 2625 415 12723 740 11951 12282 3343 11951 12027 9490 6341 1681 11951 12567 13751 12313 13218 7799 </steps_updated>
+    <steps_updated num="4">12774 6908 5895 1023 210 11951 10437 7990 3386 560 4061 2497 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

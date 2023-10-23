@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Parmesan Baked Carrot Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-parmesan-baked-carrot-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; carrots </ingredient>
+    <ingredient num="1">1 tablespoon ; oil </ingredient>
+    <ingredient num="2">¼ cup ; parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+    <ingredient num="5">¼ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">2 tablespoons ; greek yogurt </ingredient>
+    <ingredient num="8">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="9">½ teaspoon ; garlic salt </ingredient>
+    <ingredient num="10">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13900/low_1478294692.m3u8</low>
+    <high>https://vid.tasty.co/output/13900/mp4_720x1280/1478294692</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200˚C). </step>
+    <step num="1">Slice the top and bottom off of carrots then slice them in half, slice each half into thirds lengthwise. </step>
+    <step num="2">In a large bowl, mix ingredients with carrot sticks. </step>
+    <step num="3">Spread on a baking sheet. </step>
+    <step num="4">Bake for 15-20 minutes (depending on how crispy you want them). </step>
+    <step num="5">Mix together ingredients for dipping sauce in a small bowl. </step>
+    <step num="6">Serve warm carrots with dipping sauce. Topped with Parmesan and parsley. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200˚C). </steps_updated>
+    <steps_updated num="1">Slice the top and bottom off of carrots then slice them in half, slice each half into thirds lengthwise. </steps_updated>
+    <steps_updated num="2">In a large bowl, mix ingredients with carrot sticks. </steps_updated>
+    <steps_updated num="3">Spread on a baking sheet. </steps_updated>
+    <steps_updated num="4">Bake for 15-20 minutes (depending on how crispy you want them). </steps_updated>
+    <steps_updated num="5">Mix together ingredients for dipping sauce in a small bowl. </steps_updated>
+    <steps_updated num="6">Serve warm carrots with dipping sauce. </steps_updated>
+    <steps_updated num="7">Topped with Parmesan and parsley. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

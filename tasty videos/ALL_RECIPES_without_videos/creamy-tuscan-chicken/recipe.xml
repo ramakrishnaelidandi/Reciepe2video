@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Tuscan Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-tuscan-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-chicken-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; bone-in, skin-on chicken thighs </ingredient>
+    <ingredient num="1">2 teaspoons ; salt, for the chicken </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper, for the chicken </ingredient>
+    <ingredient num="3">1 tablespoon ; oil </ingredient>
+    <ingredient num="4">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="5">½ ; onion, diced </ingredient>
+    <ingredient num="6">1 ; tomato, diced </ingredient>
+    <ingredient num="7">2 cups ; spinach ; (450 g) </ingredient>
+    <ingredient num="8">2 cups ; heavy cream ; (470 mL) </ingredient>
+    <ingredient num="9">1 teaspoon ; salt </ingredient>
+    <ingredient num="10">1 teaspoon ; pepper </ingredient>
+    <ingredient num="11">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="12">2 tablespoons ; fresh flat-leaf parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14022/low_1478543668.m3u8</low>
+    <high>https://vid.tasty.co/output/14022/mp4_720x1280/1478543668</high>
+  </video>
+  <duration>
+    <start_time>35.15</start_time>
+    <end_time>78.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">Season the chicken all over with salt and pepper. </step>
+    <step num="1">Heat the oil in a skillet over medium-low heat. </step>
+    <step num="2">Place the chicken thighs skin side down in the skillet and cook for about 13 minutes to crisp up the skin. Move the chicken around from time to time to ensure it cooks evenly. The skin should be hard to the touch. </step>
+    <step num="3">Flip the chicken, then cook for about another 15 minutes, until the chicken is cooked through. Remove from pan. </step>
+    <step num="4">Add the garlic and onion, stirring until onions are translucent. Stir in the tomatoes and spinach until the spinach is wilted. </step>
+    <step num="5">Add the heavy cream, salt, and pepper, bringing to a boil. </step>
+    <step num="6">Add the Parmesan cheese and parsley, stirring until the sauce has thickened slightly. </step>
+    <step num="7">Place the chicken back in the pan, spooning the sauce on top of the chicken. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season the chicken with the salt &amp; pepper, making sure to mix it in evenly. </steps_updated>
+    <steps_updated num="1">Heat oil in a skillet over medium-low heat. </steps_updated>
+    <steps_updated num="2">Place the chicken thighs skin side down in the skillet and cook for about 13 minutes in order to crisp up the skin. </steps_updated>
+    <steps_updated num="3">Move the chicken around from time to time to ensure it cooks evenly. </steps_updated>
+    <steps_updated num="4">The skin should be hard to the touch. </steps_updated>
+    <steps_updated num="5">Flip the chicken, then cook for about another 15 minutes until the chicken is fully cooked. </steps_updated>
+    <steps_updated num="6">Remove from pan. </steps_updated>
+    <steps_updated num="7">Add the garlic and onion, stirring until onions are translucent. </steps_updated>
+    <steps_updated num="8">Stir in the tomatoes and spinach until the spinach is wilted. </steps_updated>
+    <steps_updated num="9">Add the heavy cream, salt, and pepper, bringing to a boil. </steps_updated>
+    <steps_updated num="10">Add the parmesan cheese and parsley, stirring until the sauce has thickened slightly. </steps_updated>
+    <steps_updated num="11">Place the chicken back in the pan, spooning the sauce on top of the chicken. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01109</start_time>
+    <end_time>02350</end_time>
+  </duration_human>
+</recipe>

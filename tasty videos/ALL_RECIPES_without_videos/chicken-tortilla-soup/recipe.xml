@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Tortilla Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-tortilla-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/1-rotisserie-chicken-4-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; cooking oil, of preference </ingredient>
+    <ingredient num="1">1 clove ; garlic, minced </ingredient>
+    <ingredient num="2">2 tablespoons ; white onion, diced </ingredient>
+    <ingredient num="3">¼ cup ; tomato, diced ; (50 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; green chilli, diced </ingredient>
+    <ingredient num="5">¼ cup ; black beans ; (40 g) </ingredient>
+    <ingredient num="6">¼ cup ; frozen corn ; (45 g) </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">⅛ teaspoon ; dried oregano </ingredient>
+    <ingredient num="10">⅛ teaspoon ; cumin </ingredient>
+    <ingredient num="11">⅛ teaspoon ; chili powder </ingredient>
+    <ingredient num="12">1 ½ cups ; chicken broth, or veggie broth ; (355 mL) </ingredient>
+    <ingredient num="13">1 cup ; rotisserie chicken, shredded ; (125 g) </ingredient>
+    <ingredient num="14">tortilla strip, for garnish </ingredient>
+    <ingredient num="15">fresh cilantro, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59232/low_1509474932.m3u8</low>
+    <high>https://vid.tasty.co/output/59232/mp4_720x1280/1509474932</high>
+  </video>
+  <duration>
+    <start_time>118.74</start_time>
+    <end_time>155.01</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium sauce pot over a medium heat, add oil, garlic and onion. Cook until onion starts to become translucent. </step>
+    <step num="1">Add tomatoes, green chiles, black beans, corn, salt, pepper, oregano, cumin, and chili powder. Cook until all ingredients are heated through, stirring occasionally. </step>
+    <step num="2">Add broth, stir and bring to a simmer. </step>
+    <step num="3">Add chicken and allow to heat through. </step>
+    <step num="4">Serve with a sprinkle of tortilla strips and cilantro. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium sauce pot over a medium heat, add oil, garlic and onion. </steps_updated>
+    <steps_updated num="1">Cook until onion starts to become translucent. </steps_updated>
+    <steps_updated num="2">Add tomatoes, green chiles, black beans, corn, salt, pepper, oregano, cumin, and chili powder. </steps_updated>
+    <steps_updated num="3">Cook until all ingredients are heated through, stirring occasionally. </steps_updated>
+    <steps_updated num="4">Add broth, stir and bring to a simmer. </steps_updated>
+    <steps_updated num="5">Add chicken and allow to heat through. </steps_updated>
+    <steps_updated num="6">Serve with a sprinkle of tortilla strips and cilantro. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03617</start_time>
+    <end_time>04677</end_time>
+  </duration_human>
+</recipe>

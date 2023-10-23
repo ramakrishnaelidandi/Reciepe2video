@@ -1,0 +1,46 @@
+<recipe>
+  <title>Creamy Hot Cocoa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-hot-cocoa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dairy-free-holiday-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 5475 4680 8086 13278 7642 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 9171 6818 </ingredient>
+    <ingredient num="2">1580 8071 13278 1319 10937 </ingredient>
+    <ingredient num="3">3917 2157 13278 82 </ingredient>
+    <ingredient num="4">3917 2605 13278 10882 2868 5042 13278 6898 5981 </ingredient>
+    <ingredient num="5">8580 1580 9517 13278 638 5802 13278 7465 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Drinks</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68345/hls24_1513364143.m3u8</low>
+    <high>https://vid.tasty.co/output/68345/landscape_720/1513364143</high>
+  </video>
+  <duration>
+    <start_time>76.289</start_time>
+    <end_time>112.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 5475 13826 9171 1285 1319 9525 12610 10882 2868 5042 13817 638 5802 560 5994 13757 11844 11770 13757 9721 2082 283 560 4120 13817 14238 560 5994 9609 13328 6107 560 9010 9769 </step>
+    <step num="1">9956 2373 9490 6873 13817 494 8180 5103 6781 2082 </step>
+    <step num="2">12774 10316 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 5475 13826 9171 1285 1319 9525 12610 10882 2868 5042 13817 638 5802 560 5994 13757 11844 11770 13757 9721 2082 </steps_updated>
+    <steps_updated num="1">283 560 4120 13817 14238 560 5994 9609 13328 6107 560 9010 9769 </steps_updated>
+    <steps_updated num="2">9956 2373 9490 6873 13817 494 8180 5103 6781 2082 </steps_updated>
+    <steps_updated num="3">12774 10316 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

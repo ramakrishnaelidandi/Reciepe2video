@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Rose Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-rose</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 oz ; pepperoni, 6-8 pepperoni per rose ; (140 g) </ingredient>
+    <ingredient num="1">tomato skin slice, vegetarian option, 6-8 per rose </ingredient>
+    <ingredient num="2">3 oz ; pizza sauce ; (85 g) </ingredient>
+    <ingredient num="3">4 oz ; pizza dough ; (115 g) </ingredient>
+    <ingredient num="4">¼ cup ; shredded low moisture mozzarella cheese ; (25 g) </ingredient>
+    <ingredient num="5">fresh basil leaf, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32223/low_1495125523.m3u8</low>
+    <high>https://vid.tasty.co/output/32223/mp4_720x1280/1495125523</high>
+  </video>
+  <steps>
+    <step num="0">Cut off a piece of pizza dough and roll out over a floured surface until it's about 8 inches (20 cm) long. Try to get the dough as thin as possible. </step>
+    <step num="1">Cover lightly in pizza sauce. </step>
+    <step num="2">Place pepperoni at one end, so that the pepperoni aligns with the bottom of the dough. Place the second pepperoni piece so that it overlaps with the first piece, and is placed sightly higher than the bottom line of the dough. Continue layering pepperoni so that each one overlaps a bit less than the previous piece, and follows an upward angle. </step>
+    <step num="3">Sprinkle the bottom half with low moisture mozzarella cheese, and beginning from the end with the most pepperoni, roll the dough into a lose coil. </step>
+    <step num="4">Place in a muffin tin, with the pepperoni facing up. </step>
+    <step num="5">If opting for the vegetarian version, peel long strips of skin off a tomato. (Video shows center ring being cut but you can peel strips from top to bottom to use more of the tomato) </step>
+    <step num="6">Bake at 400°F/ 204°C for 20-25 minutes, or until pepperoni edges are crispy and the dough is fully cooked through. </step>
+    <step num="7">Remove from the oven and let cool. Lay over a bed of basil leaves (for taste and presentation). </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut off a piece of pizza dough and roll out over a floured surface until it's about 8 inches (20 cm) long. </steps_updated>
+    <steps_updated num="1">Try to get the dough as thin as possible. </steps_updated>
+    <steps_updated num="2">Cover lightly in pizza sauce. </steps_updated>
+    <steps_updated num="3">Place pepperoni at one end, so that the pepperoni aligns with the bottom of the dough. </steps_updated>
+    <steps_updated num="4">Place the second pepperoni piece so that it overlaps with the first piece, and is placed sightly higher than the bottom line of the dough. </steps_updated>
+    <steps_updated num="5">Continue layering pepperoni so that each one overlaps a bit less than the previous piece, and follows an upward angle. </steps_updated>
+    <steps_updated num="6">Sprinkle the bottom half with low moisture mozzarella cheese, and beginning from the end with the most pepperoni, roll the dough into a lose coil. </steps_updated>
+    <steps_updated num="7">Place in a muffin tin, with the pepperoni facing up. </steps_updated>
+    <steps_updated num="8">If opting for the vegetarian version, peel long strips of skin off a tomato. </steps_updated>
+    <steps_updated num="9">(Video shows center ring being cut but you can peel strips from top to bottom to use more of the tomato) </steps_updated>
+    <steps_updated num="10">Bake at 400°F/ 204°C for 20-25 minutes, or until pepperoni edges are crispy and the dough is fully cooked through. </steps_updated>
+    <steps_updated num="11">Remove from the oven and let cool. </steps_updated>
+    <steps_updated num="12">Lay over a bed of basil leaves (for taste and presentation). </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

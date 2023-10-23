@@ -1,0 +1,59 @@
+<recipe>
+  <title>Summer Berry Buckle Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/summer-berry-buckle</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 10907 564 13278 6518 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 1368 4834 13278 13412 5981 </ingredient>
+    <ingredient num="3">13086 13278 12708 </ingredient>
+    <ingredient num="4">3917 8071 13278 1319 </ingredient>
+    <ingredient num="5">3917 1580 9517 13278 890 13278 11028 5981 </ingredient>
+    <ingredient num="6">1580 8071 13278 82 </ingredient>
+    <ingredient num="7">3917 8071 13278 12425 </ingredient>
+    <ingredient num="8">12791 8071 13278 10765 11703 </ingredient>
+    <ingredient num="9">4061 1580 9517 13278 13592 6738 9764 4406 9470 13278 194 5981 </ingredient>
+    <ingredient num="10">6885 6145 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33469/low_1496770195.m3u8</low>
+    <high>https://vid.tasty.co/output/33469/mp4_720x1280/1496770195</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">5954 5994 6453 8387 1645 14124 5687 1391 14057 </step>
+    <step num="2">10950 5994 13757 14511 10968 11951 10907 6145 13817 1368 4834 1681 889 </step>
+    <step num="3">9179 11951 12708 797 7811 5994 7555 415 740 11951 12048 283 1681 4309 </step>
+    <step num="4">12595 210 11951 6467 12610 4654 13817 10765 11703 1681 4309 </step>
+    <step num="5">12595 210 11951 12182 </step>
+    <step num="6">12785 560 5994 10765 10590 </step>
+    <step num="7">7831 7990 11203 11004 5895 1681 10963 2147 </step>
+    <step num="8">13434 7990 238 8927 432 3044 </step>
+    <step num="9">3235 13817 1678 1391 6885 8525 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">5954 5994 6453 8387 1645 14124 5687 1391 14057 </steps_updated>
+    <steps_updated num="2">10950 5994 13757 14511 10968 11951 10907 6145 13817 1368 4834 1681 889 </steps_updated>
+    <steps_updated num="3">9179 11951 12708 797 7811 5994 7555 415 740 11951 12048 </steps_updated>
+    <steps_updated num="4">283 1681 4309 </steps_updated>
+    <steps_updated num="5">12595 210 11951 6467 12610 4654 13817 10765 11703 1681 4309 </steps_updated>
+    <steps_updated num="6">12595 210 11951 12182 </steps_updated>
+    <steps_updated num="7">12785 560 5994 10765 10590 </steps_updated>
+    <steps_updated num="8">7831 7990 11203 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="9">13434 7990 238 8927 432 3044 </steps_updated>
+    <steps_updated num="10">3235 13817 1678 1391 6885 8525 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

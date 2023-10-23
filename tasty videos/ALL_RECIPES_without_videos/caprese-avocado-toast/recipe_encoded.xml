@@ -1,0 +1,46 @@
+<recipe>
+  <title>Caprese Avocado Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caprese-avocado-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-toast-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2071 488 </ingredient>
+    <ingredient num="1">1580 13278 468 9635 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+    <ingredient num="4">8580 13278 5353 7042 976 </ingredient>
+    <ingredient num="5">3917 13278 10865 4074 976 </ingredient>
+    <ingredient num="6">3917 2629 13278 6209 749 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31699/low_1494972610.m3u8</low>
+    <high>https://vid.tasty.co/output/31699/mp4_720x1280/1494972610</high>
+  </video>
+  <duration>
+    <start_time>35.233</start_time>
+    <end_time>42.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">10641 2532 371 2237 2214 9179 82 13817 10986 560 8686 9393 1681 3145 4309 </step>
+    <step num="1">2988 11951 9635 4485 3584 13876 9971 13817 10707 1391 5353 7042 8111 13817 3962 13952 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10641 2532 371 2237 2214 </steps_updated>
+    <steps_updated num="1">9179 82 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="2">9393 1681 3145 4309 </steps_updated>
+    <steps_updated num="3">2988 11951 9635 4485 3584 13876 9971 13817 10707 1391 5353 7042 8111 13817 3962 13952 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01113</start_time>
+    <end_time>01300</end_time>
+  </duration_human>
+</recipe>

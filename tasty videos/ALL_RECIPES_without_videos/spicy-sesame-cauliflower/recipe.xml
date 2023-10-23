@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Sesame Cauliflower Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-sesame-cauliflower</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="1">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="2">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">½ head ; cauliflower </ingredient>
+    <ingredient num="5">oil, for frying </ingredient>
+    <ingredient num="6">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="7">1 tablespoon ; garlic </ingredient>
+    <ingredient num="8">½ cup ; soy sauce ; (120 mL) </ingredient>
+    <ingredient num="9">¼ cup ; rice vinegar ; (60 mL) </ingredient>
+    <ingredient num="10">1 tablespoon ; sugar </ingredient>
+    <ingredient num="11">2 tablespoons ; Sriracha </ingredient>
+    <ingredient num="12">sesame seed, garnish to taste </ingredient>
+    <ingredient num="13">scallions, chopped, for garnish </ingredient>
+    <ingredient num="14">1 tablespoon ; cornstarch slurry, mix 1/2 tbsp cornstarch and 1/2 tbsp water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32057/low_1495125053.m3u8</low>
+    <high>https://vid.tasty.co/output/32057/mp4_720x1280/1495125053</high>
+  </video>
+  <steps>
+    <step num="0">Whisk together flour, milk, baking powder and garlic powder. </step>
+    <step num="1">Add the chopped cauliflower and toss to coat. Make sure there’s a thin layer of batter over the cauliflower. </step>
+    <step num="2">Deep fry cauliflower until golden brown, remove and drain excess oil. </step>
+    <step num="3">Make the spicy sesame sauce by combining the sesame oil, garlic, soy sauce, rice vinegar, sugar and sriracha. </step>
+    <step num="4">Bring the sauce to a boil then add the cornstarch slurry. Mix in and let the sauce thicken. </step>
+    <step num="5">Add the fried cauliflower and toss to coat in sauce. </step>
+    <step num="6">Garnish with sesame seeds and chopped scallions. Serve with rice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk together flour, milk, baking powder and garlic powder. </steps_updated>
+    <steps_updated num="1">Add the chopped cauliflower and toss to coat. </steps_updated>
+    <steps_updated num="2">Make sure there’s a thin layer of batter over the cauliflower. </steps_updated>
+    <steps_updated num="3">Deep fry cauliflower until golden brown, remove and drain excess oil. </steps_updated>
+    <steps_updated num="4">Make the spicy sesame sauce by combining the sesame oil, garlic, soy sauce, rice vinegar, sugar and sriracha. </steps_updated>
+    <steps_updated num="5">Bring the sauce to a boil then add the cornstarch slurry. </steps_updated>
+    <steps_updated num="6">Mix in and let the sauce thicken. </steps_updated>
+    <steps_updated num="7">Add the fried cauliflower and toss to coat in sauce. </steps_updated>
+    <steps_updated num="8">Garnish with sesame seeds and chopped scallions. </steps_updated>
+    <steps_updated num="9">Serve with rice. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

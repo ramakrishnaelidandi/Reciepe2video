@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>4-Flavor Sandwich Ring Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/4-flavor-sandwich-ring</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11 oz ; french bread dough, 2 packages ; (310 g) </ingredient>
+    <ingredient num="1">4 tablespoons ; mayonnaise, divided </ingredient>
+    <ingredient num="2">2 tablespoons ; mustard, divided </ingredient>
+    <ingredient num="3">¼ lb ; sliced provolone cheese ; (115 g) </ingredient>
+    <ingredient num="4">¼ lb ; sliced deli cheese ; (115 g) </ingredient>
+    <ingredient num="5">¼ lb ; sliced deli turkey ; (115 g) </ingredient>
+    <ingredient num="6">¼ lb ; sliced deli roast beef ; (115 g) </ingredient>
+    <ingredient num="7">½ lb ; sliced deli ham ; (225 g) </ingredient>
+    <ingredient num="8">4 slices ; bacon, cooked, halved </ingredient>
+    <ingredient num="9">10 pieces ; romaine lettuce, rinsed and dried </ingredient>
+    <ingredient num="10">3 slices ; salami </ingredient>
+    <ingredient num="11">4 slices ; pepperoni </ingredient>
+    <ingredient num="12">1 ; tomato, sliced, divided </ingredient>
+    <ingredient num="13">1 tablespoon ; ranch dressing </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Lunch</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/77605/hls24_1518141311.m3u8</low>
+    <high>https://vid.tasty.co/output/77605/landscape_720/1518141311</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C) </step>
+    <step num="1">Spray a bundt pan with cooking spray and place both pieces of French bread dough into the bundt pan, pressing the edges together. </step>
+    <step num="2">Bake for 20-25 minutes, or until the crust is golden brown. Cool completely, and carefully slice in half. Place the top half aside during assembly. </step>
+    <step num="3">Visually separate the round bread into four quarters. The first quarter is on the top left, second, top right, third, bottom left, and fourth, bottom right. Spread mayonnaise on all four quarters of the bottom slice of bread. Then, spread mustard on quarters 2 and 3. </step>
+    <step num="4">Place slices of provolone cheese on quarters 1 and 3, followed by cheddar cheese on quarters 2 and 4. Place deli turkey slices on quarter 1 and roast beef slices on quarter 2. Put deli ham slices on quarters 3 and 4. </step>
+    <step num="5">Add bacon slices on top of the turkey in quarter 1, then lettuce on quarters 2 and 4. Add salami and pepperoni slices to quarter 3. </step>
+    <step num="6">Finish off the first quarter with some tomato slices, ranch dressing, and lettuce. Spread mustard on top of the lettuce of quarter 2, and mayonnaise onto the lettuce of quarter 8. </step>
+    <step num="7">Add tomatoes and lettuce to finish off quarter 3. Place the reserved piece of bread on top and carefully cut the ring into sandwiches. It may help to use toothpicks to hold the sandwiches together. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C) </steps_updated>
+    <steps_updated num="1">Spray a bundt pan with cooking spray and place both pieces of French bread dough into the bundt pan, pressing the edges together. </steps_updated>
+    <steps_updated num="2">Bake for 20-25 minutes, or until the crust is golden brown. </steps_updated>
+    <steps_updated num="3">Cool completely, and carefully slice in half. </steps_updated>
+    <steps_updated num="4">Place the top half aside during assembly. </steps_updated>
+    <steps_updated num="5">Visually separate the round bread into four quarters. </steps_updated>
+    <steps_updated num="6">The first quarter is on the top left, second, top right, third, bottom left, and fourth, bottom right. </steps_updated>
+    <steps_updated num="7">Spread mayonnaise on all four quarters of the bottom slice of bread. </steps_updated>
+    <steps_updated num="8">Then, spread mustard on quarters 2 and 3. </steps_updated>
+    <steps_updated num="9">Place slices of provolone cheese on quarters 1 and 3, followed by cheddar cheese on quarters 2 and 4. </steps_updated>
+    <steps_updated num="10">Place deli turkey slices on quarter 1 and roast beef slices on quarter 2. </steps_updated>
+    <steps_updated num="11">Put deli ham slices on quarters 3 and 4. </steps_updated>
+    <steps_updated num="12">Add bacon slices on top of the turkey in quarter 1, then lettuce on quarters 2 and 4. </steps_updated>
+    <steps_updated num="13">Add salami and pepperoni slices to quarter 3. </steps_updated>
+    <steps_updated num="14">Finish off the first quarter with some tomato slices, ranch dressing, and lettuce. </steps_updated>
+    <steps_updated num="15">Spread mustard on top of the lettuce of quarter 2, and mayonnaise onto the lettuce of quarter 8. </steps_updated>
+    <steps_updated num="16">Add tomatoes and lettuce to finish off quarter 3. </steps_updated>
+    <steps_updated num="17">Place the reserved piece of bread on top and carefully cut the ring into sandwiches. </steps_updated>
+    <steps_updated num="18">It may help to use toothpicks to hold the sandwiches together. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

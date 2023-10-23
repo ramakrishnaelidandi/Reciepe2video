@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet &amp; Sour Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-sour-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; boneless, skinless chicken breast ; (455 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">½ cup ; cornstarch ; (60 g) </ingredient>
+    <ingredient num="4">2 ; eggs, beaten </ingredient>
+    <ingredient num="5">oil, to fry </ingredient>
+    <ingredient num="6">1 tablespoon ; oil </ingredient>
+    <ingredient num="7">½ tablespoon ; garlic, minced </ingredient>
+    <ingredient num="8">1 ; bell pepper, diced </ingredient>
+    <ingredient num="9">¾ cup ; cider vinegar ; (180 mL) </ingredient>
+    <ingredient num="10">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="11">¼ cup ; ketchup ; (55 g) </ingredient>
+    <ingredient num="12">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="13">scallion, chopped </ingredient>
+    <ingredient num="14">sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59231/low_1509474853.m3u8</low>
+    <high>https://vid.tasty.co/output/59231/mp4_720x1280/1509474853</high>
+  </video>
+  <steps>
+    <step num="0">Season chicken with salt and pepper. Coat with cornstarch, dip in beaten egg. </step>
+    <step num="1">Fry until golden, crispy and cooked through. Set aside. Dab with paper towel if greasy. </step>
+    <step num="2">In a large pan, heat oil and fry garlic until fragrant. </step>
+    <step num="3">Add the bell pepper, cider vinegar, soy sauce, ketchup and sugar. Bring to a boil. </step>
+    <step num="4">When the sauce has thickened, add the fried chicken. Toss to coat. </step>
+    <step num="5">Garnish with chopped scallions and sesame seeds. Serve with rice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season chicken with salt and pepper. </steps_updated>
+    <steps_updated num="1">Coat with cornstarch, dip in beaten egg. </steps_updated>
+    <steps_updated num="2">Fry until golden, crispy and cooked through. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">Dab with paper towel if greasy. </steps_updated>
+    <steps_updated num="5">In a large pan, heat oil and fry garlic until fragrant. </steps_updated>
+    <steps_updated num="6">Add the bell pepper, cider vinegar, soy sauce, ketchup and sugar. </steps_updated>
+    <steps_updated num="7">Bring to a boil. </steps_updated>
+    <steps_updated num="8">When the sauce has thickened, add the fried chicken. </steps_updated>
+    <steps_updated num="9">Toss to coat. </steps_updated>
+    <steps_updated num="10">Garnish with chopped scallions and sesame seeds. </steps_updated>
+    <steps_updated num="11">Serve with rice. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

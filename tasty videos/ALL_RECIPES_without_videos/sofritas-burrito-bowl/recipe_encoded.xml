@@ -1,0 +1,60 @@
+<recipe>
+  <title>Sofrita Burrito Bowl</title>
+  <url>https://tasty.co/recipe/sofritas-burrito-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-eat-vegan-on-a-budget</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">1580 2605 13278 12384 11588 3962 13278 3433 5981 </ingredient>
+    <ingredient num="2">14058 643 13278 3141 10524 14412 7887 11247 13278 6898 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="4">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="5">9883 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">1580 8071 13278 3170 </ingredient>
+    <ingredient num="7">12791 8071 13278 9496 </ingredient>
+    <ingredient num="8">3917 2157 13278 499 7845 </ingredient>
+    <ingredient num="9">8580 9517 13278 1368 11948 3745 13278 7689 5981 </ingredient>
+    <ingredient num="10">8580 9517 13278 3333 9227 13278 4337 5981 </ingredient>
+    <ingredient num="11">1580 2605 13278 13584 6143 13278 7005 5981 </ingredient>
+    <ingredient num="12">1580 2605 13278 12655 814 13278 585 5981 </ingredient>
+    <ingredient num="13">1813 2605 13278 5871 13650 4027 13278 1420 5981 </ingredient>
+    <ingredient num="14">1580 2605 13278 11905 13278 9377 5981 </ingredient>
+    <ingredient num="15">12791 2605 13278 8083 12384 4426 13278 336 5981 </ingredient>
+    <ingredient num="16">6209 6712 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90034/hls24_1524075673.m3u8</low>
+    <high>https://vid.tasty.co/output/90034/landscape_720/1524075673</high>
+  </video>
+  <duration>
+    <start_time>50.5</start_time>
+    <end_time>110.199</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 7110 7855 11951 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 6334 13817 2550 1681 14492 199 12689 </step>
+    <step num="1">8431 12313 13676 560 12147 11951 11366 669 11951 11745 415 11003 5994 7700 560 4861 560 827 3409 3343 8224 7990 199 11004 1681 4721 506 </step>
+    <step num="2">9179 11951 11691 7280 13389 8117 11384 8117 2670 6958 13817 2408 8697 560 2550 13817 827 11951 11366 3409 1681 870 13817 5088 </step>
+    <step num="3">10450 4880 11434 1368 7706 4255 11951 551 371 5994 14511 415 11826 4255 7334 13584 13829 12655 11366 14593 5871 13650 7836 14322 13817 914 </step>
+    <step num="4">12774 10366 1391 1117 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 7110 7855 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 5766 10586 560 923 740 11951 6334 13817 2550 1681 14492 199 12689 </steps_updated>
+    <steps_updated num="2">8431 12313 13676 560 12147 11951 11366 669 11951 11745 415 11003 5994 7700 560 4861 560 827 3409 3343 8224 7990 199 11004 1681 4721 506 </steps_updated>
+    <steps_updated num="3">9179 11951 11691 7280 13389 8117 11384 8117 2670 6958 13817 2408 </steps_updated>
+    <steps_updated num="4">8697 560 2550 13817 827 11951 11366 3409 1681 870 13817 5088 </steps_updated>
+    <steps_updated num="5">10450 4880 11434 1368 7706 4255 11951 551 371 5994 14511 415 11826 4255 7334 13584 13829 12655 11366 14593 5871 13650 7836 14322 13817 914 </steps_updated>
+    <steps_updated num="6">12774 10366 1391 1117 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Tater Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-tater-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; granny smith apples </ingredient>
+    <ingredient num="1">lemon water, to prevent apples from browning </ingredient>
+    <ingredient num="2">2 tablespoons ; sugar </ingredient>
+    <ingredient num="3">¼ teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">¼ cup ; unsalted butter, 1/2 stick ; (55 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="8">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="9">4 ; large eggs </ingredient>
+    <ingredient num="10">oil, for frying </ingredient>
+    <ingredient num="11">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="12">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="13">1 ; piping bag, with a large star tip or large round tip </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Fusion</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101251/hls24_1530921787.m3u8</low>
+    <high>https://vid.tasty.co/output/101251/landscape_720/1530921787</high>
+  </video>
+  <steps>
+    <step num="0">Peel the apples and soak them in a medium bowl filled with lemon water to keep then from browning. Using a cheese grater, grate the apples. </step>
+    <step num="1">In another medium bowl, combine the grated apples and sprinkle with sugar and cinnamon. Stir to coat well and set aside. </step>
+    <step num="2">Make the churro dough: In a medium saucepan over high heat, combine the butter, brown sugar, salt, and water. Bring to a boil. </step>
+    <step num="3">Reduce the heat to medium-low and add the flour. Using a wooden spoon, stir until the dough comes together to form a ball, about 1 minute. </step>
+    <step num="4">Remove the pot from the heat and let cool for about 5 minutes to prevent accidentally cooking the eggs. </step>
+    <step num="5">Add the eggs, 1 at a time, being sure to fully incorporate each egg before adding the next. Set the dough aside. </step>
+    <step num="6">Spread a kitchen towel over a medium bowl. Transfer the grated apple to the towel and squeeze to remove moisture. </step>
+    <step num="7">Add the grated apple to the churro dough. Mix well with wooden spoon and transfer to a piping bag with a large star tip or large round tip. </step>
+    <step num="8">Heat the oil in a large pot until it reaches 350˚F (180˚C). </step>
+    <step num="9">Pipe the dough into the hot oil, using scissors to cut into bite-size pieces as you squeeze. Work in batches, if necessary, so as not to overcrowd the pot. Fry the churros until golden brown and fully cooked, 2-3 minutes. </step>
+    <step num="10">Transfer the hot churros to a medium bowl filled with cinnamon sugar and toss to coat. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the apples and soak them in a medium bowl filled with lemon water to keep then from browning. </steps_updated>
+    <steps_updated num="1">Using a cheese grater, grate the apples. </steps_updated>
+    <steps_updated num="2">In another medium bowl, combine the grated apples and sprinkle with sugar and cinnamon. </steps_updated>
+    <steps_updated num="3">Stir to coat well and set aside. </steps_updated>
+    <steps_updated num="4">Make the churro dough: In a medium saucepan over high heat, combine the butter, brown sugar, salt, and water. </steps_updated>
+    <steps_updated num="5">Bring to a boil. </steps_updated>
+    <steps_updated num="6">Reduce the heat to medium-low and add the flour. </steps_updated>
+    <steps_updated num="7">Using a wooden spoon, stir until the dough comes together to form a ball, about 1 minute. </steps_updated>
+    <steps_updated num="8">Remove the pot from the heat and let cool for about 5 minutes to prevent accidentally cooking the eggs. </steps_updated>
+    <steps_updated num="9">Add the eggs, 1 at a time, being sure to fully incorporate each egg before adding the next. </steps_updated>
+    <steps_updated num="10">Set the dough aside. </steps_updated>
+    <steps_updated num="11">Spread a kitchen towel over a medium bowl. </steps_updated>
+    <steps_updated num="12">Transfer the grated apple to the towel and squeeze to remove moisture. </steps_updated>
+    <steps_updated num="13">Add the grated apple to the churro dough. </steps_updated>
+    <steps_updated num="14">Mix well with wooden spoon and transfer to a piping bag with a large star tip or large round tip. </steps_updated>
+    <steps_updated num="15">Heat the oil in a large pot until it reaches 350˚F (180˚C). </steps_updated>
+    <steps_updated num="16">Pipe the dough into the hot oil, using scissors to cut into bite-size pieces as you squeeze. </steps_updated>
+    <steps_updated num="17">Work in batches, if necessary, so as not to overcrowd the pot. </steps_updated>
+    <steps_updated num="18">Fry the churros until golden brown and fully cooked, 2-3 minutes. </steps_updated>
+    <steps_updated num="19">Transfer the hot churros to a medium bowl filled with cinnamon sugar and toss to coat. </steps_updated>
+    <steps_updated num="20">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

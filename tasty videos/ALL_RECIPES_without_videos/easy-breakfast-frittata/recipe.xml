@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Breakfast Frittata Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-breakfast-frittata</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; eggs </ingredient>
+    <ingredient num="1">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="4">4 strips ; bacon, diced </ingredient>
+    <ingredient num="5">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="6">½ cup ; tomato, diced ; (100 g) </ingredient>
+    <ingredient num="7">4 cups ; spinach ; (900 g) </ingredient>
+    <ingredient num="8">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="9">green onion, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21520/low_1484964194.m3u8</low>
+    <high>https://vid.tasty.co/output/21520/mp4_720x1280/1484964194</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">In a large bowl, whisk the eggs, heavy cream, salt, and pepper. Refrigerate until read to use. </step>
+    <step num="2">In an oven-safe pan, cook bacon. Once fully cooked, take out the bacon and set aside. </step>
+    <step num="3">Add onions to the same pan and cook until translucent. </step>
+    <step num="4">Add tomatoes and spinach ,and cook for a couple minutes until spinach is slightly wilted. </step>
+    <step num="5">Add the bacon back into the pan. Blend together. </step>
+    <step num="6">Add the eggs and cheese into the pan. </step>
+    <step num="7">Give it a good stir, then bake for 15 minutes, or until the eggs do not jiggle in the middle. </step>
+    <step num="8">Top off with green onions, if desired. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, whisk the eggs, heavy cream, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Refrigerate until read to use. </steps_updated>
+    <steps_updated num="3">In an oven-safe pan, cook bacon. </steps_updated>
+    <steps_updated num="4">Once fully cooked, take out the bacon and set aside. </steps_updated>
+    <steps_updated num="5">Add onions to the same pan and cook until translucent. </steps_updated>
+    <steps_updated num="6">Add tomatoes and spinach ,and cook for a couple minutes until spinach is slightly wilted. </steps_updated>
+    <steps_updated num="7">Add the bacon back into the pan. </steps_updated>
+    <steps_updated num="8">Blend together. </steps_updated>
+    <steps_updated num="9">Add the eggs and cheese into the pan. </steps_updated>
+    <steps_updated num="10">Give it a good stir, then bake for 15 minutes, or until the eggs do not jiggle in the middle. </steps_updated>
+    <steps_updated num="11">Top off with green onions, if desired. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

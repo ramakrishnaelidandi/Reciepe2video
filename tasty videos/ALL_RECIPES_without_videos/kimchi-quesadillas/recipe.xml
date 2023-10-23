@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Kimchi Quesadillas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kimchi-quesadillas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; butter </ingredient>
+    <ingredient num="1">1 cup ; kimchi, drained and roughly chopped ; (230 g) </ingredient>
+    <ingredient num="2">2 ; flour tortillas, 8-inch (20cm) </ingredient>
+    <ingredient num="3">2 tablespoons ; sesame seed, toasted </ingredient>
+    <ingredient num="4">1 cup ; sharp cheddar cheese, grated ; (110 g) </ingredient>
+    <ingredient num="5">1 cup ; monterey jack cheese, grated ; (110 g) </ingredient>
+    <ingredient num="6">1 tablespoon ; vegetable oil, or oil of your choice </ingredient>
+    <ingredient num="7">1 bunch ; green onion, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Korean</category>
+    <category num="1">Mexican</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32003/low_1495125011.m3u8</low>
+    <high>https://vid.tasty.co/output/32003/mp4_720x1280/1495125011</high>
+  </video>
+  <steps>
+    <step num="0">Drain kimchi and roughly chop. </step>
+    <step num="1">Add butter to a large skillet over medium-high heat. When melted, add kimchi. </step>
+    <step num="2">Cook and stir for about 6 minutes until the edges of the kimchi start to turn a golden brown. Transfer to a bowl and let it cool down. </step>
+    <step num="3">Add the kimchi, cheese, and sesame seeds to a tortilla. Fold the tortilla in half. </step>
+    <step num="4">Pour oil into a large skillet over medium heat. Fry the quesadilla for about two minutes on each side, or until the tortilla has turned a golden brown and the cheese has melted. </step>
+    <step num="5">Serve with a garnish of diced green onions and sesame seeds. Slice into quarters. </step>
+    <step num="6">NOTE: Experiment with proteins by adding beef, pork, or chicken to the quesadillas. For even more of a Korean influence, try adding Korean BBQ-style proteins! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Drain kimchi and roughly chop. </steps_updated>
+    <steps_updated num="1">Add butter to a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="2">When melted, add kimchi. </steps_updated>
+    <steps_updated num="3">Cook and stir for about 6 minutes until the edges of the kimchi start to turn a golden brown. </steps_updated>
+    <steps_updated num="4">Transfer to a bowl and let it cool down. </steps_updated>
+    <steps_updated num="5">Add the kimchi, cheese, and sesame seeds to a tortilla. </steps_updated>
+    <steps_updated num="6">Fold the tortilla in half. </steps_updated>
+    <steps_updated num="7">Pour oil into a large skillet over medium heat. </steps_updated>
+    <steps_updated num="8">Fry the quesadilla for about two minutes on each side, or until the tortilla has turned a golden brown and the cheese has melted. </steps_updated>
+    <steps_updated num="9">Serve with a garnish of diced green onions and sesame seeds. </steps_updated>
+    <steps_updated num="10">Slice into quarters. </steps_updated>
+    <steps_updated num="11">NOTE: Experiment with proteins by adding beef, pork, or chicken to the quesadillas. </steps_updated>
+    <steps_updated num="12">For even more of a Korean influence, try adding Korean BBQ-style proteins! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

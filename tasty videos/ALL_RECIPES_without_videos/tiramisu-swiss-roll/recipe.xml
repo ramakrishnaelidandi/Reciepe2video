@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tiramisu Swiss Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tiramisu-swiss-roll</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; large eggs </ingredient>
+    <ingredient num="1">5 oz ; vanilla cake mix, 1 box ; (455 g) </ingredient>
+    <ingredient num="2">½ cup ; vegetable oil ; (120 mL) </ingredient>
+    <ingredient num="3">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="4">½ cup ; cocoa powder ; (60 g) </ingredient>
+    <ingredient num="5">1 cup ; heavy cream ; (240 mL) </ingredient>
+    <ingredient num="6">1 tablespoon ; espresso powder </ingredient>
+    <ingredient num="7">16 oz ; mascarpone cheese, whipped ; (455 g) </ingredient>
+    <ingredient num="8">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="9">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="10">5 ; ladyfingers </ingredient>
+    <ingredient num="11">½ cup ; espresso, chilled ; (120 mL) </ingredient>
+    <ingredient num="12">½ cup ; chocolate shaving ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102970/hls24_1532458280.m3u8</low>
+    <high>https://vid.tasty.co/output/102970/landscape_720/1532458280</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">In a large bowl, combine the eggs, vanilla cake mix, vegetable oil, and water. Beat with an electric hand mixer to combine. </step>
+    <step num="2">Pour the cake batter onto the prepared baking sheet and spread with a spatula into an even layer. </step>
+    <step num="3">Bake for 8 minutes, or until golden brown. </step>
+    <step num="4">Sift the cocoa powder through a fine-mesh sieve all over a clean kitchen towel. </step>
+    <step num="5">Flip the cake onto the cocoa powder-dusted towel and remove the parchment paper. Starting with a short end, roll up the cake with the towel. </step>
+    <step num="6">Refrigerate for 1 hour. </step>
+    <step num="7">In a medium bowl, whip the heavy cream and espresso powder with an electric hand mixer until fluffy. </step>
+    <step num="8">Add the mascarpone, sugar, and vanilla to the espresso cream and beat until smooth. </step>
+    <step num="9">Unroll the cake and spread with the espresso cream in an even layer, leaving 1½ inches (4 cm) from the top empty and reserving 1 cup (225 g) of espresso cream for decoration. </step>
+    <step num="10">Arrange the ladyfingers on the cake horizontally, 2 inches (5 cm) from the bottom. Brush the ladyfingers with the chilled espresso. </step>
+    <step num="11">Roll the cake back up, using the towel as a guide but not rolling it inside the cake. </step>
+    <step num="12">Refrigerate for another hour, then unwrap the cake. </step>
+    <step num="13">Transfer the remaining espresso cream to a piping bag. </step>
+    <step num="14">Pipe 6 espresso cream dollops on top of the tiramisu roll. Sprinkle chocolate shavings on top. </step>
+    <step num="15">Slice and serve. </step>
+    <step num="16">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine the eggs, vanilla cake mix, vegetable oil, and water. </steps_updated>
+    <steps_updated num="3">Beat with an electric hand mixer to combine. </steps_updated>
+    <steps_updated num="4">Pour the cake batter onto the prepared baking sheet and spread with a spatula into an even layer. </steps_updated>
+    <steps_updated num="5">Bake for 8 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="6">Sift the cocoa powder through a fine-mesh sieve all over a clean kitchen towel. </steps_updated>
+    <steps_updated num="7">Flip the cake onto the cocoa powder-dusted towel and remove the parchment paper. </steps_updated>
+    <steps_updated num="8">Starting with a short end, roll up the cake with the towel. </steps_updated>
+    <steps_updated num="9">Refrigerate for 1 hour. </steps_updated>
+    <steps_updated num="10">In a medium bowl, whip the heavy cream and espresso powder with an electric hand mixer until fluffy. </steps_updated>
+    <steps_updated num="11">Add the mascarpone, sugar, and vanilla to the espresso cream and beat until smooth. </steps_updated>
+    <steps_updated num="12">Unroll the cake and spread with the espresso cream in an even layer, leaving 1½ inches (4 cm) from the top empty and reserving 1 cup (225 g) of espresso cream for decoration. </steps_updated>
+    <steps_updated num="13">Arrange the ladyfingers on the cake horizontally, 2 inches (5 cm) from the bottom. </steps_updated>
+    <steps_updated num="14">Brush the ladyfingers with the chilled espresso. </steps_updated>
+    <steps_updated num="15">Roll the cake back up, using the towel as a guide but not rolling it inside the cake. </steps_updated>
+    <steps_updated num="16">Refrigerate for another hour, then unwrap the cake. </steps_updated>
+    <steps_updated num="17">Transfer the remaining espresso cream to a piping bag. </steps_updated>
+    <steps_updated num="18">Pipe 6 espresso cream dollops on top of the tiramisu roll. </steps_updated>
+    <steps_updated num="19">Sprinkle chocolate shavings on top. </steps_updated>
+    <steps_updated num="20">Slice and serve. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

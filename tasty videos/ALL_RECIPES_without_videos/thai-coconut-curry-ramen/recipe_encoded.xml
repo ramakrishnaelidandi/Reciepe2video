@@ -1,0 +1,44 @@
+<recipe>
+  <title>Thai Coconut Curry Ramen Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-coconut-curry-ramen</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-instant-ramen-upgrades</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 3756 13278 5075 4109 </ingredient>
+    <ingredient num="1">3917 14014 13278 9924 </ingredient>
+    <ingredient num="2">13086 9486 13278 6742 5802 </ingredient>
+    <ingredient num="3">13086 2031 13278 4985 11210 30 </ingredient>
+    <ingredient num="4">8580 9486 13278 9712 10522 </ingredient>
+    <ingredient num="5">3917 14014 13278 6097 12411 3962 </ingredient>
+    <ingredient num="6">2933 8535 13278 14038 </ingredient>
+    <ingredient num="7">3917 14014 13278 6209 6712 1404 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102372/hls24_1531937316.m3u8</low>
+    <high>https://vid.tasty.co/output/102372/landscape_720/1531937316</high>
+  </video>
+  <duration>
+    <start_time>1.666</start_time>
+    <end_time>34.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">10450 5994 10083 1391 8580 9517 4551 9443 371 2032 12282 740 11951 4109 2634 8532 13817 5994 14014 371 14057 12473 1681 11951 9924 4033 13817 415 740 11951 4109 5777 10224 13817 2550 1681 11951 13633 13593 1910 8580 12689 1083 11951 4109 669 5994 7616 </step>
+    <step num="1">10450 11951 9864 1757 740 11951 6742 9889 4985 11210 5337 13817 6209 9712 8587 12473 560 502 </step>
+    <step num="2">13688 1391 3850 3579 13817 6712 5358 936 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10450 5994 10083 1391 8580 9517 4551 9443 371 2032 12282 740 11951 4109 2634 8532 13817 5994 14014 371 14057 </steps_updated>
+    <steps_updated num="1">12473 1681 11951 9924 4033 13817 415 740 11951 4109 5777 10224 13817 2550 1681 11951 13633 13593 1910 8580 12689 </steps_updated>
+    <steps_updated num="2">1083 11951 4109 669 5994 7616 </steps_updated>
+    <steps_updated num="3">10450 11951 9864 1757 740 11951 6742 9889 4985 11210 5337 13817 6209 9712 8587 </steps_updated>
+    <steps_updated num="4">12473 560 502 </steps_updated>
+    <steps_updated num="5">13688 1391 3850 3579 13817 6712 5358 936 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

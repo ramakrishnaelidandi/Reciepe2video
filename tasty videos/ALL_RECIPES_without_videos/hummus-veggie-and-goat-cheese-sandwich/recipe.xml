@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hummus, Veggie, And Goat Cheese Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hummus-veggie-and-goat-cheese-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/chicken-and-wild-rice-soup-and-sandwich</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; goat cheese, soft </ingredient>
+    <ingredient num="1">2 tablespoons ; balsamic vinegar </ingredient>
+    <ingredient num="2">4 ; small ciabatta rolls, halved </ingredient>
+    <ingredient num="3">½ cup ; roasted garlic hummus ; (125 g) </ingredient>
+    <ingredient num="4">1 ; large seedless cucumber, sliced </ingredient>
+    <ingredient num="5">2 ; large roma tomatoes, thinly sliced </ingredient>
+    <ingredient num="6">¼ ; small red onion, thinly sliced </ingredient>
+    <ingredient num="7">1 cup ; fresh arugula ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/126202/hls24_1551495681.m3u8</low>
+    <high>https://vid.tasty.co/output/126202/landscape_720/1551495681</high>
+  </video>
+  <duration>
+    <start_time>124.0</start_time>
+    <end_time>167.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In small bowl, combine the goat cheese and balsamic vinegar and mix until well combined. </step>
+    <step num="1">Spread about 1 tablespoon of the goat cheese mixture on the top half of each ciabatta roll. </step>
+    <step num="2">Spread about 2 tablespoons of roasted garlic hummus on the bottom half of each roll. </step>
+    <step num="3">On bottom half of each roll, layer 4 cucumber slices, 2 tomato slices, onion slices, and a handful of arugula. </step>
+    <step num="4">Cover with the top halves of rolls. Insert a toothpick into each sandwich to secure. </step>
+    <step num="5">Serve with chicken and wild rice soup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In small bowl, combine the goat cheese and balsamic vinegar and mix until well combined. </steps_updated>
+    <steps_updated num="1">Spread about 1 tablespoon of the goat cheese mixture on the top half of each ciabatta roll. </steps_updated>
+    <steps_updated num="2">Spread about 2 tablespoons of roasted garlic hummus on the bottom half of each roll. </steps_updated>
+    <steps_updated num="3">On bottom half of each roll, layer 4 cucumber slices, 2 tomato slices, onion slices, and a handful of arugula. </steps_updated>
+    <steps_updated num="4">Cover with the top halves of rolls. </steps_updated>
+    <steps_updated num="5">Insert a toothpick into each sandwich to secure. </steps_updated>
+    <steps_updated num="6">Serve with chicken and wild rice soup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

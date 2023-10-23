@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>GoT Cocktails: Winter Is Here Dark Stout Beer Milkshake</title>
+  <url>https://tasty.co/recipe/winter-is-here</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; vanilla ice cream ; (480 mL) </ingredient>
+    <ingredient num="1">1 cup ; dark stout beer ; (240 mL) </ingredient>
+    <ingredient num="2">chocolate syrup, to taste </ingredient>
+    <ingredient num="3">whipped cream </ingredient>
+    <ingredient num="4">dark chocolate shavings </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129064/hls24_1554400110.m3u8</low>
+    <high>https://vid.tasty.co/output/129064/landscape_720/1554400110</high>
+  </video>
+  <steps>
+    <step num="0">Place a pint glass or stein in the freezer to chill while you make the milkshake. </step>
+    <step num="1">In a blender, combine the ice cream and beer. Blend on medium speed until fully combined. </step>
+    <step num="2">Drizzle the chocolate syrup around the inside of the chilled glass. Pour in the ice cream–beer blend to fill. </step>
+    <step num="3">Top with whipped cream and drizzle with more chocolate syrup. </step>
+    <step num="4">Garnish with chocolate shavings. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a pint glass or stein in the freezer to chill while you make the milkshake. </steps_updated>
+    <steps_updated num="1">In a blender, combine the ice cream and beer. </steps_updated>
+    <steps_updated num="2">Blend on medium speed until fully combined. </steps_updated>
+    <steps_updated num="3">Drizzle the chocolate syrup around the inside of the chilled glass. </steps_updated>
+    <steps_updated num="4">Pour in the ice cream–beer blend to fill. </steps_updated>
+    <steps_updated num="5">Top with whipped cream and drizzle with more chocolate syrup. </steps_updated>
+    <steps_updated num="6">Garnish with chocolate shavings. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

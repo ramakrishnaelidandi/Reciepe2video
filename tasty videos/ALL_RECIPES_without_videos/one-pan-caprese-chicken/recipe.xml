@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Caprese Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-caprese-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-chicken-meal-prep-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ lb ; asparagus, trimmed ; (230 g) </ingredient>
+    <ingredient num="1">olive oil, to taste </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 clove ; garlic, minced </ingredient>
+    <ingredient num="5">1 ; chicken breast </ingredient>
+    <ingredient num="6">fresh mozzarella cheese, sliced </ingredient>
+    <ingredient num="7">1 ; tomato, sliced </ingredient>
+    <ingredient num="8">3 leaves ; fresh basil </ingredient>
+    <ingredient num="9">parchment paper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28652/low_1491583506.m3u8</low>
+    <high>https://vid.tasty.co/output/28652/mp4_720x1280/1491583506</high>
+  </video>
+  <duration>
+    <start_time>26.1</start_time>
+    <end_time>43.44</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Place asparagus into mixing bowl and thoroughly coat with olive oil, salt, pepper, and garlic. </step>
+    <step num="2">Tear off a sheet of parchment paper, large enough to fold into a packet. </step>
+    <step num="3">Place chicken breast on top and season with salt and pepper. Place mozzarella, tomato, and basil on top. </step>
+    <step num="4">Fold the edges of the parchment paper widthwise 2-3 times then twist the ends until fully closed. </step>
+    <step num="5">Bake for 20-25 minutes or until internal temperature reaches 165°F (74°C). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Place asparagus into mixing bowl and thoroughly coat with olive oil, salt, pepper, and garlic. </steps_updated>
+    <steps_updated num="2">Tear off a sheet of parchment paper, large enough to fold into a packet. </steps_updated>
+    <steps_updated num="3">Place chicken breast on top and season with salt and pepper. </steps_updated>
+    <steps_updated num="4">Place mozzarella, tomato, and basil on top. </steps_updated>
+    <steps_updated num="5">Fold the edges of the parchment paper widthwise 2-3 times then twist the ends until fully closed. </steps_updated>
+    <steps_updated num="6">Bake for 20-25 minutes or until internal temperature reaches 165°F (74°C). </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00303</start_time>
+    <end_time>01315</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,55 @@
+<recipe>
+  <title>Veggnog (Vegan Eggnog) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggnog-vegan-eggnog</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dairy-free-holiday-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 11677 13278 12933 5981 </ingredient>
+    <ingredient num="1">3917 14138 13278 2170 6742 5802 </ingredient>
+    <ingredient num="2">12791 2605 13278 9171 6818 13278 7005 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 13384 740 3954 2658 13615 7990 13218 7968 13278 13125 8007 </ingredient>
+    <ingredient num="4">13086 13278 9185 1885 </ingredient>
+    <ingredient num="5">12791 8071 13278 9223 </ingredient>
+    <ingredient num="6">8580 13278 1319 3984 11841 1245 13423 </ingredient>
+    <ingredient num="7">6209 5363 560 11567 </ingredient>
+    <ingredient num="8">4075 14290 5895 6704 560 13772 2517 </ingredient>
+    <ingredient num="9">12425 9528 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68345/hls24_1513364143.m3u8</low>
+    <high>https://vid.tasty.co/output/68345/landscape_720/1513364143</high>
+  </video>
+  <duration>
+    <start_time>3.2800000000000002</start_time>
+    <end_time>38.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">7872 11677 210 12282 7990 238 12689 6621 415 3499 210 5994 8164 </step>
+    <step num="1">9179 280 6742 9889 9171 1285 13384 11637 1821 1319 3984 12320 5363 13817 6160 6059 560 5994 12095 3262 1681 2043 12119 </step>
+    <step num="2">2356 11951 2373 1681 12550 560 12992 10144 217 13396 11951 2482 9179 3954 12282 13817 1279 2798 7990 5994 60 7799 </step>
+    <step num="3">12774 2189 1391 5363 13817 12425 9716 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">7872 11677 210 12282 7990 238 12689 </steps_updated>
+    <steps_updated num="1">6621 415 3499 210 5994 8164 </steps_updated>
+    <steps_updated num="2">9179 280 6742 9889 9171 1285 13384 11637 1821 1319 3984 12320 5363 13817 6160 6059 560 5994 12095 </steps_updated>
+    <steps_updated num="3">3262 1681 2043 12119 </steps_updated>
+    <steps_updated num="4">2356 11951 2373 1681 12550 560 12992 </steps_updated>
+    <steps_updated num="5">10144 217 13396 11951 2482 </steps_updated>
+    <steps_updated num="6">9179 3954 12282 13817 1279 2798 7990 5994 60 7799 </steps_updated>
+    <steps_updated num="7">12774 2189 1391 5363 13817 12425 9716 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

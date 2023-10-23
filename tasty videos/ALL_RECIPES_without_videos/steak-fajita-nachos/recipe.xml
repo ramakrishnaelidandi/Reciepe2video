@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steak Fajita Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-fajita-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; hanger steak ; (905 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper </ingredient>
+    <ingredient num="3">2 teaspoons ; chili powder </ingredient>
+    <ingredient num="4">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="5">2 teaspoons ; cumin </ingredient>
+    <ingredient num="6">3 tablespoons ; oil </ingredient>
+    <ingredient num="7">9 oz ; tortilla chips ; (255 g) </ingredient>
+    <ingredient num="8">1 ; green pepper, sliced </ingredient>
+    <ingredient num="9">1 ; red pepper, sliced </ingredient>
+    <ingredient num="10">½ ; white onion, sliced </ingredient>
+    <ingredient num="11">2 cups ; pepper jack cheese ; (200 g) </ingredient>
+    <ingredient num="12">1 cup ; cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="13">guacamole, garnish </ingredient>
+    <ingredient num="14">sour cream, garnish </ingredient>
+    <ingredient num="15">salsa, garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350F°/175°C. </step>
+    <step num="1">Mix the steak, salt, pepper, chili powder, garlic powder, and cumin in a bowl until evenly coated. </step>
+    <step num="2">Heat oil in a pan over very high heat, until barely smoking. Fry the steak for 30 seconds on each side, then rest on a cutting board for 5 minutes. </step>
+    <step num="3">Slice the steak into bite-size pieces. </step>
+    <step num="4">In a large pan or skillet, lay down half of the tortilla chips, followed by half of the steak, peppers, onions, pepper jack, and cheddar. Repeat with the remaining ingredients. </step>
+    <step num="5">Bake for 15 minutes, until cheese is melted. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350F°/175°C. </steps_updated>
+    <steps_updated num="1">Mix the steak, salt, pepper, chili powder, garlic powder, and cumin in a bowl until evenly coated. </steps_updated>
+    <steps_updated num="2">Heat oil in a pan over very high heat, until barely smoking. </steps_updated>
+    <steps_updated num="3">Fry the steak for 30 seconds on each side, then rest on a cutting board for 5 minutes. </steps_updated>
+    <steps_updated num="4">Slice the steak into bite-size pieces. </steps_updated>
+    <steps_updated num="5">In a large pan or skillet, lay down half of the tortilla chips, followed by half of the steak, peppers, onions, pepper jack, and cheddar. </steps_updated>
+    <steps_updated num="6">Repeat with the remaining ingredients. </steps_updated>
+    <steps_updated num="7">Bake for 15 minutes, until cheese is melted. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

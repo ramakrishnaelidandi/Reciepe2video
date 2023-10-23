@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon Spinach Omelet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-spinach-omelet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/portable-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; eggs </ingredient>
+    <ingredient num="1">½ teaspoon ; salt </ingredient>
+    <ingredient num="2">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 strip ; bacon, cooked and chopped </ingredient>
+    <ingredient num="4">½ cup ; fresh spinach, chopped ; (20 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; shredded cheddar cheese </ingredient>
+    <ingredient num="6">green onion, chopped,optional, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102123/hls24_1531775108.m3u8</low>
+    <high>https://vid.tasty.co/output/102123/landscape_720/1531775108</high>
+  </video>
+  <duration>
+    <start_time>4.166</start_time>
+    <end_time>41.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a 16 oz (475 ml) mason jar, add eggs, salt, pepper, bacon, spinach, and cheese. Place the lid on the mason jar and shake until ingredients are well-combined. </step>
+    <step num="1">Remove lid and place microwave for 1½-2 minutes, or until omelet appears puffy. *Be careful mason jar will be hot* </step>
+    <step num="2">Top with green onions, if desired. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a 16 oz (475 ml) mason jar, add eggs, salt, pepper, bacon, spinach, and cheese. </steps_updated>
+    <steps_updated num="1">Place the lid on the mason jar and shake until ingredients are well-combined. </steps_updated>
+    <steps_updated num="2">Remove lid and place microwave for 1½-2 minutes, or until omelet appears puffy. </steps_updated>
+    <steps_updated num="3">*Be careful mason jar will be hot* </steps_updated>
+    <steps_updated num="4">Top with green onions, if desired. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

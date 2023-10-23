@@ -1,0 +1,53 @@
+<recipe>
+  <title>Stuffed Fried Pickles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-fried-pickles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 13278 3043 2197 </ingredient>
+    <ingredient num="1">11061 12401 13278 10865 14538 </ingredient>
+    <ingredient num="2">11061 8535 13278 12868 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 13521 890 13278 11028 5981 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 12956 1230 13278 3433 5981 </ingredient>
+    <ingredient num="5">13086 13278 2597 14463 9917 </ingredient>
+    <ingredient num="6">7632 7990 5291 </ingredient>
+    <ingredient num="7">10534 11796 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85739/hls24_1521650649.m3u8</low>
+    <high>https://vid.tasty.co/output/85739/landscape_720/1521650649</high>
+  </video>
+  <steps>
+    <step num="0">12474 5994 4669 8667 12205 11951 672 3482 11951 2197 13817 3345 8829 4255 11951 11952 </step>
+    <step num="1">5209 2237 9908 71 1150 2696 11951 2197 13817 10480 11951 960 7990 8676 </step>
+    <step num="2">5570 5994 12205 371 12868 4255 11951 4669 4330 13817 4536 3557 5412 5994 1434 14538 9716 </step>
+    <step num="3">4102 11951 5326 14538 1297 210 5994 1150 5988 5362 1391 11951 374 7489 13810 13817 879 </step>
+    <step num="4">14100 11951 1997 2197 669 7579 1745 51 10832 </step>
+    <step num="5">5570 11951 6467 14463 13817 4465 9031 210 13086 10909 13757 7139 2668 10763 10791 12205 210 11951 6467 14463 415 5094 9082 11901 10763 12205 9490 7568 229 </step>
+    <step num="6">2668 10763 10304 10791 937 669 6467 14463 415 5094 9082 11901 10763 797 9490 7568 9214 </step>
+    <step num="7">8889 11951 5766 210 5994 13757 10083 1681 3557 13751 3963 12013 8916 11951 10791 8535 13817 9854 7990 6620 11004 5895 1681 10963 2147 </step>
+    <step num="8">12774 1391 10534 13051 7990 2110 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 12205 11951 672 3482 11951 2197 13817 3345 8829 4255 11951 11952 </steps_updated>
+    <steps_updated num="1">5209 2237 9908 71 1150 2696 11951 2197 13817 10480 11951 960 7990 8676 </steps_updated>
+    <steps_updated num="2">5570 5994 12205 371 12868 4255 11951 4669 4330 13817 4536 3557 5412 5994 1434 14538 9716 </steps_updated>
+    <steps_updated num="3">4102 11951 5326 14538 1297 210 5994 1150 5988 </steps_updated>
+    <steps_updated num="4">5362 1391 11951 374 7489 13810 13817 879 </steps_updated>
+    <steps_updated num="5">14100 11951 1997 2197 669 7579 1745 51 10832 </steps_updated>
+    <steps_updated num="6">5570 11951 6467 14463 13817 4465 9031 210 13086 10909 13757 7139 </steps_updated>
+    <steps_updated num="7">2668 10763 10791 12205 210 11951 6467 14463 415 5094 9082 11901 10763 12205 9490 7568 229 </steps_updated>
+    <steps_updated num="8">2668 10763 10304 10791 937 669 6467 14463 415 5094 9082 11901 10763 797 9490 7568 9214 </steps_updated>
+    <steps_updated num="9">8889 11951 5766 210 5994 13757 10083 1681 3557 13751 3963 12013 </steps_updated>
+    <steps_updated num="10">8916 11951 10791 8535 13817 9854 7990 6620 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="11">12774 1391 10534 13051 7990 2110 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

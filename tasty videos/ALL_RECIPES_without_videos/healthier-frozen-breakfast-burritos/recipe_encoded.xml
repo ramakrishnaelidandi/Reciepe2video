@@ -1,0 +1,79 @@
+<recipe>
+  <title>Healthier Frozen Breakfast Burritos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-frozen-breakfast-burritos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-meal-prep-for-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 8535 13278 13355 8932 </ingredient>
+    <ingredient num="1">3917 13278 10882 6817 4125 13817 341 </ingredient>
+    <ingredient num="2">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="3">11061 9517 13278 6209 2602 728 13278 7503 5981 </ingredient>
+    <ingredient num="4">11061 13278 14463 9917 </ingredient>
+    <ingredient num="5">8244 7632 5895 5766 371 6507 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">10986 560 11567 </ingredient>
+    <ingredient num="8">3333 13810 371 4399 560 11567 </ingredient>
+    <ingredient num="9">3305 2168 5817 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57232/low_1508449017.m3u8</low>
+    <high>https://vid.tasty.co/output/57232/mp4_720x1280/1508449017</high>
+  </video>
+  <duration>
+    <start_time>67.36</start_time>
+    <end_time>138.78</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 10060 11770 13757 14307 2550 13355 8932 12968 560 3756 1254 6054 13817 817 560 11951 145 </step>
+    <step num="1">5209 11951 5540 6326 740 341 10882 13233 13817 12616 1391 82 13817 12375 264 1681 2021 6054 6781 5687 13817 817 5292 </step>
+    <step num="2">9179 341 8083 1466 2986 13817 2550 1681 2296 6054 6781 5687 13817 817 5292 </step>
+    <step num="3">264 2602 415 817 5292 </step>
+    <step num="4">10211 7855 560 4531 13817 5406 210 9917 8536 6054 6781 5687 1956 907 </step>
+    <step num="5">10450 13746 11951 588 3345 573 3550 1715 415 9370 11951 11237 4255 143 9179 3699 14463 10882 2274 2602 1466 10986 13355 7035 13817 4496 </step>
+    <step num="6">12595 11951 4709 13817 14462 11801 371 11951 12870 3763 415 7475 11951 551 3386 13817 4536 12328 </step>
+    <step num="7">7692 12870 669 3550 8831 </step>
+    <step num="8">12774 11007 5895 3345 669 5994 12854 5895 6661 1854 </step>
+    <step num="9">12785 560 11951 10933 13855 7990 3386 560 3917 8043 </step>
+    <step num="10">10450 9335 5103 12870 6781 3550 12 13817 7558 210 5994 4392 12 671 </step>
+    <step num="11">6688 7990 13086 8927 5895 1681 10316 </step>
+    <step num="12">6117 7990 797 6513 </step>
+    <step num="13">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 10060 11770 13757 14307 2550 13355 8932 12968 560 3756 1254 </steps_updated>
+    <steps_updated num="1">6054 13817 817 560 11951 145 </steps_updated>
+    <steps_updated num="2">5209 11951 5540 6326 740 341 10882 13233 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">264 1681 2021 </steps_updated>
+    <steps_updated num="4">6054 6781 5687 13817 817 5292 </steps_updated>
+    <steps_updated num="5">9179 341 8083 1466 2986 13817 2550 1681 2296 </steps_updated>
+    <steps_updated num="6">6054 6781 5687 13817 817 5292 </steps_updated>
+    <steps_updated num="7">264 2602 415 817 5292 </steps_updated>
+    <steps_updated num="8">10211 7855 560 4531 13817 5406 210 9917 8536 </steps_updated>
+    <steps_updated num="9">6054 6781 5687 1956 907 </steps_updated>
+    <steps_updated num="10">10450 13746 11951 588 3345 573 3550 1715 415 9370 11951 11237 4255 143 </steps_updated>
+    <steps_updated num="11">9179 3699 14463 10882 2274 2602 1466 10986 13355 7035 13817 4496 </steps_updated>
+    <steps_updated num="12">12595 11951 4709 13817 14462 11801 371 11951 12870 3763 415 7475 11951 551 3386 13817 4536 12328 </steps_updated>
+    <steps_updated num="13">7692 12870 669 3550 8831 </steps_updated>
+    <steps_updated num="14">12774 11007 5895 3345 669 5994 12854 5895 6661 1854 </steps_updated>
+    <steps_updated num="15">12785 560 11951 10933 </steps_updated>
+    <steps_updated num="16">13855 7990 3386 560 3917 8043 </steps_updated>
+    <steps_updated num="17">10450 9335 5103 12870 6781 3550 12 13817 7558 210 5994 4392 12 671 </steps_updated>
+    <steps_updated num="18">6688 7990 13086 8927 5895 1681 10316 </steps_updated>
+    <steps_updated num="19">6117 7990 797 6513 </steps_updated>
+    <steps_updated num="20">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02082</start_time>
+    <end_time>04175</end_time>
+  </duration_human>
+</recipe>

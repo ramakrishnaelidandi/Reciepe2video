@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peanut Butter Chocolate Snack Mix Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-chocolate-snack-mix</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/snack-mix-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; semi sweet chocolate ; (225 g) </ingredient>
+    <ingredient num="1">¼ cup ; creamy peanut butter ; (65 g) </ingredient>
+    <ingredient num="2">5 cups ; rice cereal ; (235 g) </ingredient>
+    <ingredient num="3">1 cup ; powdered sugar ; (160 g) </ingredient>
+    <ingredient num="4">½ cup ; peanut butter chocolate candy ; (95 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14246/low_1478649778.m3u8</low>
+    <high>https://vid.tasty.co/output/14246/mp4_720x1280/1478649778</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>36.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, mix together the chocolate and peanut butter. Melt in microwave for 60 seconds, stirring every 15 seconds, until smooth. </step>
+    <step num="1">Place the rice cereal in large bowl. Pour the melted chocolate over the cereal and stir to coat. </step>
+    <step num="2">In a large plastic bag, add the powdered sugar and cereal. Seal the bag and shake until the cereal is well coated. </step>
+    <step num="3">Add the peanut butter chocolate candy and shake to incorporate. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, mix chocolate and peanut butter. </steps_updated>
+    <steps_updated num="1">Melt in microwave for 60 seconds. </steps_updated>
+    <steps_updated num="2">Stir every 15 seconds until melted. </steps_updated>
+    <steps_updated num="3">Place cereal in large bowl. </steps_updated>
+    <steps_updated num="4">Add extract into melted chocolate then mix with cereal and stir until evenly coated. </steps_updated>
+    <steps_updated num="5">In a large plastic bag, add powdered sugar and cereal mix. </steps_updated>
+    <steps_updated num="6">Close and shake until each cereal is coated with sugar. </steps_updated>
+    <steps_updated num="7">Add in desired candies. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01093</end_time>
+  </duration_human>
+</recipe>

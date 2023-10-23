@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Bourbon Smash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-bourbon-smash</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; light brown sugar ; (220 g) </ingredient>
+    <ingredient num="1">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="2">1 pt ; blueberry, very ripe ; (405 g) </ingredient>
+    <ingredient num="3">ice </ingredient>
+    <ingredient num="4">2 oz ; bourbon ; (55 g) </ingredient>
+    <ingredient num="5">1 oz ; lemon juice ; (30 g) </ingredient>
+    <ingredient num="6">1 oz ; blueberry simple syrup ; (30 g) </ingredient>
+    <ingredient num="7">ginger beer, to taste </ingredient>
+    <ingredient num="8">lemon wedge, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130178/hls24_1555521962.m3u8</low>
+    <high>https://vid.tasty.co/output/130178/landscape_720/1555521962</high>
+  </video>
+  <steps>
+    <step num="0">In a small saucepan over medium heat, combine the brown sugar and water. Bring to a boil, stirring to dissolve the sugar completely. </step>
+    <step num="1">Add the blueberries to the pot and boil until the berries begin to burst, about 15 minutes. Remove from heat and cool for 5–10 minutes. </step>
+    <step num="2">Transfer the mixture to a blender and blend until smooth. </step>
+    <step num="3">Strain the syrup through a fine-mesh sieve or cheesecloth. Store in an airtight container in the refrigerator for up to 1 month. </step>
+    <step num="4">In a cocktail shaker filled with ice, combine the bourbon, lemon juice, and simple syrup. Shake vigorously for 20 seconds. </step>
+    <step num="5">Strain into a glass filled with ice and top with ginger beer. </step>
+    <step num="6">Garnish with lemon wedge. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan over medium heat, combine the brown sugar and water. </steps_updated>
+    <steps_updated num="1">Bring to a boil, stirring to dissolve the sugar completely. </steps_updated>
+    <steps_updated num="2">Add the blueberries to the pot and boil until the berries begin to burst, about 15 minutes. </steps_updated>
+    <steps_updated num="3">Remove from heat and cool for 5–10 minutes. </steps_updated>
+    <steps_updated num="4">Transfer the mixture to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="5">Strain the syrup through a fine-mesh sieve or cheesecloth. </steps_updated>
+    <steps_updated num="6">Store in an airtight container in the refrigerator for up to 1 month. </steps_updated>
+    <steps_updated num="7">In a cocktail shaker filled with ice, combine the bourbon, lemon juice, and simple syrup. </steps_updated>
+    <steps_updated num="8">Shake vigorously for 20 seconds. </steps_updated>
+    <steps_updated num="9">Strain into a glass filled with ice and top with ginger beer. </steps_updated>
+    <steps_updated num="10">Garnish with lemon wedge. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

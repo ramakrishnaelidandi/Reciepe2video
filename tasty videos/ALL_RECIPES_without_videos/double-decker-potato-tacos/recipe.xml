@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Double-Decker Potato Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/double-decker-potato-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/double-decker-potato-tacos-from-trois-familia</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; fingerling potato, or small Yukon Gold Potatoes, cooked with skin on ; (900 g) </ingredient>
+    <ingredient num="1">¾ cup ; butter, 1 1/2 sticks, melted ; (170 g) </ingredient>
+    <ingredient num="2">8 cloves ; garlic, finely chopped </ingredient>
+    <ingredient num="3">1 cup ; heavy cream, warmed ; (240 mL) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">white pepper, to taste </ingredient>
+    <ingredient num="6">16 ; flour tortillas, 6-inch </ingredient>
+    <ingredient num="7">pepper jack cheese, shredded, to taste </ingredient>
+    <ingredient num="8">16 ; fried corn taco shells </ingredient>
+    <ingredient num="9">lime juice </ingredient>
+    <ingredient num="10">pico de gallo, carrot </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14866/low_1479318787.m3u8</low>
+    <high>https://vid.tasty.co/output/14866/mp4_720x1280/1479318787</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cover the potatoes with cold water and simmer until tender, about 20–25 minutes. </step>
+    <step num="1">Warm the chopped garlic in the butter over low heat until softened but not browned, about 10 minutes. Add the cream and bring to a boil. </step>
+    <step num="2">Coarsely mash the potato mixture and fold in the warm garlic mixture while the potatoes are still warm. </step>
+    <step num="3">Season to taste with salt and white pepper. Keep warm. </step>
+    <step num="4">Make the double-decker taco shell: on a griddle over low heat, sprinkle a tortilla with about 2 tablespoons shredded pepper jack cheese. Once the cheese melts, place the fried corn taco shell on the cheesy tortilla and press the tortillas together to create the double decker taco. </step>
+    <step num="5">Mix the warm potatoes with lime juice and place in the double decker taco. Top with 2–3 tablespoons of Carrot Pico de Gallo. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cover the potatoes with cold water and simmer until tender, about 20–25 minutes. </steps_updated>
+    <steps_updated num="1">Warm the chopped garlic in the butter over low heat until softened but not browned, about 10 minutes. </steps_updated>
+    <steps_updated num="2">Add the cream and bring to a boil. </steps_updated>
+    <steps_updated num="3">Coarsely mash the potato mixture and fold in the warm garlic mixture while the potatoes are still warm. </steps_updated>
+    <steps_updated num="4">Season to taste with salt and white pepper. </steps_updated>
+    <steps_updated num="5">Keep warm. </steps_updated>
+    <steps_updated num="6">Make the double-decker taco shell: on a griddle over low heat, sprinkle a tortilla with about 2 tablespoons shredded pepper jack cheese. </steps_updated>
+    <steps_updated num="7">Once the cheese melts, place the fried corn taco shell on the cheesy tortilla and press the tortillas together to create the double decker taco. </steps_updated>
+    <steps_updated num="8">Mix the warm potatoes with lime juice and place in the double decker taco. </steps_updated>
+    <steps_updated num="9">Top with 2–3 tablespoons of Carrot Pico de Gallo. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00000</start_time>
+    <end_time>02223</end_time>
+  </duration_human>
+</recipe>

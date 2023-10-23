@@ -1,0 +1,54 @@
+<recipe>
+  <title>Classic Chicken Noodle Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-chicken-noodle-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 8244 5766 13278 13125 8007 </ingredient>
+    <ingredient num="1">3917 13278 2597 12384 3962 </ingredient>
+    <ingredient num="2">13086 13278 2597 8445 976 </ingredient>
+    <ingredient num="3">4061 12669 13278 4587 3962 </ingredient>
+    <ingredient num="4">3855 12610 560 11567 </ingredient>
+    <ingredient num="5">13584 10986 560 11567 </ingredient>
+    <ingredient num="6">13086 13667 13278 4155 3962 </ingredient>
+    <ingredient num="7">6735 9517 13278 7983 547 13278 8891 1767 </ingredient>
+    <ingredient num="8">6735 643 13278 6216 13633 13278 9473 5981 </ingredient>
+    <ingredient num="9">4061 9517 13278 3333 7983 376 13278 9990 5981 </ingredient>
+    <ingredient num="10">1580 2605 13278 6209 11911 3962 13278 12237 5981 </ingredient>
+    <ingredient num="11">109 13810 3424 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Brunch</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31952/low_1495124888.m3u8</low>
+    <high>https://vid.tasty.co/output/31952/mp4_720x1280/1495124888</high>
+  </video>
+  <steps>
+    <step num="0">8889 11951 8244 5766 1681 8485 11770 13757 7855 210 5994 2597 1171 4771 9179 11951 12384 8445 4587 13817 3917 8071 10763 82 13817 12375 12392 13328 3273 1681 11951 284 12573 12726 91 6285 13133 12689 </step>
+    <step num="1">9179 11951 11384 13817 2550 1681 94 6285 3917 6513 9179 11951 220 13817 14238 560 5994 11714 </step>
+    <step num="2">10699 14643 123 11155 740 11951 13633 5895 13012 13434 13817 173 11951 1171 210 2237 2759 3801 7990 12645 101 5895 210 11951 7668 7990 3386 560 4817 3734 5448 4255 11951 4445 13817 740 11951 13633 13817 2768 644 432 3044 </step>
+    <step num="3">9179 11951 13633 13817 2550 11061 11004 415 740 11951 7983 13817 2550 6285 8580 8927 7191 1681 11951 13633 12573 3745 7492 13817 11951 7983 9490 545 8119 </step>
+    <step num="4">10242 560 11567 1391 82 13817 10986 415 6142 210 11951 13012 </step>
+    <step num="5">12774 10366 1391 10226 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 11951 8244 5766 1681 8485 11770 13757 7855 210 5994 2597 1171 4771 </steps_updated>
+    <steps_updated num="1">9179 11951 12384 8445 4587 13817 3917 8071 10763 82 13817 12375 </steps_updated>
+    <steps_updated num="2">12392 13328 3273 1681 11951 284 12573 12726 91 6285 13133 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 11384 13817 2550 1681 94 6285 3917 6513 </steps_updated>
+    <steps_updated num="4">9179 11951 220 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="5">10699 14643 123 11155 740 11951 13633 5895 13012 </steps_updated>
+    <steps_updated num="6">13434 13817 173 11951 1171 210 2237 2759 3801 7990 12645 101 5895 210 11951 7668 7990 3386 560 4817 3734 </steps_updated>
+    <steps_updated num="7">5448 4255 11951 4445 13817 740 11951 13633 13817 2768 644 432 3044 </steps_updated>
+    <steps_updated num="8">9179 11951 13633 13817 2550 11061 11004 415 740 11951 7983 13817 2550 6285 8580 8927 7191 1681 11951 13633 12573 3745 7492 13817 11951 7983 9490 545 8119 </steps_updated>
+    <steps_updated num="9">10242 560 11567 1391 82 13817 10986 415 6142 210 11951 13012 </steps_updated>
+    <steps_updated num="10">12774 10366 1391 10226 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

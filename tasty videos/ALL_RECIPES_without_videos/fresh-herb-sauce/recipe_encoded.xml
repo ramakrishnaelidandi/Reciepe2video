@@ -1,0 +1,38 @@
+<recipe>
+  <title>Fresh Herb Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-herb-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-actually-use-your-kitchen-gadgets</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 6209 14621 2526 13278 828 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 6209 2768 2526 13278 828 5981 </ingredient>
+    <ingredient num="2">8580 13667 13278 11384 </ingredient>
+    <ingredient num="3">12791 2605 13278 8244 5766 13278 13125 8007 </ingredient>
+    <ingredient num="4">3917 14014 13278 9712 10522 </ingredient>
+    <ingredient num="5">12791 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="6">1580 8071 13278 3855 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121130/hls24_1545434348.m3u8</low>
+    <high>https://vid.tasty.co/output/121130/landscape_720/1545434348</high>
+  </video>
+  <duration>
+    <start_time>148.833</start_time>
+    <end_time>177.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 6712 11911 4155 8244 7632 9712 7654 8083 7845 8635 13817 82 560 5994 4708 13817 9287 13817 4455 1681 5994 6873 30 11836 </step>
+    <step num="1">9179 560 12313 226 1253 14303 13817 12707 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 6712 11911 4155 8244 7632 9712 7654 8083 7845 8635 13817 82 560 5994 4708 13817 9287 13817 4455 1681 5994 6873 30 11836 </steps_updated>
+    <steps_updated num="1">9179 560 12313 226 1253 14303 13817 12707 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+</recipe>

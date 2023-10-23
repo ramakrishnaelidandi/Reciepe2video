@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Nacho Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-nacho-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; boneless, skinless chicken breast ; (905 g) </ingredient>
+    <ingredient num="1">1 ; large onion, diced </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="4">2 teaspoons ; cumin </ingredient>
+    <ingredient num="5">1 teaspoon ; paprika </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="8">6 cups ; chicken broth ; (1.4 L) </ingredient>
+    <ingredient num="9">1 can ; diced tomato </ingredient>
+    <ingredient num="10">1 can ; black beans </ingredient>
+    <ingredient num="11">1 cup ; heavy cream ; (235 mL) </ingredient>
+    <ingredient num="12">1 cup ; cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="13">1 cup ; monterey jack cheese ; (100 g) </ingredient>
+    <ingredient num="14">sour cream </ingredient>
+    <ingredient num="15">cheese, grated </ingredient>
+    <ingredient num="16">tortilla chips </ingredient>
+    <ingredient num="17">fresh cilantro </ingredient>
+    <ingredient num="18">tomato, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17167/low_1481236016.m3u8</low>
+    <high>https://vid.tasty.co/output/17167/mp4_720x1280/1481236016</high>
+  </video>
+  <steps>
+    <step num="0">Place chicken, onion, garlic and spices into a 6-quart slow cooker. </step>
+    <step num="1">Using a set of tongs or a large spoon, mix the ingredients together. Once mixed, pour in chicken broth. </step>
+    <step num="2">Set slow cooker to HIGH, cover and cook for 3 hours. </step>
+    <step num="3">After 3 hours remove and shred the chicken into bite-sized pieces. </step>
+    <step num="4">Return shredded chicken to the slow cooker and add tomatoes, beans, heavy cream and cheese. </step>
+    <step num="5">Cover and set slow cooker to the LOW setting. Let soup cook for an additional 45 minutes. </step>
+    <step num="6">Ladle soup into bowl and top with favorite nacho toppings. Serve with tortilla chips. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place chicken, onion, garlic and spices into a 6-quart slow cooker. </steps_updated>
+    <steps_updated num="1">Using a set of tongs or a large spoon, mix the ingredients together. </steps_updated>
+    <steps_updated num="2">Once mixed, pour in chicken broth. </steps_updated>
+    <steps_updated num="3">Set slow cooker to HIGH, cover and cook for 3 hours. </steps_updated>
+    <steps_updated num="4">After 3 hours remove and shred the chicken into bite-sized pieces. </steps_updated>
+    <steps_updated num="5">Return shredded chicken to the slow cooker and add tomatoes, beans, heavy cream and cheese. </steps_updated>
+    <steps_updated num="6">Cover and set slow cooker to the LOW setting. </steps_updated>
+    <steps_updated num="7">Let soup cook for an additional 45 minutes. </steps_updated>
+    <steps_updated num="8">Ladle soup into bowl and top with favorite nacho toppings. </steps_updated>
+    <steps_updated num="9">Serve with tortilla chips. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

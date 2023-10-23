@@ -1,0 +1,41 @@
+<recipe>
+  <title>Bleeding Vampire Drink Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bleeding-vampire-drink</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="1">8580 9486 13278 7498 </ingredient>
+    <ingredient num="2">3917 14014 13278 8083 8016 7781 </ingredient>
+    <ingredient num="3">2230 3294 </ingredient>
+    <ingredient num="4">8438 12762 11845 </ingredient>
+    <ingredient num="5">367 5895 10709 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">10895 13384 8026 13817 8016 8096 </step>
+    <step num="1">5209 5994 12910 5895 2237 10709 13262 11951 11319 11295 371 8438 12762 11845 1391 11951 7498 10665 </step>
+    <step num="2">13855 11951 7860 12762 14052 </step>
+    <step num="3">1349 5994 5098 13426 1391 2230 3294 5895 7115 11649 5098 12513 3174 </step>
+    <step num="4">5570 11951 11579 12762 11845 2439 4530 4255 11951 2567 371 11951 6369 </step>
+    <step num="5">12450 7498 2439 10224 217 6983 669 11951 11789 13817 12723 837 11951 11789 299 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 13384 8026 13817 8016 8096 </steps_updated>
+    <steps_updated num="1">5209 5994 12910 5895 2237 10709 13262 11951 11319 11295 371 8438 12762 11845 1391 11951 7498 10665 </steps_updated>
+    <steps_updated num="2">13855 11951 7860 12762 14052 </steps_updated>
+    <steps_updated num="3">1349 5994 5098 13426 1391 2230 3294 5895 7115 11649 5098 12513 3174 </steps_updated>
+    <steps_updated num="4">5570 11951 11579 12762 11845 2439 4530 4255 11951 2567 371 11951 6369 </steps_updated>
+    <steps_updated num="5">12450 7498 2439 10224 217 6983 669 11951 11789 13817 12723 837 11951 11789 299 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

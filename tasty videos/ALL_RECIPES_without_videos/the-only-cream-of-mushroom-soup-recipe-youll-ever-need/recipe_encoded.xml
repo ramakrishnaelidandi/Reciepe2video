@@ -1,0 +1,53 @@
+<recipe>
+  <title>Cream of Mushroom Soup</title>
+  <url>https://tasty.co/recipe/the-only-cream-of-mushroom-soup-recipe-youll-ever-need</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 10298 9924 </ingredient>
+    <ingredient num="1">3917 2605 13278 13757 11091 12384 3962 13278 757 5981 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">3917 2605 13278 4617 13642 9325 3962 13278 3433 5981 </ingredient>
+    <ingredient num="4">3917 2605 13278 5379 9325 3962 13278 3433 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 7424 9325 3962 13278 3433 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 82 </ingredient>
+    <ingredient num="7">3917 8071 13278 7845 </ingredient>
+    <ingredient num="8">8580 9486 13278 13521 890 </ingredient>
+    <ingredient num="9">12791 2605 13278 4617 13538 13278 13125 2766 </ingredient>
+    <ingredient num="10">4061 9517 13278 4168 220 13278 5564 8007 </ingredient>
+    <ingredient num="11">1813 2605 13278 8640 13033 13278 12158 8007 </ingredient>
+    <ingredient num="12">3917 1113 13278 6209 11911 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93964/hls24_1526322496.m3u8</low>
+    <high>https://vid.tasty.co/output/93964/landscape_720/1526322496</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 11844 11770 3996 14307 6983 11951 10907 415 740 11951 6334 13817 6805 1681 12449 13086 12689 9179 11951 11384 13817 6991 415 2550 7990 3917 3954 6513 </step>
+    <step num="1">9179 11951 9806 12610 13817 7845 13817 2550 1681 6665 13824 560 837 10963 1240 6285 2933 12689 </step>
+    <step num="2">9179 11951 890 13817 6142 560 6798 11951 9806 1681 4309 </step>
+    <step num="3">9179 11951 4617 8286 6991 13817 2550 1681 10058 6285 3917 6513 </step>
+    <step num="4">9179 11951 4168 11899 6991 13817 11779 7990 13133 12689 </step>
+    <step num="5">9179 11951 8640 13033 13817 6142 560 1011 </step>
+    <step num="6">3262 1171 560 12313 13218 7968 1391 2237 3432 12027 5895 3932 12095 </step>
+    <step num="7">12774 1725 9808 1391 13012 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 11844 11770 3996 14307 6983 11951 10907 415 740 11951 6334 13817 6805 1681 12449 13086 12689 </steps_updated>
+    <steps_updated num="1">9179 11951 11384 13817 6991 415 2550 7990 3917 3954 6513 </steps_updated>
+    <steps_updated num="2">9179 11951 9806 12610 13817 7845 13817 2550 1681 6665 13824 560 837 10963 1240 6285 2933 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 890 13817 6142 560 6798 11951 9806 1681 4309 </steps_updated>
+    <steps_updated num="4">9179 11951 4617 8286 6991 13817 2550 1681 10058 6285 3917 6513 </steps_updated>
+    <steps_updated num="5">9179 11951 4168 11899 6991 13817 11779 7990 13133 12689 </steps_updated>
+    <steps_updated num="6">9179 11951 8640 13033 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="7">3262 1171 560 12313 13218 7968 1391 2237 3432 12027 5895 3932 12095 </steps_updated>
+    <steps_updated num="8">12774 1725 9808 1391 13012 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<recipe>
+  <title>Cranberry Sauce Jello Shots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cranberry-sauce-jello-shots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 1580 9517 13278 12282 13278 8941 8007 </ingredient>
+    <ingredient num="1">8883 643 13278 2467 7280 3917 14138 13278 8902 5981 </ingredient>
+    <ingredient num="2">11061 643 13278 13495 6885 11533 6277 8602 5895 12347 13278 8118 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 819 13278 7503 8007 </ingredient>
+    <ingredient num="4">1379 7777 669 10113 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114208/hls24_1541199387.m3u8</low>
+    <high>https://vid.tasty.co/output/114208/landscape_720/1541199387</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 10083 11770 3996 14307 8341 3626 11951 12282 13817 2467 2260 1681 4309 8785 560 5994 8288 415 10231 560 5994 2597 7616 </step>
+    <step num="1">9179 11951 11710 13817 8341 560 13288 9179 11951 819 13817 8341 560 1011 </step>
+    <step num="2">8845 11951 2373 7492 5994 9423 14546 560 5103 7115 6751 </step>
+    <step num="3">877 11951 2373 8830 2192 8143 4660 1391 8438 9885 415 3945 817 210 11951 7111 7990 7811 767 4061 13199 5895 14142 </step>
+    <step num="4">13688 1391 13956 13267 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 10083 11770 3996 14307 8341 3626 11951 12282 13817 2467 2260 1681 4309 </steps_updated>
+    <steps_updated num="1">8785 560 5994 8288 415 10231 560 5994 2597 7616 </steps_updated>
+    <steps_updated num="2">9179 11951 11710 13817 8341 560 13288 </steps_updated>
+    <steps_updated num="3">9179 11951 819 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="4">8845 11951 2373 7492 5994 9423 14546 560 5103 7115 6751 </steps_updated>
+    <steps_updated num="5">877 11951 2373 8830 2192 8143 </steps_updated>
+    <steps_updated num="6">4660 1391 8438 9885 415 3945 817 210 11951 7111 7990 7811 767 4061 13199 5895 14142 </steps_updated>
+    <steps_updated num="7">13688 1391 13956 13267 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

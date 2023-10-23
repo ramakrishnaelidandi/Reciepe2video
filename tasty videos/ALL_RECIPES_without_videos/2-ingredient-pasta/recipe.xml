@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-ingredient Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="1">1 ; egg yolk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51134/low_1504636473.m3u8</low>
+    <high>https://vid.tasty.co/output/51134/mp4_720x1280/1504636473</high>
+  </video>
+  <steps>
+    <step num="0">Add the mozzarella to a bowl and microwave for 1-2 minutes, until melted. </step>
+    <step num="1">Allow the mozzarella to cool for 30 seconds. </step>
+    <step num="2">With a spatula, gently fold the egg yolk into the cheese. </step>
+    <step num="3">Turn the mixture out onto a parchment paper-lined baking sheet. </step>
+    <step num="4">Place another piece of parchment paper on top of the dough and press down with your hand until thin. </step>
+    <step num="5">Remove the top piece of parchment and cut the dough into thin strips. </step>
+    <step num="6">Place the “pasta” on a rack and refrigerate for four hours or overnight. </step>
+    <step num="7">Place the “pasta” in boiling water for one minute. </step>
+    <step num="8">Drain into a colander and run cool water over the pasta to prevent sticking. </step>
+    <step num="9">Serve with your favorite sauce and toppings. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the mozzarella to a bowl and microwave for 1-2 minutes, until melted. </steps_updated>
+    <steps_updated num="1">Allow the mozzarella to cool for 30 seconds. </steps_updated>
+    <steps_updated num="2">With a spatula, gently fold the egg yolk into the cheese. </steps_updated>
+    <steps_updated num="3">Turn the mixture out onto a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="4">Place another piece of parchment paper on top of the dough and press down with your hand until thin. </steps_updated>
+    <steps_updated num="5">Remove the top piece of parchment and cut the dough into thin strips. </steps_updated>
+    <steps_updated num="6">Place the “pasta” on a rack and refrigerate for four hours or overnight. </steps_updated>
+    <steps_updated num="7">Place the “pasta” in boiling water for one minute. </steps_updated>
+    <steps_updated num="8">Drain into a colander and run cool water over the pasta to prevent sticking. </steps_updated>
+    <steps_updated num="9">Serve with your favorite sauce and toppings. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

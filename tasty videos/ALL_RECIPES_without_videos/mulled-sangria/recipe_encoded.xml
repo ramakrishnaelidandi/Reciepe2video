@@ -1,0 +1,47 @@
+<recipe>
+  <title>Mulled Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mulled-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-enjoy-sangria-in-the-winter</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 3575 6818 13278 44 5981 </ingredient>
+    <ingredient num="1">13086 13278 3305 3508 2989 </ingredient>
+    <ingredient num="2">8580 13278 12425 12401 </ingredient>
+    <ingredient num="3">3917 2605 13278 14228 13278 7503 8007 </ingredient>
+    <ingredient num="4">8580 9517 13278 13956 10522 13278 4551 8007 </ingredient>
+    <ingredient num="5">3917 13278 1379 976 </ingredient>
+    <ingredient num="6">3917 13278 5516 976 </ingredient>
+    <ingredient num="7">3917 13278 7695 516 7789 3954 7990 4711 </ingredient>
+    <ingredient num="8">3917 1460 13278 8083 8286 8601 8083 8286 2807 2658 10274 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/123310/hls24_1548200970.m3u8</low>
+    <high>https://vid.tasty.co/output/123310/landscape_720/1548200970</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 10083 11770 4531 7855 5895 5994 3025 2894 4120 11951 3575 1285 3508 7451 12425 11078 7588 13956 7654 1379 5516 7695 13817 8083 13493 </step>
+    <step num="1">12473 12923 510 13817 11779 11770 9721 7855 7990 7811 767 5527 11004 1681 545 8119 </step>
+    <step num="2">8225 11951 5695 669 1637 13817 4711 1391 9712 14160 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 10083 11770 4531 7855 5895 5994 3025 2894 4120 11951 3575 1285 3508 7451 12425 11078 7588 13956 7654 1379 5516 7695 13817 8083 13493 </steps_updated>
+    <steps_updated num="1">12473 12923 510 13817 11779 11770 9721 7855 7990 7811 767 5527 11004 1681 545 8119 </steps_updated>
+    <steps_updated num="2">8225 11951 5695 669 1637 13817 4711 1391 9712 14160 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00165</start_time>
+    <end_time>01127</end_time>
+  </duration_human>
+</recipe>

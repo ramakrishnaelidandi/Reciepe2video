@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>On-The-Go Pancake Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/on-the-go-fruity-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="2">¼ teaspoon ; salt </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">1 ½ cups ; milk ; (355 mL) </ingredient>
+    <ingredient num="5">2 tablespoons ; maple syrup </ingredient>
+    <ingredient num="6">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="7">2 tablespoons ; chocolate chips </ingredient>
+    <ingredient num="8">12 ; raspberries </ingredient>
+    <ingredient num="9">¼ cup ; blueberry ; (25 g) </ingredient>
+    <ingredient num="10">½ ; banana, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34385/low_1497654103.m3u8</low>
+    <high>https://vid.tasty.co/output/34385/mp4_720x1280/1497654103</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375ºF (190ºC). </step>
+    <step num="1">In a large bowl, combine flour, baking powder, and salt. </step>
+    <step num="2">Add in eggs, melted butter, and maple syrup. Whisk. Add in milk and whisk until all ingredients are incorporated. </step>
+    <step num="3">Evenly distribute the batter in a 12-cup nonstick muffin tin. Top with fruit and chocolate chips. </step>
+    <step num="4">Bake for 20-25 minutes, or until a toothpick comes out clean. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375ºF (190ºC). </steps_updated>
+    <steps_updated num="1">In a large bowl, combine flour, baking powder, and salt. </steps_updated>
+    <steps_updated num="2">Add in eggs, melted butter, and maple syrup. </steps_updated>
+    <steps_updated num="3">Whisk. </steps_updated>
+    <steps_updated num="4">Add in milk and whisk until all ingredients are incorporated. </steps_updated>
+    <steps_updated num="5">Evenly distribute the batter in a 12-cup nonstick muffin tin. </steps_updated>
+    <steps_updated num="6">Top with fruit and chocolate chips. </steps_updated>
+    <steps_updated num="7">Bake for 20-25 minutes, or until a toothpick comes out clean. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

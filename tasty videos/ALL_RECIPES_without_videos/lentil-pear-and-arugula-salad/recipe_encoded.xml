@@ -1,0 +1,59 @@
+<recipe>
+  <title>Lentil, Pear, And Arugula Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lentil-pear-and-arugula-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/protein-packed-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 4384 6742 10876 13278 11953 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="2">1580 14014 13278 9171 6818 </ingredient>
+    <ingredient num="3">12791 8071 13278 881 4507 </ingredient>
+    <ingredient num="4">6742 7632 7990 14389 </ingredient>
+    <ingredient num="5">2933 643 13278 6209 1848 13278 9018 5981 </ingredient>
+    <ingredient num="6">3917 1580 13278 3870 976 </ingredient>
+    <ingredient num="7">3917 1580 9517 13278 13187 3745 13278 10339 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 8244 5766 13278 13125 8007 </ingredient>
+    <ingredient num="9">12791 2605 13278 3352 10769 13278 13125 8007 </ingredient>
+    <ingredient num="10">12610 560 11567 </ingredient>
+    <ingredient num="11">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97091/hls24_1528137197.m3u8</low>
+    <high>https://vid.tasty.co/output/97091/landscape_720/1528137197</high>
+  </video>
+  <duration>
+    <start_time>125.833</start_time>
+    <end_time>168.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 11121 12979 </step>
+    <step num="1">10950 2192 14511 740 11951 6742 8635 11691 7280 9171 1285 13817 881 8262 9393 1681 8460 2988 3584 4255 5994 2362 10765 11020 9082 11901 11951 10876 8806 3443 2658 9741 2658 9724 </step>
+    <step num="2">7831 7990 8489 11004 13328 5452 2933 11004 1681 10963 2147 10993 5103 6781 11951 10439 13817 3945 10694 7990 13767 12689 </step>
+    <step num="3">10950 5994 2597 14511 4120 11951 13566 3870 13187 13817 6742 6106 </step>
+    <step num="4">10950 5994 881 8266 2605 5895 2192 14511 740 11951 8244 7632 3352 4450 12610 13817 12375 9393 1681 8460 </step>
+    <step num="5">1594 11951 11708 11770 11951 11812 13817 1686 3631 12774 7389 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 11121 12979 </steps_updated>
+    <steps_updated num="1">10950 2192 14511 740 11951 6742 8635 11691 7280 9171 1285 13817 881 8262 </steps_updated>
+    <steps_updated num="2">9393 1681 8460 </steps_updated>
+    <steps_updated num="3">2988 3584 4255 5994 2362 10765 11020 9082 11901 11951 10876 8806 3443 2658 9741 2658 9724 </steps_updated>
+    <steps_updated num="4">7831 7990 8489 11004 13328 5452 2933 11004 1681 10963 2147 </steps_updated>
+    <steps_updated num="5">10993 5103 6781 11951 10439 13817 3945 10694 7990 13767 12689 </steps_updated>
+    <steps_updated num="6">10950 5994 2597 14511 4120 11951 13566 3870 13187 13817 6742 6106 </steps_updated>
+    <steps_updated num="7">10950 5994 881 8266 2605 5895 2192 14511 740 11951 8244 7632 3352 4450 12610 13817 12375 </steps_updated>
+    <steps_updated num="8">9393 1681 8460 </steps_updated>
+    <steps_updated num="9">1594 11951 11708 11770 11951 11812 13817 1686 3631 </steps_updated>
+    <steps_updated num="10">12774 7389 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

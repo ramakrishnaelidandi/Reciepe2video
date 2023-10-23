@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banoffee Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banoffee-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">3 tablespoons ; toffee sauce </ingredient>
+    <ingredient num="2">¾ cup ; brown sugar ; (150 g) </ingredient>
+    <ingredient num="3">½ cup ; butter ; (100 g) </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">1 cup ; plain flour ; (125 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">⅔ cup ; chocolate chips ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20406/low_1484155568.m3u8</low>
+    <high>https://vid.tasty.co/output/20406/mp4_720x1280/1484155568</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 180°C (355°F) and line a baking tray with grease-proof paper. </step>
+    <step num="1">Mash the banana and mix in the toffee sauce. </step>
+    <step num="2">Whisk in the brown sugar and butter, followed by the eggs and vanilla extract. </step>
+    <step num="3">Fold in the flour, baking powder, salt, and chocolate chips. </step>
+    <step num="4">Chill the cookie dough in the fridge for about an hour. </step>
+    <step num="5">Spoon onto the tray and bake for about 12 minutes, or until golden brown. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 180°C (355°F) and line a baking tray with grease-proof paper. </steps_updated>
+    <steps_updated num="1">Mash the banana and mix in the toffee sauce. </steps_updated>
+    <steps_updated num="2">Whisk in the brown sugar and butter, followed by the eggs and vanilla extract. </steps_updated>
+    <steps_updated num="3">Fold in the flour, baking powder, salt, and chocolate chips. </steps_updated>
+    <steps_updated num="4">Chill the cookie dough in the fridge for about an hour. </steps_updated>
+    <steps_updated num="5">Spoon onto the tray and bake for about 12 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

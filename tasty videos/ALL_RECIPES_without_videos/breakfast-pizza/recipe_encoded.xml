@@ -1,0 +1,44 @@
+<recipe>
+  <title>Breakfast Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8244 5766 </ingredient>
+    <ingredient num="1">3333 9784 14538 </ingredient>
+    <ingredient num="2">3745 8932 </ingredient>
+    <ingredient num="3">1960 1240 3745 </ingredient>
+    <ingredient num="4">13086 13278 12708 </ingredient>
+    <ingredient num="5">6209 11292 3962 </ingredient>
+    <ingredient num="6">13584 10986 14585 11088 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Fusion</category>
+    <category num="6">brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31978/low_1495124970.m3u8</low>
+    <high>https://vid.tasty.co/output/31978/mp4_720x1280/1495124970</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 14423 1456 1130 </step>
+    <step num="1">7692 2696 12313 6146 8337 9686 5895 1023 6485 9179 8244 14158 </step>
+    <step num="2">4660 1391 10569 5677 1762 2345 </step>
+    <step num="3">7831 11951 6146 7990 9810 11004 5895 1681 11951 12708 12573 3745 560 12313 11488 818 3745 3557 1681 11951 6216 4072 1939 8421 9801 11951 6216 9314 1939 8161 8960 4748 1762 3987 11269 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 14423 1456 1130 </steps_updated>
+    <steps_updated num="1">7692 2696 12313 6146 8337 9686 5895 1023 6485 </steps_updated>
+    <steps_updated num="2">9179 8244 14158 </steps_updated>
+    <steps_updated num="3">4660 1391 10569 5677 1762 2345 </steps_updated>
+    <steps_updated num="4">7831 11951 6146 7990 9810 11004 5895 1681 11951 12708 12573 3745 560 12313 11488 </steps_updated>
+    <steps_updated num="5">818 3745 3557 1681 11951 6216 4072 1939 8421 9801 11951 6216 9314 1939 8161 8960 </steps_updated>
+    <steps_updated num="6">4748 1762 3987 11269 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

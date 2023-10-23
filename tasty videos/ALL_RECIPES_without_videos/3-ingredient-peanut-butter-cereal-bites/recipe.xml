@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Peanut Butter Cereal Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-peanut-butter-cereal-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">honey </ingredient>
+    <ingredient num="1">peanut butter </ingredient>
+    <ingredient num="2">honey nut cereal </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32241/low_1495125517.m3u8</low>
+    <high>https://vid.tasty.co/output/32241/mp4_720x1280/1495125517</high>
+  </video>
+  <steps>
+    <step num="0">Put 1 part peanut butter and 1 part honey in a bowl. </step>
+    <step num="1">Microwave for about a minute. Stir until combined. </step>
+    <step num="2">Add 3-4 parts cereal. Stir. </step>
+    <step num="3">Scoop into bit size pieces and place on wax paper to cool. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put 1 part peanut butter and 1 part honey in a bowl. </steps_updated>
+    <steps_updated num="1">Microwave for about a minute. </steps_updated>
+    <steps_updated num="2">Stir until combined. </steps_updated>
+    <steps_updated num="3">Add 3-4 parts cereal. </steps_updated>
+    <steps_updated num="4">Stir. </steps_updated>
+    <steps_updated num="5">Scoop into bit size pieces and place on wax paper to cool. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

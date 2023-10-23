@@ -1,0 +1,65 @@
+<recipe>
+  <title>Shredded Chicken Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shredded-chicken-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-instant-pot-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 8355 2144 7983 7678 </ingredient>
+    <ingredient num="1">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="2">3917 8071 13278 11088 3170 </ingredient>
+    <ingredient num="3">1580 8071 13278 7845 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">8580 9517 13278 10599 5895 3917 8268 643 7051 13278 1281 8007 </ingredient>
+    <ingredient num="6">6640 560 1966 </ingredient>
+    <ingredient num="7">5871 13650 7836 560 1966 </ingredient>
+    <ingredient num="8">14322 560 1966 </ingredient>
+    <ingredient num="9">1484 1123 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79548/hls24_1518807520.m3u8</low>
+    <high>https://vid.tasty.co/output/79548/landscape_720/1518807520</high>
+  </video>
+  <duration>
+    <start_time>296.0</start_time>
+    <end_time>323.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 7983 7678 1864 11951 4371 6432 </step>
+    <step num="1">9179 11951 13389 8117 11088 2670 10986 13817 11384 13817 1686 1681 11951 7983 9490 7670 4255 6697 6701 9179 11951 3335 </step>
+    <step num="2">14134 11951 5378 210 3345 1681 1762 13442 11951 9575 3769 4881 11951 5378 14138 11484 3509 3306 11951 10077 6186 7811 14346 211 13817 837 4945 </step>
+    <step num="3">8724 9293 13817 817 1441 560 1797 12689 2257 10077 6186 560 6455 </step>
+    <step num="4">8563 217 11136 13817 11951 12622 217 4649 5881 432 3557 13860 10044 7584 </step>
+    <step num="5">9956 11951 6438 2353 1110 13260 837 11951 10077 6186 560 10611 1828 8554 371 11951 6080 11136 432 4241 11951 2445 </step>
+    <step num="6">54 11951 7983 1391 4817 11326 </step>
+    <step num="7">12774 1391 5149 5871 13650 7836 14322 1484 1123 5895 11649 13218 7857 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 7983 7678 1864 11951 4371 6432 </steps_updated>
+    <steps_updated num="1">9179 11951 13389 8117 11088 2670 10986 13817 11384 13817 1686 1681 11951 7983 9490 7670 4255 6697 6701 </steps_updated>
+    <steps_updated num="2">9179 11951 3335 </steps_updated>
+    <steps_updated num="3">14134 11951 5378 210 3345 1681 1762 13442 11951 9575 </steps_updated>
+    <steps_updated num="4">3769 4881 11951 5378 14138 11484 3509 </steps_updated>
+    <steps_updated num="5">3306 11951 10077 6186 7811 14346 211 13817 837 4945 </steps_updated>
+    <steps_updated num="6">8724 9293 13817 817 1441 560 1797 12689 </steps_updated>
+    <steps_updated num="7">2257 10077 6186 560 6455 </steps_updated>
+    <steps_updated num="8">8563 217 11136 13817 11951 12622 217 4649 5881 432 3557 13860 10044 7584 </steps_updated>
+    <steps_updated num="9">9956 11951 6438 2353 1110 13260 837 11951 10077 6186 560 10611 </steps_updated>
+    <steps_updated num="10">1828 8554 371 11951 6080 11136 432 4241 11951 2445 </steps_updated>
+    <steps_updated num="11">54 11951 7983 1391 4817 11326 </steps_updated>
+    <steps_updated num="12">12774 1391 5149 5871 13650 7836 14322 1484 1123 5895 11649 13218 7857 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>07133</start_time>
+    <end_time>08056</end_time>
+  </duration_human>
+</recipe>

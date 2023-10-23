@@ -1,0 +1,47 @@
+<recipe>
+  <title>Vegan Mac &#8216;n&#8217; Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 11091 13233 </ingredient>
+    <ingredient num="1">3917 13278 13757 11021 </ingredient>
+    <ingredient num="2">3917 13278 13757 6334 </ingredient>
+    <ingredient num="3">1580 2605 13278 11677 13278 9377 5981 </ingredient>
+    <ingredient num="4">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="5">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="6">3917 8071 13278 12610 7789 3954 7990 12282 </ingredient>
+    <ingredient num="7">8580 9486 13278 12927 6984 2517 </ingredient>
+    <ingredient num="8">3917 715 13278 4302 10370 8421 7990 7818 13278 14577 5981 </ingredient>
+    <ingredient num="9">6958 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Sides</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31285/low_1494438831.m3u8</low>
+    <high>https://vid.tasty.co/output/31285/mp4_720x1280/1494438831</high>
+  </video>
+  <steps>
+    <step num="0">9179 284 560 5994 2597 10083 5895 12010 10439 371 2032 2019 4660 13817 2234 11951 284 560 2550 7990 13767 11004 1681 11951 13233 12573 10165 </step>
+    <step num="1">6054 8571 284 6781 12282 13817 7545 5965 8861 8580 9517 1536 8923 371 11951 2019 </step>
+    <step num="2">9179 14303 280 13817 7074 560 5994 12027 1391 2532 371 11951 8276 2019 11716 14330 5994 8631 9486 371 12282 7811 5994 1441 1681 11951 13218 7968 9490 1415 </step>
+    <step num="3">1083 4168 5042 11770 11951 996 13817 6142 560 9010 432 3044 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 284 560 5994 2597 10083 5895 12010 10439 371 2032 2019 </steps_updated>
+    <steps_updated num="1">4660 13817 2234 11951 284 560 2550 7990 13767 11004 1681 11951 13233 12573 10165 </steps_updated>
+    <steps_updated num="2">6054 8571 284 6781 12282 13817 7545 5965 8861 8580 9517 1536 8923 371 11951 2019 </steps_updated>
+    <steps_updated num="3">9179 14303 280 13817 7074 560 5994 12027 1391 2532 371 11951 8276 2019 </steps_updated>
+    <steps_updated num="4">11716 14330 5994 8631 9486 371 12282 7811 5994 1441 1681 11951 13218 7968 9490 1415 </steps_updated>
+    <steps_updated num="5">1083 4168 5042 11770 11951 996 13817 6142 560 9010 432 3044 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Bacon Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-bacon-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9 oz ; ground beef ; (250 g) </ingredient>
+    <ingredient num="1">9 oz ; ground sausage ; (250 g) </ingredient>
+    <ingredient num="2">⅔ cup ; bread crumbs ; (75 g) </ingredient>
+    <ingredient num="3">¼ cup ; onion, chopped ; (40 g) </ingredient>
+    <ingredient num="4">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="5">1 ; egg </ingredient>
+    <ingredient num="6">1 pack ; mozzarella cheese, grated </ingredient>
+    <ingredient num="7">6 rashers ; bacon </ingredient>
+    <ingredient num="8">BBQ sauce, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31851/low_1495124849.m3u8</low>
+    <high>https://vid.tasty.co/output/31851/mp4_720x1280/1495124849</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200°C) (or 350°F (180°C) on a convection oven). </step>
+    <step num="1">In a large bowl, mix the ground beef, ground sausage, bread crumbs, onion, garlic, and egg together with your hands until thoroughly combined. </step>
+    <step num="2">Roll the mixture into golf ball-sized balls. Use your thumb to create a dent in the balls, add a bit of mozzarella and seal. </step>
+    <step num="3">Cut the bacon rashers in half and roll around the meatballs. </step>
+    <step num="4">Place the meatballs on a foil-covered tray and bake for 20 minutes. </step>
+    <step num="5">Remove from the oven and brush with BBQ sauce, then bake for 5 minutes more. Repeat brushing and baking two more times for an extra-thick layer of BBQ sauce. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400°F (200°C) (or 350°F (180°C) on a convection oven). </steps_updated>
+    <steps_updated num="1">In a large bowl, mix the ground beef, ground sausage, bread crumbs, onion, garlic, and egg together with your hands until thoroughly combined. </steps_updated>
+    <steps_updated num="2">Roll the mixture into golf ball-sized balls. </steps_updated>
+    <steps_updated num="3">Use your thumb to create a dent in the balls, add a bit of mozzarella and seal. </steps_updated>
+    <steps_updated num="4">Cut the bacon rashers in half and roll around the meatballs. </steps_updated>
+    <steps_updated num="5">Place the meatballs on a foil-covered tray and bake for 20 minutes. </steps_updated>
+    <steps_updated num="6">Remove from the oven and brush with BBQ sauce, then bake for 5 minutes more. </steps_updated>
+    <steps_updated num="7">Repeat brushing and baking two more times for an extra-thick layer of BBQ sauce. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

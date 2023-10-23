@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>PREP_TIME_MINUTES</title>
+  <url>https://tasty.co/recipe/coconut-ceviche</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; young coconuts </ingredient>
+    <ingredient num="1">1 cup ; mango, diced ; (165 g) </ingredient>
+    <ingredient num="2">¼ cup ; red onion, thinly sliced ; (35 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; jalapeño, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; lime, zested </ingredient>
+    <ingredient num="5">6 tablespoons ; lime juice </ingredient>
+    <ingredient num="6">3 tablespoons ; coconut milk, shaken, full-fat </ingredient>
+    <ingredient num="7">3 tablespoons ; fresh mint leaf, finely chopped </ingredient>
+    <ingredient num="8">3 tablespoons ; fresh cilantro, finely chopped </ingredient>
+    <ingredient num="9">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="10">tortilla chips, or tostada shells, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/132233/hls24_1557438478.m3u8</low>
+    <high>https://vid.tasty.co/output/132233/landscape_720/1557438478</high>
+  </video>
+  <steps>
+    <step num="0">Working 1 at a time, set a coconut on its side on a cutting board. First, remove the white husk from one end of the coconut to expose the brown shell underneath. Holding the coconut in place with one hand on the rounded end, carefully use the back end, or heel, of the knife to puncture the exposed coconut shell. Do not use any force other than the weight of the knife. Do this a few times, working in a circle until you can wedge your knife into the coconut shell and pop off the top. Drain the coconut water into a bowl and reserve for another use. </step>
+    <step num="1">With the cut side of the coconut up, place the knife over the opening and cover the spine (dull side) of the knife with a folded kitchen towel. Using a meat mallet or other heavy kitchen utensil, like a rolling pin, whack the knife where the towel covers it. Repeat a few times until the coconut is cracked in half. </step>
+    <step num="2">With a large spoon, scoop out the coconut meat. If necessary, clean the coconut meat by trimming off any hard or woody pieces of the shell. With a sharp knife, cut the cleaned coconut meat into 1 x ½-inch (2 ½ cm x 1 ¼ cm) strips. </step>
+    <step num="3">In a medium bowl, toss together the coconut meat, mango, red onion, jalapeño, lime zest and juice, coconut milk, mint, and cilantro. Season with the salt, then stir again. </step>
+    <step num="4">Cover the bowl and let marinate in the refrigerator for at least 1 hour, up to 3 hours. </step>
+    <step num="5">Serve the ceviche chilled with tortilla chips or in a tostada shell. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Working 1 at a time, set a coconut on its side on a cutting board. </steps_updated>
+    <steps_updated num="1">First, remove the white husk from one end of the coconut to expose the brown shell underneath. </steps_updated>
+    <steps_updated num="2">Holding the coconut in place with one hand on the rounded end, carefully use the back end, or heel, of the knife to puncture the exposed coconut shell. </steps_updated>
+    <steps_updated num="3">Do not use any force other than the weight of the knife. </steps_updated>
+    <steps_updated num="4">Do this a few times, working in a circle until you can wedge your knife into the coconut shell and pop off the top. </steps_updated>
+    <steps_updated num="5">Drain the coconut water into a bowl and reserve for another use. </steps_updated>
+    <steps_updated num="6">With the cut side of the coconut up, place the knife over the opening and cover the spine (dull side) of the knife with a folded kitchen towel. </steps_updated>
+    <steps_updated num="7">Using a meat mallet or other heavy kitchen utensil, like a rolling pin, whack the knife where the towel covers it. </steps_updated>
+    <steps_updated num="8">Repeat a few times until the coconut is cracked in half. </steps_updated>
+    <steps_updated num="9">With a large spoon, scoop out the coconut meat. </steps_updated>
+    <steps_updated num="10">If necessary, clean the coconut meat by trimming off any hard or woody pieces of the shell. </steps_updated>
+    <steps_updated num="11">With a sharp knife, cut the cleaned coconut meat into 1 x ½-inch (2 ½ cm x 1 ¼ cm) strips. </steps_updated>
+    <steps_updated num="12">In a medium bowl, toss together the coconut meat, mango, red onion, jalapeño, lime zest and juice, coconut milk, mint, and cilantro. </steps_updated>
+    <steps_updated num="13">Season with the salt, then stir again. </steps_updated>
+    <steps_updated num="14">Cover the bowl and let marinate in the refrigerator for at least 1 hour, up to 3 hours. </steps_updated>
+    <steps_updated num="15">Serve the ceviche chilled with tortilla chips or in a tostada shell. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

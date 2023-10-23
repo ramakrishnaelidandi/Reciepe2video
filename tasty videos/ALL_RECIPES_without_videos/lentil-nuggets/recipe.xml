@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lentil Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lentil-nuggets</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-veggie-nuggets-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; lentils ; (255 g) </ingredient>
+    <ingredient num="1">1 ; carrot, sliced </ingredient>
+    <ingredient num="2">½ cup ; corn ; (85 g) </ingredient>
+    <ingredient num="3">½ cup ; pea ; (75 g) </ingredient>
+    <ingredient num="4">1 cup ; shredded cheddar cheese, we used vegan ; (115 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper </ingredient>
+    <ingredient num="8">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="9">1 clove ; garlic </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80217/hls24_1519234609.m3u8</low>
+    <high>https://vid.tasty.co/output/80217/landscape_720/1519234609</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, soak the lentils in cold water for 3 hours. </step>
+    <step num="1">Preheat the oven to 400ºF (200ºC). Line a baking sheet with parchment paper. </step>
+    <step num="2">In a food processor, combine the soaked lentils, carrot, corn, peas, vegan cheese, oregano, salt, pepper, red pepper flakes, and garlic, and pulse until well mixed. </step>
+    <step num="3">Take about 1 tablespoon worth of mixture and form it into a nugget with your hands. </step>
+    <step num="4">Bake for 20 minutes, flipping halfway, until golden brown. </step>
+    <step num="5">Or, pan fry with a small drizzle of oil over medium-high heat until both sides are golden brown, about 10 minutes. </step>
+    <step num="6">Allow to cool 5 minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, soak the lentils in cold water for 3 hours. </steps_updated>
+    <steps_updated num="1">Preheat the oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="2">In a food processor, combine the lentils, carrot, corn, peas, vegan cheese, oregano, salt, pepper, red pepper flakes, and garlic, and pulse until well mixed. </steps_updated>
+    <steps_updated num="3">Take about 1 tablespoon worth of mixture and form it into a nugget with your hands. </steps_updated>
+    <steps_updated num="4">Pan fry with a small drizzle of oil over medium-high heat until both sides are golden brown, about 10 minutes. </steps_updated>
+    <steps_updated num="5">Or, you can bake them on a piece of parchment paper at 400˚F (200˚C) for 20 minutes, flipping after the first 10 minutes. </steps_updated>
+    <steps_updated num="6">Allow to cool 5 minutes. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-03126</start_time>
+    <end_time>03831</end_time>
+  </duration_human>
+</recipe>

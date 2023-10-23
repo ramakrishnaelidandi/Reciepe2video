@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Holiday Spiced Cider Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/holiday-spiced-cider</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; orange </ingredient>
+    <ingredient num="1">2 teaspoons ; whole clove </ingredient>
+    <ingredient num="2">1 ; apple </ingredient>
+    <ingredient num="3">1 teaspoon ; whole allspice </ingredient>
+    <ingredient num="4">4 ; cinnamon sticks </ingredient>
+    <ingredient num="5">1 gal ; apple cider ; (4 L) </ingredient>
+    <ingredient num="6">½ cup ; brown sugar ; (110 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; nutmeg </ingredient>
+    <ingredient num="8">whiskey, or rum, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32000/low_1495124999.m3u8</low>
+    <high>https://vid.tasty.co/output/32000/mp4_720x1280/1495124999</high>
+  </video>
+  <steps>
+    <step num="0">Pierce orange with cloves. (If you have a tea infuser, tea bag or cheese cloth, you can use that to keep the spices under control). </step>
+    <step num="1">Pierce apple with allspice. </step>
+    <step num="2">Put the orange, apple, cinnamon sticks, apple cider, brown sugar and nutmeg into your slow cooker. </step>
+    <step num="3">Turn on high for 2 hours, then keep warm on low until you’re ready to drink. </step>
+    <step num="4">Drink as is or with a shot (or two) of whiskey, rum, etc. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pierce orange with cloves. </steps_updated>
+    <steps_updated num="1">(If you have a tea infuser, tea bag or cheese cloth, you can use that to keep the spices under control). </steps_updated>
+    <steps_updated num="2">Pierce apple with allspice. </steps_updated>
+    <steps_updated num="3">Put the orange, apple, cinnamon sticks, apple cider, brown sugar and nutmeg into your slow cooker. </steps_updated>
+    <steps_updated num="4">Turn on high for 2 hours, then keep warm on low until you’re ready to drink. </steps_updated>
+    <steps_updated num="5">Drink as is or with a shot (or two) of whiskey, rum, etc. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

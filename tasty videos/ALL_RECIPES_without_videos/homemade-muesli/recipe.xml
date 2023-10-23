@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Muesli Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-muesli</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; rolled oats ; (320 g) </ingredient>
+    <ingredient num="1">1 cup ; raisin ; (150 g) </ingredient>
+    <ingredient num="2">1 cup ; peanuts, chopped ; (125 g) </ingredient>
+    <ingredient num="3">½ cup ; sunflower seeds ; (70 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; chia seeds, optional </ingredient>
+    <ingredient num="5">1 teaspoon ; cinnamon, optiona </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107145/hls24_1535564034.m3u8</low>
+    <high>https://vid.tasty.co/output/107145/landscape_720/1535564034</high>
+  </video>
+  <steps>
+    <step num="0">Combine the rolled oats, raisins, peanuts, sunflower seeds, chia seeds, and cinnamon in a large bowl until evenly mixed. </step>
+    <step num="1">Store in airtight container for up to 6 months. </step>
+    <step num="2">Serve as desired. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the rolled oats, raisins, peanuts, sunflower seeds, chia seeds, and cinnamon in a large bowl until evenly mixed. </steps_updated>
+    <steps_updated num="1">Store in airtight container for up to 6 months. </steps_updated>
+    <steps_updated num="2">Serve as desired. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

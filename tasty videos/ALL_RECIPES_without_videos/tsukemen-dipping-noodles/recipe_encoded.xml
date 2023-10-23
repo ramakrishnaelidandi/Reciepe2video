@@ -1,0 +1,48 @@
+<recipe>
+  <title>Tsukemen (Dipping Noodles) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tsukemen-dipping-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-dinners-from-tasty-japan</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 1580 9517 13278 12282 13278 4606 8007 </ingredient>
+    <ingredient num="1">3917 14014 13278 11347 890 </ingredient>
+    <ingredient num="2">12791 2605 13278 11691 2260 13278 13125 8007 </ingredient>
+    <ingredient num="3">3917 14014 13278 9110 5766 </ingredient>
+    <ingredient num="4">3917 8071 13278 7983 220 </ingredient>
+    <ingredient num="5">12791 2605 13278 4985 12384 2192 7777 13278 12237 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 5777 7990 5737 13278 757 5981 </ingredient>
+    <ingredient num="7">1580 13278 4457 6216 </ingredient>
+    <ingredient num="8">7149 10986 5994 8779 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75788/hls24_1517363594.m3u8</low>
+    <high>https://vid.tasty.co/output/75788/landscape_720/1517363594</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 13384 11347 6467 11691 7280 9110 7632 7983 11899 13817 4985 6334 210 5994 2192 10590 </step>
+    <step num="1">8785 1148 2373 560 5994 11714 </step>
+    <step num="2">9731 11951 13633 7990 4040 10086 210 278 12282 13817 10694 3557 12328 </step>
+    <step num="3">310 9560 560 740 7115 11649 11907 1762 5267 7156 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 13384 11347 6467 11691 7280 9110 7632 7983 11899 13817 4985 6334 210 5994 2192 10590 </steps_updated>
+    <steps_updated num="1">8785 1148 2373 560 5994 11714 </steps_updated>
+    <steps_updated num="2">9731 11951 13633 7990 4040 10086 210 278 12282 13817 10694 3557 12328 </steps_updated>
+    <steps_updated num="3">310 9560 560 740 7115 11649 11907 1762 5267 7156 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-03691</start_time>
+    <end_time>04415</end_time>
+  </duration_human>
+</recipe>

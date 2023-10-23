@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-nachos-recipe</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">all-purpose flour, for dusting </ingredient>
+    <ingredient num="1">14 oz ; pizza dough ; (395 g) </ingredient>
+    <ingredient num="2">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="3">1 tablespoon ; Oregano Leaves </ingredient>
+    <ingredient num="4">2 teaspoons ; Garlic Powder </ingredient>
+    <ingredient num="5">½ teaspoon ; Crushed Red Pepper </ingredient>
+    <ingredient num="6">1 cup ; marinara sauce ; (260 g) </ingredient>
+    <ingredient num="7">1 cup ; shredded mozzarella cheese ; (200 g) </ingredient>
+    <ingredient num="8">10 ; pepperoni slice </ingredient>
+    <ingredient num="9">1 lb ; mild italian sausage, cooked ; (455 g) </ingredient>
+    <ingredient num="10">1 cup ; cherry tomato, halved ; (200 g) </ingredient>
+    <ingredient num="11">½ cup ; parmesan cheese, freshly grated ; (55 g) </ingredient>
+    <ingredient num="12">¼ cup ; fresh basil leaf, torn ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Snacks</category>
+    <category num="1">Game Day</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/126031/hls24_1551381339.m3u8</low>
+    <high>https://vid.tasty.co/output/126031/landscape_720/1551381339</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400˚F (200˚C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Lightly flour a clean surface. Roll out the pizza dough and cut into 4 strips, then cut each strip into 8 triangles. Transfer the triangles to the prepared baking sheet. </step>
+    <step num="2">In a small bowl, whisk together the olive oil, oregano, garlic powder and crushed red pepper. </step>
+    <step num="3">Brush the seasoned oil over the pizza dough triangles. </step>
+    <step num="4">Bake for 10 minutes, or until the chips are crispy and golden brown. Remove the chips from the oven and leave the oven on. </step>
+    <step num="5">Layer half of the chips in a large cast iron skillet or on a baking sheet. Spoon on half of the marinara sauce, then top with half of the mozzarella, pepperoni, Italian sausage, and tomatoes. Layer on the remaining ingredients. </step>
+    <step num="6">Bake for 5 minutes, or until the cheese is melted. </step>
+    <step num="7">Top the nachos with freshly grated Parmesan cheese and the basil, then serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Lightly flour a clean surface. </steps_updated>
+    <steps_updated num="3">Roll out the pizza dough and cut into 4 strips, then cut each strip into 8 triangles. </steps_updated>
+    <steps_updated num="4">Transfer the triangles to the prepared baking sheet. </steps_updated>
+    <steps_updated num="5">In a small bowl, whisk together the olive oil, oregano, garlic powder and crushed red pepper. </steps_updated>
+    <steps_updated num="6">Brush the seasoned oil over the pizza dough triangles. </steps_updated>
+    <steps_updated num="7">Bake for 10 minutes, or until the chips are crispy and golden brown. </steps_updated>
+    <steps_updated num="8">Remove the chips from the oven and leave the oven on. </steps_updated>
+    <steps_updated num="9">Layer half of the chips in a large cast iron skillet or on a baking sheet. </steps_updated>
+    <steps_updated num="10">Spoon on half of the marinara sauce, then top with half of the mozzarella, pepperoni, Italian sausage, and tomatoes. </steps_updated>
+    <steps_updated num="11">Layer on the remaining ingredients. </steps_updated>
+    <steps_updated num="12">Bake for 5 minutes, or until the cheese is melted. </steps_updated>
+    <steps_updated num="13">Top the nachos with freshly grated Parmesan cheese and the basil, then serve. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

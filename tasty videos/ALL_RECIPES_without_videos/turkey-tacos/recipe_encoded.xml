@@ -1,0 +1,50 @@
+<recipe>
+  <title>Turkey Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turkey-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ways-to-use-ground-turkey</comp_url>
+  <ingredients>
+    <ingredient num="0">5766 </ingredient>
+    <ingredient num="1">3917 715 13278 2449 11088 13355 13278 14577 5981 </ingredient>
+    <ingredient num="2">3917 643 13278 10176 3123 3917 8532 13278 1258 5981 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">13347 643 13278 5450 341 9491 6124 13278 132 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44557/low_1500670490.m3u8</low>
+    <high>https://vid.tasty.co/output/44557/mp4_720x1280/1500670490</high>
+  </video>
+  <duration>
+    <start_time>21.0</start_time>
+    <end_time>52.39</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 5994 10060 11770 8283 2082 9956 1725 740 5766 560 6798 11951 551 371 11951 10590 </step>
+    <step num="1">9179 11951 11088 13355 13817 827 3409 1391 5994 14263 </step>
+    <step num="2">9179 10176 3123 12610 13817 7845 13817 6991 8224 1681 3061 7312 870 13817 9490 7568 3745 8119 </step>
+    <step num="3">12473 210 11951 8720 8785 560 5994 7303 11779 7990 6285 2933 8927 13817 5103 6781 2082 </step>
+    <step num="4">11547 12229 1391 12313 226 7857 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5994 10060 11770 8283 2082 </steps_updated>
+    <steps_updated num="1">9956 1725 740 5766 560 6798 11951 551 371 11951 10590 </steps_updated>
+    <steps_updated num="2">9179 11951 11088 13355 13817 827 3409 1391 5994 14263 </steps_updated>
+    <steps_updated num="3">9179 10176 3123 12610 13817 7845 13817 6991 8224 1681 3061 7312 870 13817 9490 7568 3745 8119 </steps_updated>
+    <steps_updated num="4">12473 210 11951 8720 </steps_updated>
+    <steps_updated num="5">8785 560 5994 7303 11779 7990 6285 2933 8927 13817 5103 6781 2082 </steps_updated>
+    <steps_updated num="6">11547 12229 1391 12313 226 7857 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spiked Hot Chocolate Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spiked-hot-chocolate</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-slow-cooker-cocktails-to-serve-at-your-next-holiday-party</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; sugar ; (600 g) </ingredient>
+    <ingredient num="1">1 ¾ cups ; unsweetened cocoa powder ; (210 g) </ingredient>
+    <ingredient num="2">14 cups ; whole milk ; (3 ¾ L) </ingredient>
+    <ingredient num="3">1 cup ; peppermint schnapps ; (240 mL) </ingredient>
+    <ingredient num="4">16 ; large marshmallows </ingredient>
+    <ingredient num="5">whipped cream, for garnish </ingredient>
+    <ingredient num="6">peppermint candy, crushed, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112113/hls24_1539385219.m3u8</low>
+    <high>https://vid.tasty.co/output/112113/landscape_720/1539385219</high>
+  </video>
+  <duration>
+    <start_time>138.166</start_time>
+    <end_time>186.533</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the sugar and cocoa powder to a slow cooker and whisk to combine. </step>
+    <step num="1">Add the milk and whisk to incorporate. Turn the heat setting to high, cover, and warm for 30-60 minutes, until steaming. Once steaming, reduce the heat setting to warm. </step>
+    <step num="2">Add the peppermint schnapps. Whisk to combine and to ensure the sugar and cocoa powder are fully dissolved. Add the marshmallows. </step>
+    <step num="3">Ladle into mugs and top with whipped cream and crushed peppermint candies. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the sugar and cocoa powder to a slow cooker and whisk to combine. </steps_updated>
+    <steps_updated num="1">Add the milk and whisk to incorporate. </steps_updated>
+    <steps_updated num="2">Turn the heat setting to high, cover, and warm for 30-60 minutes, until steaming. </steps_updated>
+    <steps_updated num="3">Once steaming, reduce the heat setting to warm. </steps_updated>
+    <steps_updated num="4">Add the peppermint schnapps. </steps_updated>
+    <steps_updated num="5">Whisk to combine and to ensure the sugar and cocoa powder are fully dissolved. </steps_updated>
+    <steps_updated num="6">Add the marshmallows. </steps_updated>
+    <steps_updated num="7">Ladle into mugs and top with whipped cream and crushed peppermint candies. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

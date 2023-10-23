@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Double Decker Party S’mores Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/double-decker-party-smores</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">60 ; graham crackers, halved, divided </ingredient>
+    <ingredient num="1">2 ; milk chocolate bars, broken into 30 pieces total </ingredient>
+    <ingredient num="2">60 ; large marshmallows, halved crosswise </ingredient>
+    <ingredient num="3">5 pieces ; dark chocolate </ingredient>
+    <ingredient num="4">5 pieces ; cookie and cream chocolate bar </ingredient>
+    <ingredient num="5">5 ; peanut butter cups </ingredient>
+    <ingredient num="6">10 ; mint chocolate candies </ingredient>
+    <ingredient num="7">5 pieces ; white chocolate </ingredient>
+    <ingredient num="8">10 ; chocolate caramel candies </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/84198/hls24_1520889546.m3u8</low>
+    <high>https://vid.tasty.co/output/84198/landscape_720/1520889546</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="1">On a parchment-lined baking sheet, cover the bottom of the tray with half of the graham cracker halves. </step>
+    <step num="2">Layer a piece of milk chocolate on top of each of the graham cracker, top each piece of chocolate with two marshmallow halves, and top the marshmallows with the remaining graham crackers. </step>
+    <step num="3">Bake for 5 minutes, or until the marshmallows soften. </step>
+    <step num="4">Press the top graham crackers to help reset any graham crackers that may have fallen or tilted during baking. </step>
+    <step num="5">In the first column, layer dark chocolate on top of each graham cracker. </step>
+    <step num="6">In the second column, layer pieces of the cookies ‘n’ cream bar on top of each graham cracker. </step>
+    <step num="7">In the third column, layer peanut butter cups on top of each graham cracker. </step>
+    <step num="8">In the fourth column, layer the mint chocolates on top of each graham cracker. </step>
+    <step num="9">In the fifth column, layer the pieces of white chocolate on top of each graham cracker. </step>
+    <step num="10">In the sixth column, layer the chocolate caramels on top of each graham cracker. </step>
+    <step num="11">Cover all columns with the remaining marshmallow halves. </step>
+    <step num="12">Bake for 8-10 minutes, or until the marshmallows are golden brown. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">On a parchment-lined baking sheet, cover the bottom of the tray with half of the graham cracker halves. </steps_updated>
+    <steps_updated num="2">Layer a piece of milk chocolate on top of each of the graham cracker, top each piece of chocolate with two marshmallow halves, and top the marshmallows with the remaining graham crackers. </steps_updated>
+    <steps_updated num="3">Bake for 5 minutes, or until the marshmallows soften. </steps_updated>
+    <steps_updated num="4">Press the top graham crackers to help reset any graham crackers that may have fallen or tilted during baking. </steps_updated>
+    <steps_updated num="5">In the first column, layer dark chocolate on top of each graham cracker. </steps_updated>
+    <steps_updated num="6">In the second column, layer pieces of the cookies ‘n’ cream bar on top of each graham cracker. </steps_updated>
+    <steps_updated num="7">In the third column, layer peanut butter cups on top of each graham cracker. </steps_updated>
+    <steps_updated num="8">In the fourth column, layer the mint chocolates on top of each graham cracker. </steps_updated>
+    <steps_updated num="9">In the fifth column, layer the pieces of white chocolate on top of each graham cracker. </steps_updated>
+    <steps_updated num="10">In the sixth column, layer the chocolate caramels on top of each graham cracker. </steps_updated>
+    <steps_updated num="11">Cover all columns with the remaining marshmallow halves. </steps_updated>
+    <steps_updated num="12">Bake for 8-10 minutes, or until the marshmallows are golden brown. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Granola Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-granola</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-healthier-workout-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; rolled oats ; (200 g) </ingredient>
+    <ingredient num="1">½ cup ; almond, sliced ; (70 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="3">¼ teaspoon ; salt </ingredient>
+    <ingredient num="4">3 tablespoons ; coconut oil, melted </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; honey </ingredient>
+    <ingredient num="8">greek yogurt, to serve </ingredient>
+    <ingredient num="9">assorted berry, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65579/hls24_1512413303.m3u8</low>
+    <high>https://vid.tasty.co/output/65579/landscape_720/1512413303</high>
+  </video>
+  <duration>
+    <start_time>11.66</start_time>
+    <end_time>44.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425 °F (220°C). </step>
+    <step num="1">In a large bowl, add the oats, almonds, cinnamon, salt, coconut oil, vanilla extract, maple syrup, and honey. </step>
+    <step num="2">Mix until well combined. </step>
+    <step num="3">Transfer the mixture onto a parchment paper-lined baking sheet and spread into an even layer. </step>
+    <step num="4">Bake for 20 minutes. </step>
+    <step num="5">Carefully remove and allow to cool for 10 minutes. </step>
+    <step num="6">Break up the layer into chunks with your hands. </step>
+    <step num="7">Store in an airtight container for up to one month. </step>
+    <step num="8">Serve with Greek yogurt and fresh berries, if desired. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425 °F (220°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, add the oats, almonds, cinnamon, salt, coconut oil, vanilla extract, maple syrup, and honey. </steps_updated>
+    <steps_updated num="2">Mix until well combined. </steps_updated>
+    <steps_updated num="3">Transfer the mixture onto a parchment paper-lined baking sheet and spread into an even layer. </steps_updated>
+    <steps_updated num="4">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="5">Carefully remove and allow to cool for 10 minutes. </steps_updated>
+    <steps_updated num="6">Break up the layer into chunks with your hands. </steps_updated>
+    <steps_updated num="7">Store in an airtight container for up to one month. </steps_updated>
+    <steps_updated num="8">Serve with Greek yogurt and fresh berries, if desired. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00325</start_time>
+    <end_time>01066</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,40 @@
+<recipe>
+  <title>Camembert Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/camembert-bread-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 2054 14538 </ingredient>
+    <ingredient num="1">3917 14014 13278 11384 30 </ingredient>
+    <ingredient num="2">8580 9486 13278 9924 </ingredient>
+    <ingredient num="3">3917 13278 2071 13854 10881 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32040/low_1495124982.m3u8</low>
+    <high>https://vid.tasty.co/output/32040/mp4_720x1280/1495124982</high>
+  </video>
+  <steps>
+    <step num="0">14100 3482 11951 10707 371 11951 4465 3176 13817 1374 2696 5994 3318 2597 9815 560 10313 11951 7973 </step>
+    <step num="1">6688 9924 13817 11384 560 3535 11951 11384 14057 </step>
+    <step num="2">10175 11951 1864 371 11951 4465 12377 13817 5378 1391 11951 11384 14057 </step>
+    <step num="3">14100 11951 10707 3482 371 11951 2054 13817 3345 210 7616 7831 7990 13133 8927 7811 55 13362 </step>
+    <step num="4">12774 1391 11951 10881 4484 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 3482 11951 10707 371 11951 4465 3176 13817 1374 2696 5994 3318 2597 9815 560 10313 11951 7973 </steps_updated>
+    <steps_updated num="1">6688 9924 13817 11384 560 3535 11951 11384 14057 </steps_updated>
+    <steps_updated num="2">10175 11951 1864 371 11951 4465 12377 13817 5378 1391 11951 11384 14057 </steps_updated>
+    <steps_updated num="3">14100 11951 10707 3482 371 11951 2054 13817 3345 210 7616 </steps_updated>
+    <steps_updated num="4">7831 7990 13133 8927 7811 55 13362 </steps_updated>
+    <steps_updated num="5">12774 1391 11951 10881 4484 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

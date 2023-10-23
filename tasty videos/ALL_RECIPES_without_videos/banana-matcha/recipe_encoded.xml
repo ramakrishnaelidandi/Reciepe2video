@@ -1,0 +1,39 @@
+<recipe>
+  <title>Banana Matcha Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-matcha</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/caffeine-smoothies-to-kickstart-your-day</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 76 976 </ingredient>
+    <ingredient num="1">3917 14014 13278 8182 8117 7789 3954 7990 7818 </ingredient>
+    <ingredient num="2">3917 2605 13278 638 5802 13278 7503 8007 </ingredient>
+    <ingredient num="3">3917 2605 13278 6209 13220 13278 336 5981 </ingredient>
+    <ingredient num="4">8580 9517 13278 2439 13278 4551 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99086/hls24_1529361006.m3u8</low>
+    <high>https://vid.tasty.co/output/99086/landscape_720/1529361006</high>
+  </video>
+  <duration>
+    <start_time>43.666</start_time>
+    <end_time>76.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 76 8509 638 9889 2602 13817 2439 560 5994 12095 </step>
+    <step num="1">3262 1681 12119 </step>
+    <step num="2">12774 210 5994 13426 10366 1391 5994 1678 371 13237 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 76 8509 638 9889 2602 13817 2439 560 5994 12095 </steps_updated>
+    <steps_updated num="1">3262 1681 12119 </steps_updated>
+    <steps_updated num="2">12774 210 5994 13426 10366 1391 5994 1678 371 13237 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<recipe>
+  <title>Alfredo Chicken Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/alfredo-chicken-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 7983 7678 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">11598 643 13278 8304 7280 5895 7191 560 1292 13278 5800 5981 </ingredient>
+    <ingredient num="4">3917 715 13278 2340 3173 13278 4563 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 109 14538 13278 7289 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75842/hls24_1517417494.m3u8</low>
+    <high>https://vid.tasty.co/output/75842/landscape_720/1517417494</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">2988 5994 11826 371 8304 2260 4255 11951 10765 6325 5570 7983 376 11770 9286 10242 7983 1391 82 13817 10986 560 8686 </step>
+    <step num="2">2988 2340 11770 9104 </step>
+    <step num="3">1083 374 8304 11770 7983 13817 12414 </step>
+    <step num="4">13494 1391 3220 4496 </step>
+    <step num="5">7831 7990 11203 12689 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">2988 5994 11826 371 8304 2260 4255 11951 10765 6325 </steps_updated>
+    <steps_updated num="2">5570 7983 376 11770 9286 </steps_updated>
+    <steps_updated num="3">10242 7983 1391 82 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="4">2988 2340 11770 9104 </steps_updated>
+    <steps_updated num="5">1083 374 8304 11770 7983 13817 12414 </steps_updated>
+    <steps_updated num="6">13494 1391 3220 4496 </steps_updated>
+    <steps_updated num="7">7831 7990 11203 12689 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

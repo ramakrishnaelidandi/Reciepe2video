@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Noodle Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-noodle-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; butter </ingredient>
+    <ingredient num="1">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 cup ; celery, diced ; (225 g) </ingredient>
+    <ingredient num="4">1 cup ; carrot, diced ; (120 g) </ingredient>
+    <ingredient num="5">½ lb ; cooked chicken, shredded ; (225 g) </ingredient>
+    <ingredient num="6">56 fl oz ; chicken broth </ingredient>
+    <ingredient num="7">2 cups ; egg noodle ; (300 g) </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">2 leaves ; dried bay leaf </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14681/low_1479146220.m3u8</low>
+    <high>https://vid.tasty.co/output/14681/mp4_720x1280/1479146220</high>
+  </video>
+  <steps>
+    <step num="0">In a large pot, melt butter and add onions and garlic. Cook until onions have begun to soften. </step>
+    <step num="1">Add celery, carrots, and cooked shredded chicken. </step>
+    <step num="2">Add the chicken broth, egg noodles, salt, pepper and bay leaves. </step>
+    <step num="3">Bring to a boil and then reduce heat, cover and simmer for 20 minutes. </step>
+    <step num="4">Remove bay leaves from the soup. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot, melt butter and add onions and garlic. </steps_updated>
+    <steps_updated num="1">Cook until onions have begun to soften. </steps_updated>
+    <steps_updated num="2">Add celery, carrots, and cooked shredded chicken. </steps_updated>
+    <steps_updated num="3">Add the chicken broth, egg noodles, salt, pepper and bay leaves. </steps_updated>
+    <steps_updated num="4">Bring to a boil and then reduce heat, cover and simmer for 20 minutes. </steps_updated>
+    <steps_updated num="5">Remove bay leaves from the soup. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

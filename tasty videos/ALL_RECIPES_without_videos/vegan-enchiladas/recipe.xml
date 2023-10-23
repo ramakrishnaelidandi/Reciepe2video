@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Enchiladas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-enchiladas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="1">2 tablespoons ; flour, rice flour for gluten-free </ingredient>
+    <ingredient num="2">4 tablespoons ; chili powder </ingredient>
+    <ingredient num="3">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="7">2 cups ; vegetable broth ; (470 mL) </ingredient>
+    <ingredient num="8">½ ; white onion </ingredient>
+    <ingredient num="9">1 ; bell pepper </ingredient>
+    <ingredient num="10">1 ; zucchini </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+    <ingredient num="13">1 can ; black beans </ingredient>
+    <ingredient num="14">¼ cup ; olive, sliced ; (50 g) </ingredient>
+    <ingredient num="15">green onion </ingredient>
+    <ingredient num="16">cilantro, as garnish or in the filling </ingredient>
+    <ingredient num="17">8 ; corn tortillas </ingredient>
+    <ingredient num="18">avocado, to top </ingredient>
+    <ingredient num="19">½ cup ; raw cashews ; (65 g) </ingredient>
+    <ingredient num="20">½ cup ; water, hot water ; (120 mL) </ingredient>
+    <ingredient num="21">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="22">⅛ teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Game Day</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32257/low_1495125441.m3u8</low>
+    <high>https://vid.tasty.co/output/32257/mp4_720x1280/1495125441</high>
+  </video>
+  <steps>
+    <step num="0">In a medium saucepan, whisk together oil and flour over low heat. Add spices and mix together. </step>
+    <step num="1">Slowly add the veggie broth and chili powder while whisking continuously. Let simmer for a few minutes until it begins to thicken slightly. </step>
+    <step num="2">In a separate pot, lightly sauté the onion and peppers for a few minutes, before adding the zucchini, and finally the black beans. Season with pepper and a pinch of salt. </step>
+    <step num="3">Soften the corn tortillas by wrapping in a damp paper towel and microwaving for 10 seconds. </step>
+    <step num="4">Next, spread some of the sauce over the tortilla, and add the filling. Roll and place lined up in a baking dish. Pour the rest of the sauce over the enchiladas. Sprinkle with olives and green onions. </step>
+    <step num="5">Cover with foil and bake at 350˚ (177˚C) for 20 minutes. </step>
+    <step num="6">Soak cashews in hot water for 10 minutes (microwave works) add salt and lemon juice. Blend until creamy. </step>
+    <step num="7">Serve with avocado, cilantro, and a dollop of non-dairy sour cream. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium saucepan, whisk together oil and flour over low heat. </steps_updated>
+    <steps_updated num="1">Add spices and mix together. </steps_updated>
+    <steps_updated num="2">Slowly add the veggie broth and chili powder while whisking continuously. </steps_updated>
+    <steps_updated num="3">Let simmer for a few minutes until it begins to thicken slightly. </steps_updated>
+    <steps_updated num="4">In a separate pot, lightly sauté the onion and peppers for a few minutes, before adding the zucchini, and finally the black beans. </steps_updated>
+    <steps_updated num="5">Season with pepper and a pinch of salt. </steps_updated>
+    <steps_updated num="6">Soften the corn tortillas by wrapping in a damp paper towel and microwaving for 10 seconds. </steps_updated>
+    <steps_updated num="7">Next, spread some of the sauce over the tortilla, and add the filling. </steps_updated>
+    <steps_updated num="8">Roll and place lined up in a baking dish. </steps_updated>
+    <steps_updated num="9">Pour the rest of the sauce over the enchiladas. </steps_updated>
+    <steps_updated num="10">Sprinkle with olives and green onions. </steps_updated>
+    <steps_updated num="11">Cover with foil and bake at 350˚ (177˚C) for 20 minutes. </steps_updated>
+    <steps_updated num="12">Soak cashews in hot water for 10 minutes (microwave works) add salt and lemon juice. </steps_updated>
+    <steps_updated num="13">Blend until creamy. </steps_updated>
+    <steps_updated num="14">Serve with avocado, cilantro, and a dollop of non-dairy sour cream. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

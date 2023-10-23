@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Focaccia Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/focaccia</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-epic-ways-to-transform-homemade-bread</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; warm water ; (235 mL) </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">2 tablespoons ; honey </ingredient>
+    <ingredient num="3">2 teaspoons ; salt </ingredient>
+    <ingredient num="4">3 ⅓ cups ; flour ; (415 g) </ingredient>
+    <ingredient num="5">1 ½ teaspoons ; yeast </ingredient>
+    <ingredient num="6">2 tablespoons ; extra virgin olive oil </ingredient>
+    <ingredient num="7">2 sprigs ; fresh rosemary, leaves removed </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71629/hls24_1515433243.m3u8</low>
+    <high>https://vid.tasty.co/output/71629/landscape_720/1515433243</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine water, olive oil, honey, salt, flour, and yeast in a large bowl. </step>
+    <step num="1">Mix well and knead for 10-15 minutes until the dough is elastic. </step>
+    <step num="2">Transfer the dough into a well-oiled bowl. </step>
+    <step num="3">Cover with a towel or plastic wrap and let rise once for 1 hour in a warm place, until the dough has doubled. </step>
+    <step num="4">Preheat oven to 375˚F (190˚C). </step>
+    <step num="5">Remove the dough from the bowl and stretch the dough into 9-inch (23 cm) circle. </step>
+    <step num="6">Place the dough into well greased 10-inch (25 cm) cast iron pan. Cover with towel or plastic wrap and rest for 30 minutes. </step>
+    <step num="7">Poke the top with your fingertips. </step>
+    <step num="8">Drizzle with olive oil and sprinkle with rosemary, salt, and pepper. </step>
+    <step num="9">Bake in the oven for 20-30 minutes. </step>
+    <step num="10">Slice and serve. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine water, olive oil, honey, salt, flour, and yeast in a large bowl. </steps_updated>
+    <steps_updated num="1">Mix well and knead for 10-15 minutes until the dough is elastic. </steps_updated>
+    <steps_updated num="2">Transfer the dough into a well-oiled bowl. </steps_updated>
+    <steps_updated num="3">Cover with a towel or plastic wrap and let rise once for 1 hour in a warm place, until the dough has doubled. </steps_updated>
+    <steps_updated num="4">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="5">Remove the dough from the bowl and stretch the dough into 9-inch (23 cm) circle. </steps_updated>
+    <steps_updated num="6">Place the dough into well greased 10-inch (25 cm) cast iron pan. </steps_updated>
+    <steps_updated num="7">Cover with towel or plastic wrap and rest for 30 minutes. </steps_updated>
+    <steps_updated num="8">Poke the top with your fingertips. </steps_updated>
+    <steps_updated num="9">Drizzle with olive oil and sprinkle with rosemary, salt, and pepper. </steps_updated>
+    <steps_updated num="10">Bake in the oven for 20-30 minutes. </steps_updated>
+    <steps_updated num="11">Slice and serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-02396</start_time>
+    <end_time>03441</end_time>
+  </duration_human>
+</recipe>

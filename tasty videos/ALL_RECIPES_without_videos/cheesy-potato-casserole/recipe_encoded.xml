@@ -1,0 +1,52 @@
+<recipe>
+  <title>Cheesy Potato Casserole</title>
+  <url>https://tasty.co/recipe/cheesy-potato-casserole</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 13278 9780 13233 </ingredient>
+    <ingredient num="1">8244 5766 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+    <ingredient num="4">13767 8535 13278 7035 3745 13817 885 </ingredient>
+    <ingredient num="5">13086 9517 13278 1484 13033 13278 7897 5981 </ingredient>
+    <ingredient num="6">4061 9517 13278 3333 9784 14538 13278 5348 5981 </ingredient>
+    <ingredient num="7">6209 11292 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16234/low_1480530792.m3u8</low>
+    <high>https://vid.tasty.co/output/16234/mp4_720x1280/1480530792</high>
+  </video>
+  <steps>
+    <step num="0">5570 13233 4255 5994 10765 213 13817 12753 4297 210 4817 10860 1391 5994 11206 </step>
+    <step num="1">309 13233 1391 8244 7632 13817 1678 1391 82 13817 12375 </step>
+    <step num="2">7831 7990 7811 8910 2480 7990 7759 12689 </step>
+    <step num="3">6054 13233 6781 11546 13817 3945 435 13190 669 1318 8891 1580 1645 13637 </step>
+    <step num="4">4124 2532 371 11951 13233 4255 11951 551 371 5994 2362 13444 2985 10923 1645 10765 6325 </step>
+    <step num="5">6252 4255 2532 371 11951 7035 11434 2532 371 11951 1484 1123 13817 1678 4255 2532 371 11951 4496 </step>
+    <step num="6">5362 7990 5994 437 14614 </step>
+    <step num="7">7831 7990 5527 8927 7811 12781 6475 371 12738 4475 5895 1681 14538 9490 10963 1368 13817 11951 5832 12207 1861 8857 </step>
+    <step num="8">6252 1391 7532 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 13233 4255 5994 10765 213 13817 12753 4297 210 4817 10860 1391 5994 11206 </steps_updated>
+    <steps_updated num="1">309 13233 1391 8244 7632 13817 1678 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="2">7831 7990 7811 8910 2480 7990 7759 12689 </steps_updated>
+    <steps_updated num="3">6054 13233 6781 11546 13817 3945 435 </steps_updated>
+    <steps_updated num="4">13190 669 1318 8891 1580 1645 13637 </steps_updated>
+    <steps_updated num="5">4124 2532 371 11951 13233 4255 11951 551 371 5994 2362 13444 2985 10923 1645 10765 6325 </steps_updated>
+    <steps_updated num="6">6252 4255 2532 371 11951 7035 11434 2532 371 11951 1484 1123 13817 1678 4255 2532 371 11951 4496 </steps_updated>
+    <steps_updated num="7">5362 7990 5994 437 14614 </steps_updated>
+    <steps_updated num="8">7831 7990 5527 8927 7811 12781 6475 371 12738 4475 5895 1681 14538 9490 10963 1368 13817 11951 5832 12207 1861 8857 </steps_updated>
+    <steps_updated num="9">6252 1391 7532 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

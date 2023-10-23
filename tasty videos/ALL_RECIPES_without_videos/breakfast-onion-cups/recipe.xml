@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Onion Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-onion-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; broccoli floret, minced ; (350 g) </ingredient>
+    <ingredient num="1">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="2">7 ; eggs </ingredient>
+    <ingredient num="3">5 strips ; bacon, cooked and diced </ingredient>
+    <ingredient num="4">1 ; large red onion </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="8">2 tablespoons ; milk </ingredient>
+    <ingredient num="9">grated parmesan cheese, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20224/low_1484006255.m3u8</low>
+    <high>https://vid.tasty.co/output/20224/mp4_720x1280/1484006255</high>
+  </video>
+  <steps>
+    <step num="0">Heat oven to 400˚ (200˚C). </step>
+    <step num="1">Mix eggs, milk, and spices in large mixing bowl. </step>
+    <step num="2">Add broccoli, bacon, and cheese, and continue mixing until all ingredients are well incorporated. </step>
+    <step num="3">Cut ends off the red onion and then slice in half. Gently pop out rings, using desired size. </step>
+    <step num="4">Heat cast-iron pan on low and place onion rings in the pan. </step>
+    <step num="5">Spoon in small amount of egg mixture and press on the onion ring create a seal, then repeat for all rings. </step>
+    <step num="6">Pour the remaining mixture filling to just about the top of each ring. </step>
+    <step num="7">Cover with foil. </step>
+    <step num="8">Place in oven and cook for 25 minutes, or until eggs are cooked through and slightly puffed and onion rings are tender. </step>
+    <step num="9">Remove from pan immediately and sprinkle with desired topping. (We used grated parmesan cheese.) </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oven to 400˚ (200˚C). </steps_updated>
+    <steps_updated num="1">Mix eggs, milk, and spices in large mixing bowl. </steps_updated>
+    <steps_updated num="2">Add broccoli, bacon, and cheese, and continue mixing until all ingredients are well incorporated. </steps_updated>
+    <steps_updated num="3">Cut ends off the red onion and then slice in half. </steps_updated>
+    <steps_updated num="4">Gently pop out rings, using desired size. </steps_updated>
+    <steps_updated num="5">Heat cast-iron pan on low and place onion rings in the pan. </steps_updated>
+    <steps_updated num="6">Spoon in small amount of egg mixture and press on the onion ring create a seal, then repeat for all rings. </steps_updated>
+    <steps_updated num="7">Pour the remaining mixture filling to just about the top of each ring. </steps_updated>
+    <steps_updated num="8">Cover with foil. </steps_updated>
+    <steps_updated num="9">Place in oven and cook for 25 minutes, or until eggs are cooked through and slightly puffed and onion rings are tender. </steps_updated>
+    <steps_updated num="10">Remove from pan immediately and sprinkle with desired topping. </steps_updated>
+    <steps_updated num="11">(We used grated parmesan cheese.) </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

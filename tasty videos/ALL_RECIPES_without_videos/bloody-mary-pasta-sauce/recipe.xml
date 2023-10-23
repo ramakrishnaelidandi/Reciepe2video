@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bloody Mary Pasta Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bloody-mary-pasta-sauce</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; red onion, diced </ingredient>
+    <ingredient num="1">2 cloves ; garlic, crushed </ingredient>
+    <ingredient num="2">2 sticks ; celery, sliced </ingredient>
+    <ingredient num="3">¼ cup ; vodka ; (50 mL) </ingredient>
+    <ingredient num="4">1 ; lemon, juiced </ingredient>
+    <ingredient num="5">2 cups ; chopped tomato ; (400 g) </ingredient>
+    <ingredient num="6">hot sauce, a dash </ingredient>
+    <ingredient num="7">worcestershire sauce, a dash </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Italian</category>
+    <category num="2">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17307/low_1481319845.m3u8</low>
+    <high>https://vid.tasty.co/output/17307/mp4_720x1280/1481319845</high>
+  </video>
+  <steps>
+    <step num="0">Season the onion, garlic, and celery with salt and pepper, and cook in a little oil until softened. </step>
+    <step num="1">Stir in the vodka and lemon juice. </step>
+    <step num="2">Add the can of chopped tomatoes, hot sauce, and Worcestershire sauce, then simmer for a few minutes. </step>
+    <step num="3">Add the sauce to a blender and whizz until smooth. </step>
+    <step num="4">Serving suggestions: This is a great replacement for any other tomato-based sauce. Use it as a pizza sauce, over pasta, or in a bake! Will keep in the fridge for up to one week! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season the onion, garlic, and celery with salt and pepper, and cook in a little oil until softened. </steps_updated>
+    <steps_updated num="1">Stir in the vodka and lemon juice. </steps_updated>
+    <steps_updated num="2">Add the can of chopped tomatoes, hot sauce, and Worcestershire sauce, then simmer for a few minutes. </steps_updated>
+    <steps_updated num="3">Add the sauce to a blender and whizz until smooth. </steps_updated>
+    <steps_updated num="4">Serving suggestions: This is a great replacement for any other tomato-based sauce. </steps_updated>
+    <steps_updated num="5">Use it as a pizza sauce, over pasta, or in a bake! </steps_updated>
+    <steps_updated num="6">Will keep in the fridge for up to one week! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

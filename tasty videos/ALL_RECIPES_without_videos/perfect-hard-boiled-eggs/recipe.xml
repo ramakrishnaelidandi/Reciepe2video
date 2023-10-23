@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>How To Cook Perfect Hard-Boiled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/perfect-hard-boiled-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; eggs </ingredient>
+    <ingredient num="1">water, to cover </ingredient>
+    <ingredient num="2">ice, for ice bath </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29778/low_1492732247.m3u8</low>
+    <high>https://vid.tasty.co/output/29778/mp4_720x1280/1492732247</high>
+  </video>
+  <steps>
+    <step num="0">Place eggs in a pot. Cover with cold water until the eggs are covered by about 1 inch of water. </step>
+    <step num="1">Bring to a boil, uncovered. Once boiling, take off the heat. </step>
+    <step num="2">Cover and cook for 4-16 minutes, depending on preference (4-6 minutes for soft-boiled, 8-10 minutes for medium-boiled, 12-16 minutes for hard-boiled). In the meantime, fill a large bowl with ice and cold water, creating an ice bath. </step>
+    <step num="3">Once eggs reach desired cook-time, immediately remove the eggs from pot and place in the ice bath. Allow eggs to cool for 10-15 minutes. </step>
+    <step num="4">To peel, lightly tap the eggs on a flat surface, then gently roll back and forth (taking extra care with soft-boiled eggs). </step>
+    <step num="5">Pull away the loosened shell and peel any remaining pieces. </step>
+    <step num="6">Serve as is or incorporate into your favorite recipe that requires hard-boiled eggs. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place eggs in a pot. </steps_updated>
+    <steps_updated num="1">Cover with cold water until the eggs are covered by about 1 inch of water. </steps_updated>
+    <steps_updated num="2">Bring to a boil, uncovered. </steps_updated>
+    <steps_updated num="3">Once boiling, take off the heat. </steps_updated>
+    <steps_updated num="4">Cover and cook for 4-16 minutes, depending on preference (4-6 minutes for soft-boiled, 8-10 minutes for medium-boiled, 12-16 minutes for hard-boiled). </steps_updated>
+    <steps_updated num="5">In the meantime, fill a large bowl with ice and cold water, creating an ice bath. </steps_updated>
+    <steps_updated num="6">Once eggs reach desired cook-time, immediately remove the eggs from pot and place in the ice bath. </steps_updated>
+    <steps_updated num="7">Allow eggs to cool for 10-15 minutes. </steps_updated>
+    <steps_updated num="8">To peel, lightly tap the eggs on a flat surface, then gently roll back and forth (taking extra care with soft-boiled eggs). </steps_updated>
+    <steps_updated num="9">Pull away the loosened shell and peel any remaining pieces. </steps_updated>
+    <steps_updated num="10">Serve as is or incorporate into your favorite recipe that requires hard-boiled eggs. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

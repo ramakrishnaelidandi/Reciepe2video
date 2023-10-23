@@ -1,0 +1,53 @@
+<recipe>
+  <title>Rice Krispy Cones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rice-krispy-cones</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-impress-at-a-bake-sale</comp_url>
+  <ingredients>
+    <ingredient num="0">13767 643 13278 1459 8503 13278 13113 5981 </ingredient>
+    <ingredient num="1">13086 9486 13278 9924 </ingredient>
+    <ingredient num="2">11061 9517 13278 12019 7706 12494 13278 7642 5981 </ingredient>
+    <ingredient num="3">409 13278 12599 4308 </ingredient>
+    <ingredient num="4">13826 4318 7990 3297 </ingredient>
+    <ingredient num="5">11815 7990 3297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30526/low_1493657558.m3u8</low>
+    <high>https://vid.tasty.co/output/30526/mp4_720x1280/1493657558</high>
+  </video>
+  <duration>
+    <start_time>46.0</start_time>
+    <end_time>78.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 740 9924 13817 9671 6688 7990 8580 12689 12473 7811 3917 6513 </step>
+    <step num="1">9179 11951 12494 13817 6142 1681 11951 14630 3584 10469 11951 2510 </step>
+    <step num="2">5209 5994 2439 13033 9607 1978 7302 669 13202 </step>
+    <step num="3">12946 5994 12599 2327 13817 10852 3557 210 5335 4680 13817 415 6908 1678 4494 1762 3660 </step>
+    <step num="4">5570 11951 7706 9390 2984 669 11951 7336 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 740 9924 13817 9671 </steps_updated>
+    <steps_updated num="1">6688 7990 8580 12689 </steps_updated>
+    <steps_updated num="2">12473 7811 3917 6513 </steps_updated>
+    <steps_updated num="3">9179 11951 12494 13817 6142 1681 11951 14630 3584 10469 11951 2510 </steps_updated>
+    <steps_updated num="4">5209 5994 2439 13033 9607 1978 7302 669 13202 </steps_updated>
+    <steps_updated num="5">12946 5994 12599 2327 13817 10852 3557 210 5335 4680 13817 415 6908 1678 4494 1762 3660 </steps_updated>
+    <steps_updated num="6">5570 11951 7706 9390 2984 669 11951 7336 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01416</start_time>
+    <end_time>02347</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Shrimp And Green Bean Stir-fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-shrimp-and-green-bean-stir-fry</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-stir-fry-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; shrimp, peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 cup ; broccoli, chopped ; (150 g) </ingredient>
+    <ingredient num="4">1 cup ; green beans ; (360 g) </ingredient>
+    <ingredient num="5">1 cup ; carrot, sliced ; (120 g) </ingredient>
+    <ingredient num="6">½ cup ; soy sauce ; (120 mL) </ingredient>
+    <ingredient num="7">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="8">2 cloves ; garlic </ingredient>
+    <ingredient num="9">1 teaspoon ; ginger </ingredient>
+    <ingredient num="10">1 tablespoon ; sesame seed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Seafood</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20739/low_1484338324.m3u8</low>
+    <high>https://vid.tasty.co/output/20739/mp4_720x1280/1484338324</high>
+  </video>
+  <duration>
+    <start_time>52.0</start_time>
+    <end_time>71.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix together all sauce ingredients in a small bowl. </step>
+    <step num="1">Heat oil over a nonstick pan and add shrimp stirring until cooked. </step>
+    <step num="2">Pour sauce in pan and stir to coat meat. </step>
+    <step num="3">Once the sauce is bubbling, add the veggies to the pan and stir again to coat. </step>
+    <step num="4">Cook until meat is cooked through and veggies are soft. </step>
+    <step num="5">Serve over rice or alone. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together all sauce ingredients in a small bowl. </steps_updated>
+    <steps_updated num="1">Heat oil over a nonstick pan and add shrimp stirring until cooked. </steps_updated>
+    <steps_updated num="2">Pour sauce in pan and stir to coat meat. </steps_updated>
+    <steps_updated num="3">Once the sauce is bubbling, add the veggies to the pan and stir again to coat. </steps_updated>
+    <steps_updated num="4">Cook until meat is cooked through and veggies are soft. </steps_updated>
+    <steps_updated num="5">Serve over rice or alone. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01603</start_time>
+    <end_time>02155</end_time>
+  </duration_human>
+</recipe>

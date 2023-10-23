@@ -1,0 +1,49 @@
+<recipe>
+  <title>Pumpkin Spice Coffee Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pumpkin-spice-coffee</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-use-canned-pumpkin</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 8649 7988 13278 12462 8007 </ingredient>
+    <ingredient num="1">3917 2605 13278 638 5802 13278 12462 8007 </ingredient>
+    <ingredient num="2">8580 9486 13278 14079 5042 </ingredient>
+    <ingredient num="3">8580 9486 13278 9171 1285 5895 10733 371 6507 </ingredient>
+    <ingredient num="4">12791 8071 13278 1319 10937 </ingredient>
+    <ingredient num="5">1580 8071 13278 14079 4844 5730 5895 12791 8071 12425 7789 12791 8071 12159 </ingredient>
+    <ingredient num="6">279 1123 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Brunch</category>
+    <category num="5">Drinks</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56214/low_1507921547.m3u8</low>
+    <high>https://vid.tasty.co/output/56214/mp4_720x1280/1507921547</high>
+  </video>
+  <duration>
+    <start_time>3.1189999999999998</start_time>
+    <end_time>30.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 8554 11907 210 5994 13757 2260 10083 13817 7855 8180 9082 11901 11155 560 8288 13328 13377 </step>
+    <step num="1">12774 1725 5895 11770 13790 </step>
+    <step num="2">13494 1391 279 13033 6497 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 8554 11907 210 5994 13757 2260 10083 13817 7855 8180 9082 11901 11155 560 8288 13328 13377 </steps_updated>
+    <steps_updated num="1">12774 1725 5895 11770 13790 </steps_updated>
+    <steps_updated num="2">13494 1391 279 13033 6497 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00149</start_time>
+    <end_time>00931</end_time>
+  </duration_human>
+</recipe>

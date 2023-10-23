@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Lemonade White Wine Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-lemonade-white-wine-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-summer-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; apple, sliced </ingredient>
+    <ingredient num="1">2 ; lemons, sliced, plus 1 wheel for garnish </ingredient>
+    <ingredient num="2">2 cups ; strawberry, sliced, plus 1 for garnish ; (300 g) </ingredient>
+    <ingredient num="3">½ cup ; white rum ; (120 mL) </ingredient>
+    <ingredient num="4">1 bottle ; white wine </ingredient>
+    <ingredient num="5">2 cups ; lemon-lime soda, or soda water ; (480 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94686/hls24_1526593742.m3u8</low>
+    <high>https://vid.tasty.co/output/94686/landscape_720/1526593742</high>
+  </video>
+  <duration>
+    <start_time>86.0</start_time>
+    <end_time>110.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">To a pitcher, add apple slices, lemon slices, strawberry slices, rum, and white wine. Top with lemon-lime soda. </step>
+    <step num="1">Chill for at least 4 hours. </step>
+    <step num="2">Pour into wine glasses and garnish with lemon wheels and a strawberries. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To a pitcher, add apple slices, lemon slices, strawberry slices, rum, and white wine. </steps_updated>
+    <steps_updated num="1">Top with lemon-lime soda. </steps_updated>
+    <steps_updated num="2">Chill for at least 4 hours. </steps_updated>
+    <steps_updated num="3">Pour into wine glasses and garnish with lemon wheels and a strawberries. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

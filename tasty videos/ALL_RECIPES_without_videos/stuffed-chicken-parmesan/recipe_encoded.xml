@@ -1,0 +1,60 @@
+<recipe>
+  <title>Stuffed Chicken Parmesan Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-chicken-parmesan</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 7983 3967 6023 13817 2144 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">3917 2605 13278 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="3">8580 9517 13278 890 13278 10339 5981 </ingredient>
+    <ingredient num="4">11061 13278 14463 9917 </ingredient>
+    <ingredient num="5">8580 9517 13278 4465 9031 13278 2583 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 7632 7990 5291 13278 7503 5981 </ingredient>
+    <ingredient num="7">13086 9517 13278 9668 2260 13278 1626 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 2431 109 14538 13278 13412 5981 </ingredient>
+    <ingredient num="9">8580 9486 13278 6209 6250 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8411/low_1472568925.m3u8</low>
+    <high>https://vid.tasty.co/output/8411/mp4_720x1280/1472568925</high>
+  </video>
+  <steps>
+    <step num="0">10242 7983 1391 12051 </step>
+    <step num="1">14100 5994 8142 669 10763 7983 11118 </step>
+    <step num="2">4102 11951 4726 3584 1391 11951 10865 4496 </step>
+    <step num="3">8724 11951 5832 371 11951 7983 3626 560 10697 11951 2628 </step>
+    <step num="4">8519 11951 6467 14463 13817 4465 9031 669 13086 10909 7139 </step>
+    <step num="5">3204 148 560 2505 11951 7983 6781 6019 10852 11951 1997 7983 210 11951 6467 8633 3482 11951 14254 </step>
+    <step num="6">2668 11951 13004 7983 669 11951 4036 415 11951 4465 8092 13715 3557 7317 </step>
+    <step num="7">8889 11951 5766 210 5994 2597 5687 11770 13757 2082 3915 10439 560 12032 </step>
+    <step num="8">8916 11951 7983 1681 10963 1368 4255 6697 6701 </step>
+    <step num="9">5570 3591 371 11951 9668 2260 3584 4255 11951 551 371 5994 10765 6325 5570 11951 7983 4255 143 </step>
+    <step num="10">13494 1391 11951 12886 371 11951 9668 7280 415 1678 11951 109 13817 6250 4255 143 </step>
+    <step num="11">7831 7990 5527 12689 </step>
+    <step num="12">5015 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10242 7983 1391 12051 </steps_updated>
+    <steps_updated num="1">14100 5994 8142 669 10763 7983 11118 </steps_updated>
+    <steps_updated num="2">4102 11951 4726 3584 1391 11951 10865 4496 </steps_updated>
+    <steps_updated num="3">8724 11951 5832 371 11951 7983 3626 560 10697 11951 2628 </steps_updated>
+    <steps_updated num="4">8519 11951 6467 14463 13817 4465 9031 669 13086 10909 7139 </steps_updated>
+    <steps_updated num="5">3204 148 560 2505 11951 7983 6781 6019 10852 11951 1997 7983 210 11951 6467 8633 3482 11951 14254 </steps_updated>
+    <steps_updated num="6">2668 11951 13004 7983 669 11951 4036 415 11951 4465 8092 13715 3557 7317 </steps_updated>
+    <steps_updated num="7">8889 11951 5766 210 5994 2597 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="8">3915 10439 560 12032 </steps_updated>
+    <steps_updated num="9">8916 11951 7983 1681 10963 1368 4255 6697 6701 </steps_updated>
+    <steps_updated num="10">5570 3591 371 11951 9668 2260 3584 4255 11951 551 371 5994 10765 6325 </steps_updated>
+    <steps_updated num="11">5570 11951 7983 4255 143 </steps_updated>
+    <steps_updated num="12">13494 1391 11951 12886 371 11951 9668 7280 415 1678 11951 109 13817 6250 4255 143 </steps_updated>
+    <steps_updated num="13">7831 7990 5527 12689 </steps_updated>
+    <steps_updated num="14">5015 </steps_updated>
+  </steps_updated>
+</recipe>

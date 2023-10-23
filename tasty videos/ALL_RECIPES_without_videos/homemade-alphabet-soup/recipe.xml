@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Alphabet Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-alphabet-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="2">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 ; carrots, diced </ingredient>
+    <ingredient num="6">1 ; celery, diced </ingredient>
+    <ingredient num="7">1 can ; diced tomato </ingredient>
+    <ingredient num="8">½ cup ; vegetable stock ; (120 mL) </ingredient>
+    <ingredient num="9">½ cup ; alphabet pasta, or any pasta of your choice, cooked ; (100 g) </ingredient>
+    <ingredient num="10">cheese, to taste, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30740/low_1493761753.m3u8</low>
+    <high>https://vid.tasty.co/output/30740/mp4_720x1280/1493761753</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine all ingredients for the meatballs. </step>
+    <step num="1">Shape them into small balls and pan sear until the meatballs have a dark brown crust. About 2 minutes on each side. </step>
+    <step num="2">Take out the meatballs and set aside. Use the same pot combine the soup ingredients and stew for 20 minutes or until the vegetables are soft. </step>
+    <step num="3">Using a blender, puree the veggies until the soup becomes a sauce. </step>
+    <step num="4">Add in the stock, pasta and meatballs and simmer for 5 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine all ingredients for the meatballs. </steps_updated>
+    <steps_updated num="1">Shape them into small balls and pan sear until the meatballs have a dark brown crust. </steps_updated>
+    <steps_updated num="2">About 2 minutes on each side. </steps_updated>
+    <steps_updated num="3">Take out the meatballs and set aside. </steps_updated>
+    <steps_updated num="4">Use the same pot combine the soup ingredients and stew for 20 minutes or until the vegetables are soft. </steps_updated>
+    <steps_updated num="5">Using a blender, puree the veggies until the soup becomes a sauce. </steps_updated>
+    <steps_updated num="6">Add in the stock, pasta and meatballs and simmer for 5 minutes. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

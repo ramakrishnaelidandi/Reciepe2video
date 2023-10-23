@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Deep-fried Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/deep-fried-deviled-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; hard-boiled eggs, peeled </ingredient>
+    <ingredient num="1">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="2">3 ; eggs </ingredient>
+    <ingredient num="3">1 cup ; panko breadcrumbs ; (50 g) </ingredient>
+    <ingredient num="4">oil, for frying </ingredient>
+    <ingredient num="5">4 tablespoons ; mayonnaise </ingredient>
+    <ingredient num="6">2 tablespoons ; pickle relish </ingredient>
+    <ingredient num="7">2 tablespoons ; mustard </ingredient>
+    <ingredient num="8">1 teaspoon ; hot sauce </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">paprika, or seasoning of choice on top, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32128/low_1495125348.m3u8</low>
+    <high>https://vid.tasty.co/output/32128/mp4_720x1280/1495125348</high>
+  </video>
+  <steps>
+    <step num="0">Heat cooking oil for deep-frying in a medium-size pan over medium heat. </step>
+    <step num="1">Cut the hard-boiled eggs in half lengthwise. Gently separate the cooked egg white from the yolk and remove to a medium bowl. </step>
+    <step num="2">Coat the cooked egg white in flour, eggs, and panko bread crumbs. Carefully place eggs into the hot oil. </step>
+    <step num="3">Fry for 2-3 minutes, flipping halfway through. </step>
+    <step num="4">Remove from pan and drain excess oil on a paper towel. </step>
+    <step num="5">Add mayonnaise, relish, mustard, hot sauce, salt, and pepper to the yolks and mash until smooth. </step>
+    <step num="6">Fill a piping bag or plastic sandwich bag with yolk mixture. Pipe mixture back into the fried egg white and dust with paprika. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat cooking oil for deep-frying in a medium-size pan over medium heat. </steps_updated>
+    <steps_updated num="1">Cut the hard-boiled eggs in half lengthwise. </steps_updated>
+    <steps_updated num="2">Gently separate the cooked egg white from the yolk and remove to a medium bowl. </steps_updated>
+    <steps_updated num="3">Coat the cooked egg white in flour, eggs, and panko bread crumbs. </steps_updated>
+    <steps_updated num="4">Carefully place eggs into the hot oil. </steps_updated>
+    <steps_updated num="5">Fry for 2-3 minutes, flipping halfway through. </steps_updated>
+    <steps_updated num="6">Remove from pan and drain excess oil on a paper towel. </steps_updated>
+    <steps_updated num="7">Add mayonnaise, relish, mustard, hot sauce, salt, and pepper to the yolks and mash until smooth. </steps_updated>
+    <steps_updated num="8">Fill a piping bag or plastic sandwich bag with yolk mixture. </steps_updated>
+    <steps_updated num="9">Pipe mixture back into the fried egg white and dust with paprika. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

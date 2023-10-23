@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Enchilada Stuffed Shells Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/enchilada-stuffed-shells</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 shells ; jumbo pasta shell </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">½ cup ; white onion, chopped ; (75 g) </ingredient>
+    <ingredient num="3">¼ cup ; green chile ; (40 g) </ingredient>
+    <ingredient num="4">1 cup ; chicken, shredded ; (125 g) </ingredient>
+    <ingredient num="5">½ teaspoon ; cumin </ingredient>
+    <ingredient num="6">½ tablespoon ; garlic </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">1 cup ; ricotta cheese ; (250 g) </ingredient>
+    <ingredient num="10">½ cup ; queso fresco ; (60 g) </ingredient>
+    <ingredient num="11">½ cup ; monterey jack cheese, shredded ; (50 g) </ingredient>
+    <ingredient num="12">fresh scallions, for garnish </ingredient>
+    <ingredient num="13">10 oz ; green enchilada sauce ; (285 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32017/low_1495124994.m3u8</low>
+    <high>https://vid.tasty.co/output/32017/mp4_720x1280/1495124994</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 375°F (190°C). </step>
+    <step num="1">Bring water to a boil. Cook the pasta shells until al dente. Drain, rinse with cold water, and set aside to cool. </step>
+    <step num="2">Pour the oil in a pan, then add the onions and cook on medium heat until softened. Add the green chiles, chicken, and spices and stir to combine. Cook on low heat for an additional 3-4 minutes. </step>
+    <step num="3">Place chicken mixture in a bowl. Add ricotta, queso fresco, and monterey jack and stir until all ingredients are well combined. </step>
+    <step num="4">Stuff each shell with a large spoonful of the mixture. </step>
+    <step num="5">Coat the bottom of a baking dish with a thin layer of green enchilada sauce. Place the pasta shells in the dish in a single layer. </step>
+    <step num="6">Cover with the rest of the enchilada sauce and some additional queso fresco and monterey jack. </step>
+    <step num="7">Bake at 375°F (190°C) for 30 minutes (or until the cheese has melted and the sauce begins to bubble around the edges). Top with scallions. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Bring water to a boil. </steps_updated>
+    <steps_updated num="2">Cook the pasta shells until al dente. </steps_updated>
+    <steps_updated num="3">Drain, rinse with cold water, and set aside to cool. </steps_updated>
+    <steps_updated num="4">Pour the oil in a pan, then add the onions and cook on medium heat until softened. </steps_updated>
+    <steps_updated num="5">Add the green chiles, chicken, and spices and stir to combine. </steps_updated>
+    <steps_updated num="6">Cook on low heat for an additional 3-4 minutes. </steps_updated>
+    <steps_updated num="7">Place chicken mixture in a bowl. </steps_updated>
+    <steps_updated num="8">Add ricotta, queso fresco, and monterey jack and stir until all ingredients are well combined. </steps_updated>
+    <steps_updated num="9">Stuff each shell with a large spoonful of the mixture. </steps_updated>
+    <steps_updated num="10">Coat the bottom of a baking dish with a thin layer of green enchilada sauce. </steps_updated>
+    <steps_updated num="11">Place the pasta shells in the dish in a single layer. </steps_updated>
+    <steps_updated num="12">Cover with the rest of the enchilada sauce and some additional queso fresco and monterey jack. </steps_updated>
+    <steps_updated num="13">Bake at 375°F (190°C) for 30 minutes (or until the cheese has melted and the sauce begins to bubble around the edges). </steps_updated>
+    <steps_updated num="14">Top with scallions. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

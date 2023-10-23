@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Chicken Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-chicken-tacos-1</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; shredded chicken ; (65 g) </ingredient>
+    <ingredient num="1">2 ; small flour tortillas </ingredient>
+    <ingredient num="2">2 tablespoons ; white onion, finely diced </ingredient>
+    <ingredient num="3">6 ; cherry tomatoes, sliced in half </ingredient>
+    <ingredient num="4">½ cup ; spanish rice, cooked ; (225 g) </ingredient>
+    <ingredient num="5">¼ cup ; black beans ; (45 g) </ingredient>
+    <ingredient num="6">¼ cup ; shredded lettuce ; (20 g) </ingredient>
+    <ingredient num="7">¼ cup ; mexican blend cheese ; (25 g) </ingredient>
+    <ingredient num="8">¼ cup ; salsa ; (65 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>85.75</start_time>
+    <end_time>115.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place shredded chicken in a reusable container and fold flour tortillas and place on top of the chicken. Add onions, tortillas, cooked Spanish rice, black beans, lettuce, and cheese using cupcake tin liners to separate toppings. Place salsa in a small reusable container. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place shredded chicken in a reusable container and fold flour tortillas and place on top of the chicken. </steps_updated>
+    <steps_updated num="1">Add onions, tortillas, cooked Spanish rice, black beans, lettuce, and cheese using cupcake tin liners to separate toppings. </steps_updated>
+    <steps_updated num="2">Place salsa in a small reusable container. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

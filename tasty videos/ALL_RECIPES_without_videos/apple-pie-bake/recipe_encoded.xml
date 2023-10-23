@@ -1,0 +1,53 @@
+<recipe>
+  <title>Apple Pie Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9140 13278 12425 4016 1391 9410 </ingredient>
+    <ingredient num="1">4061 13278 12708 </ingredient>
+    <ingredient num="2">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="3">3917 14014 13278 12425 </ingredient>
+    <ingredient num="4">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="5">8580 9486 13278 9924 </ingredient>
+    <ingredient num="6">8580 13278 7019 10362 7341 341 </ingredient>
+    <ingredient num="7">3917 2605 13278 1368 6145 3037 13278 6952 5981 </ingredient>
+    <ingredient num="8">1319 2439 1123 2658 3297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31965/low_1495124965.m3u8</low>
+    <high>https://vid.tasty.co/output/31965/mp4_720x1280/1495124965</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9477 11454 </step>
+    <step num="1">14100 11951 12425 4536 8337 669 13086 5422 13771 415 7777 9537 1469 210 13086 14243 9082 11852 13009 4732 4884 12425 11723 2257 10261 11951 9641 </step>
+    <step num="2">10950 5994 13757 14511 4120 14463 9889 4654 13817 9525 13328 1681 12119 2257 5292 </step>
+    <step num="3">10950 5994 5687 11770 3996 14307 4120 10907 7341 13817 1368 6145 8224 1681 4834 13860 560 8852 6285 13767 12689 6054 6781 2082 </step>
+    <step num="4">6252 11951 12425 4536 8337 13009 3584 210 5994 2371 8387 7449 5863 10765 8141 1083 11951 6216 2373 4255 386 6960 5569 11951 10048 1594 11951 8276 9410 4255 143 </step>
+    <step num="5">7831 7990 152 11004 1681 10963 2147 12774 1391 2439 7851 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9477 11454 </steps_updated>
+    <steps_updated num="1">14100 11951 12425 4536 8337 669 13086 5422 13771 415 7777 9537 1469 210 13086 14243 9082 11852 13009 4732 4884 12425 11723 </steps_updated>
+    <steps_updated num="2">2257 10261 11951 9641 </steps_updated>
+    <steps_updated num="3">10950 5994 13757 14511 4120 14463 9889 4654 13817 9525 13328 1681 12119 </steps_updated>
+    <steps_updated num="4">2257 5292 </steps_updated>
+    <steps_updated num="5">10950 5994 5687 11770 3996 14307 4120 10907 7341 13817 1368 6145 8224 1681 4834 13860 560 8852 6285 13767 12689 </steps_updated>
+    <steps_updated num="6">6054 6781 2082 </steps_updated>
+    <steps_updated num="7">6252 11951 12425 4536 8337 13009 3584 210 5994 2371 8387 7449 5863 10765 8141 </steps_updated>
+    <steps_updated num="8">1083 11951 6216 2373 4255 386 6960 5569 11951 10048 </steps_updated>
+    <steps_updated num="9">1594 11951 8276 9410 4255 143 </steps_updated>
+    <steps_updated num="10">7831 7990 152 11004 1681 10963 2147 </steps_updated>
+    <steps_updated num="11">12774 1391 2439 7851 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

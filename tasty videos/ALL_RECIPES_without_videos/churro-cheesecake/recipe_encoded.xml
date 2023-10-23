@@ -1,0 +1,63 @@
+<recipe>
+  <title>Churro Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/churro-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="1">13086 9486 13278 9924 </ingredient>
+    <ingredient num="2">3917 2157 13278 82 </ingredient>
+    <ingredient num="3">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="4">13086 13278 12708 </ingredient>
+    <ingredient num="5">6735 643 13278 13033 13810 8580 12402 564 13278 9473 5981 </ingredient>
+    <ingredient num="6">3917 14138 13278 6702 3063 5802 </ingredient>
+    <ingredient num="7">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="8">3917 8532 13278 14031 11533 6856 210 8478 2605 13125 9443 278 12282 </ingredient>
+    <ingredient num="9">3917 2605 13278 279 13033 13278 13125 5981 </ingredient>
+    <ingredient num="10">6145 560 11567 </ingredient>
+    <ingredient num="11">4654 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112251/hls24_1539711501.m3u8</low>
+    <high>https://vid.tasty.co/output/112251/landscape_720/1539711501</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 11844 4120 13384 9924 13817 12610 14238 560 11714 9179 11951 890 13817 10968 3631 </step>
+    <step num="1">264 7990 5994 8631 8927 3343 13328 13817 5103 6781 2082 </step>
+    <step num="2">9179 11951 12708 797 5569 14411 14334 3145 8830 10763 4440 </step>
+    <step num="3">12785 11951 8337 560 5994 12854 1391 5994 12400 13817 6944 5994 2597 3614 4255 11951 4810 371 5994 4491 10590 </step>
+    <step num="4">13855 11951 4810 1681 3557 9490 10319 </step>
+    <step num="5">3915 5994 2597 10083 371 5766 560 9988 11323 6823 11901 11951 10083 9490 5421 9815 7990 11951 887 8590 4810 560 7833 </step>
+    <step num="6">8916 11951 8590 4810 1681 3557 9490 10963 1368 4255 6697 6701 </step>
+    <step num="7">12785 3557 560 5994 4157 13817 1678 1391 4834 13817 12425 560 8686 5570 11951 8590 4810 210 11951 4491 5687 13817 1069 </step>
+    <step num="8">2715 11951 12680 210 5994 14511 3930 11951 13033 13810 3063 9889 1319 13817 1211 11710 1681 12119 10993 7475 210 11951 279 5808 </step>
+    <step num="9">1083 11951 2373 4255 11951 8590 4810 13817 173 7990 4061 12721 5895 1681 3557 9490 10319 6252 1391 4834 13817 12425 560 8686 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 11844 4120 13384 9924 13817 12610 14238 560 11714 </steps_updated>
+    <steps_updated num="1">9179 11951 890 13817 10968 3631 </steps_updated>
+    <steps_updated num="2">264 7990 5994 8631 8927 3343 13328 13817 5103 6781 2082 </steps_updated>
+    <steps_updated num="3">9179 11951 12708 797 5569 14411 14334 3145 8830 10763 4440 </steps_updated>
+    <steps_updated num="4">12785 11951 8337 560 5994 12854 1391 5994 12400 13817 6944 5994 2597 3614 4255 11951 4810 371 5994 4491 10590 </steps_updated>
+    <steps_updated num="5">13855 11951 4810 1681 3557 9490 10319 </steps_updated>
+    <steps_updated num="6">3915 5994 2597 10083 371 5766 560 9988 11323 </steps_updated>
+    <steps_updated num="7">6823 11901 11951 10083 9490 5421 9815 7990 11951 887 8590 4810 560 7833 </steps_updated>
+    <steps_updated num="8">8916 11951 8590 4810 1681 3557 9490 10963 1368 4255 6697 6701 </steps_updated>
+    <steps_updated num="9">12785 3557 560 5994 4157 13817 1678 1391 4834 13817 12425 560 8686 </steps_updated>
+    <steps_updated num="10">5570 11951 8590 4810 210 11951 4491 5687 13817 1069 </steps_updated>
+    <steps_updated num="11">2715 11951 12680 210 5994 14511 3930 11951 13033 13810 3063 9889 1319 13817 1211 11710 1681 12119 </steps_updated>
+    <steps_updated num="12">10993 7475 210 11951 279 5808 </steps_updated>
+    <steps_updated num="13">1083 11951 2373 4255 11951 8590 4810 13817 173 7990 4061 12721 5895 1681 3557 9490 10319 </steps_updated>
+    <steps_updated num="14">6252 1391 4834 13817 12425 560 8686 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>5-Ingredient Cauliflower Mac ‘N’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/5-ingredient-cauliflower-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">¼ cup ; sour cream, or greek yogurt ; (60 g) </ingredient>
+    <ingredient num="4">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="5">fresh parsley, chopped, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49518/low_1503700011.m3u8</low>
+    <high>https://vid.tasty.co/output/49518/mp4_720x1280/1503700011</high>
+  </video>
+  <steps>
+    <step num="0">Cut cauliflower into small florets, about 4 cups (1.2 kg). </step>
+    <step num="1">Add cauliflower florets into a 6-quart (6 L) Dutch oven of boiling water and boil for 5 minutes. </step>
+    <step num="2">Drain the cauliflower in a colander, and return to the pot. Reduce heat to low. </step>
+    <step num="3">Add in salt, pepper, and sour cream, and stir until thoroughly combined. </step>
+    <step num="4">Stir in cheddar cheese until melted. </step>
+    <step num="5">Remove from heat. Top with parsley (optional). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut cauliflower into small florets, about 4 cups (1.2 kg). </steps_updated>
+    <steps_updated num="1">Add cauliflower florets into a 6-quart (6 L) Dutch oven of boiling water and boil for 5 minutes. </steps_updated>
+    <steps_updated num="2">Drain the cauliflower in a colander, and return to the pot. </steps_updated>
+    <steps_updated num="3">Reduce heat to low. </steps_updated>
+    <steps_updated num="4">Add in salt, pepper, and sour cream, and stir until thoroughly combined. </steps_updated>
+    <steps_updated num="5">Stir in cheddar cheese until melted. </steps_updated>
+    <steps_updated num="6">Remove from heat. </steps_updated>
+    <steps_updated num="7">Top with parsley (optional). </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

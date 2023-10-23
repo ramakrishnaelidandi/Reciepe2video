@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Dark Chocolate Banana Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dark-chocolate-banana-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; ripe bananas </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; 2% plain greek yogurt ; (140 g) </ingredient>
+    <ingredient num="3">⅓ cup ; honey ; (115 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="6">1 cup ; wheat flour ; (115 g) </ingredient>
+    <ingredient num="7">½ cup ; dark cocoa powder ; (50 g) </ingredient>
+    <ingredient num="8">½ cup ; chocolate chips ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Date Night</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17264/low_1481310181.m3u8</low>
+    <high>https://vid.tasty.co/output/17264/mp4_720x1280/1481310181</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">In a medium bowl, mash bananas. </step>
+    <step num="2">Mix eggs, yogurt, honey, vanilla extract, and baking soda into mixture. </step>
+    <step num="3">Add flour, dark cocoa powder and mix. </step>
+    <step num="4">Add chocolate chips and gently fold into mixture. </step>
+    <step num="5">Pour the batter into a greased 9x5-inch (23x12 cm) bread pan. </step>
+    <step num="6">Bake for about 45 mins, or until a toothpick comes out clean from the middle of the bread. (Baking times may vary, so keep an eye on the bread.) </step>
+    <step num="7">Allow to cool for 15 minutes before serving! </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a medium bowl, mash bananas. </steps_updated>
+    <steps_updated num="2">Mix eggs, yogurt, honey, vanilla extract, and baking soda into mixture. </steps_updated>
+    <steps_updated num="3">Add flour, dark cocoa powder and mix. </steps_updated>
+    <steps_updated num="4">Add chocolate chips and gently fold into mixture. </steps_updated>
+    <steps_updated num="5">Pour the batter into a greased 9x5-inch (23x12 cm) bread pan. </steps_updated>
+    <steps_updated num="6">Bake for about 45 mins, or until a toothpick comes out clean from the middle of the bread. </steps_updated>
+    <steps_updated num="7">(Baking times may vary, so keep an eye on the bread.) </steps_updated>
+    <steps_updated num="8">Allow to cool for 15 minutes before serving! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

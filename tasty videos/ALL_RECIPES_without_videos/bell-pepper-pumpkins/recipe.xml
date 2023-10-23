@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bell Pepper Pumpkins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bell-pepper-pumpkins</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-halloween-snacks-for-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; bell peppers, different colors </ingredient>
+    <ingredient num="1">ranch dressing, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Sides</category>
+    <category num="9">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56279/low_1507929835.m3u8</low>
+    <high>https://vid.tasty.co/output/56279/mp4_720x1280/1507929835</high>
+  </video>
+  <duration>
+    <start_time>22.939</start_time>
+    <end_time>48.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut top of 1 bell pepper off and deseed and destem the inside. </step>
+    <step num="1">Using the tip of a small knife, cut out a jack o’ lantern face into the side of the bell pepper. </step>
+    <step num="2">Stand the bell pepper up and fill with slices of the other two bell peppers or other vegetables. </step>
+    <step num="3">Serve with ranch. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut top of 1 bell pepper off and deseed and destem the inside. </steps_updated>
+    <steps_updated num="1">Using the tip of a small knife, cut out a jack o’ lantern face into the side of the bell pepper. </steps_updated>
+    <steps_updated num="2">Stand the bell pepper up and fill with slices of the other two bell peppers or other vegetables. </steps_updated>
+    <steps_updated num="3">Serve with ranch. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00743</start_time>
+    <end_time>01518</end_time>
+  </duration_human>
+</recipe>

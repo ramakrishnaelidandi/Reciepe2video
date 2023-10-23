@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spiced Hot Chocolate Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spiced-hot-chocolate-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="1">½ cup ; white sugar ; (100 g) </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">1 stick ; butter </ingredient>
+    <ingredient num="4">4 oz ; unsweetened chocolate ; (115 g) </ingredient>
+    <ingredient num="5">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="6">½ cup ; cocoa powder ; (60 g) </ingredient>
+    <ingredient num="7">1 ¼ teaspoons ; baking soda </ingredient>
+    <ingredient num="8">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="9">½ teaspoon ; salt </ingredient>
+    <ingredient num="10">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="11">¼ teaspoon ; cayenne pepper, optional </ingredient>
+    <ingredient num="12">½ cup ; chocolate chips ; (85 g) </ingredient>
+    <ingredient num="13">12 ; large marshmallows </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32233/low_1495125515.m3u8</low>
+    <high>https://vid.tasty.co/output/32233/mp4_720x1280/1495125515</high>
+  </video>
+  <steps>
+    <step num="0">Beat brown sugar, white sugar, and eggs. </step>
+    <step num="1">Melt the unsweetened chocolate and butter, allow to cool. Mix into the egg and sugar mixture. </step>
+    <step num="2">Add all of the dry ingredients, and mix thoroughly (you don’t want any cayenne pepper clumps!). </step>
+    <step num="3">Stir in the chocolate chips. </step>
+    <step num="4">Space out 12 cookies on a baking sheet. </step>
+    <step num="5">Bake at 350°F (180°C) for 13 minutes. Remove the cookies from the oven. </step>
+    <step num="6">Top each one with a large marshmallow. </step>
+    <step num="7">Broil for 30 seconds, until the marshmallows have just started to brown. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Beat brown sugar, white sugar, and eggs. </steps_updated>
+    <steps_updated num="1">Melt the unsweetened chocolate and butter, allow to cool. </steps_updated>
+    <steps_updated num="2">Mix into the egg and sugar mixture. </steps_updated>
+    <steps_updated num="3">Add all of the dry ingredients, and mix thoroughly (you don’t want any cayenne pepper clumps! </steps_updated>
+    <steps_updated num="4">). </steps_updated>
+    <steps_updated num="5">Stir in the chocolate chips. </steps_updated>
+    <steps_updated num="6">Space out 12 cookies on a baking sheet. </steps_updated>
+    <steps_updated num="7">Bake at 350°F (180°C) for 13 minutes. </steps_updated>
+    <steps_updated num="8">Remove the cookies from the oven. </steps_updated>
+    <steps_updated num="9">Top each one with a large marshmallow. </steps_updated>
+    <steps_updated num="10">Broil for 30 seconds, until the marshmallows have just started to brown. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

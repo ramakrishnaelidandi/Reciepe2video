@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Shrimp Fajitas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-shrimp-fajitas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; flour tortillas </ingredient>
+    <ingredient num="1">½ ; red bell pepper, sliced </ingredient>
+    <ingredient num="2">½ ; green bell pepper, sliced </ingredient>
+    <ingredient num="3">½ ; orange bell pepper, sliced </ingredient>
+    <ingredient num="4">½ ; red onion, sliced </ingredient>
+    <ingredient num="5">1 lb ; shrimp ; (455 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+    <ingredient num="8">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="9">1 teaspoon ; cumin </ingredient>
+    <ingredient num="10">1 ; lime, juiced </ingredient>
+    <ingredient num="11">salsa </ingredient>
+    <ingredient num="12">guacamole </ingredient>
+    <ingredient num="13">fresh cilantro </ingredient>
+    <ingredient num="14">lime wedge </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26654/low_1489684015.m3u8</low>
+    <high>https://vid.tasty.co/output/26654/mp4_720x1280/1489684015</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Wrap the tortillas in foil and place on the corner of a baking sheet. </step>
+    <step num="2">Add the bell peppers, red onion, and shrimp to the sheet and season with olive oil, salt, pepper, garlic powder, cumin, and lime. </step>
+    <step num="3">Toss to coat. </step>
+    <step num="4">Place in the oven and bake for 10 minutes, flipping the shrimp halfway through. </step>
+    <step num="5">Serve with warm tortillas, salsa, guacamole, cilantro, and lime. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Wrap the tortillas in foil and place on the corner of a baking sheet. </steps_updated>
+    <steps_updated num="2">Add the bell peppers, red onion, and shrimp to the sheet and season with olive oil, salt, pepper, garlic powder, cumin, and lime. </steps_updated>
+    <steps_updated num="3">Toss to coat. </steps_updated>
+    <steps_updated num="4">Place in the oven and bake for 10 minutes, flipping the shrimp halfway through. </steps_updated>
+    <steps_updated num="5">Serve with warm tortillas, salsa, guacamole, cilantro, and lime. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

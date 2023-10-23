@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Herb Stem Pesto Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/herb-stem-pesto</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; large carrots, tops and stems removed </ingredient>
+    <ingredient num="1">1 cup ; mixed herbs, stems ; (40 g) </ingredient>
+    <ingredient num="2">1 cup ; fresh basil ; (40 g) </ingredient>
+    <ingredient num="3">⅓ cup ; olive oil ; (80 g) </ingredient>
+    <ingredient num="4">½ cup ; walnut ; (50 g) </ingredient>
+    <ingredient num="5">½ cup ; vegan parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="6">1 clove ; garlic </ingredient>
+    <ingredient num="7">¼ teaspoon ; salt </ingredient>
+    <ingredient num="8">½ ; lemon, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>65.833</start_time>
+    <end_time>83.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the carrot tops and herb stems to a blender. </step>
+    <step num="1">Add the basil, olive oil, walnuts, Parmesan, garlic, salt, and lemon juice. </step>
+    <step num="2">Blend on full speed until smooth. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the carrot tops and herb stems to a blender. </steps_updated>
+    <steps_updated num="1">Add the basil, olive oil, walnuts, Parmesan, garlic, salt, and lemon juice. </steps_updated>
+    <steps_updated num="2">Blend on full speed until smooth. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

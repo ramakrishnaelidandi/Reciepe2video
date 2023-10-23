@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Save A Peel Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/save-a-peel-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">4 ; strawberries </ingredient>
+    <ingredient num="2">¼ cup ; raspberry ; (125 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; almond milk ; (360 mL) </ingredient>
+    <ingredient num="4">1 ; medium apple, peels </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>54.166</start_time>
+    <end_time>65.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine all ingredients in a blender. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine all ingredients in a blender. </steps_updated>
+    <steps_updated num="1">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

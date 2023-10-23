@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bell Pepper Egg Boats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bell-pepper-egg-boats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; bell peppers, assorted </ingredient>
+    <ingredient num="1">6 ; eggs </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">fresh spinach, chopped, to taste </ingredient>
+    <ingredient num="5">baby bella mushrooms, sliced, to taste </ingredient>
+    <ingredient num="6">parmesan cheese, to taste </ingredient>
+    <ingredient num="7">diced tomato, to taste </ingredient>
+    <ingredient num="8">fresh basil, chopped, to taste </ingredient>
+    <ingredient num="9">salsa, to taste </ingredient>
+    <ingredient num="10">cheddar cheese, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Lunch</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29728/low_1492714826.m3u8</low>
+    <high>https://vid.tasty.co/output/29728/mp4_720x1280/1492714826</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375˚F/190˚C. </step>
+    <step num="1">Cut the peppers in half through the stem. Leave the stem attached, but remove the seeds and membrane. Place onto a parchment-lined baking tray. </step>
+    <step num="2">Bake for 20 minutes. </step>
+    <step num="3">Crack a whole egg into each pepper half. Season with salt and pepper. </step>
+    <step num="4">Add spinach,mushrooms and Parmesan to 2 of the pepper halves. </step>
+    <step num="5">Add salsa and cheddar to 2 of the pepper halves. </step>
+    <step num="6">Add tomato, and basil to the 2 remaining pepper halves. </step>
+    <step num="7">Bake for an additional 15 minutes, until the egg whites have set or until your eggs are cooked to your preference. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375˚F/190˚C. </steps_updated>
+    <steps_updated num="1">Cut the peppers in half through the stem. </steps_updated>
+    <steps_updated num="2">Leave the stem attached, but remove the seeds and membrane. </steps_updated>
+    <steps_updated num="3">Place onto a parchment-lined baking tray. </steps_updated>
+    <steps_updated num="4">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="5">Crack a whole egg into each pepper half. </steps_updated>
+    <steps_updated num="6">Season with salt and pepper. </steps_updated>
+    <steps_updated num="7">Add spinach,mushrooms and Parmesan to 2 of the pepper halves. </steps_updated>
+    <steps_updated num="8">Add salsa and cheddar to 2 of the pepper halves. </steps_updated>
+    <steps_updated num="9">Add tomato, and basil to the 2 remaining pepper halves. </steps_updated>
+    <steps_updated num="10">Bake for an additional 15 minutes, until the egg whites have set or until your eggs are cooked to your preference. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

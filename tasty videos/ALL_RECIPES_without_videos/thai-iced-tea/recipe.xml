@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thai Iced Tea Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-iced-tea</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-asian-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">4 cups ; water ; (1 L) </ingredient>
+    <ingredient num="1">1 cup ; thai tea leaves ; (25 g) </ingredient>
+    <ingredient num="2">2 cups ; sugar ; (400 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; water ; (360 mL) </ingredient>
+    <ingredient num="4">½ cup ; ice ; (35 g) </ingredient>
+    <ingredient num="5">simple syrup, to taste </ingredient>
+    <ingredient num="6">1 cup ; thai tea ; (240 mL) </ingredient>
+    <ingredient num="7">¼ cup ; half &amp; half ; (60 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Brunch</category>
+    <category num="2">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96714/hls24_1527806756.m3u8</low>
+    <high>https://vid.tasty.co/output/96714/landscape_720/1527806756</high>
+  </video>
+  <duration>
+    <start_time>24.0</start_time>
+    <end_time>65.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pot over high heat, combine the water and Thai tea leaves. Bring the tea to a boil, then immediately pour the tea through a strainer into a heat-proof vessel to remove the tea leaves. Let the tea cool to room temperature. </step>
+    <step num="1">Make the simple syrup: in a small pot over high heat, combine the sugar and water. Bring to a boil and cook, stirring occasionally, until the sugar has dissolved and the syrup is clear. </step>
+    <step num="2">Assemble the tea: divide the ice between 2 glasses, then add simple syrup, tea, and half-and-half. </step>
+    <step num="3">Stir before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot over high heat, combine the water and Thai tea leaves. </steps_updated>
+    <steps_updated num="1">Bring the tea to a boil, then immediately pour the tea through a strainer into a heat-proof vessel to remove the tea leaves. </steps_updated>
+    <steps_updated num="2">Let the tea cool to room temperature. </steps_updated>
+    <steps_updated num="3">Make the simple syrup: in a small pot over high heat, combine the sugar and water. </steps_updated>
+    <steps_updated num="4">Bring to a boil and cook, stirring occasionally, until the sugar has dissolved and the syrup is clear. </steps_updated>
+    <steps_updated num="5">Assemble the tea: divide the ice between 2 glasses, then add simple syrup, tea, and half-and-half. </steps_updated>
+    <steps_updated num="6">Stir before serving. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

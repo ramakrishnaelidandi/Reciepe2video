@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Flammkuchen Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/flammkuchen-bread-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/bread-bowls-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 loaf ; sourdough bread, dark </ingredient>
+    <ingredient num="1">1 ½ cups ; sour cream ; (115 g) </ingredient>
+    <ingredient num="2">½ ; red onion, diced </ingredient>
+    <ingredient num="3">3 pieces ; bacon, or pancetta, cubed </ingredient>
+    <ingredient num="4">3 tablespoons ; butter </ingredient>
+    <ingredient num="5">1 cup ; gruyère cheese, grated ; (110 g) </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">German</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69466/hls24_1513807415.m3u8</low>
+    <high>https://vid.tasty.co/output/69466/landscape_720/1513807415</high>
+  </video>
+  <duration>
+    <start_time>168.666</start_time>
+    <end_time>221.92</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 480°F/250˚C. </step>
+    <step num="1">Fry the bacon and the onions in a pan. </step>
+    <step num="2">Mix fried onions, bacon, and sour cream in a bowl and season with pepper. </step>
+    <step num="3">Cut off the top of the bread and remove the inside with a spoon. </step>
+    <step num="4">Fill the bread with the sour cream mixture and cover with gruyère cheese. </step>
+    <step num="5">Spread butter on the leftover bread, cut into thick chunks, and place on a baking tray together with the bread bowl. </step>
+    <step num="6">Bake for 15 minutes or until the bread is crispy and the cheese golden brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 480°F/250˚C. </steps_updated>
+    <steps_updated num="1">Fry the bacon and the onions in a pan. </steps_updated>
+    <steps_updated num="2">Mix fried onions, bacon, and sour cream in a bowl and season with pepper. </steps_updated>
+    <steps_updated num="3">Cut off the top of the bread and remove the inside with a spoon. </steps_updated>
+    <steps_updated num="4">Fill the bread with the sour cream mixture and cover with gruyère cheese. </steps_updated>
+    <steps_updated num="5">Spread butter on the leftover bread, cut into thick chunks, and place on a baking tray together with the bread bowl. </steps_updated>
+    <steps_updated num="6">Bake for 15 minutes or until the bread is crispy and the cheese golden brown. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

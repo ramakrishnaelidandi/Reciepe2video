@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Mango Mimosa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-mango-mimosa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mimosas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6 fl oz ; champagne ; (175 mL) </ingredient>
+    <ingredient num="1">1 oz ; mango juice ; (30 mL) </ingredient>
+    <ingredient num="2">2 ; whole strawberries </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96943/hls24_1527895336.m3u8</low>
+    <high>https://vid.tasty.co/output/96943/landscape_720/1527895336</high>
+  </video>
+  <duration>
+    <start_time>3.833</start_time>
+    <end_time>22.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour the champagne into an 8-ounce (235 ml) champagne flute. </step>
+    <step num="1">Add the mango juice and drop in 1 stemmed strawberry. </step>
+    <step num="2">Garnish with the other strawberry and serve. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the champagne into an 8-ounce (235 ml) champagne flute. </steps_updated>
+    <steps_updated num="1">Add the mango juice and drop in 1 stemmed strawberry. </steps_updated>
+    <steps_updated num="2">Garnish with the other strawberry and serve. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

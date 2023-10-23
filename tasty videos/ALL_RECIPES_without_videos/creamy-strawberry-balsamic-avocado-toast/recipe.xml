@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Strawberry Balsamic Avocado Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-strawberry-balsamic-avocado-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-toast-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">bread, toasted </ingredient>
+    <ingredient num="1">2 tablespoons ; goat cheese </ingredient>
+    <ingredient num="2">½ ; avocado, sliced </ingredient>
+    <ingredient num="3">4 ; strawberries, sliced </ingredient>
+    <ingredient num="4">balsamic vinegar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31699/low_1494972610.m3u8</low>
+    <high>https://vid.tasty.co/output/31699/mp4_720x1280/1494972610</high>
+  </video>
+  <duration>
+    <start_time>41.95</start_time>
+    <end_time>57.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread the goat cheese on toast. </step>
+    <step num="1">Add sliced avocados, strawberries, and drizzle with balsamic vinegar. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread the goat cheese on toast. </steps_updated>
+    <steps_updated num="1">Add sliced avocados, strawberries, and drizzle with balsamic vinegar. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01311</start_time>
+    <end_time>01747</end_time>
+  </duration_human>
+</recipe>

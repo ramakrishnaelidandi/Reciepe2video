@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caprese Spaghetti Squash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caprese-spaghetti-squash</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-squash-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; spaghetti squash </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; oil </ingredient>
+    <ingredient num="5">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">½ ; yellow onion, diced </ingredient>
+    <ingredient num="7">1 cup ; cherry tomato, halved ; (200 g) </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">8 oz ; mini mozzarella ball ; (225 g) </ingredient>
+    <ingredient num="11">fresh basil, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55204/low_1507246656.m3u8</low>
+    <high>https://vid.tasty.co/output/55204/mp4_720x1280/1507246656</high>
+  </video>
+  <duration>
+    <start_time>0.43999999999999995</start_time>
+    <end_time>51.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400ºF (200ºC). </step>
+    <step num="1">With a sharp knife, slice the squash in half. If the squash is too tough, puncture in several places forming a dotted line around the squash. Microwave for 3-5 minutes to soften. Allow to cool before cutting in half. </step>
+    <step num="2">Scoop out the seeds, brush with oil, and sprinkle with salt, and pepper. Bake for 40-45 minutes, or until a fork can easily pierce the skin. </step>
+    <step num="3">In a pan over medium heat, add the oil, garlic, and onions, and sautè until onions are translucent. </step>
+    <step num="4">Add the cherry tomatoes, salt, and pepper and simmer until they are cooked and begin to become softened. </step>
+    <step num="5">Remove squash from the oven, with a fork pull at the edges to produce that stringy “spaghetti” quality. Add the squash to the tomato mixture and mix in the pan. </step>
+    <step num="6">Add mixture back to the hollowed out spaghetti squash halves. Top with mini mozzarella balls ans basil. </step>
+    <step num="7">Bake an additional 5-10 minutes, or until cheese melts. </step>
+    <step num="8">Serve in the squash, and top with basil. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">With a sharp knife, slice the squash in half. </steps_updated>
+    <steps_updated num="2">If the squash is too tough, puncture in several places forming a dotted line around the squash. </steps_updated>
+    <steps_updated num="3">Microwave for 3-5 minutes to soften. </steps_updated>
+    <steps_updated num="4">Allow to cool before cutting in half. </steps_updated>
+    <steps_updated num="5">Scoop out the seeds, brush with oil, and sprinkle with salt, and pepper. </steps_updated>
+    <steps_updated num="6">Bake for 40-45 minutes, or until a fork can easily pierce the skin. </steps_updated>
+    <steps_updated num="7">In a pan over medium heat, add the oil, garlic, and onions, and sautè until onions are translucent. </steps_updated>
+    <steps_updated num="8">Add the cherry tomatoes, salt, and pepper and simmer until they are cooked and begin to become softened. </steps_updated>
+    <steps_updated num="9">Remove squash from the oven, with a fork pull at the edges to produce that stringy “spaghetti” quality. </steps_updated>
+    <steps_updated num="10">Add the squash to the tomato mixture and mix in the pan. </steps_updated>
+    <steps_updated num="11">Add mixture back to the hollowed out spaghetti squash halves. </steps_updated>
+    <steps_updated num="12">Top with mini mozzarella balls ans basil. </steps_updated>
+    <steps_updated num="13">Bake an additional 5-10 minutes, or until cheese melts. </steps_updated>
+    <steps_updated num="14">Serve in the squash, and top with basil. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00050</start_time>
+    <end_time>01542</end_time>
+  </duration_human>
+</recipe>

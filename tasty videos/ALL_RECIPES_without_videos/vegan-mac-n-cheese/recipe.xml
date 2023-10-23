@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; yellow potatoes </ingredient>
+    <ingredient num="1">1 ; medium carrot </ingredient>
+    <ingredient num="2">1 ; medium onion </ingredient>
+    <ingredient num="3">½ cup ; cashews ; (65 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="6">1 teaspoon ; salt, plus more for water </ingredient>
+    <ingredient num="7">2 tablespoons ; nutritional yeast, optional </ingredient>
+    <ingredient num="8">1 lb ; elbow macaroni, cooked, for serving ; (450 g) </ingredient>
+    <ingredient num="9">paprika, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Sides</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31285/low_1494438831.m3u8</low>
+    <high>https://vid.tasty.co/output/31285/mp4_720x1280/1494438831</high>
+  </video>
+  <steps>
+    <step num="0">Add vegetables to a large pot or Dutch oven of boiling water. Cover and allow the vegetables to cook for 10 minutes, until the potatoes are fork-tender. </step>
+    <step num="1">Remove boiled vegetables from water and save 1½ - 2 cups (360 ML) of the water. </step>
+    <step num="2">Add vegetables, cashews, and seasonings to a blender with half of the reserved water. Blend, adding a few tablespoons of water at a time until the desired consistency is achieved. </step>
+    <step num="3">Pour vegetable puree over the macaroni and stir to incorporate before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add vegetables to a large pot or Dutch oven of boiling water. </steps_updated>
+    <steps_updated num="1">Cover and allow the vegetables to cook for 10 minutes, until the potatoes are fork-tender. </steps_updated>
+    <steps_updated num="2">Remove boiled vegetables from water and save 1½ - 2 cups (360 ML) of the water. </steps_updated>
+    <steps_updated num="3">Add vegetables, cashews, and seasonings to a blender with half of the reserved water. </steps_updated>
+    <steps_updated num="4">Blend, adding a few tablespoons of water at a time until the desired consistency is achieved. </steps_updated>
+    <steps_updated num="5">Pour vegetable puree over the macaroni and stir to incorporate before serving. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

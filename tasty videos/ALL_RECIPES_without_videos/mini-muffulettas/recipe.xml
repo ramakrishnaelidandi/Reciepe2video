@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Muffulettas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-muffulettas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; kalamata olive, drained, pitted ; (180 g) </ingredient>
+    <ingredient num="1">½ cup ; roasted red pepper, roughly chopped ; (50 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; caper, drained </ingredient>
+    <ingredient num="3">¼ teaspoon ; black pepper </ingredient>
+    <ingredient num="4">½ teaspoon ; italian seasoning </ingredient>
+    <ingredient num="5">¼ teaspoon ; celery seed </ingredient>
+    <ingredient num="6">¼ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="7">1 jar ; italian giardiniera, drained </ingredient>
+    <ingredient num="8">⅓ cup ; extra virgin olive oil ; (80 mL) </ingredient>
+    <ingredient num="9">2 ; mini French boules </ingredient>
+    <ingredient num="10">8 slices ; salami </ingredient>
+    <ingredient num="11">8 slices ; mortadella </ingredient>
+    <ingredient num="12">8 slices ; sopressata </ingredient>
+    <ingredient num="13">4 slices ; provolone cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Lunch</category>
+    <category num="2">Sides</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/133140/hls24_1558119732.m3u8</low>
+    <high>https://vid.tasty.co/output/133140/landscape_720/1558119732</high>
+  </video>
+  <steps>
+    <step num="0">Make the olive salad: Add the olives, red peppers, capers, pepper, Italian seasoning, celery seeds, red pepper flakes, and giardiniera to a food processor and pulse until coarsely chopped. Transfer to a medium bowl and whisk in the olive oil. Cover and set aside. </step>
+    <step num="1">Make the muffalettas: Cut off the top ⅓ of each boule and set aside. Carefully remove the inside of the loaf, leaving about a ½-inch-thick (1 ¼ cm) layer of bread behind. Reserve the bread scraps for another use. </step>
+    <step num="2">Add a large spoonful of olive salad to the bottom of the bread bowls and spread evenly. Layer 4 slices of salami, 4 slices of mortadella, 4 slices of sopressata, and 2 slices of provolone in each loaf. Top with another layer of olive salad and spread evenly. Cover with the bread tops. Cover tightly with plastic wrap and refrigerate for at least 4 hours, up to overnight. </step>
+    <step num="3">When ready to serve, slice the muffalettas into quarters. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the olive salad: Add the olives, red peppers, capers, pepper, Italian seasoning, celery seeds, red pepper flakes, and giardiniera to a food processor and pulse until coarsely chopped. </steps_updated>
+    <steps_updated num="1">Transfer to a medium bowl and whisk in the olive oil. </steps_updated>
+    <steps_updated num="2">Cover and set aside. </steps_updated>
+    <steps_updated num="3">Make the muffalettas: Cut off the top ⅓ of each boule and set aside. </steps_updated>
+    <steps_updated num="4">Carefully remove the inside of the loaf, leaving about a ½-inch-thick (1 ¼ cm) layer of bread behind. </steps_updated>
+    <steps_updated num="5">Reserve the bread scraps for another use. </steps_updated>
+    <steps_updated num="6">Add a large spoonful of olive salad to the bottom of the bread bowls and spread evenly. </steps_updated>
+    <steps_updated num="7">Layer 4 slices of salami, 4 slices of mortadella, 4 slices of sopressata, and 2 slices of provolone in each loaf. </steps_updated>
+    <steps_updated num="8">Top with another layer of olive salad and spread evenly. </steps_updated>
+    <steps_updated num="9">Cover with the bread tops. </steps_updated>
+    <steps_updated num="10">Cover tightly with plastic wrap and refrigerate for at least 4 hours, up to overnight. </steps_updated>
+    <steps_updated num="11">When ready to serve, slice the muffalettas into quarters. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

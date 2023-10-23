@@ -1,0 +1,44 @@
+<recipe>
+  <title>Birthday Mug Cake</title>
+  <url>https://tasty.co/recipe/birthday-cake-mug-cake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-minute-mug-cakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 9486 13278 890 </ingredient>
+    <ingredient num="1">13086 9486 13278 4834 </ingredient>
+    <ingredient num="2">3917 14014 13278 11815 7789 3954 7990 3297 </ingredient>
+    <ingredient num="3">1580 8071 13278 10765 11703 </ingredient>
+    <ingredient num="4">13086 9486 13278 5802 </ingredient>
+    <ingredient num="5">3917 14014 13278 4168 5766 </ingredient>
+    <ingredient num="6">8580 2031 13278 1319 10937 </ingredient>
+    <ingredient num="7">279 10873 7990 10873 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28419/low_1491348690.m3u8</low>
+    <high>https://vid.tasty.co/output/28419/mp4_720x1280/1491348690</high>
+  </video>
+  <duration>
+    <start_time>71.5</start_time>
+    <end_time>95.716</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 9725 7006 9443 5895 13747 12703 1584 10968 8554 11907 1681 644 4309 </step>
+    <step num="1">6688 4255 8283 7990 5838 131 560 8580 11004 13245 560 772 11901 3557 8189 9469 11770 14324 4255 11951 5285 371 11951 5974 </step>
+    <step num="2">1828 10694 797 12110 432 1735 13494 1391 279 3297 13817 1397 6497 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 9725 7006 9443 5895 13747 12703 1584 10968 8554 11907 1681 644 4309 </steps_updated>
+    <steps_updated num="1">6688 4255 8283 7990 5838 131 560 8580 11004 13245 560 772 11901 3557 8189 9469 11770 14324 4255 11951 5285 371 11951 5974 </steps_updated>
+    <steps_updated num="2">1828 10694 797 12110 432 1735 </steps_updated>
+    <steps_updated num="3">13494 1391 279 3297 13817 1397 6497 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

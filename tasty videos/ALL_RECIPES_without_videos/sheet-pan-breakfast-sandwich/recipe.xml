@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet Pan Breakfast Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-pan-breakfast-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 cups ; pancake mix ; (750 g) </ingredient>
+    <ingredient num="1">6 ; eggs </ingredient>
+    <ingredient num="2">3 cups ; milk ; (710 mL) </ingredient>
+    <ingredient num="3">3 lb ; breakfast sausage ; (1360 g) </ingredient>
+    <ingredient num="4">12 ; eggs </ingredient>
+    <ingredient num="5">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">1 cup ; shredded mexican cheese blend ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68196/hls24_1513296516.m3u8</low>
+    <high>https://vid.tasty.co/output/68196/landscape_720/1513296516</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425˚F (220˚C). </step>
+    <step num="1">In a large bowl, combine pancake mix, eggs and milk being careful not to over-mix. </step>
+    <step num="2">Divide batter evenly onto two parchment paper-lined 17x11 inch baking sheets. Spread evenly and bake for 15 minutes. </step>
+    <step num="3">In a large bowl, combine eggs, milk, salt and pepper. Pour the eggs onto a parchment paper-lined 17x11 inch baking sheet. Spread evenly and bake for 15-17 minutes. </step>
+    <step num="4">Line another 18x13 inch baking sheet with parchment paper and spread out the sausage from corner to corner. Decrease oven temperature to 350˚F (180˚C) and bake for 20 minutes. </step>
+    <step num="5">Drain fat, and sprinkle cheese on top of the sausage. Bake for another 5 minutes at the same temperature. </step>
+    <step num="6">On a cutting board, layer the sandwich starting with a pancake, followed by sausage, egg, and the second pancake. Slice into breakfast size sandwiches and serve immediately, or wrap in parchment and freeze in a container for up to 1 month. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, combine pancake mix, eggs and milk being careful not to over-mix. </steps_updated>
+    <steps_updated num="2">Divide batter evenly onto two parchment paper-lined 17x11 inch baking sheets. </steps_updated>
+    <steps_updated num="3">Spread evenly and bake for 15 minutes. </steps_updated>
+    <steps_updated num="4">In a large bowl, combine eggs, milk, salt and pepper. </steps_updated>
+    <steps_updated num="5">Pour the eggs onto a parchment paper-lined 17x11 inch baking sheet. </steps_updated>
+    <steps_updated num="6">Spread evenly and bake for 15-17 minutes. </steps_updated>
+    <steps_updated num="7">Line another 18x13 inch baking sheet with parchment paper and spread out the sausage from corner to corner. </steps_updated>
+    <steps_updated num="8">Decrease oven temperature to 350˚F (180˚C) and bake for 20 minutes. </steps_updated>
+    <steps_updated num="9">Drain fat, and sprinkle cheese on top of the sausage. </steps_updated>
+    <steps_updated num="10">Bake for another 5 minutes at the same temperature. </steps_updated>
+    <steps_updated num="11">On a cutting board, layer the sandwich starting with a pancake, followed by sausage, egg, and the second pancake. </steps_updated>
+    <steps_updated num="12">Slice into breakfast size sandwiches and serve immediately, or wrap in parchment and freeze in a container for up to 1 month. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

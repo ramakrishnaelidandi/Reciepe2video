@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Carne Asada Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carne-asada-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; canola oil ; (80 mL) </ingredient>
+    <ingredient num="1">⅓ cup ; distilled white vinegar ; (80 mL) </ingredient>
+    <ingredient num="2">⅓ cup ; fresh lime juice ; (80 mL) </ingredient>
+    <ingredient num="3">⅓ cup ; fresh orange juice ; (80 mL) </ingredient>
+    <ingredient num="4">4 teaspoons ; garlic, minced </ingredient>
+    <ingredient num="5">3 tablespoons ; jalapeño, minced </ingredient>
+    <ingredient num="6">¼ cup ; fresh cilantro, finely chopped, plus whole leaves for serving ; (10 g) </ingredient>
+    <ingredient num="7">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="8">1 teaspoon ; ground coriander </ingredient>
+    <ingredient num="9">½ teaspoon ; ground cumin </ingredient>
+    <ingredient num="10">1 teaspoon ; freshly ground black pepper </ingredient>
+    <ingredient num="11">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="12">1 lb ; flank steak ; (455 g) </ingredient>
+    <ingredient num="13">8 ; white corn tortillas, 5 inch (12.5 cm) </ingredient>
+    <ingredient num="14">pico de gallo, for serving </ingredient>
+    <ingredient num="15">guacamole, for serving </ingredient>
+    <ingredient num="16">sour cream, for serving </ingredient>
+    <ingredient num="17">cotija cheese, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/132232/hls24_1557438470.m3u8</low>
+    <high>https://vid.tasty.co/output/132232/landscape_720/1557438470</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, whisk together the oil, vinegar, lime juice, orange juice, garlic, jalapeño, chopped cilantro, salt, coriander, cumin, pepper, and chili powder. </step>
+    <step num="1">Place the steak in a gallon-size resealable bag. Pour in 1 cup (240 ml) of the marinade and set the rest aside. Seal the bag and shake to evenly coat the steak in the marinade. Refrigerate for at least 1 hour, or up to 4 hours. </step>
+    <step num="2">In a small saucepan, bring the reserved ½ cup (120 ml) of marinade to a boil over medium-high heat. Cook until thickened and reduced by half, about 5 minutes. Remove from the heat and set aside. </step>
+    <step num="3">Heat a large grill pan over high heat until very hot. Remove the steak from the bag and discard the marinade. Cook the steak on 1 side until there are dark grill marks and it is beginning to caramelize around the edges, about 6 minutes. Flip and cook on the other side for 5 minutes for medium rare, or 7 minutes for medium. Transfer to a cutting board and let rest for 5 minutes. </step>
+    <step num="4">Working in batches, heat the corn tortillas in a pan over medium-high heat, turning with tongs, until softened and just beginning to brown in spots, about 1 minute per side. Wrap the toasted tortillas in foil to keep warm. </step>
+    <step num="5">Thinly slice the steak against the grain, then cut the slices in half. Transfer to a large bowl and toss with the reduced marinade to coat. </step>
+    <step num="6">Serve the steak with the warm tortillas, pico de gallo, guacamole, sour cream, cotija cheese, and cilantro leaves, if desired. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, whisk together the oil, vinegar, lime juice, orange juice, garlic, jalapeño, chopped cilantro, salt, coriander, cumin, pepper, and chili powder. </steps_updated>
+    <steps_updated num="1">Place the steak in a gallon-size resealable bag. </steps_updated>
+    <steps_updated num="2">Pour in 1 cup (240 ml) of the marinade and set the rest aside. </steps_updated>
+    <steps_updated num="3">Seal the bag and shake to evenly coat the steak in the marinade. </steps_updated>
+    <steps_updated num="4">Refrigerate for at least 1 hour, or up to 4 hours. </steps_updated>
+    <steps_updated num="5">In a small saucepan, bring the reserved ½ cup (120 ml) of marinade to a boil over medium-high heat. </steps_updated>
+    <steps_updated num="6">Cook until thickened and reduced by half, about 5 minutes. </steps_updated>
+    <steps_updated num="7">Remove from the heat and set aside. </steps_updated>
+    <steps_updated num="8">Heat a large grill pan over high heat until very hot. </steps_updated>
+    <steps_updated num="9">Remove the steak from the bag and discard the marinade. </steps_updated>
+    <steps_updated num="10">Cook the steak on 1 side until there are dark grill marks and it is beginning to caramelize around the edges, about 6 minutes. </steps_updated>
+    <steps_updated num="11">Flip and cook on the other side for 5 minutes for medium rare, or 7 minutes for medium. </steps_updated>
+    <steps_updated num="12">Transfer to a cutting board and let rest for 5 minutes. </steps_updated>
+    <steps_updated num="13">Working in batches, heat the corn tortillas in a pan over medium-high heat, turning with tongs, until softened and just beginning to brown in spots, about 1 minute per side. </steps_updated>
+    <steps_updated num="14">Wrap the toasted tortillas in foil to keep warm. </steps_updated>
+    <steps_updated num="15">Thinly slice the steak against the grain, then cut the slices in half. </steps_updated>
+    <steps_updated num="16">Transfer to a large bowl and toss with the reduced marinade to coat. </steps_updated>
+    <steps_updated num="17">Serve the steak with the warm tortillas, pico de gallo, guacamole, sour cream, cotija cheese, and cilantro leaves, if desired. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

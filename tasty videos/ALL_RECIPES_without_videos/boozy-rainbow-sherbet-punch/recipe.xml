@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Boozy Rainbow Sherbet Punch Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boozy-rainbow-sherbet-punch</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 qt ; rainbow sherbet ; (945 mL) </ingredient>
+    <ingredient num="1">1 cup ; strawberry, halved ; (150 g) </ingredient>
+    <ingredient num="2">½ cup ; blueberry ; (50 g) </ingredient>
+    <ingredient num="3">1 ; lemon, sliced </ingredient>
+    <ingredient num="4">½ cup ; raspberry ; (60 g) </ingredient>
+    <ingredient num="5">¼ ; grapefruit, sliced </ingredient>
+    <ingredient num="6">3 cups ; lemon-lime soda ; (720 mL) </ingredient>
+    <ingredient num="7">3 cups ; champagne, or lemon- or lime-flavored sparkling water ; (720 mL) </ingredient>
+    <ingredient num="8">6 cups ; pink lemonade ; (1.4 L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105935/hls24_1534792563.m3u8</low>
+    <high>https://vid.tasty.co/output/105935/landscape_720/1534792563</high>
+  </video>
+  <steps>
+    <step num="0">Arrange 8 scoops of sherbet on a parchment paper-lined baking sheet. Freeze for 30 minutes. </step>
+    <step num="1">In a large punch bowl, combine the strawberries, blueberries, lemon, raspberries, and grapefruit. </step>
+    <step num="2">Add the lemon lime soda, champagne, and pink lemonade. Stir to combine. </step>
+    <step num="3">Remove the sherbet scoops from the freezer and use a spoon to place in the punch bowl. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Arrange 8 scoops of sherbet on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="1">Freeze for 30 minutes. </steps_updated>
+    <steps_updated num="2">In a large punch bowl, combine the strawberries, blueberries, lemon, raspberries, and grapefruit. </steps_updated>
+    <steps_updated num="3">Add the lemon lime soda, champagne, and pink lemonade. </steps_updated>
+    <steps_updated num="4">Stir to combine. </steps_updated>
+    <steps_updated num="5">Remove the sherbet scoops from the freezer and use a spoon to place in the punch bowl. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

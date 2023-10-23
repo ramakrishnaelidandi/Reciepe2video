@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Classic Old Fashioned Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-classic-old-fashioned</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; sugar cube </ingredient>
+    <ingredient num="1">3 dashes ; bitter </ingredient>
+    <ingredient num="2">¼ cup ; bourbon whiskey ; (60 mL) </ingredient>
+    <ingredient num="3">orange peel </ingredient>
+    <ingredient num="4">maraschino cherry </ingredient>
+    <ingredient num="5">ice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50503/low_1504205940.m3u8</low>
+    <high>https://vid.tasty.co/output/50503/mp4_720x1280/1504205940</high>
+  </video>
+  <steps>
+    <step num="0">Place sugar in the bottom of a rocks glass. Add bitters and muddle together until combined. </step>
+    <step num="1">Add preferred amount of ice and pour over whiskey. Stir until sugar is mostly dissolved. </step>
+    <step num="2">Hold a piece of orange peel between your thumb and forefinger and squeeze over the glass to release the oil. If you like, you can carefully use a match or lighter to flame the orange oils for a caramelized flavor. </step>
+    <step num="3">Garnish with the orange peel and a single cherry. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place sugar in the bottom of a rocks glass. </steps_updated>
+    <steps_updated num="1">Add bitters and muddle together until combined. </steps_updated>
+    <steps_updated num="2">Add preferred amount of ice and pour over whiskey. </steps_updated>
+    <steps_updated num="3">Stir until sugar is mostly dissolved. </steps_updated>
+    <steps_updated num="4">Hold a piece of orange peel between your thumb and forefinger and squeeze over the glass to release the oil. </steps_updated>
+    <steps_updated num="5">If you like, you can carefully use a match or lighter to flame the orange oils for a caramelized flavor. </steps_updated>
+    <steps_updated num="6">Garnish with the orange peel and a single cherry. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

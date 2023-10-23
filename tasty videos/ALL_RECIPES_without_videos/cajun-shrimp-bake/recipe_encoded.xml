@@ -1,0 +1,67 @@
+<recipe>
+  <title>Cajun Shrimp Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cajun-shrimp-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 6060 12942 3962 </ingredient>
+    <ingredient num="1">3917 715 13278 3876 4125 13817 12692 13278 4563 5981 </ingredient>
+    <ingredient num="2">4061 13278 8083 2274 14432 </ingredient>
+    <ingredient num="3">8580 13009 13278 12655 14432 </ingredient>
+    <ingredient num="4">8580 9486 13278 7632 3247 </ingredient>
+    <ingredient num="5">3917 14014 13278 10907 472 </ingredient>
+    <ingredient num="6">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="7">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="8">8580 1580 2031 13278 9496 </ingredient>
+    <ingredient num="9">3917 12791 2031 13278 796 5616 </ingredient>
+    <ingredient num="10">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="11">3917 12791 2031 13278 796 9211 </ingredient>
+    <ingredient num="12">1580 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="13">3917 8071 13278 499 7845 </ingredient>
+    <ingredient num="14">8580 2031 13278 82 </ingredient>
+    <ingredient num="15">3917 8071 13278 7845 </ingredient>
+    <ingredient num="16">6209 11911 3962 </ingredient>
+    <ingredient num="17">597 8499 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31607/low_1494888394.m3u8</low>
+    <high>https://vid.tasty.co/output/31607/mp4_720x1280/1494888394</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9477 11454 </step>
+    <step num="1">10950 5994 2192 14511 4120 11951 14251 7717 10968 11907 13817 6142 560 1011 </step>
+    <step num="2">10950 5994 10765 5435 4120 2274 12655 8580 11384 6459 3917 14014 371 7632 13817 1580 14014 371 11951 10219 7717 596 </step>
+    <step num="3">9393 1681 11951 284 12573 7670 3584 1391 11951 7717 596 5570 9924 4255 143 </step>
+    <step num="4">7831 7990 2800 12689 </step>
+    <step num="5">10950 5994 13757 14511 4120 11951 4437 3876 4155 7632 13817 1580 14014 371 11951 7717 596 11288 11951 374 7717 10968 7990 6411 931 </step>
+    <step num="6">9393 3631 </step>
+    <step num="7">9179 11951 13280 13817 11084 669 11951 5540 10765 3830 2658 11951 3183 13817 13950 </step>
+    <step num="8">7831 7990 6646 13133 12689 </step>
+    <step num="9">13494 1391 6209 13012 12774 1391 597 9868 13817 10488 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9477 11454 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 14511 4120 11951 14251 7717 10968 11907 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="2">10950 5994 10765 5435 4120 2274 12655 8580 11384 6459 3917 14014 371 7632 13817 1580 14014 371 11951 10219 7717 596 </steps_updated>
+    <steps_updated num="3">9393 1681 11951 284 12573 7670 3584 1391 11951 7717 596 </steps_updated>
+    <steps_updated num="4">5570 9924 4255 143 </steps_updated>
+    <steps_updated num="5">7831 7990 2800 12689 </steps_updated>
+    <steps_updated num="6">10950 5994 13757 14511 4120 11951 4437 3876 4155 7632 13817 1580 14014 371 11951 7717 596 </steps_updated>
+    <steps_updated num="7">11288 11951 374 7717 10968 7990 6411 931 </steps_updated>
+    <steps_updated num="8">9393 3631 </steps_updated>
+    <steps_updated num="9">9179 11951 13280 13817 11084 669 11951 5540 10765 3830 2658 11951 3183 13817 13950 </steps_updated>
+    <steps_updated num="10">7831 7990 6646 13133 12689 </steps_updated>
+    <steps_updated num="11">13494 1391 6209 13012 </steps_updated>
+    <steps_updated num="12">12774 1391 597 9868 13817 10488 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

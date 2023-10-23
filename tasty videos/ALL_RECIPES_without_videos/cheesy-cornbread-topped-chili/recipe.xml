@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Cornbread-Topped Chili Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-cornbread-topped-chili</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; onion, diced ; (300 g) </ingredient>
+    <ingredient num="1">2 cups ; celery, diced ; (450 g) </ingredient>
+    <ingredient num="2">2 cups ; red pepper, diced ; (200 g) </ingredient>
+    <ingredient num="3">2 cups ; carrot, diced ; (245 g) </ingredient>
+    <ingredient num="4">15 oz ; fire-roasted tomato ; (120 g) </ingredient>
+    <ingredient num="5">15 oz ; red kidney bean ; (420 g) </ingredient>
+    <ingredient num="6">15 oz ; chickpeas ; (420 g) </ingredient>
+    <ingredient num="7">15 oz ; black beans ; (425 g) </ingredient>
+    <ingredient num="8">15 oz ; corn ; (425 g) </ingredient>
+    <ingredient num="9">1 package ; taco seasoning </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+    <ingredient num="12">1 box ; cornbread mix, prepared </ingredient>
+    <ingredient num="13">2 cups ; mexican blend cheese ; (200 g) </ingredient>
+    <ingredient num="14">fresh cilantro </ingredient>
+    <ingredient num="15">sour cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21864/low_1485297221.m3u8</low>
+    <high>https://vid.tasty.co/output/21864/mp4_720x1280/1485297221</high>
+  </video>
+  <steps>
+    <step num="0">Saute onions, celery, red peppers, and carrots in a pan. Salt and pepper to taste. </step>
+    <step num="1">Mix in package of taco seasoning. </step>
+    <step num="2">Add fire-roasted tomatoes, kidney beans, chickpeas, black beans, and corn. </step>
+    <step num="3">Simmer for 15 minutes. </step>
+    <step num="4">Preheat oven to 375˚F (190˚C). </step>
+    <step num="5">Prepare boxed cornbread mix according to box instructions, then fold in the cheese. </step>
+    <step num="6">Spread cheesy cornbread batter over chili. </step>
+    <step num="7">Bake at 375˚F (190˚C) for 20 minutes. </step>
+    <step num="8">Let cool for a few minutes, then garnish with sour cream and cilantro </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Saute onions, celery, red peppers, and carrots in a pan. </steps_updated>
+    <steps_updated num="1">Salt and pepper to taste. </steps_updated>
+    <steps_updated num="2">Mix in package of taco seasoning. </steps_updated>
+    <steps_updated num="3">Add fire-roasted tomatoes, kidney beans, chickpeas, black beans, and corn. </steps_updated>
+    <steps_updated num="4">Simmer for 15 minutes. </steps_updated>
+    <steps_updated num="5">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="6">Prepare boxed cornbread mix according to box instructions, then fold in the cheese. </steps_updated>
+    <steps_updated num="7">Spread cheesy cornbread batter over chili. </steps_updated>
+    <steps_updated num="8">Bake at 375˚F (190˚C) for 20 minutes. </steps_updated>
+    <steps_updated num="9">Let cool for a few minutes, then garnish with sour cream and cilantro </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

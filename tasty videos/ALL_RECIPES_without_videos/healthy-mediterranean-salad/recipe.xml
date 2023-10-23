@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Mediterranean Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-mediterranean-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="3">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh dill </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">⅓ cup ; greek yogurt ; (95 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="9">1 tablespoon ; red wine vinegar </ingredient>
+    <ingredient num="10">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="11">2 tablespoons ; water </ingredient>
+    <ingredient num="12">1 clove ; garlic, minced </ingredient>
+    <ingredient num="13">1 tablespoon ; fresh dill </ingredient>
+    <ingredient num="14">salt, to taste </ingredient>
+    <ingredient num="15">pepper, to taste </ingredient>
+    <ingredient num="16">1 head ; romaine lettuce </ingredient>
+    <ingredient num="17">½ cup ; cucumber, sliced and halved ; (65 g) </ingredient>
+    <ingredient num="18">½ cup ; olive, halved ; (90 g) </ingredient>
+    <ingredient num="19">½ cup ; red onion, thinly sliced ; (75 g) </ingredient>
+    <ingredient num="20">½ cup ; cherry tomato, halved ; (100 g) </ingredient>
+    <ingredient num="21">½ cup ; feta cheese, crumbled ; (75 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Greek</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Lunch</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10795/low_1474926018.m3u8</low>
+    <high>https://vid.tasty.co/output/10795/mp4_720x1280/1474926018</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F/200°C. </step>
+    <step num="1">Place chicken breast on a baking sheet lined with aluminum foil or parchment paper. Top with olive oil, lemon juice, garlic, dill, and salt and pepper to season. </step>
+    <step num="2">Bake for 35-40 minutes until internal temperature reaches 165°F/75°C and the juices run clear. </step>
+    <step num="3">Add all dressing ingredients in a small bowl or cup and whisk until with a fork until combined. </step>
+    <step num="4">Slice thinly or cube chicken, cutting to your preference for topping the salad. </step>
+    <step num="5">Assemble your salad, starting with a base of romaine lettuce. Then top with chicken, cucumber, olives, red onion, tomatoes, feta, and the dressing. Toss to evenly incorporate ingredients </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F/200°C. </steps_updated>
+    <steps_updated num="1">Place chicken breast on a baking sheet lined with aluminum foil or parchment paper. </steps_updated>
+    <steps_updated num="2">Top with olive oil, lemon juice, garlic, dill, and salt and pepper to season. </steps_updated>
+    <steps_updated num="3">Bake for 35-40 minutes until internal temperature reaches 165°F/75°C and the juices run clear. </steps_updated>
+    <steps_updated num="4">Add all dressing ingredients in a small bowl or cup and whisk until with a fork until combined. </steps_updated>
+    <steps_updated num="5">Slice thinly or cube chicken, cutting to your preference for topping the salad. </steps_updated>
+    <steps_updated num="6">Assemble your salad, starting with a base of romaine lettuce. </steps_updated>
+    <steps_updated num="7">Then top with chicken, cucumber, olives, red onion, tomatoes, feta, and the dressing. </steps_updated>
+    <steps_updated num="8">Toss to evenly incorporate ingredients </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

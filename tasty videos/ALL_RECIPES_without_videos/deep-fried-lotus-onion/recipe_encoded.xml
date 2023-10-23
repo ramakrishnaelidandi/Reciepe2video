@@ -1,0 +1,65 @@
+<recipe>
+  <title>Deep-fried Blooming Onion Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/deep-fried-lotus-onion</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 10882 12384 2597 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 5802 13278 12067 8007 </ingredient>
+    <ingredient num="2">8580 13278 12708 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 890 13278 9494 5981 </ingredient>
+    <ingredient num="4">3917 1580 9486 13278 11384 11703 </ingredient>
+    <ingredient num="5">3917 14014 13278 9496 </ingredient>
+    <ingredient num="6">8580 2031 13278 7845 </ingredient>
+    <ingredient num="7">3917 14014 13278 82 </ingredient>
+    <ingredient num="8">13086 9517 13278 11338 5766 13278 3465 8007 </ingredient>
+    <ingredient num="9">8580 9486 13278 1484 13033 </ingredient>
+    <ingredient num="10">8580 9486 13278 13051 </ingredient>
+    <ingredient num="11">3917 1580 9486 13278 11892 </ingredient>
+    <ingredient num="12">3917 1580 9486 13278 10646 2260 </ingredient>
+    <ingredient num="13">3917 1580 2031 13278 82 </ingredient>
+    <ingredient num="14">3917 8071 13278 7845 </ingredient>
+    <ingredient num="15">3917 14014 13278 9496 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Snacks</category>
+    <category num="4">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31969/low_1495124989.m3u8</low>
+    <high>https://vid.tasty.co/output/31969/mp4_720x1280/1495124989</high>
+  </video>
+  <steps>
+    <step num="0">14100 11951 10707 371 2237 6334 13817 3345 3557 4811 7584 </step>
+    <step num="1">5209 5994 5133 5668 772 4061 10894 10093 1645 14657 415 12409 13352 13817 772 13086 14657 210 8830 10763 6861 </step>
+    <step num="2">11423 11951 6334 11770 13817 14129 3409 4996 10260 5895 14213 10950 5994 13757 14511 4120 11951 12708 13817 11951 9529 </step>
+    <step num="3">10950 2597 12377 4120 6467 6958 11227 12610 11384 8117 13817 13584 12375 </step>
+    <step num="4">5570 11951 6334 210 2996 13715 5452 14157 1391 6216 7137 </step>
+    <step num="5">5570 11951 6334 210 11951 5316 2373 13715 5452 13331 </step>
+    <step num="6">309 11951 6334 210 11951 6216 10086 13817 5316 2373 797 3954 13312 </step>
+    <step num="7">8889 11338 5766 560 3471 4171 210 5994 1000 5895 801 2378 </step>
+    <step num="8">5570 6334 210 11951 7668 7990 13767 12689 </step>
+    <step num="9">10936 4875 740 11951 6334 560 11951 5766 7990 8580 8927 5895 1681 3557 9490 870 13817 2111 </step>
+    <step num="10">2540 6334 560 4157 8090 210 12 10285 13817 2234 560 3499 7990 2933 12689 </step>
+    <step num="11">7559 210 5994 2192 12377 4120 1484 1123 12610 10986 6958 11796 5050 7280 13817 4570 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 11951 10707 371 2237 6334 13817 3345 3557 4811 7584 </steps_updated>
+    <steps_updated num="1">5209 5994 5133 5668 772 4061 10894 10093 1645 14657 415 12409 13352 13817 772 13086 14657 210 8830 10763 6861 </steps_updated>
+    <steps_updated num="2">11423 11951 6334 11770 13817 14129 3409 4996 10260 5895 14213 </steps_updated>
+    <steps_updated num="3">10950 5994 13757 14511 4120 11951 12708 13817 11951 9529 </steps_updated>
+    <steps_updated num="4">10950 2597 12377 4120 6467 6958 11227 12610 11384 8117 13817 13584 12375 </steps_updated>
+    <steps_updated num="5">5570 11951 6334 210 2996 13715 5452 14157 1391 6216 7137 </steps_updated>
+    <steps_updated num="6">5570 11951 6334 210 11951 5316 2373 13715 5452 13331 </steps_updated>
+    <steps_updated num="7">309 11951 6334 210 11951 6216 10086 13817 5316 2373 797 3954 13312 </steps_updated>
+    <steps_updated num="8">8889 11338 5766 560 3471 4171 210 5994 1000 5895 801 2378 </steps_updated>
+    <steps_updated num="9">5570 6334 210 11951 7668 7990 13767 12689 </steps_updated>
+    <steps_updated num="10">10936 4875 740 11951 6334 560 11951 5766 7990 8580 8927 5895 1681 3557 9490 870 13817 2111 </steps_updated>
+    <steps_updated num="11">2540 6334 560 4157 8090 210 12 10285 13817 2234 560 3499 7990 2933 12689 </steps_updated>
+    <steps_updated num="12">7559 210 5994 2192 12377 4120 1484 1123 12610 10986 6958 11796 5050 7280 13817 4570 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

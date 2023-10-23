@@ -1,0 +1,42 @@
+<recipe>
+  <title>Herb Stem Pesto Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/herb-stem-pesto</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 2597 8445 4091 13817 856 3716 </ingredient>
+    <ingredient num="1">3917 2605 13278 13592 11925 856 13278 336 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 6209 6250 13278 336 5981 </ingredient>
+    <ingredient num="3">1813 2605 13278 8244 5766 13278 12158 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 399 13278 2264 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 2991 109 14538 13278 13412 5981 </ingredient>
+    <ingredient num="6">3917 2414 13278 11384 </ingredient>
+    <ingredient num="7">12791 8071 13278 82 </ingredient>
+    <ingredient num="8">1580 13278 5516 3701 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>65.833</start_time>
+    <end_time>83.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 11021 4091 13817 13143 856 560 5994 12095 </step>
+    <step num="1">9179 11951 749 8244 7632 5432 6696 4155 12610 13817 597 8587 </step>
+    <step num="2">3262 4255 5666 12398 1681 12119 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 11021 4091 13817 13143 856 560 5994 12095 </steps_updated>
+    <steps_updated num="1">9179 11951 749 8244 7632 5432 6696 4155 12610 13817 597 8587 </steps_updated>
+    <steps_updated num="2">3262 4255 5666 12398 1681 12119 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

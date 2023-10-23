@@ -1,0 +1,70 @@
+<recipe>
+  <title>Seitan Roast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/seitan-roast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-vegetarian-holiday-mains</comp_url>
+  <ingredients>
+    <ingredient num="0">9883 2605 13278 208 3984 13278 9373 5981 </ingredient>
+    <ingredient num="1">8580 13667 13278 11384 </ingredient>
+    <ingredient num="2">13086 9486 13278 11691 2260 </ingredient>
+    <ingredient num="3">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="4">8580 9517 13278 6564 2168 8295 13278 7503 5981 </ingredient>
+    <ingredient num="5">1813 2605 13278 12927 10026 13278 1420 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="7">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="8">3917 8071 13278 796 10964 </ingredient>
+    <ingredient num="9">1580 8071 13278 796 7516 </ingredient>
+    <ingredient num="10">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="11">1580 8071 13278 7845 </ingredient>
+    <ingredient num="12">3917 1580 9517 13278 4168 547 13278 1536 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/63579/low_1511300857.m3u8</low>
+    <high>https://vid.tasty.co/output/63579/mp4_720x1280/1511300857</high>
+  </video>
+  <duration>
+    <start_time>165.06</start_time>
+    <end_time>232.66</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 9451 </step>
+    <step num="1">10950 8016 5349 4120 208 13829 4155 11691 7280 13817 8244 14158 3693 1681 12119 </step>
+    <step num="2">10950 6389 3624 14511 4120 6564 2168 7453 12927 6984 11384 8117 6334 8117 8543 5984 5040 13817 12375 9179 210 3984 2373 13817 6142 1681 4309 </step>
+    <step num="3">6823 5994 3145 210 11951 11951 2373 13817 5406 210 4168 9 9393 1681 8337 8256 13025 </step>
+    <step num="4">9956 7711 3381 11003 12313 13676 560 3039 9453 </step>
+    <step num="5">745 8337 669 10877 205 13767 4735 1936 1645 3104 13817 2933 4735 12580 1645 13025 7692 3386 10760 210 3550 1715 415 210 6385 11426 </step>
+    <step num="6">7831 7990 3917 14187 9309 11521 5452 5527 12689 </step>
+    <step num="7">6054 6781 10439 13817 3945 12886 7990 13767 8927 432 10153 </step>
+    <step num="8">12774 1391 8597 5753 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 9451 </steps_updated>
+    <steps_updated num="1">10950 8016 5349 4120 208 13829 4155 11691 7280 13817 8244 14158 </steps_updated>
+    <steps_updated num="2">3693 1681 12119 </steps_updated>
+    <steps_updated num="3">10950 6389 3624 14511 4120 6564 2168 7453 12927 6984 11384 8117 6334 8117 8543 5984 5040 13817 12375 </steps_updated>
+    <steps_updated num="4">9179 210 3984 2373 13817 6142 1681 4309 </steps_updated>
+    <steps_updated num="5">6823 5994 3145 210 11951 11951 2373 13817 5406 210 4168 9 </steps_updated>
+    <steps_updated num="6">9393 1681 8337 8256 13025 </steps_updated>
+    <steps_updated num="7">9956 7711 3381 11003 12313 13676 560 3039 9453 </steps_updated>
+    <steps_updated num="8">745 8337 669 10877 205 13767 4735 1936 1645 3104 13817 2933 4735 12580 1645 13025 </steps_updated>
+    <steps_updated num="9">7692 3386 10760 210 3550 1715 415 210 6385 11426 </steps_updated>
+    <steps_updated num="10">7831 7990 3917 14187 9309 11521 5452 5527 12689 </steps_updated>
+    <steps_updated num="11">6054 6781 10439 13817 3945 12886 7990 13767 8927 432 10153 </steps_updated>
+    <steps_updated num="12">12774 1391 8597 5753 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05014</start_time>
+    <end_time>07017</end_time>
+  </duration_human>
+</recipe>

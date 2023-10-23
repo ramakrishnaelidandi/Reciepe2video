@@ -1,0 +1,49 @@
+<recipe>
+  <title>Breakfast Bell Peppers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-bell-peppers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 1466 2986 </ingredient>
+    <ingredient num="1">3917 14014 13278 3855 82 </ingredient>
+    <ingredient num="2">3917 14014 13278 14585 11088 13584 7845 </ingredient>
+    <ingredient num="3">3917 2605 13278 3333 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 6209 11292 11588 3962 13278 828 5981 </ingredient>
+    <ingredient num="5">4061 13278 2597 12708 </ingredient>
+    <ingredient num="6">4061 9259 13278 3745 8932 </ingredient>
+    <ingredient num="7">1580 2605 13278 3333 9784 14538 13278 2264 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31931/low_1495124882.m3u8</low>
+    <high>https://vid.tasty.co/output/31931/mp4_720x1280/1495124882</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">12474 5994 4669 8667 7972 11951 1466 2986 210 2532 6781 7693 560 8651 14100 2696 11951 7693 13817 11951 6974 </step>
+    <step num="2">12785 10844 2986 560 5994 10765 4577 9756 11801 8857 6252 10763 2532 1391 82 13817 12375 </step>
+    <step num="3">7831 7990 666 11004 1681 2986 12573 4721 2021 </step>
+    <step num="4">6252 11951 10865 13817 2532 371 11951 3938 3584 8794 11951 12645 7845 6835 10993 13968 12708 669 11951 937 371 10763 12375 </step>
+    <step num="5">6252 11951 12610 10986 7035 9631 13817 374 3938 4255 10707 371 11951 8536 </step>
+    <step num="6">7831 7990 666 11004 1681 6216 4072 12573 9892 5015 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">12474 5994 4669 8667 7972 11951 1466 2986 210 2532 6781 7693 560 8651 </steps_updated>
+    <steps_updated num="2">14100 2696 11951 7693 13817 11951 6974 </steps_updated>
+    <steps_updated num="3">12785 10844 2986 560 5994 10765 4577 9756 11801 8857 </steps_updated>
+    <steps_updated num="4">6252 10763 2532 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="5">7831 7990 666 11004 1681 2986 12573 4721 2021 </steps_updated>
+    <steps_updated num="6">6252 11951 10865 13817 2532 371 11951 3938 3584 8794 11951 12645 7845 6835 </steps_updated>
+    <steps_updated num="7">10993 13968 12708 669 11951 937 371 10763 12375 </steps_updated>
+    <steps_updated num="8">6252 11951 12610 10986 7035 9631 13817 374 3938 4255 10707 371 11951 8536 </steps_updated>
+    <steps_updated num="9">7831 7990 666 11004 1681 6216 4072 12573 9892 </steps_updated>
+    <steps_updated num="10">5015 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

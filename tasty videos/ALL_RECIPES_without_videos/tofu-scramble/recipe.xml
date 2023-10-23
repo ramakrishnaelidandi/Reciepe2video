@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tofu Scramble Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-scramble</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 oz ; tofu ; (455 g) </ingredient>
+    <ingredient num="1">1 ; bell pepper </ingredient>
+    <ingredient num="2">½ ; onion </ingredient>
+    <ingredient num="3">2 teaspoons ; oil </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="6">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="7">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="8">¼ teaspoon ; turmeric </ingredient>
+    <ingredient num="9">1 tablespoon ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43890/low_1500396566.m3u8</low>
+    <high>https://vid.tasty.co/output/43890/mp4_720x1280/1500396566</high>
+  </video>
+  <steps>
+    <step num="0">Drain tofu from container, wrap it in a paper towel, and place it on a plate. Rest another plate on top of the tofu and microwave for 3-5 minutes. </step>
+    <step num="1">Unwrap the tofu and cut into cubes. </step>
+    <step num="2">Place the tofu in a bowl and mash with a fork. </step>
+    <step num="3">Cut the top off a bell pepper and remove all the seeds and thinly slice. </step>
+    <step num="4">Chop the onion. </step>
+    <step num="5">Heat oil in a pan over medium heat. Add the onions and peppers, and cook until softened. </step>
+    <step num="6">Add in the tofu and cook on medium heat until most of the water has evaporated. </step>
+    <step num="7">Add the salt, pepper, onion powder, garlic powder, and cumin, and mix well, until all the seasonings are evenly distributed. </step>
+    <step num="8">Add the lemon juice to the tofu and mix until evenly combined. </step>
+    <step num="9">Remove the tofu from the heat and serve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Drain tofu from container, wrap it in a paper towel, and place it on a plate. </steps_updated>
+    <steps_updated num="1">Rest another plate on top of the tofu and microwave for 3-5 minutes. </steps_updated>
+    <steps_updated num="2">Unwrap the tofu and cut into cubes. </steps_updated>
+    <steps_updated num="3">Place the tofu in a bowl and mash with a fork. </steps_updated>
+    <steps_updated num="4">Cut the top off a bell pepper and remove all the seeds and thinly slice. </steps_updated>
+    <steps_updated num="5">Chop the onion. </steps_updated>
+    <steps_updated num="6">Heat oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="7">Add the onions and peppers, and cook until softened. </steps_updated>
+    <steps_updated num="8">Add in the tofu and cook on medium heat until most of the water has evaporated. </steps_updated>
+    <steps_updated num="9">Add the salt, pepper, onion powder, garlic powder, and cumin, and mix well, until all the seasonings are evenly distributed. </steps_updated>
+    <steps_updated num="10">Add the lemon juice to the tofu and mix until evenly combined. </steps_updated>
+    <steps_updated num="11">Remove the tofu from the heat and serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

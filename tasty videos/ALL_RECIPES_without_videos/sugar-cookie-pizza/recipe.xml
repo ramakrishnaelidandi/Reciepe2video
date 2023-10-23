@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sugar Cookie “Pizza” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sugar-cookie-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; unsalted butter, 1 stick, softened ; (115 g) </ingredient>
+    <ingredient num="1">1 ½ teaspoons ; vanilla extract, divided </ingredient>
+    <ingredient num="2">½ cup ; granulated sugar ; (100 g) </ingredient>
+    <ingredient num="3">3 tablespoons ; light brown sugar </ingredient>
+    <ingredient num="4">1 ; large egg, room temperature </ingredient>
+    <ingredient num="5">1 ½ cups ; all-purpose flour ; (180 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; cream of tartar </ingredient>
+    <ingredient num="7">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="8">1 pinch ; salt </ingredient>
+    <ingredient num="9">6 oz ; cream cheese, room temperature ; (170 g) </ingredient>
+    <ingredient num="10">⅓ cup ; powdered sugar ; (40 g) </ingredient>
+    <ingredient num="11">⅓ cup ; chocolate hazelnut spread ; (95 g) </ingredient>
+    <ingredient num="12">fresh berries </ingredient>
+    <ingredient num="13">peanut butter </ingredient>
+    <ingredient num="14">mini pretzel </ingredient>
+    <ingredient num="15">fruit cereal </ingredient>
+    <ingredient num="16">mini marshmallows </ingredient>
+    <ingredient num="17">graham cracker, chopped </ingredient>
+    <ingredient num="18">chocolate chunk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/89013/hls24_1523469483.m3u8</low>
+    <high>https://vid.tasty.co/output/89013/landscape_720/1523469483</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). Line a 10-inch (25-cm) cast iron pan with parchment paper. </step>
+    <step num="1">In a large bowl, mix the butter with 1 teaspoon of vanilla extract until light and fluffy. </step>
+    <step num="2">Add the granulated sugar, then the brown sugar, and mix until well incorporated. </step>
+    <step num="3">Add the egg and stir until thoroughly incorporated. </step>
+    <step num="4">Using a fine mesh sieve, sift the flour, cream of tartar, baking soda, and salt into the dough. Combine with a spatula until evenly mixed. </step>
+    <step num="5">Spread the cookie dough in an even layer in the prepared pan. Chill in the fridge for 30 minutes, then bake for 15-18 minutes until lightly golden. Let cool. </step>
+    <step num="6">In a medium bowl, combine the cream cheese, powdered sugar, and remaining ½ teaspoon of vanilla extract until well incorporated. </step>
+    <step num="7">Spread half of the frosting onto a quarter of the cooled cookie and the other half on the diagonally opposite corner. </step>
+    <step num="8">Frost the other quarters with the chocolate hazelnut spread. </step>
+    <step num="9">Decorate with your favorite toppings. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Line a 10-inch (25-cm) cast iron pan with parchment paper. </steps_updated>
+    <steps_updated num="2">In a large bowl, mix the butter with 1 teaspoon of vanilla extract until light and fluffy. </steps_updated>
+    <steps_updated num="3">Add the granulated sugar, then the brown sugar, and mix until well incorporated. </steps_updated>
+    <steps_updated num="4">Add the egg and stir until thoroughly incorporated. </steps_updated>
+    <steps_updated num="5">Using a fine mesh sieve, sift the flour, cream of tartar, baking soda, and salt into the dough. </steps_updated>
+    <steps_updated num="6">Combine with a spatula until evenly mixed. </steps_updated>
+    <steps_updated num="7">Spread the cookie dough in an even layer in the prepared pan. </steps_updated>
+    <steps_updated num="8">Chill in the fridge for 30 minutes, then bake for 15-18 minutes until lightly golden. </steps_updated>
+    <steps_updated num="9">Let cool. </steps_updated>
+    <steps_updated num="10">In a medium bowl, combine the cream cheese, powdered sugar, and remaining ½ teaspoon of vanilla extract until well incorporated. </steps_updated>
+    <steps_updated num="11">Spread half of the frosting onto a quarter of the cooled cookie and the other half on the diagonally opposite corner. </steps_updated>
+    <steps_updated num="12">Frost the other quarters with the chocolate hazelnut spread. </steps_updated>
+    <steps_updated num="13">Decorate with your favorite toppings. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

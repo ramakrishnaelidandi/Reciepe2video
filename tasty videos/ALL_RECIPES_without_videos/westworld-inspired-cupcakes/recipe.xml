@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Westworld-Inspired Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/westworld-inspired-cupcakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/emmy-s-inspired-cupcakes</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; chocolate cupcakes </ingredient>
+    <ingredient num="1">2 cups ; buttercream frosting ; (230 g) </ingredient>
+    <ingredient num="2">12 ; chocolate crisps </ingredient>
+    <ingredient num="3">12 ; chocolate caramel candies </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107911/hls24_1536098453.m3u8</low>
+    <high>https://vid.tasty.co/output/107911/landscape_720/1536098453</high>
+  </video>
+  <duration>
+    <start_time>122.0</start_time>
+    <end_time>136.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the buttercream frosting to a piping bag fitted with a round tip, then pipe on top of the cupcakes. </step>
+    <step num="1">Place the chocolate crisps on the cream, concave-side up, and gently press to adhere. </step>
+    <step num="2">Pipe a small amount of buttercream on the chocolate crisps and place the chocolate caramel candies on top. Gently press so they stick together. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the buttercream frosting to a piping bag fitted with a round tip, then pipe on top of the cupcakes. </steps_updated>
+    <steps_updated num="1">Place the chocolate crisps on the cream, concave-side up, and gently press to adhere. </steps_updated>
+    <steps_updated num="2">Pipe a small amount of buttercream on the chocolate crisps and place the chocolate caramel candies on top. </steps_updated>
+    <steps_updated num="3">Gently press so they stick together. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

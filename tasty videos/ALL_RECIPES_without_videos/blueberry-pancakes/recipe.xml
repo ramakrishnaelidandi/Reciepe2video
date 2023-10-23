@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/nutritious-pancakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">⅔ cup ; greek yogurt ; (190 g) </ingredient>
+    <ingredient num="1">½ ; ripe banana </ingredient>
+    <ingredient num="2">½ cup ; oats ; (50 g) </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="5">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="6">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="7">½ cup ; fresh blueberry ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19445/low_1482864702.m3u8</low>
+    <high>https://vid.tasty.co/output/19445/mp4_720x1280/1482864702</high>
+  </video>
+  <duration>
+    <start_time>65.33</start_time>
+    <end_time>93.38</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, blend everything besides the blueberries. </step>
+    <step num="1">Pour pancake batter on a griddle or skillet over medium-high heat, and place blueberries on the pancake. </step>
+    <step num="2">Cook until bubbles pop on the surface of the pancake, then flip and cook the other side. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, blend everything besides the blueberries. </steps_updated>
+    <steps_updated num="1">Pour pancake batter on a griddle or skillet over medium-high heat, and place blueberries on the pancake. </steps_updated>
+    <steps_updated num="2">Cook until bubbles pop on the surface of the pancake, then flip and cook the other side. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

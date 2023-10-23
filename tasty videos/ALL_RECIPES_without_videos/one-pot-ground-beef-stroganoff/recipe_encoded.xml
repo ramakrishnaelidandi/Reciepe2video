@@ -1,0 +1,56 @@
+<recipe>
+  <title>One-Pot Ground Beef Stroganoff Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-ground-beef-stroganoff</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">8580 9517 13278 9806 976 13278 757 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 6334 13278 3433 5981 </ingredient>
+    <ingredient num="3">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">3917 715 13278 11088 1946 13278 9473 5981 </ingredient>
+    <ingredient num="5">8580 2031 13278 9496 </ingredient>
+    <ingredient num="6">4061 9517 13278 1946 220 13278 3798 8007 </ingredient>
+    <ingredient num="7">6735 643 13278 6216 12279 14502 </ingredient>
+    <ingredient num="8">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+    <ingredient num="9">3917 14014 13278 12367 9328 </ingredient>
+    <ingredient num="10">6209 11911 7990 4711 </ingredient>
+    <ingredient num="11">12610 560 11567 </ingredient>
+    <ingredient num="12">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32139/low_1495125415.m3u8</low>
+    <high>https://vid.tasty.co/output/32139/mp4_720x1280/1495125415</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13983 12010 11546 7855 8244 14158 9179 14094 13817 12616 1391 82 13817 12375 </step>
+    <step num="1">9179 11951 11453 13817 1937 264 1681 11453 12573 6470 </step>
+    <step num="2">9179 11951 11088 1946 13817 2550 1681 2147 12473 210 11951 4700 </step>
+    <step num="3">9179 1946 220 13817 6216 11293 4676 3557 5994 6142 13817 12538 9411 7990 666 12689 1595 11951 2082 </step>
+    <step num="4">9179 11951 1484 13033 13817 12367 1267 12473 1681 3152 </step>
+    <step num="5">12774 13817 4711 1391 13012 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13983 12010 11546 7855 8244 14158 </steps_updated>
+    <steps_updated num="1">9179 14094 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="2">9179 11951 11453 13817 1937 </steps_updated>
+    <steps_updated num="3">264 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="4">9179 11951 11088 1946 13817 2550 1681 2147 </steps_updated>
+    <steps_updated num="5">12473 210 11951 4700 </steps_updated>
+    <steps_updated num="6">9179 1946 220 13817 6216 11293 </steps_updated>
+    <steps_updated num="7">4676 3557 5994 6142 13817 12538 </steps_updated>
+    <steps_updated num="8">9411 7990 666 12689 </steps_updated>
+    <steps_updated num="9">1595 11951 2082 </steps_updated>
+    <steps_updated num="10">9179 11951 1484 13033 13817 12367 1267 </steps_updated>
+    <steps_updated num="11">12473 1681 3152 </steps_updated>
+    <steps_updated num="12">12774 13817 4711 1391 13012 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

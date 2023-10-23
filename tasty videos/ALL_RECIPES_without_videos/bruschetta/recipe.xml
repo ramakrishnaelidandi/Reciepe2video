@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bruschetta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bruschetta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-ways-to-make-vegetables-taste-great</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; tomatoes, diced </ingredient>
+    <ingredient num="1">1 clove ; garlic, minced </ingredient>
+    <ingredient num="2">1 teaspoon ; fresh basil </ingredient>
+    <ingredient num="3">1 teaspoon ; olive oil </ingredient>
+    <ingredient num="4">1 teaspoon ; balsamic vinegar </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">baguette, toasted, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75411/hls24_1517258080.m3u8</low>
+    <high>https://vid.tasty.co/output/75411/landscape_720/1517258080</high>
+  </video>
+  <duration>
+    <start_time>58.5</start_time>
+    <end_time>84.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium sized mixing bowl combine the tomatoes, garlic, basil, olive oil, balsamic, salt, and pepper, and stir until evenly incorporated. </step>
+    <step num="1">Serve on toasted baguette. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium sized mixing bowl combine the tomatoes, garlic, basil, olive oil, balsamic, salt, and pepper, and stir until evenly incorporated. </steps_updated>
+    <steps_updated num="1">Serve on toasted baguette. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01446</start_time>
+    <end_time>02024</end_time>
+  </duration_human>
+</recipe>

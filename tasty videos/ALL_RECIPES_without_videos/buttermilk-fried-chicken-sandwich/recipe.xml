@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buttermilk-Fried Chicken Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buttermilk-fried-chicken-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; buttermilk ; (480 mL) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="3">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="4">8 ; boneless, skinless chicken thighs </ingredient>
+    <ingredient num="5">1 ½ cups ; plain greek yogurt ; (365 g) </ingredient>
+    <ingredient num="6">3 tablespoons ; fresh dill, chopped </ingredient>
+    <ingredient num="7">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="8">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="9">¼ cup ; grated parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="10">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="11">1 tablespoon ; salt </ingredient>
+    <ingredient num="12">2 teaspoons ; black pepper </ingredient>
+    <ingredient num="13">1 ½ teaspoons ; cayenne pepper </ingredient>
+    <ingredient num="14">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="15">peanut or vegetable oil, for frying </ingredient>
+    <ingredient num="16">softened butter, for buns </ingredient>
+    <ingredient num="17">8 ; brioche burger buns </ingredient>
+    <ingredient num="18">1 head ; butter lettuce </ingredient>
+    <ingredient num="19">2 ; tomatoes, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33203/low_1496338610.m3u8</low>
+    <high>https://vid.tasty.co/output/33203/mp4_720x1280/1496338610</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, combine all the buttermilk marinade ingredients. Toss in chicken thighs to coat. </step>
+    <step num="1">Marinate for at least one hour in the refrigerator. </step>
+    <step num="2">In a small bowl, combine all the ingredients for dill dressing. </step>
+    <step num="3">Cover and let sit for at least an hour in the refrigerator. </step>
+    <step num="4">In a medium bowl, combine all ingredients for seasoned flour. Dip the marinated chicken in flour until chicken is completely covered. </step>
+    <step num="5">Heat the oil to 350˚F (180˚C) in a deep pot. Do not fill more than half full with oil. </step>
+    <step num="6">Carefully fry chicken for roughly 7 minutes, or until cooked through. Internal temperature should reach 165˚F (75˚C), and the chicken is golden brown and crispy. </step>
+    <step num="7">Drain on a paper towel-lined plate, or wire rack. </step>
+    <step num="8">Heat a large skillet. Butter cut sides of the burger buns, then toast on hot skillet until browned and crisp. </step>
+    <step num="9">Build sandwich with bread, lettuce, fried chicken, tomato slice, and dill dressing. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, combine all the buttermilk marinade ingredients. </steps_updated>
+    <steps_updated num="1">Toss in chicken thighs to coat. </steps_updated>
+    <steps_updated num="2">Marinate for at least one hour in the refrigerator. </steps_updated>
+    <steps_updated num="3">In a small bowl, combine all the ingredients for dill dressing. </steps_updated>
+    <steps_updated num="4">Cover and let sit for at least an hour in the refrigerator. </steps_updated>
+    <steps_updated num="5">In a medium bowl, combine all ingredients for seasoned flour. </steps_updated>
+    <steps_updated num="6">Dip the marinated chicken in flour until chicken is completely covered. </steps_updated>
+    <steps_updated num="7">Heat the oil to 350˚F (180˚C) in a deep pot. </steps_updated>
+    <steps_updated num="8">Do not fill more than half full with oil. </steps_updated>
+    <steps_updated num="9">Carefully fry chicken for roughly 7 minutes, or until cooked through. </steps_updated>
+    <steps_updated num="10">Internal temperature should reach 165˚F (75˚C), and the chicken is golden brown and crispy. </steps_updated>
+    <steps_updated num="11">Drain on a paper towel-lined plate, or wire rack. </steps_updated>
+    <steps_updated num="12">Heat a large skillet. </steps_updated>
+    <steps_updated num="13">Butter cut sides of the burger buns, then toast on hot skillet until browned and crisp. </steps_updated>
+    <steps_updated num="14">Build sandwich with bread, lettuce, fried chicken, tomato slice, and dill dressing. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

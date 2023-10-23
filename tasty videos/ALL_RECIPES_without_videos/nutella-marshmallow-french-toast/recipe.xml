@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Nutella Marshmallow French Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nutella-marshmallow-french-toast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">chocolate hazelnut spread </ingredient>
+    <ingredient num="1">marshmallow </ingredient>
+    <ingredient num="2">white bread </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">¾ cup ; double cream ; (200 mL) </ingredient>
+    <ingredient num="5">butter, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32243/low_1495125458.m3u8</low>
+    <high>https://vid.tasty.co/output/32243/mp4_720x1280/1495125458</high>
+  </video>
+  <steps>
+    <step num="0">Spread nutella on both slices of white bread. </step>
+    <step num="1">Cut marshmallows in half and place on one side of the bread. </step>
+    <step num="2">Close sandwich. </step>
+    <step num="3">Whisk together 2 eggs and the double cream. </step>
+    <step num="4">Dip nutella marshmallow sandwich in mixture. </step>
+    <step num="5">Fry in butter until both sides are golden brown. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread nutella on both slices of white bread. </steps_updated>
+    <steps_updated num="1">Cut marshmallows in half and place on one side of the bread. </steps_updated>
+    <steps_updated num="2">Close sandwich. </steps_updated>
+    <steps_updated num="3">Whisk together 2 eggs and the double cream. </steps_updated>
+    <steps_updated num="4">Dip nutella marshmallow sandwich in mixture. </steps_updated>
+    <steps_updated num="5">Fry in butter until both sides are golden brown. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

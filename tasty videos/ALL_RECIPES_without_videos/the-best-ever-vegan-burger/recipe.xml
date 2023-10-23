@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Best Ever Vegan Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-best-ever-vegan-burger</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; walnuts ; (100 g) </ingredient>
+    <ingredient num="1">8 oz ; cremini mushroom ; (225 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="3">2 tablespoons ; low sodium soy sauce </ingredient>
+    <ingredient num="4">½ teaspoon ; cumin </ingredient>
+    <ingredient num="5">1 ; yellow onion, diced </ingredient>
+    <ingredient num="6">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">½ teaspoon ; red bell pepper </ingredient>
+    <ingredient num="9">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="10">1 cup ; black beans, cooked ; (170 g) </ingredient>
+    <ingredient num="11">3 tablespoons ; beet, grated </ingredient>
+    <ingredient num="12">1 cup ; brown rice, cooked ; (230 g) </ingredient>
+    <ingredient num="13">1 tablespoon ; vegan mayonnaise </ingredient>
+    <ingredient num="14">1 teaspoon ; vegan worcestershire </ingredient>
+    <ingredient num="15">1 teaspoon ; liquid smoke </ingredient>
+    <ingredient num="16">½ cup ; vital wheat gluten ; (65 g) </ingredient>
+    <ingredient num="17">vegan bbq sauce, for basting </ingredient>
+    <ingredient num="18">4 slices ; vegan cheese </ingredient>
+    <ingredient num="19">4 ; burger buns </ingredient>
+    <ingredient num="20">vegan mayonnaise, to serve </ingredient>
+    <ingredient num="21">lettuce, to serve </ingredient>
+    <ingredient num="22">sliced tomato, to serve </ingredient>
+    <ingredient num="23">red onion, sliced, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Lunch</category>
+    <category num="8">Game Day</category>
+    <category num="9">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76434/hls24_1517597230.m3u8</low>
+    <high>https://vid.tasty.co/output/76434/landscape_720/1517597230</high>
+  </video>
+  <steps>
+    <step num="0">Add walnuts to the bowl of a food processor and pulse until crumbly. </step>
+    <step num="1">Add mushrooms and blend until finely chopped. </step>
+    <step num="2">In a large skillet over medium heat, add 1 tablespoon olive oil and add the mushroom walnut mixture, cooking for 5-8 minutes or until all moisture has evaporated. </step>
+    <step num="3">Add soy sauce and cumin and cook, stirring occasionally, until dry. Transfer mixture to a bowl. </step>
+    <step num="4">Add 1 tablespoon of olive oil to skillet. Add the onion and cook, stirring occasionally, until semi-translucent, about 3 minutes. </step>
+    <step num="5">Add garlic, salt, pepper, and tomato paste, and cook for for another 3-5 minutes until fragrant. Set aside. </step>
+    <step num="6">Add black beans and onion mixture to food processor, and blend until mostly smooth. </step>
+    <step num="7">Transfer mixture to bowl and add beets, rice, vegan mayo, worcestershire sauce, and liquid smoke, and stir until combined. </step>
+    <step num="8">Add in vital wheat gluten and use hands to knead burger mixture together until all wheat gluten is fully incorporated. </step>
+    <step num="9">Form burgers into 4 patties about 3-inches (7 cm) in diameter and 1-inch (2 cm) thick. </step>
+    <step num="10">In large cast-iron pan, over medium-high heat cook patties about 5 minutes on each side. </step>
+    <step num="11">Add on vegan cheese slices and melt. </step>
+    <step num="12">Assemble burger with vegan mayo, lettuce, tomato, and red onion. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add walnuts to the bowl of a food processor and pulse until crumbly. </steps_updated>
+    <steps_updated num="1">Add mushrooms and blend until finely chopped. </steps_updated>
+    <steps_updated num="2">In a large skillet over medium heat, add 1 tablespoon olive oil and add the mushroom walnut mixture, cooking for 5-8 minutes or until all moisture has evaporated. </steps_updated>
+    <steps_updated num="3">Add soy sauce and cumin and cook, stirring occasionally, until dry. </steps_updated>
+    <steps_updated num="4">Transfer mixture to a bowl. </steps_updated>
+    <steps_updated num="5">Add 1 tablespoon of olive oil to skillet. </steps_updated>
+    <steps_updated num="6">Add the onion and cook, stirring occasionally, until semi-translucent, about 3 minutes. </steps_updated>
+    <steps_updated num="7">Add garlic, salt, pepper, and tomato paste, and cook for for another 3-5 minutes until fragrant. </steps_updated>
+    <steps_updated num="8">Set aside. </steps_updated>
+    <steps_updated num="9">Add black beans and onion mixture to food processor, and blend until mostly smooth. </steps_updated>
+    <steps_updated num="10">Transfer mixture to bowl and add beets, rice, vegan mayo, worcestershire sauce, and liquid smoke, and stir until combined. </steps_updated>
+    <steps_updated num="11">Add in vital wheat gluten and use hands to knead burger mixture together until all wheat gluten is fully incorporated. </steps_updated>
+    <steps_updated num="12">Form burgers into 4 patties about 3-inches (7 cm) in diameter and 1-inch (2 cm) thick. </steps_updated>
+    <steps_updated num="13">In large cast-iron pan, over medium-high heat cook patties about 5 minutes on each side. </steps_updated>
+    <steps_updated num="14">Add on vegan cheese slices and melt. </steps_updated>
+    <steps_updated num="15">Assemble burger with vegan mayo, lettuce, tomato, and red onion. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

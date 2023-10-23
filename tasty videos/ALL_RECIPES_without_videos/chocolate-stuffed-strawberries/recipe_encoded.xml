@@ -1,0 +1,43 @@
+<recipe>
+  <title>Chocolate Stuffed Strawberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-stuffed-strawberries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13098 12040 1762 14 </ingredient>
+    <ingredient num="1">3917 2605 13278 9644 10882 13826 5335 13278 7642 5981 </ingredient>
+    <ingredient num="2">4617 13826 7990 7361 </ingredient>
+    <ingredient num="3">11815 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32064/low_1495125040.m3u8</low>
+    <high>https://vid.tasty.co/output/32064/mp4_720x1280/1495125040</high>
+  </video>
+  <steps>
+    <step num="0">6054 11951 4091 6781 1927 </step>
+    <step num="1">14147 2696 11951 1864 371 11951 7563 </step>
+    <step num="2">10838 5335 4680 210 14361 12954 </step>
+    <step num="3">1349 6114 1391 5335 9769 </step>
+    <step num="4">5570 6114 10707 13352 11827 4080 7990 2933 12689 </step>
+    <step num="5">2668 11951 13873 210 4617 9769 </step>
+    <step num="6">9179 1397 7389 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6054 11951 4091 6781 1927 </steps_updated>
+    <steps_updated num="1">14147 2696 11951 1864 371 11951 7563 </steps_updated>
+    <steps_updated num="2">10838 5335 4680 210 14361 12954 </steps_updated>
+    <steps_updated num="3">1349 6114 1391 5335 9769 </steps_updated>
+    <steps_updated num="4">5570 6114 10707 13352 11827 </steps_updated>
+    <steps_updated num="5">4080 7990 2933 12689 </steps_updated>
+    <steps_updated num="6">2668 11951 13873 210 4617 9769 </steps_updated>
+    <steps_updated num="7">9179 1397 7389 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

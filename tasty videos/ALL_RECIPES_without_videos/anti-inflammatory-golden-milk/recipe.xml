@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Anti-Inflammatory Golden Milk</title>
+  <url>https://tasty.co/recipe/anti-inflammatory-golden-milk</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; almond milk, or other non-dairy milk ; (480 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; ground turmeric </ingredient>
+    <ingredient num="2">¼ teaspoon ; ground ginger </ingredient>
+    <ingredient num="3">4 ; black peppercorns </ingredient>
+    <ingredient num="4">1 stick ; cinnamon </ingredient>
+    <ingredient num="5">1 ; star anise </ingredient>
+    <ingredient num="6">1 pinch ; whole clove </ingredient>
+    <ingredient num="7">agave, or sweetener of your choice, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98661/hls24_1529012559.m3u8</low>
+    <high>https://vid.tasty.co/output/98661/landscape_720/1529012559</high>
+  </video>
+  <steps>
+    <step num="0">Add the almond milk to a small pot over medium heat. </step>
+    <step num="1">Add the turmeric, ginger, peppercorns, cinnamon stick, star anise, and cloves. Whisk to combine. </step>
+    <step num="2">Heat the milk for 4-5 minutes, until steaming, but do not let it come to a boil. </step>
+    <step num="3">Serve warm or over ice and sweeten to taste. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the almond milk to a small pot over medium heat. </steps_updated>
+    <steps_updated num="1">Add the turmeric, ginger, peppercorns, cinnamon stick, star anise, and cloves. </steps_updated>
+    <steps_updated num="2">Whisk to combine. </steps_updated>
+    <steps_updated num="3">Heat the milk for 4-5 minutes, until steaming, but do not let it come to a boil. </steps_updated>
+    <steps_updated num="4">Serve warm or over ice and sweeten to taste. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

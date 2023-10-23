@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Fajita Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-fajita-skewers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; onion, quartered </ingredient>
+    <ingredient num="1">6 ; bell peppers, cut in 1.5" (4cm) squares </ingredient>
+    <ingredient num="2">1 lb ; cubed steak ; (455 g) </ingredient>
+    <ingredient num="3">1 lb ; chicken breast, cubed ; (455 g) </ingredient>
+    <ingredient num="4">1 lb ; shrimp, deveined and peeled with the tail on ; (455 g) </ingredient>
+    <ingredient num="5">3 teaspoons ; salt, 1 teaspoon per protein </ingredient>
+    <ingredient num="6">3 teaspoons ; pepper, 1 teaspoon per protein </ingredient>
+    <ingredient num="7">3 tablespoons ; garlic powder, 1 tablespoon per protein </ingredient>
+    <ingredient num="8">3 tablespoons ; chili powder, 1 tablespoon per protein </ingredient>
+    <ingredient num="9">3 teaspoons ; cumin, 1 teaspoon per protein </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Seafood</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Healthy</category>
+    <category num="6">Low-Carb</category>
+    <category num="7">Appetizers</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Snacks</category>
+    <category num="10">BBQ</category>
+    <category num="11">Fusion</category>
+    <category num="12">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9641/low_1473177425.m3u8</low>
+    <high>https://vid.tasty.co/output/9641/mp4_720x1280/1473177425</high>
+  </video>
+  <steps>
+    <step num="0">Slice onion in quarters, and bell peppers in 1.5" (4cm) squares. </step>
+    <step num="1">Place each meat in a gallon sized plastic bag and cover with dry ingredients. Close the bag and shake until evenly coated. </step>
+    <step num="2">Prepare skewers by layering onion, bell pepper, and protein. (Be sure not to mix proteins on the same skewer, as they have different cook times.) </step>
+    <step num="3">Grill the skewers over medium-high heat, flipping once, until the protein’s internal temperatures are as follows: Steak - 155ºF (70ºC), Chicken - 165ºF (75ºC), Shrimp - 145ºF (65ºC). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice onion in quarters, and bell peppers in 1.5" (4cm) squares. </steps_updated>
+    <steps_updated num="1">Place each meat in a gallon sized plastic bag and cover with dry ingredients. </steps_updated>
+    <steps_updated num="2">Close the bag and shake until evenly coated. </steps_updated>
+    <steps_updated num="3">Prepare skewers by layering onion, bell pepper, and protein. </steps_updated>
+    <steps_updated num="4">(Be sure not to mix proteins on the same skewer, as they have different cook times.) </steps_updated>
+    <steps_updated num="5">Grill the skewers over medium-high heat, flipping once, until the protein’s internal temperatures are as follows: Steak - 155ºF (70ºC), Chicken - 165ºF (75ºC), Shrimp - 145ºF (65ºC). </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

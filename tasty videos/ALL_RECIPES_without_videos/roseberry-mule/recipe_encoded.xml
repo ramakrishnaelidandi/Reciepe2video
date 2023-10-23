@@ -1,0 +1,47 @@
+<recipe>
+  <title>Roseberry Mule Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roseberry-mule</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-summer-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2933 13278 3121 </ingredient>
+    <ingredient num="1">3917 1113 13278 6209 5984 7789 3917 7990 4711 </ingredient>
+    <ingredient num="2">3917 14014 13278 7484 8524 5895 9586 </ingredient>
+    <ingredient num="3">3917 1580 13695 643 13278 819 13278 1420 8007 </ingredient>
+    <ingredient num="4">3917 2605 13278 14418 4615 13278 7503 8007 </ingredient>
+    <ingredient num="5">3917 12205 13278 9712 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94686/hls24_1526593742.m3u8</low>
+    <high>https://vid.tasty.co/output/94686/landscape_720/1526593742</high>
+  </video>
+  <duration>
+    <start_time>55.0</start_time>
+    <end_time>85.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10450 5994 1026 12120 740 3121 13817 4777 9384 1681 8473 </step>
+    <step num="1">9179 14080 1057 13817 13710 345 1026 3199 5378 13817 7934 3631 </step>
+    <step num="2">8845 8770 2373 11770 5994 8213 12703 7860 1391 13710 13494 1391 14418 13285 13817 882 5994 12205 371 9712 669 8712 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10450 5994 1026 12120 740 3121 13817 4777 </steps_updated>
+    <steps_updated num="1">9384 1681 8473 </steps_updated>
+    <steps_updated num="2">9179 14080 1057 13817 13710 </steps_updated>
+    <steps_updated num="3">345 1026 3199 5378 13817 7934 3631 </steps_updated>
+    <steps_updated num="4">8845 8770 2373 11770 5994 8213 12703 7860 1391 13710 </steps_updated>
+    <steps_updated num="5">13494 1391 14418 13285 13817 882 5994 12205 371 9712 669 8712 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

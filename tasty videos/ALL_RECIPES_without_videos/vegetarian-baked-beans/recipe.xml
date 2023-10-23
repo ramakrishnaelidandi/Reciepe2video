@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegetarian Baked Beans Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegetarian-baked-beans</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 ; small yellow onion, diced </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 teaspoon ; smoked paprika </ingredient>
+    <ingredient num="4">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="5">1 teaspoon ; mustard powder </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="8">½ cup ; tomato paste ; (110 g) </ingredient>
+    <ingredient num="9">¼ cup ; maple syrup ; (85 g) </ingredient>
+    <ingredient num="10">3 tablespoons ; molasses </ingredient>
+    <ingredient num="11">2 tablespoons ; low sodium soy sauce </ingredient>
+    <ingredient num="12">3 tablespoons ; apple cider vinegar </ingredient>
+    <ingredient num="13">1 teaspoon ; liquid smoke </ingredient>
+    <ingredient num="14">¾ cup ; low sodium vegetable broth ; (180 mL) </ingredient>
+    <ingredient num="15">15 oz ; great northern beans, 3 cans, drained and rinsed ; (425 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Game Day</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101221/hls24_1530909440.m3u8</low>
+    <high>https://vid.tasty.co/output/101221/landscape_720/1530909440</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350ºF (180ºC). </step>
+    <step num="1">In a large saucepan, heat the olive oil over medium heat. Once the oil begins to shimmer, add the onion and cook for 4-5 minutes, until semi-translucent. </step>
+    <step num="2">Add the garlic and cook for another 2-3 minutes, until fragrant. </step>
+    <step num="3">Add the paprika, chili powder, mustard powder, salt, and pepper and cook for 2 more minutes, until the spices are fragrant. </step>
+    <step num="4">Add the tomato paste, maple syrup, molasses, soy sauce, apple cider vinegar, and liquid smoke and stir for 1-2 minutes, until well-combined. </step>
+    <step num="5">Then, add the vegetable broth and stir until smooth, about 1 minute. </step>
+    <step num="6">Add the beans and stir for 1-2 minutes, until evenly coated. </step>
+    <step num="7">Cover and bake for 40 minutes, until the beans are bubbling. Uncover and bake for another 10 minutes, or until desired consistency is reached. </step>
+    <step num="8">Stir well and serve. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="1">In a large saucepan, heat the olive oil over medium heat. </steps_updated>
+    <steps_updated num="2">Once the oil begins to shimmer, add the onion and cook for 4-5 minutes, until semi-translucent. </steps_updated>
+    <steps_updated num="3">Add the garlic and cook for another 2-3 minutes, until fragrant. </steps_updated>
+    <steps_updated num="4">Add the paprika, chili powder, mustard powder, salt, and pepper and cook for 2 more minutes, until the spices are fragrant. </steps_updated>
+    <steps_updated num="5">Add the tomato paste, maple syrup, molasses, soy sauce, apple cider vinegar, and liquid smoke and stir for 1-2 minutes, until well-combined. </steps_updated>
+    <steps_updated num="6">Then, add the vegetable broth and stir until smooth, about 1 minute. </steps_updated>
+    <steps_updated num="7">Add the beans and stir for 1-2 minutes, until evenly coated. </steps_updated>
+    <steps_updated num="8">Cover and bake for 40 minutes, until the beans are bubbling. </steps_updated>
+    <steps_updated num="9">Uncover and bake for another 10 minutes, or until desired consistency is reached. </steps_updated>
+    <steps_updated num="10">Stir well and serve. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

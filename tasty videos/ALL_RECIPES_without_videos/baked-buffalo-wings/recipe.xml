@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Buffalo Wings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-buffalo-wings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-chicken-wings-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; chicken wings ; (455 g) </ingredient>
+    <ingredient num="1">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 cup ; hot sauce ; (240 mL) </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Game Day</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25431/low_1488497931.m3u8</low>
+    <high>https://vid.tasty.co/output/25431/mp4_720x1280/1488497931</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Remove excess moisture from chicken wings with a paper towel. </step>
+    <step num="2">In a large bowl, stir in baking powder and salt until chicken is thoroughly coated. </step>
+    <step num="3">Bake on a baking rack for 1 hour, or until golden brown and crispy, flipping every 20 minutes. (For best results, place baking rack on a baking sheet covered with parchment paper or foil to catch drippings). </step>
+    <step num="4">In a skillet, combine buffalo sauce ingredients on medium heat. </step>
+    <step num="5">Then stir in chicken wings until fully coated. </step>
+    <step num="6">Serve with your favorite side dish or dipping sauce. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Remove excess moisture from chicken wings with a paper towel. </steps_updated>
+    <steps_updated num="2">In a large bowl, stir in baking powder and salt until chicken is thoroughly coated. </steps_updated>
+    <steps_updated num="3">Bake on a baking rack for 1 hour, or until golden brown and crispy, flipping every 20 minutes. </steps_updated>
+    <steps_updated num="4">(For best results, place baking rack on a baking sheet covered with parchment paper or foil to catch drippings). </steps_updated>
+    <steps_updated num="5">In a skillet, combine buffalo sauce ingredients on medium heat. </steps_updated>
+    <steps_updated num="6">Then stir in chicken wings until fully coated. </steps_updated>
+    <steps_updated num="7">Serve with your favorite side dish or dipping sauce. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00001</start_time>
+    <end_time>00871</end_time>
+  </duration_human>
+</recipe>

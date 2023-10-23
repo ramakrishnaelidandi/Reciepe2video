@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Strawberry Shortcake Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-strawberry-shortcake-pops</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-ice-cream-treats-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; strawberry, stemmed and hulled ; (300 g) </ingredient>
+    <ingredient num="1">1 cup ; coconut milk, sweetened ; (240 mL) </ingredient>
+    <ingredient num="2">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="3">2 tablespoons ; agave nectar </ingredient>
+    <ingredient num="4">dairy-free vanilla yogurt, for garnish, optional </ingredient>
+    <ingredient num="5">granola, with freeze-dried strawberry pieces, for garnish, optional </ingredient>
+    <ingredient num="6">ice pop mold </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100236/hls24_1530124541.m3u8</low>
+    <high>https://vid.tasty.co/output/100236/landscape_720/1530124541</high>
+  </video>
+  <duration>
+    <start_time>12.0</start_time>
+    <end_time>60.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the strawberries, coconut milk, lemon juice, and agave nectar to a blender and blend until smooth. </step>
+    <step num="1">Pour the blended mixture into the ice pop mold. </step>
+    <step num="2">Freeze until solid, 2-3 hours. </step>
+    <step num="3">If desired, dip the frozen pops in yogurt, then roll the coated pops in the granola. Place the pops on a parchment paper-lined plate and freeze again for 30 minutes. </step>
+    <step num="4">The pops will keep in the freezer for up to 6 months in an airtight container. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the strawberries, coconut milk, lemon juice, and agave nectar to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">Pour the blended mixture into the ice pop mold. </steps_updated>
+    <steps_updated num="2">Freeze until solid, 2-3 hours. </steps_updated>
+    <steps_updated num="3">If desired, dip the frozen pops in yogurt, then roll the coated pops in the granola. </steps_updated>
+    <steps_updated num="4">Place the pops on a parchment paper-lined plate and freeze again for 30 minutes. </steps_updated>
+    <steps_updated num="5">The pops will keep in the freezer for up to 6 months in an airtight container. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

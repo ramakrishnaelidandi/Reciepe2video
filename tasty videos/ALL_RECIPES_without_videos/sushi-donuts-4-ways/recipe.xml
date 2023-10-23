@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sushi Donuts 4 Ways Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sushi-donuts-4-ways</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; cooked sushi rice ; (460 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; sudachi juice </ingredient>
+    <ingredient num="2">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">1 ; sushi-grade Spanish mackerel, aji, chopped </ingredient>
+    <ingredient num="4">1 ; shiso leaf, chopped </ingredient>
+    <ingredient num="5">½ ; myoga, sliced </ingredient>
+    <ingredient num="6">1 oz ; japanese green onion, sliced ; (30 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; white sesame </ingredient>
+    <ingredient num="8">2 teaspoons ; miso </ingredient>
+    <ingredient num="9">Sliced radish, for decorating </ingredient>
+    <ingredient num="10">sliced okra, for decorating </ingredient>
+    <ingredient num="11">hojiso, for decorating </ingredient>
+    <ingredient num="12">3 slices ; sushi-grade tuna, cubed </ingredient>
+    <ingredient num="13">white sesame seeds, to taste </ingredient>
+    <ingredient num="14">⅓ cup ; chinese yam, grated ; (50 g) </ingredient>
+    <ingredient num="15">wasabi, to taste </ingredient>
+    <ingredient num="16">sushi-grade sea urchin </ingredient>
+    <ingredient num="17">shredded nori, to taste </ingredient>
+    <ingredient num="18">150 g ; sushi-grade salmon, sliced ; 150 g </ingredient>
+    <ingredient num="19">sushi-grade ikura, to taste </ingredient>
+    <ingredient num="20">3 thin slices ; lemon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Healthy</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75828/hls24_1517411655.m3u8</low>
+    <high>https://vid.tasty.co/output/75828/landscape_720/1517411655</high>
+  </video>
+  <steps>
+    <step num="0">Combine rice, sudachi juice, and olice oil. </step>
+    <step num="1">Fill 2 types of donut molds (circluar and flower shapes) with rice mixture. Fill one row of circular donuts half-way, add tuna, then cover remaining space with rice. </step>
+    <step num="2">Press rice into molds using hands, then flip and release from molds. </step>
+    <step num="3">(Flower donut) mix spanish mackerel, shiso leaf, myoga, japanese green onion, and miso until texture is uniform. </step>
+    <step num="4">Place mixutre on top. Garnish with slices of radish, okra, and hojiso. </step>
+    <step num="5">(Circle donut w/ tuna) dip up-side in white sesame, fill center with grated chinese yam, and garnish with wasabi. </step>
+    <step num="6">(Flower donut) layer sea urchin on top, and garnish with grated nori. </step>
+    <step num="7">(Circle donut) wrap with slices of salmon. </step>
+    <step num="8">Fill center with ikura and garnish with slice of lemon. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine rice, sudachi juice, and olice oil. </steps_updated>
+    <steps_updated num="1">Fill 2 types of donut molds (circluar and flower shapes) with rice mixture. </steps_updated>
+    <steps_updated num="2">Fill one row of circular donuts half-way, add tuna, then cover remaining space with rice. </steps_updated>
+    <steps_updated num="3">Press rice into molds using hands, then flip and release from molds. </steps_updated>
+    <steps_updated num="4">(Flower donut) mix spanish mackerel, shiso leaf, myoga, japanese green onion, and miso until texture is uniform. </steps_updated>
+    <steps_updated num="5">Place mixutre on top. </steps_updated>
+    <steps_updated num="6">Garnish with slices of radish, okra, and hojiso. </steps_updated>
+    <steps_updated num="7">(Circle donut w/ tuna) dip up-side in white sesame, fill center with grated chinese yam, and garnish with wasabi. </steps_updated>
+    <steps_updated num="8">(Flower donut) layer sea urchin on top, and garnish with grated nori. </steps_updated>
+    <steps_updated num="9">(Circle donut) wrap with slices of salmon. </steps_updated>
+    <steps_updated num="10">Fill center with ikura and garnish with slice of lemon. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

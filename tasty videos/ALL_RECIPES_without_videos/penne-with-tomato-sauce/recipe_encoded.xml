@@ -1,0 +1,51 @@
+<recipe>
+  <title>Penne With Tomato Sauce Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/penne-with-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pantry-pastas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">1580 13278 13757 12384 11588 341 </ingredient>
+    <ingredient num="2">1580 8071 13278 8083 13389 10876 </ingredient>
+    <ingredient num="3">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="4">8883 643 13278 5614 9491 3917 14138 13278 8902 5981 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">1580 715 13278 4018 950 13278 9473 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98211/hls24_1528823656.m3u8</low>
+    <high>https://vid.tasty.co/output/98211/landscape_720/1528823656</high>
+  </video>
+  <duration>
+    <start_time>8.666</start_time>
+    <end_time>44.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 5994 2597 9347 5687 11770 13757 2082 9179 11951 8244 5766 13817 12384 13817 2550 1681 11951 6334 9490 12449 1882 12689 </step>
+    <step num="1">9179 11951 1008 10876 13817 4155 13817 2550 7990 6646 8580 11004 1681 11564 12473 210 717 13817 11779 9045 7990 5527 12689 </step>
+    <step num="2">8785 5994 2597 10083 371 10298 12282 560 5994 11714 264 11951 950 12968 560 3756 1254 11288 1580 2605 2935 9443 371 950 13384 415 8681 </step>
+    <step num="3">9179 11951 6124 950 560 11951 9286 12473 12923 14330 5994 8779 950 12282 5358 13615 560 4121 11951 9286 10242 1391 82 560 8686 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5994 2597 9347 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 8244 5766 13817 12384 13817 2550 1681 11951 6334 9490 12449 1882 12689 </steps_updated>
+    <steps_updated num="2">9179 11951 1008 10876 13817 4155 13817 2550 7990 6646 8580 11004 1681 11564 </steps_updated>
+    <steps_updated num="3">12473 210 717 13817 11779 9045 7990 5527 12689 </steps_updated>
+    <steps_updated num="4">8785 5994 2597 10083 371 10298 12282 560 5994 11714 </steps_updated>
+    <steps_updated num="5">264 11951 950 12968 560 3756 1254 </steps_updated>
+    <steps_updated num="6">11288 1580 2605 2935 9443 371 950 13384 415 8681 </steps_updated>
+    <steps_updated num="7">9179 11951 6124 950 560 11951 9286 </steps_updated>
+    <steps_updated num="8">12473 12923 14330 5994 8779 950 12282 5358 13615 560 4121 11951 9286 </steps_updated>
+    <steps_updated num="9">10242 1391 82 560 8686 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

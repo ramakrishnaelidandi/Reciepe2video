@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Knots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-knots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; white bread flour ; (190 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; instant dry yeast </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 cup ; warm water ; (240 mL) </ingredient>
+    <ingredient num="4">2 teaspoons ; olive oil </ingredient>
+    <ingredient num="5">flour, extra for dusting </ingredient>
+    <ingredient num="6">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="7">4 cloves ; garlic, crushed </ingredient>
+    <ingredient num="8">1 small handful ; fresh parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Italian</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+    <category num="10">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14400/low_1478732198.m3u8</low>
+    <high>https://vid.tasty.co/output/14400/mp4_720x1280/1478732198</high>
+  </video>
+  <steps>
+    <step num="0">For the dough, mix together the flour, yeast, and salt, and make a well in the middle. </step>
+    <step num="1">Pour the water and 1 teaspoon of olive oil into the well and mix together. </step>
+    <step num="2">Knead for about 7-10 minutes until the dough is springy. </step>
+    <step num="3">Line a bowl with the other teaspoon of olive oil, place the dough in the bowl, cover, and leave to rise in a warm place for 1 hour (or until doubled in size). </step>
+    <step num="4">Tear the dough into 9 separate balls and then roll into long tubes, folding over to make a knot. </step>
+    <step num="5">Place the knots on a baking tray. </step>
+    <step num="6">Bake in a 350°F (180°C) oven for 10 minutes. </step>
+    <step num="7">Prepare the garlic butter by mixing the butter, garlic, and parsley. </step>
+    <step num="8">Coat the knots with the butter mixture and bake for another 5 minutes. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the dough, mix together the flour, yeast, and salt, and make a well in the middle. </steps_updated>
+    <steps_updated num="1">Pour the water and 1 teaspoon of olive oil into the well and mix together. </steps_updated>
+    <steps_updated num="2">Knead for about 7-10 minutes until the dough is springy. </steps_updated>
+    <steps_updated num="3">Line a bowl with the other teaspoon of olive oil, place the dough in the bowl, cover, and leave to rise in a warm place for 1 hour (or until doubled in size). </steps_updated>
+    <steps_updated num="4">Tear the dough into 9 separate balls and then roll into long tubes, folding over to make a knot. </steps_updated>
+    <steps_updated num="5">Place the knots on a baking tray. </steps_updated>
+    <steps_updated num="6">Bake in a 350°F (180°C) oven for 10 minutes. </steps_updated>
+    <steps_updated num="7">Prepare the garlic butter by mixing the butter, garlic, and parsley. </steps_updated>
+    <steps_updated num="8">Coat the knots with the butter mixture and bake for another 5 minutes. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

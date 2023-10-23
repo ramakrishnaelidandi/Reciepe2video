@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Chicken Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-chicken-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">7 ; flour tortillas </ingredient>
+    <ingredient num="1">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="2">1 ; rotisserie chicken, shredded </ingredient>
+    <ingredient num="3">1 ½ cups ; salsa ; (130 g) </ingredient>
+    <ingredient num="4">sour cream </ingredient>
+    <ingredient num="5">mexican blend cheese </ingredient>
+    <ingredient num="6">guacamole </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20490/low_1484178491.m3u8</low>
+    <high>https://vid.tasty.co/output/20490/mp4_720x1280/1484178491</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375˚F (190˚C). </step>
+    <step num="1">Generously brush butter onto both sides of the tortillas. </step>
+    <step num="2">Using a circular cookie cutter or a mason jar lid, cut the tortillas into small circles. </step>
+    <step num="3">Flip a 12-cup muffin tin over and place a cut-out piece of tortilla in the space between two cups, so that they make a mini taco shape. One muffin tin will fit 17 mini tacos. </step>
+    <step num="4">Bake for 5-8 minutes, or until just turning golden brown and crispy. (Times and temperatures may vary based on oven.) Make sure to check on them every couple of minutes to make sure they don’t burn. </step>
+    <step num="5">Shred a rotisserie chicken, removing all bones and skin. </step>
+    <step num="6">Place shredded chicken in a large pan over medium-high heat and add salsa. Stir well to combine. </step>
+    <step num="7">Serve along with your favorite taco toppings. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="1">Generously brush butter onto both sides of the tortillas. </steps_updated>
+    <steps_updated num="2">Using a circular cookie cutter or a mason jar lid, cut the tortillas into small circles. </steps_updated>
+    <steps_updated num="3">Flip a 12-cup muffin tin over and place a cut-out piece of tortilla in the space between two cups, so that they make a mini taco shape. </steps_updated>
+    <steps_updated num="4">One muffin tin will fit 17 mini tacos. </steps_updated>
+    <steps_updated num="5">Bake for 5-8 minutes, or until just turning golden brown and crispy. </steps_updated>
+    <steps_updated num="6">(Times and temperatures may vary based on oven.) </steps_updated>
+    <steps_updated num="7">Make sure to check on them every couple of minutes to make sure they don’t burn. </steps_updated>
+    <steps_updated num="8">Shred a rotisserie chicken, removing all bones and skin. </steps_updated>
+    <steps_updated num="9">Place shredded chicken in a large pan over medium-high heat and add salsa. </steps_updated>
+    <steps_updated num="10">Stir well to combine. </steps_updated>
+    <steps_updated num="11">Serve along with your favorite taco toppings. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

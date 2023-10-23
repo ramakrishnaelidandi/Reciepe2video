@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-pudding</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-desserts-to-make-with-ripe-bananas</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; ripe bananas, peeled </ingredient>
+    <ingredient num="1">3 ; egg yolks </ingredient>
+    <ingredient num="2">⅓ cup ; sugar ; (65 g) </ingredient>
+    <ingredient num="3">3 tablespoons ; cornstarch </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="5">2 cups ; milk ; (470 mL) </ingredient>
+    <ingredient num="6">vanilla wafer </ingredient>
+    <ingredient num="7">whipped cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54120/low_1506633610.m3u8</low>
+    <high>https://vid.tasty.co/output/54120/mp4_720x1280/1506633610</high>
+  </video>
+  <duration>
+    <start_time>83.96</start_time>
+    <end_time>117.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the bananas, egg yolks, sugar, cornstarch, vanilla and milk into a blender and blitz until smooth. </step>
+    <step num="1">Transfer mixture to a saucepan and cook over medium heat until thick stir constantly for about 8-10 minutes. </step>
+    <step num="2">Pour mixture into a heat safe bowl, cover and chill for at least 4 hours </step>
+    <step num="3">To serve, scoop a few spoonfuls of pudding into a serving glass. Add one layer of vanilla wafers, then whipped cream. Repeat. </step>
+    <step num="4">Serve or allow to sit in the fridge for up to 4 hours. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the bananas, egg yolks, sugar, cornstarch, vanilla and milk into a blender and blitz until smooth. </steps_updated>
+    <steps_updated num="1">Transfer mixture to a saucepan and cook over medium heat until thick stir constantly for about 8-10 minutes. </steps_updated>
+    <steps_updated num="2">Pour mixture into a heat safe bowl, cover and chill for at least 4 hours </steps_updated>
+    <steps_updated num="3">To serve, scoop a few spoonfuls of pudding into a serving glass. </steps_updated>
+    <steps_updated num="4">Add one layer of vanilla wafers, then whipped cream. </steps_updated>
+    <steps_updated num="5">Repeat. </steps_updated>
+    <steps_updated num="6">Serve or allow to sit in the fridge for up to 4 hours. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02577</start_time>
+    <end_time>03552</end_time>
+  </duration_human>
+</recipe>

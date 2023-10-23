@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mint Berry Smash Mocktail Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mint-berry-smash-mocktail</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-mocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 handful ; raspberry </ingredient>
+    <ingredient num="1">1 handful ; blueberry </ingredient>
+    <ingredient num="2">1 sprig ; fresh mint leaf </ingredient>
+    <ingredient num="3">1 oz ; lime juice ; (30 mL) </ingredient>
+    <ingredient num="4">1 tablespoon ; agave nectar, or honey </ingredient>
+    <ingredient num="5">ice </ingredient>
+    <ingredient num="6">1 splash ; soda water, or seltzer water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34828/low_1498238088.m3u8</low>
+    <high>https://vid.tasty.co/output/34828/mp4_720x1280/1498238088</high>
+  </video>
+  <duration>
+    <start_time>66.0</start_time>
+    <end_time>89.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a cocktail shaker, or a tall glass, muddle raspberries, blueberries, and mint. </step>
+    <step num="1">Add lime juice, sweetener, and ice, and shake until well combined. If you do not have a cocktail shaker, simply pour back and forth between two glasses until combined. </step>
+    <step num="2">Strain mixture over ice and top with a splash of soda water. </step>
+    <step num="3">Garnish with berries and mint. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a cocktail shaker, or a tall glass, muddle raspberries, blueberries, and mint. </steps_updated>
+    <steps_updated num="1">Add lime juice, sweetener, and ice, and shake until well combined. </steps_updated>
+    <steps_updated num="2">If you do not have a cocktail shaker, simply pour back and forth between two glasses until combined. </steps_updated>
+    <steps_updated num="3">Strain mixture over ice and top with a splash of soda water. </steps_updated>
+    <steps_updated num="4">Garnish with berries and mint. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01968</start_time>
+    <end_time>02640</end_time>
+  </duration_human>
+</recipe>

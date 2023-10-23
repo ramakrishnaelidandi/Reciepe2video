@@ -1,0 +1,52 @@
+<recipe>
+  <title>Simple Chilli Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-chilli-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 7983 7678 </ingredient>
+    <ingredient num="1">3917 8071 13278 82 </ingredient>
+    <ingredient num="2">1580 8071 13278 7845 </ingredient>
+    <ingredient num="3">3917 13278 4036 9917 </ingredient>
+    <ingredient num="4">9883 2605 13278 890 13278 11953 5981 </ingredient>
+    <ingredient num="5">3917 13278 4985 10986 976 </ingredient>
+    <ingredient num="6">3917 13278 8083 10986 976 </ingredient>
+    <ingredient num="7">11948 560 1966 </ingredient>
+    <ingredient num="8">13086 13667 13278 11384 6459 5614 </ingredient>
+    <ingredient num="9">3917 13278 8083 14429 3962 </ingredient>
+    <ingredient num="10">13086 9486 13278 11691 2260 </ingredient>
+    <ingredient num="11">8580 9486 13278 9668 5042 </ingredient>
+    <ingredient num="12">1580 2605 13278 12282 13278 11953 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13857/low_1478280768.m3u8</low>
+    <high>https://vid.tasty.co/output/13857/mp4_720x1280/1478280768</high>
+  </video>
+  <steps>
+    <step num="0">10242 11951 7983 1391 82 13817 12375 </step>
+    <step num="1">14100 11951 7983 669 7497 9259 415 6798 210 11951 6216 10086 13817 13290 </step>
+    <step num="2">13057 7256 7990 5994 8631 8927 4255 10763 7780 1681 10963 2147 </step>
+    <step num="3">9179 11951 2986 13817 7256 7990 6646 9673 371 12689 6054 11951 7983 13817 2986 13817 817 5292 </step>
+    <step num="4">10950 11951 5540 11745 740 11951 4155 8083 14429 11691 7280 9668 987 13817 2019 12473 13817 11779 11951 2373 13040 13817 9490 7711 13817 13109 </step>
+    <step num="5">9179 13352 210 11951 7983 13817 2986 13817 6142 3145 210 11951 9286 </step>
+    <step num="6">12774 1391 8860 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10242 11951 7983 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="1">14100 11951 7983 669 7497 9259 415 6798 210 11951 6216 10086 13817 13290 </steps_updated>
+    <steps_updated num="2">13057 7256 7990 5994 8631 8927 4255 10763 7780 1681 10963 2147 </steps_updated>
+    <steps_updated num="3">9179 11951 2986 13817 7256 7990 6646 9673 371 12689 </steps_updated>
+    <steps_updated num="4">6054 11951 7983 13817 2986 13817 817 5292 </steps_updated>
+    <steps_updated num="5">10950 11951 5540 11745 740 11951 4155 8083 14429 11691 7280 9668 987 13817 2019 </steps_updated>
+    <steps_updated num="6">12473 13817 11779 11951 2373 13040 13817 9490 7711 13817 13109 </steps_updated>
+    <steps_updated num="7">9179 13352 210 11951 7983 13817 2986 13817 6142 3145 210 11951 9286 </steps_updated>
+    <steps_updated num="8">12774 1391 8860 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

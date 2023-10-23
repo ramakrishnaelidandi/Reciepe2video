@@ -1,0 +1,54 @@
+<recipe>
+  <title>Jucy Lucy From Minneapolis Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jucy-lucy-from-minneapolis</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">11795 13070 </ingredient>
+    <ingredient num="1">8580 13278 11088 1946 2283 8478 6202 7289 14386 </ingredient>
+    <ingredient num="2">8580 8535 13278 9241 14538 </ingredient>
+    <ingredient num="3">1813 2605 13278 12384 13152 341 13278 2264 5981 </ingredient>
+    <ingredient num="4">125 10549 2517 </ingredient>
+    <ingredient num="5">10907 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>125.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">11881 5335 9924 4255 11951 1864 14444 371 11951 11795 13070 13817 3345 4255 5994 5687 5895 12352 4255 9721 2082 </step>
+    <step num="1">4829 11951 13070 9490 7409 2890 10763 1946 8050 5833 5312 10719 6285 12791 2985 1745 51 13025 </step>
+    <step num="2">5570 11951 14538 210 11951 8365 371 797 371 11951 2283 415 6506 3557 1391 11951 11649 2029 </step>
+    <step num="3">8862 11951 1010 3626 13817 2157 11951 13119 8591 7708 12573 6728 4297 7990 11951 14538 560 11931 8119 </step>
+    <step num="4">5570 3061 4255 5994 12352 5895 5687 11770 13757 8283 2082 264 5966 8927 4884 11801 5895 1681 10971 301 12207 11025 5943 </step>
+    <step num="5">9179 2197 560 11951 551 2532 371 11951 6281 6960 5569 11951 914 10993 10707 3557 3482 1391 11951 3745 188 13817 10707 7871 </step>
+    <step num="6">3078 12313 2437 7062 4748 11484 148 8861 11951 14538 9490 3041 6222 2700 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">11881 5335 9924 4255 11951 1864 14444 371 11951 11795 13070 13817 3345 4255 5994 5687 5895 12352 4255 9721 2082 </steps_updated>
+    <steps_updated num="1">4829 11951 13070 9490 7409 2890 10763 1946 8050 5833 5312 10719 6285 12791 2985 1745 51 13025 </steps_updated>
+    <steps_updated num="2">5570 11951 14538 210 11951 8365 371 797 371 11951 2283 415 6506 3557 1391 11951 11649 2029 </steps_updated>
+    <steps_updated num="3">8862 11951 1010 3626 13817 2157 11951 13119 8591 7708 12573 6728 4297 7990 11951 14538 560 11931 8119 </steps_updated>
+    <steps_updated num="4">5570 3061 4255 5994 12352 5895 5687 11770 13757 8283 2082 </steps_updated>
+    <steps_updated num="5">264 5966 8927 4884 11801 5895 1681 10971 301 12207 11025 5943 </steps_updated>
+    <steps_updated num="6">9179 2197 560 11951 551 2532 371 11951 6281 6960 5569 11951 914 </steps_updated>
+    <steps_updated num="7">10993 10707 3557 3482 1391 11951 3745 188 13817 10707 7871 </steps_updated>
+    <steps_updated num="8">3078 12313 2437 7062 </steps_updated>
+    <steps_updated num="9">4748 11484 148 8861 11951 14538 9490 3041 6222 2700 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02420</start_time>
+    <end_time>03769</end_time>
+  </duration_human>
+</recipe>

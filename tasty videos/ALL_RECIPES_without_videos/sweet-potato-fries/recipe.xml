@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-fries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; medium sweet potato </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 tablespoon ; fresh rosemary, chopped </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; freshly ground black pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29433/low_1492463441.m3u8</low>
+    <high>https://vid.tasty.co/output/29433/mp4_720x1280/1492463441</high>
+  </video>
+  <duration>
+    <start_time>18.0</start_time>
+    <end_time>42.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425ºF/220ºC. </step>
+    <step num="1">Slice the ends off of the sweet potato and then slice it in half. Take one half and slice it horizontally 4 times then slice vertically 4 times to cut into fries. </step>
+    <step num="2">In a large bowl mix fries and ingredients until evenly spread. </step>
+    <step num="3">Place fries on a prepared baking sheet and bake for 25 minutes or until fluffy inside and crunchy on the outside. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425ºF/220ºC. </steps_updated>
+    <steps_updated num="1">Slice the ends off of the sweet potato and then slice it in half. </steps_updated>
+    <steps_updated num="2">Take one half and slice it horizontally 4 times then slice vertically 4 times to cut into fries. </steps_updated>
+    <steps_updated num="3">In a large bowl mix fries and ingredients until evenly spread. </steps_updated>
+    <steps_updated num="4">Place fries on a prepared baking sheet and bake for 25 minutes or until fluffy inside and crunchy on the outside. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00594</start_time>
+    <end_time>01273</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggs Benedict With Spinach Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggs-benedict-with-spinach</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/eggs-benedict-brunch-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; english muffin </ingredient>
+    <ingredient num="1">1 tablespoon ; butter </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="4">1 cup ; fresh spinach ; (40 g) </ingredient>
+    <ingredient num="5">2 pieces ; canadian bacon </ingredient>
+    <ingredient num="6">chives </ingredient>
+    <ingredient num="7">2 ; egg yolks </ingredient>
+    <ingredient num="8">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="9">1 teaspoon ; salt </ingredient>
+    <ingredient num="10">1 pinch ; cayenne </ingredient>
+    <ingredient num="11">½ cup ; butter, melted ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21672/low_1485207867.m3u8</low>
+    <high>https://vid.tasty.co/output/21672/mp4_720x1280/1485207867</high>
+  </video>
+  <duration>
+    <start_time>29.0</start_time>
+    <end_time>68.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">In a sauté pan, heat the olive oil and add the spinach and a pinch of salt. Sauté until wilted. Set aside. </step>
+    <step num="2">Butter the English muffin and toast in the oven for 5-10 minutes or until brown. </step>
+    <step num="3">Heat a pot of water over medium heat. With a wooden spoon, swirl the water in the same direction. </step>
+    <step num="4">Quickly add the egg into the center of the swirling water, cover, and cook for 3-5 minutes or until egg white is set and yolk is still runny. </step>
+    <step num="5">Remove egg from water with a slotted spoon and set aside. </step>
+    <step num="6">In a blender, add the egg yolks and pulse for one minute. Add in the lemon juice, salt, and cayenne and run the blender. Slowly add in the melted butter and continue to blend until the mixture lightens in color. Add more melted butter for thinner consistency. </step>
+    <step num="7">Assemble the Benedict by layering the english muffin with the bacon, spinach, poached egg, and hollandaise sauce. </step>
+    <step num="8">Top with fresh chives. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">In a sauté pan, heat the olive oil and add the spinach and a pinch of salt. </steps_updated>
+    <steps_updated num="2">Sauté until wilted. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">Butter the English muffin and toast in the oven for 5-10 minutes or until brown. </steps_updated>
+    <steps_updated num="5">Heat a pot of water over medium heat. </steps_updated>
+    <steps_updated num="6">With a wooden spoon, swirl the water in the same direction. </steps_updated>
+    <steps_updated num="7">Quickly add the egg into the center of the swirling water, cover, and cook for 3-5 minutes or until egg white is set and yolk is still runny. </steps_updated>
+    <steps_updated num="8">Remove egg from water with a slotted spoon and set aside. </steps_updated>
+    <steps_updated num="9">In a blender, add the egg yolks and pulse for one minute. </steps_updated>
+    <steps_updated num="10">Add in the lemon juice, salt, and cayenne and run the blender. </steps_updated>
+    <steps_updated num="11">Slowly add in the melted butter and continue to blend until the mixture lightens in color. </steps_updated>
+    <steps_updated num="12">Add more melted butter for thinner consistency. </steps_updated>
+    <steps_updated num="13">Assemble the Benedict by layering the english muffin with the bacon, spinach, poached egg, and hollandaise sauce. </steps_updated>
+    <steps_updated num="14">Top with fresh chives. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00901</start_time>
+    <end_time>02060</end_time>
+  </duration_human>
+</recipe>

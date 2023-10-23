@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Nigerian Beef Stew Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nigerian-beef-stew</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; plum tomatoes, chopped, divided </ingredient>
+    <ingredient num="1">2 ; red bell peppers, chopped </ingredient>
+    <ingredient num="2">½ ; red onion, chopped </ingredient>
+    <ingredient num="3">½ ; red onion, sliced </ingredient>
+    <ingredient num="4">2 ; habanero peppers, chopped </ingredient>
+    <ingredient num="5">6 cloves ; garlic </ingredient>
+    <ingredient num="6">12 oz ; tomato paste ; (340 g) </ingredient>
+    <ingredient num="7">1 tablespoon ; salt, plus 1 teaspoon salt, divided </ingredient>
+    <ingredient num="8">1 ½ teaspoons ; black pepper, divided </ingredient>
+    <ingredient num="9">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="10">1 cup ; vegetable oil ; (240 mL) </ingredient>
+    <ingredient num="11">1 ½ lb ; flank steak, cut into strips ; (680 g) </ingredient>
+    <ingredient num="12">1 teaspoon ; fresh rosemary </ingredient>
+    <ingredient num="13">1 teaspoon ; paprika </ingredient>
+    <ingredient num="14">1 teaspoon ; curry powder </ingredient>
+    <ingredient num="15">2 cubes ; beef bouillon </ingredient>
+    <ingredient num="16">1 ; bay leaf </ingredient>
+    <ingredient num="17">white rice, cooked, for serving </ingredient>
+    <ingredient num="18">fried plantain, for serving </ingredient>
+    <ingredient num="19">scallion, for serving </ingredient>
+    <ingredient num="20">fresh parsley, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81236/hls24_1519679958.m3u8</low>
+    <high>https://vid.tasty.co/output/81236/landscape_720/1519679958</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor or blender, combine 4 chopped plum tomatoes, red bell peppers, chopped red onion, habanero peppers, garlic cloves, tomato paste, 1 tablespoon salt, 1 teaspoon pepper, and water. Puree until smooth. </step>
+    <step num="1">Heat vegetable oil in a large pot over medium-high heat. </step>
+    <step num="2">Add the remaining tomato, sliced onion, remaining salt, and remaining pepper. Sauté until fragrant. </step>
+    <step num="3">Add steak, rosemary, paprika, curry powder, and bullion cubes. Cook until the steak is golden brown and cooked through, about 10 minutes. </step>
+    <step num="4">Add the blended tomato and pepper mixture and the bay leaf. </step>
+    <step num="5">Bring to a boil over high heat. Cover and simmer at low heat for 20 minutes, until the stew has thickened. </step>
+    <step num="6">Fish out the bay leaf. </step>
+    <step num="7">Remove stew from heat and let sit 10 minutes. </step>
+    <step num="8">Serve with white rice and fried plantains. Garnish with scallions and parsley, if desired. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor or blender, combine 4 chopped plum tomatoes, red bell peppers, chopped red onion, habanero peppers, garlic cloves, tomato paste, 1 tablespoon salt, 1 teaspoon pepper, and water. </steps_updated>
+    <steps_updated num="1">Puree until smooth. </steps_updated>
+    <steps_updated num="2">Heat vegetable oil in a large pot over medium-high heat. </steps_updated>
+    <steps_updated num="3">Add the remaining tomato, sliced onion, remaining salt, and remaining pepper. </steps_updated>
+    <steps_updated num="4">Sauté until fragrant. </steps_updated>
+    <steps_updated num="5">Add steak, rosemary, paprika, curry powder, and bullion cubes. </steps_updated>
+    <steps_updated num="6">Cook until the steak is golden brown and cooked through, about 10 minutes. </steps_updated>
+    <steps_updated num="7">Add the blended tomato and pepper mixture and the bay leaf. </steps_updated>
+    <steps_updated num="8">Bring to a boil over high heat. </steps_updated>
+    <steps_updated num="9">Cover and simmer at low heat for 20 minutes, until the stew has thickened. </steps_updated>
+    <steps_updated num="10">Fish out the bay leaf. </steps_updated>
+    <steps_updated num="11">Remove stew from heat and let sit 10 minutes. </steps_updated>
+    <steps_updated num="12">Serve with white rice and fried plantains. </steps_updated>
+    <steps_updated num="13">Garnish with scallions and parsley, if desired. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

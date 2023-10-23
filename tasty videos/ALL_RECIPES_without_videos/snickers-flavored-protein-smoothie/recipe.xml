@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Snickers-flavored Protein Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snickers-flavored-protein-smoothie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; plain greek yogurt ; (140 g) </ingredient>
+    <ingredient num="1">½ cup ; almond milk ; (120 mL) </ingredient>
+    <ingredient num="2">⅓ cup ; chocolate protein powder ; (60 g) </ingredient>
+    <ingredient num="3">¼ cup ; creamy peanut butter ; (60 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; unsweetened cocoa powder </ingredient>
+    <ingredient num="5">2 teaspoons ; sugar-free caramel syrup </ingredient>
+    <ingredient num="6">1 ½ cups ; ice, more if you want thicker consistency ; (210 g) </ingredient>
+    <ingredient num="7">sugar-free caramel syrup, for drizzle, as desired </ingredient>
+    <ingredient num="8">sugar-free chocolate syrup, to taste </ingredient>
+    <ingredient num="9">peanuts, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31919/low_1495124920.m3u8</low>
+    <high>https://vid.tasty.co/output/31919/mp4_720x1280/1495124920</high>
+  </video>
+  <steps>
+    <step num="0">Add Plain Greek Yogurt. </step>
+    <step num="1">Add almond milk. </step>
+    <step num="2">Add chocolate protein powder. </step>
+    <step num="3">Add creamy peanut butter. </step>
+    <step num="4">Add unsweetened cocoa powder. </step>
+    <step num="5">Add sugar-free caramel syrup. </step>
+    <step num="6">Add ice (add more for thicker consistency). Process until well pureed. </step>
+    <step num="7">Feel free to top off the smoothie with peanuts, caramel syrup, and chocolate syrup to taste. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add Plain Greek Yogurt. </steps_updated>
+    <steps_updated num="1">Add almond milk. </steps_updated>
+    <steps_updated num="2">Add chocolate protein powder. </steps_updated>
+    <steps_updated num="3">Add creamy peanut butter. </steps_updated>
+    <steps_updated num="4">Add unsweetened cocoa powder. </steps_updated>
+    <steps_updated num="5">Add sugar-free caramel syrup. </steps_updated>
+    <steps_updated num="6">Add ice (add more for thicker consistency). </steps_updated>
+    <steps_updated num="7">Process until well pureed. </steps_updated>
+    <steps_updated num="8">Feel free to top off the smoothie with peanuts, caramel syrup, and chocolate syrup to taste. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

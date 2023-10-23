@@ -1,0 +1,41 @@
+<recipe>
+  <title>Frozen Irish Coffee Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-irish-coffee</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 12882 13584 14109 13046 13278 6901 5981 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 6702 13033 13278 12067 8007 </ingredient>
+    <ingredient num="2">13086 643 13278 270 12706 13278 585 8007 </ingredient>
+    <ingredient num="3">3917 8945 13278 13826 5335 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Drinks</category>
+    <category num="4">Happy Hour</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26805/low_1489767530.m3u8</low>
+    <high>https://vid.tasty.co/output/26805/mp4_720x1280/1489767530</high>
+  </video>
+  <steps>
+    <step num="0">1083 7988 669 2439 8100 13817 3463 </step>
+    <step num="1">1083 6702 13033 669 2439 8100 13817 3463 </step>
+    <step num="2">14006 11951 374 6702 13033 13817 817 5292 </step>
+    <step num="3">12946 4061 4530 371 11579 7988 13817 3345 210 5994 6212 740 14296 643 12706 13817 1279 1681 8911 </step>
+    <step num="4">9179 8580 4530 371 11579 6702 13033 13817 3917 14014 371 13826 5101 </step>
+    <step num="5">13494 1391 12073 13033 13817 13630 1391 3954 9769 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1083 7988 669 2439 8100 13817 3463 </steps_updated>
+    <steps_updated num="1">1083 6702 13033 669 2439 8100 13817 3463 </steps_updated>
+    <steps_updated num="2">14006 11951 374 6702 13033 13817 817 5292 </steps_updated>
+    <steps_updated num="3">12946 4061 4530 371 11579 7988 13817 3345 210 5994 6212 740 14296 643 12706 13817 1279 1681 8911 </steps_updated>
+    <steps_updated num="4">9179 8580 4530 371 11579 6702 13033 13817 3917 14014 371 13826 5101 </steps_updated>
+    <steps_updated num="5">13494 1391 12073 13033 13817 13630 1391 3954 9769 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

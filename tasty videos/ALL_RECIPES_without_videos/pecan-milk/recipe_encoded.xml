@@ -1,0 +1,53 @@
+<recipe>
+  <title>Pecan Milk Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pecan-milk</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-make-nut-milk</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12188 8175 13278 9373 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="2">3917 14014 13278 9586 </ingredient>
+    <ingredient num="3">3917 2157 13278 82 </ingredient>
+    <ingredient num="4">3917 14014 13278 4384 9053 11703 </ingredient>
+    <ingredient num="5">11061 9517 13278 12282 13278 4845 1767 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27158/low_1490200284.m3u8</low>
+    <high>https://vid.tasty.co/output/27158/mp4_720x1280/1490200284</high>
+  </video>
+  <duration>
+    <start_time>75.45</start_time>
+    <end_time>106.669</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 12221 12188 11750 210 8580 9517 1281 9443 371 12282 14490 </step>
+    <step num="1">11720 11951 12377 371 12282 13817 3345 11951 9169 210 5994 12095 </step>
+    <step num="2">9179 3917 14014 308 3917 14014 14240 12610 3917 14014 371 4384 10367 8117 13817 4061 9517 3798 9443 371 12282 560 11951 12095 </step>
+    <step num="3">3262 11951 2373 4255 8283 7990 5838 773 </step>
+    <step num="4">8431 5994 12434 560 1746 11951 881 669 5994 9352 1854 </step>
+    <step num="5">13518 173 6620 12721 5895 1966 7389 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 12221 12188 11750 210 8580 9517 1281 9443 371 12282 14490 </steps_updated>
+    <steps_updated num="1">11720 11951 12377 371 12282 13817 3345 11951 9169 210 5994 12095 </steps_updated>
+    <steps_updated num="2">9179 3917 14014 308 3917 14014 14240 12610 3917 14014 371 4384 10367 8117 13817 4061 9517 3798 9443 371 12282 560 11951 12095 </steps_updated>
+    <steps_updated num="3">3262 11951 2373 4255 8283 7990 5838 773 </steps_updated>
+    <steps_updated num="4">8431 5994 12434 560 1746 11951 881 669 5994 9352 1854 </steps_updated>
+    <steps_updated num="5">13518 173 6620 12721 5895 1966 7389 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02286</start_time>
+    <end_time>03208</end_time>
+  </duration_human>
+</recipe>

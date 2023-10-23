@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 cups ; water ; (1.5 L) </ingredient>
+    <ingredient num="1">1 head ; cauliflower florets </ingredient>
+    <ingredient num="2">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="3">2 tablespoons ; butter </ingredient>
+    <ingredient num="4">1 clove ; garlic </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">1 lb ; cooked pasta ; (455 g) </ingredient>
+    <ingredient num="8">vegetarian parmesan cheese, to serve </ingredient>
+    <ingredient num="9">fresh parsley, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43955/low_1500416856.m3u8</low>
+    <high>https://vid.tasty.co/output/43955/mp4_720x1280/1500416856</high>
+  </video>
+  <steps>
+    <step num="0">Boil the water over medium high heat. Add a large pinch of salt. </step>
+    <step num="1">Add the cauliflower florets. </step>
+    <step num="2">Cover the pot and boil for 5-7 minutes, or until cauliflower is soft. </step>
+    <step num="3">With a slotted spoon, add the cooked cauliflower to a blender. </step>
+    <step num="4">Add the milk, butter, garlic, salt, and pepper and blend until smooth. </step>
+    <step num="5">Toss the cooked pasta with cauliflower alfredo. </step>
+    <step num="6">Serve topped with parmesan, and parsley. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Boil the water over medium high heat. </steps_updated>
+    <steps_updated num="1">Add a large pinch of salt. </steps_updated>
+    <steps_updated num="2">Add the cauliflower florets. </steps_updated>
+    <steps_updated num="3">Cover the pot and boil for 5-7 minutes, or until cauliflower is soft. </steps_updated>
+    <steps_updated num="4">With a slotted spoon, add the cooked cauliflower to a blender. </steps_updated>
+    <steps_updated num="5">Add the milk, butter, garlic, salt, and pepper and blend until smooth. </steps_updated>
+    <steps_updated num="6">Toss the cooked pasta with cauliflower alfredo. </steps_updated>
+    <steps_updated num="7">Serve topped with parmesan, and parsley. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

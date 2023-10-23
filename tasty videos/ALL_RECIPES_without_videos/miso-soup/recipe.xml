@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Miso Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/miso-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">7 oz ; tofu ; (200 g) </ingredient>
+    <ingredient num="1">½ cup ; snow pea ; (75 g) </ingredient>
+    <ingredient num="2">2 oz ; enoki mushroom ; (55 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; dashi ; (360 mL) </ingredient>
+    <ingredient num="4">2 tablespoons ; miso </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>99.0</start_time>
+    <end_time>152.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Using extreme caution, cut the tofu into cubes, trim snow peas. Cut mushroom ends </step>
+    <step num="1">In a medium size saucepan, Add dashi and bring it to a boil. Add tofu, snow peas, and enoki, for 3 minutes. </step>
+    <step num="2">Turn of the heat. In a small dish, place miso. Add a small amount of dashi and dissolve the miso. Pour over dissolved miso into the pot. Turn back the heat and warm up the soup, right before it boils. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using extreme caution, cut the tofu into cubes, trim snow peas. </steps_updated>
+    <steps_updated num="1">Cut mushroom ends </steps_updated>
+    <steps_updated num="2">In a medium size saucepan, Add dashi and bring it to a boil. </steps_updated>
+    <steps_updated num="3">Add tofu, snow peas, and enoki, for 3 minutes. </steps_updated>
+    <steps_updated num="4">Turn of the heat. </steps_updated>
+    <steps_updated num="5">In a small dish, place miso. </steps_updated>
+    <steps_updated num="6">Add a small amount of dashi and dissolve the miso. </steps_updated>
+    <steps_updated num="7">Pour over dissolved miso into the pot. </steps_updated>
+    <steps_updated num="8">Turn back the heat and warm up the soup, right before it boils. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

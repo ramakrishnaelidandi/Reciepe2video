@@ -1,0 +1,68 @@
+<recipe>
+  <title>Tornado Sweet Potato Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tornado-sweet-potato</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 10882 13233 </ingredient>
+    <ingredient num="1">8580 9486 13278 10907 5335 13278 1258 5981 </ingredient>
+    <ingredient num="2">9883 2605 13278 8597 109 14538 13278 7005 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="4">3917 8071 13278 3170 </ingredient>
+    <ingredient num="5">3917 8071 13278 9496 </ingredient>
+    <ingredient num="6">3917 8071 13278 13389 11703 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29433/low_1492463441.m3u8</low>
+    <high>https://vid.tasty.co/output/29433/mp4_720x1280/1492463441</high>
+  </video>
+  <duration>
+    <start_time>40.5</start_time>
+    <end_time>83.033</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 5281 13018 </step>
+    <step num="1">12946 13233 13817 12753 3755 4255 8554 10860 1391 5994 11206 6688 7990 6865 12689 </step>
+    <step num="2">309 5994 12295 12355 1391 5766 13817 12634 11951 12355 7492 11951 12136 371 11951 6914 </step>
+    <step num="3">11759 5994 4852 7497 5668 7811 2237 7086 13817 7777 7492 11951 12459 371 11951 2868 1681 3557 9290 11951 12295 2906 2039 1077 11951 2868 560 7777 573 11951 12136 371 3557 13817 1978 5994 12271 </step>
+    <step num="4">11982 10130 2696 11951 2868 573 11951 12136 371 11951 7904 1681 1762 11628 2237 5422 1992 8830 11951 8535 6028 11951 12271 </step>
+    <step num="5">11881 11951 2868 1391 5335 14057 </step>
+    <step num="6">10950 5994 13757 14511 4120 374 295 </step>
+    <step num="7">9919 11951 5316 2373 8554 11770 11951 2868 1681 3557 9490 11680 229 </step>
+    <step num="8">6117 11951 2413 13233 11770 5994 10765 5687 5833 11951 6237 14370 11951 2868 11770 11951 551 371 11951 10590 </step>
+    <step num="9">7831 7990 7562 11004 5895 1681 9861 506 </step>
+    <step num="10">13688 1391 3274 109 13817 13012 </step>
+    <step num="11">12251 560 10694 7990 2933 12689 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5281 13018 </steps_updated>
+    <steps_updated num="1">12946 13233 13817 12753 3755 4255 8554 10860 1391 5994 11206 </steps_updated>
+    <steps_updated num="2">6688 7990 6865 12689 </steps_updated>
+    <steps_updated num="3">309 5994 12295 12355 1391 5766 13817 12634 11951 12355 7492 11951 12136 371 11951 6914 </steps_updated>
+    <steps_updated num="4">11759 5994 4852 7497 5668 7811 2237 7086 13817 7777 7492 11951 12459 371 11951 2868 1681 3557 9290 11951 12295 2906 </steps_updated>
+    <steps_updated num="5">2039 1077 11951 2868 560 7777 573 11951 12136 371 3557 13817 1978 5994 12271 </steps_updated>
+    <steps_updated num="6">11982 10130 2696 11951 2868 573 11951 12136 371 11951 7904 1681 1762 11628 2237 5422 1992 8830 11951 8535 6028 11951 12271 </steps_updated>
+    <steps_updated num="7">11881 11951 2868 1391 5335 14057 </steps_updated>
+    <steps_updated num="8">10950 5994 13757 14511 4120 374 295 </steps_updated>
+    <steps_updated num="9">9919 11951 5316 2373 8554 11770 11951 2868 1681 3557 9490 11680 229 </steps_updated>
+    <steps_updated num="10">6117 11951 2413 13233 11770 5994 10765 5687 5833 11951 6237 14370 11951 2868 11770 11951 551 371 11951 10590 </steps_updated>
+    <steps_updated num="11">7831 7990 7562 11004 5895 1681 9861 506 </steps_updated>
+    <steps_updated num="12">13688 1391 3274 109 13817 13012 </steps_updated>
+    <steps_updated num="13">12251 560 10694 7990 2933 12689 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01274</start_time>
+    <end_time>02495</end_time>
+  </duration_human>
+</recipe>

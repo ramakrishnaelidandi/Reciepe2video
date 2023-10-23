@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Goat Cheese And Rosemary Mashed Butternut Squash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/goat-cheese-and-rosemary-mashed-butternut-squash</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/butternut-squash-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ lb ; butternut squash, peeled, seeds removed, and cubed ; (680 g) </ingredient>
+    <ingredient num="1">3 oz ; goat cheese ; (85 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; milk </ingredient>
+    <ingredient num="3">1 tablespoon ; fresh rosemary, minced </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">black pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60419/low_1510077086.m3u8</low>
+    <high>https://vid.tasty.co/output/60419/mp4_720x1280/1510077086</high>
+  </video>
+  <duration>
+    <start_time>133.21</start_time>
+    <end_time>162.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add butternut squash to large pot of boiling water. Cook until fork-tender, 10-15 minutes. </step>
+    <step num="1">Drain the squash in a colander and add back to the pot. </step>
+    <step num="2">Add in the goat cheese, milk, rosemary, salt, and pepper. Mash until desired consistency is reached. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add butternut squash to large pot of boiling water. </steps_updated>
+    <steps_updated num="1">Cook until fork-tender, 10-15 minutes. </steps_updated>
+    <steps_updated num="2">Drain the squash in a colander and add back to the pot. </steps_updated>
+    <steps_updated num="3">Add in the goat cheese, milk, rosemary, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Mash until desired consistency is reached. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04054</start_time>
+    <end_time>04882</end_time>
+  </duration_human>
+</recipe>

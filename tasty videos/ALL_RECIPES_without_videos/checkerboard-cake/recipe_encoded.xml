@@ -1,0 +1,49 @@
+<recipe>
+  <title>Checkerboard Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/checkerboard-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 4680 625 3302 11852 4735 8387 1645 </ingredient>
+    <ingredient num="1">3917 13278 11091 625 3302 11852 4735 8387 1645 </ingredient>
+    <ingredient num="2">4680 10209 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50918/low_1504289906.m3u8</low>
+    <high>https://vid.tasty.co/output/50918/mp4_720x1280/1504289906</high>
+  </video>
+  <steps>
+    <step num="0">3235 11951 10707 371 6697 12618 560 3535 5994 7868 9061 </step>
+    <step num="1">14100 6697 12618 210 2532 2317 560 3535 12645 2372 </step>
+    <step num="2">5570 5994 2192 4157 4255 10707 371 11951 14124 13817 7777 5412 560 3535 5994 4127 10783 </step>
+    <step num="3">5570 5994 13426 210 11951 8365 371 11951 14124 13817 7777 5412 560 3535 2237 5422 4127 10783 </step>
+    <step num="4">11547 11951 3859 11826 5569 8072 11951 8459 4680 4804 4255 5994 4157 5895 14124 13756 7621 11951 5116 11091 14124 4804 13817 415 11951 11319 4680 14124 5669 </step>
+    <step num="5">7185 11951 14124 1391 5994 7497 11826 371 10209 210 8830 10763 14614 </step>
+    <step num="6">8697 6028 10260 14174 11951 4910 4255 11951 14476 </step>
+    <step num="7">136 11951 8870 11826 11538 11951 887 14124 13817 10694 210 11951 7524 </step>
+    <step num="8">3235 13817 8956 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 10707 371 6697 12618 560 3535 5994 7868 9061 </steps_updated>
+    <steps_updated num="1">14100 6697 12618 210 2532 2317 560 3535 12645 2372 </steps_updated>
+    <steps_updated num="2">5570 5994 2192 4157 4255 10707 371 11951 14124 13817 7777 5412 560 3535 5994 4127 10783 </steps_updated>
+    <steps_updated num="3">5570 5994 13426 210 11951 8365 371 11951 14124 13817 7777 5412 560 3535 2237 5422 4127 10783 </steps_updated>
+    <steps_updated num="4">11547 11951 3859 11826 5569 8072 11951 8459 4680 4804 4255 5994 4157 5895 14124 13756 </steps_updated>
+    <steps_updated num="5">7621 11951 5116 11091 14124 4804 13817 415 11951 11319 4680 14124 5669 </steps_updated>
+    <steps_updated num="6">7185 11951 14124 1391 5994 7497 11826 371 10209 210 8830 10763 14614 </steps_updated>
+    <steps_updated num="7">8697 6028 10260 14174 11951 4910 4255 11951 14476 </steps_updated>
+    <steps_updated num="8">136 11951 8870 11826 11538 11951 887 14124 13817 10694 210 11951 7524 </steps_updated>
+    <steps_updated num="9">3235 13817 8956 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

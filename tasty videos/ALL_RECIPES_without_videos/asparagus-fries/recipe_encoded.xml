@@ -1,0 +1,69 @@
+<recipe>
+  <title>Asparagus Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/asparagus-fries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-fries-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 575 13278 13727 </ingredient>
+    <ingredient num="1">3917 2605 13278 9550 3962 13278 9018 5981 </ingredient>
+    <ingredient num="2">1813 2605 13278 109 14538 13278 4239 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 11384 11703 </ingredient>
+    <ingredient num="4">8580 9486 13278 796 5616 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">3917 8071 13278 7845 </ingredient>
+    <ingredient num="7">8580 13278 12708 </ingredient>
+    <ingredient num="8">3917 2605 13278 12347 9767 3713 13278 13113 5981 </ingredient>
+    <ingredient num="9">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="10">8580 9486 13278 3938 </ingredient>
+    <ingredient num="11">12791 8071 13278 82 </ingredient>
+    <ingredient num="12">12791 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Sides</category>
+    <category num="7">Snacks</category>
+    <category num="8">Date Night</category>
+    <category num="9">Game Day</category>
+    <category num="10">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17783/low_1481738771.m3u8</low>
+    <high>https://vid.tasty.co/output/17783/mp4_720x1280/1481738771</high>
+  </video>
+  <duration>
+    <start_time>84.0</start_time>
+    <end_time>100.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">14100 3482 6285 6620 4735 3608 1645 371 13727 7211 2257 5292 </step>
+    <step num="2">10950 5994 2597 12377 4120 5614 13969 11493 11384 8117 11227 12610 13817 12375 </step>
+    <step num="3">283 12708 210 5994 10067 12377 5895 6325 </step>
+    <step num="4">2668 13727 210 14463 13715 12811 13817 415 1686 1391 11951 5614 638 10665 </step>
+    <step num="5">5570 4255 5994 10765 213 10926 1391 3550 12 210 5994 3622 14614 7831 7990 666 11004 9309 14640 </step>
+    <step num="6">10346 10852 3343 6637 12573 3685 10895 8554 10852 11907 210 5994 2192 12377 13817 817 10261 210 11951 7111 1681 12550 560 14318 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">14100 3482 6285 6620 4735 3608 1645 371 13727 7211 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">10950 5994 2597 12377 4120 5614 13969 11493 11384 8117 11227 12610 13817 12375 </steps_updated>
+    <steps_updated num="4">283 12708 210 5994 10067 12377 5895 6325 </steps_updated>
+    <steps_updated num="5">2668 13727 210 14463 13715 12811 13817 415 1686 1391 11951 5614 638 10665 </steps_updated>
+    <steps_updated num="6">5570 4255 5994 10765 213 10926 1391 3550 12 210 5994 3622 14614 </steps_updated>
+    <steps_updated num="7">7831 7990 666 11004 9309 14640 </steps_updated>
+    <steps_updated num="8">10346 10852 3343 6637 12573 3685 </steps_updated>
+    <steps_updated num="9">10895 8554 10852 11907 210 5994 2192 12377 13817 817 10261 210 11951 7111 1681 12550 560 14318 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02507</start_time>
+    <end_time>03172</end_time>
+  </duration_human>
+</recipe>

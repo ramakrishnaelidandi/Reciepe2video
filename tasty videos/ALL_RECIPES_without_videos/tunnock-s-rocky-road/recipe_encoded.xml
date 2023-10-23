@@ -1,0 +1,43 @@
+<recipe>
+  <title>Tunnock's Rocky Road Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tunnock-s-rocky-road</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 13278 12696 8555 </ingredient>
+    <ingredient num="1">3917 12791 9517 13278 5802 4680 13278 6898 5981 </ingredient>
+    <ingredient num="2">13767 1580 643 13278 63 2279 3917 7210 13278 1513 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 9924 13278 1316 5981 </ingredient>
+    <ingredient num="4">4061 9486 13278 10963 6818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32084/low_1495125357.m3u8</low>
+    <high>https://vid.tasty.co/output/32084/mp4_720x1280/1495125357</high>
+  </video>
+  <steps>
+    <step num="0">3235 8694 8555 669 13523 13817 817 5292 </step>
+    <step num="1">3036 5675 210 13349 12854 13817 817 5292 </step>
+    <step num="2">12305 11951 10907 4680 13817 10963 6818 210 5994 12377 1526 11770 5994 5687 371 693 2019 </step>
+    <step num="3">1083 5675 13817 8555 669 11951 5335 4680 10968 13817 6142 6690 </step>
+    <step num="4">1083 669 5994 10926 7238 13817 173 7990 8580 14329 </step>
+    <step num="5">3235 669 4345 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 8694 8555 669 13523 13817 817 5292 </steps_updated>
+    <steps_updated num="1">3036 5675 210 13349 12854 13817 817 5292 </steps_updated>
+    <steps_updated num="2">12305 11951 10907 4680 13817 10963 6818 210 5994 12377 1526 11770 5994 5687 371 693 2019 </steps_updated>
+    <steps_updated num="3">1083 5675 13817 8555 669 11951 5335 4680 10968 13817 6142 6690 </steps_updated>
+    <steps_updated num="4">1083 669 5994 10926 7238 13817 173 7990 8580 14329 </steps_updated>
+    <steps_updated num="5">3235 669 4345 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

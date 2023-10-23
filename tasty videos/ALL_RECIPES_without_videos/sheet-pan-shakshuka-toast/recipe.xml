@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet-Pan Shakshuka Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-pan-shakshuka-toast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9 slices ; whole wheat bread </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">1 ; large white onion, diced </ingredient>
+    <ingredient num="3">2 ; red bell peppers, seeded and diced </ingredient>
+    <ingredient num="4">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="5">2 teaspoons ; salt, plus more taste </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper, plus more to taste </ingredient>
+    <ingredient num="7">1 teaspoon ; cumin </ingredient>
+    <ingredient num="8">1 teaspoon ; paprika </ingredient>
+    <ingredient num="9">½ teaspoon ; cayenne </ingredient>
+    <ingredient num="10">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="11">28 oz ; chopped tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="12">9 ; large eggs </ingredient>
+    <ingredient num="13">½ cup ; fresh parsley, chopped, for garnish ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Middle Eastern</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/104499/hls24_1533660454.m3u8</low>
+    <high>https://vid.tasty.co/output/104499/landscape_720/1533660454</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). Set a wire rack over a baking sheet. </step>
+    <step num="1">Arrange the bread slices on the wire rack, then bake for 8 minutes, until slightly toasted. </step>
+    <step num="2">Heat the olive oil in a large cast-iron skillet over high heat. Add the onion and cook for 5 minutes, until softened. </step>
+    <step num="3">Add the red pepper and cook for 5 minutes, or until softened. </step>
+    <step num="4">Add the garlic, salt, pepper, cumin, paprika, cayenne, chili powder, and tomatoes. Stir occasionally for 15 minutes, or until thickened. </step>
+    <step num="5">Spoon the shakshuka sauce onto the bread. Spread evenly. </step>
+    <step num="6">Make a small well in the center of the sauce on each slice of bread. Carefully add an egg to each well. </step>
+    <step num="7">Season the eggs with salt and pepper. </step>
+    <step num="8">Bake for 20 minutes, or until the egg whites are set and the yolks are cooked to your liking. </step>
+    <step num="9">Sprinkle with chopped parsley and serve warm. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Set a wire rack over a baking sheet. </steps_updated>
+    <steps_updated num="2">Arrange the bread slices on the wire rack, then bake for 8 minutes, until slightly toasted. </steps_updated>
+    <steps_updated num="3">Heat the olive oil in a large cast-iron skillet over high heat. </steps_updated>
+    <steps_updated num="4">Add the onion and cook for 5 minutes, until softened. </steps_updated>
+    <steps_updated num="5">Add the red pepper and cook for 5 minutes, or until softened. </steps_updated>
+    <steps_updated num="6">Add the garlic, salt, pepper, cumin, paprika, cayenne, chili powder, and tomatoes. </steps_updated>
+    <steps_updated num="7">Stir occasionally for 15 minutes, or until thickened. </steps_updated>
+    <steps_updated num="8">Spoon the shakshuka sauce onto the bread. </steps_updated>
+    <steps_updated num="9">Spread evenly. </steps_updated>
+    <steps_updated num="10">Make a small well in the center of the sauce on each slice of bread. </steps_updated>
+    <steps_updated num="11">Carefully add an egg to each well. </steps_updated>
+    <steps_updated num="12">Season the eggs with salt and pepper. </steps_updated>
+    <steps_updated num="13">Bake for 20 minutes, or until the egg whites are set and the yolks are cooked to your liking. </steps_updated>
+    <steps_updated num="14">Sprinkle with chopped parsley and serve warm. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,68 @@
+<recipe>
+  <title>Carnitas Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carnitas-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/keto-dinner-featuring-satay-beef-skewers-yellow-squash-lasagna-and-more</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 715 13278 5234 10196 13278 4845 10482 </ingredient>
+    <ingredient num="1">3917 14014 13278 3855 82 </ingredient>
+    <ingredient num="2">3917 14014 13278 7845 </ingredient>
+    <ingredient num="3">1580 2605 13278 4168 5766 </ingredient>
+    <ingredient num="4">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="6">3917 8071 13278 11088 3170 </ingredient>
+    <ingredient num="7">3917 13278 13063 14252 </ingredient>
+    <ingredient num="8">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="9">3917 13278 13757 4617 12384 11588 3962 </ingredient>
+    <ingredient num="10">1580 2605 13278 9712 10522 13278 2935 8007 </ingredient>
+    <ingredient num="11">1580 2605 13278 13956 10522 13278 2935 8007 </ingredient>
+    <ingredient num="12">8580 9517 13278 7983 547 13278 4551 8007 </ingredient>
+    <ingredient num="13">11061 9517 13278 13592 3117 13278 10952 5981 </ingredient>
+    <ingredient num="14">3917 2605 13278 3333 11021 13278 7289 5981 </ingredient>
+    <ingredient num="15">3917 2605 13278 3183 13278 7642 5981 </ingredient>
+    <ingredient num="16">3917 2605 13278 13584 6143 13278 8118 5981 </ingredient>
+    <ingredient num="17">468 341 </ingredient>
+    <ingredient num="18">3948 371 4399 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/120182/hls24_1545074526.m3u8</low>
+    <high>https://vid.tasty.co/output/120182/landscape_720/1545074526</high>
+  </video>
+  <duration>
+    <start_time>153.0</start_time>
+    <end_time>229.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 12616 11951 5234 1391 82 13817 12375 7643 1681 10681 </step>
+    <step num="1">8889 11951 4168 5766 210 5994 12010 10439 11770 8283 7855 7990 2933 11004 1681 12726 4527 </step>
+    <step num="2">153 210 3997 11636 11951 5234 4255 10763 11801 7990 3917 6560 1681 5994 1368 1547 11836 </step>
+    <step num="3">9179 8554 371 11951 5234 560 11951 10083 1391 11951 13389 8117 11227 2670 13063 6638 4155 13817 12034 7643 560 1011 9179 11951 9712 7654 13956 7654 13817 7983 9 7791 2864 11951 7855 560 2520 13817 2550 1681 11951 3061 9490 1910 3917 5664 </step>
+    <step num="4">6054 11951 5234 6781 11951 10083 13817 3781 10104 8580 11326 1828 11951 2236 10694 7990 13767 12689 </step>
+    <step num="5">10950 5994 2597 14511 4120 11951 13592 5550 7376 8445 12655 13584 13829 13817 2214 7643 3631 9179 3948 5358 13 </step>
+    <step num="6">877 8830 12238 13817 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 12616 11951 5234 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="1">7643 1681 10681 </steps_updated>
+    <steps_updated num="2">8889 11951 4168 5766 210 5994 12010 10439 11770 8283 7855 7990 2933 11004 1681 12726 4527 </steps_updated>
+    <steps_updated num="3">153 210 3997 11636 11951 5234 4255 10763 11801 7990 3917 6560 1681 5994 1368 1547 11836 </steps_updated>
+    <steps_updated num="4">9179 8554 371 11951 5234 560 11951 10083 1391 11951 13389 8117 11227 2670 13063 6638 4155 13817 12034 </steps_updated>
+    <steps_updated num="5">7643 560 1011 </steps_updated>
+    <steps_updated num="6">9179 11951 9712 7654 13956 7654 13817 7983 9 </steps_updated>
+    <steps_updated num="7">7791 2864 11951 7855 560 2520 13817 2550 1681 11951 3061 9490 1910 3917 5664 </steps_updated>
+    <steps_updated num="8">6054 11951 5234 6781 11951 10083 13817 3781 10104 8580 11326 </steps_updated>
+    <steps_updated num="9">1828 11951 2236 10694 7990 13767 12689 </steps_updated>
+    <steps_updated num="10">10950 5994 2597 14511 4120 11951 13592 5550 7376 8445 12655 13584 13829 13817 2214 </steps_updated>
+    <steps_updated num="11">7643 3631 </steps_updated>
+    <steps_updated num="12">9179 3948 5358 13 </steps_updated>
+    <steps_updated num="13">877 8830 12238 13817 8956 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

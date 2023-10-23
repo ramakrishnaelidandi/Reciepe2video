@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Spaghetti And Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-spaghetti-and-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; onion, peeled and halved </ingredient>
+    <ingredient num="1">28 oz ; crushed tomato, 1 can ; (795 g) </ingredient>
+    <ingredient num="2">½ cup ; unsalted butter ; (115 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 lb ; ground pork ; (455 g) </ingredient>
+    <ingredient num="5">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="6">1 ; onion, finely chopped </ingredient>
+    <ingredient num="7">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">1 cup ; shredded parmesan cheese ; (100 g) </ingredient>
+    <ingredient num="9">1 cup ; panko breadcrumbs ; (50 g) </ingredient>
+    <ingredient num="10">¾ cup ; fresh parsley, finely chopped ; (25 g) </ingredient>
+    <ingredient num="11">2 tablespoons ; worcestershire </ingredient>
+    <ingredient num="12">1 ; egg </ingredient>
+    <ingredient num="13">2 teaspoons ; salt </ingredient>
+    <ingredient num="14">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="15">1 lb ; spaghetti ; (455 g) </ingredient>
+    <ingredient num="16">parmesan cheese, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48663/low_1503427916.m3u8</low>
+    <high>https://vid.tasty.co/output/48663/mp4_720x1280/1503427916</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="1">Add the crushed tomatoes, butter, onion, and salt to a pot and bring to a simmer over medium heat. </step>
+    <step num="2">Lower the heat and cook for 45 minutes, until the onions are soft and starting to break apart. Remove onion. </step>
+    <step num="3">In a bowl, mix the ground beef, ground pork, panko, Parmesan, egg, garlic, onion, Worcestershire, salt, pepper, and parsley until fully combined. </step>
+    <step num="4">Take a golf ball-sized handful of the meat mixture and roll it into a ball. Transfer to a baking sheet. Repeat with the remaining meat. </step>
+    <step num="5">Bake the meatballs for 16 minutes. </step>
+    <step num="6">Bring a pot of water to a boil, and cook the spaghetti according to the packaging instructions. </step>
+    <step num="7">Drain pasta and toss lightly in about a tablespoon of oil (optional). </step>
+    <step num="8">Pour the sauce over the pasta. Transfer the cooked meatballs and top with Parmesan. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Add the crushed tomatoes, butter, onion, and salt to a pot and bring to a simmer over medium heat. </steps_updated>
+    <steps_updated num="2">Lower the heat and cook for 45 minutes, until the onions are soft and starting to break apart. </steps_updated>
+    <steps_updated num="3">Remove onion. </steps_updated>
+    <steps_updated num="4">In a bowl, mix the ground beef, ground pork, panko, Parmesan, egg, garlic, onion, Worcestershire, salt, pepper, and parsley until fully combined. </steps_updated>
+    <steps_updated num="5">Take a golf ball-sized handful of the meat mixture and roll it into a ball. </steps_updated>
+    <steps_updated num="6">Transfer to a baking sheet. </steps_updated>
+    <steps_updated num="7">Repeat with the remaining meat. </steps_updated>
+    <steps_updated num="8">Bake the meatballs for 16 minutes. </steps_updated>
+    <steps_updated num="9">Bring a pot of water to a boil, and cook the spaghetti according to the packaging instructions. </steps_updated>
+    <steps_updated num="10">Drain pasta and toss lightly in about a tablespoon of oil (optional). </steps_updated>
+    <steps_updated num="11">Pour the sauce over the pasta. </steps_updated>
+    <steps_updated num="12">Transfer the cooked meatballs and top with Parmesan. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<recipe>
+  <title>Rainbow Crepe Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-crepe-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 9486 13278 10907 5335 </ingredient>
+    <ingredient num="1">13086 9517 13278 5802 13278 4492 8007 </ingredient>
+    <ingredient num="2">11061 13278 12708 </ingredient>
+    <ingredient num="3">8580 12791 9517 13278 890 13278 12922 5981 </ingredient>
+    <ingredient num="4">14058 9486 13278 4834 </ingredient>
+    <ingredient num="5">8083 8016 7781 </ingredient>
+    <ingredient num="6">13956 8016 7781 </ingredient>
+    <ingredient num="7">11091 8016 7781 </ingredient>
+    <ingredient num="8">4985 8016 7781 </ingredient>
+    <ingredient num="9">13204 8016 7781 </ingredient>
+    <ingredient num="10">10331 8016 7781 </ingredient>
+    <ingredient num="11">11061 9517 13278 279 13033 13278 1536 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46981/low_1502402055.m3u8</low>
+    <high>https://vid.tasty.co/output/46981/mp4_720x1280/1502402055</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 14511 8341 890 13817 8525 9393 210 14463 415 2692 10968 210 9924 13817 10383 9889 14174 8830 11951 8345 </step>
+    <step num="1">7427 4783 11951 4428 669 11061 7139 9179 5994 8631 667 371 8016 7781 560 10763 14511 13817 8341 1681 7568 10281 13817 11951 4428 9490 8528 </step>
+    <step num="2">12474 5994 9637 10060 11770 13757 14307 5406 1813 371 11951 10331 6159 3417 13817 1803 11951 5687 560 6506 11951 887 551 9061 264 11951 6159 10586 560 6183 4482 13817 2550 8180 415 2493 5362 1681 8554 371 11951 10263 9075 6159 4428 9490 12705 </step>
+    <step num="3">9338 3177 4255 10707 371 10763 5192 11695 1391 9047 415 6431 6249 11929 1379 13817 4554 1391 279 13033 8830 10763 14614 </step>
+    <step num="4">4660 11951 6159 14124 210 279 1123 5833 5312 10719 7568 4617 4255 11951 14476 </step>
+    <step num="5">5120 13817 8956 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 8341 890 13817 8525 </steps_updated>
+    <steps_updated num="1">9393 210 14463 415 2692 10968 210 9924 13817 10383 9889 14174 8830 11951 8345 </steps_updated>
+    <steps_updated num="2">7427 4783 11951 4428 669 11061 7139 </steps_updated>
+    <steps_updated num="3">9179 5994 8631 667 371 8016 7781 560 10763 14511 13817 8341 1681 7568 10281 13817 11951 4428 9490 8528 </steps_updated>
+    <steps_updated num="4">12474 5994 9637 10060 11770 13757 14307 5406 1813 371 11951 10331 6159 3417 13817 1803 11951 5687 560 6506 11951 887 551 9061 </steps_updated>
+    <steps_updated num="5">264 11951 6159 10586 560 6183 4482 13817 2550 8180 415 2493 </steps_updated>
+    <steps_updated num="6">5362 1681 8554 371 11951 10263 9075 6159 4428 9490 12705 </steps_updated>
+    <steps_updated num="7">9338 3177 4255 10707 371 10763 5192 11695 1391 9047 415 6431 6249 11929 1379 13817 4554 1391 279 13033 8830 10763 14614 </steps_updated>
+    <steps_updated num="8">4660 11951 6159 14124 210 279 1123 5833 5312 10719 7568 4617 4255 11951 14476 </steps_updated>
+    <steps_updated num="9">5120 13817 8956 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

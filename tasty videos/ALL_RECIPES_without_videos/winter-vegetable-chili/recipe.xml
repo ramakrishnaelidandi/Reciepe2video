@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Winter Vegetable Chili Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/winter-vegetable-chili</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">olive oil, to taste </ingredient>
+    <ingredient num="1">1 ; medium white onion, diced </ingredient>
+    <ingredient num="2">kosher salt, to taste </ingredient>
+    <ingredient num="3">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">2 cups ; parsnip, peeled and diced ; (450 g) </ingredient>
+    <ingredient num="5">3 cups ; butternut squash, peeled and diced ; (615 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; paprika </ingredient>
+    <ingredient num="7">2 teaspoons ; dried oregano </ingredient>
+    <ingredient num="8">2 teaspoons ; ground cumin </ingredient>
+    <ingredient num="9">¼ teaspoon ; allspice </ingredient>
+    <ingredient num="10">1 ½ teaspoons ; chipotle powder </ingredient>
+    <ingredient num="11">28 oz ; cannellini bean, drained ; (795 g) </ingredient>
+    <ingredient num="12">¼ cup ; fresh cilantro, chopped, plus more for garnish ; (10 g) </ingredient>
+    <ingredient num="13">4 cups ; vegetable broth ; (960 mL) </ingredient>
+    <ingredient num="14">shredded cheddar cheese, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">BBQ</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121329/hls24_1545874985.m3u8</low>
+    <high>https://vid.tasty.co/output/121329/landscape_720/1545874985</high>
+  </video>
+  <steps>
+    <step num="0">In a large, heavy-bottomed pot, heat a drizzle of olive oil over medium heat. Add the onion, season with salt, and cook until the onion starts to sweat and become translucent, 3 minutes. Add the garlic and cook until fragrant, 2 minutes more. </step>
+    <step num="1">Add the parsnips and butternut squash and season with salt, paprika, oregano, cumin, allspice, and chipotle powder. Stir to coat the vegetables with the spices. Cover and cook for 20 minutes, stirring occasionally to prevent sticking, until the vegetables begin to soften. </step>
+    <step num="2">Add the cannellini beans, cilantro, and vegetable broth. Increase the heat to medium-high and bring to a boil for 2 minutes. Reduce the heat to medium-low and simmer for 15 minutes, until the chili is thickened and the vegetables are cooked through. </step>
+    <step num="3">Ladle the chili into bowls and top with cilantro and cheddar cheese. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large, heavy-bottomed pot, heat a drizzle of olive oil over medium heat. </steps_updated>
+    <steps_updated num="1">Add the onion, season with salt, and cook until the onion starts to sweat and become translucent, 3 minutes. </steps_updated>
+    <steps_updated num="2">Add the garlic and cook until fragrant, 2 minutes more. </steps_updated>
+    <steps_updated num="3">Add the parsnips and butternut squash and season with salt, paprika, oregano, cumin, allspice, and chipotle powder. </steps_updated>
+    <steps_updated num="4">Stir to coat the vegetables with the spices. </steps_updated>
+    <steps_updated num="5">Cover and cook for 20 minutes, stirring occasionally to prevent sticking, until the vegetables begin to soften. </steps_updated>
+    <steps_updated num="6">Add the cannellini beans, cilantro, and vegetable broth. </steps_updated>
+    <steps_updated num="7">Increase the heat to medium-high and bring to a boil for 2 minutes. </steps_updated>
+    <steps_updated num="8">Reduce the heat to medium-low and simmer for 15 minutes, until the chili is thickened and the vegetables are cooked through. </steps_updated>
+    <steps_updated num="9">Ladle the chili into bowls and top with cilantro and cheddar cheese. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

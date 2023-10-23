@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamed Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamed-corn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-staples-if-you-only-have-a-microwave</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ears ; corn, kernels cut off </ingredient>
+    <ingredient num="1">2 tablespoons ; water </ingredient>
+    <ingredient num="2">1 teaspoon ; sugar </ingredient>
+    <ingredient num="3">¼ cup ; melted butter, 1/2 stick ; (55 g) </ingredient>
+    <ingredient num="4">¼ cup ; half &amp; half ; (60 mL) </ingredient>
+    <ingredient num="5">2 teaspoons ; cornstarch </ingredient>
+    <ingredient num="6">scallion, sliced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114497/hls24_1541542908.m3u8</low>
+    <high>https://vid.tasty.co/output/114497/landscape_720/1541542908</high>
+  </video>
+  <duration>
+    <start_time>75.0</start_time>
+    <end_time>124.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the corn kernels to a large bowl. </step>
+    <step num="1">In a liquid measuring cup or small bowl, combine water and sugar. Stir until the sugar dissolves, then add to the corn, along with the melted butter. Stir until evenly combined. </step>
+    <step num="2">Cover with a plate and microwave for 3 minutes. </step>
+    <step num="3">In a liquid measuring cup or small bowl, combine the half and half and cornstarch. </step>
+    <step num="4">Remove the bowl from microwave, stir, cover, and microwave for 3 minutes more. </step>
+    <step num="5">Remove the bowl from the microwave and add the half and half mixture. Stir to combine. Microwave for 6 minutes, until the corn has softened. </step>
+    <step num="6">Let cool, then top with sliced scallions. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the corn kernels to a large bowl. </steps_updated>
+    <steps_updated num="1">In a liquid measuring cup or small bowl, combine water and sugar. </steps_updated>
+    <steps_updated num="2">Stir until the sugar dissolves, then add to the corn, along with the melted butter. </steps_updated>
+    <steps_updated num="3">Stir until evenly combined. </steps_updated>
+    <steps_updated num="4">Cover with a plate and microwave for 3 minutes. </steps_updated>
+    <steps_updated num="5">In a liquid measuring cup or small bowl, combine the half and half and cornstarch. </steps_updated>
+    <steps_updated num="6">Remove the bowl from microwave, stir, cover, and microwave for 3 minutes more. </steps_updated>
+    <steps_updated num="7">Remove the bowl from the microwave and add the half and half mixture. </steps_updated>
+    <steps_updated num="8">Stir to combine. </steps_updated>
+    <steps_updated num="9">Microwave for 6 minutes, until the corn has softened. </steps_updated>
+    <steps_updated num="10">Let cool, then top with sliced scallions. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

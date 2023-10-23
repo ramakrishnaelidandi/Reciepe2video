@@ -1,0 +1,56 @@
+<recipe>
+  <title>Southwestern Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-omelette</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/weekend-brunch-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 5766 </ingredient>
+    <ingredient num="1">1580 2605 13278 7489 3962 13278 3433 5981 </ingredient>
+    <ingredient num="2">8580 13278 1466 5016 341 </ingredient>
+    <ingredient num="3">3917 2605 13278 13220 13278 336 5981 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">10986 560 11567 </ingredient>
+    <ingredient num="6">4061 13278 12708 </ingredient>
+    <ingredient num="7">1580 2605 13278 8572 13810 3333 13278 9377 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 3333 9784 14538 13278 2264 5981 </ingredient>
+    <ingredient num="9">3917 13278 468 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+    <category num="1">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22555/low_1485886490.m3u8</low>
+    <high>https://vid.tasty.co/output/22555/mp4_720x1280/1485886490</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>56.56</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 5766 210 5994 5687 11770 8283 2082 </step>
+    <step num="1">264 11951 7489 5016 13817 13220 1391 5994 2157 371 82 13817 7845 1681 11951 13220 7312 1320 12785 560 5994 7616 </step>
+    <step num="2">283 11951 4061 12708 1391 5994 2157 371 82 9606 10986 415 5406 2532 371 11951 2373 669 11951 11745 11354 3557 5412 560 772 5994 5666 10783 1595 560 5994 13757 2082 </step>
+    <step num="3">264 7990 6285 13133 6659 415 1798 2532 371 11951 629 2373 4255 797 2532 371 11951 9604 13817 1678 2532 371 11951 8572 13817 2532 11951 9784 14538 4255 11951 11649 8467 </step>
+    <step num="4">264 1681 11951 14538 9490 2532 4318 415 7475 797 2532 371 11951 9604 11770 11951 9781 </step>
+    <step num="5">264 7990 6646 13133 6659 415 5103 13817 10231 560 5994 9086 </step>
+    <step num="6">5321 2696 2532 371 11951 4485 8535 4255 10707 371 11951 7395 415 6190 1391 11951 11649 2638 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5766 210 5994 5687 11770 8283 2082 </steps_updated>
+    <steps_updated num="1">264 11951 7489 5016 13817 13220 1391 5994 2157 371 82 13817 7845 1681 11951 13220 7312 1320 </steps_updated>
+    <steps_updated num="2">12785 560 5994 7616 </steps_updated>
+    <steps_updated num="3">283 11951 4061 12708 1391 5994 2157 371 82 9606 10986 415 5406 2532 371 11951 2373 669 11951 11745 11354 3557 5412 560 772 5994 5666 10783 </steps_updated>
+    <steps_updated num="4">1595 560 5994 13757 2082 </steps_updated>
+    <steps_updated num="5">264 7990 6285 13133 6659 415 1798 2532 371 11951 629 2373 4255 797 2532 371 11951 9604 13817 1678 2532 371 11951 8572 13817 2532 11951 9784 14538 4255 11951 11649 8467 </steps_updated>
+    <steps_updated num="6">264 1681 11951 14538 9490 2532 4318 415 7475 797 2532 371 11951 9604 11770 11951 9781 </steps_updated>
+    <steps_updated num="7">264 7990 6646 13133 6659 415 5103 13817 10231 560 5994 9086 </steps_updated>
+    <steps_updated num="8">5321 2696 2532 371 11951 4485 8535 4255 10707 371 11951 7395 415 6190 1391 11951 11649 2638 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00653</start_time>
+    <end_time>01713</end_time>
+  </duration_human>
+</recipe>

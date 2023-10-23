@@ -1,0 +1,39 @@
+<recipe>
+  <title>Boiled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boiled-eggs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 13278 12708 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>185.0</start_time>
+    <end_time>222.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 10083 371 12282 560 5994 2808 11714 </step>
+    <step num="1">11982 6657 11951 12708 669 11951 12282 13817 12538 264 11951 12708 7990 2065 11061 8927 7990 4715 14463 6735 8927 7990 5919 14463 13817 14346 8927 7990 4457 8536 </step>
+    <step num="2">9956 1441 7312 11762 1374 2696 11951 12708 13817 6908 10231 560 2237 2439 9727 560 2448 </step>
+    <step num="3">8940 11951 8536 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 10083 371 12282 560 5994 2808 11714 </steps_updated>
+    <steps_updated num="1">11982 6657 11951 12708 669 11951 12282 13817 12538 </steps_updated>
+    <steps_updated num="2">264 11951 12708 7990 2065 11061 8927 7990 4715 14463 6735 8927 7990 5919 14463 13817 14346 8927 7990 4457 8536 </steps_updated>
+    <steps_updated num="3">9956 1441 7312 11762 1374 2696 11951 12708 13817 6908 10231 560 2237 2439 9727 560 2448 </steps_updated>
+    <steps_updated num="4">8940 11951 8536 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

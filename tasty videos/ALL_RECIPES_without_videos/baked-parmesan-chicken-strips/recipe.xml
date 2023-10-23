@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Parmesan Chicken Strips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-parmesan-chicken-strips</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts, sliced into strips </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">½ cup ; flour ; (65 g) </ingredient>
+    <ingredient num="4">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="5">¼ teaspoon ; onion powder </ingredient>
+    <ingredient num="6">1 teaspoon ; paprika </ingredient>
+    <ingredient num="7">2 teaspoons ; italian seasoning </ingredient>
+    <ingredient num="8">3 ; eggs </ingredient>
+    <ingredient num="9">1 cup ; bread crumbs ; (115 g) </ingredient>
+    <ingredient num="10">½ cup ; parmesan cheese ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10956/low_1475082419.m3u8</low>
+    <high>https://vid.tasty.co/output/10956/mp4_720x1280/1475082419</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Cut chicken breasts into strips and season with salt and pepper. </step>
+    <step num="2">In a re-sealable plastic bag, combine flour, garlic powder, onion powder, paprika, and Italian seasoning. </step>
+    <step num="3">Add the seasoned chicken strips into the flour mixture and seal the bag. Shake until the chicken strips are well coated with the flour mixture. </step>
+    <step num="4">Beat 3 eggs in a small bowl and dip each piece of chicken until well coated. </step>
+    <step num="5">In another bowl, combine bread crumbs and parmesan cheese and coat each piece of chicken with the mixture. </step>
+    <step num="6">Place the coated chicken strips on a greased baking sheet and bake for 35-40 minutes, flipping halfway, and bake until golden brown (times and temperatures may vary based on oven). </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Cut chicken breasts into strips and season with salt and pepper. </steps_updated>
+    <steps_updated num="2">In a re-sealable plastic bag, combine flour, garlic powder, onion powder, paprika, and Italian seasoning. </steps_updated>
+    <steps_updated num="3">Add the seasoned chicken strips into the flour mixture and seal the bag. </steps_updated>
+    <steps_updated num="4">Shake until the chicken strips are well coated with the flour mixture. </steps_updated>
+    <steps_updated num="5">Beat 3 eggs in a small bowl and dip each piece of chicken until well coated. </steps_updated>
+    <steps_updated num="6">In another bowl, combine bread crumbs and parmesan cheese and coat each piece of chicken with the mixture. </steps_updated>
+    <steps_updated num="7">Place the coated chicken strips on a greased baking sheet and bake for 35-40 minutes, flipping halfway, and bake until golden brown (times and temperatures may vary based on oven). </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Cookies &amp; Ice Cream Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-cookies-ice-cream-pie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-3-ingredient-no-bake-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">20 ; chocolate sandwich cookies </ingredient>
+    <ingredient num="1">1 cup ; chocolate, melted ; (170 g) </ingredient>
+    <ingredient num="2">1 ¾ qt ; ice cream, softened ; (2 L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9996/low_1473790210.m3u8</low>
+    <high>https://vid.tasty.co/output/9996/mp4_720x1280/1473790210</high>
+  </video>
+  <duration>
+    <start_time>77.0</start_time>
+    <end_time>104.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place cookies in a gallon sized plastic bag and hit with a rolling pin or pan until crushed. </step>
+    <step num="1">Pat the cookie crumbs into the bottom of a 9” (23 cm) pie dish. </step>
+    <step num="2">Spread the softened ice cream on top and smooth out. </step>
+    <step num="3">Drizzle the top with melted chocolate. </step>
+    <step num="4">Freeze for 4 hours, or until the ice cream is hardened. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place cookies in a gallon sized plastic bag and hit with a rolling pin or pan until crushed. </steps_updated>
+    <steps_updated num="1">Pat the cookie crumbs into the bottom of a 9” pie dish. </steps_updated>
+    <steps_updated num="2">Spread the softened ice cream on top and smooth out. </steps_updated>
+    <steps_updated num="3">Drizzle the top with melted chocolate. </steps_updated>
+    <steps_updated num="4">Freeze for 4 hours, or until the ice cream is hardened. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02238</start_time>
+    <end_time>03148</end_time>
+  </duration_human>
+</recipe>

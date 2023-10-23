@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco Egg Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-egg-rolls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; oil </ingredient>
+    <ingredient num="1">1 lb ; chicken breast ; (454 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">2 tablespoons ; taco seasoning, may be more or less depending on what you are using </ingredient>
+    <ingredient num="5">½ cup ; water ; (236 mL) </ingredient>
+    <ingredient num="6">6 ; egg roll wrappers </ingredient>
+    <ingredient num="7">tomato, diced </ingredient>
+    <ingredient num="8">onion, diced </ingredient>
+    <ingredient num="9">cheese, shredded/crumbled </ingredient>
+    <ingredient num="10">egg wash </ingredient>
+    <ingredient num="11">vegetable oil, for frying </ingredient>
+    <ingredient num="12">salsa, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32011/low_1495125046.m3u8</low>
+    <high>https://vid.tasty.co/output/32011/mp4_720x1280/1495125046</high>
+  </video>
+  <steps>
+    <step num="0">Heat oil, add chicken, 1 tsp salt, and 1 tsp pepper. Cook until 60% done. </step>
+    <step num="1">Add the taco seasoning, stir to incorporate. Add water and cook until chicken is done. </step>
+    <step num="2">Fill egg roll wrapper with cooked chicken, tomatoes, onions and cheese or whatever ingredients you like. </step>
+    <step num="3">Roll and seal with egg wash. </step>
+    <step num="4">Fry until golden brown. </step>
+    <step num="5">Serve with salsa. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil, add chicken, 1 tsp salt, and 1 tsp pepper. </steps_updated>
+    <steps_updated num="1">Cook until 60% done. </steps_updated>
+    <steps_updated num="2">Add the taco seasoning, stir to incorporate. </steps_updated>
+    <steps_updated num="3">Add water and cook until chicken is done. </steps_updated>
+    <steps_updated num="4">Fill egg roll wrapper with cooked chicken, tomatoes, onions and cheese or whatever ingredients you like. </steps_updated>
+    <steps_updated num="5">Roll and seal with egg wash. </steps_updated>
+    <steps_updated num="6">Fry until golden brown. </steps_updated>
+    <steps_updated num="7">Serve with salsa. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,40 @@
+<recipe>
+  <title>Java Chip Caffeinated Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/java-chip-caffeinated-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/caffeinated-smoothies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 1580 9517 13278 14109 8801 13046 13278 1536 8007 </ingredient>
+    <ingredient num="1">1580 2605 13278 2532 9606 2532 13278 2935 8007 </ingredient>
+    <ingredient num="2">1813 2605 13278 4680 10803 7789 7191 5614 7990 3297 13278 13125 5981 </ingredient>
+    <ingredient num="3">8580 9486 13278 4834 </ingredient>
+    <ingredient num="4">11061 13278 7988 6143 </ingredient>
+    <ingredient num="5">279 1123 7990 3297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111189/hls24_1538602058.m3u8</low>
+    <high>https://vid.tasty.co/output/111189/landscape_720/1538602058</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>33.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">1083 11951 7988 669 2237 2439 10224 8141 13855 7990 7811 767 4061 13199 5895 14142 </step>
+    <step num="1">9179 11951 7988 2439 14159 2532 13817 1991 4680 10803 6145 13817 7988 6143 560 5994 12095 3262 1681 12119 </step>
+    <step num="2">1083 669 1754 13817 10707 1391 279 13033 13817 5614 4680 4668 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1083 11951 7988 669 2237 2439 10224 8141 </steps_updated>
+    <steps_updated num="1">13855 7990 7811 767 4061 13199 5895 14142 </steps_updated>
+    <steps_updated num="2">9179 11951 7988 2439 14159 2532 13817 1991 4680 10803 6145 13817 7988 6143 560 5994 12095 </steps_updated>
+    <steps_updated num="3">3262 1681 12119 </steps_updated>
+    <steps_updated num="4">1083 669 1754 13817 10707 1391 279 13033 13817 5614 4680 4668 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

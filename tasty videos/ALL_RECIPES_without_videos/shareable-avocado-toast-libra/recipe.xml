@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shareable Avocado Toast (Libra) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shareable-avocado-toast-libra</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/astrology-avocado-toast</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; avocado </ingredient>
+    <ingredient num="1">kosher salt, to taste </ingredient>
+    <ingredient num="2">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="3">1 slice ; multigrain toast </ingredient>
+    <ingredient num="4">½ cup ; mini mozzarella ball, halved ; (50 g) </ingredient>
+    <ingredient num="5">½ cup ; cherry tomatoes, halved ; (100 g) </ingredient>
+    <ingredient num="6">¼ cup ; fresh basil leaf ; (10 g) </ingredient>
+    <ingredient num="7">flaky sea salt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124411/hls24_1549495745.m3u8</low>
+    <high>https://vid.tasty.co/output/124411/landscape_720/1549495745</high>
+  </video>
+  <duration>
+    <start_time>181.333</start_time>
+    <end_time>202.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Scoop the avocado into a medium bowl. Season with salt and add the lemon juice. Mash until smooth. </step>
+    <step num="1">Cut the slice of toast in half crosswise, then spread the avocado on the toast. Top with the mozzarella, tomatoes, basil, and flaky salt. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Scoop the avocado into a medium bowl. </steps_updated>
+    <steps_updated num="1">Season with salt and add the lemon juice. </steps_updated>
+    <steps_updated num="2">Mash until smooth. </steps_updated>
+    <steps_updated num="3">Cut the slice of toast in half crosswise, then spread the avocado on the toast. </steps_updated>
+    <steps_updated num="4">Top with the mozzarella, tomatoes, basil, and flaky salt. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

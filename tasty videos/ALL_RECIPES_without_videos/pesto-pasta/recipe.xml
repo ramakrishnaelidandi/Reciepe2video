@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-school-lunch-prep-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">½ lb ; bow tie pasta, cooked ; (225 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; pesto </ingredient>
+    <ingredient num="2">½ cup ; fresh mozzarella cheese, chopped ; (60 g) </ingredient>
+    <ingredient num="3">½ cup ; cherry tomato, halved ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23479/low_1486600260.m3u8</low>
+    <high>https://vid.tasty.co/output/23479/mp4_720x1280/1486600260</high>
+  </video>
+  <duration>
+    <start_time>67.0</start_time>
+    <end_time>84.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix all ingredients in a bowl. </step>
+    <step num="1">Serve with a hard-boiled egg and sliced bell pepper. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix all ingredients in a bowl. </steps_updated>
+    <steps_updated num="1">Serve with a hard-boiled egg and sliced bell pepper. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

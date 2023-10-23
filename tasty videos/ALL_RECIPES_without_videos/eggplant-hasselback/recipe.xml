@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggplant Hasselback Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-hasselback</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; eggplant </ingredient>
+    <ingredient num="1">1 cup ; marinara sauce ; (260 g) </ingredient>
+    <ingredient num="2">tomato, sliced </ingredient>
+    <ingredient num="3">fresh basil </ingredient>
+    <ingredient num="4">mozzarella cheese, sliced </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">olive oil </ingredient>
+    <ingredient num="9">¼ cup ; panko breadcrumbs ; (10 g) </ingredient>
+    <ingredient num="10">2 tablespoons ; grated parmesan cheese </ingredient>
+    <ingredient num="11">1 teaspoon ; salt </ingredient>
+    <ingredient num="12">½ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.buzzfeed.com/output/17884/low_1481752260.m3u8</low>
+    <high>https://vid.buzzfeed.com/output/17884/mp4_720x1280/1481752260</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">Cut eggplant lengthwise, keeping it connected at the stem. </step>
+    <step num="2">In a baking dish, place marinara sauce and spread to cover the bottom. </step>
+    <step num="3">Place the eggplant directly on the sauce. </step>
+    <step num="4">Slice the tomato and mozzarella into thin slices. Alternate tomatoes, basil, and cheese in each eggplant slice. </step>
+    <step num="5">Sprinkle salt, pepper, garlic, and olive oil, and cover with foil and bake for 50 minutes until eggplant is tender. </step>
+    <step num="6">In a small bowl, combine panko, cheese, salt, and pepper. </step>
+    <step num="7">Place the panko mixture on top of the eggplant and bake uncovered for another 5 minutes. Or until the bread crumbs are golden brown. </step>
+    <step num="8">Cut into your desired size pieces. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Cut eggplant lengthwise, keeping it connected at the stem. </steps_updated>
+    <steps_updated num="2">In a baking dish, place marinara sauce and spread to cover the bottom. </steps_updated>
+    <steps_updated num="3">Place the eggplant directly on the sauce. </steps_updated>
+    <steps_updated num="4">Slice the tomato and mozzarella into thin slices. </steps_updated>
+    <steps_updated num="5">Alternate tomatoes, basil, and cheese in each eggplant slice. </steps_updated>
+    <steps_updated num="6">Sprinkle salt, pepper, garlic, and olive oil, and cover with foil and bake for 50 minutes until eggplant is tender. </steps_updated>
+    <steps_updated num="7">In a small bowl, combine panko, cheese, salt, and pepper. </steps_updated>
+    <steps_updated num="8">Place the panko mixture on top of the eggplant and bake uncovered for another 5 minutes. </steps_updated>
+    <steps_updated num="9">Or until the bread crumbs are golden brown. </steps_updated>
+    <steps_updated num="10">Cut into your desired size pieces. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,73 @@
+<recipe>
+  <title>Vegetable Dumpling Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegetable-dumpling-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hearty-stews-that-will-fill-you-up</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="2">1580 8071 13278 82 </ingredient>
+    <ingredient num="3">4061 9486 13278 8244 7632 3247 </ingredient>
+    <ingredient num="4">1580 2605 13278 10383 12282 13278 2935 8007 </ingredient>
+    <ingredient num="5">3917 13278 12384 341 </ingredient>
+    <ingredient num="6">8580 13278 8445 341 </ingredient>
+    <ingredient num="7">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="8">3917 8071 13278 796 3043 </ingredient>
+    <ingredient num="9">1580 8071 13278 796 10964 </ingredient>
+    <ingredient num="10">1580 8071 13278 796 9211 </ingredient>
+    <ingredient num="11">1580 8071 13278 7845 </ingredient>
+    <ingredient num="12">8580 9517 13278 6817 341 13278 5348 5981 </ingredient>
+    <ingredient num="13">11061 9517 13278 4168 547 13278 10187 1767 </ingredient>
+    <ingredient num="14">8580 2526 13278 13063 14252 </ingredient>
+    <ingredient num="15">6209 11911 1404 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Lunch</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79256/hls24_1518729800.m3u8</low>
+    <high>https://vid.tasty.co/output/79256/landscape_720/1518729800</high>
+  </video>
+  <duration>
+    <start_time>62.0</start_time>
+    <end_time>136.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2192 3624 14511 4120 6467 10765 8117 13817 82 1391 5994 14263 745 5994 3145 210 11951 8365 371 11951 5316 2373 13817 740 8580 9486 8244 5766 13817 10383 2019 9393 1681 8337 5818 210 560 5994 8728 14560 4660 1391 5994 3830 1811 13817 817 5292 </step>
+    <step num="1">10950 2597 10083 5895 12010 11546 740 11951 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 6334 13817 11021 13817 2550 7990 6285 12002 11004 5895 1681 11951 11453 12573 13203 </step>
+    <step num="2">9179 210 11951 4155 4564 8543 5040 13817 10986 13817 2550 7990 6865 3954 8927 1681 656 12573 11564 </step>
+    <step num="3">12473 210 2274 4168 42 13817 13063 4052 13817 14238 560 5994 11714 6199 10211 7855 560 3996 13817 11779 6285 6735 8927 5895 1681 13233 12573 6285 11496 7182 3745 8119 </step>
+    <step num="4">12775 7416 210 7093 371 11951 9324 12687 6285 3917 2985 9740 210 10505 </step>
+    <step num="5">1828 6784 11779 7990 6285 13767 11004 5895 1681 6105 13817 3745 8119 </step>
+    <step num="6">10450 7397 4711 1391 2388 371 6209 13012 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 3624 14511 4120 6467 10765 8117 13817 82 1391 5994 14263 </steps_updated>
+    <steps_updated num="1">745 5994 3145 210 11951 8365 371 11951 5316 2373 13817 740 8580 9486 8244 5766 13817 10383 2019 </steps_updated>
+    <steps_updated num="2">9393 1681 8337 5818 210 560 5994 8728 14560 </steps_updated>
+    <steps_updated num="3">4660 1391 5994 3830 1811 13817 817 5292 </steps_updated>
+    <steps_updated num="4">10950 2597 10083 5895 12010 11546 740 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">9956 11951 5766 10586 560 923 740 11951 6334 13817 11021 13817 2550 7990 6285 12002 11004 5895 1681 11951 11453 12573 13203 </steps_updated>
+    <steps_updated num="6">9179 210 11951 4155 4564 8543 5040 13817 10986 13817 2550 7990 6865 3954 8927 1681 656 12573 11564 </steps_updated>
+    <steps_updated num="7">12473 210 2274 4168 42 13817 13063 4052 13817 14238 560 5994 11714 </steps_updated>
+    <steps_updated num="8">6199 </steps_updated>
+    <steps_updated num="9">10211 7855 560 3996 13817 11779 6285 6735 8927 5895 1681 13233 12573 6285 11496 7182 3745 8119 </steps_updated>
+    <steps_updated num="10">12775 7416 210 7093 371 11951 9324 12687 6285 3917 2985 9740 210 10505 </steps_updated>
+    <steps_updated num="11">1828 6784 11779 7990 6285 13767 11004 5895 1681 6105 13817 3745 8119 </steps_updated>
+    <steps_updated num="12">10450 7397 4711 1391 2388 371 6209 13012 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01512</start_time>
+    <end_time>03235</end_time>
+  </duration_human>
+</recipe>

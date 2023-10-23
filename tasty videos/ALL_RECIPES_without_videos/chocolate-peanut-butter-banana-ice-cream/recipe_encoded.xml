@@ -1,0 +1,44 @@
+<recipe>
+  <title>Chocolate Peanut Butter Banana "Ice Cream" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peanut-butter-banana-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/banana-ice-cream-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 1938 7777 669 12458 13817 11579 </ingredient>
+    <ingredient num="1">8580 9486 13278 7160 13798 9924 </ingredient>
+    <ingredient num="2">3917 14014 13278 9053 11703 </ingredient>
+    <ingredient num="3">12791 2605 13278 9889 371 6507 13278 13125 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27284/low_1490223591.m3u8</low>
+    <high>https://vid.tasty.co/output/27284/mp4_720x1280/1490223591</high>
+  </video>
+  <duration>
+    <start_time>71.5</start_time>
+    <end_time>85.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 4850 669 12458 13817 3345 210 7668 210 5994 4508 12954 13855 14490 5895 1681 1703 </step>
+    <step num="1">5570 8554 11907 669 5994 8016 9909 5895 12027 13817 1279 1681 12119 </step>
+    <step num="2">1083 13209 669 5994 10881 5895 2192 10590 </step>
+    <step num="3">13855 797 7739 5895 1681 1703 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 4850 669 12458 13817 3345 210 7668 210 5994 4508 12954 </steps_updated>
+    <steps_updated num="1">13855 14490 5895 1681 1703 </steps_updated>
+    <steps_updated num="2">5570 8554 11907 669 5994 8016 9909 5895 12027 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="3">1083 13209 669 5994 10881 5895 2192 10590 </steps_updated>
+    <steps_updated num="4">13855 797 7739 5895 1681 1703 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

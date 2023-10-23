@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mac ‘n’ Cheese Breadsticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mac-n-cheese-breadsticks</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; frozen macaroni and cheese dinner </ingredient>
+    <ingredient num="1">1 tube ; premade pizza dough </ingredient>
+    <ingredient num="2">olive oil, for topping </ingredient>
+    <ingredient num="3">parmesan cheese, for topping </ingredient>
+    <ingredient num="4">italian seasoning, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8397/low_1472566517.m3u8</low>
+    <high>https://vid.tasty.co/output/8397/mp4_720x1280/1472566517</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F/200˚C. </step>
+    <step num="1">Remove macaroni and cheese (still frozen) from the packaging. Using a sharp knife, carefully cut into 8 equal-sized sticks. </step>
+    <step num="2">Unroll pizza dough. Using a pizza cutter, cut into 8 strips. </step>
+    <step num="3">Working quickly, wrap each mac and cheese stick with pizza dough, making sure not to leave any parts uncovered, and place onto greased baking sheet. </step>
+    <step num="4">Brush each with olive oil, sprinkle with parmesan cheese and Italian seasoning </step>
+    <step num="5">Bake for 18-20 minutes, or until dough is cooked and golden brown. Remove from oven, allow to cool slightly. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F/200˚C. </steps_updated>
+    <steps_updated num="1">Remove macaroni and cheese (still frozen) from the packaging. </steps_updated>
+    <steps_updated num="2">Using a sharp knife, carefully cut into 8 equal-sized sticks. </steps_updated>
+    <steps_updated num="3">Unroll pizza dough. </steps_updated>
+    <steps_updated num="4">Using a pizza cutter, cut into 8 strips. </steps_updated>
+    <steps_updated num="5">Working quickly, wrap each mac and cheese stick with pizza dough, making sure not to leave any parts uncovered, and place onto greased baking sheet. </steps_updated>
+    <steps_updated num="6">Brush each with olive oil, sprinkle with parmesan cheese and Italian seasoning </steps_updated>
+    <steps_updated num="7">Bake for 18-20 minutes, or until dough is cooked and golden brown. </steps_updated>
+    <steps_updated num="8">Remove from oven, allow to cool slightly. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

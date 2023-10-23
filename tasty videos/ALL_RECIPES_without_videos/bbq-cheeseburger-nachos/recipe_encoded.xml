@@ -1,0 +1,42 @@
+<recipe>
+  <title>BBQ Cheeseburger Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-cheeseburger-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11852 643 13278 11237 11318 13278 12932 5981 </ingredient>
+    <ingredient num="1">3917 715 13278 11088 20 3745 13817 6124 13278 4563 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 4716 2260 13278 4337 5981 </ingredient>
+    <ingredient num="3">8580 9517 13278 9784 14538 13278 6898 5981 </ingredient>
+    <ingredient num="4">3917 2605 13278 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="5">1580 13278 9491 341 </ingredient>
+    <ingredient num="6">1580 13278 8083 12384 976 1088 </ingredient>
+    <ingredient num="7">6735 9259 13278 7035 3745 13817 885 </ingredient>
+    <ingredient num="8">1580 2605 13278 6209 11911 3962 13278 828 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 9451 </step>
+    <step num="1">10950 5994 2597 5687 5895 6326 7454 573 2532 371 11951 11237 10803 6960 5569 2532 371 11951 11088 20 179 7280 9631 8111 9491 8083 12384 7035 13817 13012 5362 1391 11951 374 2532 371 11951 13333 6960 5569 5994 13630 371 4716 2260 4255 143 </step>
+    <step num="2">7831 7990 13133 11004 1681 14538 9490 1311 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 9451 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 5687 5895 6326 7454 573 2532 371 11951 11237 10803 6960 5569 2532 371 11951 11088 20 179 7280 9631 8111 9491 8083 12384 7035 13817 13012 </steps_updated>
+    <steps_updated num="2">5362 1391 11951 374 2532 371 11951 13333 6960 5569 5994 13630 371 4716 2260 4255 143 </steps_updated>
+    <steps_updated num="3">7831 7990 13133 11004 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

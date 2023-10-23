@@ -1,0 +1,47 @@
+<recipe>
+  <title>BBQ Chicken Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-bbq-recipes-for-a-great-bbq</comp_url>
+  <ingredients>
+    <ingredient num="0">4168 5766 </ingredient>
+    <ingredient num="1">3917 1580 715 13278 6007 8355 2144 7983 8833 6285 13086 13278 5800 5981 </ingredient>
+    <ingredient num="2">8580 2031 13278 11042 13510 82 </ingredient>
+    <ingredient num="3">8580 2031 13278 14585 11088 13584 7845 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 8961 2260 13278 11949 5981 </ingredient>
+    <ingredient num="5">11061 13278 423 9574 </ingredient>
+    <ingredient num="6">8580 9517 13278 7527 13278 10339 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99711/hls24_1529684842.m3u8</low>
+    <high>https://vid.tasty.co/output/99711/landscape_720/1529684842</high>
+  </video>
+  <duration>
+    <start_time>43.0</start_time>
+    <end_time>88.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 5994 9937 11770 3996 7855 13817 8751 13817 8574 5766 11951 6222 3630 </step>
+    <step num="1">10242 11951 7983 7678 1391 82 13817 7845 13817 3345 4255 11951 11499 2927 11951 376 7990 2933 11004 415 542 10654 1391 8177 371 11951 8961 7280 13817 4861 560 9937 1681 3745 8180 1106 8927 3347 </step>
+    <step num="2">12785 11951 7983 560 5994 4157 13817 817 10261 560 10694 12624 </step>
+    <step num="3">8431 8580 10120 560 3781 11951 12816 740 560 5994 14511 13817 1686 1391 11951 374 8961 9286 </step>
+    <step num="4">12774 4255 423 9574 1391 3757 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5994 9937 11770 3996 7855 13817 8751 13817 8574 5766 11951 6222 3630 </steps_updated>
+    <steps_updated num="1">10242 11951 7983 7678 1391 82 13817 7845 13817 3345 4255 11951 11499 </steps_updated>
+    <steps_updated num="2">2927 11951 376 7990 2933 11004 415 542 10654 1391 8177 371 11951 8961 7280 13817 4861 560 9937 1681 3745 8180 1106 8927 3347 </steps_updated>
+    <steps_updated num="3">12785 11951 7983 560 5994 4157 13817 817 10261 560 10694 12624 </steps_updated>
+    <steps_updated num="4">8431 8580 10120 560 3781 11951 12816 740 560 5994 14511 13817 1686 1391 11951 374 8961 9286 </steps_updated>
+    <steps_updated num="5">12774 4255 423 9574 1391 3757 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

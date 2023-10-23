@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Banana Frozen Yogurt Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-banana-frozen-yogurt</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; strawberry, frozen ; (450 g) </ingredient>
+    <ingredient num="1">3 ; bananas, frozen </ingredient>
+    <ingredient num="2">⅔ cup ; plain greek yogurt ; (190 g) </ingredient>
+    <ingredient num="3">fresh strawberry , chopped, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24738/low_1487877512.m3u8</low>
+    <high>https://vid.tasty.co/output/24738/mp4_720x1280/1487877512</high>
+  </video>
+  <steps>
+    <step num="0">Combine frozen fruit and yogurt in a food processor. </step>
+    <step num="1">Blend until smooth. </step>
+    <step num="2">Spread mixture onto an 8x8 (20 x 20cm) glass baking dish, and sprinkle on fresh strawberries. </step>
+    <step num="3">Cover and freeze for 2 hours. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine frozen fruit and yogurt in a food processor. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">Spread mixture onto an 8x8 (20 x 20cm) glass baking dish, and sprinkle on fresh strawberries. </steps_updated>
+    <steps_updated num="3">Cover and freeze for 2 hours. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

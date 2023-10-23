@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Masala Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/masala-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">14 oz ; frozen fry, thawed ; (400 g) </ingredient>
+    <ingredient num="1">3 tablespoons ; olive oil, for frying </ingredient>
+    <ingredient num="2">1 tablespoon ; butter, for frying </ingredient>
+    <ingredient num="3">1 tablespoon ; ginger garlic paste </ingredient>
+    <ingredient num="4">½ ; onion, diced </ingredient>
+    <ingredient num="5">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="6">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="7">1 teaspoon ; coriander powder </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">½ tablespoon ; lemon, juiced </ingredient>
+    <ingredient num="10">½ cup ; tomato, chopped ; (100 g) </ingredient>
+    <ingredient num="11">natural yogurt, to garnish </ingredient>
+    <ingredient num="12">fresh coriander, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35116/low_1498667509.m3u8</low>
+    <high>https://vid.tasty.co/output/35116/mp4_720x1280/1498667509</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 180°C (350°F). </step>
+    <step num="1">Spread out the fries on a baking tray and bake for 20 minutes. </step>
+    <step num="2">While the fries are baking, prepare the masala. </step>
+    <step num="3">Heat a large skillet over medium heat and add the oil and butter. </step>
+    <step num="4">Stir in the ginger garlic paste and fry for a couple of minutes. </step>
+    <step num="5">Add the onion and fry for a few minutes until soft. </step>
+    <step num="6">Sprinkle in the chili powder, ground cumin, ground coriander, salt, and lemon juice and stir continuously for another minute. </step>
+    <step num="7">Pour in the chopped tomatoes and fry for several more minutes, until the sauce has thickened. </step>
+    <step num="8">Add the fries to the pan and stir until evenly coated. </step>
+    <step num="9">Drizzle some yogurt on top and garnish with fresh coriander. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="1">Spread out the fries on a baking tray and bake for 20 minutes. </steps_updated>
+    <steps_updated num="2">While the fries are baking, prepare the masala. </steps_updated>
+    <steps_updated num="3">Heat a large skillet over medium heat and add the oil and butter. </steps_updated>
+    <steps_updated num="4">Stir in the ginger garlic paste and fry for a couple of minutes. </steps_updated>
+    <steps_updated num="5">Add the onion and fry for a few minutes until soft. </steps_updated>
+    <steps_updated num="6">Sprinkle in the chili powder, ground cumin, ground coriander, salt, and lemon juice and stir continuously for another minute. </steps_updated>
+    <steps_updated num="7">Pour in the chopped tomatoes and fry for several more minutes, until the sauce has thickened. </steps_updated>
+    <steps_updated num="8">Add the fries to the pan and stir until evenly coated. </steps_updated>
+    <steps_updated num="9">Drizzle some yogurt on top and garnish with fresh coriander. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Chicken Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-chicken-nuggets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground chicken ; (455 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">½ lb ; mozzarella cheese, cubed ; (225 g) </ingredient>
+    <ingredient num="4">1 cup ; panko breadcrumbs ; (50 g) </ingredient>
+    <ingredient num="5">dried oregano, to taste </ingredient>
+    <ingredient num="6">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="7">2 ; eggs </ingredient>
+    <ingredient num="8">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25474/low_1488509124.m3u8</low>
+    <high>https://vid.tasty.co/output/25474/mp4_720x1280/1488509124</high>
+  </video>
+  <steps>
+    <step num="0">First, season the ground chicken with salt and pepper. </step>
+    <step num="1">Grab a handful of ground chicken and roll into a rough ball shape, place a cube of cheese in the center and wrap the ground chicken around it. Form it into a chicken nugget shape. Set aside. </step>
+    <step num="2">Season the panko with oregano. </step>
+    <step num="3">Take the chicken nuggets and coat with flour, dip in egg and cover with the panko/oregano mix. </step>
+    <step num="4">Deep fry in the oil until browned and crispy. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">First, season the ground chicken with salt and pepper. </steps_updated>
+    <steps_updated num="1">Grab a handful of ground chicken and roll into a rough ball shape, place a cube of cheese in the center and wrap the ground chicken around it. </steps_updated>
+    <steps_updated num="2">Form it into a chicken nugget shape. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">Season the panko with oregano. </steps_updated>
+    <steps_updated num="5">Take the chicken nuggets and coat with flour, dip in egg and cover with the panko/oregano mix. </steps_updated>
+    <steps_updated num="6">Deep fry in the oil until browned and crispy. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Ultimate Breakfast Corndog Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-ultimate-breakfast-corndog</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">14 ; breakfast sausages </ingredient>
+    <ingredient num="2">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="5">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="6">3 tablespoons ; sugar </ingredient>
+    <ingredient num="7">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="8">2 ; large eggs </ingredient>
+    <ingredient num="9">¼ cup ; butter, melted ; (60 g) </ingredient>
+    <ingredient num="10">3 tablespoons ; bacon, cooked, finely chopped </ingredient>
+    <ingredient num="11">4 cups ; canola oil ; (960 mL) </ingredient>
+    <ingredient num="12">powdered sugar, for serving </ingredient>
+    <ingredient num="13">maple syrup, for serving </ingredient>
+    <ingredient num="14">14 ; small ice pop sticks </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97130/hls24_1528145150.m3u8</low>
+    <high>https://vid.tasty.co/output/97130/landscape_720/1528145150</high>
+  </video>
+  <steps>
+    <step num="0">In a large pan over medium heat, heat the olive oil for 1 minute. Add the breakfast sausages to the pan and cook for 12 minutes, turning constantly, until crispy and browned all over. </step>
+    <step num="1">Drain the sausages on paper towels and let cool. Insert a small ice pop stick in each sausage. Set aside. </step>
+    <step num="2">Make the pancake batter: In a large bowl, sift together the flour, salt, baking powder, baking soda, and sugar. Use your hands to make a well in the middle of the dry ingredients. Pour the milk, eggs, and melted butter into the well, then stir the center working your way out until the mixture is thick and well-combined. Fold in the bacon. </step>
+    <step num="3">Heat the canola oil in a medium pot over medium-high heat until it reaches 350°F (180°C). </step>
+    <step num="4">Pour the pancake batter into a tall glass, then dip a sausage stick into the mixture. </step>
+    <step num="5">Use tongs to gently place the battered sausage into the hot oil and cook until golden brown, 1-2 minutes. Drain on paper towels or a cooling rack. Repeat with the remaining sausages. </step>
+    <step num="6">Dust with powdered sugar and serve with maple syrup. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pan over medium heat, heat the olive oil for 1 minute. </steps_updated>
+    <steps_updated num="1">Add the breakfast sausages to the pan and cook for 12 minutes, turning constantly, until crispy and browned all over. </steps_updated>
+    <steps_updated num="2">Drain the sausages on paper towels and let cool. </steps_updated>
+    <steps_updated num="3">Insert a small ice pop stick in each sausage. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">Make the pancake batter: In a large bowl, sift together the flour, salt, baking powder, baking soda, and sugar. </steps_updated>
+    <steps_updated num="6">Use your hands to make a well in the middle of the dry ingredients. </steps_updated>
+    <steps_updated num="7">Pour the milk, eggs, and melted butter into the well, then stir the center working your way out until the mixture is thick and well-combined. </steps_updated>
+    <steps_updated num="8">Fold in the bacon. </steps_updated>
+    <steps_updated num="9">Heat the canola oil in a medium pot over medium-high heat until it reaches 350°F (180°C). </steps_updated>
+    <steps_updated num="10">Pour the pancake batter into a tall glass, then dip a sausage stick into the mixture. </steps_updated>
+    <steps_updated num="11">Use tongs to gently place the battered sausage into the hot oil and cook until golden brown, 1-2 minutes. </steps_updated>
+    <steps_updated num="12">Drain on paper towels or a cooling rack. </steps_updated>
+    <steps_updated num="13">Repeat with the remaining sausages. </steps_updated>
+    <steps_updated num="14">Dust with powdered sugar and serve with maple syrup. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

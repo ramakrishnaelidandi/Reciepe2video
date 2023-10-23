@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ham &amp; Pineapple Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ham-pineapple-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-make-fried-rice</comp_url>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; oil </ingredient>
+    <ingredient num="1">½ cup ; onion, diced ; (75 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="3">½ cup ; carrot, diced ; (60 g) </ingredient>
+    <ingredient num="4">½ cup ; bell pepper, diced ; (50 g) </ingredient>
+    <ingredient num="5">½ cup ; ham, diced ; (75 g) </ingredient>
+    <ingredient num="6">3 ; eggs, beaten </ingredient>
+    <ingredient num="7">3 cups ; brown rice, cooked ; (690 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+    <ingredient num="10">1 cup ; pineapple, diced ; (245 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49619/low_1503937699.m3u8</low>
+    <high>https://vid.tasty.co/output/49619/mp4_720x1280/1503937699</high>
+  </video>
+  <duration>
+    <start_time>138.95</start_time>
+    <end_time>175.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a wok or deep skillet, heat up the oil over high heat and cook onion, garlic, carrots, bell peppers, and ham until onions are translucent and ham is slightly browned. Push all of the cooked ham and vegetables to the side of the pan. </step>
+    <step num="1">Beat the eggs and pour into the cleared half of the pan. Scramble the eggs and mix with the rest of the vegetables. </step>
+    <step num="2">Add rice, soy sauce, pepper, and pineapple. Mix well and let the rice cook until slightly crispy. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a wok or deep skillet, heat up the oil over high heat and cook onion, garlic, carrots, bell peppers, and ham until onions are translucent and ham is slightly browned. </steps_updated>
+    <steps_updated num="1">Push all of the cooked ham and vegetables to the side of the pan. </steps_updated>
+    <steps_updated num="2">Beat the eggs and pour into the cleared half of the pan. </steps_updated>
+    <steps_updated num="3">Scramble the eggs and mix with the rest of the vegetables. </steps_updated>
+    <steps_updated num="4">Add rice, soy sauce, pepper, and pineapple. </steps_updated>
+    <steps_updated num="5">Mix well and let the rice cook until slightly crispy. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04221</start_time>
+    <end_time>05280</end_time>
+  </duration_human>
+</recipe>

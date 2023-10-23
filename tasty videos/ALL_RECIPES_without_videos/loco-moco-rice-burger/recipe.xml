@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loco Moco Rice Burger</title>
+  <url>https://tasty.co/recipe/loco-moco-rice-burger</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">rice, leftover rice, to form "buns" </ingredient>
+    <ingredient num="1">soy sauce </ingredient>
+    <ingredient num="2">¾ lb ; ground beef ; (340 g) </ingredient>
+    <ingredient num="3">⅓ cup ; onion, chopped ; (50 g) </ingredient>
+    <ingredient num="4">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">⅓ cup ; panko breadcrumbs ; (17 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; worcestershire sauce </ingredient>
+    <ingredient num="7">1 teaspoon ; oyster sauce </ingredient>
+    <ingredient num="8">8 oz ; mushrooms, sliced ; (227 g) </ingredient>
+    <ingredient num="9">1 cup ; beef stock ; (267 mL) </ingredient>
+    <ingredient num="10">1 tablespoon ; cornstarch slurry, 1 Tbsp. of cornstarch dissolved in 1 Tbsp. of water </ingredient>
+    <ingredient num="11">2 ; eggs, sunny-side-up, optional </ingredient>
+    <ingredient num="12">scallions, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31854/low_1495124868.m3u8</low>
+    <high>https://vid.tasty.co/output/31854/mp4_720x1280/1495124868</high>
+  </video>
+  <steps>
+    <step num="0">Form “burger buns” with the leftover rice. Firmly pack rice into your desired thickness. Pan fry until both sides are lightly crisped. Brush soy sauce on both sides of the rice buns and continue to fry until it gets some color. Set aside. </step>
+    <step num="1">Form burger patties with ground beef, panko, onions, oyster sauce, Worcestershire sauce and garlic. </step>
+    <step num="2">Heat pan over medium. Fry patties to your desired doneness. Set aside. </step>
+    <step num="3">In the same pan, add mushrooms. Cook until soft. Pour in beef stock and soy sauce. Thicken with cornstarch slurry. </step>
+    <step num="4">Optional: If using eggs, preparing them sunny-side up or over easy will go well with this loco moco rice burger. </step>
+    <step num="5">Put the burger together. Start with the rice “bun,” then the beef patty, cover with gravy, top with an egg, sprinkle on some scallions, and top with another rice “bun.” </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Form “burger buns” with the leftover rice. </steps_updated>
+    <steps_updated num="1">Firmly pack rice into your desired thickness. </steps_updated>
+    <steps_updated num="2">Pan fry until both sides are lightly crisped. </steps_updated>
+    <steps_updated num="3">Brush soy sauce on both sides of the rice buns and continue to fry until it gets some color. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">Form burger patties with ground beef, panko, onions, oyster sauce, Worcestershire sauce and garlic. </steps_updated>
+    <steps_updated num="6">Heat pan over medium. </steps_updated>
+    <steps_updated num="7">Fry patties to your desired doneness. </steps_updated>
+    <steps_updated num="8">Set aside. </steps_updated>
+    <steps_updated num="9">In the same pan, add mushrooms. </steps_updated>
+    <steps_updated num="10">Cook until soft. </steps_updated>
+    <steps_updated num="11">Pour in beef stock and soy sauce. </steps_updated>
+    <steps_updated num="12">Thicken with cornstarch slurry. </steps_updated>
+    <steps_updated num="13">Optional: If using eggs, preparing them sunny-side up or over easy will go well with this loco moco rice burger. </steps_updated>
+    <steps_updated num="14">Put the burger together. </steps_updated>
+    <steps_updated num="15">Start with the rice “bun,” then the beef patty, cover with gravy, top with an egg, sprinkle on some scallions, and top with another rice “bun.” </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

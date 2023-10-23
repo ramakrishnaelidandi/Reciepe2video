@@ -1,0 +1,52 @@
+<recipe>
+  <title>Banana Cornbread Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-cornbread-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 4850 </ingredient>
+    <ingredient num="1">1813 2605 13278 8653 4834 13278 9377 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 1368 4834 </ingredient>
+    <ingredient num="3">8580 2031 13278 1319 10937 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 5802 13278 1536 8007 </ingredient>
+    <ingredient num="5">8580 9517 13278 9723 13278 10339 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 82 </ingredient>
+    <ingredient num="7">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="8">8580 2031 13278 12425 </ingredient>
+    <ingredient num="9">3917 8071 13278 10907 7990 10214 </ingredient>
+    <ingredient num="10">10907 7990 7818 </ingredient>
+    <ingredient num="11">14240 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96512/hls24_1527722457.m3u8</low>
+    <high>https://vid.tasty.co/output/96512/landscape_720/1527722457</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 14511 12833 11951 8024 9179 11951 8653 6145 1368 6145 13817 1319 13817 8341 1681 3584 9456 </step>
+    <step num="1">9179 11951 5802 13817 8341 560 1011 </step>
+    <step num="2">4026 210 11951 2604 12610 10765 8117 13817 12425 13817 8341 1681 7568 9456 </step>
+    <step num="3">10950 5994 13757 5687 11770 13757 14307 6983 11951 9924 13817 740 1813 2605 336 5981 371 2650 9368 </step>
+    <step num="4">264 7990 6175 11004 5895 1681 8574 10963 1240 415 2493 264 7990 6865 8927 3954 4255 11951 11649 7780 415 5103 6781 11951 10590 5362 1391 11951 374 9368 </step>
+    <step num="5">12774 1391 9586 13817 14057 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 12833 11951 8024 </steps_updated>
+    <steps_updated num="1">9179 11951 8653 6145 1368 6145 13817 1319 13817 8341 1681 3584 9456 </steps_updated>
+    <steps_updated num="2">9179 11951 5802 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="3">4026 210 11951 2604 12610 10765 8117 13817 12425 13817 8341 1681 7568 9456 </steps_updated>
+    <steps_updated num="4">10950 5994 13757 5687 11770 13757 14307 6983 11951 9924 13817 740 1813 2605 336 5981 371 2650 9368 </steps_updated>
+    <steps_updated num="5">264 7990 6175 11004 5895 1681 8574 10963 1240 415 2493 </steps_updated>
+    <steps_updated num="6">264 7990 6865 8927 3954 4255 11951 11649 7780 415 5103 6781 11951 10590 </steps_updated>
+    <steps_updated num="7">5362 1391 11951 374 9368 </steps_updated>
+    <steps_updated num="8">12774 1391 9586 13817 14057 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

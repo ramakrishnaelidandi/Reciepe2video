@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2½ Hour Tomato Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-1-2-hour-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-vs-store-bought-tomato-sauce</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="1">2 cloves ; garlic, crushed </ingredient>
+    <ingredient num="2">1 ; small onion, halved </ingredient>
+    <ingredient num="3">56 oz ; tomato, whole canned ; (1.60 kg) </ingredient>
+    <ingredient num="4">2 teaspoons ; salt, plus more to taste </ingredient>
+    <ingredient num="5">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="6">1 ; dried basil </ingredient>
+    <ingredient num="7">1 ; bay leaf </ingredient>
+    <ingredient num="8">¼ cup ; fresh basil, chopped ; (10 g) </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+    <ingredient num="10">sugar, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/74197/hls24_1516670926.m3u8</low>
+    <high>https://vid.tasty.co/output/74197/landscape_720/1516670926</high>
+  </video>
+  <duration>
+    <start_time>105.0</start_time>
+    <end_time>194.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a pot over medium heat, add the olive oil and garlic. Cook for about 2 minutes or until fragrant, but not browned. </step>
+    <step num="1">Add the tomatoes with their juice, and crush with the back of a spoon. </step>
+    <step num="2">Add the onion and salt, and stir occasionally. Bring to a boil, then reduce to a simmer for an hour. </step>
+    <step num="3">Discard the garlic and onion, then puree to the desired consistency with a food mill or immersion blender. </step>
+    <step num="4">Transfer the sauce back to a pot and add the bay leaf, dried oregano, and dried basil. Bring to a simmer for about 90 minutes or until the desired thickness. </step>
+    <step num="5">Discard the bay leaf, add the fresh basil and, to taste, salt, pepper, and sugar. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a pot over medium heat, add the olive oil and garlic. </steps_updated>
+    <steps_updated num="1">Cook for about 2 minutes or until fragrant, but not browned. </steps_updated>
+    <steps_updated num="2">Add the tomatoes with their juice, and crush with the back of a spoon. </steps_updated>
+    <steps_updated num="3">Add the onion and salt, and stir occasionally. </steps_updated>
+    <steps_updated num="4">Bring to a boil, then reduce to a simmer for an hour. </steps_updated>
+    <steps_updated num="5">Discard the garlic and onion, then puree to the desired consistency with a food mill or immersion blender. </steps_updated>
+    <steps_updated num="6">Transfer the sauce back to a pot and add the bay leaf, dried oregano, and dried basil. </steps_updated>
+    <steps_updated num="7">Bring to a simmer for about 90 minutes or until the desired thickness. </steps_updated>
+    <steps_updated num="8">Discard the bay leaf, add the fresh basil and, to taste, salt, pepper, and sugar. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02556</start_time>
+    <end_time>04643</end_time>
+  </duration_human>
+</recipe>

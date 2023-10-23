@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steak Fajitas Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-fajitas-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/skewers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; sirloin steak, cut into 1-inch cubes ; (900 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; cumin </ingredient>
+    <ingredient num="2">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">2 ; green bell peppers, cut into 1-inch pieces </ingredient>
+    <ingredient num="7">2 ; red bell peppers, cut into 1-inch pieces </ingredient>
+    <ingredient num="8">1 ; large white onion, cut into 1-inch pieces </ingredient>
+    <ingredient num="9">8 skewers ; bamboo skewer, soaked in water for 20 minutes </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Mexican</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39367/low_1498728261.m3u8</low>
+    <high>https://vid.tasty.co/output/39367/mp4_720x1280/1498728261</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>36.175</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the grill to medium-high heat. </step>
+    <step num="1">Combine the steak, cumin, chili powder, garlic powder, salt, and pepper in a medium bowl and mix until the steak is evenly coated. </step>
+    <step num="2">Slide a piece of steak down a skewer, followed by a piece of green pepper, red pepper, and onion. Continue until there is a 1-inch gap on the top of the skewer. </step>
+    <step num="3">Repeat with the remaining skewers. </step>
+    <step num="4">Grease the surface of the grill by rubbing the grates with an oiled paper towel (use tongs to grip!). </step>
+    <step num="5">Grill the skewers for 10-15 minutes with the lid closed, flipping them halfway through. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the grill to medium-high heat. </steps_updated>
+    <steps_updated num="1">Combine the steak, cumin, chili powder, garlic powder, salt, and pepper in a medium bowl and mix until the steak is evenly coated. </steps_updated>
+    <steps_updated num="2">Slide a piece of steak down a skewer, followed by a piece of green pepper, red pepper, and onion. </steps_updated>
+    <steps_updated num="3">Continue until there is a 1-inch gap on the top of the skewer. </steps_updated>
+    <steps_updated num="4">Repeat with the remaining skewers. </steps_updated>
+    <steps_updated num="5">Grease the surface of the grill by rubbing the grates with an oiled paper towel (use tongs to grip! </steps_updated>
+    <steps_updated num="6">). </steps_updated>
+    <steps_updated num="7">Grill the skewers for 10-15 minutes with the lid closed, flipping them halfway through. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00855</end_time>
+  </duration_human>
+</recipe>

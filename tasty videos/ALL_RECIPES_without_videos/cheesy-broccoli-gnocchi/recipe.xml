@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Broccoli Gnocchi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-broccoli-gnocchi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 oz ; runner bean ; (100 g) </ingredient>
+    <ingredient num="1">15 oz ; broccoli ; (100 g) </ingredient>
+    <ingredient num="2">15 oz ; gnocchi ; (500 g) </ingredient>
+    <ingredient num="3">1 cup ; grated mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="4">1 cup ; grated parmesan cheese ; (100 g) </ingredient>
+    <ingredient num="5">3 tablespoons ; single cream ; (50 mL) </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12119/low_1476469553.m3u8</low>
+    <high>https://vid.tasty.co/output/12119/mp4_720x1280/1476469553</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 180°C (350°F). </step>
+    <step num="1">Bring some water to the boil in a saucepan and boil the runner beans and broccoli for 2-3 minutes. </step>
+    <step num="2">Take them out of the water and set aside. </step>
+    <step num="3">In the same boiling water, cook the gnocchi for 2 minutes (or, until it floats to the top of the water). Drain. </step>
+    <step num="4">In the same saucepan, mix together the drained gnocchi, runner beans, broccoli, mozzarella, parmesan, cream, and pepper. </step>
+    <step num="5">Pour into an ovenproof dish and bake for 5 minutes at 180°C (350°F), until the cheese bubbles. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="1">Bring some water to the boil in a saucepan and boil the runner beans and broccoli for 2-3 minutes. </steps_updated>
+    <steps_updated num="2">Take them out of the water and set aside. </steps_updated>
+    <steps_updated num="3">In the same boiling water, cook the gnocchi for 2 minutes (or, until it floats to the top of the water). </steps_updated>
+    <steps_updated num="4">Drain. </steps_updated>
+    <steps_updated num="5">In the same saucepan, mix together the drained gnocchi, runner beans, broccoli, mozzarella, parmesan, cream, and pepper. </steps_updated>
+    <steps_updated num="6">Pour into an ovenproof dish and bake for 5 minutes at 180°C (350°F), until the cheese bubbles. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

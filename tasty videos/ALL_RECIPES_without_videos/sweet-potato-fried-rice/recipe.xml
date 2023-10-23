@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato "Fried" Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-rice-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; medium-sized sweet potatoes, peeled and chopped </ingredient>
+    <ingredient num="1">1 tablespoon ; cooking oil, of preference, or water </ingredient>
+    <ingredient num="2">½ ; white onion, diced </ingredient>
+    <ingredient num="3">2 ; large carrots, peeled and sliced </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">½ cup ; vegetable broth ; (120 mL) </ingredient>
+    <ingredient num="7">½ cup ; pea, cooked ; (75 g) </ingredient>
+    <ingredient num="8">2 ; eggs, scrambled </ingredient>
+    <ingredient num="9">2 tablespoons ; low sodium soy sauce </ingredient>
+    <ingredient num="10">green onion, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54054/low_1506622144.m3u8</low>
+    <high>https://vid.tasty.co/output/54054/mp4_720x1280/1506622144</high>
+  </video>
+  <duration>
+    <start_time>26.64</start_time>
+    <end_time>56.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a food processor, pulse the sweet potato chunks until they reach your desired “rice” consistency. </step>
+    <step num="1">In a large skillet over medium heat, heat oil, then add onions and let cook until translucent. </step>
+    <step num="2">Add sweet potato rice, carrots, salt, pepper, and vegetable broth and cook until the liquid has evaporated and the sweet potato is tender, stirring occasionally. </step>
+    <step num="3">Add peas, eggs, and soy sauce, and combine, allowing it to heat through. </step>
+    <step num="4">Garnish with green onions. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, pulse the sweet potato chunks until they reach your desired “rice” consistency. </steps_updated>
+    <steps_updated num="1">In a large skillet over medium heat, heat oil, then add onions and let cook until translucent. </steps_updated>
+    <steps_updated num="2">Add sweet potato rice, carrots, salt, pepper, and vegetable broth and cook until the liquid has evaporated and the sweet potato is tender, stirring occasionally. </steps_updated>
+    <steps_updated num="3">Add peas, eggs, and soy sauce, and combine, allowing it to heat through. </steps_updated>
+    <steps_updated num="4">Garnish with green onions. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00856</start_time>
+    <end_time>01724</end_time>
+  </duration_human>
+</recipe>

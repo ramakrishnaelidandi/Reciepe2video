@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Giant Peanut Butter Cup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/giant-peanut-butter-cup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; milk chocolate chips, divided ; (700 g) </ingredient>
+    <ingredient num="1">2 cups ; creamy peanut butter ; (480 g) </ingredient>
+    <ingredient num="2">2 cups ; powdered sugar, sifted ; (320 g) </ingredient>
+    <ingredient num="3">½ cup ; butter, softened ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48152/low_1503082737.m3u8</low>
+    <high>https://vid.tasty.co/output/48152/mp4_720x1280/1503082737</high>
+  </video>
+  <steps>
+    <step num="0">In a small bowl, place half of the chocolate chips. </step>
+    <step num="1">Melt in the microwave in 30 second intervals, stirring in between, until fully melted. </step>
+    <step num="2">Pour melted chocolate into a 10-inch (25 ½ cm) tart pan making sure to coat the entire pan, including all sides. </step>
+    <step num="3">Refrigerate until set. </step>
+    <step num="4">In a large bowl, place the peanut butter, powdered sugar, and softened butter and mix until smooth. </step>
+    <step num="5">Pour the peanut butter into the tart pan and smooth the surface. </step>
+    <step num="6">Melt remaining chocolate and pour over the peanut butter. </step>
+    <step num="7">Smooth out the chocolate making sure it covers the entire surface. </step>
+    <step num="8">Refrigerate until set, about 1 hour. </step>
+    <step num="9">Slice and serve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, place half of the chocolate chips. </steps_updated>
+    <steps_updated num="1">Melt in the microwave in 30 second intervals, stirring in between, until fully melted. </steps_updated>
+    <steps_updated num="2">Pour melted chocolate into a 10-inch (25 ½ cm) tart pan making sure to coat the entire pan, including all sides. </steps_updated>
+    <steps_updated num="3">Refrigerate until set. </steps_updated>
+    <steps_updated num="4">In a large bowl, place the peanut butter, powdered sugar, and softened butter and mix until smooth. </steps_updated>
+    <steps_updated num="5">Pour the peanut butter into the tart pan and smooth the surface. </steps_updated>
+    <steps_updated num="6">Melt remaining chocolate and pour over the peanut butter. </steps_updated>
+    <steps_updated num="7">Smooth out the chocolate making sure it covers the entire surface. </steps_updated>
+    <steps_updated num="8">Refrigerate until set, about 1 hour. </steps_updated>
+    <steps_updated num="9">Slice and serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<recipe>
+  <title>Sweet Potato Avocado Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-avocado-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-3-course-brunch</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 10882 2868 </ingredient>
+    <ingredient num="1">3917 13278 2597 4485 </ingredient>
+    <ingredient num="2">8580 13278 4387 10015 </ingredient>
+    <ingredient num="3">9883 2605 13278 8602 9668 13278 757 5981 </ingredient>
+    <ingredient num="4">7035 61 7990 4711 </ingredient>
+    <ingredient num="5">11039 13810 61 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31259/low_1494377965.m3u8</low>
+    <high>https://vid.tasty.co/output/31259/mp4_720x1280/1494377965</high>
+  </video>
+  <duration>
+    <start_time>39.99</start_time>
+    <end_time>89.75</end_time>
+  </duration>
+  <steps>
+    <step num="0">3235 10882 2868 3449 669 7579 1745 51 7711 10832 </step>
+    <step num="1">5570 8535 210 14364 4255 8283 7990 6285 2933 11004 5895 1681 3745 8119 10560 5401 12533 560 4870 3755 7679 7287 10013 4255 11951 7335 12313 14364 10870 </step>
+    <step num="2">4829 11951 10882 2868 9490 7409 12833 11951 4485 210 5994 7616 9179 11384 13817 8720 12473 560 1011 </step>
+    <step num="3">13494 12313 10882 2868 10700 1391 11951 9635 4485 2373 13817 4711 1391 885 8932 13817 13641 </step>
+    <step num="4">12774 7389 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 10882 2868 3449 669 7579 1745 51 7711 10832 </steps_updated>
+    <steps_updated num="1">5570 8535 210 14364 4255 8283 7990 6285 2933 11004 5895 1681 3745 8119 </steps_updated>
+    <steps_updated num="2">10560 5401 12533 560 4870 3755 7679 7287 10013 4255 11951 7335 12313 14364 10870 </steps_updated>
+    <steps_updated num="3">4829 11951 10882 2868 9490 7409 12833 11951 4485 210 5994 7616 </steps_updated>
+    <steps_updated num="4">9179 11384 13817 8720 </steps_updated>
+    <steps_updated num="5">12473 560 1011 </steps_updated>
+    <steps_updated num="6">13494 12313 10882 2868 10700 1391 11951 9635 4485 2373 13817 4711 1391 885 8932 13817 13641 </steps_updated>
+    <steps_updated num="7">12774 7389 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01211</start_time>
+    <end_time>02705</end_time>
+  </duration_human>
+</recipe>

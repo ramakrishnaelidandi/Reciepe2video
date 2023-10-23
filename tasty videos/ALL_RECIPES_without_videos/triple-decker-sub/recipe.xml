@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Triple Decker Sub Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/triple-decker-sub</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cucumber-subs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; cucumbers </ingredient>
+    <ingredient num="1">¼ cup ; mustard ; (60 g) </ingredient>
+    <ingredient num="2">¼ cup ; mayonnaise ; (60 g) </ingredient>
+    <ingredient num="3">8 slices ; roast beef </ingredient>
+    <ingredient num="4">4 slices ; turkey </ingredient>
+    <ingredient num="5">4 slices ; ham </ingredient>
+    <ingredient num="6">8 slices ; cheddar cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Snacks</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51392/low_1504802973.m3u8</low>
+    <high>https://vid.tasty.co/output/51392/mp4_720x1280/1504802973</high>
+  </video>
+  <duration>
+    <start_time>0.77</start_time>
+    <end_time>31.96</end_time>
+  </duration>
+  <steps>
+    <step num="0">Use a vegetable peeler to peel the cucumbers. </step>
+    <step num="1">On a cutting board, cut and discard the ends. Cut the cucumbers in half. Scoop out the seeds and discard. </step>
+    <step num="2">Spread mustard on one half of the prepared cucumber and mayonnaise on the other. </step>
+    <step num="3">Layer the roast beef, turkey, ham, and cheddar cheese, and close the sandwich. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a vegetable peeler to peel the cucumbers. </steps_updated>
+    <steps_updated num="1">On a cutting board, cut and discard the ends. </steps_updated>
+    <steps_updated num="2">Cut the cucumbers in half. </steps_updated>
+    <steps_updated num="3">Scoop out the seeds and discard. </steps_updated>
+    <steps_updated num="4">Spread mustard on one half of the prepared cucumber and mayonnaise on the other. </steps_updated>
+    <steps_updated num="5">Layer the roast beef, turkey, ham, and cheddar cheese, and close the sandwich. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00079</start_time>
+    <end_time>01006</end_time>
+  </duration_human>
+</recipe>

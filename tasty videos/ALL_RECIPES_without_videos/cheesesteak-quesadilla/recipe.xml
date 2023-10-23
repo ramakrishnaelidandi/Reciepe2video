@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesesteak Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesesteak-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quesadillas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">½ lb ; skirt steak, sliced into thin strips ; (225 g) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">¼ cup ; onion, julienned ; (40 g) </ingredient>
+    <ingredient num="5">¼ cup ; green bell pepper, julienned ; (25 g) </ingredient>
+    <ingredient num="6">2 ; large flour tortillas </ingredient>
+    <ingredient num="7">4 slices ; provolone cheese, double for 2 quesadillas </ingredient>
+    <ingredient num="8">fresh parsley </ingredient>
+    <ingredient num="9">cheese sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7994/low_1472223451.m3u8</low>
+    <high>https://vid.tasty.co/output/7994/mp4_720x1280/1472223451</high>
+  </video>
+  <duration>
+    <start_time>57.23</start_time>
+    <end_time>83.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat olive oil in a large skillet and add the strips of skirt steak. Season with salt &amp; pepper and cook 5-7 minutes. Remove from the pan. </step>
+    <step num="1">Add onion and bell peppers to the pan and cook until slightly soft. Remove from skillet. </step>
+    <step num="2">Place the tortilla in the pan and add a layer of cheese on half of the tortilla followed by the steak, peppers and onions. Top with more cheese and fold in half. </step>
+    <step num="3">Cook for 6 minutes over medium heat, flipping half way. </step>
+    <step num="4">Serve with cheese sauce and garnish fresh parsley. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil in a large skillet and add the strips of skirt steak. </steps_updated>
+    <steps_updated num="1">Season with salt &amp; pepper and cook 5-7 minutes. </steps_updated>
+    <steps_updated num="2">Remove from the pan. </steps_updated>
+    <steps_updated num="3">Add onion and bell peppers to the pan and cook until slightly soft. </steps_updated>
+    <steps_updated num="4">Remove from skillet. </steps_updated>
+    <steps_updated num="5">Place the tortilla in the pan and add a layer of cheese on half of the tortilla followed by the steak, peppers and onions. </steps_updated>
+    <steps_updated num="6">Top with more cheese and fold in half. </steps_updated>
+    <steps_updated num="7">Cook for 6 minutes over medium heat, flipping half way. </steps_updated>
+    <steps_updated num="8">Serve with cheese sauce and garnish fresh parsley. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01776</start_time>
+    <end_time>02506</end_time>
+  </duration_human>
+</recipe>

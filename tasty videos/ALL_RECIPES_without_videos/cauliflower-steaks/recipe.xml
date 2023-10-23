@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Steaks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-steaks</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 large head ; cauliflower </ingredient>
+    <ingredient num="1">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="3">1 teaspoon ; dried basil </ingredient>
+    <ingredient num="4">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="5">1 teaspoon ; fresh thyme </ingredient>
+    <ingredient num="6">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="7">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="8">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Dinner</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Lunch</category>
+    <category num="10">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90432/hls24_1524249787.m3u8</low>
+    <high>https://vid.tasty.co/output/90432/landscape_720/1524249787</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Remove the green leaves from the cauliflower stem with a knife. </step>
+    <step num="2">Place the cauliflower core-down on a cutting board and trim 2 sides so they become flat. </step>
+    <step num="3">Cut the cauliflower in half and then cut each half in two to get 4 “steaks”. </step>
+    <step num="4">Rinse and dry the cauliflower steaks. </step>
+    <step num="5">In a small bowl, combine the olive oil, lemon juice, basil, oregano, thyme, rosemary, onion, and garlic, plus salt and pepper to taste. Mix well. </step>
+    <step num="6">Place the cauliflower steaks on the baking sheet and brush generously with the oil mixture. </step>
+    <step num="7">Bake for about 25 minutes, flipping halfway, until tender. </step>
+    <step num="8">Serve as desired, such as on a sandwich with pesto and red pepper, or with barbecue sauce and roasted potatoes, or with vegan mushroom gravy and lentils. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Remove the green leaves from the cauliflower stem with a knife. </steps_updated>
+    <steps_updated num="3">Place the cauliflower core-down on a cutting board and trim 2 sides so they become flat. </steps_updated>
+    <steps_updated num="4">Cut the cauliflower in half and then cut each half in two to get 4 “steaks”. </steps_updated>
+    <steps_updated num="5">Rinse and dry the cauliflower steaks. </steps_updated>
+    <steps_updated num="6">In a small bowl, combine the olive oil, lemon juice, basil, oregano, thyme, rosemary, onion, and garlic, plus salt and pepper to taste. </steps_updated>
+    <steps_updated num="7">Mix well. </steps_updated>
+    <steps_updated num="8">Place the cauliflower steaks on the baking sheet and brush generously with the oil mixture. </steps_updated>
+    <steps_updated num="9">Bake for about 25 minutes, flipping halfway, until tender. </steps_updated>
+    <steps_updated num="10">Serve as desired, such as on a sandwich with pesto and red pepper, or with barbecue sauce and roasted potatoes, or with vegan mushroom gravy and lentils. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

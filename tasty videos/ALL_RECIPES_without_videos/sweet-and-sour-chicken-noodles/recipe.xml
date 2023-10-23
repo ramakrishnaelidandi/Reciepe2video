@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet-and-sour Chicken Noodles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-and-sour-chicken-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/noodles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">2 cloves ; garlic </ingredient>
+    <ingredient num="4">1 ; red pepper </ingredient>
+    <ingredient num="5">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="6">1 tablespoon ; ketchup </ingredient>
+    <ingredient num="7">1 tablespoon ; cider vinegar </ingredient>
+    <ingredient num="8">9 oz ; noodle, cooked ; (250 g) </ingredient>
+    <ingredient num="9">sesame seed, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11272/low_1475518362.m3u8</low>
+    <high>https://vid.tasty.co/output/11272/mp4_720x1280/1475518362</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>108.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Sear the chicken until golden brown in the pan with the salt and pepper. Take out and set aside. </step>
+    <step num="1">In the same pan, fry the garlic and red pepper for a couple of minutes before stirring in the soy sauce, ketchup, and vinegar. </step>
+    <step num="2">Add the chicken and noodles, and mix together for another couple of minutes. </step>
+    <step num="3">Garnish with sesame seeds. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Sear the chicken until golden brown in the pan with the salt and pepper. </steps_updated>
+    <steps_updated num="1">Take out and set aside. </steps_updated>
+    <steps_updated num="2">In the same pan, fry the garlic and red pepper for a couple of minutes before stirring in the soy sauce, ketchup, and vinegar. </steps_updated>
+    <steps_updated num="3">Add the chicken and noodles, and mix together for another couple of minutes. </steps_updated>
+    <steps_updated num="4">Garnish with sesame seeds. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02428</start_time>
+    <end_time>03248</end_time>
+  </duration_human>
+</recipe>

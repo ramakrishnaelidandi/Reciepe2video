@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mason Jar Spicy Peanut Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mason-jar-spicy-peanut-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-simple-mason-jar-sauces</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; peanut butter ; (240 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="2">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="3">2 teaspoons ; fish sauce </ingredient>
+    <ingredient num="4">½ cup ; soy sauce ; (120 mL) </ingredient>
+    <ingredient num="5">½ cup ; scallion, chopped ; (50 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; sriracha </ingredient>
+    <ingredient num="7">1 cup ; water ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94047/hls24_1526342726.m3u8</low>
+    <high>https://vid.tasty.co/output/94047/landscape_720/1526342726</high>
+  </video>
+  <duration>
+    <start_time>99.0</start_time>
+    <end_time>123.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large mason jar, combine the peanut butter, garlic, ginger, fish sauce, soy sauce, scallions, Sriracha, and water. Shake to combine. </step>
+    <step num="1">Store in the fridge for up to a week. </step>
+    <step num="2">Add to a hot pan with food as you wish! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mason jar, combine the peanut butter, garlic, ginger, fish sauce, soy sauce, scallions, Sriracha, and water. </steps_updated>
+    <steps_updated num="1">Shake to combine. </steps_updated>
+    <steps_updated num="2">Store in the fridge for up to a week </steps_updated>
+    <steps_updated num="3">Add to a hot pan with food as you wish! </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

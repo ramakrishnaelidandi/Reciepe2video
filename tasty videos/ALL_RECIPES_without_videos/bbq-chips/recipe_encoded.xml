@@ -1,0 +1,50 @@
+<recipe>
+  <title>BBQ Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-potato-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 11486 13233 </ingredient>
+    <ingredient num="1">3917 14014 13278 8224 5766 </ingredient>
+    <ingredient num="2">3917 14014 13278 9496 </ingredient>
+    <ingredient num="3">3917 14014 13278 13389 11703 </ingredient>
+    <ingredient num="4">8580 9486 13278 1368 4834 </ingredient>
+    <ingredient num="5">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">3917 14014 13278 7845 </ingredient>
+    <ingredient num="7">3917 14014 13278 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12485/low_1476915695.m3u8</low>
+    <high>https://vid.tasty.co/output/12485/mp4_720x1280/1476915695</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>44.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 5651 14522 </step>
+    <step num="1">12775 12205 13086 11486 13233 669 6406 8358 8535 10104 5994 5668 5895 9749 </step>
+    <step num="2">10950 5994 2597 14511 10968 11951 2868 11318 1391 295 </step>
+    <step num="3">6695 11318 4255 2362 10765 8800 </step>
+    <step num="4">7831 7990 13734 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 5651 14522 </steps_updated>
+    <steps_updated num="1">12775 12205 13086 11486 13233 669 6406 8358 8535 10104 5994 5668 5895 9749 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 10968 11951 2868 11318 1391 295 </steps_updated>
+    <steps_updated num="3">6695 11318 4255 2362 10765 8800 </steps_updated>
+    <steps_updated num="4">7831 7990 13734 12689 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

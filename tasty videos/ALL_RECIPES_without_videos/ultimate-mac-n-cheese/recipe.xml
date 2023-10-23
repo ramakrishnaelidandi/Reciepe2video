@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ultimate Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ultimate-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ lb ; bacon, sliced ; (225 g) </ingredient>
+    <ingredient num="1">5 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">2 cups ; panko breadcrumbs ; (100 g) </ingredient>
+    <ingredient num="3">½ cup ; fresh chives, chopped ; (20 g) </ingredient>
+    <ingredient num="4">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+    <ingredient num="5">4 tablespoons ; butter </ingredient>
+    <ingredient num="6">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="7">3 cups ; evaporated milk ; (720 mL) </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+    <ingredient num="10">2 teaspoons ; dry mustard powder </ingredient>
+    <ingredient num="11">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="12">1 lb ; macaroni, cooked ; (455 g) </ingredient>
+    <ingredient num="13">½ cup ; cheddar cheese, cubed ; (65 g) </ingredient>
+    <ingredient num="14">½ cup ; gruyère cheese, shredded ; (50 g) </ingredient>
+    <ingredient num="15">½ cup ; colby jack cheese, cubed ; (65 g) </ingredient>
+    <ingredient num="16">½ cup ; smoked gouda cheese, shredded ; (50 g) </ingredient>
+    <ingredient num="17">½ cup ; provolone cheese, cubed ; (65 g) </ingredient>
+    <ingredient num="18">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="19">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/116299/hls24_1542748588.m3u8</low>
+    <high>https://vid.tasty.co/output/116299/landscape_720/1542748588</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">In a large pot over medium heat, cook the bacon crispy and the fat has rendered. </step>
+    <step num="2">Add the garlic, bread crumbs, chives, and parsley. Stir and cook until the bread crumbs are toasted, about 5 minutes. Remove from the pot. </step>
+    <step num="3">In the same pot on medium heat, melt the butter. Sprinkle in the flour and stir until combined. </step>
+    <step num="4">Add the evaporated milk and bring to a simmer. Season with salt, pepper, mustard powder, and cayenne. Whisk to incorporate and smooth any lumps. The sauce should be thick enough to coat the back of the spoon. </step>
+    <step num="5">Add the pasta to the sauce and stir to combine. </step>
+    <step num="6">Add the cheddar, Gruyère, Colby Jack, Gouda, and provolone cheese, then fold the cheeses into the pasta. If it seems too dry, add more milk to your liking. </step>
+    <step num="7">Transfer the mixture to a baking dish and top with the shredded mozzarella and cheddar. </step>
+    <step num="8">Bake for 45 minutes, or until the mac ‘n’ cheese is bubbly, melted, and golden brown on top. </step>
+    <step num="9">Serve with a sprinkle of the bread crumb mixture for added flavor! </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large pot over medium heat, cook the bacon crispy and the fat has rendered. </steps_updated>
+    <steps_updated num="2">Add the garlic, bread crumbs, chives, and parsley. </steps_updated>
+    <steps_updated num="3">Stir and cook until the bread crumbs are toasted, about 5 minutes. </steps_updated>
+    <steps_updated num="4">Remove from the pot. </steps_updated>
+    <steps_updated num="5">In the same pot on medium heat, melt the butter. </steps_updated>
+    <steps_updated num="6">Sprinkle in the flour and stir until combined. </steps_updated>
+    <steps_updated num="7">Add the evaporated milk and bring to a simmer. </steps_updated>
+    <steps_updated num="8">Season with salt, pepper, mustard powder, and cayenne. </steps_updated>
+    <steps_updated num="9">Whisk to incorporate and smooth any lumps. </steps_updated>
+    <steps_updated num="10">The sauce should be thick enough to coat the back of the spoon. </steps_updated>
+    <steps_updated num="11">Add the pasta to the sauce and stir to combine. </steps_updated>
+    <steps_updated num="12">Add the cheddar, Gruyère, Colby Jack, Gouda, and provolone cheese, then fold the cheeses into the pasta. </steps_updated>
+    <steps_updated num="13">If it seems too dry, add more milk to your liking. </steps_updated>
+    <steps_updated num="14">Transfer the mixture to a baking dish and top with the shredded mozzarella and cheddar. </steps_updated>
+    <steps_updated num="15">Bake for 45 minutes, or until the mac ‘n’ cheese is bubbly, melted, and golden brown on top. </steps_updated>
+    <steps_updated num="16">Serve with a sprinkle of the bread crumb mixture for added flavor! </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

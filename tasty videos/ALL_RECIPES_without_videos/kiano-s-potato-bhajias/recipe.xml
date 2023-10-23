@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Potato Bhajias</title>
+  <url>https://tasty.co/recipe/kiano-s-potato-bhajias</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; chickpea flour ; (40 g) </ingredient>
+    <ingredient num="1">¼ cup ; rice flour ; (30 g) </ingredient>
+    <ingredient num="2">¼ cup ; fresh cilantro, finely chopped ; (10 g) </ingredient>
+    <ingredient num="3">2 ; serrano peppers, seeded and finely chopped </ingredient>
+    <ingredient num="4">2 teaspoons ; ginger paste </ingredient>
+    <ingredient num="5">2 teaspoons ; garlic paste </ingredient>
+    <ingredient num="6">kosher salt, to taste </ingredient>
+    <ingredient num="7">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="8">oil, for frying </ingredient>
+    <ingredient num="9">1 lb ; yukon gold potato, peeled and sliced into 1/8 in (3 mm) thick rounds ; (455 g) </ingredient>
+    <ingredient num="10">tomato, or other chutney, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Appetizers</category>
+    <category num="1">Snacks</category>
+    <category num="2">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125984/hls24_1551318356.m3u8</low>
+    <high>https://vid.tasty.co/output/125984/landscape_720/1551318356</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine the chickpea flour, rice flour, cilantro, serrano peppers, ginger, garlic, salt, and water. Stir with a rubber spatula until smooth. </step>
+    <step num="1">Heat 1 inch (2 cm) of oil in a deep skillet over medium-high heat until it reaches 350˚F (180˚C). </step>
+    <step num="2">Working in batches, add the potatoes to the batter and toss to coat. </step>
+    <step num="3">In batches, transfer the battered potatoes to the hot oil and fry until golden brown, flipping occasionally. Drain the fried potatoes on paper towels. </step>
+    <step num="4">Serve hot with tomato chutney or your chutney of choice. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the chickpea flour, rice flour, cilantro, serrano peppers, ginger, garlic, salt, and water. </steps_updated>
+    <steps_updated num="1">Stir with a rubber spatula until smooth. </steps_updated>
+    <steps_updated num="2">Heat 1 inch (2 cm) of oil in a deep skillet over medium-high heat until it reaches 350˚F (180˚C). </steps_updated>
+    <steps_updated num="3">Working in batches, add the potatoes to the batter and toss to coat. </steps_updated>
+    <steps_updated num="4">In batches, transfer the battered potatoes to the hot oil and fry until golden brown, flipping occasionally. </steps_updated>
+    <steps_updated num="5">Drain the fried potatoes on paper towels. </steps_updated>
+    <steps_updated num="6">Serve hot with tomato chutney or your chutney of choice. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

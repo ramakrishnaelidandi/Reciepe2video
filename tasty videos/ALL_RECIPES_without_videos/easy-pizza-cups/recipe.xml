@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Pizza Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-pizza-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tube ; pizza dough </ingredient>
+    <ingredient num="1">1 cup ; pizza sauce ; (225 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; mozzarella cheese ; (150 g) </ingredient>
+    <ingredient num="3">desired pizza topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27110/low_1490136396.m3u8</low>
+    <high>https://vid.tasty.co/output/27110/mp4_720x1280/1490136396</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Cut pizza dough into 12 square pieces and place in a greased muffin tin. </step>
+    <step num="2">Place a spoonful of pizza sauce and some cheese into the bottom of each cup. </step>
+    <step num="3">Fill with your favorite pizza toppings and combinations! </step>
+    <step num="4">Bake for 20-25 minutes or until fully baked. If the tops are getting too brown too quickly, cover the pan with foil and put back into the oven for the remainder of the cooking time. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Cut pizza dough into 12 square pieces and place in a greased muffin tin. </steps_updated>
+    <steps_updated num="2">Place a spoonful of pizza sauce and some cheese into the bottom of each cup. </steps_updated>
+    <steps_updated num="3">Fill with your favorite pizza toppings and combinations! </steps_updated>
+    <steps_updated num="4">Bake for 20-25 minutes or until fully baked. </steps_updated>
+    <steps_updated num="5">If the tops are getting too brown too quickly, cover the pan with foil and put back into the oven for the remainder of the cooking time. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

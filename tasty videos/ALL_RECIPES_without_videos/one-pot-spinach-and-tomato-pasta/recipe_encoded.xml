@@ -1,0 +1,52 @@
+<recipe>
+  <title>One-Pot Spinach And Tomato Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-spinach-and-tomato-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-3</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 643 13278 796 3305 2168 4018 13278 6518 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 7632 7789 3917 1291 3247 </ingredient>
+    <ingredient num="2">1580 13278 11091 12384 341 </ingredient>
+    <ingredient num="3">12791 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="4">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">9883 2605 13278 341 9491 3917 9067 1391 10522 13278 757 5981 </ingredient>
+    <ingredient num="6">1580 8071 13278 3855 82 </ingredient>
+    <ingredient num="7">12791 8071 13278 11088 13584 7845 </ingredient>
+    <ingredient num="8">3917 2605 13278 3333 482 7983 13278 9373 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 7905 13220 13278 336 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94177/hls24_1526421103.m3u8</low>
+    <high>https://vid.tasty.co/output/94177/landscape_720/1526421103</high>
+  </video>
+  <duration>
+    <start_time>105.333</start_time>
+    <end_time>153.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 2597 10083 371 10298 12282 560 5994 1002 11770 8283 7855 13817 2550 11951 950 12968 560 11951 3756 1254 8583 9883 2605 7642 9443 371 950 8224 13384 415 3499 11951 950 210 5994 6258 13817 3345 11951 10083 13352 4255 11951 4445 11770 13757 7855 </step>
+    <step num="1">10450 11951 13799 740 11951 8244 7632 12384 8083 7845 8635 13817 1937 264 1681 94 6285 8580 12689 9179 11951 717 13817 8276 950 13384 13817 11779 1681 12781 5569 1991 6285 4061 12689 10242 1391 11951 82 13817 12375 </step>
+    <step num="2">9179 11951 950 13352 560 11951 13799 14473 1391 11951 3333 7983 13817 2602 13817 6142 560 4120 13817 2780 11951 11467 </step>
+    <step num="3">10434 11951 6721 210 11951 10437 7990 11951 12886 371 11951 2812 </step>
+    <step num="4">8908 10082 6262 11951 3333 9104 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 2597 10083 371 10298 12282 560 5994 1002 11770 8283 7855 13817 2550 11951 950 12968 560 11951 3756 1254 </steps_updated>
+    <steps_updated num="1">8583 9883 2605 7642 9443 371 950 8224 13384 415 3499 11951 950 210 5994 6258 13817 3345 11951 10083 13352 4255 11951 4445 11770 13757 7855 </steps_updated>
+    <steps_updated num="2">10450 11951 13799 740 11951 8244 7632 12384 8083 7845 8635 13817 1937 </steps_updated>
+    <steps_updated num="3">264 1681 94 6285 8580 12689 </steps_updated>
+    <steps_updated num="4">9179 11951 717 13817 8276 950 13384 13817 11779 1681 12781 5569 1991 6285 4061 12689 </steps_updated>
+    <steps_updated num="5">10242 1391 11951 82 13817 12375 </steps_updated>
+    <steps_updated num="6">9179 11951 950 13352 560 11951 13799 14473 1391 11951 3333 7983 13817 2602 13817 6142 560 4120 13817 2780 11951 11467 </steps_updated>
+    <steps_updated num="7">10434 11951 6721 210 11951 10437 7990 11951 12886 371 11951 2812 </steps_updated>
+    <steps_updated num="8">8908 10082 6262 11951 3333 9104 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

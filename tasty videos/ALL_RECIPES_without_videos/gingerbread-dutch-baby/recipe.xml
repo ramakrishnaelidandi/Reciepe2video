@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Gingerbread Dutch Baby Pancake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/gingerbread-dutch-baby</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; flour ; (70 g) </ingredient>
+    <ingredient num="1">¾ cup ; milk ; (180 mL) </ingredient>
+    <ingredient num="2">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="3">2 teaspoons ; ground ginger </ingredient>
+    <ingredient num="4">1 teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="5">½ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="6">½ tablespoon ; golden syrup </ingredient>
+    <ingredient num="7">3 ; eggs </ingredient>
+    <ingredient num="8">3 tablespoons ; butter </ingredient>
+    <ingredient num="9">icing sugar, to coat </ingredient>
+    <ingredient num="10">maple syrup, to coat </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">German</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/61846/low_1510677633.m3u8</low>
+    <high>https://vid.tasty.co/output/61846/mp4_720x1280/1510677633</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 200°C (400°F). </step>
+    <step num="1">In a large bowl, whisk all the pancake ingredients together with a hand whisk until thoroughly combined. Set aside. </step>
+    <step num="2">Gently melt the butter in a cast-iron skillet over medium-low heat. </step>
+    <step num="3">Pour the pancake mixture into the middle of the pan. </step>
+    <step num="4">Bake in the oven for 25 minutes, until golden brown and risen. </step>
+    <step num="5">Coat with icing sugar and maple syrup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 200°C (400°F). </steps_updated>
+    <steps_updated num="1">In a large bowl, whisk all the pancake ingredients together with a hand whisk until thoroughly combined. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">Gently melt the butter in a cast-iron skillet over medium-low heat. </steps_updated>
+    <steps_updated num="4">Pour the pancake mixture into the middle of the pan. </steps_updated>
+    <steps_updated num="5">Bake in the oven for 25 minutes, until golden brown and risen. </steps_updated>
+    <steps_updated num="6">Coat with icing sugar and maple syrup. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

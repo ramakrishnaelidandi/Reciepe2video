@@ -1,0 +1,45 @@
+<recipe>
+  <title>Tropical Mimosa Sangria Float Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tropical-mimosa-sangria-float</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sangria-sorbet-floats</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 13098 12007 13817 1088 976 13278 757 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 1379 7789 3954 7990 4711 13278 6898 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 1982 3962 13278 3153 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 6558 5013 13278 7503 8007 </ingredient>
+    <ingredient num="4">8580 9517 13278 13956 11276 12282 13278 4551 8007 </ingredient>
+    <ingredient num="5">3917 1460 13278 9118 </ingredient>
+    <ingredient num="6">3917 2952 13278 13956 11800 13278 7465 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96725/hls24_1527808667.m3u8</low>
+    <high>https://vid.tasty.co/output/96725/landscape_720/1527808667</high>
+  </video>
+  <duration>
+    <start_time>3.333</start_time>
+    <end_time>36.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 7961 4120 11951 7234 13956 4743 7476 6558 8129 13817 11276 2019 12473 13817 173 7990 7811 767 13086 13199 5895 14142 </step>
+    <step num="1">11233 12550 560 7397 5103 11951 11856 6781 11951 7111 13817 740 11951 9828 11982 6142 560 1011 </step>
+    <step num="2">5570 6620 2192 10548 371 13956 10393 210 5994 6369 1083 11951 5695 11770 11951 10393 13817 6142 1391 5994 1818 </step>
+    <step num="3">13688 1391 2237 13956 2519 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 7961 4120 11951 7234 13956 4743 7476 6558 8129 13817 11276 2019 </steps_updated>
+    <steps_updated num="1">12473 13817 173 7990 7811 767 13086 13199 5895 14142 </steps_updated>
+    <steps_updated num="2">11233 12550 560 7397 5103 11951 11856 6781 11951 7111 13817 740 11951 9828 </steps_updated>
+    <steps_updated num="3">11982 6142 560 1011 </steps_updated>
+    <steps_updated num="4">5570 6620 2192 10548 371 13956 10393 210 5994 6369 </steps_updated>
+    <steps_updated num="5">1083 11951 5695 11770 11951 10393 13817 6142 1391 5994 1818 </steps_updated>
+    <steps_updated num="6">13688 1391 2237 13956 2519 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

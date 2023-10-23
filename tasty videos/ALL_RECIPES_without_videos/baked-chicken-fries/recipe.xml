@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Chicken Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-chicken-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">2 cups ; plain breadcrumbs ; (230 g) </ingredient>
+    <ingredient num="2">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="3">5 ; eggs, beaten </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="7">½ teaspoon ; paprika </ingredient>
+    <ingredient num="8">½ teaspoon ; dried basil </ingredient>
+    <ingredient num="9">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="10">½ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41889/low_1498850377.m3u8</low>
+    <high>https://vid.tasty.co/output/41889/mp4_720x1280/1498850377</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375˚F (190˚C). </step>
+    <step num="1">Slice chicken breast in half, and cut into thin strips about the thickness of a french fry. </step>
+    <step num="2">Season bread crumbs with salt, garlic powder, onion powder, paprika, dried basil, dried oregano, and pepper. Mix well. </step>
+    <step num="3">Dredge chicken strips in the flour first, then cover in egg, and coat with bread crumbs. </step>
+    <step num="4">Place on a baking sheet lined with parchment paper and bake for 20 minutes, flipping halfway. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="1">Slice chicken breast in half, and cut into thin strips about the thickness of a french fry. </steps_updated>
+    <steps_updated num="2">Season bread crumbs with salt, garlic powder, onion powder, paprika, dried basil, dried oregano, and pepper. </steps_updated>
+    <steps_updated num="3">Mix well. </steps_updated>
+    <steps_updated num="4">Dredge chicken strips in the flour first, then cover in egg, and coat with bread crumbs. </steps_updated>
+    <steps_updated num="5">Place on a baking sheet lined with parchment paper and bake for 20 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

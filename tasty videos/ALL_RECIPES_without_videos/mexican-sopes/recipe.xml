@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mexican Sopes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mexican-sopes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; instant corn masa flour ; (115 g) </ingredient>
+    <ingredient num="1">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="2">4 ; dried california chiles, dried </ingredient>
+    <ingredient num="3">2 ½ teaspoons ; salt, divided </ingredient>
+    <ingredient num="4">1 clove ; garlic </ingredient>
+    <ingredient num="5">4 ; medium tomatoes </ingredient>
+    <ingredient num="6">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">½ lb ; skirt steak, carne asada ; (225 g) </ingredient>
+    <ingredient num="8">½ teaspoon ; all-purpose meat seasoning </ingredient>
+    <ingredient num="9">2 cups ; corn oil ; (480 mL) </ingredient>
+    <ingredient num="10">refried beans </ingredient>
+    <ingredient num="11">iceberg lettuce, shredded </ingredient>
+    <ingredient num="12">mexican crema </ingredient>
+    <ingredient num="13">queso fresco </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110671/hls24_1538095109.m3u8</low>
+    <high>https://vid.tasty.co/output/110671/landscape_720/1538095109</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, mix the masa flour and ½ cup (120 ml) of water together with your hands. Once combined, add the rest of the water and knead until the dough forms a smooth ball. </step>
+    <step num="1">Heat a large pan or griddle over medium-high heat. </step>
+    <step num="2">Pat the dough out into 6 flat circles. </step>
+    <step num="3">Fry the dough, turning frequently, until just lightly brown about 5 minutes. </step>
+    <step num="4">Once the dough is cooked, shape the sopes by pinching the sides up to form a wall around the edge. Set aside to cool. </step>
+    <step num="5">Rip the stems off the dried chiles and discard the seeds. Rinse the chiles, if necessary. </step>
+    <step num="6">Add the chiles to a small pot of water and bring to a boil over high heat. Once boiling, remove the pot from the heat. </step>
+    <step num="7">Transfer the chiles and their cooking liquid to a blender and add 1 teaspoon of salt and the garlic. Blend until smooth. Set aside. </step>
+    <step num="8">Add the tomatoes to a small pot of water and bring to a boil. Cook until the tomato skins split, then remove from the heat and drain, reserving ½ cup (120 ml) of the tomato water. </step>
+    <step num="9">Transfer the tomatoes to a blender with the reserved cooking liquid, oregano, and ½ teaspoon of salt. Blend until smooth. Set aside. </step>
+    <step num="10">Heat a large pan or griddle over medium-high heat. Add the skirt steak and season with the meat seasoning and remaining teaspoon of salt. Cook the meat, flipping frequently until seared and cooked through, about 10 minutes. </step>
+    <step num="11">Transfer the meat to a cutting board and cut into small pieces. Set aside. </step>
+    <step num="12">Heat the corn oil in a deep, large pan over high heat. </step>
+    <step num="13">Dip the sopes in the chile sauce, turning to coat completely. </step>
+    <step num="14">Once the oil is hot, fry the sopes, flipping frequently, until golden brown, about 5 minutes. Drain the sopes on paper towels or a wire rack. </step>
+    <step num="15">To serve, fill the sopes with refried beans, carne asada, shredded lettuce, tomato sauce, Mexican crema, and queso fresco. </step>
+    <step num="16">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, mix the masa flour and ½ cup (120 ml) of water together with your hands. </steps_updated>
+    <steps_updated num="1">Once combined, add the rest of the water and knead until the dough forms a smooth ball. </steps_updated>
+    <steps_updated num="2">Heat a large pan or griddle over medium-high heat. </steps_updated>
+    <steps_updated num="3">Pat the dough out into 6 flat circles. </steps_updated>
+    <steps_updated num="4">Fry the dough, turning frequently, until just lightly brown about 5 minutes. </steps_updated>
+    <steps_updated num="5">Once the dough is cooked, shape the sopes by pinching the sides up to form a wall around the edge. </steps_updated>
+    <steps_updated num="6">Set aside to cool. </steps_updated>
+    <steps_updated num="7">Rip the stems off the dried chiles and discard the seeds. </steps_updated>
+    <steps_updated num="8">Rinse the chiles, if necessary. </steps_updated>
+    <steps_updated num="9">Add the chiles to a small pot of water and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="10">Once boiling, remove the pot from the heat. </steps_updated>
+    <steps_updated num="11">Transfer the chiles and their cooking liquid to a blender and add 1 teaspoon of salt and the garlic. </steps_updated>
+    <steps_updated num="12">Blend until smooth. </steps_updated>
+    <steps_updated num="13">Set aside. </steps_updated>
+    <steps_updated num="14">Add the tomatoes to a small pot of water and bring to a boil. </steps_updated>
+    <steps_updated num="15">Cook until the tomato skins split, then remove from the heat and drain, reserving ½ cup (120 ml) of the tomato water. </steps_updated>
+    <steps_updated num="16">Transfer the tomatoes to a blender with the reserved cooking liquid, oregano, and ½ teaspoon of salt. </steps_updated>
+    <steps_updated num="17">Blend until smooth. </steps_updated>
+    <steps_updated num="18">Set aside. </steps_updated>
+    <steps_updated num="19">Heat a large pan or griddle over medium-high heat. </steps_updated>
+    <steps_updated num="20">Add the skirt steak and season with the meat seasoning and remaining teaspoon of salt. </steps_updated>
+    <steps_updated num="21">Cook the meat, flipping frequently until seared and cooked through, about 10 minutes. </steps_updated>
+    <steps_updated num="22">Transfer the meat to a cutting board and cut into small pieces. </steps_updated>
+    <steps_updated num="23">Set aside. </steps_updated>
+    <steps_updated num="24">Heat the corn oil in a deep, large pan over high heat. </steps_updated>
+    <steps_updated num="25">Dip the sopes in the chile sauce, turning to coat completely. </steps_updated>
+    <steps_updated num="26">Once the oil is hot, fry the sopes, flipping frequently, until golden brown, about 5 minutes. </steps_updated>
+    <steps_updated num="27">Drain the sopes on paper towels or a wire rack. </steps_updated>
+    <steps_updated num="28">To serve, fill the sopes with refried beans, carne asada, shredded lettuce, tomato sauce, Mexican crema, and queso fresco. </steps_updated>
+    <steps_updated num="29">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

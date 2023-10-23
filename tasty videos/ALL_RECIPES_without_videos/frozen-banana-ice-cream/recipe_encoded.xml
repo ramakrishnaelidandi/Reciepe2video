@@ -1,0 +1,48 @@
+<recipe>
+  <title>Frozen Banana Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-banana-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unexpected-ways-to-use-kitchen-scraps</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 11728 4850 </ingredient>
+    <ingredient num="1">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="2">9883 2605 13278 13798 9924 13278 10475 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Desserts</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88499/hls24_1523054333.m3u8</low>
+    <high>https://vid.tasty.co/output/88499/landscape_720/1523054333</high>
+  </video>
+  <duration>
+    <start_time>95.0</start_time>
+    <end_time>126.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">8940 11951 4850 13817 12205 669 1318 8891 1645 10832 </step>
+    <step num="1">2988 11951 4850 4255 5994 8372 10765 213 13817 13351 7990 8580 14329 </step>
+    <step num="2">3262 11951 11579 959 8535 210 5994 11861 12027 1681 6665 3313 5994 6873 7799 </step>
+    <step num="3">9179 11951 1319 13817 13798 9924 13817 1279 560 1011 </step>
+    <step num="4">12785 560 5994 12377 5895 3801 13817 13351 7990 3917 14187 5895 1681 12550 560 8956 </step>
+    <step num="5">9679 2696 2439 5808 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8940 11951 4850 13817 12205 669 1318 8891 1645 10832 </steps_updated>
+    <steps_updated num="1">2988 11951 4850 4255 5994 8372 10765 213 13817 13351 7990 8580 14329 </steps_updated>
+    <steps_updated num="2">3262 11951 11579 959 8535 210 5994 11861 12027 1681 6665 3313 5994 6873 7799 </steps_updated>
+    <steps_updated num="3">9179 11951 1319 13817 13798 9924 13817 1279 560 1011 </steps_updated>
+    <steps_updated num="4">12785 560 5994 12377 5895 3801 13817 13351 7990 3917 14187 5895 1681 12550 560 8956 </steps_updated>
+    <steps_updated num="5">9679 2696 2439 5808 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

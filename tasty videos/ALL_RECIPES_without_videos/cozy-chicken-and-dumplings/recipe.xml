@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cozy Chicken And Dumplings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cozy-chicken-and-dumplings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="1">2 lb ; boneless, skinless chicken breast, cubed ; (905 g) </ingredient>
+    <ingredient num="2">1 cup ; diced yellow onion </ingredient>
+    <ingredient num="3">1 cup ; sliced carrot </ingredient>
+    <ingredient num="4">3 cloves ; garlic cloves, minced </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">5 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="7">6 tablespoons ; all-purpose flour </ingredient>
+    <ingredient num="8">6 cups ; chicken broth ; (1 ½ L) </ingredient>
+    <ingredient num="9">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="10">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="11">2 ; bay leaves </ingredient>
+    <ingredient num="12">1 ½ cups ; frozen peas ; (225 g) </ingredient>
+    <ingredient num="13">4 tablespoons ; fresh parsley, minced </ingredient>
+    <ingredient num="14">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="15">1 tablespoon ; baking powder </ingredient>
+    <ingredient num="16">½ teaspoon ; salt </ingredient>
+    <ingredient num="17">½ teaspoon ; pepper </ingredient>
+    <ingredient num="18">1 ⅓ cups ; heavy cream ; (320 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31882/low_1495124911.m3u8</low>
+    <high>https://vid.tasty.co/output/31882/mp4_720x1280/1495124911</high>
+  </video>
+  <steps>
+    <step num="0">In a 6-quart/6-liter dutch oven, cook chicken over medium-high heat until brown on both sides. Once chicken pieces are browned, remove and set aside. </step>
+    <step num="1">Add carrot and onion and cook until just tender, about 3 minutes. </step>
+    <step num="2">Add garlic and stir for another minute. </step>
+    <step num="3">Reduce heat to medium-low and add butter and flour, stirring constantly for 3 minutes to avoid lumps. </step>
+    <step num="4">Add chicken and any accumulated juices back to dutch oven and stir to coat in roux/vegetable mix. </step>
+    <step num="5">Add chicken broth, cream, thyme, and bay leaves and bring to a simmer. Once soup is at a simmer, add frozen peas and cover. </step>
+    <step num="6">In a separate bowl, combine flour, baking powder, salt, pepper, and cream. Stir until mixture comes together into single mass of dough. </step>
+    <step num="7">Using a large spoon or ice cream scoop, form dough into small round balls about 1 inch in diameter (this dough mixture should yield 14-16 dumplings). </step>
+    <step num="8">Place dough balls into simmering soup (making sure they don’t touch), add fresh parsley, and cover. Let soup simmer for 15 minutes or until dumplings are cooked (they should pass the toothpick test). </step>
+    <step num="9">Ladle into bowl, giving 1-2 dumplings per serving. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a 6-quart/6-liter dutch oven, cook chicken over medium-high heat until brown on both sides. </steps_updated>
+    <steps_updated num="1">Once chicken pieces are browned, remove and set aside. </steps_updated>
+    <steps_updated num="2">Add carrot and onion and cook until just tender, about 3 minutes. </steps_updated>
+    <steps_updated num="3">Add garlic and stir for another minute. </steps_updated>
+    <steps_updated num="4">Reduce heat to medium-low and add butter and flour, stirring constantly for 3 minutes to avoid lumps. </steps_updated>
+    <steps_updated num="5">Add chicken and any accumulated juices back to dutch oven and stir to coat in roux/vegetable mix. </steps_updated>
+    <steps_updated num="6">Add chicken broth, cream, thyme, and bay leaves and bring to a simmer. </steps_updated>
+    <steps_updated num="7">Once soup is at a simmer, add frozen peas and cover. </steps_updated>
+    <steps_updated num="8">In a separate bowl, combine flour, baking powder, salt, pepper, and cream. </steps_updated>
+    <steps_updated num="9">Stir until mixture comes together into single mass of dough. </steps_updated>
+    <steps_updated num="10">Using a large spoon or ice cream scoop, form dough into small round balls about 1 inch in diameter (this dough mixture should yield 14-16 dumplings). </steps_updated>
+    <steps_updated num="11">Place dough balls into simmering soup (making sure they don’t touch), add fresh parsley, and cover. </steps_updated>
+    <steps_updated num="12">Let soup simmer for 15 minutes or until dumplings are cooked (they should pass the toothpick test). </steps_updated>
+    <steps_updated num="13">Ladle into bowl, giving 1-2 dumplings per serving. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

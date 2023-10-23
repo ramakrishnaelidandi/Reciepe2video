@@ -1,0 +1,39 @@
+<recipe>
+  <title>Strawberry Banana Chocolate Hazelnut Toaster "Quesadilla" Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-banana-chocolate-hazelnut-toaster-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/toaster-quesadillas</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 890 11237 </ingredient>
+    <ingredient num="1">8580 9486 13278 4680 11455 11434 </ingredient>
+    <ingredient num="2">1580 13278 76 1088 976 </ingredient>
+    <ingredient num="3">8580 13278 7234 1088 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111008/hls24_1538432924.m3u8</low>
+    <high>https://vid.tasty.co/output/111008/landscape_720/1538432924</high>
+  </video>
+  <duration>
+    <start_time>93.0</start_time>
+    <end_time>115.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">2988 11951 4680 11455 11434 3584 11770 11951 328 </step>
+    <step num="1">5570 11951 959 13817 6114 8535 4255 11951 10707 2532 371 11951 328 </step>
+    <step num="2">12595 11951 11237 210 2532 6781 11951 5239 415 7475 210 11951 1523 6770 148 11155 560 1063 11951 328 </step>
+    <step num="3">2275 4255 2520 1681 10963 2147 1094 560 772 11901 3557 8189 3794 1828 10694 7990 6620 8927 432 484 6781 11951 7672 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2988 11951 4680 11455 11434 3584 11770 11951 328 </steps_updated>
+    <steps_updated num="1">5570 11951 959 13817 6114 8535 4255 11951 10707 2532 371 11951 328 </steps_updated>
+    <steps_updated num="2">12595 11951 11237 210 2532 6781 11951 5239 415 7475 210 11951 1523 6770 148 11155 560 1063 11951 328 </steps_updated>
+    <steps_updated num="3">2275 4255 2520 1681 10963 2147 </steps_updated>
+    <steps_updated num="4">1094 560 772 11901 3557 8189 3794 </steps_updated>
+    <steps_updated num="5">1828 10694 7990 6620 8927 432 484 6781 11951 7672 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

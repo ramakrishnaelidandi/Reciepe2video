@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Smoked Salmon Cucumber Sub Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smoked-salmon-cucumber-sub</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cucumber-subs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; cucumbers </ingredient>
+    <ingredient num="1">½ cup ; cream cheese ; (110 g) </ingredient>
+    <ingredient num="2">½ ; red onion, chopped </ingredient>
+    <ingredient num="3">¼ cup ; fresh dill ; (10 g) </ingredient>
+    <ingredient num="4">8 pieces ; smoked salmon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51392/low_1504802973.m3u8</low>
+    <high>https://vid.tasty.co/output/51392/mp4_720x1280/1504802973</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Use a vegetable peeler to peel the cucumbers. </step>
+    <step num="1">On a cutting board, cut and discard the ends. Then cut the cucumbers in half. Scoop out the seeds and discard. </step>
+    <step num="2">In a small mixing bowl, combine the cream cheese, red onion, and dill, and mix until well incorporated. </step>
+    <step num="3">Spread the cream cheese mixture on both sides of the prepared cucumber, top with smoked salmon, and close the sandwich. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a vegetable peeler to peel the cucumbers. </steps_updated>
+    <steps_updated num="1">On a cutting board, cut and discard the ends. </steps_updated>
+    <steps_updated num="2">Then cut the cucumbers in half. </steps_updated>
+    <steps_updated num="3">Scoop out the seeds and discard. </steps_updated>
+    <steps_updated num="4">In a small mixing bowl, combine the cream cheese, red onion, and dill, and mix until well incorporated. </steps_updated>
+    <steps_updated num="5">Spread the cream cheese mixture on both sides of the prepared cucumber, top with smoked salmon, and close the sandwich. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01007</start_time>
+    <end_time>01814</end_time>
+  </duration_human>
+</recipe>

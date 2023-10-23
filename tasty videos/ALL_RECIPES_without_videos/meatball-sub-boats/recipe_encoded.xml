@@ -1,0 +1,69 @@
+<recipe>
+  <title>Meatball Sub Boats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatball-sub-boats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 11088 1946 13278 7696 5981 </ingredient>
+    <ingredient num="1">8580 13278 12708 </ingredient>
+    <ingredient num="2">3917 2605 13278 1371 13278 6518 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 6209 11911 7789 8580 13728 1404 3247 13278 12237 5981 </ingredient>
+    <ingredient num="4">11061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">1580 8071 13278 7845 </ingredient>
+    <ingredient num="7">5766 </ingredient>
+    <ingredient num="8">4061 13278 12386 13471 </ingredient>
+    <ingredient num="9">6735 8535 13278 10865 14538 </ingredient>
+    <ingredient num="10">3917 2605 13278 9122 2260 13278 12751 5981 </ingredient>
+    <ingredient num="11">12791 2605 13278 10907 5335 13278 13412 5981 </ingredient>
+    <ingredient num="12">2431 109 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48910/low_1503509403.m3u8</low>
+    <high>https://vid.tasty.co/output/48910/mp4_720x1280/1503509403</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">10950 5994 2597 14511 4120 11951 11088 20 14463 4465 8092 12791 2605 12237 5981 11911 13086 13667 4155 12610 13817 12375 </step>
+    <step num="2">6235 11951 11088 1946 2373 669 13366 6973 13202 </step>
+    <step num="3">8889 5994 13959 5687 5895 10060 1391 5766 11770 3996 2082 </step>
+    <step num="4">264 11951 13391 1681 870 4255 8554 6701 12785 13391 560 5994 4157 415 5103 5687 6781 7855 </step>
+    <step num="5">5570 11951 12386 13471 210 5994 10765 8800 </step>
+    <step num="6">14100 11951 10707 371 11951 13471 1391 5994 5668 13817 14484 11951 1864 573 560 3535 5994 10580 </step>
+    <step num="7">9393 3626 11951 5335 10907 13086 13667 4155 13817 8580 9486 371 13012 </step>
+    <step num="8">11881 11951 13471 1391 11951 11384 14057 </step>
+    <step num="9">7831 7990 2933 11004 5895 1681 244 </step>
+    <step num="10">5570 4817 8535 371 10865 210 11951 13802 5570 5994 6481 371 9122 4255 10707 371 11951 4496 </step>
+    <step num="11">5570 2734 13391 210 11951 10766 13817 10707 1391 3954 5905 </step>
+    <step num="12">7831 7990 2800 11004 5895 1681 14538 9490 1311 </step>
+    <step num="13">13494 1391 10226 </step>
+    <step num="14">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 4120 11951 11088 20 14463 4465 8092 12791 2605 12237 5981 11911 13086 13667 4155 12610 13817 12375 </steps_updated>
+    <steps_updated num="2">6235 11951 11088 1946 2373 669 13366 6973 13202 </steps_updated>
+    <steps_updated num="3">8889 5994 13959 5687 5895 10060 1391 5766 11770 3996 2082 </steps_updated>
+    <steps_updated num="4">264 11951 13391 1681 870 4255 8554 6701 </steps_updated>
+    <steps_updated num="5">12785 13391 560 5994 4157 415 5103 5687 6781 7855 </steps_updated>
+    <steps_updated num="6">5570 11951 12386 13471 210 5994 10765 8800 </steps_updated>
+    <steps_updated num="7">14100 11951 10707 371 11951 13471 1391 5994 5668 13817 14484 11951 1864 573 560 3535 5994 10580 </steps_updated>
+    <steps_updated num="8">9393 3626 11951 5335 10907 13086 13667 4155 13817 8580 9486 371 13012 </steps_updated>
+    <steps_updated num="9">11881 11951 13471 1391 11951 11384 14057 </steps_updated>
+    <steps_updated num="10">7831 7990 2933 11004 5895 1681 244 </steps_updated>
+    <steps_updated num="11">5570 4817 8535 371 10865 210 11951 13802 </steps_updated>
+    <steps_updated num="12">5570 5994 6481 371 9122 4255 10707 371 11951 4496 </steps_updated>
+    <steps_updated num="13">5570 2734 13391 210 11951 10766 13817 10707 1391 3954 5905 </steps_updated>
+    <steps_updated num="14">7831 7990 2800 11004 5895 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="15">13494 1391 10226 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

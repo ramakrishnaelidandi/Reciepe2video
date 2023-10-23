@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9 oz ; tortilla chips ; (255 g) </ingredient>
+    <ingredient num="1">½ cup ; marinara suce ; (130 g) </ingredient>
+    <ingredient num="2">2 cups ; mozzarella cheese ; (220 g) </ingredient>
+    <ingredient num="3">1 cup ; mushroom, sliced ; (75 g) </ingredient>
+    <ingredient num="4">green pepper, sliced </ingredient>
+    <ingredient num="5">½ ; red onion, sliced thinly </ingredient>
+    <ingredient num="6">1 cup ; sausage, cooked, diced ; (140 g) </ingredient>
+    <ingredient num="7">1 cup ; pepperoni slices, diced ; (85 g) </ingredient>
+    <ingredient num="8">6 ; pepperoni slices, whole </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F/175°C. </step>
+    <step num="1">In a large pan or skillet, lay down half of the tortilla chips, followed by the marinara, mozzarella, mushrooms, green pepper, red onion, sausage, and diced pepperoni. </step>
+    <step num="2">Bake for 15 minutes, until cheese is melted. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F/175°C. </steps_updated>
+    <steps_updated num="1">In a large pan or skillet, lay down half of the tortilla chips, followed by the marinara, mozzarella, mushrooms, green pepper, red onion, sausage, and diced pepperoni. </steps_updated>
+    <steps_updated num="2">Bake for 15 minutes, until cheese is melted. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

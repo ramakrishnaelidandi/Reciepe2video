@@ -1,0 +1,60 @@
+<recipe>
+  <title>Scalloped Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/scalloped-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/steak-dinner-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 9924 </ingredient>
+    <ingredient num="1">8580 13667 13278 11384 </ingredient>
+    <ingredient num="2">3917 14014 13278 890 </ingredient>
+    <ingredient num="3">3917 2605 13278 5802 13278 7503 8007 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 7845 </ingredient>
+    <ingredient num="6">13086 13278 3367 2274 4125 </ingredient>
+    <ingredient num="7">8580 9486 13278 2431 109 14538 </ingredient>
+    <ingredient num="8">6209 11911 1404 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Sides</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18619/low_1482187028.m3u8</low>
+    <high>https://vid.tasty.co/output/18619/mp4_720x1280/1482187028</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>35.37</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">10950 5994 2192 13799 6983 11951 9924 13817 7256 11951 11384 1681 10719 644 11695 560 2147 9179 11951 6467 82 13817 12375 8341 1681 7708 12573 6728 5789 </step>
+    <step num="2">269 13630 210 11951 5802 3343 6538 5693 560 772 11901 11951 2373 9490 12119 </step>
+    <step num="3">8785 560 5994 8288 415 5103 6781 2082 </step>
+    <step num="4">3235 11951 13233 669 6285 6406 5912 51 7711 4743 415 10130 3755 2696 210 5994 2192 10765 6325 </step>
+    <step num="5">1083 11951 2260 4255 10707 371 11951 2274 415 1678 1391 8924 </step>
+    <step num="6">7831 7990 6285 3917 14187 1681 11951 10707 9490 12269 13817 10963 2147 </step>
+    <step num="7">6252 3962 2768 4255 386 415 8956 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 13799 6983 11951 9924 13817 7256 11951 11384 1681 10719 644 11695 560 2147 </steps_updated>
+    <steps_updated num="2">9179 11951 6467 82 13817 12375 </steps_updated>
+    <steps_updated num="3">8341 1681 7708 12573 6728 5789 </steps_updated>
+    <steps_updated num="4">269 13630 210 11951 5802 3343 6538 5693 560 772 11901 11951 2373 9490 12119 </steps_updated>
+    <steps_updated num="5">8785 560 5994 8288 415 5103 6781 2082 </steps_updated>
+    <steps_updated num="6">3235 11951 13233 669 6285 6406 5912 51 7711 4743 415 10130 3755 2696 210 5994 2192 10765 6325 </steps_updated>
+    <steps_updated num="7">1083 11951 2260 4255 10707 371 11951 2274 415 1678 1391 8924 </steps_updated>
+    <steps_updated num="8">7831 7990 6285 3917 14187 1681 11951 10707 9490 12269 13817 10963 2147 </steps_updated>
+    <steps_updated num="9">6252 3962 2768 4255 386 415 8956 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01081</end_time>
+  </duration_human>
+</recipe>

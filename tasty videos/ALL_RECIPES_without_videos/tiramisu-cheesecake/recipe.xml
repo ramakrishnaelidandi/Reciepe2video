@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tiramisu Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tiramisu-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">20 ; large ladyfingers </ingredient>
+    <ingredient num="1">1 cup ; coffee ; (240 mL) </ingredient>
+    <ingredient num="2">16 oz ; cream cheese ; (455 g) </ingredient>
+    <ingredient num="3">16 oz ; mascarpone cheese ; (455 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="5">1 cup ; milk, hot ; (240 mL) </ingredient>
+    <ingredient num="6">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="7">4 teaspoons ; gelatin </ingredient>
+    <ingredient num="8">2 tablespoons ; cocoa powder </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/73391/hls24_1516239147.m3u8</low>
+    <high>https://vid.tasty.co/output/73391/landscape_720/1516239147</high>
+  </video>
+  <steps>
+    <step num="0">Dip the ladyfingers in coffee. </step>
+    <step num="1">In two spring form pans lined with parchment paper, layer the coffee-dipped lady fingers in a single layer. </step>
+    <step num="2">Freeze until the ladyfingers are frozen. </step>
+    <step num="3">In a bowl, add the cream cheese, mascarpone cheese, and vanilla extract. Stir to combine. </step>
+    <step num="4">Add the milk, sugar, and gelatin to a bowl and whisk until the gelatin has dissolved. </step>
+    <step num="5">Pour the milk mixture through a sieve into the bowl of cream cheese. </step>
+    <step num="6">Pour 1 cup (290 g) of cheesecake batter into a springform pan. Refrigerate until firm, about 2 hours </step>
+    <step num="7">Add one layer of frozen ladyfingers on top of the refrigerated cheesecake layer. </step>
+    <step num="8">Add another cup (290 g) of cheesecake batter on top. Refrigerate for two hours, and repeat with remaining batter and ladyfinger layer. </step>
+    <step num="9">Refrigerate for 2 hours or until firm. </step>
+    <step num="10">Dust the top with cocoa powder. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Dip the ladyfingers in coffee. </steps_updated>
+    <steps_updated num="1">In two spring form pans lined with parchment paper, layer the coffee-dipped lady fingers in a single layer. </steps_updated>
+    <steps_updated num="2">Freeze until the ladyfingers are frozen. </steps_updated>
+    <steps_updated num="3">In a bowl, add the cream cheese, mascarpone cheese, and vanilla extract. </steps_updated>
+    <steps_updated num="4">Stir to combine. </steps_updated>
+    <steps_updated num="5">Add the milk, sugar, and gelatin to a bowl and whisk until the gelatin has dissolved. </steps_updated>
+    <steps_updated num="6">Pour the milk mixture through a sieve into the bowl of cream cheese. </steps_updated>
+    <steps_updated num="7">Pour 1 cup (290 g) of cheesecake batter into a springform pan. </steps_updated>
+    <steps_updated num="8">Refrigerate until firm, about 2 hours </steps_updated>
+    <steps_updated num="9">Add one layer of frozen ladyfingers on top of the refrigerated cheesecake layer. </steps_updated>
+    <steps_updated num="10">Add another cup (290 g) of cheesecake batter on top. </steps_updated>
+    <steps_updated num="11">Refrigerate for two hours, and repeat with remaining batter and ladyfinger layer. </steps_updated>
+    <steps_updated num="12">Refrigerate for 2 hours or until firm. </steps_updated>
+    <steps_updated num="13">Dust the top with cocoa powder. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

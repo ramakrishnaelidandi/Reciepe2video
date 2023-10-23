@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pot Chicken Chow Mein Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-chicken-chow-mein</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; soy sauce ; (80 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="3">1 tablespoon ; oyster sauce </ingredient>
+    <ingredient num="4">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="5">1 tablespoon ; sugar </ingredient>
+    <ingredient num="6">¼ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">2 ; chicken breasts, cubed </ingredient>
+    <ingredient num="9">½ ; onion, julienned </ingredient>
+    <ingredient num="10">3 stalks ; celery, sliced </ingredient>
+    <ingredient num="11">4 ; carrots, julienned </ingredient>
+    <ingredient num="12">3 cups ; cabbage, shredded ; (300 g) </ingredient>
+    <ingredient num="13">2 packages ; ramen noodle, without seasoning packet </ingredient>
+    <ingredient num="14">1 ½ cups ; chicken broth ; (360 mL) </ingredient>
+    <ingredient num="15">scallion </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25772/low_1488851353.m3u8</low>
+    <high>https://vid.tasty.co/output/25772/mp4_720x1280/1488851353</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, mix soy sauce, ginger, garlic, oyster sauce, sesame oil, sugar, red pepper flakes, and pepper. </step>
+    <step num="1">Place chicken cubes into a re-sealable plastic bag pour half of the marinade into the bag and save the rest for later. </step>
+    <step num="2">Let the chicken marinate in the refrigerator for at least an hour. </step>
+    <step num="3">Pour the marinated chicken into a large pot and cook over medium-high heat. Remove chicken from the pot. </step>
+    <step num="4">Add sesame oil to the bottom of the pot and add the onion, celery, carrots, and cabbage. Sauté until the onions are translucent. </step>
+    <step num="5">Place both of the ramen noodle bricks into the bottom of the pot. </step>
+    <step num="6">Pour in chicken broth over the noodles. </step>
+    <step num="7">Cover the noodles with the vegetables as much as possible. Cover the pot with a lid and simmer for 5-7 minutes or until the noodles are cooked through. </step>
+    <step num="8">Break up the noodles and add back the chicken, and pour in the rest of the marinade from earlier. </step>
+    <step num="9">Garnish with scallions. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, mix soy sauce, ginger, garlic, oyster sauce, sesame oil, sugar, red pepper flakes, and pepper. </steps_updated>
+    <steps_updated num="1">Place chicken cubes into a re-sealable plastic bag pour half of the marinade into the bag and save the rest for later. </steps_updated>
+    <steps_updated num="2">Let the chicken marinate in the refrigerator for at least an hour. </steps_updated>
+    <steps_updated num="3">Pour the marinated chicken into a large pot and cook over medium-high heat. </steps_updated>
+    <steps_updated num="4">Remove chicken from the pot. </steps_updated>
+    <steps_updated num="5">Add sesame oil to the bottom of the pot and add the onion, celery, carrots, and cabbage. </steps_updated>
+    <steps_updated num="6">Sauté until the onions are translucent. </steps_updated>
+    <steps_updated num="7">Place both of the ramen noodle bricks into the bottom of the pot. </steps_updated>
+    <steps_updated num="8">Pour in chicken broth over the noodles. </steps_updated>
+    <steps_updated num="9">Cover the noodles with the vegetables as much as possible. </steps_updated>
+    <steps_updated num="10">Cover the pot with a lid and simmer for 5-7 minutes or until the noodles are cooked through. </steps_updated>
+    <steps_updated num="11">Break up the noodles and add back the chicken, and pour in the rest of the marinade from earlier. </steps_updated>
+    <steps_updated num="12">Garnish with scallions. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

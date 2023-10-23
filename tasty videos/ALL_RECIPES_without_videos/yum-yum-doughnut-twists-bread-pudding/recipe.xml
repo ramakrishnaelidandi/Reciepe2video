@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Yum Yum (Doughnut Twists) Bread Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/yum-yum-doughnut-twists-bread-pudding</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 ; yum yums </ingredient>
+    <ingredient num="1">1 cup ; milk ; (250 mL) </ingredient>
+    <ingredient num="2">1 ⅛ cups ; double cream ; (275 mL) </ingredient>
+    <ingredient num="3">3 ; eggs </ingredient>
+    <ingredient num="4">strawberry jam, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32211/low_1495125474.m3u8</low>
+    <high>https://vid.tasty.co/output/32211/mp4_720x1280/1495125474</high>
+  </video>
+  <steps>
+    <step num="0">Cut each yum yum into four pieces and set aside in large bowl </step>
+    <step num="1">Add milk, double cream and eggs to a different bowl and whisk until smooth. </step>
+    <step num="2">Soak the yum yum pieces in the mixture. </step>
+    <step num="3">Layer soaked yum yum pieces in a baking tin. </step>
+    <step num="4">Cover first layer in strawberry jam. </step>
+    <step num="5">Add second layer of yum yums. </step>
+    <step num="6">Bake for 45 mins at 190°C/375°F </step>
+    <step num="7">Serve and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut each yum yum into four pieces and set aside in large bowl </steps_updated>
+    <steps_updated num="1">Add milk, double cream and eggs to a different bowl and whisk until smooth. </steps_updated>
+    <steps_updated num="2">Soak the yum yum pieces in the mixture. </steps_updated>
+    <steps_updated num="3">Layer soaked yum yum pieces in a baking tin. </steps_updated>
+    <steps_updated num="4">Cover first layer in strawberry jam. </steps_updated>
+    <steps_updated num="5">Add second layer of yum yums. </steps_updated>
+    <steps_updated num="6">Bake for 45 mins at 190°C/375°F </steps_updated>
+    <steps_updated num="7">Serve and enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

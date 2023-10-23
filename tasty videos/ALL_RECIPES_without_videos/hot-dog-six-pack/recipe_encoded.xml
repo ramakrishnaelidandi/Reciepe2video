@@ -1,0 +1,38 @@
+<recipe>
+  <title>Hot Dog Six Pack Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-dog-six-pack</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 213 13278 8247 7969 </ingredient>
+    <ingredient num="1">3917 13278 6222 11056 13280 </ingredient>
+    <ingredient num="2">3333 13810 560 11567 </ingredient>
+    <ingredient num="3">6293 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31986/low_1495125051.m3u8</low>
+    <high>https://vid.tasty.co/output/31986/mp4_720x1280/1495125051</high>
+  </video>
+  <steps>
+    <step num="0">14100 11951 6222 11056 669 8694 14311 6043 13637 </step>
+    <step num="1">10993 7777 8247 7969 669 14392 644 2597 9815 560 7558 5412 11951 13009 371 6222 1382 </step>
+    <step num="2">5791 11951 6222 14281 1391 11951 7777 8247 8763 </step>
+    <step num="3">5570 3755 4255 5994 10765 213 5895 3615 210 4817 2936 371 13086 1391 644 5994 8779 1653 8830 4593 </step>
+    <step num="4">13494 1391 14538 13817 1061 13817 10903 7811 312 2855 7990 2800 8927 5895 1681 10963 2147 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 11951 6222 11056 669 8694 14311 6043 13637 </steps_updated>
+    <steps_updated num="1">10993 7777 8247 7969 669 14392 644 2597 9815 560 7558 5412 11951 13009 371 6222 1382 </steps_updated>
+    <steps_updated num="2">5791 11951 6222 14281 1391 11951 7777 8247 8763 </steps_updated>
+    <steps_updated num="3">5570 3755 4255 5994 10765 213 5895 3615 210 4817 2936 371 13086 1391 644 5994 8779 1653 8830 4593 </steps_updated>
+    <steps_updated num="4">13494 1391 14538 13817 1061 13817 10903 7811 312 2855 7990 2800 8927 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

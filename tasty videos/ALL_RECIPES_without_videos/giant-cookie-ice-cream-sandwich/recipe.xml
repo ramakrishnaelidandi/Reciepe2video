@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Giant Cookie Ice Cream Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/giant-cookie-ice-cream-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; brown sugar ; (440 g) </ingredient>
+    <ingredient num="1">2 cups ; white sugar ; (400 g) </ingredient>
+    <ingredient num="2">2 cups ; butter, melted ; (455 g) </ingredient>
+    <ingredient num="3">4 ; eggs </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">5 cups ; flour ; (625 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="7">1 teaspoon ; salt </ingredient>
+    <ingredient num="8">4 cups ; semi-sweet chocolate chips ; (700 g) </ingredient>
+    <ingredient num="9">5 cups ; vanilla ice cream, slightly softened ; (550 g) </ingredient>
+    <ingredient num="10">mini chocolate chips </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32797/low_1495666667.m3u8</low>
+    <high>https://vid.tasty.co/output/32797/mp4_720x1280/1495666667</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">In a large bowl, whisk together the brown sugar, white sugar, and melted butter. </step>
+    <step num="2">Add in the eggs and vanilla, and whisk until combined. </step>
+    <step num="3">Add in the flour, baking powder, and salt, and mix together until just combined. Add in the chocolate chips and mix again. </step>
+    <step num="4">Spay two round pans with nonstick cooking spray and separate the cookie dough into each pan. Pat down the dough with a spatula until the surface is even, and bake for 35 minutes or until golden brown. </step>
+    <step num="5">While the cookies are baking, place plastic wrap in a springform pan. Pour softened vanilla ice cream into the springform pan and spread evenly. Freeze until solid, about 1 hour. </step>
+    <step num="6">Once the cookies have baked and cooled, turn them over onto a tray. </step>
+    <step num="7">Place the ice cream disk on top of one half and cover with the other half. </step>
+    <step num="8">With your hand press the mini chocolate chips to the outside of the cookie. Freeze again until solid. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, whisk together the brown sugar, white sugar, and melted butter. </steps_updated>
+    <steps_updated num="2">Add in the eggs and vanilla, and whisk until combined. </steps_updated>
+    <steps_updated num="3">Add in the flour, baking powder, and salt, and mix together until just combined. </steps_updated>
+    <steps_updated num="4">Add in the chocolate chips and mix again. </steps_updated>
+    <steps_updated num="5">Spay two round pans with nonstick cooking spray and separate the cookie dough into each pan. </steps_updated>
+    <steps_updated num="6">Pat down the dough with a spatula until the surface is even, and bake for 35 minutes or until golden brown. </steps_updated>
+    <steps_updated num="7">While the cookies are baking, place plastic wrap in a springform pan. </steps_updated>
+    <steps_updated num="8">Pour softened vanilla ice cream into the springform pan and spread evenly. </steps_updated>
+    <steps_updated num="9">Freeze until solid, about 1 hour. </steps_updated>
+    <steps_updated num="10">Once the cookies have baked and cooled, turn them over onto a tray. </steps_updated>
+    <steps_updated num="11">Place the ice cream disk on top of one half and cover with the other half. </steps_updated>
+    <steps_updated num="12">With your hand press the mini chocolate chips to the outside of the cookie. </steps_updated>
+    <steps_updated num="13">Freeze again until solid. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

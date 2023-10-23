@@ -1,0 +1,66 @@
+<recipe>
+  <title>Taco Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 10907 3962 13278 13412 5981 </ingredient>
+    <ingredient num="1">13086 8535 13278 9241 14538 </ingredient>
+    <ingredient num="2">3917 2605 13278 890 13278 9018 5981 </ingredient>
+    <ingredient num="3">12791 8071 13278 82 </ingredient>
+    <ingredient num="4">8580 9486 13278 12282 </ingredient>
+    <ingredient num="5">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="6">1580 2605 13278 12384 3962 13278 3433 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 5218 13278 12933 5981 </ingredient>
+    <ingredient num="8">3917 13278 1112 6143 </ingredient>
+    <ingredient num="9">3917 13278 10176 2634 </ingredient>
+    <ingredient num="10">11061 8535 13278 9241 14538 </ingredient>
+    <ingredient num="11">3917 2605 13278 3333 9227 13278 3433 5981 </ingredient>
+    <ingredient num="12">3917 13278 9491 3962 </ingredient>
+    <ingredient num="13">1484 13033 </ingredient>
+    <ingredient num="14">3333 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Lunch</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32245/low_1495125488.m3u8</low>
+    <high>https://vid.tasty.co/output/32245/mp4_720x1280/1495125488</high>
+  </video>
+  <steps>
+    <step num="0">10895 1547 11907 7356 12282 210 8016 9909 7616 </step>
+    <step num="1">5797 1681 11951 2373 11912 8646 6561 9179 13384 797 14014 7811 5994 7555 1681 11951 8337 5818 5994 14560 </step>
+    <step num="2">7692 2696 8337 4255 5994 8574 13004 9061 5570 669 6453 9961 4844 2773 13817 9839 11951 6701 </step>
+    <step num="3">7831 7811 207 7990 8489 8927 5895 1681 1547 9490 10963 2147 </step>
+    <step num="4">264 11453 13817 1946 210 5994 13757 10060 1681 1946 9490 870 13817 3745 8119 11720 5358 14227 </step>
+    <step num="5">4278 1946 560 6326 740 10599 13817 10176 1869 264 1681 8219 </step>
+    <step num="6">1083 669 13828 13207 13494 1391 1112 13829 13817 4496 </step>
+    <step num="7">7831 13086 8927 5895 1681 14538 9490 1311 </step>
+    <step num="8">1828 435 13494 1391 7334 7042 1484 13033 13817 3954 3275 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 1547 11907 7356 12282 210 8016 9909 7616 </steps_updated>
+    <steps_updated num="1">5797 1681 11951 2373 11912 8646 6561 </steps_updated>
+    <steps_updated num="2">9179 13384 797 14014 7811 5994 7555 1681 11951 8337 5818 5994 14560 </steps_updated>
+    <steps_updated num="3">7692 2696 8337 4255 5994 8574 13004 9061 </steps_updated>
+    <steps_updated num="4">5570 669 6453 9961 4844 2773 13817 9839 11951 6701 </steps_updated>
+    <steps_updated num="5">7831 7811 207 7990 8489 8927 5895 1681 1547 9490 10963 2147 </steps_updated>
+    <steps_updated num="6">264 11453 13817 1946 210 5994 13757 10060 1681 1946 9490 870 13817 3745 8119 </steps_updated>
+    <steps_updated num="7">11720 5358 14227 </steps_updated>
+    <steps_updated num="8">4278 1946 560 6326 740 10599 13817 10176 1869 </steps_updated>
+    <steps_updated num="9">264 1681 8219 </steps_updated>
+    <steps_updated num="10">1083 669 13828 13207 </steps_updated>
+    <steps_updated num="11">13494 1391 1112 13829 13817 4496 </steps_updated>
+    <steps_updated num="12">7831 13086 8927 5895 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="13">1828 435 </steps_updated>
+    <steps_updated num="14">13494 1391 7334 7042 1484 13033 13817 3954 3275 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

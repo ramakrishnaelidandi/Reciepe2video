@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chunky, Skin-On Mashed Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chunky-skin-on-mashed-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mashed-potatoes-your-way</comp_url>
+  <ingredients>
+    <ingredient num="0">5 lb ; red bliss potato, skin on, quartered ; (2.2 kg) </ingredient>
+    <ingredient num="1">cold water </ingredient>
+    <ingredient num="2">1 tablespoon ; kosher salt, plus more to taste </ingredient>
+    <ingredient num="3">½ cup ; unsalted butter, 1 stick, cubed ; (115 g) </ingredient>
+    <ingredient num="4">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="5">1 small clove ; garlic, minced </ingredient>
+    <ingredient num="6">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="7">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="8">1 tablespoon ; green onion, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/115005/hls24_1541805507.m3u8</low>
+    <high>https://vid.tasty.co/output/115005/landscape_720/1541805507</high>
+  </video>
+  <duration>
+    <start_time>84.0</start_time>
+    <end_time>142.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the potatoes to a large pot and cover with cold water. Add the salt. Bring to a boil over high heat and cook until the potatoes are fork-tender, about 20 minutes longer. Drain and return to the pot. Set aside. </step>
+    <step num="1">In a small pot over medium heat, bring the butter, cream, and garlic to a simmer. Once simmering, remove from the heat. </step>
+    <step num="2">Pour the cream mixture over the potatoes. Add the sour cream, then mash with a hand masher until the potatoes are creamy, but still very chunky. Season to taste with salt and pepper. </step>
+    <step num="3">Garnish with green onions, if desired. </step>
+    <step num="4">Note: Any small waxy potato would work well in this recipe — such as Yukon Golds or new potatoes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the potatoes to a large pot and cover with cold water. </steps_updated>
+    <steps_updated num="1">Add the salt. </steps_updated>
+    <steps_updated num="2">Bring to a boil over high heat and cook until the potatoes are fork-tender, about 20 minutes longer. </steps_updated>
+    <steps_updated num="3">Drain and return to the pot. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a small pot over medium heat, bring the butter, cream, and garlic to a simmer. </steps_updated>
+    <steps_updated num="6">Once simmering, remove from the heat. </steps_updated>
+    <steps_updated num="7">Pour the cream mixture over the potatoes. </steps_updated>
+    <steps_updated num="8">Add the sour cream, then mash with a hand masher until the potatoes are creamy, but still very chunky. </steps_updated>
+    <steps_updated num="9">Season to taste with salt and pepper. </steps_updated>
+    <steps_updated num="10">Garnish with green onions, if desired. </steps_updated>
+    <steps_updated num="11">Note: Any small waxy potato would work well in this recipe — such as Yukon Golds or new potatoes. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

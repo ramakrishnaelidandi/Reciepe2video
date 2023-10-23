@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tomato, Avocado, &amp; Egg Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tomato-avocado-egg-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-high-protein-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; hard-boiled egg, diced </ingredient>
+    <ingredient num="1">¼ cup ; avocado, cubed ; (35 g) </ingredient>
+    <ingredient num="2">¼ cup ; roma tomato, diced ; (50 g) </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45231/low_1501189449.m3u8</low>
+    <high>https://vid.tasty.co/output/45231/mp4_720x1280/1501189449</high>
+  </video>
+  <duration>
+    <start_time>3.5</start_time>
+    <end_time>17.98</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine all ingredients in a small bowl. </step>
+    <step num="1">Mix until combined. Serve. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine all ingredients in a small bowl. </steps_updated>
+    <steps_updated num="1">Mix until combined. </steps_updated>
+    <steps_updated num="2">Serve. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00155</start_time>
+    <end_time>00554</end_time>
+  </duration_human>
+</recipe>

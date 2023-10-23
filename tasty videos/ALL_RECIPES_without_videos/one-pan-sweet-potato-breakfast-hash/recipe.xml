@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pan Sweet Potato Breakfast Hash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-sweet-potato-breakfast-hash</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; sweet potato </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">½ ; red onion </ingredient>
+    <ingredient num="3">1 clove ; garlic </ingredient>
+    <ingredient num="4">2 ; bell peppers </ingredient>
+    <ingredient num="5">1 ; jalapeño, optional </ingredient>
+    <ingredient num="6">2 ; green onions </ingredient>
+    <ingredient num="7">1 tablespoon ; fresh rosemary </ingredient>
+    <ingredient num="8">4 ; eggs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22891/low_1486073626.m3u8</low>
+    <high>https://vid.tasty.co/output/22891/mp4_720x1280/1486073626</high>
+  </video>
+  <steps>
+    <step num="0">Dice the sweet potato </step>
+    <step num="1">Heat the olive oil in a large skillet over medium-high heat. Add the diced sweet potato, cover, and cook, stirring occasionally, for about 10 minutes, or until it begins to soften. </step>
+    <step num="2">While the sweet potato cooks, dice the red onion and mince the garlic. Add to the skillet. </step>
+    <step num="3">Dice and seed the bell peppers and add to the skillet. </step>
+    <step num="4">Dice the jalapeño, if using, and add. </step>
+    <step num="5">Chop the green onion and rosemary, if using fresh, and add to skillet. Cover and cook for about 5 minutes, or until the sweet potato is tender. </step>
+    <step num="6">Create 4 wells in the vegetable mixture, not too close to the edges of the skillet, but far enough apart that they aren't touching. Crack 1 egg into each well. Cover and cook for 3-5 minutes more, or the eggs are cooked to your liking. </step>
+    <step num="7">Breakfast is served! </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Dice the sweet potato </steps_updated>
+    <steps_updated num="1">Heat the olive oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="2">Add the diced sweet potato, cover, and cook, stirring occasionally, for about 10 minutes, or until it begins to soften. </steps_updated>
+    <steps_updated num="3">While the sweet potato cooks, dice the red onion and mince the garlic. </steps_updated>
+    <steps_updated num="4">Add to the skillet </steps_updated>
+    <steps_updated num="5">Dice and seed the bell peppers and add to the skillet </steps_updated>
+    <steps_updated num="6">Dice the jalapeño, if using, and add </steps_updated>
+    <steps_updated num="7">Chop the green onion and rosemary, if using fresh, and add to skillet. </steps_updated>
+    <steps_updated num="8">Cover and cook for about 5 minutes, or until the sweet potato is tender. </steps_updated>
+    <steps_updated num="9">Create 4 wells in the vegetable mixture, not too close to the edges of the skillet, but far enough apart that they aren't touching. </steps_updated>
+    <steps_updated num="10">Crack 1 egg into each well. </steps_updated>
+    <steps_updated num="11">Cover and cook for 3-5 minutes more, or the eggs are cooked to your liking. </steps_updated>
+    <steps_updated num="12">Breakfast is served! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

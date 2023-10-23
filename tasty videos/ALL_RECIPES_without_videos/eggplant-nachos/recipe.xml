@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggplant Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; paprika </ingredient>
+    <ingredient num="1">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="2">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="3">½ teaspoon ; cumin </ingredient>
+    <ingredient num="4">2 teaspoons ; dried oregano </ingredient>
+    <ingredient num="5">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+    <ingredient num="8">2 ; eggplants </ingredient>
+    <ingredient num="9">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="10">1 ; onion, diced </ingredient>
+    <ingredient num="11">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="12">2 cups ; cooked chicken, shredded ; (250 g) </ingredient>
+    <ingredient num="13">½ ; lime, juiced </ingredient>
+    <ingredient num="14">1 cup ; shredded monterey jack cheese ; (100 g) </ingredient>
+    <ingredient num="15">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="16">1 cup ; guacamole, to serve ; (225 g) </ingredient>
+    <ingredient num="17">pickled jalapenos, to serve </ingredient>
+    <ingredient num="18">fresh cilantro, chopped, to serve </ingredient>
+    <ingredient num="19">salsa, to serve </ingredient>
+    <ingredient num="20">cooking oil spray </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75897/hls24_1517427709.m3u8</low>
+    <high>https://vid.tasty.co/output/75897/landscape_720/1517427709</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 250˚F (120˚C). </step>
+    <step num="1">In a small bowl mix together the paprika, garlic powder, onion powder, cumin, oregano, cayenne pepper, salt, and pepper. Set aside. </step>
+    <step num="2">On a cutting board, take one of the eggplants and cut off one end. </step>
+    <step num="3">Thinly slice the eggplant into ¹⁄₁₆th of an inch (1 mm) slices. Repeat with the rest of the eggplant. </step>
+    <step num="4">Generously spray a sheet tray with cooking oil spray. </step>
+    <step num="5">Place the eggplant slices on the sheet tray. The slices will be touching but should not overlap. Lightly sprinkle each slice with the seasoning mix. </step>
+    <step num="6">Flip each eggplant slice. Spray the eggplant slices with more cooking oil spray. Lightly sprinkle the seasoning mixture over each eggplant slice. </step>
+    <step num="7">Bake for one hour, or until the chips are crisp. </step>
+    <step num="8">In a pan, heat the olive oil over medium heat. Once the oil is hot, add the onion and pepper, and stir until caramelized. </step>
+    <step num="9">Add the chicken and the rest of the spice mixture leftover from the chips and mix thoroughly. </step>
+    <step num="10">In a ovenproof dish or cast-iron skillet place, an ovenproof ramekin in the center. Remove eggplant chips from the sheet pan and place around the ramekin. Place chicken mixture on top of the chips. Sprinkle Monterey Jack cheese over the chicken. Sprinkle cheddar cheese over the Monterey Jack cheese. Broil on high for 5 minutes. </step>
+    <step num="11">Place dollops of guacamole over the nachos and top with pickled jalapeños. Pour salsa into the ramekin and sprinkle with cilantro. Serve immediately. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 250˚F (120˚C). </steps_updated>
+    <steps_updated num="1">In a small bowl mix together the paprika, garlic powder, onion powder, cumin, oregano, cayenne pepper, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">On a cutting board, take one of the eggplants and cut off one end. </steps_updated>
+    <steps_updated num="4">Thinly slice the eggplant into ¹⁄₁₆th of an inch (1 mm) slices. </steps_updated>
+    <steps_updated num="5">Repeat with the rest of the eggplant. </steps_updated>
+    <steps_updated num="6">Generously spray a sheet tray with cooking oil spray. </steps_updated>
+    <steps_updated num="7">Place the eggplant slices on the sheet tray. </steps_updated>
+    <steps_updated num="8">The slices will be touching but should not overlap. </steps_updated>
+    <steps_updated num="9">Lightly sprinkle each slice with the seasoning mix. </steps_updated>
+    <steps_updated num="10">Flip each eggplant slice. </steps_updated>
+    <steps_updated num="11">Spray the eggplant slices with more cooking oil spray. </steps_updated>
+    <steps_updated num="12">Lightly sprinkle the seasoning mixture over each eggplant slice. </steps_updated>
+    <steps_updated num="13">Bake for one hour, or until the chips are crisp. </steps_updated>
+    <steps_updated num="14">In a pan, heat the olive oil over medium heat. </steps_updated>
+    <steps_updated num="15">Once the oil is hot, add the onion and pepper, and stir until caramelized. </steps_updated>
+    <steps_updated num="16">Add the chicken and the rest of the spice mixture leftover from the chips and mix thoroughly. </steps_updated>
+    <steps_updated num="17">In a ovenproof dish or cast-iron skillet place, an ovenproof ramekin in the center. </steps_updated>
+    <steps_updated num="18">Remove eggplant chips from the sheet pan and place around the ramekin. </steps_updated>
+    <steps_updated num="19">Place chicken mixture on top of the chips. </steps_updated>
+    <steps_updated num="20">Sprinkle Monterey Jack cheese over the chicken. </steps_updated>
+    <steps_updated num="21">Sprinkle cheddar cheese over the Monterey Jack cheese. </steps_updated>
+    <steps_updated num="22">Broil on high for 5 minutes. </steps_updated>
+    <steps_updated num="23">Place dollops of guacamole over the nachos and top with pickled jalapeños. </steps_updated>
+    <steps_updated num="24">Pour salsa into the ramekin and sprinkle with cilantro. </steps_updated>
+    <steps_updated num="25">Serve immediately. </steps_updated>
+    <steps_updated num="26">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

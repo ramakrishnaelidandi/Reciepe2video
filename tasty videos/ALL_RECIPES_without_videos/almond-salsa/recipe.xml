@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Almond Salsa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/almond-salsa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-guerrilla-tacos-with-almond-salsa</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; red bell pepper </ingredient>
+    <ingredient num="1">1 tablespoon ; oil </ingredient>
+    <ingredient num="2">1 oz ; chiles de árbol, stems removed but left whole ; (30 g) </ingredient>
+    <ingredient num="3">1 ; habanero pepper, split lengthwise </ingredient>
+    <ingredient num="4">2 tablespoons ; pine nuts </ingredient>
+    <ingredient num="5">3 tablespoons ; sliced almond </ingredient>
+    <ingredient num="6">1 lb ; small tomatillos, rinsed and peeled ; (455 g) </ingredient>
+    <ingredient num="7">2 ; plum tomatoes, quartered </ingredient>
+    <ingredient num="8">1 cup ; water ; (236 g) </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">2 tablespoons ; red wine vinegar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14751/low_1479233437.m3u8</low>
+    <high>https://vid.tasty.co/output/14751/mp4_720x1280/1479233437</high>
+  </video>
+  <duration>
+    <start_time>67.0</start_time>
+    <end_time>100.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Char the bell pepper over a burner or under a broiler until it is well-blackened on all sides. Wrap in a plastic bag and set aside until cool enough to handle, then peel and seed the pepper. Set aside. </step>
+    <step num="1">Heat the oil in a large skillet over high heat. Add the chiles de árbol and habanero and toast until fragrant, about 3 minutes; toward the end of toasting, add the pine nuts and almonds and toast until fragrant. </step>
+    <step num="2">Add the tomatillos, tomatoes, water and three-fourths teaspoon salt, and cook over high heat until the tomatillos are tender, about 10 minutes. </step>
+    <step num="3">Transfer mixture to a blender along with the bell pepper and purée until smooth. Add the red wine vinegar and adjust seasoning. The salsa should be thick enough to generously coat the back of a spoon. Any unused salsa will keep, covered tightly, in the refrigerator for a week. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Char the bell pepper over a burner or under a broiler until it is well-blackened on all sides. </steps_updated>
+    <steps_updated num="1">Wrap in a plastic bag and set aside until cool enough to handle, then peel and seed the pepper. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">Heat the oil in a large skillet over high heat. </steps_updated>
+    <steps_updated num="4">Add the chiles de árbol and habanero and toast until fragrant, about 3 minutes; toward the end of toasting, add the pine nuts and almonds and toast until fragrant. </steps_updated>
+    <steps_updated num="5">Add the tomatillos, tomatoes, water and three-fourths teaspoon salt, and cook over high heat until the tomatillos are tender, about 10 minutes. </steps_updated>
+    <steps_updated num="6">Transfer mixture to a blender along with the bell pepper and purée until smooth. </steps_updated>
+    <steps_updated num="7">Add the red wine vinegar and adjust seasoning. </steps_updated>
+    <steps_updated num="8">The salsa should be thick enough to generously coat the back of a spoon. </steps_updated>
+    <steps_updated num="9">Any unused salsa will keep, covered tightly, in the refrigerator for a week. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,43 @@
+<recipe>
+  <title>Salted Caramel Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/salted-caramel</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11157 9271 13278 4834 13278 11157 9271 </ingredient>
+    <ingredient num="1">1580 2605 13278 9924 13278 11953 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 6435 13033 13278 2935 8007 </ingredient>
+    <ingredient num="3">1580 8071 13278 13510 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Desserts</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65495/hls24_1512383108.m3u8</low>
+    <high>https://vid.tasty.co/output/65495/landscape_720/1512383108</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 7110 6183 6983 11951 4834 11770 5994 1201 14307 11354 11951 5687 6158 1681 3557 13751 5994 10963 3485 8409 </step>
+    <step num="1">12473 210 11951 9924 1681 1311 </step>
+    <step num="2">12473 210 11951 6435 13033 13817 2234 560 1002 7990 3917 6513 </step>
+    <step num="3">12473 210 11951 13510 82 13817 415 5103 6781 11951 2082 </step>
+    <step num="4">12251 560 10694 432 9352 210 5994 7261 13703 13531 </step>
+    <step num="5">10434 210 11951 10437 7990 3386 560 8580 10770 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 7110 6183 6983 11951 4834 11770 5994 1201 14307 11354 11951 5687 6158 1681 3557 13751 5994 10963 3485 8409 </steps_updated>
+    <steps_updated num="1">12473 210 11951 9924 1681 1311 </steps_updated>
+    <steps_updated num="2">12473 210 11951 6435 13033 13817 2234 560 1002 7990 3917 6513 </steps_updated>
+    <steps_updated num="3">12473 210 11951 13510 82 13817 415 5103 6781 11951 2082 </steps_updated>
+    <steps_updated num="4">12251 560 10694 432 9352 210 5994 7261 13703 13531 </steps_updated>
+    <steps_updated num="5">10434 210 11951 10437 7990 3386 560 8580 10770 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<recipe>
+  <title>Sweet &amp; Sour Pork Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-sour-pork</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 5234 13380 5895 5234 11555 13278 6730 5981 </ingredient>
+    <ingredient num="1">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="2">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="3">12791 2605 13278 4985 6334 13278 1936 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 11691 7280 3247 </ingredient>
+    <ingredient num="5">8580 9486 13278 4168 7632 7789 3954 7990 5291 </ingredient>
+    <ingredient num="6">13086 13278 14463 9917 </ingredient>
+    <ingredient num="7">3917 1580 9517 13278 12367 13278 9494 5981 </ingredient>
+    <ingredient num="8">3917 13278 4617 12384 3962 </ingredient>
+    <ingredient num="9">3917 13278 8083 1466 7845 </ingredient>
+    <ingredient num="10">3917 13278 4985 1466 7845 </ingredient>
+    <ingredient num="11">6735 643 13278 3962 10307 1391 6818 13278 9473 5981 </ingredient>
+    <ingredient num="12">12791 2605 13278 10769 13278 13125 8007 </ingredient>
+    <ingredient num="13">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="14">12791 2605 13278 11892 13278 13412 5981 </ingredient>
+    <ingredient num="15">3745 4617 11948 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18681/low_1482255317.m3u8</low>
+    <high>https://vid.tasty.co/output/18681/mp4_720x1280/1482255317</high>
+  </video>
+  <steps>
+    <step num="0">14100 5234 669 3484 13009 13817 3345 210 5994 6389 7616 </step>
+    <step num="1">10242 1391 7845 13817 740 11691 7280 4155 13817 4985 12034 </step>
+    <step num="2">4660 13817 3945 7162 7990 6620 14329 </step>
+    <step num="3">309 5234 13009 1391 4036 10852 210 2089 13817 7256 1681 12019 13817 10963 12363 8580 5686 </step>
+    <step num="4">11720 4255 12 3566 </step>
+    <step num="5">8889 3917 14014 371 4168 5766 210 5994 10060 11770 3996 2082 9179 11951 6334 13817 1466 12375 </step>
+    <step num="6">9956 11951 284 12207 560 13593 1910 740 10307 1391 12911 </step>
+    <step num="7">12473 7990 238 131 432 14330 4450 11691 7280 8675 13817 8525 12473 12914 11770 3996 7855 7990 199 8927 2658 12282 11306 13817 2260 13776 </step>
+    <step num="8">9179 11951 5234 560 11951 5687 1956 11951 2260 10586 560 5364 12473 560 6798 7317 </step>
+    <step num="9">13688 1391 3274 4985 11453 13817 5994 1678 371 9110 6974 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 5234 669 3484 13009 13817 3345 210 5994 6389 7616 </steps_updated>
+    <steps_updated num="1">10242 1391 7845 13817 740 11691 7280 4155 13817 4985 12034 </steps_updated>
+    <steps_updated num="2">4660 13817 3945 7162 7990 6620 14329 </steps_updated>
+    <steps_updated num="3">309 5234 13009 1391 4036 10852 210 2089 13817 7256 1681 12019 13817 10963 12363 8580 5686 </steps_updated>
+    <steps_updated num="4">11720 4255 12 3566 </steps_updated>
+    <steps_updated num="5">8889 3917 14014 371 4168 5766 210 5994 10060 11770 3996 2082 </steps_updated>
+    <steps_updated num="6">9179 11951 6334 13817 1466 12375 </steps_updated>
+    <steps_updated num="7">9956 11951 284 12207 560 13593 1910 740 10307 1391 12911 </steps_updated>
+    <steps_updated num="8">12473 7990 238 131 432 14330 4450 11691 7280 8675 13817 8525 </steps_updated>
+    <steps_updated num="9">12473 12914 11770 3996 7855 7990 199 8927 2658 12282 11306 13817 2260 13776 </steps_updated>
+    <steps_updated num="10">9179 11951 5234 560 11951 5687 1956 11951 2260 10586 560 5364 </steps_updated>
+    <steps_updated num="11">12473 560 6798 7317 </steps_updated>
+    <steps_updated num="12">13688 1391 3274 4985 11453 13817 5994 1678 371 9110 6974 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

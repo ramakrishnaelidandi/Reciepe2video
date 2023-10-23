@@ -1,0 +1,53 @@
+<recipe>
+  <title>Hash Brown Benedict Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hash-brown-benedict</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 8244 7632 3247 </ingredient>
+    <ingredient num="1">11091 12384 7218 341 2192 </ingredient>
+    <ingredient num="2">3917 1580 2031 13278 7596 </ingredient>
+    <ingredient num="3">3917 8071 13278 82 </ingredient>
+    <ingredient num="4">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="5">13086 9517 13278 6817 2468 3333 13278 1513 5981 </ingredient>
+    <ingredient num="6">8580 2597 9046 13278 6209 13220 </ingredient>
+    <ingredient num="7">8580 13278 14463 9717 </ingredient>
+    <ingredient num="8">6209 11292 7990 4711 </ingredient>
+    <ingredient num="9">13086 13278 2597 6216 9314 </ingredient>
+    <ingredient num="10">5516 3701 </ingredient>
+    <ingredient num="11">1580 2605 13278 10907 5335 13278 7289 5981 </ingredient>
+    <ingredient num="12">1580 8071 13278 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/128163/hls24_1553559002.m3u8</low>
+    <high>https://vid.tasty.co/output/128163/landscape_720/1553559002</high>
+  </video>
+  <steps>
+    <step num="0">1799 11951 6326 4783 11951 13233 669 4817 2009 13817 3345 5994 6007 13854 7155 8508 4804 5412 10763 782 9679 7115 13233 5312 12573 8459 371 11951 7155 11160 669 11951 937 371 11951 13607 8431 5994 7700 560 14548 573 11951 2009 1864 11951 3571 560 1978 2003 426 7855 573 560 9721 13817 2550 1681 551 371 1960 11777 12573 2111 8431 4875 560 5103 7155 8508 3571 13817 13260 10954 11951 1960 11777 560 5898 3386 11951 11649 145 9956 5834 5103 6781 11951 10590 </step>
+    <step num="1">10950 11951 5540 11745 740 11951 7905 13220 13817 2780 573 11770 9721 2082 6054 13220 6781 11951 10590 </step>
+    <step num="2">2006 5570 6216 9314 13817 597 10522 210 5994 12095 3262 7990 13767 6659 415 12723 6080 210 11951 1725 5335 9924 6403 12027 9490 8161 12564 1381 217 13396 5569 11951 1441 8554 371 11951 9924 7312 3977 4177 3262 210 12051 </step>
+    <step num="3">4912 5570 5994 1960 1368 4255 10763 9086 13494 1391 2602 415 5994 9717 13784 6877 12200 11770 11951 8536 13688 1391 7532 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1799 11951 6326 4783 11951 13233 669 4817 2009 13817 3345 5994 6007 13854 7155 8508 4804 5412 10763 782 </steps_updated>
+    <steps_updated num="1">9679 7115 13233 5312 12573 8459 371 11951 7155 11160 669 11951 937 371 11951 13607 </steps_updated>
+    <steps_updated num="2">8431 5994 7700 560 14548 573 11951 2009 1864 11951 3571 560 1978 2003 </steps_updated>
+    <steps_updated num="3">426 7855 573 560 9721 13817 2550 1681 551 371 1960 11777 12573 2111 </steps_updated>
+    <steps_updated num="4">8431 4875 560 5103 7155 8508 3571 13817 13260 10954 11951 1960 11777 560 5898 3386 11951 11649 145 </steps_updated>
+    <steps_updated num="5">9956 5834 5103 6781 11951 10590 </steps_updated>
+    <steps_updated num="6">10950 11951 5540 11745 740 11951 7905 13220 13817 2780 573 11770 9721 2082 </steps_updated>
+    <steps_updated num="7">6054 13220 6781 11951 10590 </steps_updated>
+    <steps_updated num="8">2006 5570 6216 9314 13817 597 10522 210 5994 12095 </steps_updated>
+    <steps_updated num="9">3262 7990 13767 6659 415 12723 6080 210 11951 1725 5335 9924 6403 12027 9490 8161 12564 </steps_updated>
+    <steps_updated num="10">1381 217 13396 5569 11951 1441 8554 371 11951 9924 7312 3977 4177 </steps_updated>
+    <steps_updated num="11">3262 210 12051 </steps_updated>
+    <steps_updated num="12">4912 5570 5994 1960 1368 4255 10763 9086 </steps_updated>
+    <steps_updated num="13">13494 1391 2602 415 5994 9717 13784 </steps_updated>
+    <steps_updated num="14">6877 12200 11770 11951 8536 </steps_updated>
+    <steps_updated num="15">13688 1391 7532 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Chocolate Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-chocolate-mousse</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-chicken-parmesan-dinner-for-2</comp_url>
+  <ingredients>
+    <ingredient num="0">6 oz ; dark chocolate, 72% is best ; (170 g) </ingredient>
+    <ingredient num="1">½ cup ; low fat milk ; (120 mL) </ingredient>
+    <ingredient num="2">1 teaspoon ; pure vanilla extract </ingredient>
+    <ingredient num="3">1 pinch ; salt </ingredient>
+    <ingredient num="4">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="5">8 ; strawberries </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23652/low_1486751842.m3u8</low>
+    <high>https://vid.tasty.co/output/23652/mp4_720x1280/1486751842</high>
+  </video>
+  <duration>
+    <start_time>63.0</start_time>
+    <end_time>86.51</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small saucepan, heat milk on medium-low heat until scalding around 180˚F (82˚C). Do not boil the milk. </step>
+    <step num="1">Pour hot milk over chocolate. </step>
+    <step num="2">Add vanilla and salt. Let it stand for 3 minutes to soften. </step>
+    <step num="3">Whisk together until fully incorporated. Let cool. </step>
+    <step num="4">Add yogurt. Whisk together until fully incorporated. </step>
+    <step num="5">Layer chocolate in the bottom of 2 cups followed by strawberries. Repeat until the glasses are full. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan, heat milk on medium-low heat until scalding around 180˚F (82˚C). </steps_updated>
+    <steps_updated num="1">Do not boil the milk. </steps_updated>
+    <steps_updated num="2">Pour hot milk over chocolate. </steps_updated>
+    <steps_updated num="3">Add vanilla and salt. </steps_updated>
+    <steps_updated num="4">Let it stand for 3 minutes to soften. </steps_updated>
+    <steps_updated num="5">Whisk together until fully incorporated. </steps_updated>
+    <steps_updated num="6">Let cool. </steps_updated>
+    <steps_updated num="7">Add yogurt. </steps_updated>
+    <steps_updated num="8">Whisk together until fully incorporated. </steps_updated>
+    <steps_updated num="9">Layer chocolate in the bottom of 2 cups followed by strawberries. </steps_updated>
+    <steps_updated num="10">Repeat until the glasses are full. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

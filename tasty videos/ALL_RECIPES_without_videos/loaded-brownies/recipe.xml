@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-brownies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; dark chocolate, 60% or darker ; (225 g) </ingredient>
+    <ingredient num="1">1 cup ; butter ; (230 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; sugar ; (300 g) </ingredient>
+    <ingredient num="3">4 ; eggs </ingredient>
+    <ingredient num="4">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 ⅓ cups ; flour ; (165 g) </ingredient>
+    <ingredient num="7">½ cup ; salted peanut ; (60 g) </ingredient>
+    <ingredient num="8">½ cup ; pretzel, smashed ; (60 g) </ingredient>
+    <ingredient num="9">½ cup ; kettle corn ; (85 g) </ingredient>
+    <ingredient num="10">½ cup ; white chocolate chips ; (85 g) </ingredient>
+    <ingredient num="11">chocolate sandwich cookie, chopped </ingredient>
+    <ingredient num="12">1 cup ; chocolate chips ; (175 g) </ingredient>
+    <ingredient num="13">1 cup ; heavy cream ; (240 mL) </ingredient>
+    <ingredient num="14">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="15">4 tablespoons ; butter </ingredient>
+    <ingredient num="16">4 tablespoons ; heavy cream </ingredient>
+    <ingredient num="17">1 teaspoon ; salt </ingredient>
+    <ingredient num="18">crispy rice cereal </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81973/hls24_1519946126.m3u8</low>
+    <high>https://vid.tasty.co/output/81973/landscape_720/1519946126</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Melt chocolate and butter over a double boiler until melted. </step>
+    <step num="2">Add sugar and mix well. </step>
+    <step num="3">Add vanilla extract and salt. </step>
+    <step num="4">Whisk eggs one at a time until fully incorporated and batter is glossy. </step>
+    <step num="5">Fold in flour gently until smooth. </step>
+    <step num="6">Fold in add-ins. </step>
+    <step num="7">Pour into greased 9x13-inch (23x33-cm) pan. Bake 25–30 minutes until toothpick comes out clean. </step>
+    <step num="8">To make the Caramel Crispy Rice, melt all your ingredients in a medium-sized heavy bottom sauce pan until boiling. Cook for 3 minutes on medium heat while stirring to prevent burning. Toss cereal until coated evenly, spread evenly onto lined sheet tray and allow to cool. </step>
+    <step num="9">For the Chocolate Sauce, microwave the chocolate chips and heavy cream in 30-second intervals until smooth. </step>
+    <step num="10">Allow brownies to cool 15 minutes before drizzling ganache, oreos, and caramel rice. </step>
+    <step num="11">Cut and serve. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Melt chocolate and butter over a double boiler until melted. </steps_updated>
+    <steps_updated num="2">Add sugar and mix well. </steps_updated>
+    <steps_updated num="3">Add vanilla extract and salt. </steps_updated>
+    <steps_updated num="4">Whisk eggs one at a time until fully incorporated and batter is glossy. </steps_updated>
+    <steps_updated num="5">Fold in flour gently until smooth. </steps_updated>
+    <steps_updated num="6">Fold in add-ins. </steps_updated>
+    <steps_updated num="7">Pour into greased 9x13-inch (23x33-cm) pan. </steps_updated>
+    <steps_updated num="8">Bake 25–30 minutes until toothpick comes out clean. </steps_updated>
+    <steps_updated num="9">To make the Caramel Crispy Rice, melt all your ingredients in a medium-sized heavy bottom sauce pan until boiling. </steps_updated>
+    <steps_updated num="10">Cook for 3 minutes on medium heat while stirring to prevent burning. </steps_updated>
+    <steps_updated num="11">Toss cereal until coated evenly, spread evenly onto lined sheet tray and allow to cool. </steps_updated>
+    <steps_updated num="12">For the Chocolate Sauce, microwave the chocolate chips and heavy cream in 30-second intervals until smooth. </steps_updated>
+    <steps_updated num="13">Allow brownies to cool 15 minutes before drizzling ganache, oreos, and caramel rice. </steps_updated>
+    <steps_updated num="14">Cut and serve. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

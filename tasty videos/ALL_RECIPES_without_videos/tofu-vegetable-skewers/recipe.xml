@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tofu &amp; Vegetable Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-vegetable-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-bbq-recipes-for-your-vegetarian-friends</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="1">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; soy sauce </ingredient>
+    <ingredient num="3">2 tablespoons ; BBQ sauce </ingredient>
+    <ingredient num="4">1 tablespoon ; oil </ingredient>
+    <ingredient num="5">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="6">1 tablespoon ; sriracha </ingredient>
+    <ingredient num="7">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="8">15 oz ; firm tofu, or extra firm tofu ; (425 g) </ingredient>
+    <ingredient num="9">pepper </ingredient>
+    <ingredient num="10">onion </ingredient>
+    <ingredient num="11">zucchini </ingredient>
+    <ingredient num="12">4 ; wooden skewers </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Dinner</category>
+    <category num="8">Lunch</category>
+    <category num="9">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48344/low_1503335590.m3u8</low>
+    <high>https://vid.tasty.co/output/48344/mp4_720x1280/1503335590</high>
+  </video>
+  <duration>
+    <start_time>41.6</start_time>
+    <end_time>88.14</end_time>
+  </duration>
+  <steps>
+    <step num="0">Soak wooden skewers in a shallow dish filled with water to prevent burning. </step>
+    <step num="1">Place tofu on a paper towel-lined plate. Top with another paper towel and another plate. Microwave for 3 minutes. </step>
+    <step num="2">Slice tofu into 9-12 cubes and set aside </step>
+    <step num="3">Combine water, maple syrup, soy sauce, BBQ sauce, oil, garlic powder, Sriracha, and pepper then stir. </step>
+    <step num="4">Place tofu in the marinade and refrigerate for at least 1 hour. </step>
+    <step num="5">Remove tofu from marinade. Heat marinade over a low heat and cook for about 10 minutes, until it reduces and thickens. </step>
+    <step num="6">Assemble skewers, alternating between tofu and veggies. </step>
+    <step num="7">Heat a pan or grill and cook each skewer for 3-4 minutes per side. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak wooden skewers in a shallow dish filled with water to prevent burning. </steps_updated>
+    <steps_updated num="1">Place tofu on a paper towel-lined plate. </steps_updated>
+    <steps_updated num="2">Top with another paper towel and another plate. </steps_updated>
+    <steps_updated num="3">Microwave for 3 minutes. </steps_updated>
+    <steps_updated num="4">Slice tofu into 9-12 cubes and set aside </steps_updated>
+    <steps_updated num="5">Combine water, maple syrup, soy sauce, BBQ sauce, oil, garlic powder, Sriracha, and pepper then stir. </steps_updated>
+    <steps_updated num="6">Place tofu in the marinade and refrigerate for at least 1 hour. </steps_updated>
+    <steps_updated num="7">Remove tofu from marinade. </steps_updated>
+    <steps_updated num="8">Heat marinade over a low heat and cook for about 10 minutes, until it reduces and thickens. </steps_updated>
+    <steps_updated num="9">Assemble skewers, alternating between tofu and veggies. </steps_updated>
+    <steps_updated num="10">Heat a pan or grill and cook each skewer for 3-4 minutes per side. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01306</start_time>
+    <end_time>02658</end_time>
+  </duration_human>
+</recipe>

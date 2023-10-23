@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Matcha Latte Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/matcha-latte</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tea-lattes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ teaspoons ; matcha powder, plus more for dusting </ingredient>
+    <ingredient num="1">1 tablespoon ; hot water </ingredient>
+    <ingredient num="2">½ tablespoon ; agave nectar, optional </ingredient>
+    <ingredient num="3">1 cup ; milk ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114059/hls24_1541113086.m3u8</low>
+    <high>https://vid.tasty.co/output/114059/landscape_720/1541113086</high>
+  </video>
+  <duration>
+    <start_time>1.3330000000000002</start_time>
+    <end_time>45.066</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the matcha to a mug and pour in the hot water and agave. </step>
+    <step num="1">Whisk with a small whisk or a matcha whisk, until tiny bubbles form on the surface. </step>
+    <step num="2">Froth the milk by adding it to a resealable jar. Shake vigorously until many bubbles form. Then, microwave the milk for 45 seconds to 1 minute, which will help create stable bubbles. </step>
+    <step num="3">Pour the milk into the tea. </step>
+    <step num="4">Dust the top with more matcha, if desired. </step>
+    <step num="5">Enjoy! </step>
+    <step num="6">Nutrition, per serving - Calories: 178, Total fat: 5 grams, Sodium: 129 mg, Total carb: 25 grams, Dietary fiber: 0 gram, Sugars: 12 grams, Protein: 9 grams </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the matcha to a mug and pour in the hot water and agave. </steps_updated>
+    <steps_updated num="1">Whisk with a small whisk or a matcha whisk, until tiny bubbles form on the surface. </steps_updated>
+    <steps_updated num="2">Froth the milk by adding it to a resealable jar. </steps_updated>
+    <steps_updated num="3">Shake vigorously until many bubbles form. </steps_updated>
+    <steps_updated num="4">Then, microwave the milk for 45 seconds to 1 minute, which will help create stable bubbles. </steps_updated>
+    <steps_updated num="5">Pour the milk into the tea. </steps_updated>
+    <steps_updated num="6">Dust the top with more matcha, if desired. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+    <steps_updated num="8">Nutrition, per serving - Calories: 178, Total fat: 5 grams, Sodium: 129 mg, Total carb: 25 grams, Dietary fiber: 0 gram, Sugars: 12 grams, Protein: 9 grams </steps_updated>
+  </steps_updated>
+</recipe>

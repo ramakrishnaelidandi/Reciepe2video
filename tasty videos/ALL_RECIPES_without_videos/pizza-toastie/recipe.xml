@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Toastie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-toastie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 slices ; white bread </ingredient>
+    <ingredient num="1">2 tablespoons ; marinara sauce </ingredient>
+    <ingredient num="2">½ cup ; mozzarella cheese ; (50 g) </ingredient>
+    <ingredient num="3">6 pieces ; pepperoni </ingredient>
+    <ingredient num="4">butter, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31907/low_1495124909.m3u8</low>
+    <high>https://vid.tasty.co/output/31907/mp4_720x1280/1495124909</high>
+  </video>
+  <steps>
+    <step num="0">Top one piece of bread with marinara sauce, mozzarella cheese, and pepperoni. </step>
+    <step num="1">Cover with a second piece of bread and butter both slices of bread from edge to edge. </step>
+    <step num="2">Place in preheated toastie machine and cook until bread is golden brown. (If the toastie is not browning evenly, flip half way through). </step>
+    <step num="3">Remove from toastie and slice in half. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Top one piece of bread with marinara sauce, mozzarella cheese, and pepperoni. </steps_updated>
+    <steps_updated num="1">Cover with a second piece of bread and butter both slices of bread from edge to edge. </steps_updated>
+    <steps_updated num="2">Place in preheated toastie machine and cook until bread is golden brown. </steps_updated>
+    <steps_updated num="3">(If the toastie is not browning evenly, flip half way through). </steps_updated>
+    <steps_updated num="4">Remove from toastie and slice in half. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

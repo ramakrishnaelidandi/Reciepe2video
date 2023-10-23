@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese-Stuffed Mushroom Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-stuffed-mushroom-burger</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/stuffed-mushroom-recipes-with-delightful-surprises</comp_url>
+  <ingredients>
+    <ingredient num="0">1 slice ; american cheese </ingredient>
+    <ingredient num="1">1 slice ; swiss cheese </ingredient>
+    <ingredient num="2">2 ; portobello mushrooms, de-stemmed </ingredient>
+    <ingredient num="3">½ cup ; bread crumbs ; (60 g) </ingredient>
+    <ingredient num="4">1 ; egg, beaten </ingredient>
+    <ingredient num="5">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="6">vegetable oil, for deep frying </ingredient>
+    <ingredient num="7">2 tablespoons ; mayonnaise </ingredient>
+    <ingredient num="8">1 tablespoon ; ketchup </ingredient>
+    <ingredient num="9">1 teaspoon ; worcestershire sauce </ingredient>
+    <ingredient num="10">1 teaspoon ; garlic salt </ingredient>
+    <ingredient num="11">¼ tablespoon ; hot chili sauce </ingredient>
+    <ingredient num="12">lettuce </ingredient>
+    <ingredient num="13">tomato, sliced </ingredient>
+    <ingredient num="14">onion, sliced </ingredient>
+    <ingredient num="15">pickle, sliced, optional </ingredient>
+    <ingredient num="16">burger bun </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118045/hls24_1543899749.m3u8</low>
+    <high>https://vid.tasty.co/output/118045/landscape_720/1543899749</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Line a plate with two paper towels. Place two small portobello mushroom caps on the paper towels, then cover with two more paper towels. Top with another plate. </step>
+    <step num="1">Meanwhile, in a small bowl, mix together mayonnaise, ketchup, worcestershire sauce, garlic salt, and hot chili sauce. </step>
+    <step num="2">Place a slice of Swiss cheese down on a counter top, then place a slice of American cheese on top, folding the corners of the American cheese in towards the center. Do the same with Swiss cheese, forming a ball shape. </step>
+    <step num="3">Place the cheese ball on one mushroom cap and then sandwich the other on top of it, pressing down to make the mushroom edges touch. Take a piece of clear plastic wrap and wrap it around the mushroom burger, twisting the sides like a piece of candy to release all of the air. Tuck the plastic wrap under the mushroom and refrigerate for 10-15 minutes. </step>
+    <step num="4">Put the egg, flour, and bread crumbs into 3 separate bowls. </step>
+    <step num="5">Remove plastic and coat mushroom burger in flour, egg, then bread crumbs. Dip in egg wash and bread crumbs one more time. </step>
+    <step num="6">Heat vegetable oil in a large pan until it is 375ºF (190ºC) and fry mushroom burger for 1-2 minutes or until golden brown. </step>
+    <step num="7">Remove burger onto paper towel to drain excess oil and let cool 1-2 minutes. </step>
+    <step num="8">Assemble burger, spread special sauce on buns. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Line a plate with two paper towels. </steps_updated>
+    <steps_updated num="1">Place two small portobello mushroom caps on the paper towels, then cover with two more paper towels. </steps_updated>
+    <steps_updated num="2">Top with another plate. </steps_updated>
+    <steps_updated num="3">Meanwhile, in a small bowl, mix together mayonnaise, ketchup, worcestershire sauce, garlic salt, and hot chili sauce. </steps_updated>
+    <steps_updated num="4">Place a slice of Swiss cheese down on a counter top, then place a slice of American cheese on top, folding the corners of the American cheese in towards the center. </steps_updated>
+    <steps_updated num="5">Do the same with Swiss cheese, forming a ball shape. </steps_updated>
+    <steps_updated num="6">Place the cheese ball on one mushroom cap and then sandwich the other on top of it, pressing down to make the mushroom edges touch. </steps_updated>
+    <steps_updated num="7">Take a piece of clear plastic wrap and wrap it around the mushroom burger, twisting the sides like a piece of candy to release all of the air. </steps_updated>
+    <steps_updated num="8">Tuck the plastic wrap under the mushroom and refrigerate for 10-15 minutes. </steps_updated>
+    <steps_updated num="9">Put the egg, flour, and bread crumbs into 3 separate bowls. </steps_updated>
+    <steps_updated num="10">Remove plastic and coat mushroom burger in flour, egg, then bread crumbs. </steps_updated>
+    <steps_updated num="11">Dip in egg wash and bread crumbs one more time. </steps_updated>
+    <steps_updated num="12">Heat vegetable oil in a large pan until it is 375ºF (190ºC) and fry mushroom burger for 1-2 minutes or until golden brown. </steps_updated>
+    <steps_updated num="13">Remove burger onto paper towel to drain excess oil and let cool 1-2 minutes. </steps_updated>
+    <steps_updated num="14">Assemble burger, spread special sauce on buns. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02375</start_time>
+    <end_time>03636</end_time>
+  </duration_human>
+</recipe>

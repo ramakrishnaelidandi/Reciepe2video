@@ -1,0 +1,60 @@
+<recipe>
+  <title>Orange Chocolate Cupcake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/orange-chocolate-cupcake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-cupcakes-to-satisfy-your-sweet-tooth</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 524 </ingredient>
+    <ingredient num="1">4680 14124 10968 </ingredient>
+    <ingredient num="2">13086 13278 12708 </ingredient>
+    <ingredient num="3">1580 2605 13278 5766 13278 2935 8007 </ingredient>
+    <ingredient num="4">3917 2605 13278 13956 10522 13278 7503 8007 </ingredient>
+    <ingredient num="5">4061 643 13278 13033 13810 10302 2281 13278 7289 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="7">12791 8071 13278 13956 9342 7789 3954 7990 4711 </ingredient>
+    <ingredient num="8">6735 9486 13278 10907 10302 2281 </ingredient>
+    <ingredient num="9">3917 12791 9517 13278 6885 4834 13278 757 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">nan</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/122985/hls24_1547757716.m3u8</low>
+    <high>https://vid.tasty.co/output/122985/landscape_720/1547757716</high>
+  </video>
+  <duration>
+    <start_time>82.0</start_time>
+    <end_time>146.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 13956 210 8467 10936 5994 594 5097 13260 7777 14473 11951 887 2001 10936 5994 13908 1374 2696 11951 3008 13817 817 10261 210 5994 7616 5362 7990 8554 4089 2835 217 11482 11061 7888 13956 6835 </step>
+    <step num="1">8725 11951 1379 10480 7990 11951 14124 596 </step>
+    <step num="2">1426 7855 10439 560 12738 9451 10950 5994 13757 14511 4120 14124 3446 14463 5766 13817 14585 2355 13956 8587 9393 1681 11951 4428 7312 6728 5789 </step>
+    <step num="3">5570 11951 13956 9517 669 5994 12841 2141 13817 13262 1391 12791 2605 13125 5981 371 11951 4680 9368 </step>
+    <step num="4">7831 2800 12689 </step>
+    <step num="5">10950 5994 13757 14511 1279 13033 13810 1319 10937 13817 13956 5921 1681 4567 13817 12119 9179 9924 13817 10968 4255 13757 8283 7990 5994 9673 371 12689 9179 6885 4834 13817 10968 1681 11951 10209 9490 9918 12119 10838 9410 669 5994 14361 12954 </step>
+    <step num="6">1828 2605 12618 10694 7584 13494 11951 12618 1391 9641 6252 3141 13956 5921 4255 10707 7990 3741 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 13956 210 8467 </steps_updated>
+    <steps_updated num="1">10936 5994 594 5097 13260 7777 14473 11951 887 2001 </steps_updated>
+    <steps_updated num="2">10936 5994 13908 1374 2696 11951 3008 13817 817 10261 210 5994 7616 </steps_updated>
+    <steps_updated num="3">5362 7990 8554 4089 </steps_updated>
+    <steps_updated num="4">2835 217 11482 11061 7888 13956 6835 </steps_updated>
+    <steps_updated num="5">8725 11951 1379 10480 7990 11951 14124 596 </steps_updated>
+    <steps_updated num="6">1426 7855 10439 560 12738 9451 </steps_updated>
+    <steps_updated num="7">10950 5994 13757 14511 4120 14124 3446 14463 5766 13817 14585 2355 13956 8587 </steps_updated>
+    <steps_updated num="8">9393 1681 11951 4428 7312 6728 5789 </steps_updated>
+    <steps_updated num="9">5570 11951 13956 9517 669 5994 12841 2141 13817 13262 1391 12791 2605 13125 5981 371 11951 4680 9368 </steps_updated>
+    <steps_updated num="10">7831 2800 12689 </steps_updated>
+    <steps_updated num="11">10950 5994 13757 14511 1279 13033 13810 1319 10937 13817 13956 5921 1681 4567 13817 12119 </steps_updated>
+    <steps_updated num="12">9179 9924 13817 10968 4255 13757 8283 7990 5994 9673 371 12689 </steps_updated>
+    <steps_updated num="13">9179 6885 4834 13817 10968 1681 11951 10209 9490 9918 12119 </steps_updated>
+    <steps_updated num="14">10838 9410 669 5994 14361 12954 </steps_updated>
+    <steps_updated num="15">1828 2605 12618 10694 7584 </steps_updated>
+    <steps_updated num="16">13494 11951 12618 1391 9641 </steps_updated>
+    <steps_updated num="17">6252 3141 13956 5921 4255 10707 7990 3741 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

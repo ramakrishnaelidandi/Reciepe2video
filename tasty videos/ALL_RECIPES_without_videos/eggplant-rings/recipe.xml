@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggplant Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-rings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-rings-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray </ingredient>
+    <ingredient num="1">2 ; large eggplants </ingredient>
+    <ingredient num="2">1 cup ; whole wheat breadcrumbs, or panko bread crumbs (50 g) ; (115 g) </ingredient>
+    <ingredient num="3">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="4">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; paprika </ingredient>
+    <ingredient num="6">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">1 teaspoon ; dried basil </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">3 ; eggs, beaten </ingredient>
+    <ingredient num="11">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="12">dipping sauce, of your choice, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/86770/hls24_1522110418.m3u8</low>
+    <high>https://vid.tasty.co/output/86770/landscape_720/1522110418</high>
+  </video>
+  <duration>
+    <start_time>86.0</start_time>
+    <end_time>102.3</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425˚F (220˚C). Grease a baking sheet with nonstick spray or line with parchment paper. </step>
+    <step num="1">Cut each eggplant crosswise into ½-inch (1 cm) slices. Use a 1½-2-inch (3-5 cm) round cookie cutter to punch out the center of each slice. </step>
+    <step num="2">In a large bowl, combine the bread crumbs, Parmesan, garlic powder, paprika, oregano, basil, salt, and pepper. Add the eggs to a separate bowl and whisk. Add the flour to a third bowl. </step>
+    <step num="3">Dredge eggplant rings  in the following order: flour, eggs, and breading mixture. Make sure to coat all sides. </step>
+    <step num="4">Arrange the eggplant rings on the baking sheet. </step>
+    <step num="5">Bake for 10-15 minutes, flipping halfway through, until golden brown on both sides. </step>
+    <step num="6">Serve with your favorite dipping sauce. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">Grease a baking sheet with nonstick spray or line with parchment paper. </steps_updated>
+    <steps_updated num="2">Cut each eggplant crosswise into ½-inch (1 cm) slices. </steps_updated>
+    <steps_updated num="3">Use a 1½-2-inch (3-5 cm) round cookie cutter to punch out the center of each slice. </steps_updated>
+    <steps_updated num="4">In a large bowl, combine the bread crumbs, Parmesan, garlic powder, paprika, oregano, basil, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Add the eggs to a separate bowl and whisk. </steps_updated>
+    <steps_updated num="6">Add the flour to a third bowl. </steps_updated>
+    <steps_updated num="7">Dredge eggplant rings  in the following order: flour, eggs, and breading mixture. </steps_updated>
+    <steps_updated num="8">Make sure to coat all sides. </steps_updated>
+    <steps_updated num="9">Arrange the eggplant rings on the baking sheet. </steps_updated>
+    <steps_updated num="10">Bake for 10-15 minutes, flipping halfway through, until golden brown on both sides. </steps_updated>
+    <steps_updated num="11">Serve with your favorite dipping sauce. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

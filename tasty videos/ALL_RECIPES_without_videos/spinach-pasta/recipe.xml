@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-ways-to-eat-your-greens-for-people-who-hate-salad</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">5 oz ; spinach ; (140 g) </ingredient>
+    <ingredient num="2">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; salt, plus ¼ teaspoon, divided </ingredient>
+    <ingredient num="4">2 tablespoons ; water </ingredient>
+    <ingredient num="5">vegetable, roasted, for serving </ingredient>
+    <ingredient num="6">pesto, for serving </ingredient>
+    <ingredient num="7">fresh basil, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/87038/hls24_1522276146.m3u8</low>
+    <high>https://vid.tasty.co/output/87038/landscape_720/1522276146</high>
+  </video>
+  <duration>
+    <start_time>12.0</start_time>
+    <end_time>84.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a large pot of water to a boil. </step>
+    <step num="1">In a large saucepan, heat the olive oil over medium heat. Once the oil begins to shimmer, add the spinach and cook for 5 minutes, or until wilted. </step>
+    <step num="2">Add the spinach to a food processor and process until finely chopped. </step>
+    <step num="3">While processing the spinach, spoon the flour in a little bit at a time until a crumbly dough forms. </step>
+    <step num="4">While continuing to process, add ¼ teaspoon of salt. Then, add 1 tablespoon of water at a time until dough comes together (the amount of water necessary will vary depending on how wet the spinach is). </step>
+    <step num="5">Remove the dough from the food processor and knead on a floured surface to form into a ball. </step>
+    <step num="6">With a rolling pin, roll dough out into an oval, about 18 inches (46 cm) long by 12 inches (30 cm) wide, and ¼-inch (6 mm) thick. </step>
+    <step num="7">With a knife or pizza cutter, cut the dough into even strips about ½ inch (1 cm) wide. </step>
+    <step num="8">Roll the strips into thick noodles. </step>
+    <step num="9">Once the water is boiling, add 1 tablespoon of salt and drop in the pasta. </step>
+    <step num="10">Cook the pasta for 3-5 minutes, or until the noodles float to the top. Drain. </step>
+    <step num="11">Toss with roasted vegetables and pesto and top with basil. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a large pot of water to a boil. </steps_updated>
+    <steps_updated num="1">In a large saucepan, heat the olive oil over medium heat. </steps_updated>
+    <steps_updated num="2">Once the oil begins to shimmer, add the spinach and cook for 5 minutes, or until wilted. </steps_updated>
+    <steps_updated num="3">Add the spinach to a food processor and process until finely chopped. </steps_updated>
+    <steps_updated num="4">While processing the spinach, spoon the flour in a little bit at a time until a crumbly dough forms. </steps_updated>
+    <steps_updated num="5">While continuing to process, add ¼ teaspoon of salt. </steps_updated>
+    <steps_updated num="6">Then, add 1 tablespoon of water at a time until dough comes together (the amount of water necessary will vary depending on how wet the spinach is). </steps_updated>
+    <steps_updated num="7">Remove the dough from the food processor and knead on a floured surface to form into a ball. </steps_updated>
+    <steps_updated num="8">With a rolling pin, roll dough out into an oval, about 18 inches (46 cm) long by 12 inches (30 cm) wide, and ¼-inch (6 mm) thick. </steps_updated>
+    <steps_updated num="9">With a knife or pizza cutter, cut the dough into even strips about ½ inch (1 cm) wide. </steps_updated>
+    <steps_updated num="10">Roll the strips into thick noodles. </steps_updated>
+    <steps_updated num="11">Once the water is boiling, add 1 tablespoon of salt and drop in the pasta. </steps_updated>
+    <steps_updated num="12">Cook the pasta for 3-5 minutes, or until the noodles float to the top. </steps_updated>
+    <steps_updated num="13">Drain. </steps_updated>
+    <steps_updated num="14">Toss with roasted vegetables and pesto and top with basil. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

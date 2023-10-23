@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pasteles De Queso Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pasteles-de-queso</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 cups ; all-purpose flour, plus more for dusting ; (625 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="3">3 teaspoons ; granulated sugar </ingredient>
+    <ingredient num="4">2 tablespoons ; corn oil </ingredient>
+    <ingredient num="5">5 ; large eggs </ingredient>
+    <ingredient num="6">1 cup ; warm milk ; (240 mL) </ingredient>
+    <ingredient num="7">1 ½ cups ; shredded mozzarella cheese, or Oaxaca cheese ; (150 g) </ingredient>
+    <ingredient num="8">water, or beaten egg white, for sealing </ingredient>
+    <ingredient num="9">canola oil, for frying </ingredient>
+    <ingredient num="10">powdered sugar, for dusting </ingredient>
+    <ingredient num="11">api, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/109363/hls24_1537291963.m3u8</low>
+    <high>https://vid.tasty.co/output/109363/landscape_720/1537291963</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, sift together the flour, salt, baking powder, and sugar and whisk to combine. </step>
+    <step num="1">Add the corn oil and whisk until well combined. </step>
+    <step num="2">In a liquid measuring cup or small bowl, lightly beat together the eggs. Add the milk. </step>
+    <step num="3">Gradually add the egg mixture to the dry ingredients. Mix until the dough begins to come together in a ball. </step>
+    <step num="4">Transfer the dough to a lightly floured surface and knead for 10 minutes, until smooth. </step>
+    <step num="5">Place the dough in a floured bowl. Cover with a kitchen towel or plastic wrap and let it rest for 45 minutes, or until dough has nearly doubled in size. </step>
+    <step num="6">Roll the dough into about 25 smaller balls, or fewer if you prefer larger pasteles. Transfer to a baking sheet and cover with a kitchen towel so the dough balls don’t dry out as you roll them out. </step>
+    <step num="7">Working 1 at a time, roll each dough ball out into ⅛-inch (3 mm) thick ovals. Use an inverted bowl to cut out circles about 4-5 inches (10-13 cm) in diameter. Discard the dough scraps. </step>
+    <step num="8">Add about a tablespoon of Oaxaca cheese to the center of each circle. Lightly wet the edge of the dough with water, then fold in half and seal using the repulgue technique or an empanada mold cutter. </step>
+    <step num="9">Fill a large pot with canola oil and heat to 360°F (182°C). </step>
+    <step num="10">Add several pasteles at a time to the hot oil and fry for about 5 minutes, or until crisp and golden brown. Drain on paper towels. </step>
+    <step num="11">Dust the hot pasteles with powdered sugar. Serve with api, if desired. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, sift together the flour, salt, baking powder, and sugar and whisk to combine. </steps_updated>
+    <steps_updated num="1">Add the corn oil and whisk until well combined. </steps_updated>
+    <steps_updated num="2">In a liquid measuring cup or small bowl, lightly beat together the eggs. </steps_updated>
+    <steps_updated num="3">Add the milk. </steps_updated>
+    <steps_updated num="4">Gradually add the egg mixture to the dry ingredients. </steps_updated>
+    <steps_updated num="5">Mix until the dough begins to come together in a ball. </steps_updated>
+    <steps_updated num="6">Transfer the dough to a lightly floured surface and knead for 10 minutes, until smooth. </steps_updated>
+    <steps_updated num="7">Place the dough in a floured bowl. </steps_updated>
+    <steps_updated num="8">Cover with a kitchen towel or plastic wrap and let it rest for 45 minutes, or until dough has nearly doubled in size. </steps_updated>
+    <steps_updated num="9">Roll the dough into about 25 smaller balls, or fewer if you prefer larger pasteles. </steps_updated>
+    <steps_updated num="10">Transfer to a baking sheet and cover with a kitchen towel so the dough balls don’t dry out as you roll them out. </steps_updated>
+    <steps_updated num="11">Working 1 at a time, roll each dough ball out into ⅛-inch (3 mm) thick ovals. </steps_updated>
+    <steps_updated num="12">Use an inverted bowl to cut out circles about 4-5 inches (10-13 cm) in diameter. </steps_updated>
+    <steps_updated num="13">Discard the dough scraps. </steps_updated>
+    <steps_updated num="14">Add about a tablespoon of Oaxaca cheese to the center of each circle. </steps_updated>
+    <steps_updated num="15">Lightly wet the edge of the dough with water, then fold in half and seal using the repulgue technique or an empanada mold cutter. </steps_updated>
+    <steps_updated num="16">Fill a large pot with canola oil and heat to 360°F (182°C). </steps_updated>
+    <steps_updated num="17">Add several pasteles at a time to the hot oil and fry for about 5 minutes, or until crisp and golden brown. </steps_updated>
+    <steps_updated num="18">Drain on paper towels. </steps_updated>
+    <steps_updated num="19">Dust the hot pasteles with powdered sugar. </steps_updated>
+    <steps_updated num="20">Serve with api, if desired. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

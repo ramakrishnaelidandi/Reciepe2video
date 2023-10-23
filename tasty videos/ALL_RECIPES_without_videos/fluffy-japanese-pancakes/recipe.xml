@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fluffy Japanese Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fluffy-japanese-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; egg yolks </ingredient>
+    <ingredient num="1">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">¾ cup ; pancake mix ; (95 g) </ingredient>
+    <ingredient num="4">4 ; egg whites </ingredient>
+    <ingredient num="5">butter, to serve </ingredient>
+    <ingredient num="6">syrup, to serve </ingredient>
+    <ingredient num="7">assorted berry, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17778/low_1481738464.m3u8</low>
+    <high>https://vid.tasty.co/output/17778/mp4_720x1280/1481738464</high>
+  </video>
+  <steps>
+    <step num="0">Mix together the egg yolks, sugar, milk, and pancake mix in a very large bowl until it is smooth with no large lumps. </step>
+    <step num="1">In another large bowl, beat the egg whites with a hand mixer until stiff peaks form when lifted. </step>
+    <step num="2">Carefully fold the egg whites into the pancake batter, until just incorporated, making sure not to deflate the batter. </step>
+    <step num="3">Grease two 3.5-inch (9 cm) metal ring moulds and set them in the middle of a pan over the lowest heat possible. </step>
+    <step num="4">Fill the moulds about ¾ of the way full with the batter, then cover the pan and cook for about 10 minutes, until the center of the pancakes are slightly jiggly. </step>
+    <step num="5">Release the pancakes from the bottom of the pan with a spatula, then carefully flip them over, making sure not to spill any batter inside. </step>
+    <step num="6">Cover and cook for another 5 minutes, then serve with butter, syrup, and berries! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together the egg yolks, sugar, milk, and pancake mix in a very large bowl until it is smooth with no large lumps. </steps_updated>
+    <steps_updated num="1">In another large bowl, beat the egg whites with a hand mixer until stiff peaks form when lifted. </steps_updated>
+    <steps_updated num="2">Carefully fold the egg whites into the pancake batter, until just incorporated, making sure not to deflate the batter. </steps_updated>
+    <steps_updated num="3">Grease two 3.5-inch (9 cm) metal ring moulds and set them in the middle of a pan over the lowest heat possible. </steps_updated>
+    <steps_updated num="4">Fill the moulds about ¾ of the way full with the batter, then cover the pan and cook for about 10 minutes, until the center of the pancakes are slightly jiggly. </steps_updated>
+    <steps_updated num="5">Release the pancakes from the bottom of the pan with a spatula, then carefully flip them over, making sure not to spill any batter inside. </steps_updated>
+    <steps_updated num="6">Cover and cook for another 5 minutes, then serve with butter, syrup, and berries! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

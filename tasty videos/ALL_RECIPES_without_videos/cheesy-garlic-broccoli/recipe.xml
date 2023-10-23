@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Garlic Broccoli Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-garlic-broccoli</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-3-ingredient-vegetable-side-dishes</comp_url>
+  <ingredients>
+    <ingredient num="0">3 crowns ; broccoli </ingredient>
+    <ingredient num="1">1 ¾ cups ; shredded cheddar cheese ; (175 g) </ingredient>
+    <ingredient num="2">3 cloves ; garlic, crushed </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Sides</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10654/low_1474665412.m3u8</low>
+    <high>https://vid.tasty.co/output/10654/mp4_720x1280/1474665412</high>
+  </video>
+  <duration>
+    <start_time>2.189</start_time>
+    <end_time>18.49</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 375ºF (190ºC). </step>
+    <step num="1">Spread out broccoli in a medium rectangular casserole dish. </step>
+    <step num="2">Stir the garlic and cheddar cheese together in a separate bowl. </step>
+    <step num="3">Sprinkle the cheese evenly over broccoli and add salt and pepper to taste. </step>
+    <step num="4">Bake for 25 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375ºF (190ºC). </steps_updated>
+    <steps_updated num="1">Spread out broccoli in a medium rectangular casserole dish. </steps_updated>
+    <steps_updated num="2">Stir the garlic and cheddar cheese together in a separate bowl. </steps_updated>
+    <steps_updated num="3">Sprinkle the cheese evenly over broccoli and add salt and pepper to taste. </steps_updated>
+    <steps_updated num="4">Bake for 25 minutes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00570</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>5 Layered Bean Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/layered-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 ; shallot, finely chopped </ingredient>
+    <ingredient num="2">2 cloves ; garlic, finely chopped </ingredient>
+    <ingredient num="3">2 cups ; black beans, cooked ; (340 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="5">1 pinch ; cayenne pepper </ingredient>
+    <ingredient num="6">fine sea salt, to taste </ingredient>
+    <ingredient num="7">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="8">1 ¼ cups ; sour cream ; (290 g) </ingredient>
+    <ingredient num="9">½ ; lime, juiced </ingredient>
+    <ingredient num="10">fine sea salt, to taste </ingredient>
+    <ingredient num="11">4 ; avocados, chopped </ingredient>
+    <ingredient num="12">½ ; lime, zested </ingredient>
+    <ingredient num="13">½ ; lime, juiced </ingredient>
+    <ingredient num="14">fine sea salt, to taste </ingredient>
+    <ingredient num="15">1 ½ cups ; shredded cheddar cheese ; (150 g) </ingredient>
+    <ingredient num="16">2 cups ; cherry tomato, chopped ; (400 g) </ingredient>
+    <ingredient num="17">¾ cup ; black olive, sliced ; (100 g) </ingredient>
+    <ingredient num="18">¾ cup ; scallion, sliced ; (75 g) </ingredient>
+    <ingredient num="19">1 cup ; cilantro leaf, whole ; (40 g) </ingredient>
+    <ingredient num="20">tortilla chips, to serve </ingredient>
+    <ingredient num="21">hot sauce, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/77751/hls24_1518202566.m3u8</low>
+    <high>https://vid.tasty.co/output/77751/landscape_720/1518202566</high>
+  </video>
+  <steps>
+    <step num="0">In a large saucepan heat the oil. Add the shallot and garlic and sauté until tender, 3 to 5 minutes. </step>
+    <step num="1">Add the black beans and mash until smooth. Season with ground cumin, cayenne pepper, salt, and black pepper. </step>
+    <step num="2">Spread the bean mixture in an even layer over the bottom of a 9-inch (25-cm) clear glass dish. </step>
+    <step num="3">In a medium bowl, stir together the sour cream and lime juice and season with salt. Spread the sour cream mixture over the bean layer. </step>
+    <step num="4">In another medium bowl, mash together the avocados, lime juice and zest, and season with salt. Spread the avocado mixture over the sour cream layer. </step>
+    <step num="5">Sprinkle with the cheese, tomatoes, olives, scallions, and cilantro. Serve with tortilla chips and hot sauce. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large saucepan heat the oil. </steps_updated>
+    <steps_updated num="1">Add the shallot and garlic and sauté until tender, 3 to 5 minutes. </steps_updated>
+    <steps_updated num="2">Add the black beans and mash until smooth. </steps_updated>
+    <steps_updated num="3">Season with ground cumin, cayenne pepper, salt, and black pepper. </steps_updated>
+    <steps_updated num="4">Spread the bean mixture in an even layer over the bottom of a 9-inch (25-cm) clear glass dish. </steps_updated>
+    <steps_updated num="5">In a medium bowl, stir together the sour cream and lime juice and season with salt. </steps_updated>
+    <steps_updated num="6">Spread the sour cream mixture over the bean layer. </steps_updated>
+    <steps_updated num="7">In another medium bowl, mash together the avocados, lime juice and zest, and season with salt. </steps_updated>
+    <steps_updated num="8">Spread the avocado mixture over the sour cream layer. </steps_updated>
+    <steps_updated num="9">Sprinkle with the cheese, tomatoes, olives, scallions, and cilantro. </steps_updated>
+    <steps_updated num="10">Serve with tortilla chips and hot sauce. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

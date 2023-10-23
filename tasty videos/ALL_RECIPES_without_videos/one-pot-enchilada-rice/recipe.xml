@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pot Enchilada Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-enchilada-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">1 tablespoon ; minced garlic, minced </ingredient>
+    <ingredient num="2">½ cup ; red onion, chopped ; (75 g) </ingredient>
+    <ingredient num="3">1 cup ; bell pepper, chopped ; (100 g) </ingredient>
+    <ingredient num="4">1 cup ; tomato, chopped ; (200 g) </ingredient>
+    <ingredient num="5">3 cups ; water ; (720 mL) </ingredient>
+    <ingredient num="6">1 ½ cups ; rice ; (345 g) </ingredient>
+    <ingredient num="7">1 cup ; black beans ; (170 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; fresh cilantro, chopped </ingredient>
+    <ingredient num="9">1 cup ; tomato sauce ; (260 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="11">1 teaspoon ; cumin </ingredient>
+    <ingredient num="12">1 teaspoon ; salt </ingredient>
+    <ingredient num="13">1 teaspoon ; pepper </ingredient>
+    <ingredient num="14">½ cup ; shredded cheese, optional ; (50 g) </ingredient>
+    <ingredient num="15">½ ; avocado, cubed, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21638/low_1485200330.m3u8</low>
+    <high>https://vid.tasty.co/output/21638/mp4_720x1280/1485200330</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400ºF (200ºC). </step>
+    <step num="1">Put oil in a cast-iron skillet over medium heat. Add garlic and onion to skillet and stir until garlic is slightly golden and onion has softened. </step>
+    <step num="2">Add pepper and sauté 2-3 minutes or until peppers have softened. </step>
+    <step num="3">Add tomatoes and sauté 1 minute. </step>
+    <step num="4">Remove sauteed vegetables and set aside. </step>
+    <step num="5">Pour water into the skillet and wait for it to come to a boil. </step>
+    <step num="6">Add rice and stir for 12-15 minutes until rice is fluffier but still slightly tender. </step>
+    <step num="7">Make a circle in the center of the rice and add your sautéed vegetables and black beans to the skillet and mix. </step>
+    <step num="8">Add cilantro, tomato sauce, chili powder, cumin, salt, and pepper, and stir. </step>
+    <step num="9">Add cheese on top (optional). </step>
+    <step num="10">Bake in a preheated oven for 20-25 minutes. </step>
+    <step num="11">Allow to cool for 5 minutes. </step>
+    <step num="12">Garnish with cilantro and avocado (optional). </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">Put oil in a cast-iron skillet over medium heat. </steps_updated>
+    <steps_updated num="2">Add garlic and onion to skillet and stir until garlic is slightly golden and onion has softened. </steps_updated>
+    <steps_updated num="3">Add pepper and sauté 2-3 minutes or until peppers have softened. </steps_updated>
+    <steps_updated num="4">Add tomatoes and sauté 1 minute. </steps_updated>
+    <steps_updated num="5">Remove sauteed vegetables and set aside. </steps_updated>
+    <steps_updated num="6">Pour water into the skillet and wait for it to come to a boil. </steps_updated>
+    <steps_updated num="7">Add rice and stir for 12-15 minutes until rice is fluffier but still slightly tender. </steps_updated>
+    <steps_updated num="8">Make a circle in the center of the rice and add your sautéed vegetables and black beans to the skillet and mix. </steps_updated>
+    <steps_updated num="9">Add cilantro, tomato sauce, chili powder, cumin, salt, and pepper, and stir. </steps_updated>
+    <steps_updated num="10">Add cheese on top (optional). </steps_updated>
+    <steps_updated num="11">Bake in a preheated oven for 20-25 minutes. </steps_updated>
+    <steps_updated num="12">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="13">Garnish with cilantro and avocado (optional). </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

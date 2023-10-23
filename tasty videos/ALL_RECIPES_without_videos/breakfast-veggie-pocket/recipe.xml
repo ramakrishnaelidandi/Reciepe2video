@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Veggie Pocket Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-veggie-pocket</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/eggcellent-ways-to-start-your-day</comp_url>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; olive oil </ingredient>
+    <ingredient num="1">½ ; red bell pepper, sliced </ingredient>
+    <ingredient num="2">¼ cup ; canned black bean, drained and rinsed ; (40 g) </ingredient>
+    <ingredient num="3">¼ cup ; frozen corn, thawed ; (45 g) </ingredient>
+    <ingredient num="4">½ ; small yellow onion, thinly sliced </ingredient>
+    <ingredient num="5">2 ; eggs </ingredient>
+    <ingredient num="6">¼ teaspoon ; salt </ingredient>
+    <ingredient num="7">¼ teaspoon ; ground black pepper </ingredient>
+    <ingredient num="8">¼ cup ; shredded cheddar cheese ; (25 g) </ingredient>
+    <ingredient num="9">1 ; whole wheat tortillas, medium </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/70026/hls24_1513990390.m3u8</low>
+    <high>https://vid.tasty.co/output/70026/landscape_720/1513990390</high>
+  </video>
+  <duration>
+    <start_time>98.0</start_time>
+    <end_time>145.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat olive oil in a nonstick skillet over medium heat. </step>
+    <step num="1">Add the bell pepper, black beans, corn, and onions, and cook until caramelized, about 5 minutes. </step>
+    <step num="2">Remove the vegetables from the pan and set aside. </step>
+    <step num="3">Reduce heat to low, and eggs, and sprinkle with salt and pepper. Cook, stirring constantly, until barely set, about 2 minutes. </step>
+    <step num="4">Place the vegetables, scrambled eggs, and cheese in the center of a tortilla, and fold the sides into the center, completely covering the filling. </step>
+    <step num="5">Add the quesadilla, seam side down, to the skillet and cook over medium heat until the outside is toasted and cheese is melted. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil in a nonstick skillet over medium heat. </steps_updated>
+    <steps_updated num="1">Add the bell pepper, black beans, corn, and onions, and cook until caramelized, about 5 minutes. </steps_updated>
+    <steps_updated num="2">Remove the vegetables from the pan and set aside. </steps_updated>
+    <steps_updated num="3">Reduce heat to low, and eggs, and sprinkle with salt and pepper. </steps_updated>
+    <steps_updated num="4">Cook, stirring constantly, until barely set, about 2 minutes. </steps_updated>
+    <steps_updated num="5">Place the vegetables, scrambled eggs, and cheese in the center of a tortilla, and fold the sides into the center, completely covering the filling. </steps_updated>
+    <steps_updated num="6">Add the quesadilla, seam side down, to the skillet and cook over medium heat until the outside is toasted and cheese is melted. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

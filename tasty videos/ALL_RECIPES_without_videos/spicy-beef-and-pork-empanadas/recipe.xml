@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Beef And Pork Empanadas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-beef-and-pork-empanadas</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/empanadas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ cup ; cashews ; (75 g) </ingredient>
+    <ingredient num="1">6 oz ; goat cheese ; (170 g) </ingredient>
+    <ingredient num="2">½ cup ; cream ; (120 mL) </ingredient>
+    <ingredient num="3">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="4">4 tablespoons ; sugar </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ ; onion, diced </ingredient>
+    <ingredient num="7">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="8">½ lb ; ground pork ; (225 g) </ingredient>
+    <ingredient num="9">½ lb ; ground beef ; (225 g) </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+    <ingredient num="12">2 ; tomatoes, diced </ingredient>
+    <ingredient num="13">1 ; pear, diced </ingredient>
+    <ingredient num="14">1 ; apple, diced </ingredient>
+    <ingredient num="15">1 ; peach, diced </ingredient>
+    <ingredient num="16">½ ; plantain, diced </ingredient>
+    <ingredient num="17">½ cup ; raisin ; (75 g) </ingredient>
+    <ingredient num="18">½ cup ; almond, sliced ; (70 g) </ingredient>
+    <ingredient num="19">¼ cup ; pine nuts ; (35 g) </ingredient>
+    <ingredient num="20">3 ; poblano chiles </ingredient>
+    <ingredient num="21">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="22">1 tablespoon ; salt </ingredient>
+    <ingredient num="23">½ cup ; butter ; (115 g) </ingredient>
+    <ingredient num="24">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="25">1 ; egg, beaten </ingredient>
+    <ingredient num="26">egg wash </ingredient>
+    <ingredient num="27">fresh cilantro </ingredient>
+    <ingredient num="28">pomegrante </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90709/hls24_1524514253.m3u8</low>
+    <high>https://vid.tasty.co/output/90709/landscape_720/1524514253</high>
+  </video>
+  <duration>
+    <start_time>151.833</start_time>
+    <end_time>218.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Blend all the cashew cream ingredients in a blender until smooth. Set aside. </step>
+    <step num="1">Fry onion and garlic for a few minutes, then add the ground pork and the ground beef, seasoned with salt and pepper. Continue stirring and browning the meat until cooked through, about 3-5 minutes. </step>
+    <step num="2">Add all the fruit, raisins, almonds, and pine nuts, stir to combine, then remove from heat and chill. </step>
+    <step num="3">Poach the poblano pepper, remove the skin. Open and remove the seeds and veins, then cut into strips. Set aside. </step>
+    <step num="4">Preheat oven to 500˚F (250˚C) (or as high as your oven will go). </step>
+    <step num="5">For the empanada dough, mix flour, butter, salt and milk, kneading into a dough. Add egg, then knead until firm. </step>
+    <step num="6">Pinch off a bit of dough and flatten into a circle, adding two strips of chile poblano and the meat filling. </step>
+    <step num="7">Put a bit of water on your finger and wet the edge of half the empanada. Close the empanada and use a fork to seal the edges. </step>
+    <step num="8">Brush with an egg wash before putting on a baking sheet. </step>
+    <step num="9">Bake 20-25 minutes or until golden brown. </step>
+    <step num="10">Top the empanadas with cashew cream and garnish with pomegranate and cilantro. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Blend all the cashew cream ingredients in a blender until smooth. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Fry onion and garlic for a few minutes, then add the ground pork and the ground beef, seasoned with salt and pepper. </steps_updated>
+    <steps_updated num="3">Continue stirring and browning the meat until cooked through, about 3-5 minutes. </steps_updated>
+    <steps_updated num="4">Add all the fruit, raisins, almonds, and pine nuts, stir to combine, then remove from heat and chill. </steps_updated>
+    <steps_updated num="5">Poach the poblano pepper, remove the skin. </steps_updated>
+    <steps_updated num="6">Open and remove the seeds and veins, then cut into strips. </steps_updated>
+    <steps_updated num="7">Set aside. </steps_updated>
+    <steps_updated num="8">Preheat oven to 500˚F (250˚C) (or as high as your oven will go). </steps_updated>
+    <steps_updated num="9">For the empanada dough, mix flour, butter, salt and milk, kneading into a dough. </steps_updated>
+    <steps_updated num="10">Add egg, then knead until firm. </steps_updated>
+    <steps_updated num="11">Pinch off a bit of dough and flatten into a circle, adding two strips of chile poblano and the meat filling. </steps_updated>
+    <steps_updated num="12">Put a bit of water on your finger and wet the edge of half the empanada. </steps_updated>
+    <steps_updated num="13">Close the empanada and use a fork to seal the edges. </steps_updated>
+    <steps_updated num="14">Brush with an egg wash before putting on a baking sheet. </steps_updated>
+    <steps_updated num="15">Bake 20-25 minutes or until golden brown. </steps_updated>
+    <steps_updated num="16">Top the empanadas with cashew cream and garnish with pomegranate and cilantro. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

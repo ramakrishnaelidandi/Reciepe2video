@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-ingredient Chocolate Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-chocolate-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; eggs, whites and yolks separated </ingredient>
+    <ingredient num="1">9 oz ; semi sweet chocolate ; (255 g) </ingredient>
+    <ingredient num="2">powdered sugar, to serve </ingredient>
+    <ingredient num="3">vanilla ice cream, to serve </ingredient>
+    <ingredient num="4">seasonal fruit, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48013/low_1503013432.m3u8</low>
+    <high>https://vid.tasty.co/output/48013/mp4_720x1280/1503013432</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 325˚F (170˚C). </step>
+    <step num="1">Place the chocolate in a microwave-safe bowl and melt completely, about 1 minute. </step>
+    <step num="2">Separate the egg yolks and egg whites. Using a hand mixer, whisk the whites until soft peaks form. </step>
+    <step num="3">Add the yolks, one by one, into the bowl of chocolate, whisking to combine. </step>
+    <step num="4">Using a rubber spatula, gently fold ⅓ of the whipped egg whites into the yolk and chocolate mixture. Repeat with the remaining egg whites, adding ⅓ at a time. </step>
+    <step num="5">Pour the batter in a greased 6-inch (15 cm) cake mold. </step>
+    <step num="6">Bake for 30 minutes. </step>
+    <step num="7">Once the cake is cool to the touch, gently invert it onto a plate. </step>
+    <step num="8">Optional: Sprinkle with powdered sugar, slice and serve top with ice cream. Serve with seasonal fruit. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 325˚F (170˚C). </steps_updated>
+    <steps_updated num="1">Place the chocolate in a microwave-safe bowl and melt completely, about 1 minute. </steps_updated>
+    <steps_updated num="2">Separate the egg yolks and egg whites. </steps_updated>
+    <steps_updated num="3">Using a hand mixer, whisk the whites until soft peaks form. </steps_updated>
+    <steps_updated num="4">Add the yolks, one by one, into the bowl of chocolate, whisking to combine. </steps_updated>
+    <steps_updated num="5">Using a rubber spatula, gently fold ⅓ of the whipped egg whites into the yolk and chocolate mixture. </steps_updated>
+    <steps_updated num="6">Repeat with the remaining egg whites, adding ⅓ at a time. </steps_updated>
+    <steps_updated num="7">Pour the batter in a greased 6-inch (15 cm) cake mold. </steps_updated>
+    <steps_updated num="8">Bake for 30 minutes. </steps_updated>
+    <steps_updated num="9">Once the cake is cool to the touch, gently invert it onto a plate. </steps_updated>
+    <steps_updated num="10">Optional: Sprinkle with powdered sugar, slice and serve top with ice cream. </steps_updated>
+    <steps_updated num="11">Serve with seasonal fruit. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

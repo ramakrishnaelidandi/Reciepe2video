@@ -1,0 +1,46 @@
+<recipe>
+  <title>Tomato Mozzarella Cucumber Sub Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tomato-mozzarella-cucumber-sub</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cucumber-subs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 1387 </ingredient>
+    <ingredient num="1">12791 2605 13278 2334 13278 13125 5981 </ingredient>
+    <ingredient num="2">5527 13009 13278 1459 10865 6267 </ingredient>
+    <ingredient num="3">8580 13278 7042 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Snacks</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51392/low_1504802973.m3u8</low>
+    <high>https://vid.tasty.co/output/51392/mp4_720x1280/1504802973</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">8431 5994 4168 12862 560 7368 11951 5993 </step>
+    <step num="1">12474 5994 4669 8667 7777 13817 7346 11951 7211 10993 7777 11951 1387 210 8467 9679 2696 11951 1245 13817 8048 </step>
+    <step num="2">2988 11951 2334 4255 6697 10860 371 11951 9864 6511 </step>
+    <step num="3">1349 797 11801 371 11951 5992 1391 10865 13817 11951 11649 1391 7042 13817 1739 11951 1045 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8431 5994 4168 12862 560 7368 11951 5993 </steps_updated>
+    <steps_updated num="1">12474 5994 4669 8667 7777 13817 7346 11951 7211 </steps_updated>
+    <steps_updated num="2">10993 7777 11951 1387 210 8467 </steps_updated>
+    <steps_updated num="3">9679 2696 11951 1245 13817 8048 </steps_updated>
+    <steps_updated num="4">2988 11951 2334 4255 6697 10860 371 11951 9864 6511 </steps_updated>
+    <steps_updated num="5">1349 797 11801 371 11951 5992 1391 10865 13817 11951 11649 1391 7042 13817 1739 11951 1045 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01815</start_time>
+    <end_time>02236</end_time>
+  </duration_human>
+</recipe>

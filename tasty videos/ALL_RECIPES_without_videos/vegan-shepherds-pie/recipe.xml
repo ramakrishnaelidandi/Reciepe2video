@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Shepherd’s Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-shepherds-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; vegetable oil </ingredient>
+    <ingredient num="1">2 tablespoons ; garlic, minced </ingredient>
+    <ingredient num="2">1 ; onion, diced </ingredient>
+    <ingredient num="3">3 stalks ; celery, chopped </ingredient>
+    <ingredient num="4">2 ; carrots, sliced </ingredient>
+    <ingredient num="5">2 cups ; mushrooms, sliced ; (150 g) </ingredient>
+    <ingredient num="6">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="7">¼ cup ; fresh parsley, chopped ; (5 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; tomato paste </ingredient>
+    <ingredient num="9">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="10">1 teaspoon ; dried sage </ingredient>
+    <ingredient num="11">1 teaspoon ; pepper </ingredient>
+    <ingredient num="12">1 teaspoon ; salt </ingredient>
+    <ingredient num="13">2 cups ; vegetable broth ; (470 mL) </ingredient>
+    <ingredient num="14">1 tablespoon ; flour </ingredient>
+    <ingredient num="15">4 ; potatoes, peeled and chopped </ingredient>
+    <ingredient num="16">1 tablespoon ; vegan butter </ingredient>
+    <ingredient num="17">½ cup ; soy milk, or nut milk ; (120 mL) </ingredient>
+    <ingredient num="18">1 teaspoon ; salt </ingredient>
+    <ingredient num="19">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Lunch</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30357/low_1493397469.m3u8</low>
+    <high>https://vid.tasty.co/output/30357/mp4_720x1280/1493397469</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 220ºC (425ºF). </step>
+    <step num="1">In a medium-large pot, over medium heat, combine oil, garlic, and onions. Cook for one minute, until onions start to soften. </step>
+    <step num="2">Add celery and carrots, stir until onions are translucent. </step>
+    <step num="3">Add mushrooms, corn, parsley, tomato paste, thyme, sage, salt, and pepper until well mixed. </step>
+    <step num="4">Add veggie stock in half-cup (120 ml) increments, allowing it to come to a simmer before adding more. </step>
+    <step num="5">Add flour, then mix. Continue mixing until the mixture thickens. </step>
+    <step num="6">Once thick, remove from heat and pour into a pie dish. </step>
+    <step num="7">Add potatoes to a large pot and cover with lightly salted water. Set over medium-high heat and bring to a boil. Cook until potatoes have softened and are fork-tender. </step>
+    <step num="8">Remove from heat and drain. </step>
+    <step num="9">Mash potatoes then add butter, milk, salt, and pepper. </step>
+    <step num="10">Spoon potato mixture over the top of the veggies in the pie dish, and smooth so that it is evenly spread. </step>
+    <step num="11">Optional: Using a butter knife or a long, thin spatula. press into potato surface every inch (2 ½cm) to create a beautiful, undulating presentation. </step>
+    <step num="12">Bake pie for 20-25 minutes. </step>
+    <step num="13">Allow to cool for five minutes then serve. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 220ºC (425ºF). </steps_updated>
+    <steps_updated num="1">In a medium-large pot, over medium heat, combine oil, garlic, and onions. </steps_updated>
+    <steps_updated num="2">Cook for one minute, until onions start to soften. </steps_updated>
+    <steps_updated num="3">Add celery and carrots, stir until onions are translucent. </steps_updated>
+    <steps_updated num="4">Add mushrooms, corn, parsley, tomato paste, thyme, sage, salt, and pepper until well mixed. </steps_updated>
+    <steps_updated num="5">Add veggie stock in half-cup (120 ml) increments, allowing it to come to a simmer before adding more. </steps_updated>
+    <steps_updated num="6">Add flour, then mix. </steps_updated>
+    <steps_updated num="7">Continue mixing until the mixture thickens. </steps_updated>
+    <steps_updated num="8">Once thick, remove from heat and pour into a pie dish. </steps_updated>
+    <steps_updated num="9">Add potatoes to a large pot and cover with lightly salted water. </steps_updated>
+    <steps_updated num="10">Set over medium-high heat and bring to a boil. </steps_updated>
+    <steps_updated num="11">Cook until potatoes have softened and are fork-tender. </steps_updated>
+    <steps_updated num="12">Remove from heat and drain. </steps_updated>
+    <steps_updated num="13">Mash potatoes then add butter, milk, salt, and pepper. </steps_updated>
+    <steps_updated num="14">Spoon potato mixture over the top of the veggies in the pie dish, and smooth so that it is evenly spread. </steps_updated>
+    <steps_updated num="15">Optional: Using a butter knife or a long, thin spatula. </steps_updated>
+    <steps_updated num="16">press into potato surface every inch (2 ½cm) to create a beautiful, undulating presentation. </steps_updated>
+    <steps_updated num="17">Bake pie for 20-25 minutes. </steps_updated>
+    <steps_updated num="18">Allow to cool for five minutes then serve. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

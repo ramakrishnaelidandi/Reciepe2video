@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Cheese And Tomato Soup Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-cheese-and-tomato-soup-bread-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; bread bowl </ingredient>
+    <ingredient num="1">cheese, as needed </ingredient>
+    <ingredient num="2">butter </ingredient>
+    <ingredient num="3">tomato soup </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32051/low_1495125056.m3u8</low>
+    <high>https://vid.tasty.co/output/32051/mp4_720x1280/1495125056</high>
+  </video>
+  <steps>
+    <step num="0">Remove the top of the roll. Using a small knife cut around the inside of the bread (being careful not to cut through the sides) and scoop out the center of the roll - save this for later. </step>
+    <step num="1">Butter the inside of the roll and place 3-4 cheese slices around the inner edge of the bread bowl. Bake in a preheated oven at 375˚F (190˚C) until the cheese has melted. </step>
+    <step num="2">Cut the saved center of the roll in half. Butter both sides and create a cheese sandwich. </step>
+    <step num="3">Melt butter in a small skillet over medium heat and fry the sandwich until both sides are browned and the inner cheese has melted. </step>
+    <step num="4">Remove the bread bowl from the oven. Fill with tomato soup and serve with the grilled cheese. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the top of the roll. </steps_updated>
+    <steps_updated num="1">Using a small knife cut around the inside of the bread (being careful not to cut through the sides) and scoop out the center of the roll - save this for later. </steps_updated>
+    <steps_updated num="2">Butter the inside of the roll and place 3-4 cheese slices around the inner edge of the bread bowl. </steps_updated>
+    <steps_updated num="3">Bake in a preheated oven at 375˚F (190˚C) until the cheese has melted. </steps_updated>
+    <steps_updated num="4">Cut the saved center of the roll in half. </steps_updated>
+    <steps_updated num="5">Butter both sides and create a cheese sandwich. </steps_updated>
+    <steps_updated num="6">Melt butter in a small skillet over medium heat and fry the sandwich until both sides are browned and the inner cheese has melted. </steps_updated>
+    <steps_updated num="7">Remove the bread bowl from the oven. </steps_updated>
+    <steps_updated num="8">Fill with tomato soup and serve with the grilled cheese. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

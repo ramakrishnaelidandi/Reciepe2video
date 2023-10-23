@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tempeh Taco Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tempeh-taco-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; tempeh, 1 package ; (225 g) </ingredient>
+    <ingredient num="1">olive oil, for cooking </ingredient>
+    <ingredient num="2">3 tablespoons ; low sodium soy sauce </ingredient>
+    <ingredient num="3">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="4">2 teaspoons ; chili powder </ingredient>
+    <ingredient num="5">1 teaspoon ; cumin </ingredient>
+    <ingredient num="6">1 ; avocado </ingredient>
+    <ingredient num="7">1 ; lime, juiced </ingredient>
+    <ingredient num="8">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">3 tablespoons ; water </ingredient>
+    <ingredient num="12">4 cups ; green leaf lettuce, chopped ; (320 g) </ingredient>
+    <ingredient num="13">1 cup ; cherry tomato, halved ; (200 g) </ingredient>
+    <ingredient num="14">¾ cup ; black beans ; (130 g) </ingredient>
+    <ingredient num="15">½ cup ; corn ; (85 g) </ingredient>
+    <ingredient num="16">⅓ cup ; fresh cilantro, chopped ; (15 g) </ingredient>
+    <ingredient num="17">⅓ cup ; red onion ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96869/hls24_1527884101.m3u8</low>
+    <high>https://vid.tasty.co/output/96869/landscape_720/1527884101</high>
+  </video>
+  <steps>
+    <step num="0">Cut the tempeh into a medium dice. </step>
+    <step num="1">In a medium saucepan, heat a drizzle of olive oil over medium heat. Once the oil begins to shimmer, add the tempeh and cook for 6-8 minutes, until golden brown. </step>
+    <step num="2">Add the soy sauce, garlic powder, chili powder, and cumin, stir, and cook for another 5 minutes, until all of the seasonings are well-distributed and the tempeh is browned. Remove the pan from the heat. </step>
+    <step num="3">Make the avocado dressing: In a blender, combine the avocado, lime juice, olive oil, salt, and pepper and blend until smooth. Add the water 1 tablespoon at a time until your desired consistency is reached. </step>
+    <step num="4">Arrange the lettuce, tomatoes, black beans, corn, cilantro, red onion, and tempeh in a large bowl and pour over the avocado dressing. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the tempeh into a medium dice. </steps_updated>
+    <steps_updated num="1">In a medium saucepan, heat a drizzle of olive oil over medium heat. </steps_updated>
+    <steps_updated num="2">Once the oil begins to shimmer, add the tempeh and cook for 6-8 minutes, until golden brown. </steps_updated>
+    <steps_updated num="3">Add the soy sauce, garlic powder, chili powder, and cumin, stir, and cook for another 5 minutes, until all of the seasonings are well-distributed and the tempeh is browned. </steps_updated>
+    <steps_updated num="4">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="5">Make the avocado dressing: In a blender, combine the avocado, lime juice, olive oil, salt, and pepper and blend until smooth. </steps_updated>
+    <steps_updated num="6">Add the water 1 tablespoon at a time until your desired consistency is reached. </steps_updated>
+    <steps_updated num="7">Arrange the lettuce, tomatoes, black beans, corn, cilantro, red onion, and tempeh in a large bowl and pour over the avocado dressing. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

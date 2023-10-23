@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fruit Lollies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fruit-lollies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; banana, sliced </ingredient>
+    <ingredient num="1">3 cups ; strawberry, reserve half, and chop into small pieces for step 2 ; (300 g) </ingredient>
+    <ingredient num="2">2 cups ; blueberry, reserve half the berries for step 2 ; (200 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; raspberries, reserve half the berries for step 2 ; (150 g) </ingredient>
+    <ingredient num="4">1 ¼ cups ; yogurt ; (300 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8786/low_1472771230.m3u8</low>
+    <high>https://vid.tasty.co/output/8786/mp4_720x1280/1472771230</high>
+  </video>
+  <steps>
+    <step num="0">Blend together the banana, half of the strawberries, half of the blueberries, half of the raspberries, and all of the yogurt in a food processor. </step>
+    <step num="1">Remove the blade, then stir in the rest of the fruit. </step>
+    <step num="2">Pour this mixture into a bread tin and put 12 lollipop sticks in, evenly spaced apart. </step>
+    <step num="3">Freeze overnight. </step>
+    <step num="4">Allow to defrost for approx 15-20 minutes. </step>
+    <step num="5">Remove from tin, and cut the lollipops out with a sharp knife. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Blend together the banana, half of the strawberries, half of the blueberries, half of the raspberries, and all of the yogurt in a food processor. </steps_updated>
+    <steps_updated num="1">Remove the blade, then stir in the rest of the fruit. </steps_updated>
+    <steps_updated num="2">Pour this mixture into a bread tin and put 12 lollipop sticks in, evenly spaced apart. </steps_updated>
+    <steps_updated num="3">Freeze overnight. </steps_updated>
+    <steps_updated num="4">Allow to defrost for approx 15-20 minutes. </steps_updated>
+    <steps_updated num="5">Remove from tin, and cut the lollipops out with a sharp knife. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

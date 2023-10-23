@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Chicken Broccoli Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-chicken-broccoli-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; long grain rice ; (200 g) </ingredient>
+    <ingredient num="1">¼ teaspoon ; black pepper </ingredient>
+    <ingredient num="2">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="3">1 can ; cream of chicken </ingredient>
+    <ingredient num="4">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="5">2 cups ; broccoli, diced ; (300 g) </ingredient>
+    <ingredient num="6">1 ½ cups ; chicken broth ; (360 mL) </ingredient>
+    <ingredient num="7">cheddar cheese, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8578/low_1472567460.m3u8</low>
+    <high>https://vid.tasty.co/output/8578/mp4_720x1280/1472567460</high>
+  </video>
+  <steps>
+    <step num="0">Heat oven to 375°F/190°C. </step>
+    <step num="1">In a casserole dish, combine rice, pepper, onion powder, cream of chicken, cheese, broccoli, and chicken stock. Mix until everything is combined. </step>
+    <step num="2">Lay chicken on top of the rice mixture. Space evenly. </step>
+    <step num="3">Cover with foil and bake for 50 minutes. </step>
+    <step num="4">Take off cover and top the chicken with more cheese. Bake uncovered for another 5 minutes or until cheese is melted. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oven to 375°F/190°C. </steps_updated>
+    <steps_updated num="1">In a casserole dish, combine rice, pepper, onion powder, cream of chicken, cheese, broccoli, and chicken stock. </steps_updated>
+    <steps_updated num="2">Mix until everything is combined. </steps_updated>
+    <steps_updated num="3">Lay chicken on top of the rice mixture. </steps_updated>
+    <steps_updated num="4">Space evenly. </steps_updated>
+    <steps_updated num="5">Cover with foil and bake for 50 minutes. </steps_updated>
+    <steps_updated num="6">Take off cover and top the chicken with more cheese. </steps_updated>
+    <steps_updated num="7">Bake uncovered for another 5 minutes or until cheese is melted. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

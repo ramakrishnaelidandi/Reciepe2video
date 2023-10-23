@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken &amp; Veggie Stir-Fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-veggie-stir-fry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; chicken breast, cubed ; (455 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 lb ; broccoli florets ; (455 g) </ingredient>
+    <ingredient num="4">8 oz ; mushroom, sliced ; (225 g) </ingredient>
+    <ingredient num="5">3 tablespoons ; oil, for frying </ingredient>
+    <ingredient num="6">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="8">2 teaspoons ; sesame oil </ingredient>
+    <ingredient num="9">⅓ cup ; reduced sodium soy sauce ; (80 mL) </ingredient>
+    <ingredient num="10">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="11">1 cup ; chicken broth ; (240 mL) </ingredient>
+    <ingredient num="12">¼ cup ; flour ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10241/low_1474048903.m3u8</low>
+    <high>https://vid.tasty.co/output/10241/mp4_720x1280/1474048903</high>
+  </video>
+  <steps>
+    <step num="0">In a large pan on medium-high heat, add 1 tablespoon of oil. Once the oil is hot, add chicken, season with salt and pepper, and sauté until cooked through and browned. Remove cooked chicken from pan and set aside. </step>
+    <step num="1">In the same pan, heat 1 tablespoon of oil and add mushrooms. When the mushrooms start to soften, add broccoli florets and stir-fry until the broccoli is tender. Remove cooked mushrooms and broccoli from the pan and set aside. </step>
+    <step num="2">Add 1 tablespoon of oil to the pan and sauté garlic and ginger until fragrant. Add the remaining sauce ingredients and stir until smooth. </step>
+    <step num="3">Return the chicken and vegetables to the saucy pan, stir until heated through. </step>
+    <step num="4">Serve with hot rice or noodles. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pan on medium-high heat, add 1 tablespoon of oil. </steps_updated>
+    <steps_updated num="1">Once the oil is hot, add chicken, season with salt and pepper, and sauté until cooked through and browned. </steps_updated>
+    <steps_updated num="2">Remove cooked chicken from pan and set aside. </steps_updated>
+    <steps_updated num="3">In the same pan, heat 1 tablespoon of oil and add mushrooms. </steps_updated>
+    <steps_updated num="4">When the mushrooms start to soften, add broccoli florets and stir-fry until the broccoli is tender. </steps_updated>
+    <steps_updated num="5">Remove cooked mushrooms and broccoli from the pan and set aside. </steps_updated>
+    <steps_updated num="6">Add 1 tablespoon of oil to the pan and sauté garlic and ginger until fragrant. </steps_updated>
+    <steps_updated num="7">Add the remaining sauce ingredients and stir until smooth. </steps_updated>
+    <steps_updated num="8">Return the chicken and vegetables to the saucy pan, stir until heated through. </steps_updated>
+    <steps_updated num="9">Serve with hot rice or noodles. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steak And Potato Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-and-potato-nachos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cheesecakes-vs-cheese-steaks</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; russet potatoes, sliced </ingredient>
+    <ingredient num="1">1 lb ; skirt steak ; (455 g) </ingredient>
+    <ingredient num="2">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">2 teaspoons ; paprika </ingredient>
+    <ingredient num="6">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="7">½ cup ; shredded monterey jack cheese ; (50 g) </ingredient>
+    <ingredient num="8">sour cream </ingredient>
+    <ingredient num="9">salsa, optional </ingredient>
+    <ingredient num="10">2 ; green onions, minced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68100/hls24_1513283473.m3u8</low>
+    <high>https://vid.tasty.co/output/68100/landscape_720/1513283473</high>
+  </video>
+  <duration>
+    <start_time>72.75</start_time>
+    <end_time>127.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place sliced potatoes in a large bowl. Toss with olive oil, salt, pepper, and paprika. </step>
+    <step num="1">Lay the potatoes on a baking sheet and bake at 450˚F (230˚C) for 20 minutes. </step>
+    <step num="2">Season skirt steak with salt and pepper. Cook on high heat for roughly three minutes each side, for medium-rare. </step>
+    <step num="3">Let the steak rest for 10 minutes, then slice into cubes. </step>
+    <step num="4">In a cast iron skillet or baking sheet, arrange cooked potatoes into a heap. Top with steak, then cheddar and monterey jack cheese. </step>
+    <step num="5">Broil for five minutes or until the cheese is melted. </step>
+    <step num="6">Serve immediately with sour cream, salsa, green onions or any topping of choice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place sliced potatoes in a large bowl. </steps_updated>
+    <steps_updated num="1">Toss with olive oil, salt, pepper, and paprika. </steps_updated>
+    <steps_updated num="2">Lay the potatoes on a baking sheet and bake at 450˚F (230˚C) for 20 minutes. </steps_updated>
+    <steps_updated num="3">Season skirt steak with salt and pepper. </steps_updated>
+    <steps_updated num="4">Cook on high heat for roughly three minutes each side, for medium-rare. </steps_updated>
+    <steps_updated num="5">Let the steak rest for 10 minutes, then slice into cubes. </steps_updated>
+    <steps_updated num="6">In a cast iron skillet or baking sheet, arrange cooked potatoes into a heap. </steps_updated>
+    <steps_updated num="7">Top with steak, then cheddar and monterey jack cheese. </steps_updated>
+    <steps_updated num="8">Broil for five minutes or until the cheese is melted. </steps_updated>
+    <steps_updated num="9">Serve immediately with sour cream, salsa, green onions or any topping of choice. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01782</start_time>
+    <end_time>03059</end_time>
+  </duration_human>
+</recipe>

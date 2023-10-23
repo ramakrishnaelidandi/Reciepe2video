@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Bacon Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-bacon-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/skewers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; boneless, skinless chicken thighs, cut into 1-inch cubes ; (455 g) </ingredient>
+    <ingredient num="1">1 cup ; BBQ sauce ; (286 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">4 strips ; bacon </ingredient>
+    <ingredient num="5">4 skewers ; bamboo skewer, soaked in water for 20 minutes </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39367/low_1498728261.m3u8</low>
+    <high>https://vid.tasty.co/output/39367/mp4_720x1280/1498728261</high>
+  </video>
+  <duration>
+    <start_time>74.37</start_time>
+    <end_time>100.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat grill to medium heat. </step>
+    <step num="1">Combine the chicken, bbq sauce, salt, and pepper, stirring until evenly mixed. </step>
+    <step num="2">Threading one end of the bacon onto the end of a skewer. Add a piece of chicken, and weave the bacon around the chicken and back through the skewer, creating a wave pattern between the chicken. Move the bacon and the chicken down the skewer, repeating until the other edge of the bacon is threaded through. </step>
+    <step num="3">Repeat on the rest of the skewers with the remaining chicken and bacon. </step>
+    <step num="4">Grease the surface of the grill by rubbing the grates with tongs and an oiled paper towel. </step>
+    <step num="5">Grill the skewers for about 12-18 minutes with the lid closed, flipping them halfway. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat grill to medium heat. </steps_updated>
+    <steps_updated num="1">Combine the chicken, bbq sauce, salt, and pepper, stirring until evenly mixed. </steps_updated>
+    <steps_updated num="2">Threading one end of the bacon onto the end of a skewer. </steps_updated>
+    <steps_updated num="3">Add a piece of chicken, and weave the bacon around the chicken and back through the skewer, creating a wave pattern between the chicken. </steps_updated>
+    <steps_updated num="4">Move the bacon and the chicken down the skewer, repeating until the other edge of the bacon is threaded through. </steps_updated>
+    <steps_updated num="5">Repeat on the rest of the skewers with the remaining chicken and bacon. </steps_updated>
+    <steps_updated num="6">Grease the surface of the grill by rubbing the grates with tongs and an oiled paper towel. </steps_updated>
+    <steps_updated num="7">Grill the skewers for about 12-18 minutes with the lid closed, flipping them halfway. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02293</start_time>
+    <end_time>03006</end_time>
+  </duration_human>
+</recipe>

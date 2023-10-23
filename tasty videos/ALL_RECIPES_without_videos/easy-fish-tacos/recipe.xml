@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Fish Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-fish-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; green cabbage, shredded ; (300 g) </ingredient>
+    <ingredient num="1">½ cup ; red onion, diced ; (75 g) </ingredient>
+    <ingredient num="2">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="3">1 ; lime, juiced </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">4 ; tilapia fillets </ingredient>
+    <ingredient num="6">¼ teaspoon ; cayenne pepper, ground </ingredient>
+    <ingredient num="7">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="8">½ teaspoon ; cumin </ingredient>
+    <ingredient num="9">½ teaspoon ; salt </ingredient>
+    <ingredient num="10">½ teaspoon ; pepper </ingredient>
+    <ingredient num="11">16 ; corn tortillas </ingredient>
+    <ingredient num="12">cilantro, to taste </ingredient>
+    <ingredient num="13">lime, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Healthy</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11635/low_1475862500.m3u8</low>
+    <high>https://vid.tasty.co/output/11635/mp4_720x1280/1475862500</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine green cabbage, red onion, sour cream, lime juice, and salt. Chill until ready to serve. </step>
+    <step num="1">In a bowl, mix cayenne, garlic powder, cumin, salt, and pepper. Season each tilapia fillet on both sides with the seasoning mix. </step>
+    <step num="2">Over medium-high heat, cook 2 fillets at a time for 8 minutes, flipping halfway. Repeat for the remaining fillets. </step>
+    <step num="3">Using a fork, break apart the fillets into bite-size pieces. </step>
+    <step num="4">Right before serving, heat the corn tortillas in the pan over high heat. Remove from the pan and assemble the tacos with the cabbage slaw and tilapia. </step>
+    <step num="5">Garnish with cilantro and lime juice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine green cabbage, red onion, sour cream, lime juice, and salt. </steps_updated>
+    <steps_updated num="1">Chill until ready to serve. </steps_updated>
+    <steps_updated num="2">In a bowl, mix cayenne, garlic powder, cumin, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Season each tilapia fillet on both sides with the seasoning mix. </steps_updated>
+    <steps_updated num="4">Over medium-high heat, cook 2 fillets at a time for 8 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="5">Repeat for the remaining fillets. </steps_updated>
+    <steps_updated num="6">Using a fork, break apart the fillets into bite-size pieces. </steps_updated>
+    <steps_updated num="7">Right before serving, heat the corn tortillas in the pan over high heat. </steps_updated>
+    <steps_updated num="8">Remove from the pan and assemble the tacos with the cabbage slaw and tilapia. </steps_updated>
+    <steps_updated num="9">Garnish with cilantro and lime juice. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

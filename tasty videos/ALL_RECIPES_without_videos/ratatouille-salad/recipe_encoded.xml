@@ -1,0 +1,66 @@
+<recipe>
+  <title>Ratatouille Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ratatouille-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8244 7632 7990 8224 </ingredient>
+    <ingredient num="1">3917 13278 2597 8848 5895 8580 15 472 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+    <ingredient num="4">3917 13278 8083 1466 10986 8695 13817 3962 </ingredient>
+    <ingredient num="5">11091 1466 10986 8695 13817 3962 </ingredient>
+    <ingredient num="6">3917 13278 2192 4617 12384 3962 </ingredient>
+    <ingredient num="7">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="8">3917 13278 11091 7602 976 </ingredient>
+    <ingredient num="9">3917 13278 6753 976 </ingredient>
+    <ingredient num="10">3917 14014 13278 6209 5040 3962 </ingredient>
+    <ingredient num="11">13086 13278 3665 7042 341 </ingredient>
+    <ingredient num="12">1580 13278 5516 3701 </ingredient>
+    <ingredient num="13">3917 2605 13278 4617 954 14502 13278 8118 5981 </ingredient>
+    <ingredient num="14">8580 1580 9517 13278 12282 13278 8941 8007 </ingredient>
+    <ingredient num="15">3917 14014 13278 6209 749 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102278/hls24_1531867713.m3u8</low>
+    <high>https://vid.tasty.co/output/102278/landscape_720/1531867713</high>
+  </video>
+  <steps>
+    <step num="0">8889 5994 10222 371 8244 5766 210 5994 2597 10060 11770 13757 2082 9179 11951 8848 12616 1391 82 13817 10986 13817 12484 13328 6601 1681 10963 1368 13817 10348 5966 12689 6054 6781 11951 5687 13817 3499 4255 12 3566 </step>
+    <step num="1">8889 3954 5766 210 11951 11745 415 740 11951 1466 12963 3633 13328 6601 1681 10348 6865 12689 </step>
+    <step num="2">9179 11951 6334 13817 11384 13817 12484 11283 1681 11951 11453 12573 12386 13817 2357 6285 13086 12689 6054 11951 2986 13817 11453 6781 11951 10590 </step>
+    <step num="3">9179 11951 11091 2457 13817 6753 12616 1391 82 13817 10986 13817 2550 2457 11628 3745 573 5994 5952 6285 2933 12689 </step>
+    <step num="4">9179 11951 9211 13817 7042 12616 1391 3954 12610 415 740 11951 597 8587 5632 11951 7855 560 8283 13817 2550 1681 2373 9490 10573 3633 13328 6601 1681 11951 717 12207 560 11136 2349 11098 6285 8580 12689 </step>
+    <step num="5">4278 11951 1073 13817 7845 2373 560 11951 11745 6142 560 4398 415 5103 11951 5687 6781 11951 2082 </step>
+    <step num="6">9179 11951 12683 13817 12282 560 5994 2597 10060 13817 6142 560 1011 8785 560 5994 8288 415 6506 13817 2864 11951 7855 560 11813 9411 1681 11951 881 9490 6046 6285 5527 12689 </step>
+    <step num="7">6877 11951 284 11770 12683 13817 1678 11951 6250 4255 143 12774 10316 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5994 10222 371 8244 5766 210 5994 2597 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 8848 12616 1391 82 13817 10986 13817 12484 13328 6601 1681 10963 1368 13817 10348 5966 12689 </steps_updated>
+    <steps_updated num="2">6054 6781 11951 5687 13817 3499 4255 12 3566 </steps_updated>
+    <steps_updated num="3">8889 3954 5766 210 11951 11745 415 740 11951 1466 12963 </steps_updated>
+    <steps_updated num="4">3633 13328 6601 1681 10348 6865 12689 </steps_updated>
+    <steps_updated num="5">9179 11951 6334 13817 11384 13817 12484 11283 1681 11951 11453 12573 12386 13817 2357 6285 13086 12689 </steps_updated>
+    <steps_updated num="6">6054 11951 2986 13817 11453 6781 11951 10590 </steps_updated>
+    <steps_updated num="7">9179 11951 11091 2457 13817 6753 12616 1391 82 13817 10986 13817 2550 2457 11628 3745 573 5994 5952 6285 2933 12689 </steps_updated>
+    <steps_updated num="8">9179 11951 9211 13817 7042 12616 1391 3954 12610 415 740 11951 597 8587 </steps_updated>
+    <steps_updated num="9">5632 11951 7855 560 8283 13817 2550 1681 2373 9490 10573 </steps_updated>
+    <steps_updated num="10">3633 13328 6601 1681 11951 717 12207 560 11136 2349 11098 6285 8580 8927 </steps_updated>
+    <steps_updated num="11">4278 11951 1073 13817 7845 2373 560 11951 11745 6142 560 4398 415 5103 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="12">9179 11951 12683 13817 12282 560 5994 2597 10060 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="13">8785 560 5994 8288 415 6506 13817 2864 11951 7855 560 11813 </steps_updated>
+    <steps_updated num="14">9411 1681 11951 881 9490 6046 6285 5527 12689 </steps_updated>
+    <steps_updated num="15">6877 11951 284 11770 12683 13817 1678 11951 6250 4255 143 </steps_updated>
+    <steps_updated num="16">12774 10316 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

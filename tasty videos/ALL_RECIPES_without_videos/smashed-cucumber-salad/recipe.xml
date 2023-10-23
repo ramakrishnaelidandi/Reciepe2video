@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Smashed Cucumber Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smashed-cucumber-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; medium english cucumbers </ingredient>
+    <ingredient num="1">1 tablespoon ; red onion, minced </ingredient>
+    <ingredient num="2">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="3">1 teaspoon ; sugar </ingredient>
+    <ingredient num="4">1 teaspoon ; soy sauce </ingredient>
+    <ingredient num="5">1 teaspoon ; rice vinegar </ingredient>
+    <ingredient num="6">½ teaspoon ; sesame oil </ingredient>
+    <ingredient num="7">1 tablespoon ; toasted sesame seeds </ingredient>
+    <ingredient num="8">red pepper flakes, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>4.5</start_time>
+    <end_time>56.983</end_time>
+  </duration>
+  <steps>
+    <step num="0">Using a meat mallet or rolling pin, smash the cucumbers, then slice into bite-size pieces and transfer to a large bowl. </step>
+    <step num="1">Add the red onion, salt, and sugar, and toss to combine. </step>
+    <step num="2">In a small bowl, combine the soy sauce, rice vinegar, and sesame oil. </step>
+    <step num="3">Drizzle the dressing over the cucumbers, then toss to coat. </step>
+    <step num="4">Garnish with toasted sesame seeds and red pepper flakes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a meat mallet or rolling pin, smash the cucumbers, then slice into bite-size pieces and transfer to a large bowl. </steps_updated>
+    <steps_updated num="1">Add the red onion, salt, and sugar, and toss to combine. </steps_updated>
+    <steps_updated num="2">In a small bowl, combine the soy sauce, rice vinegar, and sesame oil. </steps_updated>
+    <steps_updated num="3">Drizzle the dressing over the cucumbers, then toss to coat. </steps_updated>
+    <steps_updated num="4">Garnish with toasted sesame seeds and red pepper flakes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

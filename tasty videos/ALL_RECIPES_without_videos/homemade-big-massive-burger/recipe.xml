@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Big Massive Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-big-massive-burger</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ lb ; ground beef ; (200 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 ½ ; burger buns </ingredient>
+    <ingredient num="4">1 slice ; american cheese, sliced </ingredient>
+    <ingredient num="5">½ cup ; mayonnaise ; (120 g) </ingredient>
+    <ingredient num="6">1 ; gherkin, diced </ingredient>
+    <ingredient num="7">1 teaspoon ; white vinegar </ingredient>
+    <ingredient num="8">1 teaspoon ; yellow mustard </ingredient>
+    <ingredient num="9">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="10">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="11">1 teaspoon ; smoked paprika </ingredient>
+    <ingredient num="12">½ teaspoon ; white pepper </ingredient>
+    <ingredient num="13">onion, finely diced </ingredient>
+    <ingredient num="14">lettuce, finely shredded </ingredient>
+    <ingredient num="15">gherkin, thinly sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/64267/low_1511826821.m3u8</low>
+    <high>https://vid.tasty.co/output/64267/mp4_720x1280/1511826821</high>
+  </video>
+  <steps>
+    <step num="0">Roll half of the beef mince into a ball and pat it down until a finger thick, bigger than palm size patty. Repeat with remaining beef. </step>
+    <step num="1">Fry both patties with salt and pepper for 2 and a half minutes a side. Add 1 cheese single to one of the patties. </step>
+    <step num="2">Toast the burger buns on a dry pan on medium heat until one of the sides is golden brown. </step>
+    <step num="3">Mix all the sauce ingredients and set aside. </step>
+    <step num="4">Time to build this bad boy! Spread burger sauce on a bun, sprinkle diced onion, shredded lettuce, place the patty with cheese, place another slice of bun. </step>
+    <step num="5">Then more sauce, more onion, shredded lettuce, gherkin slices, another patty, and the last slice of bun! </step>
+    <step num="6">Dig in and get lovin’ it! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Roll half of the beef mince into a ball and pat it down until a finger thick, bigger than palm size patty. </steps_updated>
+    <steps_updated num="1">Repeat with remaining beef. </steps_updated>
+    <steps_updated num="2">Fry both patties with salt and pepper for 2 and a half minutes a side. </steps_updated>
+    <steps_updated num="3">Add 1 cheese single to one of the patties. </steps_updated>
+    <steps_updated num="4">Toast the burger buns on a dry pan on medium heat until one of the sides is golden brown. </steps_updated>
+    <steps_updated num="5">Mix all the sauce ingredients and set aside. </steps_updated>
+    <steps_updated num="6">Time to build this bad boy! </steps_updated>
+    <steps_updated num="7">Spread burger sauce on a bun, sprinkle diced onion, shredded lettuce, place the patty with cheese, place another slice of bun. </steps_updated>
+    <steps_updated num="8">Then more sauce, more onion, shredded lettuce, gherkin slices, another patty, and the last slice of bun! </steps_updated>
+    <steps_updated num="9">Dig in and get lovin’ it! </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

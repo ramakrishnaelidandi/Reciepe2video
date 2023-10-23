@@ -1,0 +1,46 @@
+<recipe>
+  <title>Pico De Gallo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pico-de-gallo</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-3</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 3665 7042 341 </ingredient>
+    <ingredient num="1">1580 13278 8083 12384 341 </ingredient>
+    <ingredient num="2">3917 13278 3579 8695 13817 10015 </ingredient>
+    <ingredient num="3">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="4">13086 9486 13278 6209 6712 3962 </ingredient>
+    <ingredient num="5">1580 8071 13278 3855 82 </ingredient>
+    <ingredient num="6">12791 8071 13278 11088 13584 7845 </ingredient>
+    <ingredient num="7">1580 13278 7695 3701 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94177/hls24_1526421103.m3u8</low>
+    <high>https://vid.tasty.co/output/94177/landscape_720/1526421103</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 7042 12384 3579 4155 6712 12610 10986 13817 9712 10522 210 5994 2192 12377 13817 12224 </step>
+    <step num="1">12785 560 2237 2759 3801 13817 1023 210 11951 10437 3386 560 11061 2497 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 7042 12384 3579 4155 6712 12610 10986 13817 9712 10522 210 5994 2192 12377 13817 12224 </steps_updated>
+    <steps_updated num="1">12785 560 2237 2759 3801 13817 1023 210 11951 10437 3386 560 11061 2497 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00696</start_time>
+    <end_time>01106</end_time>
+  </duration_human>
+</recipe>

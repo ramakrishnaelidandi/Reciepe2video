@@ -1,0 +1,49 @@
+<recipe>
+  <title>Carrot Bacon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carrot-bacon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-bacon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 11021 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Brunch</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56942/low_1508350261.m3u8</low>
+    <high>https://vid.tasty.co/output/56942/mp4_720x1280/1508350261</high>
+  </video>
+  <duration>
+    <start_time>120.669</start_time>
+    <end_time>160.97</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 3963 12013 </step>
+    <step num="1">12474 5994 4669 8667 11003 5994 4168 12862 560 7368 11951 11021 669 3595 </step>
+    <step num="2">10950 5994 2192 14511 10968 11021 12168 1391 8244 7632 12610 13817 12375 7643 1681 3145 229 </step>
+    <step num="3">12785 11021 12168 560 5994 10765 8800 </step>
+    <step num="4">7831 7990 8489 8927 9309 14166 8119 4429 9151 12533 3954 10182 837 10439 573 560 8037 522 13817 10903 7990 3274 2933 11004 5895 1681 13218 6808 9490 888 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="1">12474 5994 4669 8667 11003 5994 4168 12862 560 7368 11951 11021 669 3595 </steps_updated>
+    <steps_updated num="2">10950 5994 2192 14511 10968 11021 12168 1391 8244 7632 12610 13817 12375 </steps_updated>
+    <steps_updated num="3">7643 1681 3145 229 </steps_updated>
+    <steps_updated num="4">12785 11021 12168 560 5994 10765 8800 </steps_updated>
+    <steps_updated num="5">7831 7990 8489 8927 9309 14166 8119 </steps_updated>
+    <steps_updated num="6">4429 9151 12533 3954 10182 837 10439 573 560 8037 522 13817 10903 7990 3274 2933 11004 5895 1681 13218 6808 9490 888 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

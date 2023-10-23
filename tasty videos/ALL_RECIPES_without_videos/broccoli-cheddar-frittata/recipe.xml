@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Broccoli Cheddar Frittata Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/broccoli-cheddar-frittata</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-recipes-for-your-mini-frying-pan</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; large eggs </ingredient>
+    <ingredient num="1">⅓ cup ; broccoli, finely chopped ; (50 g) </ingredient>
+    <ingredient num="2">⅓ cup ; shredded cheddar cheese ; (35 g) </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">chives, sliced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91750/hls24_1524870883.m3u8</low>
+    <high>https://vid.tasty.co/output/91750/landscape_720/1524870883</high>
+  </video>
+  <duration>
+    <start_time>61.5</start_time>
+    <end_time>93.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, beat the eggs. </step>
+    <step num="1">Add the broccoli, cheddar cheese, salt, pepper, and garlic powder and beat to combine. </step>
+    <step num="2">Heat the mini frying pan over medium heat. </step>
+    <step num="3">Pour the egg mixture into the pan and cover with a small plate. </step>
+    <step num="4">Cook for 10 minutes, or until the egg is set. </step>
+    <step num="5">Transfer to a plate and top with sliced chives. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, beat the eggs. </steps_updated>
+    <steps_updated num="1">Add the broccoli, cheddar cheese, salt, pepper, and garlic powder and beat to combine. </steps_updated>
+    <steps_updated num="2">Heat the mini frying pan over medium heat. </steps_updated>
+    <steps_updated num="3">Pour the egg mixture into the pan and cover with a small plate. </steps_updated>
+    <steps_updated num="4">Cook for 10 minutes, or until the egg is set. </steps_updated>
+    <steps_updated num="5">Transfer to a plate and top with sliced chives. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

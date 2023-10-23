@@ -1,0 +1,46 @@
+<recipe>
+  <title>Moringa Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/moringa-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/superfood-moringa-powder</comp_url>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 11579 6114 13278 336 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 76 976 13278 13412 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 13220 13278 336 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 14077 5802 13278 7503 8007 </ingredient>
+    <ingredient num="4">3917 8071 13278 1850 11703 </ingredient>
+    <ingredient num="5">6209 8540 </ingredient>
+    <ingredient num="6">3333 6742 </ingredient>
+    <ingredient num="7">3284 12558 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+    <category num="7">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94900/hls24_1526678736.m3u8</low>
+    <high>https://vid.tasty.co/output/94900/landscape_720/1526678736</high>
+  </video>
+  <duration>
+    <start_time>24.333</start_time>
+    <end_time>66.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 7234 76 2602 14077 9889 13817 1850 560 5994 12027 13817 1279 1681 12119 </step>
+    <step num="1">1083 669 5994 13426 5895 5994 12377 13817 740 12313 13218 13240 2807 2658 6209 6738 3333 13415 5895 3284 13482 </step>
+    <step num="2">12946 5994 1186 13817 14041 3557 4255 12313 5454 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 7234 76 2602 14077 9889 13817 1850 560 5994 12027 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="1">1083 669 5994 13426 5895 5994 12377 13817 740 12313 13218 13240 2807 2658 6209 6738 3333 13415 5895 3284 13482 </steps_updated>
+    <steps_updated num="2">12946 5994 1186 13817 14041 3557 4255 12313 5454 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

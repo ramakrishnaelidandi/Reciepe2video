@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco Cheese Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-cheese-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="1">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; garlic powder, or dried minced garlic </ingredient>
+    <ingredient num="3">2 tablespoons ; cumin </ingredient>
+    <ingredient num="4">2 tablespoons ; chili powder </ingredient>
+    <ingredient num="5">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">tomato, to serve </ingredient>
+    <ingredient num="8">guacamole, to serve </ingredient>
+    <ingredient num="9">greek yogurt, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48159/low_1503083357.m3u8</low>
+    <high>https://vid.tasty.co/output/48159/mp4_720x1280/1503083357</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Spoon 1 tablespoon piles of cheddar cheese 2 inches (5 cm) apart onto a parchment paper-lined baking sheet. </step>
+    <step num="2">Bake for 5-7 minutes, or until edges of cheese piles are golden brown. </step>
+    <step num="3">Cool for 1 minute. </step>
+    <step num="4">Press cheese piles into mini muffin tin slots to form cups. Allow cheese to cool completely before removing. </step>
+    <step num="5">Add ground beef and salt to a skillet over medium-high heat and cook until browned. </step>
+    <step num="6">Drain grease from the meat. </step>
+    <step num="7">Add garlic, cumin, chili powder, and water to skillet and stir until well-incorporated. </step>
+    <step num="8">Stir in salt. </step>
+    <step num="9">Distribute meat to cheese cups. </step>
+    <step num="10">Garnish with tomatoes, guacamole, and Greek yogurt. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Spoon 1 tablespoon piles of cheddar cheese 2 inches (5 cm) apart onto a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="2">Bake for 5-7 minutes, or until edges of cheese piles are golden brown. </steps_updated>
+    <steps_updated num="3">Cool for 1 minute. </steps_updated>
+    <steps_updated num="4">Press cheese piles into mini muffin tin slots to form cups. </steps_updated>
+    <steps_updated num="5">Allow cheese to cool completely before removing. </steps_updated>
+    <steps_updated num="6">Add ground beef and salt to a skillet over medium-high heat and cook until browned. </steps_updated>
+    <steps_updated num="7">Drain grease from the meat. </steps_updated>
+    <steps_updated num="8">Add garlic, cumin, chili powder, and water to skillet and stir until well-incorporated. </steps_updated>
+    <steps_updated num="9">Stir in salt. </steps_updated>
+    <steps_updated num="10">Distribute meat to cheese cups. </steps_updated>
+    <steps_updated num="11">Garnish with tomatoes, guacamole, and Greek yogurt. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

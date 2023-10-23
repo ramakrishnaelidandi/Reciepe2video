@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Granola Spoons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/granola-spoons</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/edible-spoons</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; granola ; (120 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; unsalted butter, room temperature </ingredient>
+    <ingredient num="2">1 tablespoon ; honey </ingredient>
+    <ingredient num="3">2 tablespoons ; light brown sugar </ingredient>
+    <ingredient num="4">yogurt, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91620/hls24_1524854113.m3u8</low>
+    <high>https://vid.tasty.co/output/91620/landscape_720/1524854113</high>
+  </video>
+  <duration>
+    <start_time>70.333</start_time>
+    <end_time>130.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour the granola into a food processor. Pulse until the granola is broken into small pieces. Set aside. </step>
+    <step num="1">In a small saucepan, mix together the butter, honey, and brown sugar over medium-low heat. Stir until the butter is melted, the sugar is dissolved, and the mixture begins to bubble, about 5 minutes. </step>
+    <step num="2">Remove the pan from the heat and add ½ cup (60g) of the crushed granola. If mixture is still too wet to shape, add more granola. </step>
+    <step num="3">Wrap 4 spoons tightly in aluminum foil. Lightly grease with nonstick cooking spray and set on a parchment-lined baking sheet. </step>
+    <step num="4">When the granola mixture is cool enough to handle, mold onto the front of each foil-covered spoon. </step>
+    <step num="5">Freeze for 30 minutes. </step>
+    <step num="6">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="7">Place another piece of aluminum foil under the spoons. Fold it up around the edges of each spoon so the granola mold is nestled inside. </step>
+    <step num="8">Bake for 10 minutes. </step>
+    <step num="9">Cool the spoons for 10 minutes, then remove the granola spoons from the molds. </step>
+    <step num="10">Chill in the refrigerator for 20 minutes. </step>
+    <step num="11">Serve with yogurt, if desired. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the granola into a food processor. </steps_updated>
+    <steps_updated num="1">Pulse until the granola is broken into small pieces. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">In a small saucepan, mix together the butter, honey, and brown sugar over medium-low heat. </steps_updated>
+    <steps_updated num="4">Stir until the butter is melted, the sugar is dissolved, and the mixture begins to bubble, about 5 minutes. </steps_updated>
+    <steps_updated num="5">Remove the pan from the heat and add ½ cup (60g) of the crushed granola. </steps_updated>
+    <steps_updated num="6">If mixture is still too wet to shape, add more granola. </steps_updated>
+    <steps_updated num="7">Wrap 4 spoons tightly in aluminum foil. </steps_updated>
+    <steps_updated num="8">Lightly grease with nonstick cooking spray and set on a parchment-lined baking sheet. </steps_updated>
+    <steps_updated num="9">When the granola mixture is cool enough to handle, mold onto the front of each foil-covered spoon. </steps_updated>
+    <steps_updated num="10">Freeze for 30 minutes. </steps_updated>
+    <steps_updated num="11">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="12">Place another piece of aluminum foil under the spoons. </steps_updated>
+    <steps_updated num="13">Fold it up around the edges of each spoon so the granola mold is nestled inside. </steps_updated>
+    <steps_updated num="14">Bake for 10 minutes. </steps_updated>
+    <steps_updated num="15">Cool the spoons for 10 minutes, then remove the granola spoons from the molds. </steps_updated>
+    <steps_updated num="16">Chill in the refrigerator for 20 minutes. </steps_updated>
+    <steps_updated num="17">Serve with yogurt, if desired. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

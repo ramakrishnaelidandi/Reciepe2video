@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Green Smoothie Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/green-smoothie-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; kiwi </ingredient>
+    <ingredient num="1">¼ ; avocado </ingredient>
+    <ingredient num="2">¼ cup ; fresh spinach ; (50 g) </ingredient>
+    <ingredient num="3">⅓ cup ; natural yogurt ; (75 g) </ingredient>
+    <ingredient num="4">⅓ cup ; coconut water ; (75 mg) </ingredient>
+    <ingredient num="5">1 tablespoon ; honey </ingredient>
+    <ingredient num="6">raspberry, to taste </ingredient>
+    <ingredient num="7">desiccated coconut, to taste </ingredient>
+    <ingredient num="8">hazelnuts, to taste </ingredient>
+    <ingredient num="9">sunflower seeds, to taste </ingredient>
+    <ingredient num="10">blueberry, to taste </ingredient>
+    <ingredient num="11">yogurt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32088/low_1495125309.m3u8</low>
+    <high>https://vid.tasty.co/output/32088/mp4_720x1280/1495125309</high>
+  </video>
+  <steps>
+    <step num="0">Throw all of the ‘base’ ingredients into a blender and whizz until smooth. </step>
+    <step num="1">NOTE: You can adapt this entire recipe as much or as little as you like, we chose to make one that looks super green with a somewhat neutral taste to let the toppings bring out the flavor. </step>
+    <step num="2">Pour the smoothie into a bowl, and top with your favorite toppings. Our suggested toppings are just that too, suggestions - be as creative as you like here - pecans, flax seeds, sliced peaches - whatever you like. Make a cool design too! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Throw all of the ‘base’ ingredients into a blender and whizz until smooth. </steps_updated>
+    <steps_updated num="1">NOTE: You can adapt this entire recipe as much or as little as you like, we chose to make one that looks super green with a somewhat neutral taste to let the toppings bring out the flavor. </steps_updated>
+    <steps_updated num="2">Pour the smoothie into a bowl, and top with your favorite toppings. </steps_updated>
+    <steps_updated num="3">Our suggested toppings are just that too, suggestions - be as creative as you like here - pecans, flax seeds, sliced peaches - whatever you like. </steps_updated>
+    <steps_updated num="4">Make a cool design too! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

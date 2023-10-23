@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Boozy Bubbly Sherbet Punch Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boozy-bubbly-sherbet-punch</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">rainbow sherbet, to taste </ingredient>
+    <ingredient num="1">fresh raspberries, for pitcher and sherbet </ingredient>
+    <ingredient num="2">6 oz ; fruit punch concentrate, thawed, half can ; (175 mL) </ingredient>
+    <ingredient num="3">6 oz ; pink lemonade concentrate, or raspberry lemonade, thawed, half can ; (175 mL) </ingredient>
+    <ingredient num="4">1 cup ; vodka ; (235 mL) </ingredient>
+    <ingredient num="5">5 cups ; ginger ale, chilled ; (1.2 L) </ingredient>
+    <ingredient num="6">1 bottle ; champagne, chilled </ingredient>
+    <ingredient num="7">fresh mint, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31836/low_1495124730.m3u8</low>
+    <high>https://vid.tasty.co/output/31836/mp4_720x1280/1495124730</high>
+  </video>
+  <steps>
+    <step num="0">Using cupcake liners in a muffin tin, fill each with four to five raspberries. </step>
+    <step num="1">Top with a scoop of rainbow sherbet. Freeze until ready to serve (best if frozen for at least two hours). </step>
+    <step num="2">In a large pitcher, mix together the juice concentrates, raspberries, and vodka. </step>
+    <step num="3">Just before serving, mix in the ginger ale. </step>
+    <step num="4">Remove a sherbet scoop from the cupcake liner and place in a large mug. </step>
+    <step num="5">Fill halfway with punch. </step>
+    <step num="6">Finish with champagne. Garnish with fresh mint. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using cupcake liners in a muffin tin, fill each with four to five raspberries. </steps_updated>
+    <steps_updated num="1">Top with a scoop of rainbow sherbet. </steps_updated>
+    <steps_updated num="2">Freeze until ready to serve (best if frozen for at least two hours). </steps_updated>
+    <steps_updated num="3">In a large pitcher, mix together the juice concentrates, raspberries, and vodka. </steps_updated>
+    <steps_updated num="4">Just before serving, mix in the ginger ale. </steps_updated>
+    <steps_updated num="5">Remove a sherbet scoop from the cupcake liner and place in a large mug. </steps_updated>
+    <steps_updated num="6">Fill halfway with punch. </steps_updated>
+    <steps_updated num="7">Finish with champagne. </steps_updated>
+    <steps_updated num="8">Garnish with fresh mint. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Cheeseburger Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-cheeseburger-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/1-lb-ground-beef-4-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">1 cup ; onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 tablespoons ; worcestershire sauce </ingredient>
+    <ingredient num="6">2 tablespoons ; ketchup </ingredient>
+    <ingredient num="7">4 cups ; beef broth ; (945 mL) </ingredient>
+    <ingredient num="8">16 oz ; fusilli pasta ; (455 g) </ingredient>
+    <ingredient num="9">3 cups ; shredded cheddar cheese ; (300 g) </ingredient>
+    <ingredient num="10">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="11">green onion, sliced, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60579/low_1510101426.m3u8</low>
+    <high>https://vid.tasty.co/output/60579/mp4_720x1280/1510101426</high>
+  </video>
+  <duration>
+    <start_time>1.9289999999999998</start_time>
+    <end_time>43.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pot over a medium-high heat, add ground beef, onions, garlic, salt, pepper, worcestershire sauce, and ketchup. Break up the beef to incorporate the seasonings and cook until browned, about 6-7 minutes. </step>
+    <step num="1">Pour in the beef broth and one cup of water and bring to a simmer. </step>
+    <step num="2">Add the pasta and simmer for 20 minutes or until the pasta is cooked throughout and the broth has cooked down, stirring occasionally. </step>
+    <step num="3">Pour in the milk and cheese. Stir until the cheese has melted. </step>
+    <step num="4">Serve garnished with some sliced green onions </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot over a medium-high heat, add ground beef, onions, garlic, salt, pepper, worcestershire sauce, and ketchup. </steps_updated>
+    <steps_updated num="1">Break up the beef to incorporate the seasonings and cook until browned, about 6-7 minutes. </steps_updated>
+    <steps_updated num="2">Pour in the beef broth and one cup of water and bring to a simmer. </steps_updated>
+    <steps_updated num="3">Add the pasta and simmer for 20 minutes or until the pasta is cooked throughout and the broth has cooked down, stirring occasionally. </steps_updated>
+    <steps_updated num="4">Pour in the milk and cheese. </steps_updated>
+    <steps_updated num="5">Stir until the cheese has melted. </steps_updated>
+    <steps_updated num="6">Serve garnished with some sliced green onions </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00114</start_time>
+    <end_time>01324</end_time>
+  </duration_human>
+</recipe>

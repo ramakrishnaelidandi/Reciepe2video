@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pre-Packed Smoothie In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pre-packed-smoothie-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/clever-mason-jar-hacks</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; raspberry ; (30 g) </ingredient>
+    <ingredient num="1">¼ cup ; blueberry ; (25 g) </ingredient>
+    <ingredient num="2">½ cup ; strawberry ; (75 g) </ingredient>
+    <ingredient num="3">½ cup ; fresh spinach ; (20 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; chia seed </ingredient>
+    <ingredient num="5">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="6">1 tablespoon ; almond butter </ingredient>
+    <ingredient num="7">1 cup ; milk, of choice or water ; (235 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Drinks</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50560/low_1504212116.m3u8</low>
+    <high>https://vid.tasty.co/output/50560/mp4_720x1280/1504212116</high>
+  </video>
+  <duration>
+    <start_time>65.45</start_time>
+    <end_time>81.34</end_time>
+  </duration>
+  <steps>
+    <step num="0">Layer the raspberries, blueberries, strawberries, chia seeds, spinach, cinnamon, and almond butter in a mason jar. </step>
+    <step num="1">Store in the freezer for up to 5 days. </step>
+    <step num="2">When ready to serve, add the milk or water to a blender then add the contents of the mason jar. </step>
+    <step num="3">Blend until smooth. </step>
+    <step num="4">Pour smoothie back into the jar. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Layer the raspberries, blueberries, strawberries, chia seeds, spinach, cinnamon, and almond butter in a mason jar. </steps_updated>
+    <steps_updated num="1">Store in the freezer for up to 5 days. </steps_updated>
+    <steps_updated num="2">When ready to serve, add the milk or water to a blender then add the contents of the mason jar. </steps_updated>
+    <steps_updated num="3">Blend until smooth. </steps_updated>
+    <steps_updated num="4">Pour smoothie back into the jar. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02019</start_time>
+    <end_time>02434</end_time>
+  </duration_human>
+</recipe>

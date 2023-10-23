@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Potato Roses Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/potato-roses</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; yukon gold potatoes, halved </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="3">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="4">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="5">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">12 strips ; center cut bacon </ingredient>
+    <ingredient num="8">fresh thyme, to serve </ingredient>
+    <ingredient num="9">grated parmesan cheese, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Sides</category>
+    <category num="3">Date Night</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75777/hls24_1517358346.m3u8</low>
+    <high>https://vid.tasty.co/output/75777/landscape_720/1517358346</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Using a mandolin and a hand guard, thinly slice the potatoes into a large mixing bowl. </step>
+    <step num="2">Add olive oil, garlic powder, thyme, rosemary, pepper, and salt to the sliced potatoes and toss with tongs until evenly coated. </step>
+    <step num="3">On a cutting board, lay out two pieces of bacon overlapping each other vertically. </step>
+    <step num="4">Line the bacon with the sliced potatoes, making sure each potato is overlapping. </step>
+    <step num="5">Starting at one end, gently roll up the bacon, creating a potato rose. </step>
+    <step num="6">Place the rolled potato roses in a greased muffin tin. Repeat with the remaining bacon strips and potatoes. </step>
+    <step num="7">Bake for 20 minutes. Cover the roses with tin foil, and bake for an additional 30 minutes. </step>
+    <step num="8">Top the roses with thyme and Parmesan. Bake for an addition 5-10 minutes uncovered. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Using a mandolin and a hand guard, thinly slice the potatoes into a large mixing bowl. </steps_updated>
+    <steps_updated num="2">Add olive oil, garlic powder, thyme, rosemary, pepper, and salt to the sliced potatoes and toss with tongs until evenly coated. </steps_updated>
+    <steps_updated num="3">On a cutting board, lay out two pieces of bacon overlapping each other vertically. </steps_updated>
+    <steps_updated num="4">Line the bacon with the sliced potatoes, making sure each potato is overlapping. </steps_updated>
+    <steps_updated num="5">Starting at one end, gently roll up the bacon, creating a potato rose. </steps_updated>
+    <steps_updated num="6">Place the rolled potato roses in a greased muffin tin. </steps_updated>
+    <steps_updated num="7">Repeat with the remaining bacon strips and potatoes. </steps_updated>
+    <steps_updated num="8">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="9">Cover the roses with tin foil, and bake for an additional 30 minutes. </steps_updated>
+    <steps_updated num="10">Top the roses with thyme and Parmesan. </steps_updated>
+    <steps_updated num="11">Bake for an addition 5-10 minutes uncovered. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

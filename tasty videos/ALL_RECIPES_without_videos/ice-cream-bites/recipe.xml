@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ice Cream Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">ice cream, any flavor, softened </ingredient>
+    <ingredient num="1">2 cups ; chocolate chips ; (350 g) </ingredient>
+    <ingredient num="2">½ cup ; coconut oil, use refined for a neutral taste ; (100 g) </ingredient>
+    <ingredient num="3">⅓ cup ; crispy rice cereal ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26308/low_1489198353.m3u8</low>
+    <high>https://vid.tasty.co/output/26308/mp4_720x1280/1489198353</high>
+  </video>
+  <steps>
+    <step num="0">Spread out softened ice cream on a wax paper lined baking tray. Cover with wax paper and press down to evenly spread and smooth. Freeze overnight. </step>
+    <step num="1">Remove ice cream from tray, peel off the wax paper and cut into bite size squares. Return to the freezer until ready to dip. </step>
+    <step num="2">Microwave 2 cups (350 grams) of chocolate chips with ½ cup (100 grams) coconut oil for 90 seconds, stopping to stir every 30, until melted and smooth. Allow chocolate mixture to come to room temperature. </step>
+    <step num="3">Mix in rice cereal. </step>
+    <step num="4">Working quickly and in small batches, coat ice cream cubes in chocolate mixture and return to the freezer to harden up. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread out softened ice cream on a wax paper lined baking tray. </steps_updated>
+    <steps_updated num="1">Cover with wax paper and press down to evenly spread and smooth. </steps_updated>
+    <steps_updated num="2">Freeze overnight. </steps_updated>
+    <steps_updated num="3">Remove ice cream from tray, peel off the wax paper and cut into bite size squares. </steps_updated>
+    <steps_updated num="4">Return to the freezer until ready to dip. </steps_updated>
+    <steps_updated num="5">Microwave 2 cups (350 grams) of chocolate chips with ½ cup (100 grams) coconut oil for 90 seconds, stopping to stir every 30, until melted and smooth. </steps_updated>
+    <steps_updated num="6">Allow chocolate mixture to come to room temperature. </steps_updated>
+    <steps_updated num="7">Mix in rice cereal. </steps_updated>
+    <steps_updated num="8">Working quickly and in small batches, coat ice cream cubes in chocolate mixture and return to the freezer to harden up. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

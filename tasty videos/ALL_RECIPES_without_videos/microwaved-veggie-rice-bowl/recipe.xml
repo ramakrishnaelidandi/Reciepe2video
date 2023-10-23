@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Microwaved Veggie Rice Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwaved-veggie-rice-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-dorm-friendly-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; rice ; (100 g) </ingredient>
+    <ingredient num="1">1 cup ; water ; (470 mL) </ingredient>
+    <ingredient num="2">1 teaspoon ; olive oil </ingredient>
+    <ingredient num="3">¼ cup ; black beans ; (40 g) </ingredient>
+    <ingredient num="4">¼ cup ; tomato, chopped ; (50 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">½ ; avocado, chopped </ingredient>
+    <ingredient num="8">fresh cilantro, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57773/low_1508773504.m3u8</low>
+    <high>https://vid.tasty.co/output/57773/mp4_720x1280/1508773504</high>
+  </video>
+  <duration>
+    <start_time>51.0</start_time>
+    <end_time>88.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a bowl, combine the rice, water, and olive oil. </step>
+    <step num="1">Stir, then microwave, covered, for 6-8 minutes until the rice is fully cooked. </step>
+    <step num="2">Carefully remove the lid, then add black beans, tomatoes, salt, and pepper. Stir to combine. </step>
+    <step num="3">Top with avocado and cilantro if desired. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, combine the rice, water, and olive oil. </steps_updated>
+    <steps_updated num="1">Stir, then microwave, covered, for 6-8 minutes until the rice is fully cooked. </steps_updated>
+    <steps_updated num="2">Carefully remove the lid, then add black beans, tomatoes, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Stir to combine. </steps_updated>
+    <steps_updated num="4">Top with avocado and cilantro if desired. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01561</start_time>
+    <end_time>02650</end_time>
+  </duration_human>
+</recipe>

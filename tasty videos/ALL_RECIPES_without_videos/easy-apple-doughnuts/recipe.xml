@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Apple ‘Doughnuts’ Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-apple-doughnuts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="1">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="3">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">½ teaspoon ; nutmeg </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 ; egg </ingredient>
+    <ingredient num="7">3 tablespoons ; buttermilk </ingredient>
+    <ingredient num="8">⅓ cup ; milk ; (80 mL) </ingredient>
+    <ingredient num="9">4 ; apples </ingredient>
+    <ingredient num="10">2 cups ; sunflower oil, for frying ; (500 mL) </ingredient>
+    <ingredient num="11">½ cup ; sugar, for coating ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13179/low_1477594036.m3u8</low>
+    <high>https://vid.tasty.co/output/13179/mp4_720x1280/1477594036</high>
+  </video>
+  <steps>
+    <step num="0">For the batter, mix together the flour, sugar, baking powder, cinnamon, nutmeg, and salt. </step>
+    <step num="1">Mix in the egg and buttermilk. </step>
+    <step num="2">Gradually stir in the milk. </step>
+    <step num="3">Next, core the apples and slice vertically into doughnut-size rings. Each apple should give you about 3 rings. </step>
+    <step num="4">Heat the oil in a deep frying pan to 180˚C (360°F). </step>
+    <step num="5">Evenly coat each apple slice in the batter mix. </step>
+    <step num="6">Carefully lay the doughnuts into the oil and fry for a few minutes on each side, until golden brown. </step>
+    <step num="7">Drain on paper towel before coating in sugar. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the batter, mix together the flour, sugar, baking powder, cinnamon, nutmeg, and salt. </steps_updated>
+    <steps_updated num="1">Mix in the egg and buttermilk. </steps_updated>
+    <steps_updated num="2">Gradually stir in the milk. </steps_updated>
+    <steps_updated num="3">Next, core the apples and slice vertically into doughnut-size rings. </steps_updated>
+    <steps_updated num="4">Each apple should give you about 3 rings. </steps_updated>
+    <steps_updated num="5">Heat the oil in a deep frying pan to 180˚C (360°F). </steps_updated>
+    <steps_updated num="6">Evenly coat each apple slice in the batter mix. </steps_updated>
+    <steps_updated num="7">Carefully lay the doughnuts into the oil and fry for a few minutes on each side, until golden brown. </steps_updated>
+    <steps_updated num="8">Drain on paper towel before coating in sugar. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Butter Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/butter-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 tablespoons ; unsalted butter, softened </ingredient>
+    <ingredient num="1">1 cup ; granulated sugar ; (200 g) </ingredient>
+    <ingredient num="2">1 ; large egg </ingredient>
+    <ingredient num="3">1 ½ tablespoons ; milk </ingredient>
+    <ingredient num="4">2 ¾ cups ; all purpose flour, plus more for dusting ; (345 g) </ingredient>
+    <ingredient num="5">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="6">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="7">2 lb ; powdered sugar ; (1 kg) </ingredient>
+    <ingredient num="8">8 tablespoons ; unsalted butter, softened </ingredient>
+    <ingredient num="9">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="10">14 oz ; condensed milk ; (395 g) </ingredient>
+    <ingredient num="11">food coloring, of your choice </ingredient>
+    <ingredient num="12">sprinkles, of your choice </ingredient>
+    <ingredient num="13">candy, of choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118867/hls24_1544228049.m3u8</low>
+    <high>https://vid.tasty.co/output/118867/landscape_720/1544228049</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line a baking sheet with parchment paper. </step>
+    <step num="1">In a large bowl, combine the butter and sugar. Cream together with an electric hand mixer until the butter is light and fluffy, </step>
+    <step num="2">Add the egg and milk, and continue beating until smooth. Set aside. </step>
+    <step num="3">In medium bowl, stir together the flour, baking soda, and salt. </step>
+    <step num="4">Gradually add the dry ingredients to the wet ingredients and beat to combine until the dough comes together. </step>
+    <step num="5">Turn the dough out onto a lightly floured surface and roll out to ¼-inch (¾ cm) thick. Cut out shapes with cookie cutters of your choice. Re-roll the excess dough and cut out more shapes until all of the dough is used. Transfer the cookies to the prepared baking sheet, spacing about 1 inch (2.5 cm) apart. </step>
+    <step num="6">Bake for 6-8 minutes, or until the cookies are firm around the edges but still soft at the centers. Transfer to a wire rack to cool completely. </step>
+    <step num="7">Make the frosting: In a large bowl, combine the powdered sugar, butter, vanilla, and condensed milk. Beat with an electric hand mixer until creamy and smooth. Divide the frosting between smaller bowls and add food coloring, if desired. </step>
+    <step num="8">Decorate the cookies with the frosting, sprinkles, and candies. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine the butter and sugar. </steps_updated>
+    <steps_updated num="3">Cream together with an electric hand mixer until the butter is light and fluffy, </steps_updated>
+    <steps_updated num="4">Add the egg and milk, and continue beating until smooth. </steps_updated>
+    <steps_updated num="5">Set aside. </steps_updated>
+    <steps_updated num="6">In medium bowl, stir together the flour, baking soda, and salt. </steps_updated>
+    <steps_updated num="7">Gradually add the dry ingredients to the wet ingredients and beat to combine until the dough comes together. </steps_updated>
+    <steps_updated num="8">Turn the dough out onto a lightly floured surface and roll out to ¼-inch (¾ cm) thick. </steps_updated>
+    <steps_updated num="9">Cut out shapes with cookie cutters of your choice. </steps_updated>
+    <steps_updated num="10">Re-roll the excess dough and cut out more shapes until all of the dough is used. </steps_updated>
+    <steps_updated num="11">Transfer the cookies to the prepared baking sheet, spacing about 1 inch (2.5 cm) apart. </steps_updated>
+    <steps_updated num="12">Bake for 6-8 minutes, or until the cookies are firm around the edges but still soft at the centers. </steps_updated>
+    <steps_updated num="13">Transfer to a wire rack to cool completely. </steps_updated>
+    <steps_updated num="14">Make the frosting: In a large bowl, combine the powdered sugar, butter, vanilla, and condensed milk. </steps_updated>
+    <steps_updated num="15">Beat with an electric hand mixer until creamy and smooth. </steps_updated>
+    <steps_updated num="16">Divide the frosting between smaller bowls and add food coloring, if desired. </steps_updated>
+    <steps_updated num="17">Decorate the cookies with the frosting, sprinkles, and candies. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

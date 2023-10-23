@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roast Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roast-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 lb ; whole chicken ; (2 kg) </ingredient>
+    <ingredient num="1">kosher salt, to taste </ingredient>
+    <ingredient num="2">freshly ground black pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+    <category num="1">Weeknight</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121034/hls24_1545419513.m3u8</low>
+    <high>https://vid.tasty.co/output/121034/landscape_720/1545419513</high>
+  </video>
+  <steps>
+    <step num="0">Remove the giblets from the chicken cavity. Pat the chicken dry all over with paper towels, including the cavity. </step>
+    <step num="1">Generously season the entire chicken with salt and pepper. With the tip of a toothpick, poke the skin of the chicken all over, creating at least 20 tiny holes. </step>
+    <step num="2">Transfer the chicken to a rimmed baking dish and let sit in the refrigerator, uncovered, for 8-12 hours. </step>
+    <step num="3">Preheat the oven to 450˚F (230˚C). </step>
+    <step num="4">Remove the chicken from the refrigerator and let it warm to room temperature for 1 hour. </step>
+    <step num="5">Truss the chicken legs. Using butcher’s twine, tie the legs together, then slip the twine under each leg, pull up to the top of the chicken, and flip the bird over. Pull the twine under the wings, loop around the neck, and then tie to secure and cut off any excess twine. Flip the bird over again and tuck the wings under the breasts. </step>
+    <step num="6">Set the chicken, breast-side up, on a roasting rack set over a roasting pan. </step>
+    <step num="7">Roast for 1 hour, or until a meat thermometer inserted in the thickest part of the chicken reaches 165˚F (75˚C). </step>
+    <step num="8">Let the chicken rest at room temperature for 20 minutes. </step>
+    <step num="9">To carve, remove the twine. Using a sharp knife, cut between the leg and the breast. When you reach the joint, bend it back and cut right through. Twist off the wings. To remove the breasts, cut straight down along the keel bone. Then, angling your knife outward, remove the breast. Break the legs down into thighs and drumsticks, if desired. Pull off the oysters from the underside of the chicken. </step>
+    <step num="10">If you’d like, make chicken stock from the carcass. Add the carcass to a large pot with onions, celery, carrots, garlic, and other aromatics of your choice. Cover with water and bring to a boil over high heat. Reduce the heat to low and simmer for about 8 hours, skimming off the fat as needed. Store in the fridge for a few days or freeze for a few months. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the giblets from the chicken cavity. </steps_updated>
+    <steps_updated num="1">Pat the chicken dry all over with paper towels, including the cavity. </steps_updated>
+    <steps_updated num="2">Generously season the entire chicken with salt and pepper. </steps_updated>
+    <steps_updated num="3">With the tip of a toothpick, poke the skin of the chicken all over, creating at least 20 tiny holes. </steps_updated>
+    <steps_updated num="4">Transfer the chicken to a rimmed baking dish and let sit in the refrigerator, uncovered, for 8-12 hours. </steps_updated>
+    <steps_updated num="5">Preheat the oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="6">Remove the chicken from the refrigerator and let it warm to room temperature for 1 hour. </steps_updated>
+    <steps_updated num="7">Truss the chicken legs. </steps_updated>
+    <steps_updated num="8">Using butcher’s twine, tie the legs together, then slip the twine under each leg, pull up to the top of the chicken, and flip the bird over. </steps_updated>
+    <steps_updated num="9">Pull the twine under the wings, loop around the neck, and then tie to secure and cut off any excess twine. </steps_updated>
+    <steps_updated num="10">Flip the bird over again and tuck the wings under the breasts. </steps_updated>
+    <steps_updated num="11">Set the chicken, breast-side up, on a roasting rack set over a roasting pan. </steps_updated>
+    <steps_updated num="12">Roast for 1 hour, or until a meat thermometer inserted in the thickest part of the chicken reaches 165˚F (75˚C). </steps_updated>
+    <steps_updated num="13">Let the chicken rest at room temperature for 20 minutes. </steps_updated>
+    <steps_updated num="14">To carve, remove the twine. </steps_updated>
+    <steps_updated num="15">Using a sharp knife, cut between the leg and the breast. </steps_updated>
+    <steps_updated num="16">When you reach the joint, bend it back and cut right through. </steps_updated>
+    <steps_updated num="17">Twist off the wings. </steps_updated>
+    <steps_updated num="18">To remove the breasts, cut straight down along the keel bone. </steps_updated>
+    <steps_updated num="19">Then, angling your knife outward, remove the breast. </steps_updated>
+    <steps_updated num="20">Break the legs down into thighs and drumsticks, if desired. </steps_updated>
+    <steps_updated num="21">Pull off the oysters from the underside of the chicken. </steps_updated>
+    <steps_updated num="22">If you’d like, make chicken stock from the carcass. </steps_updated>
+    <steps_updated num="23">Add the carcass to a large pot with onions, celery, carrots, garlic, and other aromatics of your choice. </steps_updated>
+    <steps_updated num="24">Cover with water and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="25">Reduce the heat to low and simmer for about 8 hours, skimming off the fat as needed. </steps_updated>
+    <steps_updated num="26">Store in the fridge for a few days or freeze for a few months. </steps_updated>
+    <steps_updated num="27">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

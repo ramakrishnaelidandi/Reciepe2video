@@ -1,0 +1,59 @@
+<recipe>
+  <title>Veggie Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-make-fried-rice</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 2031 13278 5766 </ingredient>
+    <ingredient num="1">1580 2605 13278 5425 341 13278 13125 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 4155 10015 </ingredient>
+    <ingredient num="3">1580 2605 13278 12384 341 13278 3433 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 1466 10986 341 13278 2264 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 2340 9800 13278 3433 5981 </ingredient>
+    <ingredient num="6">1580 2605 13278 4011 13278 3433 5981 </ingredient>
+    <ingredient num="7">6351 13278 1813 2605 13278 9612 </ingredient>
+    <ingredient num="8">13086 13278 14463 9917 </ingredient>
+    <ingredient num="9">13086 9517 13278 4617 11948 3745 13278 7897 5981 </ingredient>
+    <ingredient num="10">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="11">3917 14014 13278 9110 5766 </ingredient>
+    <ingredient num="12">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49619/low_1503937699.m3u8</low>
+    <high>https://vid.tasty.co/output/49619/mp4_720x1280/1503937699</high>
+  </video>
+  <duration>
+    <start_time>104.18</start_time>
+    <end_time>140.19</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 7742 5895 11358 6326 7855 3386 11951 5766 11770 8283 7855 13817 2550 8445 7272 13817 11384 1681 11453 12573 6470 </step>
+    <step num="1">9179 1466 2986 13817 2340 13817 2550 2237 3274 199 12689 8862 8554 371 11951 3745 284 560 11951 11801 371 11951 10590 </step>
+    <step num="2">8315 11951 12708 13817 5406 669 11951 1619 2532 371 11951 10590 10695 11951 12708 13817 10968 1391 11951 12886 371 11951 14212 </step>
+    <step num="3">9179 12644 12655 11948 11691 7280 9110 7632 13817 12375 9393 3145 13817 3945 11951 7706 2550 1681 4721 2111 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 7742 5895 11358 6326 7855 3386 11951 5766 11770 8283 7855 13817 2550 8445 7272 13817 11384 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="1">9179 1466 2986 13817 2340 13817 2550 2237 3274 199 12689 </steps_updated>
+    <steps_updated num="2">8862 8554 371 11951 3745 284 560 11951 11801 371 11951 10590 </steps_updated>
+    <steps_updated num="3">8315 11951 12708 13817 5406 669 11951 1619 2532 371 11951 10590 </steps_updated>
+    <steps_updated num="4">10695 11951 12708 13817 10968 1391 11951 12886 371 11951 14212 </steps_updated>
+    <steps_updated num="5">9179 12644 12655 11948 11691 7280 9110 7632 13817 12375 </steps_updated>
+    <steps_updated num="6">9393 3145 13817 3945 11951 7706 2550 1681 4721 2111 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03182</start_time>
+    <end_time>04220</end_time>
+  </duration_human>
+</recipe>

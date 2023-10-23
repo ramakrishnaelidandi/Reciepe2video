@@ -1,0 +1,63 @@
+<recipe>
+  <title>Thai Quinoa Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-quinoa-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quinoa-salad-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 12282 13278 12462 8007 </ingredient>
+    <ingredient num="1">3917 2605 13278 4168 220 13278 12462 8007 </ingredient>
+    <ingredient num="2">3917 2605 13278 12683 13278 8118 5981 </ingredient>
+    <ingredient num="3">8580 13278 8445 3333 </ingredient>
+    <ingredient num="4">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="5">3917 13278 10837 14432 </ingredient>
+    <ingredient num="6">3917 2605 13278 8083 747 3333 13278 11953 5981 </ingredient>
+    <ingredient num="7">1580 13278 2192 8083 12384 341 </ingredient>
+    <ingredient num="8">1580 2605 13278 8692 13278 3433 5981 </ingredient>
+    <ingredient num="9">4985 12384 560 1966 </ingredient>
+    <ingredient num="10">5614 12411 560 1966 </ingredient>
+    <ingredient num="11">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="12">3917 8071 13278 9110 5766 </ingredient>
+    <ingredient num="13">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="14">3917 14014 13278 14635 2431 </ingredient>
+    <ingredient num="15">8580 2031 13278 8244 5766 </ingredient>
+    <ingredient num="16">3917 14014 13278 9586 </ingredient>
+    <ingredient num="17">12791 2605 13278 13798 9924 13278 13125 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50638/low_1504219940.m3u8</low>
+    <high>https://vid.tasty.co/output/50638/mp4_720x1280/1504219940</high>
+  </video>
+  <duration>
+    <start_time>1.0</start_time>
+    <end_time>36.4</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2192 7110 14238 12282 13817 4168 220 560 5994 8288 415 740 5790 4660 13817 11779 7990 10052 12689 </step>
+    <step num="1">10950 5994 14511 4120 954 8445 8083 10986 10837 10331 747 13817 12023 </step>
+    <step num="2">10950 5994 2192 14511 10968 13384 9110 7632 11691 7280 14635 8244 7632 14240 13817 13798 14057 1594 11708 11770 11951 5790 </step>
+    <step num="3">13494 1391 4985 11453 13817 5614 2903 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 7110 14238 12282 13817 4168 220 560 5994 8288 415 740 5790 </steps_updated>
+    <steps_updated num="1">4660 13817 11779 7990 10052 12689 </steps_updated>
+    <steps_updated num="2">10950 5994 14511 4120 954 8445 8083 10986 10837 10331 747 13817 12023 </steps_updated>
+    <steps_updated num="3">10950 5994 2192 14511 10968 13384 9110 7632 11691 7280 14635 8244 7632 14240 13817 13798 14057 </steps_updated>
+    <steps_updated num="4">1594 11708 11770 11951 5790 </steps_updated>
+    <steps_updated num="5">13494 1391 4985 11453 13817 5614 2903 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00081</start_time>
+    <end_time>01117</end_time>
+  </duration_human>
+</recipe>

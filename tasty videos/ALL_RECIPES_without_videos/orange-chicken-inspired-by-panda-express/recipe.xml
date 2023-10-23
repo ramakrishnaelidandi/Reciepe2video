@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Orange Chicken (Inspired By Panda Express) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/orange-chicken-inspired-by-panda-express</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; egg </ingredient>
+    <ingredient num="1">1 teaspoon ; white pepper </ingredient>
+    <ingredient num="2">1 ½ teaspoons ; salt </ingredient>
+    <ingredient num="3">2 ; chicken breasts, cubed </ingredient>
+    <ingredient num="4">½ cup ; cornstarch ; (65 g) </ingredient>
+    <ingredient num="5">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="6">vegetable oil, for frying </ingredient>
+    <ingredient num="7">1 tablespoon ; oil </ingredient>
+    <ingredient num="8">2 teaspoons ; garlic, minced </ingredient>
+    <ingredient num="9">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="10">½ teaspoon ; chili flakes </ingredient>
+    <ingredient num="11">1 tablespoon ; rice wine </ingredient>
+    <ingredient num="12">1 ½ tablespoons ; soy sauce </ingredient>
+    <ingredient num="13">5 tablespoons ; vinegar </ingredient>
+    <ingredient num="14">1 ½ tablespoons ; water </ingredient>
+    <ingredient num="15">3 ½ tablespoons ; sugar </ingredient>
+    <ingredient num="16">1 tablespoon ; orange zest </ingredient>
+    <ingredient num="17">scallions, chopped, for garnish </ingredient>
+    <ingredient num="18">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="19">1 tablespoon ; water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31994/low_1495125019.m3u8</low>
+    <high>https://vid.tasty.co/output/31994/mp4_720x1280/1495125019</high>
+  </video>
+  <steps>
+    <step num="0">Combine the egg, white pepper and salt in a mixing bowl. Add the cubed chicken breast, make sure it’s coated with the egg mixture. </step>
+    <step num="1">In another bowl, combine corn starch and flour. Add the coated chicken to the flour mixture. Stir to coat. </step>
+    <step num="2">Working in batches, fry the coated chicken until golden and done. Remove with a slotted spoon and set aside. </step>
+    <step num="3">In a large pan or wok, add oil, garlic, ginger and red chili flakes. Stir fry until fragrant. </step>
+    <step num="4">Add rice wine and stir for a few seconds. Proceed to add all of the other sauce ingredients, including soy sauce, vinegar, water, sugar and orange zest. </step>
+    <step num="5">Add the fried chicken. Stir to coat in sauce. Thicken the sauce with the cornstarch slurry. </step>
+    <step num="6">Garnish with chopped scallions and serve with rice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the egg, white pepper and salt in a mixing bowl. </steps_updated>
+    <steps_updated num="1">Add the cubed chicken breast, make sure it’s coated with the egg mixture. </steps_updated>
+    <steps_updated num="2">In another bowl, combine corn starch and flour. </steps_updated>
+    <steps_updated num="3">Add the coated chicken to the flour mixture. </steps_updated>
+    <steps_updated num="4">Stir to coat. </steps_updated>
+    <steps_updated num="5">Working in batches, fry the coated chicken until golden and done. </steps_updated>
+    <steps_updated num="6">Remove with a slotted spoon and set aside. </steps_updated>
+    <steps_updated num="7">In a large pan or wok, add oil, garlic, ginger and red chili flakes. </steps_updated>
+    <steps_updated num="8">Stir fry until fragrant. </steps_updated>
+    <steps_updated num="9">Add rice wine and stir for a few seconds. </steps_updated>
+    <steps_updated num="10">Proceed to add all of the other sauce ingredients, including soy sauce, vinegar, water, sugar and orange zest. </steps_updated>
+    <steps_updated num="11">Add the fried chicken. </steps_updated>
+    <steps_updated num="12">Stir to coat in sauce. </steps_updated>
+    <steps_updated num="13">Thicken the sauce with the cornstarch slurry. </steps_updated>
+    <steps_updated num="14">Garnish with chopped scallions and serve with rice. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

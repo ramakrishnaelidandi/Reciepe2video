@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ratatouille Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ratatouille</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; eggplants </ingredient>
+    <ingredient num="1">6 ; roma tomatoes </ingredient>
+    <ingredient num="2">2 ; yellow squashes </ingredient>
+    <ingredient num="3">2 ; zucchinis </ingredient>
+    <ingredient num="4">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="5">1 ; onion, diced </ingredient>
+    <ingredient num="6">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="8">1 ; yellow bell pepper, diced </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">28 oz ; can of crushed tomatoes </ingredient>
+    <ingredient num="12">2 tablespoons ; chopped fresh basil, from 8-10 leaves </ingredient>
+    <ingredient num="13">2 tablespoons ; chopped fresh basil, from 8-10 leaves </ingredient>
+    <ingredient num="14">1 teaspoon ; garlic, minced </ingredient>
+    <ingredient num="15">2 tablespoons ; Chopped fresh parsley </ingredient>
+    <ingredient num="16">2 teaspoons ; fresh thyme </ingredient>
+    <ingredient num="17">salt, to taste </ingredient>
+    <ingredient num="18">pepper, to taste </ingredient>
+    <ingredient num="19">4 tablespoons ; olive oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13082/low_1477516794.m3u8</low>
+    <high>https://vid.tasty.co/output/13082/mp4_720x1280/1477516794</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven for 375˚F/190˚C. </step>
+    <step num="1">Slice the eggplants, roma tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch/1 ½-mm rounds, then set aside. </step>
+    <step num="2">Heat olive oil in a 12-inch/30-cm oven safe pan over medium-high heat. Sauté onions, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add crushed tomatoes. Stir until ingredients are fully incorporated. Remove from heat, then add basil. Stir once more, then smooth the surface of the sauce with your spatula. </step>
+    <step num="3">Arrange the sliced veggies in alternating patterns, (e.g. eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the inside of the pan. Season with salt and pepper. </step>
+    <step num="4">Mix herb seasoning and pour over the vegetables. </step>
+    <step num="5">Cover the pan with tin foil and bake for 40 minutes. After 40 minutes, uncover, then bake for an additional 20 minutes. The vegetables should be soft. </step>
+    <step num="6">Serve while hot as a main dish, or as a side dish. The ratatouille is also excellent the next day. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven for 375˚F/190˚C. </steps_updated>
+    <steps_updated num="1">Slice the eggplants, roma tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch/1 ½-mm rounds, then set aside. </steps_updated>
+    <steps_updated num="2">Heat olive oil in a 12-inch/30-cm oven safe pan over medium-high heat. </steps_updated>
+    <steps_updated num="3">Sauté onions, garlic, and bell peppers until soft, about 10 minutes. </steps_updated>
+    <steps_updated num="4">Season with salt and pepper, then add crushed tomatoes. </steps_updated>
+    <steps_updated num="5">Stir until ingredients are fully incorporated. </steps_updated>
+    <steps_updated num="6">Remove from heat, then add basil. </steps_updated>
+    <steps_updated num="7">Stir once more, then smooth the surface of the sauce with your spatula. </steps_updated>
+    <steps_updated num="8">Arrange the sliced veggies in alternating patterns, (e.g. </steps_updated>
+    <steps_updated num="9">eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the inside of the pan. </steps_updated>
+    <steps_updated num="10">Season with salt and pepper. </steps_updated>
+    <steps_updated num="11">Mix herb seasoning and pour over the vegetables. </steps_updated>
+    <steps_updated num="12">Cover the pan with tin foil and bake for 40 minutes. </steps_updated>
+    <steps_updated num="13">After 40 minutes, uncover, then bake for an additional 20 minutes. </steps_updated>
+    <steps_updated num="14">The vegetables should be soft. </steps_updated>
+    <steps_updated num="15">Serve while hot as a main dish, or as a side dish. </steps_updated>
+    <steps_updated num="16">The ratatouille is also excellent the next day. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Aunt Gussie’s Pound Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/aunt-gussies-pound-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; unsalted butter, 2 sticks ; (230 g) </ingredient>
+    <ingredient num="1">2 ¾ cups ; sugar ; (550 g) </ingredient>
+    <ingredient num="2">½ cup ; shortening ; (100 g) </ingredient>
+    <ingredient num="3">5 ; eggs </ingredient>
+    <ingredient num="4">1 cup ; whole milk ; (240 mL) </ingredient>
+    <ingredient num="5">1 teaspoon ; lemon extract </ingredient>
+    <ingredient num="6">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">3 cups ; flour ; (375 g) </ingredient>
+    <ingredient num="8">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="9">¾ teaspoon ; salt </ingredient>
+    <ingredient num="10">vanilla ice cream, for serving </ingredient>
+    <ingredient num="11">fresh berry, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82838/hls24_1520365198.m3u8</low>
+    <high>https://vid.tasty.co/output/82838/landscape_720/1520365198</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, cream butter, sugar, and shortening together with a hand mixer. </step>
+    <step num="1">Mix the eggs, one at a time, into the batter. </step>
+    <step num="2">In a medium bowl, combine the milk, lemon extract, and vanilla extract. </step>
+    <step num="3">In a separate medium bowl, whisk the flour, baking powder, and salt. </step>
+    <step num="4">Alternately add the dry and wet ingredients into the batter. </step>
+    <step num="5">Pour the batter equally into two greased and lightly floured loaf pans. </step>
+    <step num="6">Bake in a non-preheated oven set to 350°F (180°C) for 1 hour, or until toothpick inserted comes out clean. </step>
+    <step num="7">Cool for 30 minutes before slicing. </step>
+    <step num="8">Serve with vanilla ice cream and berries. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, cream butter, sugar, and shortening together with a hand mixer. </steps_updated>
+    <steps_updated num="1">Mix the eggs, one at a time, into the batter. </steps_updated>
+    <steps_updated num="2">In a medium bowl, combine the milk, lemon extract, and vanilla extract. </steps_updated>
+    <steps_updated num="3">In a separate medium bowl, whisk the flour, baking powder, and salt. </steps_updated>
+    <steps_updated num="4">Alternately add the dry and wet ingredients into the batter. </steps_updated>
+    <steps_updated num="5">Pour the batter equally into two greased and lightly floured loaf pans. </steps_updated>
+    <steps_updated num="6">Bake in a non-preheated oven set to 350°F (180°C) for 1 hour, or until toothpick inserted comes out clean. </steps_updated>
+    <steps_updated num="7">Cool for 30 minutes before slicing. </steps_updated>
+    <steps_updated num="8">Serve with vanilla ice cream and berries. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

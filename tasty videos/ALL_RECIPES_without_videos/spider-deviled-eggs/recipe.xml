@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spider Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spider-deviled-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 ; hard-boiled eggs </ingredient>
+    <ingredient num="1">large storage bag </ingredient>
+    <ingredient num="2">2 tablespoons ; black food coloring </ingredient>
+    <ingredient num="3">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="4">3 tablespoons ; mayonnaise </ingredient>
+    <ingredient num="5">1 tablespoon ; mustard </ingredient>
+    <ingredient num="6">1 tablespoon ; green food coloring </ingredient>
+    <ingredient num="7">black olive </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">Use a spoon and carefully create cracks on 8 hard-boiled eggs. </step>
+    <step num="1">Place the cracked eggs in a large bag. Add black food coloring and water. </step>
+    <step num="2">Close the bag, mix around and set aside for 15 minutes. </step>
+    <step num="3">Rinse the eggs in clean water and peel to reveal the cracked design. </step>
+    <step num="4">Cut the eggs in half and separate the egg yolks from the egg whites. </step>
+    <step num="5">Combine the egg yolks with mayonnaise, mustard and green food coloring. </step>
+    <step num="6">Pipe the egg yolk mixture into the egg whites. </step>
+    <step num="7">Garnish the deviled eggs with an olive spider. To create an olive spider use half of a black olive for the body and olive slices for the legs. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a spoon and carefully create cracks on 8 hard-boiled eggs. </steps_updated>
+    <steps_updated num="1">Place the cracked eggs in a large bag. </steps_updated>
+    <steps_updated num="2">Add black food coloring and water. </steps_updated>
+    <steps_updated num="3">Close the bag, mix around and set aside for 15 minutes. </steps_updated>
+    <steps_updated num="4">Rinse the eggs in clean water and peel to reveal the cracked design. </steps_updated>
+    <steps_updated num="5">Cut the eggs in half and separate the egg yolks from the egg whites. </steps_updated>
+    <steps_updated num="6">Combine the egg yolks with mayonnaise, mustard and green food coloring. </steps_updated>
+    <steps_updated num="7">Pipe the egg yolk mixture into the egg whites. </steps_updated>
+    <steps_updated num="8">Garnish the deviled eggs with an olive spider. </steps_updated>
+    <steps_updated num="9">To create an olive spider use half of a black olive for the body and olive slices for the legs. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

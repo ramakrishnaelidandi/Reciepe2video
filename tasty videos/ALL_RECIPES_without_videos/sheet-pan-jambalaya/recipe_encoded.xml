@@ -1,0 +1,66 @@
+<recipe>
+  <title>Sheet-Pan Jambalaya Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-pan-jambalaya</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-stress-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13757 13278 13757 11091 12384 976 </ingredient>
+    <ingredient num="1">3917 13278 8083 1466 10986 976 </ingredient>
+    <ingredient num="2">3917 13278 11091 1466 10986 976 </ingredient>
+    <ingredient num="3">3917 13278 4985 1466 10986 976 </ingredient>
+    <ingredient num="4">8580 9517 13278 7983 4437 976 669 12458 13278 8148 5981 </ingredient>
+    <ingredient num="5">8244 7632 560 11567 </ingredient>
+    <ingredient num="6">3917 12791 9486 13278 6828 3123 3247 </ingredient>
+    <ingredient num="7">3917 715 13278 12188 3876 4125 13817 12692 13278 4563 5981 </ingredient>
+    <ingredient num="8">1580 8071 13278 9496 </ingredient>
+    <ingredient num="9">3917 1580 9517 13278 9491 341 13278 1513 5981 </ingredient>
+    <ingredient num="10">4061 9517 13278 11948 8421 5746 612 1368 7706 13278 4314 5981 </ingredient>
+    <ingredient num="11">6293 516 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85393/hls24_1521485033.m3u8</low>
+    <high>https://vid.tasty.co/output/85393/landscape_720/1521485033</high>
+  </video>
+  <duration>
+    <start_time>111.166</start_time>
+    <end_time>171.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 8910 10797 </step>
+    <step num="1">12474 5994 2597 10765 11020 8093 11951 12384 1466 5016 13817 7983 3719 1594 1391 8244 5766 13817 12616 1391 3917 14014 2528 3123 5895 560 8686 5209 12313 6954 10968 12826 3626 3631 </step>
+    <step num="2">7831 7990 6735 11004 5895 1681 7983 13280 10586 560 2147 </step>
+    <step num="3">4829 11951 284 13817 7983 13280 12573 10279 3345 11951 11084 210 5994 2192 7616 10242 1391 3917 8071 2528 2634 13817 1580 8071 4700 12473 560 515 </step>
+    <step num="4">6054 11951 284 13817 13280 6781 11951 11546 13817 740 11951 13504 11084 13817 341 8720 9393 12826 6690 </step>
+    <step num="5">4278 12826 560 11951 10439 7990 11061 11004 5895 1681 11951 11084 9490 644 13686 </step>
+    <step num="6">6054 6781 11951 10439 13817 740 11951 3745 11948 3624 12826 3626 3631 </step>
+    <step num="7">13688 1391 976 1061 13817 1966 7389 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">12474 5994 2597 10765 11020 8093 11951 12384 1466 5016 13817 7983 3719 </steps_updated>
+    <steps_updated num="2">1594 1391 8244 5766 13817 12616 1391 3917 14014 2528 3123 5895 560 8686 </steps_updated>
+    <steps_updated num="3">5209 12313 6954 10968 12826 3626 3631 </steps_updated>
+    <steps_updated num="4">7831 7990 6735 11004 5895 1681 7983 13280 10586 560 2147 </steps_updated>
+    <steps_updated num="5">4829 11951 284 13817 7983 13280 12573 10279 3345 11951 11084 210 5994 2192 7616 </steps_updated>
+    <steps_updated num="6">10242 1391 3917 8071 2528 2634 13817 1580 8071 4700 </steps_updated>
+    <steps_updated num="7">12473 560 515 </steps_updated>
+    <steps_updated num="8">6054 11951 284 13817 13280 6781 11951 11546 13817 740 11951 13504 11084 13817 341 8720 </steps_updated>
+    <steps_updated num="9">9393 12826 6690 </steps_updated>
+    <steps_updated num="10">4278 12826 560 11951 10439 7990 11061 11004 5895 1681 11951 11084 9490 644 13686 </steps_updated>
+    <steps_updated num="11">6054 6781 11951 10439 13817 740 11951 3745 11948 3624 12826 3626 3631 </steps_updated>
+    <steps_updated num="12">13688 1391 976 1061 13817 1966 7389 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02713</start_time>
+    <end_time>04059</end_time>
+  </duration_human>
+</recipe>

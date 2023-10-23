@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Chocolate Avocado Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-chocolate-avocado-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; avocado </ingredient>
+    <ingredient num="1">1 ; banana </ingredient>
+    <ingredient num="2">1 cup ; chocolate milk, of choice ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Breakfast</category>
+    <category num="8">Drinks</category>
+    <category num="9">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/61659/low_1510600164.m3u8</low>
+    <high>https://vid.tasty.co/output/61659/mp4_720x1280/1510600164</high>
+  </video>
+  <duration>
+    <start_time>93.52</start_time>
+    <end_time>112.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add avocado, banana, and chocolate milk to blender and blend until smooth. </step>
+    <step num="1">Pour into a glass, and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add avocado, banana, and chocolate milk to blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">Pour into a glass, and enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02865</start_time>
+    <end_time>03402</end_time>
+  </duration_human>
+</recipe>

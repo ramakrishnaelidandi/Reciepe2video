@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Parchment Teriyaki Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/parchment-teriyaki-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/parchment-baked-salmon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; carrot, thinly sliced ; (60 g) </ingredient>
+    <ingredient num="1">1 cup ; broccoli floret ; (250 g) </ingredient>
+    <ingredient num="2">olive oil, to taste </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">6 oz ; skinless salmon ; (200 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; teriyaki sauce </ingredient>
+    <ingredient num="7">parchment paper, or aluminum foil, 12×18 inches (30x47cm) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Seafood</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8250/low_1472696613.m3u8</low>
+    <high>https://vid.tasty.co/output/8250/mp4_720x1280/1472696613</high>
+  </video>
+  <duration>
+    <start_time>32.53</start_time>
+    <end_time>54.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Fold the parchment paper in half, then open up. </step>
+    <step num="2">On one half, lay down the broccoli and carrots. Drizzle on oil and sprinkle on salt &amp; pepper. </step>
+    <step num="3">Lay the salmon on the veggies, and pour on teriyaki sauce. </step>
+    <step num="4">Fold the parchment paper over the salmon, and cinch the paper together by folding it over itself along the edges. </step>
+    <step num="5">Bake for 20 minutes or until internal temperature of salmon reaches 145˚F (63˚C). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Fold the parchment paper in half, then open up. </steps_updated>
+    <steps_updated num="2">On one half, lay down the broccoli and carrots. </steps_updated>
+    <steps_updated num="3">Drizzle on oil and sprinkle on salt &amp; pepper. </steps_updated>
+    <steps_updated num="4">Lay the salmon on the veggies, and pour on teriyaki sauce. </steps_updated>
+    <steps_updated num="5">Fold the parchment paper over the salmon, and cinch the paper together by folding it over itself along the edges. </steps_updated>
+    <steps_updated num="6">Bake for 20 minutes or until internal temperature of salmon reaches 145˚F (63˚C). </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01032</start_time>
+    <end_time>01638</end_time>
+  </duration_human>
+</recipe>

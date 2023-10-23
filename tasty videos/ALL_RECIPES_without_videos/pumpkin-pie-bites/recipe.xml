@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pumpkin Pie Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pumpkin-pie-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 oz ; pumpkin puree, 1 can ; (425 g) </ingredient>
+    <ingredient num="1">12 oz ; evaporated milk, 1 can ; (355 mL) </ingredient>
+    <ingredient num="2">¾ cup ; sugar ; (150 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; cinnamon, extra for taste </ingredient>
+    <ingredient num="4">¼ teaspoon ; ground cloves </ingredient>
+    <ingredient num="5">½ teaspoon ; ground ginger </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">2 ; eggs </ingredient>
+    <ingredient num="8">2 ; pie crusts, refrigerated </ingredient>
+    <ingredient num="9">whipped cream </ingredient>
+    <ingredient num="10">ice cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15612/low_1479841551.m3u8</low>
+    <high>https://vid.tasty.co/output/15612/mp4_720x1280/1479841551</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180˚C). </step>
+    <step num="1">In a bowl, mix the dry ingredients thoroughly. </step>
+    <step num="2">Add the eggs and pumpkin, and mix. </step>
+    <step num="3">Gradually add the evaporated milk, mixing constantly. </step>
+    <step num="4">With a jar lid, cut 12 4-inch (10 cm) circles out of the pie crust. Press into each of the cups of a greased muffin tin. </step>
+    <step num="5">Pierce the bottoms of the crust gently with a fork. </step>
+    <step num="6">Fill each pie crust to the top with filling. </step>
+    <step num="7">Bake for 20-30 minutes, until top of crust becomes golden brown. </step>
+    <step num="8">Add your favorite ice cream or whipped cream with a pinch of cinnamon powder. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180˚C). </steps_updated>
+    <steps_updated num="1">In a bowl, mix the dry ingredients thoroughly. </steps_updated>
+    <steps_updated num="2">Add the eggs and pumpkin, and mix. </steps_updated>
+    <steps_updated num="3">Gradually add the evaporated milk, mixing constantly. </steps_updated>
+    <steps_updated num="4">With a jar lid, cut 12 4-inch (10 cm) circles out of the pie crust. </steps_updated>
+    <steps_updated num="5">Press into each of the cups of a greased muffin tin. </steps_updated>
+    <steps_updated num="6">Pierce the bottoms of the crust gently with a fork. </steps_updated>
+    <steps_updated num="7">Fill each pie crust to the top with filling. </steps_updated>
+    <steps_updated num="8">Bake for 20-30 minutes, until top of crust becomes golden brown. </steps_updated>
+    <steps_updated num="9">Add your favorite ice cream or whipped cream with a pinch of cinnamon powder. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

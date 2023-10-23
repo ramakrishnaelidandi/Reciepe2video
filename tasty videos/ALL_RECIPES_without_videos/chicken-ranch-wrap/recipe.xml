@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Ranch Wrap Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-ranch-wrap</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; whole wheat tortillas </ingredient>
+    <ingredient num="1">2 slices ; provolone cheese </ingredient>
+    <ingredient num="2">1 leaf ; romaine lettuce </ingredient>
+    <ingredient num="3">½ cup ; shredded chicken ; (125 g) </ingredient>
+    <ingredient num="4">6 ; cherry tomatoes, sliced in half </ingredient>
+    <ingredient num="5">2 tablespoons ; ranch dressing </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>29.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place two slices of provolone on a whole wheat tortilla, followed by lettuce, shredded chicken, sliced tomatoes and ranch dressing. </step>
+    <step num="1">Roll into a wrap and place in a reusable container with fruits and veggies for sides. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place two slices of provolone on a whole wheat tortilla, followed by lettuce, shredded chicken, sliced tomatoes and ranch dressing. </steps_updated>
+    <steps_updated num="1">Roll into a wrap and place in a reusable container with fruits and veggies for sides. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00923</end_time>
+  </duration_human>
+</recipe>

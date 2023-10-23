@@ -1,0 +1,56 @@
+<recipe>
+  <title>Scalloped Vegetable Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/scalloped-vegetable-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 13757 9244 6416 </ingredient>
+    <ingredient num="1">13086 13278 13757 2274 6416 13817 4125 </ingredient>
+    <ingredient num="2">2933 13278 13757 8445 6416 13817 4125 </ingredient>
+    <ingredient num="3">4061 13278 13757 12708 </ingredient>
+    <ingredient num="4">1813 2605 13278 10907 5335 13278 3433 5981 </ingredient>
+    <ingredient num="5">3591 2605 13278 5802 13278 8178 8007 </ingredient>
+    <ingredient num="6">11216 8071 13278 12159 </ingredient>
+    <ingredient num="7">1580 8071 13278 796 6250 </ingredient>
+    <ingredient num="8">1580 8071 13278 796 9211 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">10986 560 11567 </ingredient>
+    <ingredient num="11">3917 2605 13278 13521 890 13278 9373 5981 </ingredient>
+    <ingredient num="12">3917 1580 9517 13278 3333 9784 14538 13278 757 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100695/hls24_1530556663.m3u8</low>
+    <high>https://vid.tasty.co/output/100695/landscape_720/1530556663</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 5651 8614 9207 5994 14541 12358 4491 5687 1391 3550 8831 </step>
+    <step num="1">12775 12205 11951 6753 2274 13817 9151 12726 1088 1391 5994 13859 5895 5994 5133 4144 1094 12313 8663 </step>
+    <step num="2">10950 5994 2597 14511 4120 11951 14463 5335 10907 13817 9889 13817 8341 1681 4309 </step>
+    <step num="3">9179 11951 5363 749 5040 12610 10986 13817 6467 13817 8341 3631 </step>
+    <step num="4">9179 11951 976 4068 560 11951 4428 13817 6142 3145 1681 11951 8535 12573 10681 </step>
+    <step num="5">9179 2532 371 11951 284 8535 560 11951 9864 5687 13817 2890 1391 5994 1818 </step>
+    <step num="6">6252 11951 14538 11770 11951 14212 </step>
+    <step num="7">13494 1391 11951 12886 371 11951 284 13817 6506 11951 5687 1391 6385 11426 </step>
+    <step num="8">7831 7990 6285 5965 13199 1681 11951 284 12573 7568 3745 13817 14371 </step>
+    <step num="9">1828 10694 7990 7811 767 13767 11004 13817 11136 11951 10408 6138 13817 8956 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 5651 8614 </steps_updated>
+    <steps_updated num="1">9207 5994 14541 12358 4491 5687 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">12775 12205 11951 6753 2274 13817 9151 12726 1088 1391 5994 13859 5895 5994 5133 4144 </steps_updated>
+    <steps_updated num="3">1094 12313 8663 </steps_updated>
+    <steps_updated num="4">10950 5994 2597 14511 4120 11951 14463 5335 10907 13817 9889 13817 8341 1681 4309 </steps_updated>
+    <steps_updated num="5">9179 11951 5363 749 5040 12610 10986 13817 6467 13817 8341 3631 </steps_updated>
+    <steps_updated num="6">9179 11951 976 4068 560 11951 4428 13817 6142 3145 1681 11951 8535 12573 10681 </steps_updated>
+    <steps_updated num="7">9179 2532 371 11951 284 8535 560 11951 9864 5687 13817 2890 1391 5994 1818 </steps_updated>
+    <steps_updated num="8">6252 11951 14538 11770 11951 14212 </steps_updated>
+    <steps_updated num="9">13494 1391 11951 12886 371 11951 284 13817 6506 11951 5687 1391 6385 11426 </steps_updated>
+    <steps_updated num="10">7831 7990 6285 5965 13199 1681 11951 284 12573 7568 3745 13817 14371 </steps_updated>
+    <steps_updated num="11">1828 10694 7990 7811 767 13767 11004 13817 11136 11951 10408 6138 13817 8956 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

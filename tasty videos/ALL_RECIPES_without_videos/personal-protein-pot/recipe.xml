@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Personal Protein Pot Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/personal-protein-pot</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="1">1 tablespoon ; fresh ginger, minced </ingredient>
+    <ingredient num="2">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="3">1 tablespoon ; honey </ingredient>
+    <ingredient num="4">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="5">1 ; chicken breast </ingredient>
+    <ingredient num="6">½ cup ; quinoa ; (85 g) </ingredient>
+    <ingredient num="7">1 ½ cups ; chicken stock ; (360 mL) </ingredient>
+    <ingredient num="8">½ cup ; sliced carrot ; (55 g) </ingredient>
+    <ingredient num="9">½ cup ; snap pea ; (50 g) </ingredient>
+    <ingredient num="10">½ cup ; shredded red cabbage ; (50 g) </ingredient>
+    <ingredient num="11">½ cup ; bell pepper, sliced ; (50 g) </ingredient>
+    <ingredient num="12">½ cup ; broccoli floret ; (75 g) </ingredient>
+    <ingredient num="13">1 ; egg </ingredient>
+    <ingredient num="14">salt, to taste </ingredient>
+    <ingredient num="15">½ ; avocado, sliced </ingredient>
+    <ingredient num="16">scallion, sliced, for garnish </ingredient>
+    <ingredient num="17">toasted sesame seed, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/84084/hls24_1520879384.m3u8</low>
+    <high>https://vid.tasty.co/output/84084/landscape_720/1520879384</high>
+  </video>
+  <steps>
+    <step num="0">In a small measuring cup, mix together the garlic, ginger, sesame oil, honey, and soy sauce. Whisk to combine. </step>
+    <step num="1">Pour about 2 tablespoons of the sauce over the chicken in a small bowl and set the rest aside for serving. Toss the chicken in the sauce to coat. </step>
+    <step num="2">Heat a tablespoon of oil in a small pot over medium heat. Cook the chicken until golden brown on one side, then flip and cook the other side until the chicken reaches an internal temperature of at least 165°F (75°C), about 10 minutes total. Remove the chicken breast from the pan. Let rest for 5 minutes, then slice. </step>
+    <step num="3">Add the quinoa and chicken stock to the same pot. Stir the quinoa and bring to a boil on high heat. Then, reduce the heat to low and place a strainer over the simmering quinoa. </step>
+    <step num="4">To the strainer, add the carrot, snap peas, red cabbage, bell pepper, broccoli, and the egg. Sprinkle with salt. </step>
+    <step num="5">Cover the pot and cook for 20 minutes. </step>
+    <step num="6">Remove the food from the heat, fluff the quinoa and add the chicken and veggies. Top with the sliced avocado and the cooked egg. Pour on the rest of the reserved sauce, and garnish with scallions and toasted sesame seeds. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small measuring cup, mix together the garlic, ginger, sesame oil, honey, and soy sauce. </steps_updated>
+    <steps_updated num="1">Whisk to combine. </steps_updated>
+    <steps_updated num="2">Pour about 2 tablespoons of the sauce over the chicken in a small bowl and set the rest aside for serving. </steps_updated>
+    <steps_updated num="3">Toss the chicken in the sauce to coat. </steps_updated>
+    <steps_updated num="4">Heat a tablespoon of oil in a small pot over medium heat. </steps_updated>
+    <steps_updated num="5">Cook the chicken until golden brown on one side, then flip and cook the other side until the chicken reaches an internal temperature of at least 165°F (75°C), about 10 minutes total. </steps_updated>
+    <steps_updated num="6">Remove the chicken breast from the pan. </steps_updated>
+    <steps_updated num="7">Let rest for 5 minutes, then slice. </steps_updated>
+    <steps_updated num="8">Add the quinoa and chicken stock to the same pot. </steps_updated>
+    <steps_updated num="9">Stir the quinoa and bring to a boil on high heat. </steps_updated>
+    <steps_updated num="10">Then, reduce the heat to low and place a strainer over the simmering quinoa. </steps_updated>
+    <steps_updated num="11">To the strainer, add the carrot, snap peas, red cabbage, bell pepper, broccoli, and the egg. </steps_updated>
+    <steps_updated num="12">Sprinkle with salt. </steps_updated>
+    <steps_updated num="13">Cover the pot and cook for 20 minutes. </steps_updated>
+    <steps_updated num="14">Remove the food from the heat, fluff the quinoa and add the chicken and veggies. </steps_updated>
+    <steps_updated num="15">Top with the sliced avocado and the cooked egg. </steps_updated>
+    <steps_updated num="16">Pour on the rest of the reserved sauce, and garnish with scallions and toasted sesame seeds. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

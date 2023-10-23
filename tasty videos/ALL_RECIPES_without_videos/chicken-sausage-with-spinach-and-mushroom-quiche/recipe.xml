@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sausage &amp; Veggie Quiche Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-sausage-with-spinach-and-mushroom-quiche</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ lb ; chicken sausage ; (225 g) </ingredient>
+    <ingredient num="1">½ cup ; onion, chopped ; (75 g) </ingredient>
+    <ingredient num="2">½ cup ; mushroom, chopped ; (35 g) </ingredient>
+    <ingredient num="3">4 oz ; fresh spinach, chopped ; (110 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="6">6 ; eggs </ingredient>
+    <ingredient num="7">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="8">1 ; premade pie crust, thawed </ingredient>
+    <ingredient num="9">parmesan cheese, grated </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Brunch</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25930/low_1488992910.m3u8</low>
+    <high>https://vid.tasty.co/output/25930/mp4_720x1280/1488992910</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Cook sausage over medium-high until lightly browned, about 5-7 minutes, being sure to break up the meat into a fine mince. </step>
+    <step num="2">Remove cooked sausage from pan and wipe away excess fat with a paper towel. </step>
+    <step num="3">Add onion and sauté until softened and translucent, about 2 to 3 minutes. Add mushrooms, salt, and pepper and continue to cook for an additional 2-3 minutes. </step>
+    <step num="4">Add chopped spinach and cook until wilted and no extra liquid has accumulated in the bottom of the pan. </step>
+    <step num="5">NOTE: Do your best to use the excessive moisture of the spinach and mushrooms to deglaze the bottom of the pan, scraping away any browned bits from cooking the sausage earlier. </step>
+    <step num="6">Once cooked, remove the spinach and mushroom mixture from the pan and combine it with the reserved cooked sausage. Stir to mix evenly. </step>
+    <step num="7">Combine eggs and milk. Lightly whisk until just combined. </step>
+    <step num="8">Add sausage and spinach mixture to the bottom of a prepared 9-inch (23cm) pie crust, making sure to spread it evenly. </step>
+    <step num="9">Pour in beaten eggs to fill the rest of the pie crust and top with a generous sprinkle of parmesan cheese. </step>
+    <step num="10">Bake at 350˚F (180˚C) for 25 minutes or until the eggs are set and the top is lightly browned. Allow to cool for 10 minutes before slicing and serving. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Cook sausage over medium-high until lightly browned, about 5-7 minutes, being sure to break up the meat into a fine mince. </steps_updated>
+    <steps_updated num="2">Remove cooked sausage from pan and wipe away excess fat with a paper towel. </steps_updated>
+    <steps_updated num="3">Add onion and sauté until softened and translucent, about 2 to 3 minutes. </steps_updated>
+    <steps_updated num="4">Add mushrooms, salt, and pepper and continue to cook for an additional 2-3 minutes. </steps_updated>
+    <steps_updated num="5">Add chopped spinach and cook until wilted and no extra liquid has accumulated in the bottom of the pan. </steps_updated>
+    <steps_updated num="6">NOTE: Do your best to use the excessive moisture of the spinach and mushrooms to deglaze the bottom of the pan, scraping away any browned bits from cooking the sausage earlier. </steps_updated>
+    <steps_updated num="7">Once cooked, remove the spinach and mushroom mixture from the pan and combine it with the reserved cooked sausage. </steps_updated>
+    <steps_updated num="8">Stir to mix evenly. </steps_updated>
+    <steps_updated num="9">Combine eggs and milk. </steps_updated>
+    <steps_updated num="10">Lightly whisk until just combined. </steps_updated>
+    <steps_updated num="11">Add sausage and spinach mixture to the bottom of a prepared 9-inch (23cm) pie crust, making sure to spread it evenly. </steps_updated>
+    <steps_updated num="12">Pour in beaten eggs to fill the rest of the pie crust and top with a generous sprinkle of parmesan cheese. </steps_updated>
+    <steps_updated num="13">Bake at 350˚F (180˚C) for 25 minutes or until the eggs are set and the top is lightly browned. </steps_updated>
+    <steps_updated num="14">Allow to cool for 10 minutes before slicing and serving. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

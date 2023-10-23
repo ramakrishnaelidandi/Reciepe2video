@@ -1,0 +1,56 @@
+<recipe>
+  <title>Parmesan Crusted Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/parmesan-crusted-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-salmon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 2144 7989 13278 8118 5981 </ingredient>
+    <ingredient num="1">14058 643 13278 13727 13278 6898 5981 </ingredient>
+    <ingredient num="2">8244 7632 560 11567 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">3917 13278 6216 </ingredient>
+    <ingredient num="6">12791 2605 13278 12956 1230 13278 10228 5981 </ingredient>
+    <ingredient num="7">12791 2605 13278 2431 109 14538 13278 1258 5981 </ingredient>
+    <ingredient num="8">3917 14014 13278 6209 11911 3962 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9818/low_1473382399.m3u8</low>
+    <high>https://vid.tasty.co/output/9818/mp4_720x1280/1473382399</high>
+  </video>
+  <duration>
+    <start_time>60.57</start_time>
+    <end_time>87.059</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">10950 5994 13757 14511 10968 11951 109 1547 295 </step>
+    <step num="2">10950 5994 10909 14511 8341 13784 13576 11951 7989 210 11951 4036 415 8924 </step>
+    <step num="3">4124 11951 7989 4255 5994 10765 8800 4124 13727 2158 11951 1565 1594 1391 8244 7632 415 12616 1391 82 13817 12375 </step>
+    <step num="4">7831 7990 9810 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">10950 5994 13757 14511 10968 11951 109 1547 295 </steps_updated>
+    <steps_updated num="2">10950 5994 10909 14511 8341 13784 </steps_updated>
+    <steps_updated num="3">13576 11951 7989 210 11951 4036 415 8924 </steps_updated>
+    <steps_updated num="4">4124 11951 7989 4255 5994 10765 8800 </steps_updated>
+    <steps_updated num="5">4124 13727 2158 11951 1565 </steps_updated>
+    <steps_updated num="6">1594 1391 8244 7632 415 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="7">7831 7990 9810 12689 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01875</start_time>
+    <end_time>02625</end_time>
+  </duration_human>
+</recipe>

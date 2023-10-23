@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Colombian Breakfast Soup (Changua) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/colombian-breakfast-soup-changua</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 handful ; fresh cilantro, for garnish </ingredient>
+    <ingredient num="1">4 ; green onions, chopped </ingredient>
+    <ingredient num="2">5 ; cherry tomatoes, chopped </ingredient>
+    <ingredient num="3">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="4">2 cups ; milk ; (480 mL) </ingredient>
+    <ingredient num="5">4 ; eggs </ingredient>
+    <ingredient num="6">sourdough bread, or other bread, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31915/low_1495124914.m3u8</low>
+    <high>https://vid.tasty.co/output/31915/mp4_720x1280/1495124914</high>
+  </video>
+  <steps>
+    <step num="0">Heat water and milk in a pot over medium heat. </step>
+    <step num="1">Bring to a boil and add 4 eggs. </step>
+    <step num="2">Without stirring, add green onions and tomatoes. Let eggs cook for about 5 minutes, or until the egg yolks are just barely firm. </step>
+    <step num="3">Salt to taste (optional). </step>
+    <step num="4">Serve one egg per bowl and add broth. Garnish with cilantro and use bread to dip - we used sourdough, but any bread will do. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat water and milk in a pot over medium heat. </steps_updated>
+    <steps_updated num="1">Bring to a boil and add 4 eggs. </steps_updated>
+    <steps_updated num="2">Without stirring, add green onions and tomatoes. </steps_updated>
+    <steps_updated num="3">Let eggs cook for about 5 minutes, or until the egg yolks are just barely firm. </steps_updated>
+    <steps_updated num="4">Salt to taste (optional). </steps_updated>
+    <steps_updated num="5">Serve one egg per bowl and add broth. </steps_updated>
+    <steps_updated num="6">Garnish with cilantro and use bread to dip - we used sourdough, but any bread will do. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

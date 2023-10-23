@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Relaxation Chamomile Lavender Hot Toddy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/relaxation-chamomile-lavender-hot-toddy</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="1">1 tea bag ; chamomile </ingredient>
+    <ingredient num="2">1 teaspoon ; culinary lavender, plus more for garnish </ingredient>
+    <ingredient num="3">1 tablespoon ; honey </ingredient>
+    <ingredient num="4">2 oz ; whiskey ; (60 mL) </ingredient>
+    <ingredient num="5">1 ; lemon wedge, for squeezing, plus 1 slice for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/129792/hls24_1555016982.m3u8</low>
+    <high>https://vid.tasty.co/output/129792/landscape_720/1555016982</high>
+  </video>
+  <steps>
+    <step num="0">Combine the water, tea bag, and lavender buds in a small saucepan over medium-high heat. Bring to a boil, then reduce the heat to medium-low and simmer for 3-4 minutes, until the liquid is slightly reduced and the lavender is fragrant. Strain to remove lavender buds. </step>
+    <step num="1">In a mug, stir to combine the strained tea, honey, and whiskey. Finish with a squeeze of lemon and garnish with a lemon slice and a few lavender buds. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the water, tea bag, and lavender buds in a small saucepan over medium-high heat. </steps_updated>
+    <steps_updated num="1">Bring to a boil, then reduce the heat to medium-low and simmer for 3-4 minutes, until the liquid is slightly reduced and the lavender is fragrant. </steps_updated>
+    <steps_updated num="2">Strain to remove lavender buds. </steps_updated>
+    <steps_updated num="3">In a mug, stir to combine the strained tea, honey, and whiskey. </steps_updated>
+    <steps_updated num="4">Finish with a squeeze of lemon and garnish with a lemon slice and a few lavender buds. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

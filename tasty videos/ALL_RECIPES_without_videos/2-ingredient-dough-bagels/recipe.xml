@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-Ingredient Dough Bagels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-dough-bagels</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/two-ingredient-dough</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ¾ cups ; self-rising flour, plus more for dusting ; (220 g) </ingredient>
+    <ingredient num="1">1 cup ; greek yogurt ; (245 g) </ingredient>
+    <ingredient num="2">1 ; egg, beaten </ingredient>
+    <ingredient num="3">everything seasoning, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+    <category num="1">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76899/hls24_1517947999.m3u8</low>
+    <high>https://vid.tasty.co/output/76899/landscape_720/1517947999</high>
+  </video>
+  <duration>
+    <start_time>45.0</start_time>
+    <end_time>71.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F(200°C). </step>
+    <step num="1">In a large bowl, mix the self-rising flour and greek yogurt until it comes together to form a ball. </step>
+    <step num="2">Transfer the dough ball to a lightly floured work surface and use your hands to begin flattening and shaping the rough into a roughly 8-inch (20 cm) disk. </step>
+    <step num="3">Using a bench scraper or knife, cut the dough into 4 equal pieces. </step>
+    <step num="4">One at a time, roll each piece of dough into a log roughly 8 inches (20 cm) long. Shape the log into a ring and transfer to a parchment paper-lined baking sheet. </step>
+    <step num="5">Brush the tops of the bagels with egg wash and sprinkle generously with everything seasoning. </step>
+    <step num="6">Bake for 20-25 minutes, until the bagels are golden brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F(200°C). </steps_updated>
+    <steps_updated num="1">In a large bowl, mix the self-rising flour and greek yogurt until it comes together to form a ball. </steps_updated>
+    <steps_updated num="2">Transfer the dough ball to a lightly floured work surface and use your hands to begin flattening and shaping the rough into a roughly 8-inch (20 cm) disk. </steps_updated>
+    <steps_updated num="3">Using a bench scraper or knife, cut the dough into 4 equal pieces. </steps_updated>
+    <steps_updated num="4">One at a time, roll each piece of dough into a log roughly 8 inches (20 cm) long. </steps_updated>
+    <steps_updated num="5">Shape the log into a ring and transfer to a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="6">Brush the tops of the bagels with egg wash and sprinkle generously with everything seasoning. </steps_updated>
+    <steps_updated num="7">Bake for 20-25 minutes, until the bagels are golden brown. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01130</start_time>
+    <end_time>01724</end_time>
+  </duration_human>
+</recipe>

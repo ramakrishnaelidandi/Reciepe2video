@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Herb Ranch Salad Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/herb-ranch-salad-dressing</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-salad-dressing-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="1">⅓ cup ; mayonnaise ; (75 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; fresh dill, minced </ingredient>
+    <ingredient num="3">1 tablespoon ; dried thyme, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="5">1 tablespoon ; onion powder </ingredient>
+    <ingredient num="6">2 tablespoons ; fresh parsley, minced </ingredient>
+    <ingredient num="7">3 tablespoons ; lemon juice </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="10">¼ cup ; milk ; (60 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33775/low_1497047581.m3u8</low>
+    <high>https://vid.tasty.co/output/33775/mp4_720x1280/1497047581</high>
+  </video>
+  <duration>
+    <start_time>64.6</start_time>
+    <end_time>83.67</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the ingredients into a mason jar. Screw the lid on tightly and shake vigorously. </step>
+    <step num="1">The dressing can remain in the fridge for 1-2 weeks. </step>
+    <step num="2">Pour over your favorite salad ingredients and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the ingredients into a mason jar. </steps_updated>
+    <steps_updated num="1">Screw the lid on tightly and shake vigorously. </steps_updated>
+    <steps_updated num="2">The dressing can remain in the fridge for 1-2 weeks. </steps_updated>
+    <steps_updated num="3">Pour over your favorite salad ingredients and enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01995</start_time>
+    <end_time>02521</end_time>
+  </duration_human>
+</recipe>

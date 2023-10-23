@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon, Lettuce, Tomato, And Avocado Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-lettuce-tomato-and-avocado-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 strips ; bacon </ingredient>
+    <ingredient num="1">1 head ; romaine lettuce, chopped </ingredient>
+    <ingredient num="2">2 handfuls ; cherry tomato, or grape tomatoes, halved </ingredient>
+    <ingredient num="3">½ ; cucumber </ingredient>
+    <ingredient num="4">2 ; avocados, chopped </ingredient>
+    <ingredient num="5">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="6">2 tablespoons ; balsamic vinegar </ingredient>
+    <ingredient num="7">1 teaspoon ; mustard </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 ; lemon, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32274/low_1495125513.m3u8</low>
+    <high>https://vid.tasty.co/output/32274/mp4_720x1280/1495125513</high>
+  </video>
+  <steps>
+    <step num="0">Cook bacon until crispy. Drain on a paper towel, then set aside. </step>
+    <step num="1">Place chopped lettuce, tomatoes, cucumber, avocados and bacon in a large bowl. </step>
+    <step num="2">In a small bowl, mix olive oil, balsamic vinegar, mustard, salt, and lemon juice to form the dressing. </step>
+    <step num="3">Toss the salad with the dressing. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook bacon until crispy. </steps_updated>
+    <steps_updated num="1">Drain on a paper towel, then set aside. </steps_updated>
+    <steps_updated num="2">Place chopped lettuce, tomatoes, cucumber, avocados and bacon in a large bowl. </steps_updated>
+    <steps_updated num="3">In a small bowl, mix olive oil, balsamic vinegar, mustard, salt, and lemon juice to form the dressing. </steps_updated>
+    <steps_updated num="4">Toss the salad with the dressing. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

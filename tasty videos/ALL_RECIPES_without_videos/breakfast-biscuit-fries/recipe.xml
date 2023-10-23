@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Biscuit Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-biscuit-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 strips ; bacon, chopped </ingredient>
+    <ingredient num="1">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="2">1 cup ; chicken stock ; (240 mL) </ingredient>
+    <ingredient num="3">1 can ; pre-made biscuit dough </ingredient>
+    <ingredient num="4">4 links ; breakfast sausage, cooked </ingredient>
+    <ingredient num="5">⅓ cup ; shredded cheddar cheese ; (35 g) </ingredient>
+    <ingredient num="6">3 ; eggs, cooked to your preference </ingredient>
+    <ingredient num="7">2 teaspoons ; fresh chives, chopped </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">bacon gravy, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31964/low_1495124957.m3u8</low>
+    <high>https://vid.tasty.co/output/31964/mp4_720x1280/1495124957</high>
+  </video>
+  <steps>
+    <step num="0">Fry bacon until browned and crispy, render out as much fat as possible. Remove the crispy bacon and set aside for later use. Keep the bacon fat which will be used to make the gravy. </step>
+    <step num="1">Make the bacon gravy in the same pan that you fried the bacon. Add flour to the pan and stir until flour forms thick paste. Cook for about a minute without burning the flour. </step>
+    <step num="2">Slowly stir in the chicken stock. Keep stirring until you have a smooth consistency. Simmer until the sauce thickens. Keep warm and set aside. </step>
+    <step num="3">Flatten biscuit dough and cut into strips. Deep fry (oil at 350°F (175°C)) until brown and crispy. Drain on paper towels, and place on baking sheet. Repeat with remaining biscuit dough. </step>
+    <step num="4">Layer the fried biscuit dough on the baking sheet. Sprinkle the cooked breakfast sausage, fried bacon, shredded cheddar and top with eggs. Pepper to taste. </step>
+    <step num="5">Broil for 5 - 10 minutes or until the shredded cheddar has melted. </step>
+    <step num="6">Remove from oven, sprinkle on the chopped chives and drizzle on the bacon gravy. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fry bacon until browned and crispy, render out as much fat as possible. </steps_updated>
+    <steps_updated num="1">Remove the crispy bacon and set aside for later use. </steps_updated>
+    <steps_updated num="2">Keep the bacon fat which will be used to make the gravy. </steps_updated>
+    <steps_updated num="3">Make the bacon gravy in the same pan that you fried the bacon. </steps_updated>
+    <steps_updated num="4">Add flour to the pan and stir until flour forms thick paste. </steps_updated>
+    <steps_updated num="5">Cook for about a minute without burning the flour. </steps_updated>
+    <steps_updated num="6">Slowly stir in the chicken stock. </steps_updated>
+    <steps_updated num="7">Keep stirring until you have a smooth consistency. </steps_updated>
+    <steps_updated num="8">Simmer until the sauce thickens. </steps_updated>
+    <steps_updated num="9">Keep warm and set aside. </steps_updated>
+    <steps_updated num="10">Flatten biscuit dough and cut into strips. </steps_updated>
+    <steps_updated num="11">Deep fry (oil at 350°F (175°C)) until brown and crispy. </steps_updated>
+    <steps_updated num="12">Drain on paper towels, and place on baking sheet. </steps_updated>
+    <steps_updated num="13">Repeat with remaining biscuit dough. </steps_updated>
+    <steps_updated num="14">Layer the fried biscuit dough on the baking sheet. </steps_updated>
+    <steps_updated num="15">Sprinkle the cooked breakfast sausage, fried bacon, shredded cheddar and top with eggs. </steps_updated>
+    <steps_updated num="16">Pepper to taste. </steps_updated>
+    <steps_updated num="17">Broil for 5 - 10 minutes or until the shredded cheddar has melted. </steps_updated>
+    <steps_updated num="18">Remove from oven, sprinkle on the chopped chives and drizzle on the bacon gravy. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

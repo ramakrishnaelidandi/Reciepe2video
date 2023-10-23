@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bunny-Shaped Apple Slices Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bunny-shaped-apple-slices</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/japanese-lunch</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; apple </ingredient>
+    <ingredient num="1">salt water, or lemon water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Lunch</category>
+    <category num="9">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93823/hls24_1526073991.m3u8</low>
+    <high>https://vid.tasty.co/output/93823/landscape_720/1526073991</high>
+  </video>
+  <duration>
+    <start_time>144.166</start_time>
+    <end_time>166.633</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut the apple into 6 wedges. Remove the core and seeds. </step>
+    <step num="1">To create the ears: Using a paring knife, make two intersecting slits about ¾ of the way down the skin side of each apple slice. Do not cut too deep. </step>
+    <step num="2">Remove the piece of apple between the slits. Soak the apple wedges in salt water or lemon water until ready to eat. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the apple into 6 wedges. </steps_updated>
+    <steps_updated num="1">Remove the core and seeds. </steps_updated>
+    <steps_updated num="2">To create the ears: Using a paring knife, make two intersecting slits about ¾ of the way down the skin side of each apple slice. </steps_updated>
+    <steps_updated num="3">Do not cut too deep. </steps_updated>
+    <steps_updated num="4">Remove the piece of apple between the slits. </steps_updated>
+    <steps_updated num="5">Soak the apple wedges in salt water or lemon water until ready to eat. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Sweet Potato Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-sweet-potato-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hummus-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; sweet potato, peeled and cooked </ingredient>
+    <ingredient num="1">15 oz ; garbanzo beans, 1 can ; (425 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; tahini </ingredient>
+    <ingredient num="3">1 ; lemon, juiced </ingredient>
+    <ingredient num="4">2 cloves ; garlic </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">¼ teaspoon ; black pepper </ingredient>
+    <ingredient num="7">1 ½ teaspoons ; cayenne pepper </ingredient>
+    <ingredient num="8">¼ teaspoon ; cumin </ingredient>
+    <ingredient num="9">½ teaspoon ; paprika </ingredient>
+    <ingredient num="10">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="11">pine nuts, to garnish </ingredient>
+    <ingredient num="12">3 tablespoons ; water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39341/low_1498728957.m3u8</low>
+    <high>https://vid.tasty.co/output/39341/mp4_720x1280/1498728957</high>
+  </video>
+  <duration>
+    <start_time>50.0</start_time>
+    <end_time>71.41</end_time>
+  </duration>
+  <steps>
+    <step num="0">Boil the garbanzo beans until the skins come off. </step>
+    <step num="1">Remove the skins, drain, and combine all ingredients in a food processor. </step>
+    <step num="2">Blend until smooth adding small amounts of oil and water until desired consistency is achieved. This recipe usually requires more liquid, at the potato will absorb a lot! Add more lemon or tahini if needed. </step>
+    <step num="3">Add fresh veggies or pita chips sprinkled with cinnamon! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Boil the garbanzo beans until the skins come off. </steps_updated>
+    <steps_updated num="1">Remove the skins, drain, and combine all ingredients in a food processor. </steps_updated>
+    <steps_updated num="2">Blend until smooth adding small amounts of oil and water until desired consistency is achieved. </steps_updated>
+    <steps_updated num="3">This recipe usually requires more liquid, at the potato will absorb a lot! Add more lemon or tahini if needed. </steps_updated>
+    <steps_updated num="4">Add fresh veggies or pita chips sprinkled with cinnamon! </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

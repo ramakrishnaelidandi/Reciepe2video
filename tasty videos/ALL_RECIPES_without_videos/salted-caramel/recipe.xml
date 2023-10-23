@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Salted Caramel Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/salted-caramel</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">200 g ; sugar ; 200 g </ingredient>
+    <ingredient num="1">½ cup ; butter ; (100 g) </ingredient>
+    <ingredient num="2">½ cup ; double cream ; (120 mL) </ingredient>
+    <ingredient num="3">½ teaspoon ; sea salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Desserts</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65495/hls24_1512383108.m3u8</low>
+    <high>https://vid.tasty.co/output/65495/landscape_720/1512383108</high>
+  </video>
+  <steps>
+    <step num="0">In a large saucepan, gently melt the sugar over a low-medium heat, swirling the pan consistently until it reaches a golden amber colour. </step>
+    <step num="1">Stir in the butter until melted. </step>
+    <step num="2">Stir in the double cream and allow to boil for 1 minute. </step>
+    <step num="3">Stir in the sea salt and then remove from the heat. </step>
+    <step num="4">Allow to cool before pouring in a clean, sterilized jar. </step>
+    <step num="5">Store in the fridge for up to 2 weeks. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large saucepan, gently melt the sugar over a low-medium heat, swirling the pan consistently until it reaches a golden amber colour. </steps_updated>
+    <steps_updated num="1">Stir in the butter until melted. </steps_updated>
+    <steps_updated num="2">Stir in the double cream and allow to boil for 1 minute. </steps_updated>
+    <steps_updated num="3">Stir in the sea salt and then remove from the heat. </steps_updated>
+    <steps_updated num="4">Allow to cool before pouring in a clean, sterilized jar. </steps_updated>
+    <steps_updated num="5">Store in the fridge for up to 2 weeks. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

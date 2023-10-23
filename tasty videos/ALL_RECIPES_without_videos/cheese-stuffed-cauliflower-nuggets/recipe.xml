@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese-Stuffed Cauliflower Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-stuffed-cauliflower-nuggets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower, steamed </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">¾ cup ; breadcrumb ; (85 g) </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="5">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">2 tablespoons ; dried parsley </ingredient>
+    <ingredient num="7">12 cubes ; cheddar cheese, 1 inch (2 1/2 cm) </ingredient>
+    <ingredient num="8">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="9">2 ; eggs, beaten </ingredient>
+    <ingredient num="10">1 cup ; breadcrumb ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43606/low_1499991069.m3u8</low>
+    <high>https://vid.tasty.co/output/43606/mp4_720x1280/1499991069</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">In a bowl, mash the cauliflower until slightly combined. </step>
+    <step num="2">Add the egg, ¾ cup (90 g) bread crumbs, salt, pepper, garlic powder, and parsley, and mix with a fork until combined. Chill for 10 minutes. </step>
+    <step num="3">Form the mixture into nuggets with a cube of cheddar cheese in the center. Pack them tightly. </step>
+    <step num="4">Roll each nugget in flour, then egg, then bread crumbs. Place on a baking sheet covered in parchment paper. </step>
+    <step num="5">Bake for 18-20 minutes, flipping the nuggets halfway through. Brush with oil for browner nuggets. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a bowl, mash the cauliflower until slightly combined. </steps_updated>
+    <steps_updated num="2">Add the egg, ¾ cup (90 g) bread crumbs, salt, pepper, garlic powder, and parsley, and mix with a fork until combined. </steps_updated>
+    <steps_updated num="3">Chill for 10 minutes. </steps_updated>
+    <steps_updated num="4">Form the mixture into nuggets with a cube of cheddar cheese in the center. </steps_updated>
+    <steps_updated num="5">Pack them tightly. </steps_updated>
+    <steps_updated num="6">Roll each nugget in flour, then egg, then bread crumbs. </steps_updated>
+    <steps_updated num="7">Place on a baking sheet covered in parchment paper. </steps_updated>
+    <steps_updated num="8">Bake for 18-20 minutes, flipping the nuggets halfway through. </steps_updated>
+    <steps_updated num="9">Brush with oil for browner nuggets. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

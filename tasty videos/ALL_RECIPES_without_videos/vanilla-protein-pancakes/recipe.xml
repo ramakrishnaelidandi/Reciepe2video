@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vanilla Protein Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-protein-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; oat flour ; (90 g) </ingredient>
+    <ingredient num="1">2 scoops ; vanilla protein powder </ingredient>
+    <ingredient num="2">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="3">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">¾ cup ; egg white ; (180 g) </ingredient>
+    <ingredient num="5">4 tablespoons ; low-fat greek yogurt </ingredient>
+    <ingredient num="6">1 teaspoon ; coconut oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19995/low_1483660210.m3u8</low>
+    <high>https://vid.tasty.co/output/19995/mp4_720x1280/1483660210</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, mix oat flour, protein powder, baking powder, and cinnamon until fully blended. </step>
+    <step num="1">Add egg whites and Greek yogurt to the bowl and mix until a batter-like consistency is reached. </step>
+    <step num="2">Melt coconut oil in a skillet over medium-high heat and wipe down to prevent the pancakes from sticking. </step>
+    <step num="3">Pour in some batter and cook pancakes until bubbles form all around the top of the pancake, then flip and cook for a few more minutes, or until cooked through. </step>
+    <step num="4">Top your pancake stack with bananas, blueberries, or honey. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, mix oat flour, protein powder, baking powder, and cinnamon until fully blended. </steps_updated>
+    <steps_updated num="1">Add egg whites and Greek yogurt to the bowl and mix until a batter-like consistency is reached. </steps_updated>
+    <steps_updated num="2">Melt coconut oil in a skillet over medium-high heat and wipe down to prevent the pancakes from sticking. </steps_updated>
+    <steps_updated num="3">Pour in some batter and cook pancakes until bubbles form all around the top of the pancake, then flip and cook for a few more minutes, or until cooked through. </steps_updated>
+    <steps_updated num="4">Top your pancake stack with bananas, blueberries, or honey. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

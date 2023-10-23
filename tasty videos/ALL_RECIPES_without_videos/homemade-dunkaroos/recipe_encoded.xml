@@ -1,0 +1,59 @@
+<recipe>
+  <title>Homemade Dunkaroos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-dunkaroos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 6467 4661 13278 9373 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 9924 13278 6518 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 1368 4834 13278 13412 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 13521 890 13278 1258 5981 </ingredient>
+    <ingredient num="4">1580 14014 13278 10765 11703 </ingredient>
+    <ingredient num="5">1580 8071 13278 10765 3294 </ingredient>
+    <ingredient num="6">3917 8071 13278 12425 </ingredient>
+    <ingredient num="7">3917 14014 13278 1193 </ingredient>
+    <ingredient num="8">3917 2605 13278 5802 13278 7503 8007 </ingredient>
+    <ingredient num="9">2800 643 13278 8031 13278 6116 5981 </ingredient>
+    <ingredient num="10">4061 9517 13278 6885 4834 13278 997 5981 </ingredient>
+    <ingredient num="11">8580 9486 13278 5098 1319 </ingredient>
+    <ingredient num="12">1580 2605 13278 1397 13278 7005 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96881/hls24_1527886404.m3u8</low>
+    <high>https://vid.tasty.co/output/96881/landscape_720/1527886404</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 14511 10968 11951 4661 6467 10907 6145 8554 5735 6467 10765 8117 10765 3294 13817 14242 9393 3631 </step>
+    <step num="1">9179 1193 560 11951 9889 6142 1681 7568 3479 13817 740 3557 560 11951 7155 9453 9393 1391 12313 13676 1681 7568 4309 </step>
+    <step num="2">7692 11951 8337 10104 5994 11526 11571 7692 6781 11951 937 560 11951 13119 13532 3541 560 7998 5994 1566 13080 8554 8298 </step>
+    <step num="3">3915 10439 7811 5651 455 </step>
+    <step num="4">9956 12313 8337 9490 6285 2963 371 2237 2985 5643 51 210 848 13298 560 7777 2696 7134 1391 7115 7155 8508 371 6285 11951 5285 371 5994 6861 </step>
+    <step num="5">5570 12313 7155 4255 5994 10765 213 1391 3550 8831 </step>
+    <step num="6">7831 7990 13133 8927 5895 1681 11951 8992 837 5355 </step>
+    <step num="7">4829 11951 8992 7091 10359 11951 10209 5569 2795 11951 8626 6885 4834 13817 11951 5098 1319 1681 7568 4309 </step>
+    <step num="8">9179 11951 1397 13817 4120 10104 5994 14263 </step>
+    <step num="9">12774 12313 8992 13817 9982 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 10968 11951 4661 6467 10907 6145 8554 5735 6467 10765 8117 10765 3294 13817 14242 </steps_updated>
+    <steps_updated num="1">9393 3631 </steps_updated>
+    <steps_updated num="2">9179 1193 560 11951 9889 6142 1681 7568 3479 13817 740 3557 560 11951 7155 9453 </steps_updated>
+    <steps_updated num="3">9393 1391 12313 13676 1681 7568 4309 </steps_updated>
+    <steps_updated num="4">7692 11951 8337 10104 5994 11526 11571 </steps_updated>
+    <steps_updated num="5">7692 6781 11951 937 560 11951 13119 13532 3541 560 7998 5994 1566 13080 8554 8298 </steps_updated>
+    <steps_updated num="6">3915 10439 7811 5651 455 </steps_updated>
+    <steps_updated num="7">9956 12313 8337 9490 6285 2963 371 2237 2985 5643 51 210 848 13298 560 7777 2696 7134 1391 7115 7155 8508 371 6285 11951 5285 371 5994 6861 </steps_updated>
+    <steps_updated num="8">5570 12313 7155 4255 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="9">7831 7990 13133 8927 5895 1681 11951 8992 837 5355 </steps_updated>
+    <steps_updated num="10">4829 11951 8992 7091 10359 11951 10209 5569 2795 11951 8626 6885 4834 13817 11951 5098 1319 1681 7568 4309 </steps_updated>
+    <steps_updated num="11">9179 11951 1397 13817 4120 10104 5994 14263 </steps_updated>
+    <steps_updated num="12">12774 12313 8992 13817 9982 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

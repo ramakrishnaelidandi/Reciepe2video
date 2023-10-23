@@ -1,0 +1,52 @@
+<recipe>
+  <title>Crunchy Thai Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crunchy-thai-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-mason-jar-salads-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 13798 9924 </ingredient>
+    <ingredient num="1">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="2">1580 8071 13278 11114 </ingredient>
+    <ingredient num="3">1580 2605 13278 747 3962 13278 2264 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 2340 12047 14339 3386 13278 3433 5981 </ingredient>
+    <ingredient num="5">1580 13278 8083 1466 10986 3962 </ingredient>
+    <ingredient num="6">1580 2605 13278 6209 11292 3962 13278 828 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 5425 3333 13278 2264 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 3850 3962 13278 1258 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 9227 13278 14638 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82490/hls24_1520285439.m3u8</low>
+    <high>https://vid.tasty.co/output/82490/landscape_720/1520285439</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 9190 4566 740 11951 13798 10907 11691 2260 13817 11114 13817 6142 560 1011 </step>
+    <step num="1">9179 11951 747 2340 12885 1466 10986 11292 8445 3850 13817 9227 13817 3955 4255 11951 2445 </step>
+    <step num="2">10434 210 11951 7111 1681 12550 560 1471 3386 560 2933 2497 </step>
+    <step num="3">4676 11951 9190 7051 5994 12496 7934 560 10968 13817 11003 5994 1514 5895 1798 560 6142 2658 10428 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 9190 4566 740 11951 13798 10907 11691 2260 13817 11114 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="1">9179 11951 747 2340 12885 1466 10986 11292 8445 3850 13817 9227 13817 3955 4255 11951 2445 </steps_updated>
+    <steps_updated num="2">10434 210 11951 7111 1681 12550 560 1471 3386 560 2933 2497 </steps_updated>
+    <steps_updated num="3">4676 11951 9190 7051 5994 12496 7934 560 10968 13817 11003 5994 1514 5895 1798 560 6142 2658 10428 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00687</start_time>
+    <end_time>01294</end_time>
+  </duration_human>
+</recipe>

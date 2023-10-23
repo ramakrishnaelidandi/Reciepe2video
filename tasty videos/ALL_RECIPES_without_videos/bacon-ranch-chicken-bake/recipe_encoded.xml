@@ -1,0 +1,45 @@
+<recipe>
+  <title>Bacon Ranch Chicken Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-ranch-chicken-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 7983 7678 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">11061 9486 13278 13076 11708 </ingredient>
+    <ingredient num="4">11061 8535 13278 8932 </ingredient>
+    <ingredient num="5">4061 643 13278 9784 14538 13278 6518 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39426/low_1498728774.m3u8</low>
+    <high>https://vid.tasty.co/output/39426/mp4_1280X720/1498728774</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">5570 7983 376 210 5994 10765 6325 10242 7983 1391 82 13817 10986 560 8686 </step>
+    <step num="2">2988 6620 1184 13076 4255 10763 7983 11118 </step>
+    <step num="3">10452 4817 8535 371 8932 4255 10707 371 10763 7983 11118 </step>
+    <step num="4">13494 1391 4496 </step>
+    <step num="5">7831 7990 11203 12689 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">5570 7983 376 210 5994 10765 6325 </steps_updated>
+    <steps_updated num="2">10242 7983 1391 82 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="3">2988 6620 1184 </steps_updated>
+    <steps_updated num="4">13076 4255 10763 7983 11118 </steps_updated>
+    <steps_updated num="5">10452 4817 8535 371 8932 4255 10707 371 10763 7983 11118 </steps_updated>
+    <steps_updated num="6">13494 1391 4496 </steps_updated>
+    <steps_updated num="7">7831 7990 11203 12689 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

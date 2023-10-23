@@ -1,0 +1,49 @@
+<recipe>
+  <title>Eggplant Puree Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-puree</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-ways-to-make-vegetables-taste-great</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 8848 6097 </ingredient>
+    <ingredient num="1">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="2">3917 13278 5516 3701 </ingredient>
+    <ingredient num="3">3917 8071 13278 82 </ingredient>
+    <ingredient num="4">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="5">6209 11911 1404 560 1966 </ingredient>
+    <ingredient num="6">2899 560 1966 </ingredient>
+    <ingredient num="7">8244 7632 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75411/hls24_1517258080.m3u8</low>
+    <high>https://vid.tasty.co/output/75411/landscape_720/1517258080</high>
+  </video>
+  <duration>
+    <start_time>117.0</start_time>
+    <end_time>145.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">9679 2696 2078 371 6097 1073 669 5994 13757 6043 3624 7616 </step>
+    <step num="1">9179 11951 4155 5516 12610 13817 8244 14158 10641 3626 1391 5994 1514 1681 2589 5042 11836 </step>
+    <step num="2">13688 1391 11911 2899 13817 3954 8244 14158 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9679 2696 2078 371 6097 1073 669 5994 13757 6043 3624 7616 </steps_updated>
+    <steps_updated num="1">9179 11951 4155 5516 12610 13817 8244 14158 </steps_updated>
+    <steps_updated num="2">10641 3626 1391 5994 1514 1681 2589 5042 11836 </steps_updated>
+    <steps_updated num="3">13688 1391 11911 2899 13817 3954 8244 14158 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02806</start_time>
+    <end_time>03521</end_time>
+  </duration_human>
+</recipe>

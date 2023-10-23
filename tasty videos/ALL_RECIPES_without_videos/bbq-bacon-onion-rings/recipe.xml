@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Bacon Onion Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-bacon-onion-rings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-onion-ring-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; onions </ingredient>
+    <ingredient num="1">20 slices ; bacon </ingredient>
+    <ingredient num="2">½ cup ; BBQ sauce ; (145 g) </ingredient>
+    <ingredient num="3">¼ cup ; honey ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/86175/hls24_1521762232.m3u8</low>
+    <high>https://vid.tasty.co/output/86175/landscape_720/1521762232</high>
+  </video>
+  <duration>
+    <start_time>123.833</start_time>
+    <end_time>149.299</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Peel and cut onions into ½-inch (1 cm) rings. Separate the rings. </step>
+    <step num="2">Wrap a piece of bacon around one onion ring. Repeat with remaining onion rings and place on a parchment paper-lined baking sheet. </step>
+    <step num="3">Combine the BBQ sauce and honey in a bowl, and brush onto rings. </step>
+    <step num="4">Bake for 20 minutes, or until golden brown. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Peel and cut onions into ½-inch (1 cm) rings. </steps_updated>
+    <steps_updated num="2">Separate the rings. </steps_updated>
+    <steps_updated num="3">Wrap a piece of bacon around one onion ring. </steps_updated>
+    <steps_updated num="4">Repeat with remaining onion rings and place on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="5">Combine the BBQ sauce and honey in a bowl, and brush onto rings. </steps_updated>
+    <steps_updated num="6">Bake for 20 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

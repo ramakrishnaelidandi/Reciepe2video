@@ -1,0 +1,55 @@
+<recipe>
+  <title>Fresh Corn Chowder Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-corn-chowder</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 5766 </ingredient>
+    <ingredient num="1">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+    <ingredient num="4">3917 13278 12384 341 </ingredient>
+    <ingredient num="5">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="6">3917 13278 6817 472 </ingredient>
+    <ingredient num="7">3917 579 13278 12655 12939 3716 </ingredient>
+    <ingredient num="8">11061 9517 13278 4168 547 13278 10187 1580 1767 </ingredient>
+    <ingredient num="9">8580 9517 13278 12282 13278 4551 8007 </ingredient>
+    <ingredient num="10">3917 14014 13278 796 9211 </ingredient>
+    <ingredient num="11">8580 9486 13278 9496 </ingredient>
+    <ingredient num="12">3917 13278 13063 14252 </ingredient>
+    <ingredient num="13">3917 2605 13278 9889 5802 9662 13278 7503 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46743/low_1502304094.m3u8</low>
+    <high>https://vid.tasty.co/output/46743/mp4_720x1280/1502304094</high>
+  </video>
+  <steps>
+    <step num="0">10895 7632 4155 13817 12384 12610 13817 7845 210 5994 2597 10083 11770 13757 7855 7990 13086 12689 </step>
+    <step num="1">9179 8083 10986 6817 13817 9551 12473 7990 6646 8580 5895 13086 12689 </step>
+    <step num="2">9179 4168 42 13384 5040 6958 13817 13063 4964 10447 </step>
+    <step num="3">8785 560 5994 8288 3345 11951 5378 4255 11951 13799 13817 11779 7990 13767 12689 </step>
+    <step num="4">9179 5802 5895 5802 11828 13817 12224 6054 13063 4964 </step>
+    <step num="5">12251 560 10694 5994 8779 432 3044 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 7632 4155 13817 12384 12610 13817 7845 210 5994 2597 10083 11770 13757 7855 7990 13086 12689 </steps_updated>
+    <steps_updated num="1">9179 8083 10986 6817 13817 9551 </steps_updated>
+    <steps_updated num="2">12473 7990 6646 8580 5895 13086 12689 </steps_updated>
+    <steps_updated num="3">9179 4168 42 13384 5040 6958 13817 13063 4964 </steps_updated>
+    <steps_updated num="4">10447 </steps_updated>
+    <steps_updated num="5">8785 560 5994 8288 3345 11951 5378 4255 11951 13799 13817 11779 7990 13767 12689 </steps_updated>
+    <steps_updated num="6">9179 5802 5895 5802 11828 13817 12224 </steps_updated>
+    <steps_updated num="7">6054 13063 4964 </steps_updated>
+    <steps_updated num="8">12251 560 10694 5994 8779 432 3044 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

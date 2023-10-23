@@ -1,0 +1,52 @@
+<recipe>
+  <title>Kale Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kale-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-fruit-veggie-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 12745 13278 28 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">12791 8071 13278 82 </ingredient>
+    <ingredient num="3">12791 8071 13278 7845 </ingredient>
+    <ingredient num="4">12791 8071 13278 9496 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Sides</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12061/low_1476400695.m3u8</low>
+    <high>https://vid.tasty.co/output/12061/mp4_720x1280/1476400695</high>
+  </video>
+  <duration>
+    <start_time>66.5</start_time>
+    <end_time>75.09</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 9988 8999 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">6054 11951 28 2526 6781 11951 7711 8898 415 7514 669 12286 13637 10950 5994 13757 14511 10707 11951 28 1391 11951 8244 14158 9393 11951 7074 13817 740 560 11951 1416 7643 1681 7568 229 </step>
+    <step num="2">6695 13504 28 4255 5994 10765 11020 8033 11951 11318 13408 13236 7831 7990 8489 11004 1681 11951 5832 12573 1240 9801 11155 10829 1828 10694 560 10302 7553 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">6054 11951 28 2526 6781 11951 7711 8898 13817 1063 669 12286 13637 </steps_updated>
+    <steps_updated num="2">10950 5994 13757 14511 10707 28 1391 8244 14158 </steps_updated>
+    <steps_updated num="3">9393 7074 13817 740 560 11951 1416 </steps_updated>
+    <steps_updated num="4">7643 1681 7568 229 </steps_updated>
+    <steps_updated num="5">6695 13504 28 4255 5994 10765 8800 </steps_updated>
+    <steps_updated num="6">7831 7990 8489 11004 1681 11951 5832 12573 1240 9801 11155 10829 </steps_updated>
+    <steps_updated num="7">12251 560 10694 560 10302 7553 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01452</start_time>
+    <end_time>02261</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,75 @@
+<recipe>
+  <title>Chicken Gyros Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-gyros</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 8355 2144 7983 13917 4900 7868 13278 7696 5981 </ingredient>
+    <ingredient num="1">1580 13278 2597 11091 12384 4125 13817 6964 11801 3716 </ingredient>
+    <ingredient num="2">3917 13278 12295 6488 10658 7461 13767 4735 1936 1645 </ingredient>
+    <ingredient num="3">8580 9517 13278 9767 3713 13278 12985 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 597 10522 13278 13125 8007 </ingredient>
+    <ingredient num="5">9883 2605 13278 8244 5766 13278 10475 8007 </ingredient>
+    <ingredient num="6">3917 14014 13278 3855 82 </ingredient>
+    <ingredient num="7">3917 14014 13278 4155 10015 </ingredient>
+    <ingredient num="8">3917 14014 13278 4461 11703 </ingredient>
+    <ingredient num="9">3917 14014 13278 9496 </ingredient>
+    <ingredient num="10">3917 14014 13278 11088 3170 </ingredient>
+    <ingredient num="11">1580 8071 13278 499 7845 </ingredient>
+    <ingredient num="12">3917 8071 13278 12425 </ingredient>
+    <ingredient num="13">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="14">3917 13278 2597 10837 3333 </ingredient>
+    <ingredient num="15">8580 9517 13278 9767 3713 13278 12985 5981 </ingredient>
+    <ingredient num="16">3917 14014 13278 4155 10015 </ingredient>
+    <ingredient num="17">12791 2605 13278 597 10522 13278 13125 8007 </ingredient>
+    <ingredient num="18">8580 9486 13278 6209 4564 11588 3962 </ingredient>
+    <ingredient num="19">8580 9486 13278 6209 11911 11588 3962 </ingredient>
+    <ingredient num="20">12610 560 11567 </ingredient>
+    <ingredient num="21">10986 560 11567 </ingredient>
+    <ingredient num="22">6735 13278 10995 14193 </ingredient>
+    <ingredient num="23">12384 976 </ingredient>
+    <ingredient num="24">9491 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Greek</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51336/low_1504739525.m3u8</low>
+    <high>https://vid.tasty.co/output/51336/mp4_720x1280/1504739525</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 14511 4120 6966 11907 13817 6142 3631 </step>
+    <step num="1">12474 5994 4669 8667 3345 5994 9152 371 8438 7558 11770 11951 7983 8309 13817 6202 1681 6285 1580 2985 10187 1645 7711 1391 5994 3061 3818 11526 2040 5895 8640 10590 </step>
+    <step num="2">10950 6646 2597 12377 5895 949 8438 5301 4120 7983 8309 13817 11154 13328 3145 560 515 4660 13817 173 7990 7811 767 797 7739 13817 3386 560 797 14355 </step>
+    <step num="3">3915 10439 560 312 1867 </step>
+    <step num="4">54 11951 10837 11484 11901 560 882 2696 7115 1198 4725 </step>
+    <step num="5">10950 5994 13757 14511 4120 3998 11907 13817 6142 3631 4660 13817 173 7811 767 238 12689 </step>
+    <step num="6">12474 5994 10765 213 5895 5994 2597 13959 6326 11003 11951 6334 2532 2658 5994 4810 13817 956 11951 12355 8829 665 5994 9405 2023 11951 7983 8309 3956 1077 10763 797 5838 7143 </step>
+    <step num="7">7831 7990 14296 560 8580 13199 1681 1124 2281 13751 4734 7446 1828 10694 7990 13767 12689 </step>
+    <step num="8">4602 3482 8535 371 7983 560 13262 5994 6004 13494 1391 6334 4743 9668 4743 13817 3998 9286 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 4120 6966 11907 13817 6142 3631 </steps_updated>
+    <steps_updated num="1">12474 5994 4669 8667 3345 5994 9152 371 8438 7558 11770 11951 7983 8309 13817 6202 1681 6285 1580 2985 10187 1645 7711 1391 5994 3061 3818 11526 2040 5895 8640 10590 </steps_updated>
+    <steps_updated num="2">10950 6646 2597 12377 5895 949 8438 5301 4120 7983 8309 13817 11154 13328 3145 560 515 </steps_updated>
+    <steps_updated num="3">4660 13817 173 7990 7811 767 797 7739 13817 3386 560 797 14355 </steps_updated>
+    <steps_updated num="4">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="5">54 11951 10837 11484 11901 560 882 2696 7115 1198 4725 </steps_updated>
+    <steps_updated num="6">10950 5994 13757 14511 4120 3998 11907 13817 6142 3631 </steps_updated>
+    <steps_updated num="7">4660 13817 173 7811 767 238 12689 </steps_updated>
+    <steps_updated num="8">12474 5994 10765 213 5895 5994 2597 13959 6326 11003 11951 6334 2532 2658 5994 4810 13817 956 11951 12355 8829 665 5994 9405 </steps_updated>
+    <steps_updated num="9">2023 11951 7983 8309 3956 1077 10763 797 5838 7143 </steps_updated>
+    <steps_updated num="10">7831 7990 14296 560 8580 13199 1681 1124 2281 13751 4734 7446 </steps_updated>
+    <steps_updated num="11">1828 10694 7990 13767 12689 </steps_updated>
+    <steps_updated num="12">4602 3482 8535 371 7983 560 13262 5994 6004 </steps_updated>
+    <steps_updated num="13">13494 1391 6334 4743 9668 4743 13817 3998 9286 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,59 @@
+<recipe>
+  <title>Simple Dinner Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-dinner-rolls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-epic-ways-to-transform-homemade-bread</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 10383 12282 13278 7503 8007 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">8580 9486 13278 9586 </ingredient>
+    <ingredient num="3">8580 2031 13278 82 </ingredient>
+    <ingredient num="4">13086 1813 9517 13278 890 13278 7 5981 </ingredient>
+    <ingredient num="5">3917 1580 2031 13278 10026 </ingredient>
+    <ingredient num="6">3917 13278 4036 7990 6216 10086 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71629/hls24_1515433243.m3u8</low>
+    <high>https://vid.tasty.co/output/71629/landscape_720/1515433243</high>
+  </video>
+  <duration>
+    <start_time>3.1660000000000004</start_time>
+    <end_time>62.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 13384 8244 7632 14240 12610 6467 6984 13817 12282 210 5994 2597 7616 </step>
+    <step num="1">9393 3145 13817 3039 7990 8489 8927 1681 11951 8337 9490 10686 </step>
+    <step num="2">12785 11951 8337 669 5994 410 7616 </step>
+    <step num="3">4660 1391 5994 1811 5895 8438 7558 13817 3945 11402 1956 7990 3917 7739 210 5994 10383 7626 1681 11951 8337 7312 6578 </step>
+    <step num="4">3915 10439 560 3963 12013 </step>
+    <step num="5">14100 11951 8337 669 6735 2994 13817 13935 669 13202 </step>
+    <step num="6">5570 2984 1802 2362 13959 5687 13817 6506 7990 238 3274 8927 1391 5994 1811 5895 8438 3711 </step>
+    <step num="7">10007 13817 10654 10763 1391 6216 7137 </step>
+    <step num="8">7831 5895 666 11004 5895 1681 11951 4091 12573 10963 2147 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 13384 8244 7632 14240 12610 6467 6984 13817 12282 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">9393 3145 13817 3039 7990 8489 8927 1681 11951 8337 9490 10686 </steps_updated>
+    <steps_updated num="2">12785 11951 8337 669 5994 410 7616 </steps_updated>
+    <steps_updated num="3">4660 1391 5994 1811 5895 8438 7558 13817 3945 11402 1956 7990 3917 7739 210 5994 10383 7626 1681 11951 8337 7312 6578 </steps_updated>
+    <steps_updated num="4">3915 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="5">14100 11951 8337 669 6735 2994 13817 13935 669 13202 </steps_updated>
+    <steps_updated num="6">5570 2984 1802 2362 13959 5687 13817 6506 7990 238 3274 8927 1391 5994 1811 5895 8438 3711 </steps_updated>
+    <steps_updated num="7">10007 13817 10654 10763 1391 6216 7137 </steps_updated>
+    <steps_updated num="8">7831 5895 666 11004 5895 1681 11951 4091 12573 10963 2147 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01516</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-cupcakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tube ; orange cinnamon roll </ingredient>
+    <ingredient num="1">cake mix, with corresponding ingredients </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32041/low_1495125049.m3u8</low>
+    <high>https://vid.tasty.co/output/32041/mp4_720x1280/1495125049</high>
+  </video>
+  <steps>
+    <step num="0">Make box cake mix as instructed on the box. </step>
+    <step num="1">Fill cupcake wrappers about half way full with batter. </step>
+    <step num="2">Bake at 375°F (190°C) for six minutes. </step>
+    <step num="3">Cut orange cinnamon rolls in half. Place on top of cupcakes. </step>
+    <step num="4">Bake another 9 minutes, or until the cinnamon roll tops look fully cooked. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make box cake mix as instructed on the box. </steps_updated>
+    <steps_updated num="1">Fill cupcake wrappers about half way full with batter. </steps_updated>
+    <steps_updated num="2">Bake at 375°F (190°C) for six minutes. </steps_updated>
+    <steps_updated num="3">Cut orange cinnamon rolls in half. </steps_updated>
+    <steps_updated num="4">Place on top of cupcakes. </steps_updated>
+    <steps_updated num="5">Bake another 9 minutes, or until the cinnamon roll tops look fully cooked. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,41 @@
+<recipe>
+  <title>Blueberry Basil Ice Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-basil-ice-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9883 2605 13278 4834 13278 757 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 6209 749 6934 3037 13278 828 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 12282 13278 2935 5981 </ingredient>
+    <ingredient num="3">8268 643 13278 11579 1421 13278 4563 5981 </ingredient>
+    <ingredient num="4">3917 14014 13278 597 10522 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Snacks</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/134981/hls24_1559668415.m3u8</low>
+    <high>https://vid.tasty.co/output/134981/landscape_720/1559668415</high>
+  </video>
+  <steps>
+    <step num="0">6823 11951 3575 5466 10950 5994 2192 7110 4120 11951 6145 749 13817 2019 8785 560 5994 1002 11770 3996 2082 9956 12859 2550 7990 6865 11004 1681 11951 4834 7312 6856 13817 11951 6250 9490 11564 6054 6781 11951 2082 </step>
+    <step num="1">8845 11951 13143 6818 7492 5994 9423 14546 817 11770 5994 12095 9179 11951 10520 13817 597 8587 3262 4255 8283 12398 1681 12119 </step>
+    <step num="2">877 11951 2373 8830 11061 2439 260 5770 13855 1681 12091 7811 767 11061 14329 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6823 11951 3575 5466 10950 5994 2192 7110 4120 11951 6145 749 13817 2019 </steps_updated>
+    <steps_updated num="1">8785 560 5994 1002 11770 3996 2082 </steps_updated>
+    <steps_updated num="2">9956 12859 2550 7990 6865 11004 1681 11951 4834 7312 6856 13817 11951 6250 9490 11564 </steps_updated>
+    <steps_updated num="3">6054 6781 11951 2082 </steps_updated>
+    <steps_updated num="4">8845 11951 13143 6818 7492 5994 9423 14546 817 11770 5994 12095 </steps_updated>
+    <steps_updated num="5">9179 11951 10520 13817 597 8587 </steps_updated>
+    <steps_updated num="6">3262 4255 8283 12398 1681 12119 </steps_updated>
+    <steps_updated num="7">877 11951 2373 8830 11061 2439 260 5770 </steps_updated>
+    <steps_updated num="8">13855 1681 12091 7811 767 11061 14329 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

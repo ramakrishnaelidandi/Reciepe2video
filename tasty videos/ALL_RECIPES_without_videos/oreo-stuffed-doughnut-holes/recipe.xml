@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Oreo-stuffed Doughnut Holes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/oreo-stuffed-doughnut-holes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tube ; biscuit dough </ingredient>
+    <ingredient num="1">mini oreos </ingredient>
+    <ingredient num="2">oil, for frying </ingredient>
+    <ingredient num="3">¾ cup ; powdered sugar ; (120 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; whole milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32218/low_1495125493.m3u8</low>
+    <high>https://vid.tasty.co/output/32218/mp4_720x1280/1495125493</high>
+  </video>
+  <steps>
+    <step num="0">Quarter the flaky biscuit dough. </step>
+    <step num="1">Take one quarter and flatten with your finger. Place a mini Oreo in the center and close the biscuit dough around it. Make sure to seal the seam as much as possible. Repeat with the rest of the biscuit dough. </step>
+    <step num="2">Fry the doughnut holes until golden brown. Set aside to cool down. </step>
+    <step num="3">Combine powder sugar and whole milk to form the glaze. Dip the fried doughnut holes in the glaze. Sprinkle crushed Oreo cookies over the top while the glaze is still wet. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Quarter the flaky biscuit dough. </steps_updated>
+    <steps_updated num="1">Take one quarter and flatten with your finger. </steps_updated>
+    <steps_updated num="2">Place a mini Oreo in the center and close the biscuit dough around it. </steps_updated>
+    <steps_updated num="3">Make sure to seal the seam as much as possible. </steps_updated>
+    <steps_updated num="4">Repeat with the rest of the biscuit dough. </steps_updated>
+    <steps_updated num="5">Fry the doughnut holes until golden brown. </steps_updated>
+    <steps_updated num="6">Set aside to cool down. </steps_updated>
+    <steps_updated num="7">Combine powder sugar and whole milk to form the glaze. </steps_updated>
+    <steps_updated num="8">Dip the fried doughnut holes in the glaze. </steps_updated>
+    <steps_updated num="9">Sprinkle crushed Oreo cookies over the top while the glaze is still wet. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

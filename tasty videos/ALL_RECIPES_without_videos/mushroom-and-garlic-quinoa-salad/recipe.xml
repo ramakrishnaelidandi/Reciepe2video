@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mushroom And Garlic Quinoa Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mushroom-and-garlic-quinoa-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quinoa-salad-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">1 lb ; mushroom ; (455 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; dried thyme </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">1 ½ cups ; vegetable stock ; (355 mL) </ingredient>
+    <ingredient num="6">1 cup ; water ; (235 mL) </ingredient>
+    <ingredient num="7">1 cup ; quinoa ; (170 g) </ingredient>
+    <ingredient num="8">cheese, of choice, grated to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50638/low_1504219940.m3u8</low>
+    <high>https://vid.tasty.co/output/50638/mp4_720x1280/1504219940</high>
+  </video>
+  <duration>
+    <start_time>35.4</start_time>
+    <end_time>63.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium-sized frying pan combine oil, mushrooms, thyme, and salt, then mix. Allow to cook about 5 minutes. </step>
+    <step num="1">Add the garlic, cook for 6-8 more minutes minutes until mushrooms are sufficiently cooked through and beginning to crisp up. Set mushroom mixture aside. </step>
+    <step num="2">Combine vegetable stock and water in pan, bring to a boil, then add quinoa and cover. Simmer for 12-15 minutes. </step>
+    <step num="3">Add mushroom mixture to quinoa and garnish with grated cheese of your choice (optional). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium-sized frying pan combine oil, mushrooms, thyme, and salt, then mix. </steps_updated>
+    <steps_updated num="1">Allow to cook about 5 minutes. </steps_updated>
+    <steps_updated num="2">Add the garlic, cook for 6-8 more minutes minutes until mushrooms are sufficiently cooked through and beginning to crisp up. </steps_updated>
+    <steps_updated num="3">Set mushroom mixture aside. </steps_updated>
+    <steps_updated num="4">Combine vegetable stock and water in pan, bring to a boil, then add quinoa and cover. </steps_updated>
+    <steps_updated num="5">Simmer for 12-15 minutes. </steps_updated>
+    <steps_updated num="6">Add mushroom mixture to quinoa and garnish with grated cheese of your choice (optional). </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01118</start_time>
+    <end_time>01898</end_time>
+  </duration_human>
+</recipe>

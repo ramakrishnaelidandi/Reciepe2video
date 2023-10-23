@@ -1,0 +1,48 @@
+<recipe>
+  <title>Blueberry Bourbon Smash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-bourbon-smash</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 6949 1368 4834 13278 6952 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="2">3917 3115 13278 8455 12726 11728 13278 898 5981 </ingredient>
+    <ingredient num="3">2439 </ingredient>
+    <ingredient num="4">8580 643 13278 13082 13278 13412 5981 </ingredient>
+    <ingredient num="5">3917 643 13278 597 10522 13278 1258 5981 </ingredient>
+    <ingredient num="6">3917 643 13278 1421 3575 6818 13278 1258 5981 </ingredient>
+    <ingredient num="7">14418 13285 560 11567 </ingredient>
+    <ingredient num="8">597 8499 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130178/hls24_1555521962.m3u8</low>
+    <high>https://vid.tasty.co/output/130178/landscape_720/1555521962</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2192 11844 11770 13757 14307 4120 11951 1368 4834 13817 2019 8785 560 5994 8288 13328 560 2319 11951 4834 3936 </step>
+    <step num="1">9179 11951 10520 560 11951 10083 13817 1002 1681 11951 8540 13824 560 8652 6285 13133 12689 6054 6781 7855 13817 10694 7990 2272 12689 </step>
+    <step num="2">12785 11951 2373 560 5994 12027 13817 1279 1681 12119 </step>
+    <step num="3">8845 11951 6818 7492 5994 9423 14546 5895 10576 10434 210 2237 2759 3801 210 11951 7111 7990 3386 560 3917 8043 </step>
+    <step num="4">10950 5994 1026 3199 7860 1391 531 4120 11951 6704 597 7654 13817 3575 12911 1709 11264 7990 5527 773 </step>
+    <step num="5">8845 669 5994 13426 7860 1391 2439 13817 10707 1391 14418 13505 </step>
+    <step num="6">13688 1391 597 1911 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 11844 11770 13757 14307 4120 11951 1368 4834 13817 2019 </steps_updated>
+    <steps_updated num="1">8785 560 5994 8288 13328 560 2319 11951 4834 3936 </steps_updated>
+    <steps_updated num="2">9179 11951 10520 560 11951 10083 13817 1002 1681 11951 8540 13824 560 8652 6285 13133 12689 </steps_updated>
+    <steps_updated num="3">6054 6781 7855 13817 10694 7990 2272 12689 </steps_updated>
+    <steps_updated num="4">12785 11951 2373 560 5994 12027 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="5">8845 11951 6818 7492 5994 9423 14546 5895 10576 </steps_updated>
+    <steps_updated num="6">10434 210 2237 2759 3801 210 11951 7111 7990 3386 560 3917 8043 </steps_updated>
+    <steps_updated num="7">10950 5994 1026 3199 7860 1391 531 4120 11951 6704 597 7654 13817 3575 12911 </steps_updated>
+    <steps_updated num="8">1709 11264 7990 5527 773 </steps_updated>
+    <steps_updated num="9">8845 669 5994 13426 7860 1391 2439 13817 10707 1391 14418 13505 </steps_updated>
+    <steps_updated num="10">13688 1391 597 1911 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

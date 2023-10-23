@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Shrimp Bacon Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-bacon-shrimp-alfredo</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/garlic-shrimp-alfredo-dinner-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">6 slices ; bacon, chopped </ingredient>
+    <ingredient num="1">1 lb ; shrimp, peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="4">½ ; medium yellow onion, diced </ingredient>
+    <ingredient num="5">1 ; medium tomato, diced </ingredient>
+    <ingredient num="6">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="8">1 lb ; fettuccine, cooked ; (455 g) </ingredient>
+    <ingredient num="9">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="10">½ cup ; fresh parlsey, chopped ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Seafood</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22843/low_1486059943.m3u8</low>
+    <high>https://vid.tasty.co/output/22843/mp4_720x1280/1486059943</high>
+  </video>
+  <duration>
+    <start_time>25.316</start_time>
+    <end_time>59.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pot, cook the bacon over medium heat until crispy. </step>
+    <step num="1">Add the shrimp, salt, and pepper and cook until the shrimp is pink and opaque. Remove the shrimp and bacon from the pot, leaving any fat from cooking the bacon behind. </step>
+    <step num="2">Add the onions, tomatoes, and garlic to the pot and cook until the garlic is starting to brown. </step>
+    <step num="3">Add the cream and bring to a boil. </step>
+    <step num="4">Once the cream is boiling, add the fettuccine. Return the shrimp and bacon to the pan, along with the Parmesan cheese and parsley. Stir until the cheese melts and the sauce coats the shrimp and pasta nicely. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook the bacon in a large pot until crispy. </steps_updated>
+    <steps_updated num="1">Add the shrimp, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Cook until the shrimp is pink throughout. </steps_updated>
+    <steps_updated num="3">Remove the shrimp and bacon. </steps_updated>
+    <steps_updated num="4">Add the onions, tomatoes, and garlic, cooking until the garlic is slightly starting to brown. </steps_updated>
+    <steps_updated num="5">Add the cream and bring to a boil. </steps_updated>
+    <steps_updated num="6">Toss in the fettuccine with the shrimp, bacon, parmesan cheese, and parsley, stirring until the cheese has completely melted and the sauce coats the shrimp and pasta nicely. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

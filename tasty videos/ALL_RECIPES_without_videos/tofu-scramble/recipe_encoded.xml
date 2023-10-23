@@ -1,0 +1,57 @@
+<recipe>
+  <title>Tofu Scramble Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-scramble</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8268 643 13278 11366 13278 4563 5981 </ingredient>
+    <ingredient num="1">3917 13278 1466 7845 </ingredient>
+    <ingredient num="2">1580 13278 6334 </ingredient>
+    <ingredient num="3">8580 2031 13278 5766 </ingredient>
+    <ingredient num="4">1580 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="6">1580 8071 13278 6334 11703 </ingredient>
+    <ingredient num="7">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="8">12791 8071 13278 13056 </ingredient>
+    <ingredient num="9">3917 14014 13278 597 10522 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43890/low_1500396566.m3u8</low>
+    <high>https://vid.tasty.co/output/43890/mp4_720x1280/1500396566</high>
+  </video>
+  <steps>
+    <step num="0">11720 11366 6781 2172 7558 3557 210 5994 12 14179 13817 3345 3557 4255 5994 9086 6117 6646 4157 4255 10707 371 11951 11366 13817 10503 7990 6175 12689 </step>
+    <step num="1">12299 11951 11366 13817 7777 669 1170 </step>
+    <step num="2">5570 11951 11366 210 5994 12377 13817 12833 1391 5994 11206 </step>
+    <step num="3">14100 11951 10707 3482 5994 1466 7845 13817 5103 8554 11951 1245 13817 1088 2519 </step>
+    <step num="4">13190 11951 12034 </step>
+    <step num="5">8889 5766 210 5994 5687 11770 13757 2082 9179 11951 11453 13817 5016 13817 2550 1681 2296 </step>
+    <step num="6">9179 210 11951 11366 13817 2550 4255 13757 7855 1681 6241 371 11951 12282 7312 389 </step>
+    <step num="7">9179 11951 12610 10986 6334 8117 11384 8117 13817 2670 13817 10968 12923 1681 8554 11951 7074 12573 3584 9123 </step>
+    <step num="8">9179 11951 597 10522 560 11951 11366 13817 10968 1681 3584 4309 </step>
+    <step num="9">6054 11951 11366 6781 11951 7855 13817 8956 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">11720 11366 6781 2172 7558 3557 210 5994 12 14179 13817 3345 3557 4255 5994 9086 </steps_updated>
+    <steps_updated num="1">6117 6646 4157 4255 10707 371 11951 11366 13817 10503 7990 6175 12689 </steps_updated>
+    <steps_updated num="2">12299 11951 11366 13817 7777 669 1170 </steps_updated>
+    <steps_updated num="3">5570 11951 11366 210 5994 12377 13817 12833 1391 5994 11206 </steps_updated>
+    <steps_updated num="4">14100 11951 10707 3482 5994 1466 7845 13817 5103 8554 11951 1245 13817 1088 2519 </steps_updated>
+    <steps_updated num="5">13190 11951 12034 </steps_updated>
+    <steps_updated num="6">8889 5766 210 5994 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="7">9179 11951 11453 13817 5016 13817 2550 1681 2296 </steps_updated>
+    <steps_updated num="8">9179 210 11951 11366 13817 2550 4255 13757 7855 1681 6241 371 11951 12282 7312 389 </steps_updated>
+    <steps_updated num="9">9179 11951 12610 10986 6334 8117 11384 8117 13817 2670 13817 10968 12923 1681 8554 11951 7074 12573 3584 9123 </steps_updated>
+    <steps_updated num="10">9179 11951 597 10522 560 11951 11366 13817 10968 1681 3584 4309 </steps_updated>
+    <steps_updated num="11">6054 11951 11366 6781 11951 7855 13817 8956 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

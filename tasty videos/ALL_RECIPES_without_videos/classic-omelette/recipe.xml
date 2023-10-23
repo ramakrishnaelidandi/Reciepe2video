@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-omelette</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; eggs </ingredient>
+    <ingredient num="1">1 tablespoon ; butter </ingredient>
+    <ingredient num="2">spinach, cooked, optional </ingredient>
+    <ingredient num="3">tomato, chopped, optional </ingredient>
+    <ingredient num="4">mushroom, sliced and sautéed, optional </ingredient>
+    <ingredient num="5">cheese, optional </ingredient>
+    <ingredient num="6">nira chives, chopped, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>0.0</start_time>
+    <end_time>28.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, beat the eggs. </step>
+    <step num="1">Melt the butter in a medium frying pan over medium heat. </step>
+    <step num="2">Pour in the beaten eggs. Stir and shake the pan, moving the eggs around until a few curds form. Reduce the heat to low, then flatten the eggs until the still-runny egg covers the entire bottom of the pan. Add any fillings that you would like. </step>
+    <step num="3">Let the omelette cook until the eggs are fully set, 1-2 minutes, then gently roll the omelette and transfer to a plate. The surface should be smooth with no color. </step>
+    <step num="4">Sprinkle with chives, if desired. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, beat the eggs. </steps_updated>
+    <steps_updated num="1">Melt the butter in a medium frying pan over medium heat. </steps_updated>
+    <steps_updated num="2">Pour in the beaten eggs. </steps_updated>
+    <steps_updated num="3">Stir and shake the pan, moving the eggs around until a few curds form. </steps_updated>
+    <steps_updated num="4">Reduce the heat to low, then flatten the eggs until the still-runny egg covers the entire bottom of the pan. </steps_updated>
+    <steps_updated num="5">Add any fillings that you would like. </steps_updated>
+    <steps_updated num="6">Let the omelette cook until the eggs are fully set, 1-2 minutes, then gently roll the omelette and transfer to a plate. </steps_updated>
+    <steps_updated num="7">The surface should be smooth with no color. </steps_updated>
+    <steps_updated num="8">Sprinkle with chives, if desired. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

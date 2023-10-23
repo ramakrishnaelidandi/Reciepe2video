@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Quick Chicken Pho</title>
+  <url>https://tasty.co/recipe/quick-30-minute-chicken-pho</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">10 oz ; rice noodle, dried, narrow, and flat ; (285 g) </ingredient>
+    <ingredient num="1">warm water, for soaking </ingredient>
+    <ingredient num="2">1 tablespoon ; whole black peppercorn </ingredient>
+    <ingredient num="3">1 tablespoon ; coriander seed </ingredient>
+    <ingredient num="4">4 pods ; whole star anise </ingredient>
+    <ingredient num="5">1 piece ; fresh ginger, 2 inch (5 cm) piece </ingredient>
+    <ingredient num="6">1 bunch ; green onion </ingredient>
+    <ingredient num="7">4 cups ; hot water ; (960 mL) </ingredient>
+    <ingredient num="8">8 cups ; chicken broth ; (1.9 L) </ingredient>
+    <ingredient num="9">1 lb ; chicken breast, halved, crosswise ; (455 g) </ingredient>
+    <ingredient num="10">2 tablespoons ; fish sauce ; (40 mL) </ingredient>
+    <ingredient num="11">2 ; limes </ingredient>
+    <ingredient num="12">1 ; jalapeño </ingredient>
+    <ingredient num="13">1 ; bean sprout </ingredient>
+    <ingredient num="14">1 bunch ; fresh thai basil </ingredient>
+    <ingredient num="15">1 bunch ; fresh cilantro </ingredient>
+    <ingredient num="16">1 ; siracha </ingredient>
+    <ingredient num="17">hoisin sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vietnamese</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/115863/hls24_1542402987.m3u8</low>
+    <high>https://vid.tasty.co/output/115863/landscape_720/1542402987</high>
+  </video>
+  <steps>
+    <step num="0">Place the rice noodles in a large heatproof bowl. Cover with warm water and soak for 20 minutes, until softened. </step>
+    <step num="1">While the noodles are soaking, heat a large pot over medium-high heat. Toast the black peppercorns, coriander seeds, and star anise pods for 2 minutes, until fragrant. </step>
+    <step num="2">While the seeds are toasting, peel the ginger and cut into pieces. Trim the ends off the green onions, then chop 5 inches off the bases and save the remaining green tops for later. </step>
+    <step num="3">Add the ginger and green onion bases to the pot and cook for 2 minutes, or until fragrant. </step>
+    <step num="4">Add the water, chicken broth, and chicken breasts. Increase the heat to high, cover, and bring to a simmer. Cook for 5 more minutes, then check the chicken every minute until cooked through. Remove from the heat. </step>
+    <step num="5">While the broth heats up, thinly slice the green onion tops. Cut the lime into wedges. Thinly slice the jalapeño. </step>
+    <step num="6">After 20 minutes of soaking, drain the rice noodles, then return to the bowl. </step>
+    <step num="7">Remove the chicken from the broth. </step>
+    <step num="8">Strain the broth over the noodles. Pour the noodles and broth back into the pot over high heat, then add the fish sauce. Cover and cook for 3 minutes. </step>
+    <step num="9">Shred the chicken. </step>
+    <step num="10">Divide the noodles between four serving bowls and top with the shredded chicken, jalapeño, bean sprouts, and Thai basil. Ladle the hot pho broth over the noodles. Add a squeeze of lime, green onions, and any other favorite toppings. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the rice noodles in a large heatproof bowl. </steps_updated>
+    <steps_updated num="1">Cover with warm water and soak for 20 minutes, until softened. </steps_updated>
+    <steps_updated num="2">While the noodles are soaking, heat a large pot over medium-high heat. </steps_updated>
+    <steps_updated num="3">Toast the black peppercorns, coriander seeds, and star anise pods for 2 minutes, until fragrant. </steps_updated>
+    <steps_updated num="4">While the seeds are toasting, peel the ginger and cut into pieces. </steps_updated>
+    <steps_updated num="5">Trim the ends off the green onions, then chop 5 inches off the bases and save the remaining green tops for later. </steps_updated>
+    <steps_updated num="6">Add the ginger and green onion bases to the pot and cook for 2 minutes, or until fragrant. </steps_updated>
+    <steps_updated num="7">Add the water, chicken broth, and chicken breasts. </steps_updated>
+    <steps_updated num="8">Increase the heat to high, cover, and bring to a simmer. </steps_updated>
+    <steps_updated num="9">Cook for 5 more minutes, then check the chicken every minute until cooked through. </steps_updated>
+    <steps_updated num="10">Remove from the heat. </steps_updated>
+    <steps_updated num="11">While the broth heats up, thinly slice the green onion tops. </steps_updated>
+    <steps_updated num="12">Cut the lime into wedges. </steps_updated>
+    <steps_updated num="13">Thinly slice the jalapeño. </steps_updated>
+    <steps_updated num="14">After 20 minutes of soaking, drain the rice noodles, then return to the bowl. </steps_updated>
+    <steps_updated num="15">Remove the chicken from the broth. </steps_updated>
+    <steps_updated num="16">Strain the broth over the noodles. </steps_updated>
+    <steps_updated num="17">Pour the noodles and broth back into the pot over high heat, then add the fish sauce. </steps_updated>
+    <steps_updated num="18">Cover and cook for 3 minutes. </steps_updated>
+    <steps_updated num="19">Shred the chicken. </steps_updated>
+    <steps_updated num="20">Divide the noodles between four serving bowls and top with the shredded chicken, jalapeño, bean sprouts, and Thai basil. </steps_updated>
+    <steps_updated num="21">Ladle the hot pho broth over the noodles. </steps_updated>
+    <steps_updated num="22">Add a squeeze of lime, green onions, and any other favorite toppings. </steps_updated>
+    <steps_updated num="23">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

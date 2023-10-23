@@ -1,0 +1,46 @@
+<recipe>
+  <title>Cacao Chia Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cacao-chia-pudding</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 638 5802 13278 7503 8007 </ingredient>
+    <ingredient num="1">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="2">3917 14014 13278 7484 10471 </ingredient>
+    <ingredient num="3">8580 1580 9486 13278 9693 10367 11703 </ingredient>
+    <ingredient num="4">12791 2605 13278 5375 1245 13278 4239 5981 </ingredient>
+    <ingredient num="5">8580 9486 13278 638 10907 3917 4884 7818 </ingredient>
+    <ingredient num="6">13510 12610 560 11567 </ingredient>
+    <ingredient num="7">6742 8635 560 11567 </ingredient>
+    <ingredient num="8">6209 6289 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121934/hls24_1546897597.m3u8</low>
+    <high>https://vid.tasty.co/output/121934/landscape_720/1546897597</high>
+  </video>
+  <duration>
+    <start_time>161.0</start_time>
+    <end_time>207.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 8341 3626 11951 638 9889 308 14080 13817 10367 11703 1681 3145 4309 9179 11951 5375 1245 13817 8341 560 502 </step>
+    <step num="1">4660 11951 12377 13817 173 7990 7811 767 13086 13199 5895 3386 560 758 1681 11951 5375 1245 11628 7391 11951 881 13817 11951 2373 7312 5994 5029 7799 </step>
+    <step num="2">877 11951 11867 8830 8580 2192 1066 13817 10707 10763 7818 1391 3917 14014 371 638 9924 13817 13510 12610 6742 8635 13817 9470 560 8686 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 8341 3626 11951 638 9889 308 14080 13817 10367 11703 1681 3145 4309 </steps_updated>
+    <steps_updated num="1">9179 11951 5375 1245 13817 8341 560 502 </steps_updated>
+    <steps_updated num="2">4660 11951 12377 13817 173 7990 7811 767 13086 13199 5895 3386 560 758 1681 11951 5375 1245 11628 7391 11951 881 13817 11951 2373 7312 5994 5029 7799 </steps_updated>
+    <steps_updated num="3">877 11951 11867 8830 8580 2192 1066 13817 10707 10763 7818 1391 3917 14014 371 638 9924 13817 13510 12610 6742 8635 13817 9470 560 8686 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

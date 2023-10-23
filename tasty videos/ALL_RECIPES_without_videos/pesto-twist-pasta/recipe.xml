@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pesto Twist Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-twist-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-pasta-dishes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; fusilli pasta, or rotini pasta ; (455 g) </ingredient>
+    <ingredient num="1">2 cups ; fresh basil leaf, washed and thoroughly dried ; (80 g) </ingredient>
+    <ingredient num="2">1 clove ; garlic </ingredient>
+    <ingredient num="3">¼ cup ; pine nuts ; (35 g) </ingredient>
+    <ingredient num="4">½ cup ; extra virgin olive oil ; (120 mL) </ingredient>
+    <ingredient num="5">¼ cup ; water, cold ; (60 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21045/low_1484761758.m3u8</low>
+    <high>https://vid.tasty.co/output/21045/mp4_720x1280/1484761758</high>
+  </video>
+  <duration>
+    <start_time>216.0</start_time>
+    <end_time>242.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cook fusilli ( or rotini) in boiling salted water until it’s al dente. Reserve 1 cup (235 ml) of the pasta water before draining. </step>
+    <step num="1">Add basil, garlic, pine nuts, salt, and pepper to a food processor or blender and pulse to start to break up the ingredients. Add water and a splash of the olive oil to get things started. </step>
+    <step num="2">Scrape down the sides of processor bowl to ensure everything is being incorporated evenly. </step>
+    <step num="3">Put the top back on, turn on the food processor, and slowly drizzle the remaining olive oil through the hole on the top of the food processor until emulsified in the sauce. </step>
+    <step num="4">Pour the pesto into a bowl, then stir in the parmesan. (The heat of the food processor will start to melt the cheese, so adding it afterwards retains a nice texture) </step>
+    <step num="5">Drain the pasta and transfer to large bowl or pan. </step>
+    <step num="6">Add pesto and a splash of pasta water, stirring to incorporate. </step>
+    <step num="7">Add parmesan and another splash of pasta water. </step>
+    <step num="8">Top off with more cheese and basil before serving. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook fusilli ( or rotini) in boiling salted water until it’s al dente. </steps_updated>
+    <steps_updated num="1">Reserve 1 cup (235 ml) of the pasta water before draining. </steps_updated>
+    <steps_updated num="2">Add basil, garlic, pine nuts, salt, and pepper to a food processor or blender and pulse to start to break up the ingredients. </steps_updated>
+    <steps_updated num="3">Add water and a splash of the olive oil to get things started. </steps_updated>
+    <steps_updated num="4">Scrape down the sides of processor bowl to ensure everything is being incorporated evenly. </steps_updated>
+    <steps_updated num="5">Put the top back on, turn on the food processor, and slowly drizzle the remaining olive oil through the hole on the top of the food processor until emulsified in the sauce. </steps_updated>
+    <steps_updated num="6">Pour the pesto into a bowl, then stir in the parmesan. </steps_updated>
+    <steps_updated num="7">(The heat of the food processor will start to melt the cheese, so adding it afterwards retains a nice texture) </steps_updated>
+    <steps_updated num="8">Drain the pasta and transfer to large bowl or pan. </steps_updated>
+    <steps_updated num="9">Add pesto and a splash of pasta water, stirring to incorporate. </steps_updated>
+    <steps_updated num="10">Add parmesan and another splash of pasta water. </steps_updated>
+    <steps_updated num="11">Top off with more cheese and basil before serving. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

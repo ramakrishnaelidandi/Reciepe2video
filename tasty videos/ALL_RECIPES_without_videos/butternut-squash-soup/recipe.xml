@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Butternut Squash Soup</title>
+  <url>https://tasty.co/recipe/butternut-squash-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-healthy-hearty-fall-soups</comp_url>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; butter </ingredient>
+    <ingredient num="1">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">½ cup ; onion, chopped ; (75 g) </ingredient>
+    <ingredient num="3">1 ; potato, peeled and cubed </ingredient>
+    <ingredient num="4">1 stalk ; celery, chopped </ingredient>
+    <ingredient num="5">1 ; carrot, sliced </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">2 lb ; butternut squash, peeled, seeded, and cubed ; (905 g) </ingredient>
+    <ingredient num="9">6 cups ; vegetable broth ; (1.5 L) </ingredient>
+    <ingredient num="10">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="11">1 ; bay leaf </ingredient>
+    <ingredient num="12">2 sprigs ; fresh thyme </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58030/low_1508864010.m3u8</low>
+    <high>https://vid.tasty.co/output/58030/mp4_720x1280/1508864010</high>
+  </video>
+  <duration>
+    <start_time>193.8</start_time>
+    <end_time>236.71</end_time>
+  </duration>
+  <steps>
+    <step num="0">Melt the butter in a large pot over medium heat, then add the garlic and onion and sauté for 1-2 minutes, until the onion is translucent. </step>
+    <step num="1">Add the potato, celery, carrot, salt, and pepper. Sauté for 3 minutes. </step>
+    <step num="2">Add the butternut squash, broth, water, bay leaf, and thyme and stir. Bring to a boil. </step>
+    <step num="3">Cover and reduce the heat to low. Simmer for 25-30 minutes. </step>
+    <step num="4">Remove the thyme stems and bay leaf. </step>
+    <step num="5">Use an immersion or countertop blender to blend the soup until smooth. </step>
+    <step num="6">Let cool for 2 minutes, then serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt the butter in a large pot over medium heat, then add the garlic and onion and sauté for 1-2 minutes, until the onion is translucent. </steps_updated>
+    <steps_updated num="1">Add the potato, celery, carrot, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Sauté for 3 minutes. </steps_updated>
+    <steps_updated num="3">Add the butternut squash, broth, water, bay leaf, and thyme and stir. </steps_updated>
+    <steps_updated num="4">Bring to a boil. </steps_updated>
+    <steps_updated num="5">Cover and reduce the heat to low. </steps_updated>
+    <steps_updated num="6">Simmer for 25-30 minutes. </steps_updated>
+    <steps_updated num="7">Remove the thyme stems and bay leaf. </steps_updated>
+    <steps_updated num="8">Use an immersion or countertop blender to blend the soup until smooth. </steps_updated>
+    <steps_updated num="9">Let cool for 2 minutes, then serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05867</start_time>
+    <end_time>07118</end_time>
+  </duration_human>
+</recipe>

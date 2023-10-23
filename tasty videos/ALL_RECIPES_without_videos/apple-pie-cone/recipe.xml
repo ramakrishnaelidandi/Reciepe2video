@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Cone Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-cone</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/pie-cones-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 sheet ; pie crust </ingredient>
+    <ingredient num="1">1 cup ; apple, chopped ; (120 g) </ingredient>
+    <ingredient num="2">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="3">¼ teaspoon ; cinnamon </ingredient>
+    <ingredient num="4">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="5">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="6">½ tablespoon ; lemon juice </ingredient>
+    <ingredient num="7">vanilla ice cream </ingredient>
+    <ingredient num="8">caramel sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26452/low_1489510566.m3u8</low>
+    <high>https://vid.tasty.co/output/26452/mp4_720x1280/1489510566</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>39.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">Roll out aluminum foil into a cone. Make 4 cones for 1 pie sheet. </step>
+    <step num="2">Cut pie sheet into quarters. Place cone at one end of the sheet and roll dough onto the cone. Using a fork crimp the ends of the pie dough. </step>
+    <step num="3">Bake 5-10 minutes until the dough is set. Let it cool before pulling out the aluminum foil. </step>
+    <step num="4">In a medium bowl, combine all ingredients and mix. </step>
+    <step num="5">Place pie cone in a mug for stability and spoon in the fruit mixture. </step>
+    <step num="6">Turn oven down to 400°F (200°C) and bake for 15 minutes or until the fruit is soft. </step>
+    <step num="7">Top it with ice cream and your favorite topping. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Roll out aluminum foil into a cone. </steps_updated>
+    <steps_updated num="2">Make 4 cones for 1 pie sheet. </steps_updated>
+    <steps_updated num="3">Cut pie sheet into quarters. </steps_updated>
+    <steps_updated num="4">Place cone at one end of the sheet and roll dough onto the cone. </steps_updated>
+    <steps_updated num="5">Using a fork crimp the ends of the pie dough. </steps_updated>
+    <steps_updated num="6">Bake 5-10 minutes until the dough is set. </steps_updated>
+    <steps_updated num="7">Let it cool before pulling out the aluminum foil. </steps_updated>
+    <steps_updated num="8">In a medium bowl, combine all ingredients and mix. </steps_updated>
+    <steps_updated num="9">Place pie cone in a mug for stability and spoon in the fruit mixture. </steps_updated>
+    <steps_updated num="10">Turn oven down to 400°F (200°C) and bake for 15 minutes or until the fruit is soft. </steps_updated>
+    <steps_updated num="11">Top it with ice cream and your favorite topping. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01187</end_time>
+  </duration_human>
+</recipe>

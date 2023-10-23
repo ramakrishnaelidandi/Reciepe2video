@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Ring Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-ring-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; apple </ingredient>
+    <ingredient num="1">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="2">1 ; egg </ingredient>
+    <ingredient num="3">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">¾ cup ; milk ; (180 mL) </ingredient>
+    <ingredient num="6">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="7">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="8">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="9">1 pinch ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27621/low_1490636971.m3u8</low>
+    <high>https://vid.tasty.co/output/27621/mp4_720x1280/1490636971</high>
+  </video>
+  <steps>
+    <step num="0">Peel the apple and slice into 2 cm (¾-inch) thickness. </step>
+    <step num="1">Using a teaspoon, cut out the core of the apple and place apples in a medium bowl. </step>
+    <step num="2">Mix in cinnamon and coat each apple ring. </step>
+    <step num="3">In a large bowl, mix egg, butter, vanilla extract, and milk with a whisk. </step>
+    <step num="4">Sift in flour, baking powder, cinnamon, and salt, and mix the batter. It is okay to leave lumps. </step>
+    <step num="5">Heat pan on medium heat and melt butter. Dunk each ring into the batter and place on pan. </step>
+    <step num="6">Wait until bubbles form on the batter, then flip. </step>
+    <step num="7">Top it off with your favorite toppings. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the apple and slice into 2 cm (¾-inch) thickness. </steps_updated>
+    <steps_updated num="1">Using a teaspoon, cut out the core of the apple and place apples in a medium bowl. </steps_updated>
+    <steps_updated num="2">Mix in cinnamon and coat each apple ring. </steps_updated>
+    <steps_updated num="3">In a large bowl, mix egg, butter, vanilla extract, and milk with a whisk. </steps_updated>
+    <steps_updated num="4">Sift in flour, baking powder, cinnamon, and salt, and mix the batter. </steps_updated>
+    <steps_updated num="5">It is okay to leave lumps. </steps_updated>
+    <steps_updated num="6">Heat pan on medium heat and melt butter. </steps_updated>
+    <steps_updated num="7">Dunk each ring into the batter and place on pan. </steps_updated>
+    <steps_updated num="8">Wait until bubbles form on the batter, then flip. </steps_updated>
+    <steps_updated num="9">Top it off with your favorite toppings. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

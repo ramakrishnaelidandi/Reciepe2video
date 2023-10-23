@@ -1,0 +1,51 @@
+<recipe>
+  <title>Taco Egg Rolls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-egg-rolls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 2031 13278 5766 </ingredient>
+    <ingredient num="1">3917 715 13278 7983 376 13278 5806 5981 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">3917 8071 13278 7845 </ingredient>
+    <ingredient num="4">8580 9486 13278 10176 3123 5401 11484 3954 5895 13078 10013 4255 4320 1762 12573 10104 </ingredient>
+    <ingredient num="5">1580 2605 13278 12282 13278 5567 8007 </ingredient>
+    <ingredient num="6">11061 13278 6216 4536 13438 </ingredient>
+    <ingredient num="7">9491 341 </ingredient>
+    <ingredient num="8">12384 341 </ingredient>
+    <ingredient num="9">13810 231 </ingredient>
+    <ingredient num="10">6216 10086 </ingredient>
+    <ingredient num="11">4168 7632 7990 5291 </ingredient>
+    <ingredient num="12">10599 7990 7361 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32011/low_1495125046.m3u8</low>
+    <high>https://vid.tasty.co/output/32011/mp4_720x1280/1495125046</high>
+  </video>
+  <steps>
+    <step num="0">8889 7632 740 12816 3917 10246 12610 13817 3917 10246 12375 264 1681 3809 13686 </step>
+    <step num="1">9179 11951 10176 3123 6142 560 502 9179 12282 13817 2550 1681 7983 9490 13686 </step>
+    <step num="2">1349 6216 4536 14021 1391 3745 12816 7042 11453 13817 14538 5895 10569 11907 1762 7156 </step>
+    <step num="3">7692 13817 10697 1391 6216 7137 </step>
+    <step num="4">8916 1681 10963 2147 </step>
+    <step num="5">12774 1391 3335 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 7632 740 12816 3917 10246 12610 13817 3917 10246 12375 </steps_updated>
+    <steps_updated num="1">264 1681 3809 13686 </steps_updated>
+    <steps_updated num="2">9179 11951 10176 3123 6142 560 502 </steps_updated>
+    <steps_updated num="3">9179 12282 13817 2550 1681 7983 9490 13686 </steps_updated>
+    <steps_updated num="4">1349 6216 4536 14021 1391 3745 12816 7042 11453 13817 14538 5895 10569 11907 1762 7156 </steps_updated>
+    <steps_updated num="5">7692 13817 10697 1391 6216 7137 </steps_updated>
+    <steps_updated num="6">8916 1681 10963 2147 </steps_updated>
+    <steps_updated num="7">12774 1391 3335 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

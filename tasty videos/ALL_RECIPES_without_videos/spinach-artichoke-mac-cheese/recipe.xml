@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach Artichoke Mac &amp; Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-artichoke-mac-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; butter </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">5 oz ; spinach ; (145 g) </ingredient>
+    <ingredient num="3">1 cup ; artichoke heart, drained ; (170 g) </ingredient>
+    <ingredient num="4">3 cups ; milk ; (720 mL) </ingredient>
+    <ingredient num="5">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="6">2 teaspoons ; black pepper, freshly ground </ingredient>
+    <ingredient num="7">2 cups ; elbow macaroni ; (200 g) </ingredient>
+    <ingredient num="8">¾ cup ; shredded cheddar cheese ; (75 g) </ingredient>
+    <ingredient num="9">3 cups ; shredded mozzarella cheese, divided ; (300 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">BBQ</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25323/low_1488426862.m3u8</low>
+    <high>https://vid.tasty.co/output/25323/mp4_720x1280/1488426862</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450°F (230°C). </step>
+    <step num="1">In a large pan, melt the butter. Add garlic, and spinach cooking until spinach is wilted. Add artichoke hearts. </step>
+    <step num="2">Slowly add the milk, salt, and pepper. Stir until milk is boiling. </step>
+    <step num="3">Add the macaroni, cooking until the milk coats the macaroni like a glaze. </step>
+    <step num="4">Add the cheddar and 2 cups (200g) of mozzarella, stirring until the cheese is completely melted. </step>
+    <step num="5">Sprinkle the remaining mozzarella on top. </step>
+    <step num="6">Bake for 7 minutes, until cheese is bubbly and golden brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450°F (230°C). </steps_updated>
+    <steps_updated num="1">In a large pan, melt the butter. </steps_updated>
+    <steps_updated num="2">Add garlic, and spinach cooking until spinach is wilted. </steps_updated>
+    <steps_updated num="3">Add artichoke hearts. </steps_updated>
+    <steps_updated num="4">Slowly add the milk, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Stir until milk is boiling. </steps_updated>
+    <steps_updated num="6">Add the macaroni, cooking until the milk coats the macaroni like a glaze. </steps_updated>
+    <steps_updated num="7">Add the cheddar and 2 cups (200g) of mozzarella, stirring until the cheese is completely melted. </steps_updated>
+    <steps_updated num="8">Sprinkle the remaining mozzarella on top. </steps_updated>
+    <steps_updated num="9">Bake for 7 minutes, until cheese is bubbly and golden brown. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

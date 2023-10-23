@@ -1,0 +1,70 @@
+<recipe>
+  <title>Lisa&#8217;s Goutie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lisas-goutie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dumplings-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 2175 747 3962 13278 11953 5981 </ingredient>
+    <ingredient num="1">8580 2031 13278 12610 3247 </ingredient>
+    <ingredient num="2">3917 715 13278 11088 5234 13278 4563 5981 </ingredient>
+    <ingredient num="3">13086 13278 7424 9806 11588 3962 </ingredient>
+    <ingredient num="4">6735 13278 10286 1088 976 </ingredient>
+    <ingredient num="5">8580 9486 13278 9110 5766 </ingredient>
+    <ingredient num="6">3917 14014 13278 14635 10015 </ingredient>
+    <ingredient num="7">3917 8071 13278 4617 7845 </ingredient>
+    <ingredient num="8">238 13278 2597 14032 9324 13438 </ingredient>
+    <ingredient num="9">4061 9486 13278 11338 5766 </ingredient>
+    <ingredient num="10">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="11">7361 7280 2517 </ingredient>
+    <ingredient num="12">1813 2605 13278 11691 2260 13278 12158 8007 </ingredient>
+    <ingredient num="13">3917 8071 13278 9110 5766 </ingredient>
+    <ingredient num="14">3917 8071 13278 7706 13538 10769 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92132/hls24_1525222676.m3u8</low>
+    <high>https://vid.tasty.co/output/92132/landscape_720/1525222676</high>
+  </video>
+  <duration>
+    <start_time>87.0</start_time>
+    <end_time>159.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 4120 11951 2048 13817 12051 7643 224 1828 1788 7990 13767 8927 560 4869 8177 4149 5570 5994 6258 11770 5994 10909 7616 12785 11951 2048 560 11951 6258 882 2696 7115 1838 6781 11951 8113 13841 11951 2019 </step>
+    <step num="1">10950 5994 2597 14511 4120 11951 6124 2175 747 11088 10720 11512 10286 9110 7632 14635 374 8071 371 12610 13817 4617 12375 9393 3145 1391 12313 6292 </step>
+    <step num="2">10838 5994 14014 371 11539 210 11951 8365 371 5994 9324 10568 5209 12313 9654 8574 6118 2532 371 11951 2202 2567 1391 2019 </step>
+    <step num="3">12595 11951 14021 210 8467 5209 12313 4624 772 5332 560 10697 11951 6414 5362 1391 11951 374 13438 13817 198 </step>
+    <step num="4">10950 5994 2597 14260 11745 7855 11951 5766 11770 13757 2082 5570 6735 6784 210 11951 5687 13817 7256 1681 11951 8634 837 10963 1240 6285 2933 12689 9179 12791 2605 12282 13125 9443 13817 12538 264 7990 10561 11004 5895 1681 11951 11539 9490 3745 8119 5362 1391 11951 374 6420 </step>
+    <step num="5">12774 6908 1391 7361 9286 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 4120 11951 2048 13817 12051 </steps_updated>
+    <steps_updated num="1">7643 224 </steps_updated>
+    <steps_updated num="2">1828 1788 7990 13767 8927 560 4869 8177 4149 </steps_updated>
+    <steps_updated num="3">5570 5994 6258 11770 5994 10909 7616 </steps_updated>
+    <steps_updated num="4">12785 11951 2048 560 11951 6258 882 2696 7115 1838 6781 11951 8113 </steps_updated>
+    <steps_updated num="5">13841 11951 2019 </steps_updated>
+    <steps_updated num="6">10950 5994 2597 14511 4120 11951 6124 2175 747 11088 10720 11512 10286 9110 7632 14635 374 8071 371 12610 13817 4617 12375 </steps_updated>
+    <steps_updated num="7">9393 3145 1391 12313 6292 </steps_updated>
+    <steps_updated num="8">10838 5994 14014 371 11539 210 11951 8365 371 5994 9324 10568 </steps_updated>
+    <steps_updated num="9">5209 12313 9654 8574 6118 2532 371 11951 2202 2567 1391 2019 </steps_updated>
+    <steps_updated num="10">12595 11951 14021 210 8467 </steps_updated>
+    <steps_updated num="11">5209 12313 4624 772 5332 560 10697 11951 6414 </steps_updated>
+    <steps_updated num="12">5362 1391 11951 374 13438 13817 198 </steps_updated>
+    <steps_updated num="13">10950 5994 2597 14260 11745 7855 11951 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="14">5570 6735 6784 210 11951 5687 13817 7256 1681 11951 8634 837 10963 1240 6285 2933 12689 </steps_updated>
+    <steps_updated num="15">9179 12791 2605 12282 13125 9443 13817 12538 </steps_updated>
+    <steps_updated num="16">264 7990 10561 11004 5895 1681 11951 11539 9490 3745 8119 </steps_updated>
+    <steps_updated num="17">5362 1391 11951 374 6420 </steps_updated>
+    <steps_updated num="18">12774 6908 1391 7361 9286 </steps_updated>
+    <steps_updated num="19">9092 </steps_updated>
+  </steps_updated>
+</recipe>

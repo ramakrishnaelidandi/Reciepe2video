@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Baked Hash Brown Patties Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-baked-hash-brown-patties</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; red potatoes </ingredient>
+    <ingredient num="1">½ cup ; butter, melted ; (115 g) </ingredient>
+    <ingredient num="2">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="3">2 ; eggs, whisked </ingredient>
+    <ingredient num="4">¼ cup ; fresh chives, chopped ; (10 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; garlic salt </ingredient>
+    <ingredient num="6">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9583/low_1472841342.m3u8</low>
+    <high>https://vid.tasty.co/output/9583/mp4_720x1280/1472841342</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200˚C). </step>
+    <step num="1">Peel and grate the potatoes. </step>
+    <step num="2">Drop shredded potatoes into a large bowl of ice water to remove surface starch. </step>
+    <step num="3">Strain or squeeze potato shreds and transfer to a large bowl. </step>
+    <step num="4">Add butter, cheese, eggs, chives, garlic salt, oregano, and pepper in with the shredded potatoes. Mix together. </step>
+    <step num="5">Take a handful of the mixture and pack it on a baking sheet into desired hash brown shape. </step>
+    <step num="6">Bake for 40-45 minutes or until brown and crispy. </step>
+    <step num="7">Allow to cool for 5 minutes. Serve warm. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200˚C). </steps_updated>
+    <steps_updated num="1">Peel and grate the potatoes. </steps_updated>
+    <steps_updated num="2">Drop shredded potatoes into a large bowl of ice water to remove surface starch. </steps_updated>
+    <steps_updated num="3">Strain or squeeze potato shreds and transfer to a large bowl. </steps_updated>
+    <steps_updated num="4">Add butter, cheese, eggs, chives, garlic salt, oregano, and pepper in with the shredded potatoes. </steps_updated>
+    <steps_updated num="5">Mix together. </steps_updated>
+    <steps_updated num="6">Take a handful of the mixture and pack it on a baking sheet into desired hash brown shape. </steps_updated>
+    <steps_updated num="7">Bake for 40-45 minutes or until brown and crispy. </steps_updated>
+    <steps_updated num="8">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="9">Serve warm. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

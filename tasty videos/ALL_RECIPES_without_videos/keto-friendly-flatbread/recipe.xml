@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Keto-Friendly Flatbread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/keto-friendly-flatbread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; cream cheese </ingredient>
+    <ingredient num="2">1 ; large egg, beaten </ingredient>
+    <ingredient num="3">¼ cup ; almond flour ; (30 g) </ingredient>
+    <ingredient num="4">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="6">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="7">1 teaspoon ; fresh rosemary, minced </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Snacks</category>
+    <category num="4">Game Day</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96024/hls24_1527274041.m3u8</low>
+    <high>https://vid.tasty.co/output/96024/landscape_720/1527274041</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, combine the mozzarella and cream cheese. Microwave in 30-second intervals, stirring in between, until the cheese is fully melted and the consistency is smooth, about 1 minute total. </step>
+    <step num="1">Let the mixture cool for a few minutes to prevent the egg from scrambling, then add the egg, almond flour, garlic, oregano, thyme, rosemary, salt, and pepper, and stir until thoroughly combined. </step>
+    <step num="2">Preheat the oven to 350˚F (180˚C). Line a baking sheet with parchment paper or grease with nonstick spray.c </step>
+    <step num="3">Transfer the mixture to the baking sheet. Press and flatten firmly into an even layer about ¼-½-inch (½-1 ¼cm) thick. </step>
+    <step num="4">Bake for 10-15 minutes, until golden brown. </step>
+    <step num="5">Serve as desired: slice into chips, cut into breadsticks, or top with your favorite sauce and toppings to make a pizza. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, combine the mozzarella and cream cheese. </steps_updated>
+    <steps_updated num="1">Microwave in 30-second intervals, stirring in between, until the cheese is fully melted and the consistency is smooth, about 1 minute total. </steps_updated>
+    <steps_updated num="2">Let the mixture cool for a few minutes to prevent the egg from scrambling, then add the egg, almond flour, garlic, oregano, thyme, rosemary, salt, and pepper, and stir until thoroughly combined. </steps_updated>
+    <steps_updated num="3">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="4">Line a baking sheet with parchment paper or grease with nonstick spray.c </steps_updated>
+    <steps_updated num="5">Transfer the mixture to the baking sheet. </steps_updated>
+    <steps_updated num="6">Press and flatten firmly into an even layer about ¼-½-inch (½-1 ¼cm) thick. </steps_updated>
+    <steps_updated num="7">Bake for 10-15 minutes, until golden brown. </steps_updated>
+    <steps_updated num="8">Serve as desired: slice into chips, cut into breadsticks, or top with your favorite sauce and toppings to make a pizza. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<recipe>
+  <title>Zucchini Wedges Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-wedges</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-wedges-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 2597 7066 </ingredient>
+    <ingredient num="1">8580 13278 14463 9917 </ingredient>
+    <ingredient num="2">8580 9517 13278 11239 1371 13278 2583 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Sides</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28129/low_1490984630.m3u8</low>
+    <high>https://vid.tasty.co/output/28129/mp4_720x1280/1490984630</high>
+  </video>
+  <duration>
+    <start_time>29.0</start_time>
+    <end_time>61.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">3235 11951 672 3482 371 10763 6753 415 12205 3755 210 2532 13817 669 14160 </step>
+    <step num="2">10950 5994 14511 10968 11701 8083 7845 8635 13817 12051 </step>
+    <step num="3">2668 10763 5157 669 6216 2207 415 1371 10665 </step>
+    <step num="4">5570 4255 5994 10765 11020 930 11801 7584 </step>
+    <step num="5">7831 666 12689 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">3235 11951 672 3482 371 10763 6753 415 12205 3755 210 2532 13817 669 14160 </steps_updated>
+    <steps_updated num="2">10950 5994 14511 10968 11701 8083 7845 8635 13817 12051 </steps_updated>
+    <steps_updated num="3">2668 10763 5157 669 6216 2207 415 1371 10665 </steps_updated>
+    <steps_updated num="4">5570 4255 5994 10765 11020 930 11801 7584 </steps_updated>
+    <steps_updated num="5">7831 666 12689 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00932</start_time>
+    <end_time>01856</end_time>
+  </duration_human>
+</recipe>

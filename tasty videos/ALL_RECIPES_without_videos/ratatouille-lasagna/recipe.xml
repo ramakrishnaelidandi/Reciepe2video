@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ratatouille Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ratatouille-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="1">1 ; yellow onion, diced </ingredient>
+    <ingredient num="2">3 ; bell peppers, seeded and chopped </ingredient>
+    <ingredient num="3">6 cloves ; garlic, minced, divided </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">1 lb ; eggplant, cut into ½-inch (1 cm) cubes ; (455 g) </ingredient>
+    <ingredient num="7">2 ; yellow squashes, cut into ½-inch (1 cm) cubes </ingredient>
+    <ingredient num="8">2 ; medium zucchinis, cut into ½-inch (1 cm) cubes </ingredient>
+    <ingredient num="9">12 oz ; tomato paste ; (340 g) </ingredient>
+    <ingredient num="10">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="11">2 tablespoons ; fresh thyme </ingredient>
+    <ingredient num="12">28 oz ; diced tomato ; (795 g) </ingredient>
+    <ingredient num="13">30 oz ; ricotta cheese ; (850 g) </ingredient>
+    <ingredient num="14">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="15">¼ cup ; fresh basil, chopped ; (10 g) </ingredient>
+    <ingredient num="16">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+    <ingredient num="17">1 ; egg </ingredient>
+    <ingredient num="18">2 ; japanese eggplants, thinly sliced </ingredient>
+    <ingredient num="19">2 ; zucchinis, thinly sliced </ingredient>
+    <ingredient num="20">2 ; yellow squashes, thinly sliced </ingredient>
+    <ingredient num="21">6 ; roma tomatoes, thinly sliced </ingredient>
+    <ingredient num="22">lasagna noodle, cooked </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Italian</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/64658/hls24_1511975824.m3u8</low>
+    <high>https://vid.tasty.co/output/64658/landscape_720/1511975824</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Add 2 tablespoons of olive oil to a skillet on medium-high heat. Once warmed, add the onion, bell peppers, 4 minced garlic cloves, salt, and pepper. Cook, stirring occasionally, until golden brown and caramelized. </step>
+    <step num="2">Add the eggplant, yellow squash, zucchini, tomato paste, dried oregano, and 1 tablespoon of thyme, and more salt and pepper. Cook until the vegetables are soft and the tomato paste deepens in color and starts to stick to the bottom. </step>
+    <step num="3">Add the diced tomatoes and bring the mixture to a simmer. Cook on low for at least 30 minutes. Set aside to prepare the rest of the lasagna layers. </step>
+    <step num="4">In a large bowl, mix together the ricotta, mozzarella, basil, parsley, salt, pepper and egg. Set aside. </step>
+    <step num="5">To a bowl, add the sliced Japanese eggplant, yellow squash, zucchini, Roma tomatoes, garlic, 1 tablespoon thyme, salt, pepper, and 2 tablespoons olive oil, and gently toss to combine. </step>
+    <step num="6">In a 9x13-inch (23x33 cm) glass baking pan, add a layer of the ratatouille to the bottom. Top with lasagna noodles, and spread a layer of the ricotta mixture, then shingle alternating slices of the marinated vegetables. Repeat with another layer of ratatouille, noodles, ricotta, and on the top shingle the vegetables. </step>
+    <step num="7">Bake for 30 minutes, or until the cheese and sauce are bubbling slightly and the sliced vegetables on top have browned to your liking. </step>
+    <step num="8">Slice and serve. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Add 2 tablespoons of olive oil to a skillet on medium-high heat. </steps_updated>
+    <steps_updated num="2">Once warmed, add the onion, bell peppers, 4 minced garlic cloves, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Cook, stirring occasionally, until golden brown and caramelized. </steps_updated>
+    <steps_updated num="4">Add the eggplant, yellow squash, zucchini, tomato paste, dried oregano, and 1 tablespoon of thyme, and more salt and pepper. </steps_updated>
+    <steps_updated num="5">Cook until the vegetables are soft and the tomato paste deepens in color and starts to stick to the bottom. </steps_updated>
+    <steps_updated num="6">Add the diced tomatoes and bring the mixture to a simmer. </steps_updated>
+    <steps_updated num="7">Cook on low for at least 30 minutes. </steps_updated>
+    <steps_updated num="8">Set aside to prepare the rest of the lasagna layers. </steps_updated>
+    <steps_updated num="9">In a large bowl, mix together the ricotta, mozzarella, basil, parsley, salt, pepper and egg. </steps_updated>
+    <steps_updated num="10">Set aside. </steps_updated>
+    <steps_updated num="11">To a bowl, add the sliced Japanese eggplant, yellow squash, zucchini, Roma tomatoes, garlic, 1 tablespoon thyme, salt, pepper, and 2 tablespoons olive oil, and gently toss to combine. </steps_updated>
+    <steps_updated num="12">In a 9x13-inch (23x33 cm) glass baking pan, add a layer of the ratatouille to the bottom. </steps_updated>
+    <steps_updated num="13">Top with lasagna noodles, and spread a layer of the ricotta mixture, then shingle alternating slices of the marinated vegetables. </steps_updated>
+    <steps_updated num="14">Repeat with another layer of ratatouille, noodles, ricotta, and on the top shingle the vegetables. </steps_updated>
+    <steps_updated num="15">Bake for 30 minutes, or until the cheese and sauce are bubbling slightly and the sliced vegetables on top have browned to your liking. </steps_updated>
+    <steps_updated num="16">Slice and serve. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

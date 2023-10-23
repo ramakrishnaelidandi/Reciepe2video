@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Make-Ahead Breakfast Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/make-ahead-breakfast-quesadilla</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-breakfast-ideas-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; sausage links </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">1 ; flour tortilla, burrito-sized </ingredient>
+    <ingredient num="3">shredded cheddar cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26151/low_1489102618.m3u8</low>
+    <high>https://vid.tasty.co/output/26151/mp4_720x1280/1489102618</high>
+  </video>
+  <duration>
+    <start_time>54.0</start_time>
+    <end_time>85.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a skillet thoroughly cook the sausage and eggs. </step>
+    <step num="1">Place mixture in the center of a flour tortilla. Top with cheese, and fold the edges inward to form a sealed pocket. </step>
+    <step num="2">Heat on a skillet, seam-side down. Flip and cook until golden brown. </step>
+    <step num="3">Enjoy! Or, freeze up to 1 month. </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a skillet thoroughly cook the sausage and eggs. </steps_updated>
+    <steps_updated num="1">Place mixture in the center of a flour tortilla. </steps_updated>
+    <steps_updated num="2">Top with cheese, and fold the edges inward to form a sealed pocket. </steps_updated>
+    <steps_updated num="3">Heat on a skillet, seam-side down. </steps_updated>
+    <steps_updated num="4">Flip and cook until golden brown. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+    <steps_updated num="6">Or, freeze up to 1 month. </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01671</start_time>
+    <end_time>02576</end_time>
+  </duration_human>
+</recipe>

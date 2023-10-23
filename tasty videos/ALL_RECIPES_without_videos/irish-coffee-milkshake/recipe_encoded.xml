@@ -1,0 +1,45 @@
+<recipe>
+  <title>Irish Coffee Milkshake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/irish-coffee-milkshake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spiked-milkshake-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 7988 3984 </ingredient>
+    <ingredient num="1">8580 13695 643 13278 12706 13278 13125 8007 </ingredient>
+    <ingredient num="2">8580 9517 13278 7988 2439 13033 13278 10460 5981 </ingredient>
+    <ingredient num="3">279 1123 7990 3297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Drinks</category>
+    <category num="4">Date Night</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44793/low_1500943653.m3u8</low>
+    <high>https://vid.tasty.co/output/44793/mp4_720x1280/1500943653</high>
+  </video>
+  <duration>
+    <start_time>35.85</start_time>
+    <end_time>53.37</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 11951 7988 13829 104 13817 7988 2439 13033 210 5994 12095 3262 1681 12119 </step>
+    <step num="1">13494 1391 279 13033 13817 5994 13540 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 11951 7988 13829 104 13817 7988 2439 13033 210 5994 12095 </steps_updated>
+    <steps_updated num="1">3262 1681 12119 </steps_updated>
+    <steps_updated num="2">13494 1391 279 13033 13817 5994 13540 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01123</start_time>
+    <end_time>01632</end_time>
+  </duration_human>
+</recipe>

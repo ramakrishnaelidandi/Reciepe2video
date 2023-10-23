@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pineapple Orange Mango Smoothie Meal Prep Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pineapple-orange-mango-smoothie-meal-prep</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-smoothie-meal-prep-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; pineapple, cubed ; (245 g) </ingredient>
+    <ingredient num="1">1 ; orange, sliced </ingredient>
+    <ingredient num="2">1 ; mango, cubed </ingredient>
+    <ingredient num="3">1 ½ cups ; milk, of choice ; (360 mL) </ingredient>
+    <ingredient num="4">1 cup ; plain greek yogurt ; (245 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21229/low_1484865382.m3u8</low>
+    <high>https://vid.tasty.co/output/21229/mp4_720x1280/1484865382</high>
+  </video>
+  <duration>
+    <start_time>67.289</start_time>
+    <end_time>79.83</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put fruit in a freezer bag. Seal and store in freezer for up to 3 months. </step>
+    <step num="1">When ready to use, put milk, Greek yogurt, and frozen fruit into a blender and mix until consistency is smooth. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put fruit in a freezer bag. </steps_updated>
+    <steps_updated num="1">Seal and store in freezer for up to 3 months. </steps_updated>
+    <steps_updated num="2">When ready to use, put milk, Greek yogurt, and frozen fruit into a blender and mix until consistency is smooth. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02081</start_time>
+    <end_time>02414</end_time>
+  </duration_human>
+</recipe>

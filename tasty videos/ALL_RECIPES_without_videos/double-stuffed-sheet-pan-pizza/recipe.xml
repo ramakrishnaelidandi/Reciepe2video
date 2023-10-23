@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Double-stuffed Sheet-Pan Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/double-stuffed-sheet-pan-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; warm water ; (240 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; sugar </ingredient>
+    <ingredient num="2">1 package ; active dry yeast </ingredient>
+    <ingredient num="3">3 cups ; flour ; (375 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt, optional </ingredient>
+    <ingredient num="5">3 cups ; shredded mozzarella cheese ; (300 g) </ingredient>
+    <ingredient num="6">olive oil, to taste </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">string cheese </ingredient>
+    <ingredient num="10">tomato sauce </ingredient>
+    <ingredient num="11">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/63600/low_1511307101.m3u8</low>
+    <high>https://vid.tasty.co/output/63600/mp4_720x1280/1511307101</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450˚F (230˚C). </step>
+    <step num="1">To a bowl or stand mixer, add the warm water, sugar, and yeast. Let the yeast proof for 5-15 minutes in a warm place until it is bubbling. </step>
+    <step num="2">Add in the flour and salt. Mix in the bowl until well combined and the dough comes together into a ball. </step>
+    <step num="3">Dump the dough onto a floured surface and knead briefly to smooth out the dough and develop gluten. Form the dough into a ball and place into a new, large greased bowl. Cover with a towel and let rise for one hour or until doubled in size. </step>
+    <step num="4">Remove the dough from the bowl, and cut 2-three ounce (85g) portions of the dough. Roll each portion out to a size slightly larger than a 9x13-inch (23x33 cm) baking sheet. </step>
+    <step num="5">Place the first rolled dough rectangle onto the greased baking sheet. Sprinkle a thick layer of mozzarella cheese onto the dough, then place the second sheet of dough on top to cover the cheese. </step>
+    <step num="6">Place string cheese into the edges of the dough, and fold the edges over the cheese, crimping the edges. </step>
+    <step num="7">Brush the dough with olive oil, salt, and pepper to taste. </step>
+    <step num="8">Bake for 20 minutes or until the crust is golden brown and the cheese is melted inside. </step>
+    <step num="9">Quickly top the stuffed bottom crust with sauce and any extra toppings or cheese you would like. </step>
+    <step num="10">Bake until the toppings are heated through, and the cheese has started to brown 10-15 minutes. </step>
+    <step num="11">Transfer the pizza to a cutting board, slice, and serve. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">To a bowl or stand mixer, add the warm water, sugar, and yeast. </steps_updated>
+    <steps_updated num="2">Let the yeast proof for 5-15 minutes in a warm place until it is bubbling. </steps_updated>
+    <steps_updated num="3">Add in the flour and salt. </steps_updated>
+    <steps_updated num="4">Mix in the bowl until well combined and the dough comes together into a ball. </steps_updated>
+    <steps_updated num="5">Dump the dough onto a floured surface and knead briefly to smooth out the dough and develop gluten. </steps_updated>
+    <steps_updated num="6">Form the dough into a ball and place into a new, large greased bowl. </steps_updated>
+    <steps_updated num="7">Cover with a towel and let rise for one hour or until doubled in size. </steps_updated>
+    <steps_updated num="8">Remove the dough from the bowl, and cut 2-three ounce (85g) portions of the dough. </steps_updated>
+    <steps_updated num="9">Roll each portion out to a size slightly larger than a 9x13-inch (23x33 cm) baking sheet. </steps_updated>
+    <steps_updated num="10">Place the first rolled dough rectangle onto the greased baking sheet. </steps_updated>
+    <steps_updated num="11">Sprinkle a thick layer of mozzarella cheese onto the dough, then place the second sheet of dough on top to cover the cheese. </steps_updated>
+    <steps_updated num="12">Place string cheese into the edges of the dough, and fold the edges over the cheese, crimping the edges. </steps_updated>
+    <steps_updated num="13">Brush the dough with olive oil, salt, and pepper to taste. </steps_updated>
+    <steps_updated num="14">Bake for 20 minutes or until the crust is golden brown and the cheese is melted inside. </steps_updated>
+    <steps_updated num="15">Quickly top the stuffed bottom crust with sauce and any extra toppings or cheese you would like. </steps_updated>
+    <steps_updated num="16">Bake until the toppings are heated through, and the cheese has started to brown 10-15 minutes. </steps_updated>
+    <steps_updated num="17">Transfer the pizza to a cutting board, slice, and serve. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

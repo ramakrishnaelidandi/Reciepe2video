@@ -1,0 +1,41 @@
+<recipe>
+  <title>Buffalo Chicken Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-chicken-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 715 13278 3745 7983 13278 7696 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 6222 2260 13278 12751 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 13076 11708 13278 811 5981 </ingredient>
+    <ingredient num="3">11852 643 13278 11237 11318 13278 12932 5981 </ingredient>
+    <ingredient num="4">8580 9517 13278 900 8572 14538 13278 6952 5981 </ingredient>
+    <ingredient num="5">1580 13278 9491 341 </ingredient>
+    <ingredient num="6">1580 2605 13278 4985 7272 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11197 </step>
+    <step num="1">10950 5994 14511 10968 11951 7983 1391 11951 6222 2260 13817 11951 2962 </step>
+    <step num="2">10950 5994 2597 5687 5895 6326 7454 573 2532 371 11951 11237 10803 6960 5569 2532 371 11951 8167 12816 14419 7690 9491 13817 4985 914 5362 1391 11951 374 2532 371 11951 295 </step>
+    <step num="3">7831 7990 13133 11004 1681 14538 9490 1311 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11197 </steps_updated>
+    <steps_updated num="1">10950 5994 14511 10968 11951 7983 1391 11951 6222 2260 13817 11951 2962 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 5687 5895 6326 7454 573 2532 371 11951 11237 10803 6960 5569 2532 371 11951 8167 12816 14419 7690 9491 13817 4985 914 </steps_updated>
+    <steps_updated num="3">5362 1391 11951 374 2532 371 11951 295 </steps_updated>
+    <steps_updated num="4">7831 7990 13133 11004 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

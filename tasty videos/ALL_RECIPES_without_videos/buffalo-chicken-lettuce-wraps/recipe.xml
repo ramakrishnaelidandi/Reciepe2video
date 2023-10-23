@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buffalo Chicken Lettuce Wraps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-chicken-lettuce-wraps</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-no-cook-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; rotisserie chicken, shredded ; (250 g) </ingredient>
+    <ingredient num="1">1 cup ; buffalo sauce ; (290 g) </ingredient>
+    <ingredient num="2">½ cup ; celery, diced ; (110 g) </ingredient>
+    <ingredient num="3">¼ cup ; red onion, diced ; (35 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">2 leaves ; green leaf lettuce </ingredient>
+    <ingredient num="7">blue cheese, crumbled, for garnish, optional </ingredient>
+    <ingredient num="8">green onion, sliced, for garnish, optional </ingredient>
+    <ingredient num="9">¼ cup ; greek yogurt ; (60 g) </ingredient>
+    <ingredient num="10">½ teaspoon ; dried parsley </ingredient>
+    <ingredient num="11">⅛ teaspoon ; garlic powder </ingredient>
+    <ingredient num="12">½ teaspoon ; dried dill </ingredient>
+    <ingredient num="13">⅛ teaspoon ; onion powder </ingredient>
+    <ingredient num="14">salt, to taste </ingredient>
+    <ingredient num="15">pepper, to taste </ingredient>
+    <ingredient num="16">½ teaspoon ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100410/hls24_1530231269.m3u8</low>
+    <high>https://vid.tasty.co/output/100410/landscape_720/1530231269</high>
+  </video>
+  <duration>
+    <start_time>67.833</start_time>
+    <end_time>122.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, add the chicken and buffalo sauce. Stir to combine. </step>
+    <step num="1">Add the celery, red onion, salt, and pepper. Stir to combine and set aside. </step>
+    <step num="2">Make the Greek yogurt ranch dressing: in a small bowl, add the Greek yogurt, dried parsley, garlic powder, dried dill, onion powder, salt, pepper, and lemon juice. Stir to combine. </step>
+    <step num="3">Lay each lettuce leaf flat on a plate and scoop the chicken mixture into the middle. Top with a spoonful of Greek yogurt ranch dressing. Garnish with blue cheese crumbles and sliced green onion, if desired. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, add the chicken and buffalo sauce. </steps_updated>
+    <steps_updated num="1">Stir to combine. </steps_updated>
+    <steps_updated num="2">Add the celery, red onion, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Stir to combine and set aside. </steps_updated>
+    <steps_updated num="4">Make the Greek yogurt ranch dressing: in a small bowl, add the Greek yogurt, dried parsley, garlic powder, dried dill, onion powder, salt, pepper, and lemon juice. </steps_updated>
+    <steps_updated num="5">Stir to combine. </steps_updated>
+    <steps_updated num="6">Lay each lettuce leaf flat on a plate and scoop the chicken mixture into the middle. </steps_updated>
+    <steps_updated num="7">Top with a spoonful of Greek yogurt ranch dressing. </steps_updated>
+    <steps_updated num="8">Garnish with blue cheese crumbles and sliced green onion, if desired. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

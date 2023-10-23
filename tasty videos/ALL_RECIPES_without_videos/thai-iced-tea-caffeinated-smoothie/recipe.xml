@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thai Iced Tea Caffeinated Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-iced-tea-caffeinated-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/caffeinated-smoothies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; thai tea, brewed, cooled ; (360 mL) </ingredient>
+    <ingredient num="1">½ cup ; whole milk ; (120 mL) </ingredient>
+    <ingredient num="2">¼ cup ; sweetened condensed milk ; (75 g) </ingredient>
+    <ingredient num="3">whipped cream, for topping </ingredient>
+    <ingredient num="4">2 ; whole star anises, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111189/hls24_1538602058.m3u8</low>
+    <high>https://vid.tasty.co/output/111189/landscape_720/1538602058</high>
+  </video>
+  <duration>
+    <start_time>63.0</start_time>
+    <end_time>86.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour the Thai tea into an ice cube tray. Freeze for at least 4 hours, or overnight. </step>
+    <step num="1">Add the Thai tea ice cubes, milk, and sweetened condensed milk to a blender and blend until smooth. </step>
+    <step num="2">Pour into glasses and top with whipped cream. Garnish with star anise. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the Thai tea into an ice cube tray. </steps_updated>
+    <steps_updated num="1">Freeze for at least 4 hours, or overnight. </steps_updated>
+    <steps_updated num="2">Add the Thai tea ice cubes, milk, and sweetened condensed milk to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="3">Pour into glasses and top with whipped cream. </steps_updated>
+    <steps_updated num="4">Garnish with star anise. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

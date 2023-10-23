@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Parm Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parm-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; chicken tender ; (455 g) </ingredient>
+    <ingredient num="1">1 ball ; mozzarella cheese </ingredient>
+    <ingredient num="2">2 cups ; panko breadcrumbs ; (100 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 tablespoon ; dried basil </ingredient>
+    <ingredient num="5">1 tablespoon ; dried parsley </ingredient>
+    <ingredient num="6">1 tablespoon ; salt </ingredient>
+    <ingredient num="7">½ cup ; flour ; (65 g) </ingredient>
+    <ingredient num="8">2 ; eggs </ingredient>
+    <ingredient num="9">oil, to fry </ingredient>
+    <ingredient num="10">1 cup ; marinara sauce ; (255 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28010/low_1490902406.m3u8</low>
+    <high>https://vid.tasty.co/output/28010/mp4_720x1280/1490902406</high>
+  </video>
+  <steps>
+    <step num="0">Cut the chicken tenders into 1.5-inch (4-cm) pieces. </step>
+    <step num="1">Take a knife and carefully cut a hole into the chicken tenders. Make sure to not cut all the way to the other side. </step>
+    <step num="2">Stuff the holes with mozzarella cheese. </step>
+    <step num="3">Add garlic powder, dried basil, dried parsley, and salt to the panko bread crumbs. </step>
+    <step num="4">Batter the chicken in flour, egg, then panko bread crumb mixture. </step>
+    <step num="5">Add around 1-inch (2-cm) of oil to a pan and heat until around 350˚F (175˚C). </step>
+    <step num="6">Fry the chicken on both sides until fully cooked and golden brown. </step>
+    <step num="7">Serve with marinara sauce and garnish with more parmesan cheese. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the chicken tenders into 1.5-inch (4-cm) pieces. </steps_updated>
+    <steps_updated num="1">Take a knife and carefully cut a hole into the chicken tenders. </steps_updated>
+    <steps_updated num="2">Make sure to not cut all the way to the other side. </steps_updated>
+    <steps_updated num="3">Stuff the holes with mozzarella cheese. </steps_updated>
+    <steps_updated num="4">Add garlic powder, dried basil, dried parsley, and salt to the panko bread crumbs. </steps_updated>
+    <steps_updated num="5">Batter the chicken in flour, egg, then panko bread crumb mixture. </steps_updated>
+    <steps_updated num="6">Add around 1-inch (2-cm) of oil to a pan and heat until around 350˚F (175˚C). </steps_updated>
+    <steps_updated num="7">Fry the chicken on both sides until fully cooked and golden brown. </steps_updated>
+    <steps_updated num="8">Serve with marinara sauce and garnish with more parmesan cheese. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

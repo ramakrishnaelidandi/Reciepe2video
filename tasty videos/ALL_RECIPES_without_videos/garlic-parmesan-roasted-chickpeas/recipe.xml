@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Parmesan Roasted Chickpeas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-parmesan-roasted-chickpeas</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/roasted-chickpeas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; chickpeas, 1 can, drained and rinsed ; (400 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 teaspoon ; italian herb </ingredient>
+    <ingredient num="4">2 tablespoons ; grated parmesan cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Snacks</category>
+    <category num="2">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32974/low_1495830499.m3u8</low>
+    <high>https://vid.tasty.co/output/32974/mp4_720x1280/1495830499</high>
+  </video>
+  <duration>
+    <start_time>0.4830000000000001</start_time>
+    <end_time>37.81</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Carefully dry the chickpeas. Removing the skins is optional and they will come off easily. The drier you get them, the crunchier they’ll be! </step>
+    <step num="2">In a medium bowl, add dried chickpeas, olive oil, garlic powder, herbs and parmesan. Toss well to coat evenly. </step>
+    <step num="3">Spread chickpeas out on a parchment paper-lined baking sheet. </step>
+    <step num="4">Roast for 15-20 minutes. </step>
+    <step num="5">Mix around on baking sheet and roast for additional 15-20 minutes, or until golden. </step>
+    <step num="6">Cool for 5-10 minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Carefully dry the chickpeas. </steps_updated>
+    <steps_updated num="2">Removing the skins is optional and they will come off easily. </steps_updated>
+    <steps_updated num="3">The drier you get them, the crunchier they’ll be! </steps_updated>
+    <steps_updated num="4">In a medium bowl, add dried chickpeas, olive oil, garlic powder, herbs and parmesan. </steps_updated>
+    <steps_updated num="5">Toss well to coat evenly. </steps_updated>
+    <steps_updated num="6">Spread chickpeas out on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="7">Roast for 15-20 minutes. </steps_updated>
+    <steps_updated num="8">Mix around on baking sheet and roast for additional 15-20 minutes, or until golden. </steps_updated>
+    <steps_updated num="9">Cool for 5-10 minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01145</end_time>
+  </duration_human>
+</recipe>

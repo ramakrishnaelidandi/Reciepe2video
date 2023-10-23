@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Oatmeal Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-oatmeal-muffins</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; bananas </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">⅓ cup ; maple syrup ; (70 g) </ingredient>
+    <ingredient num="3">¼ teaspoon ; salt </ingredient>
+    <ingredient num="4">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="5">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="6">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="7">1 cup ; greek yogurt ; (285 g) </ingredient>
+    <ingredient num="8">3 cups ; oats ; (300 g) </ingredient>
+    <ingredient num="9">1 cup ; whole milk ; (235 mL) </ingredient>
+    <ingredient num="10">topping of your choice, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13789/low_1478208340.m3u8</low>
+    <high>https://vid.tasty.co/output/13789/mp4_720x1280/1478208340</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">In a medium bowl, mash bananas. Mix eggs, maple syrup, salt, baking powder, vanilla extract, cinnamon, and Greek yogurt into mixture. </step>
+    <step num="2">Add oats and milk, and mix. Let the mixture sit for a few minutes, so the oats soak up the liquid and the consistency is like oatmeal. </step>
+    <step num="3">Line muffin tins with muffin liners. Pour the mixture into each muffin cup about ¾ full. Add your preferred toppings and gently push your toppings into each muffin cup. </step>
+    <step num="4">Bake for 30 minutes. </step>
+    <step num="5">Let cool for 5 minutes before eating. Once cool, you can also store in an airtight container or freeze in a storage bag. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a medium bowl, mash bananas. </steps_updated>
+    <steps_updated num="2">Mix eggs, maple syrup, salt, baking powder, vanilla extract, cinnamon, and Greek yogurt into mixture. </steps_updated>
+    <steps_updated num="3">Add oats and milk, and mix. </steps_updated>
+    <steps_updated num="4">Let the mixture sit for a few minutes, so the oats soak up the liquid and the consistency is like oatmeal. </steps_updated>
+    <steps_updated num="5">Line muffin tins with muffin liners. </steps_updated>
+    <steps_updated num="6">Pour the mixture into each muffin cup about ¾ full. </steps_updated>
+    <steps_updated num="7">Add your preferred toppings and gently push your toppings into each muffin cup. </steps_updated>
+    <steps_updated num="8">Bake for 30 minutes. </steps_updated>
+    <steps_updated num="9">Let cool for 5 minutes before eating. </steps_updated>
+    <steps_updated num="10">Once cool, you can also store in an airtight container or freeze in a storage bag. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Jucy Lucy From Minneapolis Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jucy-lucy-from-minneapolis</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">hamburger bun </ingredient>
+    <ingredient num="1">2 ; ground beef patties, 1/4 pound (110 grams) </ingredient>
+    <ingredient num="2">2 slices ; american cheese </ingredient>
+    <ingredient num="3">⅓ cup ; onion, grilled, diced ; (50 g) </ingredient>
+    <ingredient num="4">sandwich pickle, optional </ingredient>
+    <ingredient num="5">butter, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>125.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Brush melted butter on the inside surfaces of the hamburger bun and place on a pan or griddle on low heat. </step>
+    <step num="1">While the bun is toasting, flatten each beef patty so that it’s about ¼ inch (6 mm) thick. </step>
+    <step num="2">Place the cheese in the middle of one of the patties, then cover it with the other patty. </step>
+    <step num="3">Push the patties together and pinch the edges, assuring there are no holes for the cheese to seep through. </step>
+    <step num="4">Place meat on a griddle or pan over medium high heat. Cook 5-10 minutes per side or until cheesy juices start spilling out. </step>
+    <step num="5">Add pickles to the bottom half of the bun, followed by the onions. Then top it off with the cooked burger and top bun. </step>
+    <step num="6">Get your chompers ready! But be careful - the cheese is super hot inside! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Brush melted butter on the inside surfaces of the hamburger bun and place on a pan or griddle on low heat. </steps_updated>
+    <steps_updated num="1">While the bun is toasting, flatten each beef patty so that it’s about ¼ inch (6 mm) thick. </steps_updated>
+    <steps_updated num="2">Place the cheese in the middle of one of the patties, then cover it with the other patty. </steps_updated>
+    <steps_updated num="3">Push the patties together and pinch the edges, assuring there are no holes for the cheese to seep through. </steps_updated>
+    <steps_updated num="4">Place meat on a griddle or pan over medium high heat. </steps_updated>
+    <steps_updated num="5">Cook 5-10 minutes per side or until cheesy juices start spilling out. </steps_updated>
+    <steps_updated num="6">Add pickles to the bottom half of the bun, followed by the onions. </steps_updated>
+    <steps_updated num="7">Then top it off with the cooked burger and top bun. </steps_updated>
+    <steps_updated num="8">Get your chompers ready! </steps_updated>
+    <steps_updated num="9">But be careful - the cheese is super hot inside! </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02420</start_time>
+    <end_time>03769</end_time>
+  </duration_human>
+</recipe>

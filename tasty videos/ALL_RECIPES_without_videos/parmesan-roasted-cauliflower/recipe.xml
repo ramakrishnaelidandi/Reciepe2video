@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Parmesan Roasted Cauliflower Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/parmesan-roasted-cauliflower</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">7 cups ; cauliflower florets ; (2 kg) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">1 cup ; italian breadcrumb ; (115 g) </ingredient>
+    <ingredient num="3">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/53923/low_1506549248.m3u8</low>
+    <high>https://vid.tasty.co/output/53923/mp4_720x1280/1506549248</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425˚F (220˚F). </step>
+    <step num="1">In a bowl or ziploc bag, add the cauliflower florets and olive oil and stir until fully combined. </step>
+    <step num="2">Add the garlic powder, salt, breadcrumbs, and Parmesan. Stir until fully coated. </step>
+    <step num="3">Spread the cauliflower on a greased, foil-lined baking sheet. </step>
+    <step num="4">Bake for 20 minutes. Stir the cauliflower and bake for an additional 10. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (220˚F). </steps_updated>
+    <steps_updated num="1">In a bowl or ziploc bag, add the cauliflower florets and olive oil and stir until fully combined. </steps_updated>
+    <steps_updated num="2">Add the garlic powder, salt, breadcrumbs, and Parmesan. </steps_updated>
+    <steps_updated num="3">Stir until fully coated. </steps_updated>
+    <steps_updated num="4">Spread the cauliflower on a greased, foil-lined baking sheet. </steps_updated>
+    <steps_updated num="5">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="6">Stir the cauliflower and bake for an additional 10. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

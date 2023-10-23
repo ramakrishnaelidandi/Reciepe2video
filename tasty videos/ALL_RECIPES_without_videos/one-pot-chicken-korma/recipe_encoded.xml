@@ -1,0 +1,58 @@
+<recipe>
+  <title>One-Pot Chicken Korma Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-chicken-korma</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 7272 976 </ingredient>
+    <ingredient num="1">8580 13667 13278 11384 13667 </ingredient>
+    <ingredient num="2">8580 13278 7983 3967 976 </ingredient>
+    <ingredient num="3">8580 13278 7042 3962 </ingredient>
+    <ingredient num="4">8580 9486 13278 3600 30 </ingredient>
+    <ingredient num="5">3917 2605 13278 1300 7706 13278 6898 5981 </ingredient>
+    <ingredient num="6">3917 13278 7983 220 10224 </ingredient>
+    <ingredient num="7">8580 12791 9517 13278 12282 13278 9990 8007 </ingredient>
+    <ingredient num="8">1580 2605 13278 9765 13278 3433 5981 </ingredient>
+    <ingredient num="9">4846 2605 13278 5607 9656 13278 2264 5981 </ingredient>
+    <ingredient num="10">12791 2605 13278 13220 13278 2264 5981 </ingredient>
+    <ingredient num="11">2694 560 11567 </ingredient>
+    <ingredient num="12">975 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32089/low_1495125315.m3u8</low>
+    <high>https://vid.tasty.co/output/32089/mp4_720x1280/1495125315</high>
+  </video>
+  <steps>
+    <step num="0">8916 976 11453 13817 11384 210 5766 1681 2296 </step>
+    <step num="1">9179 976 7983 7678 13817 7256 1681 6728 4860 4339 </step>
+    <step num="2">9179 7042 7256 7990 5994 9673 12689 </step>
+    <step num="3">9179 3600 5444 6142 210 13817 2550 7990 238 773 </step>
+    <step num="4">9179 11951 7706 13817 2550 7990 238 3954 773 </step>
+    <step num="5">9179 220 723 2607 13817 3412 8891 12791 14435 2019 </step>
+    <step num="6">4660 1391 3615 13817 2550 7990 13133 12689 7249 12816 5358 5316 2933 8927 210 13817 740 3954 12282 5358 14532 </step>
+    <step num="7">2642 6142 210 5607 9656 13817 13220 1681 1320 </step>
+    <step num="8">12774 1391 3713 13817 9683 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8916 976 11453 13817 11384 210 5766 1681 2296 </steps_updated>
+    <steps_updated num="1">9179 976 7983 7678 13817 7256 1681 6728 4860 4339 </steps_updated>
+    <steps_updated num="2">9179 7042 7256 7990 5994 9673 12689 </steps_updated>
+    <steps_updated num="3">9179 3600 5444 6142 210 13817 2550 7990 238 773 </steps_updated>
+    <steps_updated num="4">9179 11951 7706 13817 2550 7990 238 3954 773 </steps_updated>
+    <steps_updated num="5">9179 220 723 2607 13817 3412 8891 12791 14435 2019 </steps_updated>
+    <steps_updated num="6">4660 1391 3615 13817 2550 7990 13133 12689 </steps_updated>
+    <steps_updated num="7">7249 12816 5358 5316 2933 8927 210 13817 740 3954 12282 5358 14532 </steps_updated>
+    <steps_updated num="8">2642 6142 210 5607 9656 13817 13220 1681 1320 </steps_updated>
+    <steps_updated num="9">12774 1391 3713 13817 9683 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

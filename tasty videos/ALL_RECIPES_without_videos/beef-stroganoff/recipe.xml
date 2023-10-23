@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef Stroganoff Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-stroganoff</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; beef sirloin, cut into 2 in cubes ; (910 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="3">½ cup ; flour, divided ; (60 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="5">2 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="6">1 ; large yellow onion, thinly sliced </ingredient>
+    <ingredient num="7">1 lb ; cremini mushroom, sliced ; (455 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; cognac </ingredient>
+    <ingredient num="9">2 cups ; beef broth ; (480 mL) </ingredient>
+    <ingredient num="10">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="11">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+    <ingredient num="12">egg noodle, buttered, rice or potatoes, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88766/hls24_1523385681.m3u8</low>
+    <high>https://vid.tasty.co/output/88766/landscape_720/1523385681</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, season the beef with salt and pepper and toss to coat. </step>
+    <step num="1">Add ¼ cup (30 g) of flour, and toss the beef cubes until they are fully coated. </step>
+    <step num="2">In a large pan over medium-high heat, heat the canola oil until it shimmers. Place about half of the beef cubes in the pan. Sear the beef on one side until it develops a deep brown crust, 3-5 minutes. Then flip and sear on the other side for 3-5 minutes. Then, stir the beef until evenly browned on all sides. Remove the beef from the pan. Repeat with the remaining meat. </step>
+    <step num="3">Melt the butter in the leftover meat drippings. </step>
+    <step num="4">Add the onion, season with salt and pepper, and cook until the onions are soft and slightly golden, about 5 minutes. </step>
+    <step num="5">Add the sliced mushrooms and cook until deeply browned and tender, about 10 minutes. </step>
+    <step num="6">Add the cognac and scrape the brown bits, releasing them from the bottom of the pan. Cook and stir until the cognac is fully incorporated, about 2 minutes. </step>
+    <step num="7">Sprinkle the remaining ¼ cup (30 g) flour into the pan and stir to coat the the caramelized veggies. </step>
+    <step num="8">Add the beef broth and stir it into the flour and vegetables. Bring the liquid to a boil, then reduce to low heat and simmer for 10 minutes. The sauce should be thick enough to coat the back of a spoon. </step>
+    <step num="9">Once the sauce is thickened, turn off the heat. Put two scoops of hot gravy into a bowl with the sour cream. Mix the two together to slightly warm, or temper, the sour cream. Then add the sour cream mixture to the rest of the gravy and stir it in until fully combined. </step>
+    <step num="10">Sprinkle the stroganoff with chopped parsley and serve with buttered egg noodles, rice, or potatoes. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, season the beef with salt and pepper and toss to coat. </steps_updated>
+    <steps_updated num="1">Add ¼ cup (30 g) of flour, and toss the beef cubes until they are fully coated. </steps_updated>
+    <steps_updated num="2">In a large pan over medium-high heat, heat the canola oil until it shimmers. </steps_updated>
+    <steps_updated num="3">Place about half of the beef cubes in the pan. </steps_updated>
+    <steps_updated num="4">Sear the beef on one side until it develops a deep brown crust, 3-5 minutes. </steps_updated>
+    <steps_updated num="5">Then flip and sear on the other side for 3-5 minutes. </steps_updated>
+    <steps_updated num="6">Then, stir the beef until evenly browned on all sides. </steps_updated>
+    <steps_updated num="7">Remove the beef from the pan. </steps_updated>
+    <steps_updated num="8">Repeat with the remaining meat. </steps_updated>
+    <steps_updated num="9">Melt the butter in the leftover meat drippings. </steps_updated>
+    <steps_updated num="10">Add the onion, season with salt and pepper, and cook until the onions are soft and slightly golden, about 5 minutes. </steps_updated>
+    <steps_updated num="11">Add the sliced mushrooms and cook until deeply browned and tender, about 10 minutes. </steps_updated>
+    <steps_updated num="12">Add the cognac and scrape the brown bits, releasing them from the bottom of the pan. </steps_updated>
+    <steps_updated num="13">Cook and stir until the cognac is fully incorporated, about 2 minutes. </steps_updated>
+    <steps_updated num="14">Sprinkle the remaining ¼ cup (30 g) flour into the pan and stir to coat the the caramelized veggies. </steps_updated>
+    <steps_updated num="15">Add the beef broth and stir it into the flour and vegetables. </steps_updated>
+    <steps_updated num="16">Bring the liquid to a boil, then reduce to low heat and simmer for 10 minutes. </steps_updated>
+    <steps_updated num="17">The sauce should be thick enough to coat the back of a spoon. </steps_updated>
+    <steps_updated num="18">Once the sauce is thickened, turn off the heat. </steps_updated>
+    <steps_updated num="19">Put two scoops of hot gravy into a bowl with the sour cream. </steps_updated>
+    <steps_updated num="20">Mix the two together to slightly warm, or temper, the sour cream. </steps_updated>
+    <steps_updated num="21">Then add the sour cream mixture to the rest of the gravy and stir it in until fully combined. </steps_updated>
+    <steps_updated num="22">Sprinkle the stroganoff with chopped parsley and serve with buttered egg noodles, rice, or potatoes. </steps_updated>
+    <steps_updated num="23">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

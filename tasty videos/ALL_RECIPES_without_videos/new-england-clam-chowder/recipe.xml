@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>New England Clam Chowder Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/new-england-clam-chowder</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 oz ; bacon, 4 slices, chopped ; (115 g) </ingredient>
+    <ingredient num="1">2 cups ; onion, diced ; (300 g) </ingredient>
+    <ingredient num="2">1 cup ; celery, diced ; (225 g) </ingredient>
+    <ingredient num="3">1 cup ; carrot, diced ; (125 g) </ingredient>
+    <ingredient num="4">⅓ cup ; all-purpose flour ; (40 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="7">4 cans ; minced clam, with juice </ingredient>
+    <ingredient num="8">1 ½ cups ; chicken stock ; (350 mL) </ingredient>
+    <ingredient num="9">2 ; potatoes, peeled and cubed </ingredient>
+    <ingredient num="10">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="11">1 ; bay leaf </ingredient>
+    <ingredient num="12">oyster cracker, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Seafood</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23530/low_1486661575.m3u8</low>
+    <high>https://vid.tasty.co/output/23530/mp4_720x1280/1486661575</high>
+  </video>
+  <steps>
+    <step num="0">Place a fine mesh strainer over a medium bowl and strain the 4 cans of minced clams, separating the meat from the juices. </step>
+    <step num="1">Using a 6-quart dutch oven or pot of similar size, fry bacon over medium-high heat until fat renders and the edges begin to crisp. </step>
+    <step num="2">Add onion and sauté until softened and translucent, about 3 to 5 minutes. </step>
+    <step num="3">Reduce heat to low and add carrots, celery and flour, stirring constantly for 3-5 minutes to avoid lumps. </step>
+    <step num="4">Add black pepper, thyme, reserved clam juices, chicken stock, diced potatoes, and bay leaf. Stir to incorporate, then cover and bring to a boil. </step>
+    <step num="5">Reduce heat to a simmer and let cook until potatoes are tender, about 15 to 20 minutes. </step>
+    <step num="6">Remove bay leaf and add cream. Allow chowder to simmer for an additional 10-20 minutes until soup has thickened to an appropriate consistency. </step>
+    <step num="7">Add in reserved clam meat and cook for an additional 2-4 minutes. </step>
+    <step num="8">Remove from heat and serve with oyster crackers </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a fine mesh strainer over a medium bowl and strain the 4 cans of minced clams, separating the meat from the juices. </steps_updated>
+    <steps_updated num="1">Using a 6-quart dutch oven or pot of similar size, fry bacon over medium-high heat until fat renders and the edges begin to crisp. </steps_updated>
+    <steps_updated num="2">Add onion and sauté until softened and translucent, about 3 to 5 minutes. </steps_updated>
+    <steps_updated num="3">Reduce heat to low and add carrots, celery and flour, stirring constantly for 3-5 minutes to avoid lumps. </steps_updated>
+    <steps_updated num="4">Add black pepper, thyme, reserved clam juices, chicken stock, diced potatoes, and bay leaf. </steps_updated>
+    <steps_updated num="5">Stir to incorporate, then cover and bring to a boil. </steps_updated>
+    <steps_updated num="6">Reduce heat to a simmer and let cook until potatoes are tender, about 15 to 20 minutes. </steps_updated>
+    <steps_updated num="7">Remove bay leaf and add cream. </steps_updated>
+    <steps_updated num="8">Allow chowder to simmer for an additional 10-20 minutes until soup has thickened to an appropriate consistency. </steps_updated>
+    <steps_updated num="9">Add in reserved clam meat and cook for an additional 2-4 minutes. </steps_updated>
+    <steps_updated num="10">Remove from heat and serve with oyster crackers </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

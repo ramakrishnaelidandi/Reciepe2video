@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Potato Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-potato-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; yukon gold potato, peeled ; (907 g) </ingredient>
+    <ingredient num="1">½ ; yellow onion </ingredient>
+    <ingredient num="2">3 ; eggs </ingredient>
+    <ingredient num="3">2 tablespoons ; garlic, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">½ cup ; cheddar cheese, grated ; (55 g) </ingredient>
+    <ingredient num="8">½ cup ; monterey jack cheese, grated ; (55 g) </ingredient>
+    <ingredient num="9">⅓ cup ; breadcrumb meal ; (30 g) </ingredient>
+    <ingredient num="10">¼ cup ; olive oil, for frying ; (78 mL) </ingredient>
+    <ingredient num="11">1 ; sour cream, to serve </ingredient>
+    <ingredient num="12">1 ; green onion, chopped, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67319/hls24_1513037829.m3u8</low>
+    <high>https://vid.tasty.co/output/67319/landscape_720/1513037829</high>
+  </video>
+  <steps>
+    <step num="0">Using a box grater, shred the potatoes into a towel in a bowl and squeeze out as much liquid as possible. </step>
+    <step num="1">Set aside and grate the onion. </step>
+    <step num="2">Add the grated potatoes and grated onion onion to a large bowl. Add in the eggs, garlic, cornstarch, salt, pepper, cheddar cheese, monterey jack, and breadcrumbs and mix until combined. </step>
+    <step num="3">Take ½ cup of the potato mixture and form into a thin patty, about ⅓-inch thick. </step>
+    <step num="4">Heat cooking oil over medium-high heat and place potato patty into the skillet. Cook for 3-5 minutes on each side, or until golden brown and crispy on the outside. Repeat with remaining patties. </step>
+    <step num="5">Serve with sour cream and green onions on top, and enjoy! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a box grater, shred the potatoes into a towel in a bowl and squeeze out as much liquid as possible. </steps_updated>
+    <steps_updated num="1">Set aside and grate the onion. </steps_updated>
+    <steps_updated num="2">Add the grated potatoes and grated onion onion to a large bowl. </steps_updated>
+    <steps_updated num="3">Add in the eggs, garlic, cornstarch, salt, pepper, cheddar cheese, monterey jack, and breadcrumbs and mix until combined. </steps_updated>
+    <steps_updated num="4">Take ½ cup of the potato mixture and form into a thin patty, about ⅓-inch thick. </steps_updated>
+    <steps_updated num="5">Heat cooking oil over medium-high heat and place potato patty into the skillet. </steps_updated>
+    <steps_updated num="6">Cook for 3-5 minutes on each side, or until golden brown and crispy on the outside. </steps_updated>
+    <steps_updated num="7">Repeat with remaining patties. </steps_updated>
+    <steps_updated num="8">Serve with sour cream and green onions on top, and enjoy! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

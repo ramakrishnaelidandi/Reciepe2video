@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pan Chicken And Veggies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-chicken-and-veggies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast, cut in half </ingredient>
+    <ingredient num="1">1 head ; broccoli </ingredient>
+    <ingredient num="2">3 ; carrots </ingredient>
+    <ingredient num="3">3 ; tomatoes </ingredient>
+    <ingredient num="4">8 ; potatoes </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">1 teaspoon ; garlic salt </ingredient>
+    <ingredient num="8">1 teaspoon ; onion salt </ingredient>
+    <ingredient num="9">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="10">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="11">1 teaspoon ; herbs de provence </ingredient>
+    <ingredient num="12">5 tablespoons ; olive oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19090/low_1482367262.m3u8</low>
+    <high>https://vid.tasty.co/output/19090/mp4_720x1280/1482367262</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400ºF (200ºC). </step>
+    <step num="1">Cut the broccoli, carrots, tomatoes, and potatoes in small pieces. </step>
+    <step num="2">For the seasoning, combine the salt, pepper, garlic salt, onion salt, rosemary, thyme, and Herbes de Provence. </step>
+    <step num="3">Put the olive oil in the vegetables and sprinkle the seasoning, stir to combine. </step>
+    <step num="4">Put the chicken breast cut in half with the vegetables. Add seasoning to chicken on both sides. </step>
+    <step num="5">Bake 35-40 minutes, or until the chicken is cooked through. </step>
+    <step num="6">Serve the chicken with some of the roasted vegetables. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">Cut the broccoli, carrots, tomatoes, and potatoes in small pieces. </steps_updated>
+    <steps_updated num="2">For the seasoning, combine the salt, pepper, garlic salt, onion salt, rosemary, thyme, and Herbes de Provence. </steps_updated>
+    <steps_updated num="3">Put the olive oil in the vegetables and sprinkle the seasoning, stir to combine. </steps_updated>
+    <steps_updated num="4">Put the chicken breast cut in half with the vegetables. </steps_updated>
+    <steps_updated num="5">Add seasoning to chicken on both sides. </steps_updated>
+    <steps_updated num="6">Bake 35-40 minutes, or until the chicken is cooked through. </steps_updated>
+    <steps_updated num="7">Serve the chicken with some of the roasted vegetables. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

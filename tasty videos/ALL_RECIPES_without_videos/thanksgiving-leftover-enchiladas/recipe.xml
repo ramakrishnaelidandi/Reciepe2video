@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thanksgiving Leftover “Enchiladas” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thanksgiving-leftover-enchiladas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">turkey, shredded </ingredient>
+    <ingredient num="1">tortilla </ingredient>
+    <ingredient num="2">mashed potato </ingredient>
+    <ingredient num="3">stuffing </ingredient>
+    <ingredient num="4">squash, cooked </ingredient>
+    <ingredient num="5">green beans, cooked </ingredient>
+    <ingredient num="6">corn, cooked </ingredient>
+    <ingredient num="7">cranberry sauce </ingredient>
+    <ingredient num="8">2 cups ; gravy ; (475 g) </ingredient>
+    <ingredient num="9">2 cups ; shredded monterey jack cheese ; (200 g) </ingredient>
+    <ingredient num="10">fresh parsley, chopped, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/63852/low_1511381393.m3u8</low>
+    <high>https://vid.tasty.co/output/63852/mp4_720x1280/1511381393</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Place one tortilla on a work surface. Place a small amount of each of your thanksgiving leftovers on the tortilla. </step>
+    <step num="2">Fold the ends in, rotate the tortilla and roll upward, making sure none of the ingredients are coming out of the tortilla. Place in a baking dish. Repeat with remaining tortillas. </step>
+    <step num="3">Once your baking dish is filled with “enchiladas” pour the gravy over the top. Sprinkle the monterey jack over the “enchiladas.” </step>
+    <step num="4">Bake for 30 minutes until golden and bubbling. </step>
+    <step num="5">Sprinkle parsley over the “enchiladas.” Serve immediately. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Place one tortilla on a work surface. </steps_updated>
+    <steps_updated num="2">Place a small amount of each of your thanksgiving leftovers on the tortilla. </steps_updated>
+    <steps_updated num="3">Fold the ends in, rotate the tortilla and roll upward, making sure none of the ingredients are coming out of the tortilla. </steps_updated>
+    <steps_updated num="4">Place in a baking dish. </steps_updated>
+    <steps_updated num="5">Repeat with remaining tortillas. </steps_updated>
+    <steps_updated num="6">Once your baking dish is filled with “enchiladas” pour the gravy over the top. </steps_updated>
+    <steps_updated num="7">Sprinkle the monterey jack over the “enchiladas.” </steps_updated>
+    <steps_updated num="8">Bake for 30 minutes until golden and bubbling. </steps_updated>
+    <steps_updated num="9">Sprinkle parsley over the “enchiladas.” Serve immediately. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

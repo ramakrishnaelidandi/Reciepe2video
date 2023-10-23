@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-waffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">14 oz ; pizza dough, 1 tube, or homemade pizza dough ; (395 g) </ingredient>
+    <ingredient num="1">4 tablespoons ; marinara sauce </ingredient>
+    <ingredient num="2">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="3">12 slices ; pepperoni </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51247/low_1504720315.m3u8</low>
+    <high>https://vid.tasty.co/output/51247/mp4_720x1280/1504720315</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>17.62</end_time>
+  </duration>
+  <steps>
+    <step num="0">Slice the pizza dough into 8 equal pieces, then press each piece flat. </step>
+    <step num="1">Place 4 pieces of dough into a preheated, greased waffle iron. </step>
+    <step num="2">Spread one tablespoon of marinara, ¼ cup (25 grams) of mozzarella, and 3 slices of pepperoni on each piece of dough. </step>
+    <step num="3">Top with the 4 remaining pieces of dough and seal. </step>
+    <step num="4">Cook for 3-5 minutes, until golden brown, then serve. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the pizza dough into 8 equal pieces, then press each piece flat. </steps_updated>
+    <steps_updated num="1">Place 4 pieces of dough into a preheated, greased waffle iron. </steps_updated>
+    <steps_updated num="2">Spread one tablespoon of marinara, ¼ cup (25 grams) of mozzarella, and 3 slices of pepperoni on each piece of dough. </steps_updated>
+    <steps_updated num="3">Top with the 4 remaining pieces of dough and seal. </steps_updated>
+    <steps_updated num="4">Cook for 3-5 minutes, until golden brown, then serve. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00547</end_time>
+  </duration_human>
+</recipe>

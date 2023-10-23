@@ -1,0 +1,67 @@
+<recipe>
+  <title>Creamy Lemon Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-lemon-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 8355 2144 7983 7678 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="4">3917 1580 9486 13278 9924 </ingredient>
+    <ingredient num="5">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="6">3917 12791 9517 13278 7983 220 13278 7862 8007 </ingredient>
+    <ingredient num="7">3917 2605 13278 8640 13033 13278 12462 8007 </ingredient>
+    <ingredient num="8">3917 8071 13278 82 </ingredient>
+    <ingredient num="9">3917 8071 13278 7845 </ingredient>
+    <ingredient num="10">3917 13278 5516 3701 </ingredient>
+    <ingredient num="11">3917 13278 5516 976 </ingredient>
+    <ingredient num="12">6209 11911 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33905/low_1497303137.m3u8</low>
+    <high>https://vid.tasty.co/output/33905/mp4_720x1280/1497303137</high>
+  </video>
+  <steps>
+    <step num="0">12474 5994 4669 8667 7777 11951 7983 7678 210 1991 1968 </step>
+    <step num="1">4124 7983 7868 13817 12616 6697 10860 1391 82 13817 12375 </step>
+    <step num="2">11982 6798 11951 7983 13009 210 11951 6467 8633 3482 7115 14254 </step>
+    <step num="3">8889 5994 10060 4255 3996 7855 13817 740 11951 9924 13817 7632 11354 3626 560 6798 11951 10590 </step>
+    <step num="4">5570 11951 7983 7678 669 11951 5687 13817 2550 7990 6175 8927 5895 1681 10963 2147 </step>
+    <step num="5">11423 11951 7983 13817 2550 11951 11649 7780 6646 6175 11004 5895 1681 7983 9490 3745 8119 </step>
+    <step num="6">6054 11951 7983 6781 11951 10060 13817 817 5292 </step>
+    <step num="7">1083 12791 2605 13125 9443 371 11951 7983 220 210 11951 5687 13817 9176 3386 7115 8577 5312 5401 11628 642 560 11951 551 371 11951 10590 </step>
+    <step num="8">9179 11951 12886 371 11951 220 13817 11951 13033 13817 12224 </step>
+    <step num="9">10242 1391 82 13817 10986 13817 740 11951 597 8587 </step>
+    <step num="10">9411 7990 2933 12689 9179 11951 7983 13352 560 11951 5687 13817 10707 1391 976 4283 </step>
+    <step num="11">6877 11951 2260 11770 11951 9104 </step>
+    <step num="12">6054 6781 2082 1381 217 13396 2658 3557 11248 </step>
+    <step num="13">12774 1391 2768 13817 3141 9286 </step>
+    <step num="14">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 7777 11951 7983 7678 210 1991 1968 </steps_updated>
+    <steps_updated num="1">4124 7983 7868 13817 12616 6697 10860 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="2">11982 6798 11951 7983 13009 210 11951 6467 8633 3482 7115 14254 </steps_updated>
+    <steps_updated num="3">8889 5994 10060 4255 3996 7855 13817 740 11951 9924 13817 7632 11354 3626 560 6798 11951 10590 </steps_updated>
+    <steps_updated num="4">5570 11951 7983 7678 669 11951 5687 13817 2550 7990 6175 8927 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="5">11423 11951 7983 13817 2550 11951 11649 7780 6646 6175 11004 5895 1681 7983 9490 3745 8119 </steps_updated>
+    <steps_updated num="6">6054 11951 7983 6781 11951 10060 13817 817 5292 </steps_updated>
+    <steps_updated num="7">1083 12791 2605 13125 9443 371 11951 7983 220 210 11951 5687 13817 9176 3386 7115 8577 5312 5401 11628 642 560 11951 551 371 11951 10590 </steps_updated>
+    <steps_updated num="8">9179 11951 12886 371 11951 220 13817 11951 13033 13817 12224 </steps_updated>
+    <steps_updated num="9">10242 1391 82 13817 10986 13817 740 11951 597 8587 </steps_updated>
+    <steps_updated num="10">9411 7990 2933 12689 </steps_updated>
+    <steps_updated num="11">9179 11951 7983 13352 560 11951 5687 13817 10707 1391 976 4283 </steps_updated>
+    <steps_updated num="12">6877 11951 2260 11770 11951 9104 </steps_updated>
+    <steps_updated num="13">6054 6781 2082 </steps_updated>
+    <steps_updated num="14">1381 217 13396 2658 3557 11248 </steps_updated>
+    <steps_updated num="15">12774 1391 2768 13817 3141 9286 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+  <title>Chocolate Avocado Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-avocado-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 11728 468 472 </ingredient>
+    <ingredient num="1">8580 13278 12708 </ingredient>
+    <ingredient num="2">1580 2605 13278 9586 13278 8118 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="4">3591 2605 13278 3305 2168 890 13278 3433 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 9053 11703 13278 1258 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 10765 11703 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33854/low_1497288234.m3u8</low>
+    <high>https://vid.tasty.co/output/33854/mp4_720x1280/1497288234</high>
+  </video>
+  <duration>
+    <start_time>97.0</start_time>
+    <end_time>130.825</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 9451 </step>
+    <step num="1">10950 5994 12027 5895 8016 5349 4120 468 14463 9586 13817 1319 6708 3262 1681 4376 14455 573 10860 2658 14532 </step>
+    <step num="2">10950 5994 2597 14511 8341 11951 6467 9053 11703 13817 10765 785 </step>
+    <step num="3">10895 11951 6118 13817 5316 14596 13817 7475 1681 5994 4428 11836 1083 4428 669 5994 2362 9239 2985 10765 10590 </step>
+    <step num="4">7831 7990 1491 12689 12251 560 435 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 9451 </steps_updated>
+    <steps_updated num="1">10950 5994 12027 5895 8016 5349 4120 468 14463 9586 13817 1319 6708 </steps_updated>
+    <steps_updated num="2">3262 1681 4376 14455 573 10860 2658 14532 </steps_updated>
+    <steps_updated num="3">10950 5994 2597 14511 8341 11951 6467 9053 11703 13817 10765 785 </steps_updated>
+    <steps_updated num="4">10895 11951 6118 13817 5316 14596 13817 7475 1681 5994 4428 11836 </steps_updated>
+    <steps_updated num="5">1083 4428 669 5994 2362 9239 2985 10765 10590 </steps_updated>
+    <steps_updated num="6">7831 7990 1491 12689 </steps_updated>
+    <steps_updated num="7">12251 560 435 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02959</start_time>
+    <end_time>04577</end_time>
+  </duration_human>
+</recipe>

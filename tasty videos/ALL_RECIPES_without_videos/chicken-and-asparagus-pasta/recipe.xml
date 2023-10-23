@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken And Asparagus Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-and-asparagus-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; penne pasta ; (455 g) </ingredient>
+    <ingredient num="1">¼ cup ; olive oil, plus 2 tablespoons ; (60 mL) </ingredient>
+    <ingredient num="2">4 cloves ; garlic cloves, diced </ingredient>
+    <ingredient num="3">1 lb ; chicken breast, cubed ; (455 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">½ cup ; chicken broth ; (120 mL) </ingredient>
+    <ingredient num="7">1 lb ; aspargus ; (455 g) </ingredient>
+    <ingredient num="8">1 cup ; grated parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="9">2 cups ; cherry tomatoes, or grape tomatoes ; (400 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7965/low_1472163452.m3u8</low>
+    <high>https://vid.tasty.co/output/7965/mp4_720x1280/1472163452</high>
+  </video>
+  <steps>
+    <step num="0">In a pot, cook pasta according to package instructions, drain, then set aside. </step>
+    <step num="1">In the same pot, heat 2 tablespoons olive oil and sauté 2 garlic cloves. </step>
+    <step num="2">Add chicken breasts, season with salt and pepper, and fully cook. Remove cooked chicken from pot and set aside. </step>
+    <step num="3">In the same pot, pour the chicken broth, then add asparagus, salt, pepper, and the remaining garlic and stir. Cover and reduce heat to a simmer for 5 minutes. </step>
+    <step num="4">Add cooked chicken, penne, remaining olive oil, parmesan, and tomatoes, and stir until fully incorporated and the cheese has melted. </step>
+    <step num="5">Serve while hot. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a pot, cook pasta according to package instructions, drain, then set aside. </steps_updated>
+    <steps_updated num="1">In the same pot, heat 2 tablespoons olive oil and sauté 2 garlic cloves. </steps_updated>
+    <steps_updated num="2">Add chicken breasts, season with salt and pepper, and fully cook. </steps_updated>
+    <steps_updated num="3">Remove cooked chicken from pot and set aside. </steps_updated>
+    <steps_updated num="4">In the same pot, pour the chicken broth, then add asparagus, salt, pepper, and the remaining garlic and stir. </steps_updated>
+    <steps_updated num="5">Cover and reduce heat to a simmer for 5 minutes. </steps_updated>
+    <steps_updated num="6">Add cooked chicken, penne, remaining olive oil, parmesan, and tomatoes, and stir until fully incorporated and the cheese has melted. </steps_updated>
+    <steps_updated num="7">Serve while hot. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

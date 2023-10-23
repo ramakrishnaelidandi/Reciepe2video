@@ -1,0 +1,66 @@
+<recipe>
+  <title>Pepper Pot Shrimp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pepper-pot-shrimp</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 9517 13278 7983 220 13278 3798 8007 </ingredient>
+    <ingredient num="1">4061 9517 13278 3305 5802 13278 3798 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 9924 13278 6518 5981 </ingredient>
+    <ingredient num="3">8580 2031 13278 82 </ingredient>
+    <ingredient num="4">8580 9517 13278 9723 13278 12922 5981 </ingredient>
+    <ingredient num="5">8580 9486 13278 5766 </ingredient>
+    <ingredient num="6">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="7">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="8">3917 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="9">3917 13278 4985 1466 10986 341 </ingredient>
+    <ingredient num="10">1580 13278 2597 8083 12384 341 </ingredient>
+    <ingredient num="11">1580 13278 13560 9929 7845 </ingredient>
+    <ingredient num="12">409 12024 13278 266 3962 </ingredient>
+    <ingredient num="13">3917 13278 2597 9491 341 </ingredient>
+    <ingredient num="14">1580 2605 13278 7983 220 13278 2935 8007 </ingredient>
+    <ingredient num="15">8580 9486 13278 3363 2634 </ingredient>
+    <ingredient num="16">13767 13278 11270 3890 4125 13817 12692 </ingredient>
+    <ingredient num="17">8580 2031 13278 82 </ingredient>
+    <ingredient num="18">3917 8071 13278 4834 </ingredient>
+    <ingredient num="19">8580 1428 13278 6209 11239 11911 3962 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71951/hls24_1515536826.m3u8</low>
+    <high>https://vid.tasty.co/output/71951/landscape_720/1515536826</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 8640 13799 740 11951 7983 11899 10907 13817 9889 13817 14238 560 5994 11779 11770 13757 2082 12633 740 210 11951 12896 5994 8779 7811 5994 7555 13328 1681 13764 6054 6781 11951 2082 </step>
+    <step num="1">9179 5766 560 5994 2597 5687 11770 3996 2082 </step>
+    <step num="2">9956 11951 5766 10586 560 923 740 11951 11384 13817 2550 1681 4682 6285 238 773 </step>
+    <step num="3">9179 210 11951 8083 1466 10986 11091 1466 10986 4985 1466 10986 8083 12384 13817 2325 9929 10986 13817 2550 1681 11453 12573 6470 </step>
+    <step num="4">9179 210 11951 11568 13817 2550 7990 3917 6513 </step>
+    <step num="5">9179 210 11951 341 717 13817 11098 3363 5730 13817 7983 11899 13817 11779 4255 9721 7855 7990 13767 12689 </step>
+    <step num="6">10242 11951 3155 1391 82 13817 8525 </step>
+    <step num="7">5570 11084 4255 10707 371 11951 11568 10517 136 4817 11004 10954 11951 11084 13817 2550 7990 6620 11004 1681 3745 8119 6252 11951 3155 1391 3962 13012 </step>
+    <step num="8">12774 11951 11084 3155 11770 11951 14034 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8640 13799 740 11951 7983 11899 10907 13817 9889 13817 14238 560 5994 11779 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">12633 740 210 11951 12896 5994 8779 7811 5994 7555 13328 1681 13764 </steps_updated>
+    <steps_updated num="2">6054 6781 11951 2082 </steps_updated>
+    <steps_updated num="3">9179 5766 560 5994 2597 5687 11770 3996 2082 </steps_updated>
+    <steps_updated num="4">9956 11951 5766 10586 560 923 740 11951 11384 13817 2550 1681 4682 6285 238 773 </steps_updated>
+    <steps_updated num="5">9179 210 11951 8083 1466 10986 11091 1466 10986 4985 1466 10986 8083 12384 13817 2325 9929 10986 13817 2550 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="6">9179 210 11951 11568 13817 2550 7990 3917 6513 </steps_updated>
+    <steps_updated num="7">9179 210 11951 341 717 13817 11098 3363 5730 13817 7983 11899 13817 11779 4255 9721 7855 7990 13767 12689 </steps_updated>
+    <steps_updated num="8">10242 11951 3155 1391 82 13817 8525 </steps_updated>
+    <steps_updated num="9">5570 11084 4255 10707 371 11951 11568 10517 </steps_updated>
+    <steps_updated num="10">136 4817 11004 10954 11951 11084 13817 2550 7990 6620 11004 1681 3745 8119 </steps_updated>
+    <steps_updated num="11">6252 11951 3155 1391 3962 13012 </steps_updated>
+    <steps_updated num="12">12774 11951 11084 3155 11770 11951 14034 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Southwestern Taco Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-taco-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; avocado </ingredient>
+    <ingredient num="1">½ cup ; cilantro, chopped ; (25 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; lime juice </ingredient>
+    <ingredient num="3">½ cup ; low-fat greek yogurt, plain ; (140 g) </ingredient>
+    <ingredient num="4">⅓ cup ; water ; (80 mL) </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">½ tablespoon ; garlic </ingredient>
+    <ingredient num="7">½ tablespoon ; cumin </ingredient>
+    <ingredient num="8">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="9">1 ; chicken breast, diced </ingredient>
+    <ingredient num="10">½ packet ; taco seasoning </ingredient>
+    <ingredient num="11">1 head ; romaine lettuce, chopped </ingredient>
+    <ingredient num="12">1 cup ; cheddar jack ; (100 g) </ingredient>
+    <ingredient num="13">1 cup ; black beans ; (170 g) </ingredient>
+    <ingredient num="14">1 ; avocado, diced </ingredient>
+    <ingredient num="15">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="16">1 cup ; cherry tomatoes, halved ; (175 g) </ingredient>
+    <ingredient num="17">1 cup ; tortilla strips ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Date Night</category>
+    <category num="7">BBQ</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32082/low_1495125345.m3u8</low>
+    <high>https://vid.tasty.co/output/32082/mp4_720x1280/1495125345</high>
+  </video>
+  <steps>
+    <step num="0">To make the avocado cilantro lime salad dressing, combine all the ingredients for the dressing (avocado, cilantro, lime juice, greek yogurt, water, salt, garlic, and cumin) in a blender or food processor until smooth. Set aside. </step>
+    <step num="1">Pour 1 tbsp of oil into a pan and bring up to medium heat. Add the diced chicken breast and taco seasoning, stirring until all pieces are well-coated with the seasoning. Cook through and set aside. </step>
+    <step num="2">Assemble your salad with a bed of chopped romaine lettuce on the bottom. Then, lay out each topping (chicken, cheddar jack cheese, black beans, avocado, corn, cherry tomatoes, and tortilla strips) in rows or blend it all together. </step>
+    <step num="3">Top off with the avocado salad dressing and cilantro then serve immediately. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To make the avocado cilantro lime salad dressing, combine all the ingredients for the dressing (avocado, cilantro, lime juice, greek yogurt, water, salt, garlic, and cumin) in a blender or food processor until smooth. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Pour 1 tbsp of oil into a pan and bring up to medium heat. </steps_updated>
+    <steps_updated num="3">Add the diced chicken breast and taco seasoning, stirring until all pieces are well-coated with the seasoning. </steps_updated>
+    <steps_updated num="4">Cook through and set aside. </steps_updated>
+    <steps_updated num="5">Assemble your salad with a bed of chopped romaine lettuce on the bottom. </steps_updated>
+    <steps_updated num="6">Then, lay out each topping (chicken, cheddar jack cheese, black beans, avocado, corn, cherry tomatoes, and tortilla strips) in rows or blend it all together. </steps_updated>
+    <steps_updated num="7">Top off with the avocado salad dressing and cilantro then serve immediately. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

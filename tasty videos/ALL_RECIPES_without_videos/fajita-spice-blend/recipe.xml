@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fajita Spice Blend Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-spice-blend</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-diy-spice-blends</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; chili powder </ingredient>
+    <ingredient num="1">2 tablespoons ; cumin </ingredient>
+    <ingredient num="2">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="3">1 teaspoon ; paprika </ingredient>
+    <ingredient num="4">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="5">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="6">2 teaspoons ; salt </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/87547/hls24_1522456861.m3u8</low>
+    <high>https://vid.tasty.co/output/87547/landscape_720/1522456861</high>
+  </video>
+  <duration>
+    <start_time>42.333</start_time>
+    <end_time>85.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine chili powder, cumin, garlic powder, paprika, onion powder, oregano, salt, and pepper in a small bowl. </step>
+    <step num="1">Pour into a small glass container and secure with an airtight lid. Store up to 1 year. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine chili powder, cumin, garlic powder, paprika, onion powder, oregano, salt, and pepper in a small bowl. </steps_updated>
+    <steps_updated num="1">Pour into a small glass container and secure with an airtight lid. </steps_updated>
+    <steps_updated num="2">Store up to 1 year. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

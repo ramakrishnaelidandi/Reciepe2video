@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Enchilada-inspired Stuffed Shells Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/enchilada-inspired-stuffed-shells</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 teaspoons ; oil </ingredient>
+    <ingredient num="1">½ cup ; onion, diced ; (75 g) </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">⅓ cup ; red bell pepper, diced ; (35 g) </ingredient>
+    <ingredient num="4">⅓ cup ; green bell pepper, diced ; (35 g) </ingredient>
+    <ingredient num="5">⅓ cup ; yellow bell pepper, diced ; (35 g) </ingredient>
+    <ingredient num="6">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="7">1 tablespoon ; taco seasoning </ingredient>
+    <ingredient num="8">1 lb ; jumbo shell, cooked ; (455 g) </ingredient>
+    <ingredient num="9">1 cup ; enchilada sauce ; (250 g) </ingredient>
+    <ingredient num="10">1 cup ; mexican blend cheese ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34570/low_1497997459.m3u8</low>
+    <high>https://vid.tasty.co/output/34570/mp4_720x1280/1497997459</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a skillet, heat oil over medium-high heat and cook onions, garlic, and peppers until translucent. </step>
+    <step num="2">Add ground beef and taco seasoning, and cook until browned. </step>
+    <step num="3">Fill cooked shells with beef and place in a baking dish. </step>
+    <step num="4">Pour enchilada sauce over the stuffed shells and cover with cheese. </step>
+    <step num="5">Bake for 15 minutes or until cheese is browned. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a skillet, heat oil over medium-high heat and cook onions, garlic, and peppers until translucent. </steps_updated>
+    <steps_updated num="2">Add ground beef and taco seasoning, and cook until browned. </steps_updated>
+    <steps_updated num="3">Fill cooked shells with beef and place in a baking dish. </steps_updated>
+    <steps_updated num="4">Pour enchilada sauce over the stuffed shells and cover with cheese. </steps_updated>
+    <steps_updated num="5">Bake for 15 minutes or until cheese is browned. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

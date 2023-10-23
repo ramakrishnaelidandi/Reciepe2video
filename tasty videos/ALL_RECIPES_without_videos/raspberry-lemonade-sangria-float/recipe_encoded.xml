@@ -1,0 +1,42 @@
+<recipe>
+  <title>Raspberry Lemonade Sangria Float Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/raspberry-lemonade-sangria-float</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sangria-sorbet-floats</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 3389 7789 3954 7990 4711 13278 10339 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 5516 1088 516 7789 3954 7990 4711 13278 11953 5981 </ingredient>
+    <ingredient num="2">3917 1460 13278 5316 4617 13538 </ingredient>
+    <ingredient num="3">3917 2605 13278 4617 6160 13278 7503 8007 </ingredient>
+    <ingredient num="4">8580 1580 9517 13278 8758 13278 8941 8007 </ingredient>
+    <ingredient num="5">3917 2952 13278 356 10393 13278 7465 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96725/hls24_1527808667.m3u8</low>
+    <high>https://vid.tasty.co/output/96725/landscape_720/1527808667</high>
+  </video>
+  <duration>
+    <start_time>67.0</start_time>
+    <end_time>97.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 7961 4120 11951 6289 597 4743 4617 8286 4617 14290 13817 11018 12473 13817 173 7990 7811 767 13086 13199 5895 14142 </step>
+    <step num="1">5570 6620 2192 10548 371 356 10393 210 5994 6369 6054 11951 5695 6781 11951 7111 13817 5406 3557 11770 11951 8350 12473 1391 5994 1798 560 1011 </step>
+    <step num="2">13688 1391 6209 9470 13817 5994 597 2519 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 7961 4120 11951 6289 597 4743 4617 8286 4617 14290 13817 11018 </steps_updated>
+    <steps_updated num="1">12473 13817 173 7990 7811 767 13086 13199 5895 14142 </steps_updated>
+    <steps_updated num="2">5570 6620 2192 10548 371 356 10393 210 5994 6369 </steps_updated>
+    <steps_updated num="3">6054 11951 5695 6781 11951 7111 13817 5406 3557 11770 11951 8350 </steps_updated>
+    <steps_updated num="4">12473 1391 5994 1798 560 1011 </steps_updated>
+    <steps_updated num="5">13688 1391 6209 9470 13817 5994 597 2519 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

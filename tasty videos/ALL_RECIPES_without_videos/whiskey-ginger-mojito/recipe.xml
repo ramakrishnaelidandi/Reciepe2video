@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Whiskey Ginger Mojito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/whiskey-ginger-mojito</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 leaves ; fresh mint </ingredient>
+    <ingredient num="1">2 ; lime wedges </ingredient>
+    <ingredient num="2">1 fl oz ; ginger syrup ; (30 mL) </ingredient>
+    <ingredient num="3">ice </ingredient>
+    <ingredient num="4">2 fl oz ; bourbon ; (60 mL) </ingredient>
+    <ingredient num="5">3 fl oz ; club soda ; (90 mL) </ingredient>
+    <ingredient num="6">fresh mint, to serve </ingredient>
+    <ingredient num="7">lime wedge, to serve </ingredient>
+    <ingredient num="8">1 cup ; fresh ginger, peeled and chopped ; (50 g) </ingredient>
+    <ingredient num="9">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="10">2 cups ; water ; (470 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Date Night</category>
+    <category num="7">Happy Hour</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57015/low_1508360257.m3u8</low>
+    <high>https://vid.tasty.co/output/57015/mp4_720x1280/1508360257</high>
+  </video>
+  <steps>
+    <step num="0">In a small saucepan, combine ginger syrup ingredients and bring to a boil. Lower to a simmer and cook for 10 minutes. </step>
+    <step num="1">Strain through a sieve and cool. </step>
+    <step num="2">Place the mint and one lime wedge in the bottom of tall glass. Muddle well and add 1 ounce (30 ml) of ginger syrup. Add the second lime wedge and muddle again. </step>
+    <step num="3">Top off glass with the bourbon, ice, and club soda. Stir well and garnish with a lime wedge and a few mint leaves. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan, combine ginger syrup ingredients and bring to a boil. </steps_updated>
+    <steps_updated num="1">Lower to a simmer and cook for 10 minutes. </steps_updated>
+    <steps_updated num="2">Strain through a sieve and cool. </steps_updated>
+    <steps_updated num="3">Place the mint and one lime wedge in the bottom of tall glass. </steps_updated>
+    <steps_updated num="4">Muddle well and add 1 ounce (30 ml) of ginger syrup. </steps_updated>
+    <steps_updated num="5">Add the second lime wedge and muddle again. </steps_updated>
+    <steps_updated num="6">Top off glass with the bourbon, ice, and club soda. </steps_updated>
+    <steps_updated num="7">Stir well and garnish with a lime wedge and a few mint leaves. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,68 @@
+<recipe>
+  <title>Spinach Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-ways-to-eat-your-greens-for-people-who-hate-salad</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">2933 643 13278 13220 13278 9018 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 13521 890 13278 10339 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 12610 7789 12791 5779 3247 </ingredient>
+    <ingredient num="4">8580 9486 13278 12282 </ingredient>
+    <ingredient num="5">4688 3968 7990 7818 </ingredient>
+    <ingredient num="6">5078 7990 7818 </ingredient>
+    <ingredient num="7">6209 749 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/87038/hls24_1522276146.m3u8</low>
+    <high>https://vid.tasty.co/output/87038/landscape_720/1522276146</high>
+  </video>
+  <duration>
+    <start_time>12.0</start_time>
+    <end_time>84.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 2597 10083 371 12282 560 5994 11714 </step>
+    <step num="1">10950 5994 2597 7110 7855 11951 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 13220 13817 2550 7990 2933 11004 5895 1681 1320 </step>
+    <step num="2">9179 11951 13220 560 5994 8016 9909 13817 3382 1681 11588 10660 </step>
+    <step num="3">4829 6557 11951 2602 1798 11951 890 210 5994 8779 10222 7811 5994 1441 1681 5994 451 8337 11836 </step>
+    <step num="4">4829 5787 560 12428 740 12791 8071 371 12051 13827 740 3917 14014 371 12282 7811 5994 1441 1681 8337 4150 3626 6353 8344 371 12282 2665 217 12446 10013 4255 1751 6118 11951 13220 3092 </step>
+    <step num="5">6054 11951 8337 6781 11951 8016 9909 13817 3039 4255 5994 13004 12605 560 1978 669 5994 14560 </step>
+    <step num="6">10936 5994 11526 2040 4536 8337 2696 669 2237 3316 6285 11607 4735 8230 1645 3104 5569 409 4735 1258 1645 9742 13817 7579 1745 51 13025 </step>
+    <step num="7">10936 5994 5668 5895 6146 2251 7777 11951 8337 669 5422 9259 6285 1580 2985 10187 1645 13431 </step>
+    <step num="8">7692 11951 9259 669 7711 11293 </step>
+    <step num="9">9956 11951 12282 9490 12859 740 3917 14014 371 82 13817 7416 210 11951 4466 </step>
+    <step num="10">264 11951 950 7990 6175 11004 5895 1681 11951 13633 5213 560 11951 143 8756 </step>
+    <step num="11">7643 1391 6097 284 13817 2334 13817 10707 1391 13952 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 2597 10083 371 12282 560 5994 11714 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 7110 7855 11951 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">9956 11951 5766 10586 560 923 740 11951 13220 13817 2550 7990 2933 11004 5895 1681 1320 </steps_updated>
+    <steps_updated num="3">9179 11951 13220 560 5994 8016 9909 13817 3382 1681 11588 10660 </steps_updated>
+    <steps_updated num="4">4829 6557 11951 2602 1798 11951 890 210 5994 8779 10222 7811 5994 1441 1681 5994 451 8337 11836 </steps_updated>
+    <steps_updated num="5">4829 5787 560 12428 740 12791 8071 371 12051 </steps_updated>
+    <steps_updated num="6">13827 740 3917 14014 371 12282 7811 5994 1441 1681 8337 4150 3626 6353 8344 371 12282 2665 217 12446 10013 4255 1751 6118 11951 13220 3092 </steps_updated>
+    <steps_updated num="7">6054 11951 8337 6781 11951 8016 9909 13817 3039 4255 5994 13004 12605 560 1978 669 5994 14560 </steps_updated>
+    <steps_updated num="8">10936 5994 11526 2040 4536 8337 2696 669 2237 3316 6285 11607 4735 8230 1645 3104 5569 409 4735 1258 1645 9742 13817 7579 1745 51 13025 </steps_updated>
+    <steps_updated num="9">10936 5994 5668 5895 6146 2251 7777 11951 8337 669 5422 9259 6285 1580 2985 10187 1645 13431 </steps_updated>
+    <steps_updated num="10">7692 11951 9259 669 7711 11293 </steps_updated>
+    <steps_updated num="11">9956 11951 12282 9490 12859 740 3917 14014 371 82 13817 7416 210 11951 4466 </steps_updated>
+    <steps_updated num="12">264 11951 950 7990 6175 11004 5895 1681 11951 13633 5213 560 11951 143 </steps_updated>
+    <steps_updated num="13">8756 </steps_updated>
+    <steps_updated num="14">7643 1391 6097 284 13817 2334 13817 10707 1391 13952 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

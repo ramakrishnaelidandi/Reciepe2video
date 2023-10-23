@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Orange Chicken &amp; Veggie Stir-fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/orange-chicken-veggie-stir-fry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">ground pepper, to taste </ingredient>
+    <ingredient num="3">2 heads ; broccoli, chopped </ingredient>
+    <ingredient num="4">2 ; carrots, sliced </ingredient>
+    <ingredient num="5">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="6">½ cup ; orange juice ; (118 mL) </ingredient>
+    <ingredient num="7">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="8">1 tablespoon ; honey </ingredient>
+    <ingredient num="9">1 tablespoon ; rice vinegar </ingredient>
+    <ingredient num="10">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="11">½ teaspoon ; ginger, minced </ingredient>
+    <ingredient num="12">¼ teaspoon ; orange zest </ingredient>
+    <ingredient num="13">1 tablespoon ; cornstarch </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26311/low_1489199322.m3u8</low>
+    <high>https://vid.tasty.co/output/26311/mp4_720x1280/1489199322</high>
+  </video>
+  <steps>
+    <step num="0">In a large nonstick skillet, heat a small amount of cooking oil. Add chicken. Season with salt and pepper and cook until browned, about 5 minutes. Remove from pan and set aside. </step>
+    <step num="1">Add carrots and broccoli and cook for 1 minute. Add bell pepper and cook for an additional 1-2 minutes. Remove ingredients from pan and set aside. </step>
+    <step num="2">Add orange juice, soy sauce, honey, rice vinegar, garlic, ginger, and cornstarch. Whisk. Simmer until sauce starts to thicken, about 5 minutes. </step>
+    <step num="3">Add chicken back into pan. </step>
+    <step num="4">Serve over cooked veggies. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large nonstick skillet, heat a small amount of cooking oil. </steps_updated>
+    <steps_updated num="1">Add chicken. </steps_updated>
+    <steps_updated num="2">Season with salt and pepper and cook until browned, about 5 minutes. </steps_updated>
+    <steps_updated num="3">Remove from pan and set aside. </steps_updated>
+    <steps_updated num="4">Add carrots and broccoli and cook for 1 minute. </steps_updated>
+    <steps_updated num="5">Add bell pepper and cook for an additional 1-2 minutes. </steps_updated>
+    <steps_updated num="6">Remove ingredients from pan and set aside. </steps_updated>
+    <steps_updated num="7">Add orange juice, soy sauce, honey, rice vinegar, garlic, ginger, and cornstarch. </steps_updated>
+    <steps_updated num="8">Whisk. </steps_updated>
+    <steps_updated num="9">Simmer until sauce starts to thicken, about 5 minutes. </steps_updated>
+    <steps_updated num="10">Add chicken back into pan. </steps_updated>
+    <steps_updated num="11">Serve over cooked veggies. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Kimchi Queso Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kimchi-queso</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; kimchi, chopped ; (225 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; korean red pepper powder, 3 tbsp if you like it spicy </ingredient>
+    <ingredient num="2">5 cups ; shredded cheddar cheese ; (500 g) </ingredient>
+    <ingredient num="3">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="4">1 ; green onion, chopped </ingredient>
+    <ingredient num="5">torilla chip, optional, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Korean</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Appetizers</category>
+    <category num="8">Snacks</category>
+    <category num="9">Casual Party</category>
+    <category num="10">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32117/low_1495125352.m3u8</low>
+    <high>https://vid.tasty.co/output/32117/mp4_720x1280/1495125352</high>
+  </video>
+  <steps>
+    <step num="0">Chop kimchi and place in bowl, set aside. </step>
+    <step num="1">In a medium saucepan, melt cheddar cheese part way (until it’s mostly soft but still clumpy). </step>
+    <step num="2">Add the sour cream. Melt and stir until the mixture is smooth. </step>
+    <step num="3">Add the red pepper powder and stir until evenly integrated. </step>
+    <step num="4">Add kimchi and simmer until evenly mixed and smooth. The liquid from the kimchi may give the appearance that the queso is chunky, continue heating and stirring 5-10 minutes and it will smooth out. </step>
+    <step num="5">Serve garnished with chopped green onion. Goes great with chips, raw vegetables, or straight into the mouth via spoon. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Chop kimchi and place in bowl, set aside. </steps_updated>
+    <steps_updated num="1">In a medium saucepan, melt cheddar cheese part way (until it’s mostly soft but still clumpy). </steps_updated>
+    <steps_updated num="2">Add the sour cream. </steps_updated>
+    <steps_updated num="3">Melt and stir until the mixture is smooth. </steps_updated>
+    <steps_updated num="4">Add the red pepper powder and stir until evenly integrated. </steps_updated>
+    <steps_updated num="5">Add kimchi and simmer until evenly mixed and smooth. </steps_updated>
+    <steps_updated num="6">The liquid from the kimchi may give the appearance that the queso is chunky, continue heating and stirring 5-10 minutes and it will smooth out. </steps_updated>
+    <steps_updated num="7">Serve garnished with chopped green onion. </steps_updated>
+    <steps_updated num="8">Goes great with chips, raw vegetables, or straight into the mouth via spoon. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

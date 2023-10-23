@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Chocolate Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dairy-free-meringue</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/unexpected-cooking-techniques</comp_url>
+  <ingredients>
+    <ingredient num="0">1 can ; chickpeas, Liquid from 1 can, aquafaba </ingredient>
+    <ingredient num="1">½ cup ; sugar, organic, or vegan ; (100 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="3">½ teaspoon ; lemon juice </ingredient>
+    <ingredient num="4">½ cup ; dark vegan chocolate, melted and cooled slightly ; (115 g) </ingredient>
+    <ingredient num="5">fresh strawberry , for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80534/hls24_1519324259.m3u8</low>
+    <high>https://vid.tasty.co/output/80534/landscape_720/1519324259</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, beat the aquafaba with a hand mixer until foamy. </step>
+    <step num="1">Add the sugar and continue to beat until medium peaks form. </step>
+    <step num="2">Add the vanilla and lemon juice and continue to beat until stiff peaks form. </step>
+    <step num="3">Combine with melted chocolate. </step>
+    <step num="4">Distribute the mousse into 3 cups (720 g) and chill for at least 3 hours, or overnight. </step>
+    <step num="5">Garnish with strawberries or fruit of choice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, beat the aquafaba with a hand mixer until foamy. </steps_updated>
+    <steps_updated num="1">Add the sugar and continue to beat until medium peaks form. </steps_updated>
+    <steps_updated num="2">Add the vanilla and lemon juice and continue to beat until stiff peaks form. </steps_updated>
+    <steps_updated num="3">Combine with melted chocolate. </steps_updated>
+    <steps_updated num="4">Distribute the mousse into 3 cups (720 g) and chill for at least 3 hours, or overnight. </steps_updated>
+    <steps_updated num="5">Garnish with strawberries or fruit of choice. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03899</start_time>
+    <end_time>05122</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Veggnog (Vegan Eggnog) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggnog-vegan-eggnog</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dairy-free-holiday-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; cashews ; (130 g) </ingredient>
+    <ingredient num="1">1 can ; lite coconut milk </ingredient>
+    <ingredient num="2">¼ cup ; maple syrup ; (85 g) </ingredient>
+    <ingredient num="3">¼ cup ; water, add more as needed for desired consistency ; (60 mL) </ingredient>
+    <ingredient num="4">3 ; pitted dates </ingredient>
+    <ingredient num="5">¼ teaspoon ; allspice </ingredient>
+    <ingredient num="6">2 ; vanilla bean pods, seeds scraped </ingredient>
+    <ingredient num="7">fresh nutmeg, to taste </ingredient>
+    <ingredient num="8">spiced rum, or bourbon, to taste, optional </ingredient>
+    <ingredient num="9">cinnamon stick, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Happy Hour</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68345/hls24_1513364143.m3u8</low>
+    <high>https://vid.tasty.co/output/68345/landscape_720/1513364143</high>
+  </video>
+  <duration>
+    <start_time>3.2800000000000002</start_time>
+    <end_time>38.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Soak cashews in water for 30 minutes. Rinse, then drain in a colander. </step>
+    <step num="1">Add cashews, coconut milk, maple syrup, water, dates, allspice, vanilla bean seeds, nutmeg, and rum (optional) to a blender. Blend until completely smooth. </step>
+    <step num="2">Refrigerate the mixture until ready to enjoy. Refrigeration will thicken the veggnog. Add more water and blend again for a thinner consistency. </step>
+    <step num="3">Serve chilled with nutmeg, and cinnamon stick. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak cashews in water for 30 minutes. </steps_updated>
+    <steps_updated num="1">Rinse, then drain in a colander. </steps_updated>
+    <steps_updated num="2">Add cashews, coconut milk, maple syrup, water, dates, allspice, vanilla bean seeds, nutmeg, and rum (optional) to a blender. </steps_updated>
+    <steps_updated num="3">Blend until completely smooth. </steps_updated>
+    <steps_updated num="4">Refrigerate the mixture until ready to enjoy. </steps_updated>
+    <steps_updated num="5">Refrigeration will thicken the veggnog. </steps_updated>
+    <steps_updated num="6">Add more water and blend again for a thinner consistency. </steps_updated>
+    <steps_updated num="7">Serve chilled with nutmeg, and cinnamon stick. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

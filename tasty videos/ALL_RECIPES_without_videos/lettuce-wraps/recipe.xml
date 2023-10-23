@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lettuce Wraps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lettuce-wraps</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="1">½ cup ; soy sauce ; (120 mL) </ingredient>
+    <ingredient num="2">¼ cup ; sesame oil ; (60 mL) </ingredient>
+    <ingredient num="3">6 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh ginger, minced </ingredient>
+    <ingredient num="5">¼ cup ; brown sugar ; (55 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; sriracha </ingredient>
+    <ingredient num="7">¼ cup ; rice wine vinegar ; (60 mL) </ingredient>
+    <ingredient num="8">⅓ cup ; scallions, sliced ; (35 g) </ingredient>
+    <ingredient num="9">14 oz ; tofu, 1 package ; (395 g) </ingredient>
+    <ingredient num="10">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="11">1 ; medium yellow onion, diced </ingredient>
+    <ingredient num="12">2 ½ cups ; mushroom, chopped, such as shiitake ; (185 g) </ingredient>
+    <ingredient num="13">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="14">8 oz ; water chestnuts, 1 can, sliced, drained and finely chopped ; (225 g) </ingredient>
+    <ingredient num="15">⅓ cup ; scallions, sliced ; (50 g) </ingredient>
+    <ingredient num="16">½ cup ; canola oil ; (120 mL) </ingredient>
+    <ingredient num="17">7 oz ; rice noodle ; (200 g) </ingredient>
+    <ingredient num="18">1 head ; iceberg lettuce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92390/hls24_1525368539.m3u8</low>
+    <high>https://vid.tasty.co/output/92390/landscape_720/1525368539</high>
+  </video>
+  <steps>
+    <step num="0">Remove the tofu from its packaging and drain. Wrap tofu in a kitchen towel and find a heavy object to place on top of tofu, leave it there for 10-20 minutes, until tofu feels more tender. </step>
+    <step num="1">Make the sauce: In a medium bowl, combine the water, soy sauce, sesame oil, garlic, ginger, sriracha, brown sugar, rice wine vinegar, and scallions, and stir. Set ½ cup (120 ml) of the sauce aside. </step>
+    <step num="2">Crumble the tofu into the marinade, cover, and refrigerate for 1 hour. </step>
+    <step num="3">In a medium wok or skillet over medium heat, add the sesame oil and onion, and cook 3 minutes, until onions are translucent. Add the mushrooms and garlic and cook for about 5 minutes, or until the mushrooms are tender. </step>
+    <step num="4">Add the marinated tofu to the pan and cook until the majority of marinade cooks off. Add the water chestnuts and scallions. Pour in the reserved sauce. Toss to coat and cook until just heated through. Transfer the tofu mixture to a medium bowl. </step>
+    <step num="5">Heat the canola oil in the same pan over high heat until a drop of water sizzles when flicked onto the oil. Fry the rice noodles for about 30 seconds, until puffed up. Transfer the fried noodles to paper towels to drain. </step>
+    <step num="6">Slice the core off the head of lettuce and separate into individual leaves. </step>
+    <step num="7">Serve with leaves of lettuce, rice noodles, and drizzle remaining sauce over top. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Remove the tofu from its packaging and drain. </steps_updated>
+    <steps_updated num="1">Wrap tofu in a kitchen towel and find a heavy object to place on top of tofu, leave it there for 10-20 minutes, until tofu feels more tender. </steps_updated>
+    <steps_updated num="2">Make the sauce: In a medium bowl, combine the water, soy sauce, sesame oil, garlic, ginger, sriracha, brown sugar, rice wine vinegar, and scallions, and stir. </steps_updated>
+    <steps_updated num="3">Set ½ cup (120 ml) of the sauce aside. </steps_updated>
+    <steps_updated num="4">Crumble the tofu into the marinade, cover, and refrigerate for 1 hour. </steps_updated>
+    <steps_updated num="5">In a medium wok or skillet over medium heat, add the sesame oil and onion, and cook 3 minutes, until onions are translucent. </steps_updated>
+    <steps_updated num="6">Add the mushrooms and garlic and cook for about 5 minutes, or until the mushrooms are tender. </steps_updated>
+    <steps_updated num="7">Add the marinated tofu to the pan and cook until the majority of marinade cooks off. </steps_updated>
+    <steps_updated num="8">Add the water chestnuts and scallions. </steps_updated>
+    <steps_updated num="9">Pour in the reserved sauce. </steps_updated>
+    <steps_updated num="10">Toss to coat and cook until just heated through. </steps_updated>
+    <steps_updated num="11">Transfer the tofu mixture to a medium bowl. </steps_updated>
+    <steps_updated num="12">Heat the canola oil in the same pan over high heat until a drop of water sizzles when flicked onto the oil. </steps_updated>
+    <steps_updated num="13">Fry the rice noodles for about 30 seconds, until puffed up. </steps_updated>
+    <steps_updated num="14">Transfer the fried noodles to paper towels to drain. </steps_updated>
+    <steps_updated num="15">Slice the core off the head of lettuce and separate into individual leaves. </steps_updated>
+    <steps_updated num="16">Serve with leaves of lettuce, rice noodles, and drizzle remaining sauce over top. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

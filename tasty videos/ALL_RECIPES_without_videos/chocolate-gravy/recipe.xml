@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Gravy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-gravy</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="1">⅓ cup ; cocoa powder ; (40 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; self-rising flour </ingredient>
+    <ingredient num="3">1 pinch ; kosher salt </ingredient>
+    <ingredient num="4">1 ¾ cups ; whole milk ; (420 mL) </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">3 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="7">buttermilk biscuit </ingredient>
+    <ingredient num="8">pound cake </ingredient>
+    <ingredient num="9">ice cream </ingredient>
+    <ingredient num="10">strawberry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Indulgent Sweets</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124600/hls24_1549670839.m3u8</low>
+    <high>https://vid.tasty.co/output/124600/landscape_720/1549670839</high>
+  </video>
+  <steps>
+    <step num="0">Sift the sugar, cocoa powder, flour, and salt into a large skillet or saucepan. Add the milk and whisk to combine. Cook over medium heat, stirring frequently, until slightly thickened, 7-10 minutes. Remove from the heat. </step>
+    <step num="1">Stir in the vanilla and butter until the butter is melted and well incorporated. </step>
+    <step num="2">Serve immediately over buttermilk biscuits, pound cake, ice cream, or as a dip for your favorite fruit. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Sift the sugar, cocoa powder, flour, and salt into a large skillet or saucepan. </steps_updated>
+    <steps_updated num="1">Add the milk and whisk to combine. </steps_updated>
+    <steps_updated num="2">Cook over medium heat, stirring frequently, until slightly thickened, 7-10 minutes. </steps_updated>
+    <steps_updated num="3">Remove from the heat. </steps_updated>
+    <steps_updated num="4">Stir in the vanilla and butter until the butter is melted and well incorporated. </steps_updated>
+    <steps_updated num="5">Serve immediately over buttermilk biscuits, pound cake, ice cream, or as a dip for your favorite fruit. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

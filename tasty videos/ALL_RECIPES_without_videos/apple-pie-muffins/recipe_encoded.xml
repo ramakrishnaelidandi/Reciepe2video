@@ -1,0 +1,65 @@
+<recipe>
+  <title>Apple Pie Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-muffins</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 8071 13278 10907 7990 14389 </ingredient>
+    <ingredient num="1">8580 1580 9517 13278 8554 5735 890 13278 2543 5981 </ingredient>
+    <ingredient num="2">3917 13278 8083 12545 13251 14233 13817 341 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 1368 4834 13278 2242 5981 </ingredient>
+    <ingredient num="4">8580 2031 13278 12425 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">3917 8071 13278 10765 3294 </ingredient>
+    <ingredient num="7">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="8">3917 13278 2597 6216 </ingredient>
+    <ingredient num="9">1580 2605 13278 1879 13278 12933 5981 </ingredient>
+    <ingredient num="10">1580 2605 13278 12347 3713 13278 2935 5981 </ingredient>
+    <ingredient num="11">3917 2605 13278 9908 10522 13278 7503 8007 </ingredient>
+    <ingredient num="12">1580 2605 13278 8554 5735 890 13278 13125 5981 </ingredient>
+    <ingredient num="13">1580 2605 13278 5475 1368 4834 13278 7289 5981 </ingredient>
+    <ingredient num="14">4061 643 13278 7974 9924 13278 7289 5981 </ingredient>
+    <ingredient num="15">12791 2605 13278 952 1967 13278 828 5981 </ingredient>
+    <ingredient num="16">3917 8071 13278 12425 </ingredient>
+    <ingredient num="17">3917 2605 13278 6885 4834 13278 2935 5981 </ingredient>
+    <ingredient num="18">8580 2031 13278 597 5921 </ingredient>
+    <ingredient num="19">8580 9486 13278 597 10522 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106451/hls24_1535057303.m3u8</low>
+    <high>https://vid.tasty.co/output/106451/landscape_720/1535057303</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 5954 5994 1079 12841 2141 1391 14057 </step>
+    <step num="1">6823 11951 12841 6508 10950 5994 2597 14511 4120 11951 6467 12545 1368 6145 4654 12610 10765 2101 308 4036 7268 12347 2694 13817 9908 8587 283 1681 3145 4309 </step>
+    <step num="2">6823 11951 3820 10950 5994 13757 14511 4120 11951 6467 1368 6145 10907 1103 13817 14242 9393 1391 5994 1514 1681 5088 </step>
+    <step num="3">877 11951 12841 4428 8830 11951 9517 371 11951 12841 5304 13494 10763 12841 1391 3917 14014 371 11951 12147 242 </step>
+    <step num="4">7831 7990 238 11004 5895 1681 5994 7462 4150 2696 8751 10570 7127 210 11951 937 371 5994 11462 </step>
+    <step num="5">6823 11951 1197 10950 5994 13757 14511 4120 11951 6885 6145 597 9342 13817 597 8587 283 1681 12119 </step>
+    <step num="6">1594 11951 597 1046 4255 10707 371 11951 9313 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">5954 5994 1079 12841 2141 1391 14057 </steps_updated>
+    <steps_updated num="2">6823 11951 12841 6508 10950 5994 2597 14511 4120 11951 6467 12545 1368 6145 4654 12610 10765 2101 308 4036 7268 12347 2694 13817 9908 8587 </steps_updated>
+    <steps_updated num="3">283 1681 3145 4309 </steps_updated>
+    <steps_updated num="4">6823 11951 3820 10950 5994 13757 14511 4120 11951 6467 1368 6145 10907 1103 13817 14242 </steps_updated>
+    <steps_updated num="5">9393 1391 5994 1514 1681 5088 </steps_updated>
+    <steps_updated num="6">877 11951 12841 4428 8830 11951 9517 371 11951 12841 5304 </steps_updated>
+    <steps_updated num="7">13494 10763 12841 1391 3917 14014 371 11951 12147 242 </steps_updated>
+    <steps_updated num="8">7831 7990 238 11004 5895 1681 5994 7462 4150 2696 8751 10570 7127 210 11951 937 371 5994 11462 </steps_updated>
+    <steps_updated num="9">6823 11951 1197 10950 5994 13757 14511 4120 11951 6885 6145 597 9342 13817 597 8587 </steps_updated>
+    <steps_updated num="10">283 1681 12119 </steps_updated>
+    <steps_updated num="11">1594 11951 597 1046 4255 10707 371 11951 9313 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

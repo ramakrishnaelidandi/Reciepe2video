@@ -1,0 +1,57 @@
+<recipe>
+  <title>Spicy Sesame Cauliflower Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-sesame-cauliflower</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 890 13278 13125 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="2">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="3">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="4">1580 3173 13278 10426 </ingredient>
+    <ingredient num="5">7632 7990 5291 </ingredient>
+    <ingredient num="6">3917 14014 13278 9110 5766 </ingredient>
+    <ingredient num="7">3917 14014 13278 11384 </ingredient>
+    <ingredient num="8">1580 2605 13278 11691 2260 13278 2935 8007 </ingredient>
+    <ingredient num="9">12791 2605 13278 7706 10769 13278 13125 8007 </ingredient>
+    <ingredient num="10">3917 14014 13278 4834 </ingredient>
+    <ingredient num="11">8580 9486 13278 7082 </ingredient>
+    <ingredient num="12">9110 4 4711 560 11567 </ingredient>
+    <ingredient num="13">10286 1404 7990 4711 </ingredient>
+    <ingredient num="14">3917 14014 13278 12367 11514 10968 7887 9064 12367 13817 7887 9064 12282 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32057/low_1495125053.m3u8</low>
+    <high>https://vid.tasty.co/output/32057/mp4_720x1280/1495125053</high>
+  </video>
+  <steps>
+    <step num="0">283 3626 6467 9889 10765 11703 13817 11384 785 </step>
+    <step num="1">9179 11951 3962 10426 13817 1686 560 515 6823 11901 4690 5994 7497 11826 371 4428 11770 11951 12524 </step>
+    <step num="2">2007 7256 10426 1681 10963 1240 5103 13817 3499 1198 14158 </step>
+    <step num="3">6823 11951 10534 9110 2260 5569 14246 11951 9110 7632 4155 11691 7280 7706 4450 4834 13817 10377 </step>
+    <step num="4">8785 11951 2260 560 5994 1002 415 740 11951 12367 1267 9393 210 13817 3945 11951 2260 5364 </step>
+    <step num="5">9179 11951 1940 10426 13817 1686 560 6798 210 9286 </step>
+    <step num="6">13688 1391 9110 1245 13817 3962 8278 12774 1391 8860 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">283 3626 6467 9889 10765 11703 13817 11384 785 </steps_updated>
+    <steps_updated num="1">9179 11951 3962 10426 13817 1686 560 515 </steps_updated>
+    <steps_updated num="2">6823 11901 4690 5994 7497 11826 371 4428 11770 11951 12524 </steps_updated>
+    <steps_updated num="3">2007 7256 10426 1681 10963 1240 5103 13817 3499 1198 14158 </steps_updated>
+    <steps_updated num="4">6823 11951 10534 9110 2260 5569 14246 11951 9110 7632 4155 11691 7280 7706 4450 4834 13817 10377 </steps_updated>
+    <steps_updated num="5">8785 11951 2260 560 5994 1002 415 740 11951 12367 1267 </steps_updated>
+    <steps_updated num="6">9393 210 13817 3945 11951 2260 5364 </steps_updated>
+    <steps_updated num="7">9179 11951 1940 10426 13817 1686 560 6798 210 9286 </steps_updated>
+    <steps_updated num="8">13688 1391 9110 1245 13817 3962 8278 </steps_updated>
+    <steps_updated num="9">12774 1391 8860 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy &amp; Healthy Fried Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthier-fried-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; sesame oil </ingredient>
+    <ingredient num="1">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">2 ; chicken breasts, diced </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">1 cup ; carrot, diced ; (120 g) </ingredient>
+    <ingredient num="6">1 cup ; broccoli floret ; (250 g) </ingredient>
+    <ingredient num="7">2 cups ; brown rice, cooked ; (400 g) </ingredient>
+    <ingredient num="8">½ cup ; frozen peas ; (75 g) </ingredient>
+    <ingredient num="9">3 tablespoons ; low sodium soy sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27133/low_1490140851.m3u8</low>
+    <high>https://vid.tasty.co/output/27133/mp4_720x1280/1490140851</high>
+  </video>
+  <steps>
+    <step num="0">Heat sesame oil in a skillet, and cook garlic until softened. </step>
+    <step num="1">Add the chicken, salt, and pepper, and sauté for 5 minutes. </step>
+    <step num="2">Add the carrots and broccoli, and sauté until tender. </step>
+    <step num="3">Add the rice, soy sauce, and peas, and mix thoroughly. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat sesame oil in a skillet, and cook garlic until softened. </steps_updated>
+    <steps_updated num="1">Add the chicken, salt, and pepper, and sauté for 5 minutes. </steps_updated>
+    <steps_updated num="2">Add the carrots and broccoli, and sauté until tender. </steps_updated>
+    <steps_updated num="3">Add the rice, soy sauce, and peas, and mix thoroughly. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

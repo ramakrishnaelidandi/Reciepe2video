@@ -1,0 +1,49 @@
+<recipe>
+  <title>Mochi Sesame Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mochi-sesame-balls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mochi-desserts-you-ll-wish-you-knew-about-sooner</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 8083 3984 30 13278 8118 5981 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 12638 6467 12903 7706 13753 13278 6181 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 4834 </ingredient>
+    <ingredient num="3">3591 2605 13278 12282 13278 8178 8007 </ingredient>
+    <ingredient num="4">488 9110 12320 2658 13615 </ingredient>
+    <ingredient num="5">11338 7632 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118008/hls24_1543874241.m3u8</low>
+    <high>https://vid.tasty.co/output/118008/landscape_720/1543874241</high>
+  </video>
+  <duration>
+    <start_time>255.33300000000003</start_time>
+    <end_time>293.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">877 8083 3984 30 669 5527 13817 772 3557 669 2192 13202 </step>
+    <step num="1">9179 2484 6145 13817 12282 210 5994 13757 7616 6611 1681 10524 13817 12119 4429 3557 9490 13700 2068 740 3954 2019 </step>
+    <step num="2">686 3482 5994 13601 371 8337 13817 6201 5791 11951 10763 10882 3984 6267 13817 4536 669 5994 14560 12450 5285 371 11951 6267 5376 11484 4721 4127 12339 12313 2769 10590 7427 6798 1391 488 9110 6974 </step>
+    <step num="3">264 11951 9110 2984 210 5994 2362 2769 10590 8697 11526 11951 2984 560 2550 7317 </step>
+    <step num="4">264 1681 11951 8337 837 669 12449 205 2933 8754 12689 12774 7389 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">877 8083 3984 30 669 5527 13817 772 3557 669 2192 13202 </steps_updated>
+    <steps_updated num="1">9179 2484 6145 13817 12282 210 5994 13757 7616 </steps_updated>
+    <steps_updated num="2">6611 1681 10524 13817 12119 </steps_updated>
+    <steps_updated num="3">4429 3557 9490 13700 2068 740 3954 2019 </steps_updated>
+    <steps_updated num="4">686 3482 5994 13601 371 8337 13817 6201 </steps_updated>
+    <steps_updated num="5">5791 11951 10763 10882 3984 6267 13817 4536 669 5994 14560 </steps_updated>
+    <steps_updated num="6">12450 5285 371 11951 6267 5376 11484 4721 4127 12339 12313 2769 10590 </steps_updated>
+    <steps_updated num="7">7427 6798 1391 488 9110 6974 </steps_updated>
+    <steps_updated num="8">264 11951 9110 2984 210 5994 2362 2769 10590 </steps_updated>
+    <steps_updated num="9">8697 11526 11951 2984 560 2550 7317 </steps_updated>
+    <steps_updated num="10">264 1681 11951 8337 837 669 12449 205 2933 8754 12689 </steps_updated>
+    <steps_updated num="11">12774 7389 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

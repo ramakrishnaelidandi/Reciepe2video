@@ -1,0 +1,45 @@
+<recipe>
+  <title>BBQ Chicken Rollups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-rollups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 6146 14321 10912 </ingredient>
+    <ingredient num="1">1580 2605 13278 4716 2260 13278 4337 5981 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 482 12816 3333 13278 9494 5981 </ingredient>
+    <ingredient num="3">1580 9271 13278 8083 12384 11588 3962 13278 1580 9271 </ingredient>
+    <ingredient num="4">3917 2605 13278 3333 14538 13278 11953 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 11911 3962 13278 12237 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Italian</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32109/low_1495125366.m3u8</low>
+    <high>https://vid.tasty.co/output/32109/mp4_720x1280/1495125366</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">7692 2696 11951 6146 1547 669 5994 9754 </step>
+    <step num="2">2988 4255 11951 4716 9286 13494 1391 12816 12384 13810 13817 13012 </step>
+    <step num="3">7692 3557 3386 10116 13817 7777 669 10832 7831 1342 7990 13133 12689 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">7692 2696 11951 6146 1547 669 5994 9754 </steps_updated>
+    <steps_updated num="2">2988 4255 11951 4716 9286 </steps_updated>
+    <steps_updated num="3">13494 1391 12816 12384 13810 13817 13012 </steps_updated>
+    <steps_updated num="4">7692 3557 3386 10116 13817 7777 669 10832 </steps_updated>
+    <steps_updated num="5">7831 1342 7990 13133 12689 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

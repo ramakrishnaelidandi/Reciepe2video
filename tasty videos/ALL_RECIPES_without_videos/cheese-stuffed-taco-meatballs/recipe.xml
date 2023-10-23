@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese-stuffed Taco Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-stuffed-taco-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">⅓ cup ; onion, minced ; (50 g) </ingredient>
+    <ingredient num="2">¼ cup ; fresh cilantro, minced ; (10 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="4">1 ; egg </ingredient>
+    <ingredient num="5">½ cup ; tortilla chips, crushed ; (15 g) </ingredient>
+    <ingredient num="6">¼ lb ; jack cheese, cut into 12 equal cubes ; (25 g) </ingredient>
+    <ingredient num="7">vegetable oil </ingredient>
+    <ingredient num="8">salsa </ingredient>
+    <ingredient num="9">fresh cilantro </ingredient>
+    <ingredient num="10">sour cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18576/low_1482183958.m3u8</low>
+    <high>https://vid.tasty.co/output/18576/mp4_720x1280/1482183958</high>
+  </video>
+  <steps>
+    <step num="0">Crush the chips in a plastic bag. </step>
+    <step num="1">In a bowl, combine all ingredients except the cheese and vegetable oil. Stir until fully incorporated. </step>
+    <step num="2">With your hands, grab about a golf ball-sized amount of the ground beef mixture and slightly flatten it in your palm. </step>
+    <step num="3">Take 1 cube of cheese, place it in the the middle, and press the beef around it so the cheese is fully covered and in the center of the meatball. </step>
+    <step num="4">Heat a thin layer of vegetable oil in a cast-iron pan over medium to medium-high heat. </step>
+    <step num="5">Once the pan is hot, cook the meatballs. Rotate them throughout cooking to brown all sides and cook through. </step>
+    <step num="6">Once meatballs are fully cooked and browned, remove from the pan and top with salsa, sour cream, and cilantro. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Crush the chips in a plastic bag. </steps_updated>
+    <steps_updated num="1">In a bowl, combine all ingredients except the cheese and vegetable oil. </steps_updated>
+    <steps_updated num="2">Stir until fully incorporated. </steps_updated>
+    <steps_updated num="3">With your hands, grab about a golf ball-sized amount of the ground beef mixture and slightly flatten it in your palm. </steps_updated>
+    <steps_updated num="4">Take 1 cube of cheese, place it in the the middle, and press the beef around it so the cheese is fully covered and in the center of the meatball. </steps_updated>
+    <steps_updated num="5">Heat a thin layer of vegetable oil in a cast-iron pan over medium to medium-high heat. </steps_updated>
+    <steps_updated num="6">Once the pan is hot, cook the meatballs. </steps_updated>
+    <steps_updated num="7">Rotate them throughout cooking to brown all sides and cook through. </steps_updated>
+    <steps_updated num="8">Once meatballs are fully cooked and browned, remove from the pan and top with salsa, sour cream, and cilantro. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

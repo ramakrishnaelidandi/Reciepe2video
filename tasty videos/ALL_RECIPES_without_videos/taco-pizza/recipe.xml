@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="4">1 tube ; pizza dough </ingredient>
+    <ingredient num="5">2 cups ; mexican blend cheese ; (200 g) </ingredient>
+    <ingredient num="6">2 cups ; lettuce, shredded ; (145 g) </ingredient>
+    <ingredient num="7">1 cup ; tomato, diced ; (200 g) </ingredient>
+    <ingredient num="8">1 ; avocado, diced </ingredient>
+    <ingredient num="9">½ cup ; sour cream ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31474/low_1494629601.m3u8</low>
+    <high>https://vid.tasty.co/output/31474/mp4_720x1280/1494629601</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">In a skillet over high heat, cook ground beef with salt, pepper, and taco seasoning until fully cooked. Remove from heat and set aside. </step>
+    <step num="2">Place pizza dough on a parchment paper-lined baking sheet. Bake for 10 minutes. </step>
+    <step num="3">Top pizza dough with beef mixture and cheese. Bake for an additional 5 minutes. </step>
+    <step num="4">Top pizza with lettuce, tomatoes, avocado, and sour cream. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">In a skillet over high heat, cook ground beef with salt, pepper, and taco seasoning until fully cooked. </steps_updated>
+    <steps_updated num="2">Remove from heat and set aside. </steps_updated>
+    <steps_updated num="3">Place pizza dough on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="4">Bake for 10 minutes. </steps_updated>
+    <steps_updated num="5">Top pizza dough with beef mixture and cheese. </steps_updated>
+    <steps_updated num="6">Bake for an additional 5 minutes. </steps_updated>
+    <steps_updated num="7">Top pizza with lettuce, tomatoes, avocado, and sour cream. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

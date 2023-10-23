@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Asian Chicken Chopped Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/asian-chicken-chopped-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="2">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="5">1 ; garlic cloves, sliced </ingredient>
+    <ingredient num="6">1 tablespoon ; ginger, chopped </ingredient>
+    <ingredient num="7">¼ cup ; rice vinegar ; (60 mL) </ingredient>
+    <ingredient num="8">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="9">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="10">1 tablespoon ; sugar </ingredient>
+    <ingredient num="11">1 ; garlic cloves, grated </ingredient>
+    <ingredient num="12">1 teaspoon ; ginger, grated </ingredient>
+    <ingredient num="13">2 ; romaine lettuces, chopped </ingredient>
+    <ingredient num="14">1 cup ; red cabbage ; (100 g) </ingredient>
+    <ingredient num="15">½ cup ; carrots, grated ; (55 g) </ingredient>
+    <ingredient num="16">¼ cup ; green onion, chopped ; (25 g) </ingredient>
+    <ingredient num="17">¼ cup ; cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="18">¼ cup ; almond slice ; (25 g) </ingredient>
+    <ingredient num="19">¼ cup ; fried wonton chip ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25136/low_1488325741.m3u8</low>
+    <high>https://vid.tasty.co/output/25136/mp4_720x1280/1488325741</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine marinade ingredients. </step>
+    <step num="1">Add chicken into the bowl, coat the chicken, and marinate for 30 minutes in the fridge. </step>
+    <step num="2">Fully cook chicken. </step>
+    <step num="3">Cut into cubes. </step>
+    <step num="4">In a mason jar, combine ingredients for the dressing. Shake and set aside. </step>
+    <step num="5">Prep the salad. Add all of the salad ingredients into a large bowl and add the cubed chicken and dressing. Toss. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine marinade ingredients. </steps_updated>
+    <steps_updated num="1">Add chicken into the bowl, coat the chicken, and marinate for 30 minutes in the fridge. </steps_updated>
+    <steps_updated num="2">Fully cook chicken. </steps_updated>
+    <steps_updated num="3">Cut into cubes. </steps_updated>
+    <steps_updated num="4">In a mason jar, combine ingredients for the dressing. </steps_updated>
+    <steps_updated num="5">Shake and set aside. </steps_updated>
+    <steps_updated num="6">Prep the salad. </steps_updated>
+    <steps_updated num="7">Add all of the salad ingredients into a large bowl and add the cubed chicken and dressing. </steps_updated>
+    <steps_updated num="8">Toss. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

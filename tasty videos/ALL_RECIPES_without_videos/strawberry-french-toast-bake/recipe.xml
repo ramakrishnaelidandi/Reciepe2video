@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry French Toast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-french-toast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 ; biscuits, or 1 can biscuit dough </ingredient>
+    <ingredient num="1">1 cup ; strawberry, quartered ; (150 g) </ingredient>
+    <ingredient num="2">2 cups ; strawberry, finely diced ; (300 g) </ingredient>
+    <ingredient num="3">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="6">½ cup ; maple syrup ; (168 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="8">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="9">whipped cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26300/low_1489193456.m3u8</low>
+    <high>https://vid.tasty.co/output/26300/mp4_720x1280/1489193456</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven 350˚F (180˚C). </step>
+    <step num="1">Slice each biscuit into 8 pieces and place in a greased baking dish. </step>
+    <step num="2">In a saucepan on medium heat, combine strawberry filling ingredients and cook until it reaches a boil. Reduce heat to a simmer and continue to cook until filling reaches a smooth consistency. Remove from heat and set aside. </step>
+    <step num="3">Combine egg mixture ingredients in a large bowl until well-incorporated. </step>
+    <step num="4">Place biscuits in a greased baking dish and spread the egg mixture evenly on top. </step>
+    <step num="5">Top with strawberry filling and the fresh quartered strawberries. </step>
+    <step num="6">Bake for 40-50 minutes, or until golden brown. </step>
+    <step num="7">Slice and serve with whipped cream. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Slice each biscuit into 8 pieces and place in a greased baking dish. </steps_updated>
+    <steps_updated num="2">In a saucepan on medium heat, combine strawberry filling ingredients and cook until it reaches a boil. </steps_updated>
+    <steps_updated num="3">Reduce heat to a simmer and continue to cook until filling reaches a smooth consistency. </steps_updated>
+    <steps_updated num="4">Remove from heat and set aside. </steps_updated>
+    <steps_updated num="5">Combine egg mixture ingredients in a large bowl until well-incorporated. </steps_updated>
+    <steps_updated num="6">Place biscuits in a greased baking dish and spread the egg mixture evenly on top. </steps_updated>
+    <steps_updated num="7">Top with strawberry filling and the fresh quartered strawberries. </steps_updated>
+    <steps_updated num="8">Bake for 40-50 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="9">Slice and serve with whipped cream. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

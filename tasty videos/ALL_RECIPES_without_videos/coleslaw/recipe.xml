@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Coleslaw Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coleslaw</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-bbq-recipes-for-a-great-bbq</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; mayonnaise ; (120 g) </ingredient>
+    <ingredient num="1">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="2">½ tablespoon ; lemon juice </ingredient>
+    <ingredient num="3">2 tablespoons ; apple cider vinegar </ingredient>
+    <ingredient num="4">2 teaspoons ; honey </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">3 cups ; green cabbage, very thinly sliced, 1/2 small head ; (300 g) </ingredient>
+    <ingredient num="8">3 cups ; purple cabbage, very thinly sliced, 1/2 small head ; (300 g) </ingredient>
+    <ingredient num="9">1 ; large carrot, peeled and grated </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+    <category num="3">Casual Party</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99711/hls24_1529684842.m3u8</low>
+    <high>https://vid.tasty.co/output/99711/landscape_720/1529684842</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>25.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, whisk together the mayonnaise, sour cream, lemon juice, vinegar, honey, salt, and pepper. </step>
+    <step num="1">Add the green cabbage, red cabbage, and carrot, and toss to coat. Cover and chill until ready to serve. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, whisk together the mayonnaise, sour cream, lemon juice, vinegar, honey, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Add the green cabbage, red cabbage, and carrot, and toss to coat. </steps_updated>
+    <steps_updated num="2">Cover and chill until ready to serve. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Peanut Butter Shake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peanut-butter-shake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spiked-milkshake-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">2 tablespoons ; peanut butter </ingredient>
+    <ingredient num="2">2 fl oz ; spiced rum ; (60 mL) </ingredient>
+    <ingredient num="3">2 cups ; chocolate ice cream ; (265 g) </ingredient>
+    <ingredient num="4">whipped cream, for topping </ingredient>
+    <ingredient num="5">chopped peanut, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Drinks</category>
+    <category num="4">Date Night</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44793/low_1500943653.m3u8</low>
+    <high>https://vid.tasty.co/output/44793/mp4_720x1280/1500943653</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>19.72</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine the banana, peanut butter, spiced rum, and chocolate ice cream in a blender. Blend until smooth. </step>
+    <step num="1">Top with whipped cream and chopped peanuts. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the banana, peanut butter, spiced rum, and chocolate ice cream in a blender. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">Top with whipped cream and chopped peanuts. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00608</end_time>
+  </duration_human>
+</recipe>

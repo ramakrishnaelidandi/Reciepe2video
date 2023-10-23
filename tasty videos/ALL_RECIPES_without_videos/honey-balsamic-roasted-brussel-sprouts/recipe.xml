@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Balsamic Roasted Brussels Sprouts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-balsamic-roasted-brussel-sprouts</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-roasted-veggies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ lb ; brussels sprouts ; (680 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; oil </ingredient>
+    <ingredient num="2">2 tablespoons ; balsamic vinegar </ingredient>
+    <ingredient num="3">2 teaspoons ; honey </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Sides</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31203/low_1494349079.m3u8</low>
+    <high>https://vid.tasty.co/output/31203/mp4_720x1280/1494349079</high>
+  </video>
+  <duration>
+    <start_time>74.0</start_time>
+    <end_time>100.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220ºC). </step>
+    <step num="1">Slice the stem off of the Brussels sprouts and then halve them. </step>
+    <step num="2">On a prepared baking sheet, combine Brussels sprouts and remaining ingredients. Mix evenly. </step>
+    <step num="3">Bake for 15-20 minutes. </step>
+    <step num="4">Allow to cool for 5 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220ºC). </steps_updated>
+    <steps_updated num="1">Slice the stem off of the Brussels sprouts and then halve them. </steps_updated>
+    <steps_updated num="2">On a prepared baking sheet, combine Brussels sprouts and remaining ingredients. </steps_updated>
+    <steps_updated num="3">Mix evenly. </steps_updated>
+    <steps_updated num="4">Bake for 15-20 minutes. </steps_updated>
+    <steps_updated num="5">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02261</start_time>
+    <end_time>03032</end_time>
+  </duration_human>
+</recipe>

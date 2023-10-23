@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roasted Broccoli With Tahini Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-broccoli-with-tahini</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-ways-to-make-vegetables-taste-great</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; broccoli, cut into florets ; (455 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ lemon ; lemon zest </ingredient>
+    <ingredient num="4">tahini, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Snacks</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75411/hls24_1517258080.m3u8</low>
+    <high>https://vid.tasty.co/output/75411/landscape_720/1517258080</high>
+  </video>
+  <duration>
+    <start_time>1.0</start_time>
+    <end_time>37.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 450˚F (230˚C). </step>
+    <step num="1">On a parchment paper-lined baking sheet, cover broccoli in olive oil and toss to coat evenly. </step>
+    <step num="2">Season with salt and lemon zest and roast for 10-12 minutes or until lightly browned. </step>
+    <step num="3">Serve with tahini sauce. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">On a parchment paper-lined baking sheet, cover broccoli in olive oil and toss to coat evenly. </steps_updated>
+    <steps_updated num="2">Season with salt and lemon zest and roast for 10-12 minutes or until lightly browned. </steps_updated>
+    <steps_updated num="3">Serve with tahini sauce. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00068</start_time>
+    <end_time>00893</end_time>
+  </duration_human>
+</recipe>

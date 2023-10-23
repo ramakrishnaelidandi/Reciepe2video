@@ -1,0 +1,49 @@
+<recipe>
+  <title>Chicken Caesar Pasta Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-caesar-pasta-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13767 643 13278 1442 5444 8185 950 13278 13113 5981 </ingredient>
+    <ingredient num="1">13086 7678 13278 7983 </ingredient>
+    <ingredient num="2">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">8580 6164 13278 2080 7334 7777 669 6620 2985 2309 8861 9458 13009 </ingredient>
+    <ingredient num="6">3917 2605 13278 5071 7042 7777 210 2532 13278 6898 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 10271 13278 1258 5981 </ingredient>
+    <ingredient num="8">109 13810 560 11567 </ingredient>
+    <ingredient num="9">9883 2605 13278 2177 11708 13278 9494 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32172/low_1495125420.m3u8</low>
+    <high>https://vid.tasty.co/output/32172/mp4_720x1280/1495125420</high>
+  </video>
+  <steps>
+    <step num="0">9731 13384 740 11951 5444 13817 2550 12968 560 3756 1254 11720 13384 13817 3945 11951 950 2448 </step>
+    <step num="1">7559 12616 10763 371 11951 7983 7678 1391 3917 1184 8244 7632 12610 13817 12375 </step>
+    <step num="2">2927 7990 8694 560 7393 8927 4255 10763 145 14100 11951 7983 669 12286 13637 </step>
+    <step num="3">10950 5994 2597 12377 4120 5444 2080 7334 7042 12816 9099 11493 13817 10280 5342 7643 13092 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9731 13384 740 11951 5444 13817 2550 12968 560 3756 1254 </steps_updated>
+    <steps_updated num="1">11720 13384 13817 3945 11951 950 2448 </steps_updated>
+    <steps_updated num="2">7559 12616 10763 371 11951 7983 7678 1391 3917 1184 </steps_updated>
+    <steps_updated num="3">8244 7632 12610 13817 12375 </steps_updated>
+    <steps_updated num="4">2927 7990 8694 560 7393 8927 4255 10763 145 </steps_updated>
+    <steps_updated num="5">14100 11951 7983 669 12286 13637 </steps_updated>
+    <steps_updated num="6">10950 5994 2597 12377 4120 5444 2080 7334 7042 12816 9099 11493 13817 10280 5342 </steps_updated>
+    <steps_updated num="7">7643 13092 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

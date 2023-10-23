@@ -1,0 +1,67 @@
+<recipe>
+  <title>Fajita-Stuffed Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-stuffed-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 11338 7632 7990 4068 </ingredient>
+    <ingredient num="1">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="2">3917 13278 4985 1466 10986 341 </ingredient>
+    <ingredient num="3">3917 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="4">3917 13278 12384 341 </ingredient>
+    <ingredient num="5">3917 8071 13278 3855 82 </ingredient>
+    <ingredient num="6">3917 8071 13278 6209 11088 13584 7845 </ingredient>
+    <ingredient num="7">4061 643 13278 13033 14538 13278 7289 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 3333 9784 14538 13278 2264 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 7845 8572 13810 341 13278 2264 5981 </ingredient>
+    <ingredient num="10">13086 13278 8355 2144 7983 7678 </ingredient>
+    <ingredient num="11">8580 2031 13278 82 </ingredient>
+    <ingredient num="12">8580 2031 13278 13389 11703 </ingredient>
+    <ingredient num="13">8580 2031 13278 3170 </ingredient>
+    <ingredient num="14">8580 2031 13278 11384 11703 </ingredient>
+    <ingredient num="15">13086 9486 13278 11338 7632 7990 7983 </ingredient>
+    <ingredient num="16">10599 7990 7818 </ingredient>
+    <ingredient num="17">1484 1123 7990 7818 </ingredient>
+    <ingredient num="18">14322 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31930/low_1495124938.m3u8</low>
+    <high>https://vid.tasty.co/output/31930/mp4_720x1280/1495124938</high>
+  </video>
+  <steps>
+    <step num="0">8889 11951 11338 5766 12223 11951 3196 210 5994 5687 11770 8283 2082 264 11951 5016 12384 12610 13817 7845 1681 12386 13817 4721 9687 </step>
+    <step num="1">12785 11951 3745 4068 560 5994 7616 10950 11951 5540 14511 10968 210 11951 13033 13810 9631 13817 7845 8706 13328 1681 3584 9456 2257 5292 </step>
+    <step num="2">10950 5994 10909 14511 4120 11951 7983 1391 11951 12610 13389 8117 2670 13817 11384 8117 3584 4229 11951 2180 11770 11951 9104 </step>
+    <step num="3">12474 5994 4669 8667 12205 5994 8142 210 11951 7983 10493 </step>
+    <step num="4">1349 11951 8142 1391 5994 304 6481 371 11951 629 10665 8724 11951 5832 371 11951 7983 3626 560 10697 210 11951 198 5362 1391 11951 374 9104 </step>
+    <step num="5">8889 11951 11338 5766 210 5994 5687 11770 13757 2082 264 11951 1997 7983 7990 7460 8927 4255 10763 7780 1681 14538 9490 5335 13817 7983 9490 3745 8119 </step>
+    <step num="6">12774 1391 10599 1484 1123 13817 6598 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 11951 11338 5766 12223 11951 3196 210 5994 5687 11770 8283 2082 </steps_updated>
+    <steps_updated num="1">264 11951 5016 12384 12610 13817 7845 1681 12386 13817 4721 9687 </steps_updated>
+    <steps_updated num="2">12785 11951 3745 4068 560 5994 7616 </steps_updated>
+    <steps_updated num="3">10950 11951 5540 14511 10968 210 11951 13033 13810 9631 13817 7845 8706 13328 1681 3584 9456 </steps_updated>
+    <steps_updated num="4">2257 5292 </steps_updated>
+    <steps_updated num="5">10950 5994 10909 14511 4120 11951 7983 1391 11951 12610 13389 8117 2670 13817 11384 8117 3584 4229 11951 2180 11770 11951 9104 </steps_updated>
+    <steps_updated num="6">12474 5994 4669 8667 12205 5994 8142 210 11951 7983 10493 </steps_updated>
+    <steps_updated num="7">1349 11951 8142 1391 5994 304 6481 371 11951 629 10665 </steps_updated>
+    <steps_updated num="8">8724 11951 5832 371 11951 7983 3626 560 10697 210 11951 198 </steps_updated>
+    <steps_updated num="9">5362 1391 11951 374 9104 </steps_updated>
+    <steps_updated num="10">8889 11951 11338 5766 210 5994 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="11">264 11951 1997 7983 7990 7460 8927 4255 10763 7780 1681 14538 9490 5335 13817 7983 9490 3745 8119 </steps_updated>
+    <steps_updated num="12">12774 1391 10599 1484 1123 13817 6598 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

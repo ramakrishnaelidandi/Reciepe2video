@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Deep Dish Pizza</title>
+  <url>https://tasty.co/recipe/deep-dish-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ lb ; italian sausage ; (225 g) </ingredient>
+    <ingredient num="1">10 slices ; mozzarella cheese </ingredient>
+    <ingredient num="2">freshly grated parmesan cheese </ingredient>
+    <ingredient num="3">1 ¼ cups ; water, warm ; (300 mL) </ingredient>
+    <ingredient num="4">2 ¼ teaspoons ; active dry yeast </ingredient>
+    <ingredient num="5">2 teaspoons ; sugar </ingredient>
+    <ingredient num="6">3 ¼ cups ; flour ; (405 g) </ingredient>
+    <ingredient num="7">¾ cup ; cornmeal ; (105 g) </ingredient>
+    <ingredient num="8">2 teaspoons ; salt </ingredient>
+    <ingredient num="9">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="10">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="11">2 tablespoons ; butter </ingredient>
+    <ingredient num="12">1 ; onion, diced </ingredient>
+    <ingredient num="13">1 teaspoon ; salt </ingredient>
+    <ingredient num="14">1 teaspoon ; crushed red pepper </ingredient>
+    <ingredient num="15">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="16">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="17">1 teaspoon ; sugar </ingredient>
+    <ingredient num="18">30 oz ; crushed tomato with basil, 1 can ; (795 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30695/low_1493747498.m3u8</low>
+    <high>https://vid.tasty.co/output/30695/mp4_720x1280/1493747498</high>
+  </video>
+  <steps>
+    <step num="0">For the pizza sauce, melt the butter in a small saucepan and add the onion, salt, red pepper flakes, and oregano, and sauté until golden brown. </step>
+    <step num="1">Add the garlic, sugar, and crushed tomatoes, and simmer for roughly 20 minutes or until sauce thickens. </step>
+    <step num="2">For the dough, combine the active dry yeast, sugar, and warm water together and let sit for one minute. </step>
+    <step num="3">In a large mixing bowl, combine the flour, cornmeal, and salt. </step>
+    <step num="4">Add the yeast mixture and butter into the dry ingredients and stir until dough forms. </step>
+    <step num="5">Bring dough to floured surface and knead until dough forms into a ball. </step>
+    <step num="6">Move dough to large bowl drizzled with olive oil. Coat dough in oil and cover. Let rest for 1 hour. </step>
+    <step num="7">Remove dough and bring onto floured surface. </step>
+    <step num="8">Cut dough in half and begin working dough out, ensuring that it is at least 2 inches (5 cm) wider than your deep dish pan. </step>
+    <step num="9">Double wrap the remaining dough with plastic wrap and place in a resealable freezer bag. Freeze for up to a month. </step>
+    <step num="10">Preheat your oven to 425°F (215°C). </step>
+    <step num="11">Bring your dough into your oiled and floured deep dish pan. </step>
+    <step num="12">Using your hands press dough into sides of your dish making it as even as possible. </step>
+    <step num="13">Lay slices of mozzarella across the dough, covering the entire bottom. </step>
+    <step num="14">Add pieces of uncased italian sausage on top of the mozzarella and top with tomato sauce. </step>
+    <step num="15">Bake for 20-25 minutes or until crust starts to lightly brown and the cheese is melted. </step>
+    <step num="16">Garnish with parmesan, cut and serve. </step>
+    <step num="17">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the pizza sauce, melt the butter in a small saucepan and add the onion, salt, red pepper flakes, and oregano, and sauté until golden brown. </steps_updated>
+    <steps_updated num="1">Add the garlic, sugar, and crushed tomatoes, and simmer for roughly 20 minutes or until sauce thickens. </steps_updated>
+    <steps_updated num="2">For the dough, combine the active dry yeast, sugar, and warm water together and let sit for one minute. </steps_updated>
+    <steps_updated num="3">In a large mixing bowl, combine the flour, cornmeal, and salt. </steps_updated>
+    <steps_updated num="4">Add the yeast mixture and butter into the dry ingredients and stir until dough forms. </steps_updated>
+    <steps_updated num="5">Bring dough to floured surface and knead until dough forms into a ball. </steps_updated>
+    <steps_updated num="6">Move dough to large bowl drizzled with olive oil. </steps_updated>
+    <steps_updated num="7">Coat dough in oil and cover. </steps_updated>
+    <steps_updated num="8">Let rest for 1 hour. </steps_updated>
+    <steps_updated num="9">Remove dough and bring onto floured surface. </steps_updated>
+    <steps_updated num="10">Cut dough in half and begin working dough out, ensuring that it is at least 2 inches (5 cm) wider than your deep dish pan. </steps_updated>
+    <steps_updated num="11">Double wrap the remaining dough with plastic wrap and place in a resealable freezer bag. </steps_updated>
+    <steps_updated num="12">Freeze for up to a month. </steps_updated>
+    <steps_updated num="13">Preheat your oven to 425°F (215°C). </steps_updated>
+    <steps_updated num="14">Bring your dough into your oiled and floured deep dish pan. </steps_updated>
+    <steps_updated num="15">Using your hands press dough into sides of your dish making it as even as possible. </steps_updated>
+    <steps_updated num="16">Lay slices of mozzarella across the dough, covering the entire bottom. </steps_updated>
+    <steps_updated num="17">Add pieces of uncased italian sausage on top of the mozzarella and top with tomato sauce. </steps_updated>
+    <steps_updated num="18">Bake for 20-25 minutes or until crust starts to lightly brown and the cheese is melted. </steps_updated>
+    <steps_updated num="19">Garnish with parmesan, cut and serve. </steps_updated>
+    <steps_updated num="20">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

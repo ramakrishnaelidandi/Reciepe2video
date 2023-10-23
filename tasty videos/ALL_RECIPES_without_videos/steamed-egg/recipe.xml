@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steamed Egg Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steamed-egg</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ⅓ cups ; water, divided ; (320 mL) </ingredient>
+    <ingredient num="1">1 ; egg, beaten </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+    <ingredient num="3">chives, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>45.0</start_time>
+    <end_time>68.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a medium pot with about 1 cup (240 ml) of water, just enough to cover the bottom of the pan by an inch (2 cm), to a boil. </step>
+    <step num="1">Add the beaten egg to a ramekin and sprinkle in a pinch of salt. </step>
+    <step num="2">While slowly stirring with a fork, pour in the remaining water. </step>
+    <step num="3">Cover with foil and place the ramekin into the boiling water. Cover and steam for 12 minutes. Uncover, carefully remove the ramekin, and take off the foil. </step>
+    <step num="4">Top with chives if you like. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a medium pot with about 1 cup (240 ml) of water, just enough to cover the bottom of the pan by an inch (2 cm), to a boil. </steps_updated>
+    <steps_updated num="1">Add the beaten egg to a ramekin and sprinkle in a pinch of salt. </steps_updated>
+    <steps_updated num="2">While slowly stirring with a fork, pour in the remaining water. </steps_updated>
+    <steps_updated num="3">Cover with foil and place the ramekin into the boiling water. </steps_updated>
+    <steps_updated num="4">Cover and steam for 12 minutes. </steps_updated>
+    <steps_updated num="5">Uncover, carefully remove the ramekin, and take off the foil. </steps_updated>
+    <steps_updated num="6">Top with chives if you like. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

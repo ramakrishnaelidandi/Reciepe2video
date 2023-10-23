@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach Pesto Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-pesto</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">8 oz ; spaghetti, cooked according to package ; (225 g) </ingredient>
+    <ingredient num="4">4 cups ; fresh spinach ; (160 g) </ingredient>
+    <ingredient num="5">½ cup ; walnuts ; (50 g) </ingredient>
+    <ingredient num="6">4 cloves ; garlic </ingredient>
+    <ingredient num="7">¼ cup ; parmesan cheese, grated ; (30 g) </ingredient>
+    <ingredient num="8">½ teaspoon ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="11">½ cup ; olive oil ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26149/low_1489100786.m3u8</low>
+    <high>https://vid.tasty.co/output/26149/mp4_720x1280/1489100786</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, add all ingredients to make pesto and blend until walnuts are finely blended. </step>
+    <step num="1">In a hot pan, add olive oil and cook chicken breast. Salt and pepper to taste. </step>
+    <step num="2">Remove the chicken and slice. </step>
+    <step num="3">Combine the chicken and pesto sauce into spaghetti and mix until the sauce fully coats the pasta. </step>
+    <step num="4">Serve and top it off with parmesan cheese. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, add all ingredients to make pesto and blend until walnuts are finely blended. </steps_updated>
+    <steps_updated num="1">In a hot pan, add olive oil and cook chicken breast. </steps_updated>
+    <steps_updated num="2">Salt and pepper to taste. </steps_updated>
+    <steps_updated num="3">Remove the chicken and slice. </steps_updated>
+    <steps_updated num="4">Combine the chicken and pesto sauce into spaghetti and mix until the sauce fully coats the pasta. </steps_updated>
+    <steps_updated num="5">Serve and top it off with parmesan cheese. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

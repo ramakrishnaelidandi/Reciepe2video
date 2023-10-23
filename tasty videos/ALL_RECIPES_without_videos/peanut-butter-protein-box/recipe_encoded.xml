@@ -1,0 +1,43 @@
+<recipe>
+  <title>Peanut Butter Protein Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-protein-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 12545 976 </ingredient>
+    <ingredient num="1">1580 2605 13278 10848 13278 7289 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 423 13278 2264 5981 </ingredient>
+    <ingredient num="3">8580 9486 13278 13798 9924 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>40.41</start_time>
+    <end_time>53.64</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 7848 669 14139 </step>
+    <step num="1">5570 10848 13817 519 669 14139 </step>
+    <step num="2">9679 13798 9924 669 14139 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 7848 669 14139 </steps_updated>
+    <steps_updated num="1">5570 10848 13817 519 669 14139 </steps_updated>
+    <steps_updated num="2">9679 13798 9924 669 14139 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01271</start_time>
+    <end_time>01618</end_time>
+  </duration_human>
+</recipe>

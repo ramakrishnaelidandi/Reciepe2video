@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fantasy / Reality Toast (Pisces) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fantasy-reality-toast-pisces</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/astrology-avocado-toast</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; avocado </ingredient>
+    <ingredient num="1">1 slice ; multigrain toast </ingredient>
+    <ingredient num="2">1 tablespoon ; mayonnaise </ingredient>
+    <ingredient num="3">4 slices ; radish </ingredient>
+    <ingredient num="4">3 ; edible flowers </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/124411/hls24_1549495745.m3u8</low>
+    <high>https://vid.tasty.co/output/124411/landscape_720/1549495745</high>
+  </video>
+  <duration>
+    <start_time>292.0</start_time>
+    <end_time>324.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Peel the avocado, then slice very thinly crosswise. Starting from one end, fan out the sliced avocado in straight line, then curl into a ring shape. </step>
+    <step num="1">Spread the mayonnaise over the slice of toast. Top with the radish slices. Carefully transfer the avocado ring to the toast and decorate with edible flowers </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the avocado, then slice very thinly crosswise. </steps_updated>
+    <steps_updated num="1">Starting from one end, fan out the sliced avocado in straight line, then curl into a ring shape. </steps_updated>
+    <steps_updated num="2">Spread the mayonnaise over the slice of toast. </steps_updated>
+    <steps_updated num="3">Top with the radish slices. </steps_updated>
+    <steps_updated num="4">Carefully transfer the avocado ring to the toast and decorate with edible flowers </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

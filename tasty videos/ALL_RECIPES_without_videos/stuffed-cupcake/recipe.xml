@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Stuffed Cupcake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-cupcake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; cake mix </ingredient>
+    <ingredient num="1">mini pies, as needed </ingredient>
+    <ingredient num="2">frosting, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32001/low_1495125017.m3u8</low>
+    <high>https://vid.tasty.co/output/32001/mp4_720x1280/1495125017</high>
+  </video>
+  <steps>
+    <step num="0">Make cake mix according to package directions. </step>
+    <step num="1">Spray the cupcake tin or use cupcake liners. Drop 1 to 2 tbsp. of cake batter into each cupcake cup. </step>
+    <step num="2">Add a mini pie and top with another tbsp. of cake batter. </step>
+    <step num="3">Bake according the cake mix package directions. Let cool when done. </step>
+    <step num="4">Frost to your liking. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make cake mix according to package directions. </steps_updated>
+    <steps_updated num="1">Spray the cupcake tin or use cupcake liners. </steps_updated>
+    <steps_updated num="2">Drop 1 to 2 tbsp. </steps_updated>
+    <steps_updated num="3">of cake batter into each cupcake cup. </steps_updated>
+    <steps_updated num="4">Add a mini pie and top with another tbsp. </steps_updated>
+    <steps_updated num="5">of cake batter. </steps_updated>
+    <steps_updated num="6">Bake according the cake mix package directions. </steps_updated>
+    <steps_updated num="7">Let cool when done. </steps_updated>
+    <steps_updated num="8">Frost to your liking. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

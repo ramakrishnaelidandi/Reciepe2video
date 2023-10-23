@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peanut Noodle Pasta Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-noodle-pasta-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; creamy peanut butter ; (120 g) </ingredient>
+    <ingredient num="1">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="2">¼ cup ; rice vinegar ; (60 mL) </ingredient>
+    <ingredient num="3">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="4">2 tablespoons ; sriracha sauce </ingredient>
+    <ingredient num="5">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="6">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="8">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="9">salt, for water </ingredient>
+    <ingredient num="10">1 box ; whole grain linguine, or pasta of choice </ingredient>
+    <ingredient num="11">1 cup ; large carrots, julienned </ingredient>
+    <ingredient num="12">2 ; cucumbers, shaved using vegetable peeler </ingredient>
+    <ingredient num="13">1 ; red bell pepper, thinly sliced into strips </ingredient>
+    <ingredient num="14">1 ; yellow bell pepper, thinly sliced into strips </ingredient>
+    <ingredient num="15">3 ; green onions, sliced </ingredient>
+    <ingredient num="16">¼ cup ; chopped fresh cilantro ; (10 g) </ingredient>
+    <ingredient num="17">¼ cup ; peanuts, chopped ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Thai</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Sides</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51686/low_1505043635.m3u8</low>
+    <high>https://vid.tasty.co/output/51686/mp4_720x1280/1505043635</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, whisk together peanut butter, soy sauce, rice vinegar, sesame oil, Sriracha, water, minced ginger, minced garlic, and brown sugar. </step>
+    <step num="1">Bring a large pot of lightly salted water to a boil. Cook pasta according to instructions on the box. Drain and run cooked pasta under cold water to cool. </step>
+    <step num="2">Combine pasta with sliced vegetables. </step>
+    <step num="3">Pour the dressing over the pasta and vegetables and mix well. Cover and chill for at least one hour before serving. </step>
+    <step num="4">Garnish with chopped cilantro and peanuts. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, whisk together peanut butter, soy sauce, rice vinegar, sesame oil, Sriracha, water, minced ginger, minced garlic, and brown sugar. </steps_updated>
+    <steps_updated num="1">Bring a large pot of lightly salted water to a boil. </steps_updated>
+    <steps_updated num="2">Cook pasta according to instructions on the box. </steps_updated>
+    <steps_updated num="3">Drain and run cooked pasta under cold water to cool. </steps_updated>
+    <steps_updated num="4">Combine pasta with sliced vegetables. </steps_updated>
+    <steps_updated num="5">Pour the dressing over the pasta and vegetables and mix well. </steps_updated>
+    <steps_updated num="6">Cover and chill for at least one hour before serving. </steps_updated>
+    <steps_updated num="7">Garnish with chopped cilantro and peanuts. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

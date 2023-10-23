@@ -1,0 +1,60 @@
+<recipe>
+  <title>Loaded Sweet Potato Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-sweet-potato-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 10882 2274 2192 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="2">12791 8071 13278 82 </ingredient>
+    <ingredient num="3">12791 8071 13278 7845 </ingredient>
+    <ingredient num="4">3917 8071 13278 9496 </ingredient>
+    <ingredient num="5">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">3917 13278 2144 7983 376 </ingredient>
+    <ingredient num="7">8580 9517 13278 13584 6143 13278 4606 5981 </ingredient>
+    <ingredient num="8">3917 13278 14038 10986 2517 </ingredient>
+    <ingredient num="9">1580 2605 13278 14449 14538 13278 13412 5981 </ingredient>
+    <ingredient num="10">1580 13278 4485 </ingredient>
+    <ingredient num="11">5871 13650 7836 2517 </ingredient>
+    <ingredient num="12">4985 12384 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25233/low_1488394994.m3u8</low>
+    <high>https://vid.tasty.co/output/25233/mp4_720x1280/1488394994</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">7427 12205 10882 13233 669 9584 </step>
+    <step num="2">10950 5994 6389 14511 1686 13073 1391 3917 14014 371 8244 7632 11384 8117 6958 12610 13817 7845 1681 10681 </step>
+    <step num="3">4124 13073 7868 4255 5994 8372 10765 213 13817 817 5292 </step>
+    <step num="4">12474 5994 437 8372 10765 11020 12616 7983 376 1391 8244 7632 12610 13817 10986 560 8686 5791 11951 3550 5412 11951 12816 9753 7811 11951 10663 </step>
+    <step num="5">7831 11951 10882 13233 13817 11951 7983 210 11951 10439 7990 5527 8927 5895 1681 11951 7983 9490 3745 7492 13817 301 5728 10784 </step>
+    <step num="6">12251 6697 560 435 13827 3781 11951 7983 10104 4817 11326 </step>
+    <step num="7">9207 11951 551 371 5994 6389 10060 1391 11951 10882 2868 9584 13494 1391 3333 12816 13584 13829 14038 5358 5968 13817 4496 8151 7990 5966 8927 5895 1681 5677 12573 494 7492 13817 14538 9490 1311 </step>
+    <step num="8">13688 1391 468 5871 13650 7836 13817 4985 12384 5358 13 12774 7389 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">7427 12205 10882 13233 669 9584 </steps_updated>
+    <steps_updated num="2">10950 5994 6389 14511 1686 13073 1391 3917 14014 371 8244 7632 11384 8117 6958 12610 13817 7845 1681 10681 </steps_updated>
+    <steps_updated num="3">4124 13073 7868 4255 5994 8372 10765 213 13817 817 5292 </steps_updated>
+    <steps_updated num="4">12474 5994 437 8372 10765 11020 12616 7983 376 1391 8244 7632 12610 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="5">5791 11951 3550 5412 11951 12816 9753 7811 11951 10663 </steps_updated>
+    <steps_updated num="6">7831 11951 10882 13233 13817 11951 7983 210 11951 10439 7990 5527 8927 5895 1681 11951 7983 9490 3745 7492 13817 301 5728 10784 </steps_updated>
+    <steps_updated num="7">12251 6697 560 435 </steps_updated>
+    <steps_updated num="8">13827 3781 11951 7983 10104 4817 11326 </steps_updated>
+    <steps_updated num="9">9207 11951 551 371 5994 6389 10060 1391 11951 10882 2868 9584 </steps_updated>
+    <steps_updated num="10">13494 1391 3333 12816 13584 13829 14038 5358 5968 13817 4496 </steps_updated>
+    <steps_updated num="11">8151 7990 5966 8927 5895 1681 5677 12573 494 7492 13817 14538 9490 1311 </steps_updated>
+    <steps_updated num="12">13688 1391 468 5871 13650 7836 13817 4985 12384 5358 13 </steps_updated>
+    <steps_updated num="13">12774 7389 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

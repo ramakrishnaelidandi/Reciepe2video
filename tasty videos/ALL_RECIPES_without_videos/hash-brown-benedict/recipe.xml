@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hash Brown Benedict Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hash-brown-benedict</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="1">yellow onion, halved, diced small </ingredient>
+    <ingredient num="2">1 ½ teaspoons ; Paprika </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="5">3 cups ; potato, frozen, shredded ; (300 g) </ingredient>
+    <ingredient num="6">2 large handfuls ; fresh spinach </ingredient>
+    <ingredient num="7">2 ; eggs, poached </ingredient>
+    <ingredient num="8">fresh chives, for garnish </ingredient>
+    <ingredient num="9">3 ; large egg yolks </ingredient>
+    <ingredient num="10">lemon, juiced </ingredient>
+    <ingredient num="11">½ cup ; butter, melted ; (110 g) </ingredient>
+    <ingredient num="12">½ teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/128163/hls24_1553559002.m3u8</low>
+    <high>https://vid.tasty.co/output/128163/landscape_720/1553559002</high>
+  </video>
+  <steps>
+    <step num="0">Within the skillet, divide the potatoes into two piles and place a large, circular cookie cutter ring around each pile. Scoop any potatoes that are outside of the cookie cutters into the center of the rings. Use a spatula to pat down the piles inside the rings to form patties. Turn heat down to low and cook until bottom of hash browns are crispy. Use tongs to remove cookie cutter rings and carefully flip the hash browns to crisp up the other side. Once crispy, remove from the pan. </step>
+    <step num="1">In the same pan, add the baby spinach and wilt down over low heat. Remove spinach from the pan. </step>
+    <step num="2">Hollandaise: Place egg yolks and lemon juice in a blender. Blend for 10 seconds, then slowly stream in the hot, melted butter (while blender is still running). Sauce will thicken by the time all of the butter has been added. Blend in salt. </step>
+    <step num="3">Assembly: Place a hash brown on each plate. Top with spinach, then a poached egg. Spoon hollandaise over the eggs. Garnish with chives. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Within the skillet, divide the potatoes into two piles and place a large, circular cookie cutter ring around each pile. </steps_updated>
+    <steps_updated num="1">Scoop any potatoes that are outside of the cookie cutters into the center of the rings. </steps_updated>
+    <steps_updated num="2">Use a spatula to pat down the piles inside the rings to form patties. </steps_updated>
+    <steps_updated num="3">Turn heat down to low and cook until bottom of hash browns are crispy. </steps_updated>
+    <steps_updated num="4">Use tongs to remove cookie cutter rings and carefully flip the hash browns to crisp up the other side. </steps_updated>
+    <steps_updated num="5">Once crispy, remove from the pan. </steps_updated>
+    <steps_updated num="6">In the same pan, add the baby spinach and wilt down over low heat. </steps_updated>
+    <steps_updated num="7">Remove spinach from the pan. </steps_updated>
+    <steps_updated num="8">Hollandaise: Place egg yolks and lemon juice in a blender. </steps_updated>
+    <steps_updated num="9">Blend for 10 seconds, then slowly stream in the hot, melted butter (while blender is still running). </steps_updated>
+    <steps_updated num="10">Sauce will thicken by the time all of the butter has been added. </steps_updated>
+    <steps_updated num="11">Blend in salt. </steps_updated>
+    <steps_updated num="12">Assembly: Place a hash brown on each plate. </steps_updated>
+    <steps_updated num="13">Top with spinach, then a poached egg. </steps_updated>
+    <steps_updated num="14">Spoon hollandaise over the eggs. </steps_updated>
+    <steps_updated num="15">Garnish with chives. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

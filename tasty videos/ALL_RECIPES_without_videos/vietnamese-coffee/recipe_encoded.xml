@@ -1,0 +1,42 @@
+<recipe>
+  <title>Vietnamese Coffee Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vietnamese-coffee</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-asian-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 11088 2747 7988 </ingredient>
+    <ingredient num="1">8580 9486 13278 6702 3063 5802 </ingredient>
+    <ingredient num="2">3917 2605 13278 6222 12282 13278 7503 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vietnamese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96714/hls24_1527806756.m3u8</low>
+    <high>https://vid.tasty.co/output/96714/landscape_720/1527806756</high>
+  </video>
+  <duration>
+    <start_time>64.0</start_time>
+    <end_time>88.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">1083 11951 11088 7988 669 5994 10510 4684 3659 8651 5570 11951 4684 3659 1497 4255 10707 371 11951 6444 </step>
+    <step num="1">1083 11951 6702 3063 5802 669 5994 6369 </step>
+    <step num="2">5570 11951 4684 2464 4255 10707 371 11951 6369 1083 6222 12282 669 11951 4684 3644 5570 11951 4684 3659 5378 4255 10707 13817 3945 11951 7988 2900 7492 11951 3659 669 11951 6369 </step>
+    <step num="3">12473 3145 432 3044 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1083 11951 11088 7988 669 5994 10510 4684 3659 8651 </steps_updated>
+    <steps_updated num="1">5570 11951 4684 3659 1497 4255 10707 371 11951 6444 </steps_updated>
+    <steps_updated num="2">1083 11951 6702 3063 5802 669 5994 6369 </steps_updated>
+    <steps_updated num="3">5570 11951 4684 2464 4255 10707 371 11951 6369 </steps_updated>
+    <steps_updated num="4">1083 6222 12282 669 11951 4684 3644 </steps_updated>
+    <steps_updated num="5">5570 11951 4684 3659 5378 4255 10707 13817 3945 11951 7988 2900 7492 11951 3659 669 11951 6369 </steps_updated>
+    <steps_updated num="6">12473 3145 432 3044 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

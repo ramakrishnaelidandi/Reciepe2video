@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Taquitos (Chequitos) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-taquitos-chequitos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef, 80/20 ; (455 g) </ingredient>
+    <ingredient num="1">1 cup ; white onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="4">1 ½ teaspoons ; ground cumin </ingredient>
+    <ingredient num="5">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="6">½ teaspoon ; cayenne </ingredient>
+    <ingredient num="7">2 teaspoons ; paprika </ingredient>
+    <ingredient num="8">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="9">2 cups ; shredded chicken, cooked ; (250 g) </ingredient>
+    <ingredient num="10">1 cup ; tomato, crushed or diced ; (200 g) </ingredient>
+    <ingredient num="11">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="12">1 ½ teaspoons ; ground cumin </ingredient>
+    <ingredient num="13">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="14">½ teaspoon ; cayenne </ingredient>
+    <ingredient num="15">2 teaspoons ; paprika </ingredient>
+    <ingredient num="16">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="17">2 cups ; shredded parmesan cheese ; (200 g) </ingredient>
+    <ingredient num="18">1 cup ; shredded mexican cheese blend ; (100 g) </ingredient>
+    <ingredient num="19">lime wedge </ingredient>
+    <ingredient num="20">sour cream </ingredient>
+    <ingredient num="21">fresh cilantro, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117346/hls24_1543522707.m3u8</low>
+    <high>https://vid.tasty.co/output/117346/landscape_720/1543522707</high>
+  </video>
+  <steps>
+    <step num="0">In a large saucepan over medium heat, brown the ground beef. Once the beef is browned, add the onion and garlic. Cook until the onion is translucent, about 5 minutes. Add the salt, cumin, chili powder, cayenne, paprika, and oregano. Cook for 2-3 minutes more to allow the flavors to meld and ensure the beef is cooked through. Remove the beef mixture from the pan and set aside. </step>
+    <step num="1">In a clean large saucepan over medium heat, combine the shredded chicken and crushed tomatoes. Add the salt, cumin, chili powder, cayenne, paprika, and oregano. Cook until warmed through, about 5 minutes. Remove from the pan and set aside. </step>
+    <step num="2">In a medium bowl, mix together the Parmesan and Mexican-blend cheeses. </step>
+    <step num="3">Heat a medium nonstick pan over medium heat. Add about ¼ cup (25 G) of cheese to the center of the pan and spread into a circle. Let the cheese melt, then add a spoonful of beef or chicken filling to the bottom of the circle. </step>
+    <step num="4">Slide the cheese shell out of the pan onto a cutting board and let cool for 30 seconds, then roll tightly to encase the filling. The melted cheese should stick to the outside, sealing the taquito. Repeat with the remaining ingredients. </step>
+    <step num="5">Serve the taquitos with lime wedges, sour cream, and fresh cilantro. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large saucepan over medium heat, brown the ground beef. </steps_updated>
+    <steps_updated num="1">Once the beef is browned, add the onion and garlic. </steps_updated>
+    <steps_updated num="2">Cook until the onion is translucent, about 5 minutes. </steps_updated>
+    <steps_updated num="3">Add the salt, cumin, chili powder, cayenne, paprika, and oregano. </steps_updated>
+    <steps_updated num="4">Cook for 2-3 minutes more to allow the flavors to meld and ensure the beef is cooked through. </steps_updated>
+    <steps_updated num="5">Remove the beef mixture from the pan and set aside. </steps_updated>
+    <steps_updated num="6">In a clean large saucepan over medium heat, combine the shredded chicken and crushed tomatoes. </steps_updated>
+    <steps_updated num="7">Add the salt, cumin, chili powder, cayenne, paprika, and oregano. </steps_updated>
+    <steps_updated num="8">Cook until warmed through, about 5 minutes. </steps_updated>
+    <steps_updated num="9">Remove from the pan and set aside. </steps_updated>
+    <steps_updated num="10">In a medium bowl, mix together the Parmesan and Mexican-blend cheeses. </steps_updated>
+    <steps_updated num="11">Heat a medium nonstick pan over medium heat. </steps_updated>
+    <steps_updated num="12">Add about ¼ cup (25 G) of cheese to the center of the pan and spread into a circle. </steps_updated>
+    <steps_updated num="13">Let the cheese melt, then add a spoonful of beef or chicken filling to the bottom of the circle. </steps_updated>
+    <steps_updated num="14">Slide the cheese shell out of the pan onto a cutting board and let cool for 30 seconds, then roll tightly to encase the filling. </steps_updated>
+    <steps_updated num="15">The melted cheese should stick to the outside, sealing the taquito. </steps_updated>
+    <steps_updated num="16">Repeat with the remaining ingredients. </steps_updated>
+    <steps_updated num="17">Serve the taquitos with lime wedges, sour cream, and fresh cilantro. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,57 @@
+<recipe>
+  <title>Blueberry French Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-french-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/slow-cooker-breakfasts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 10881 13278 3305 2168 4465 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 11579 1421 13278 757 5981 </ingredient>
+    <ingredient num="2">11061 13278 12708 </ingredient>
+    <ingredient num="3">3917 14014 13278 9171 6818 </ingredient>
+    <ingredient num="4">8580 9486 13278 6742 7632 5335 </ingredient>
+    <ingredient num="5">3917 14014 13278 1319 10937 </ingredient>
+    <ingredient num="6">3917 8071 13278 12425 </ingredient>
+    <ingredient num="7">3917 13278 5516 2716 </ingredient>
+    <ingredient num="8">8580 9517 13278 9889 5895 5802 9662 13278 6901 8007 </ingredient>
+    <ingredient num="9">9171 1285 560 1966 </ingredient>
+    <ingredient num="10">6885 6145 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59282/low_1509486319.m3u8</low>
+    <high>https://vid.tasty.co/output/59282/mp4_720x1280/1509486319</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>40.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3235 4465 669 3556 13817 11826 4255 551 371 5994 2362 3025 4500 </step>
+    <step num="1">13494 1391 9149 </step>
+    <step num="2">10950 5994 2597 12377 5895 8266 202 8341 3626 14463 9171 1285 6742 7632 1319 9525 4654 597 9342 13817 9529 </step>
+    <step num="3">1083 2373 11770 4465 13817 12224 </step>
+    <step num="4">264 4255 9721 9912 14329 </step>
+    <step num="5">12775 5103 5378 13817 1966 1391 9171 6818 13817 6885 8525 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 4465 669 3556 13817 11826 4255 551 371 5994 2362 3025 4500 </steps_updated>
+    <steps_updated num="1">13494 1391 9149 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 12377 5895 8266 202 8341 3626 14463 9171 1285 6742 7632 1319 9525 4654 597 9342 13817 9529 </steps_updated>
+    <steps_updated num="3">1083 2373 11770 4465 13817 12224 </steps_updated>
+    <steps_updated num="4">264 4255 9721 9912 14329 </steps_updated>
+    <steps_updated num="5">12775 5103 5378 13817 1966 1391 9171 6818 13817 6885 8525 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00061</start_time>
+    <end_time>01212</end_time>
+  </duration_human>
+</recipe>

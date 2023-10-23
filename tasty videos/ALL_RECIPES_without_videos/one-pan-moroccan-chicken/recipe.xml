@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pan Moroccan Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-moroccan-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">ground black pepper, to taste </ingredient>
+    <ingredient num="2">ground cumin, to taste </ingredient>
+    <ingredient num="3">½ ; onion, sliced </ingredient>
+    <ingredient num="4">½ can ; cherry tomato </ingredient>
+    <ingredient num="5">⅖ cup ; water ; (100 mL) </ingredient>
+    <ingredient num="6">½ can ; chickpeas, drained and washed </ingredient>
+    <ingredient num="7">1 ; zucchini, also known as courgette </ingredient>
+    <ingredient num="8">1 tablespoon ; harissa paste </ingredient>
+    <ingredient num="9">1 teaspoon ; honey </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32127/low_1495125349.m3u8</low>
+    <high>https://vid.tasty.co/output/32127/mp4_720x1280/1495125349</high>
+  </video>
+  <steps>
+    <step num="0">Season the chicken with pepper and cumin powder to taste. </step>
+    <step num="1">On a medium-low heat, cook the chicken in some oil with the onion for 3 to 4 minutes stirring and turning occasionally. </step>
+    <step num="2">Add the cherry tomatoes, the water, the chickpeas, the harissa paste, the honey and the courgette. </step>
+    <step num="3">Simmer for 15 minutes, stirring occasionally until the sauce slightly thickens. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season the chicken with pepper and cumin powder to taste. </steps_updated>
+    <steps_updated num="1">On a medium-low heat, cook the chicken in some oil with the onion for 3 to 4 minutes stirring and turning occasionally. </steps_updated>
+    <steps_updated num="2">Add the cherry tomatoes, the water, the chickpeas, the harissa paste, the honey and the courgette. </steps_updated>
+    <steps_updated num="3">Simmer for 15 minutes, stirring occasionally until the sauce slightly thickens. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

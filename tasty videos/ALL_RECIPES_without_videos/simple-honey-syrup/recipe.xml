@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Honey Syrup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-honey-syrup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/honey-syrup-sodas-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="1">1 cup ; honey ; (335 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Casual Party</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/123235/hls24_1548179406.m3u8</low>
+    <high>https://vid.tasty.co/output/123235/landscape_720/1548179406</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small saucepan, combine the water and honey. Bring to a boil over medium heat, and boil for about 3 minutes until slightly reduced. Remove the pan from the heat and let cool completely. </step>
+    <step num="1">The simple honey syrup will keep in an airtight container in the refrigerator for up to 2 months. </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan, combine the water and honey. </steps_updated>
+    <steps_updated num="1">Bring to a boil over medium heat, and boil for about 3 minutes until slightly reduced. </steps_updated>
+    <steps_updated num="2">Remove the pan from the heat and let cool completely. </steps_updated>
+    <steps_updated num="3">The simple honey syrup will keep in an airtight container in the refrigerator for up to 2 months. </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00154</start_time>
+    <end_time>00537</end_time>
+  </duration_human>
+</recipe>

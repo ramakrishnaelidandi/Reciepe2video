@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ombré Smoothies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ombre-smoothies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; milk, or water ; (120 mL) </ingredient>
+    <ingredient num="1">1 cup ; plain yogurt, or non-dairy yogurt ; (245 g) </ingredient>
+    <ingredient num="2">2 ; large bananas, frozen, sliced into 1-inch (2 1/2 cm) pieces </ingredient>
+    <ingredient num="3">1 cup ; frozen strawberry, divided ; (150 g) </ingredient>
+    <ingredient num="4">¾ cup ; frozen raspberry, divided ; (90 g) </ingredient>
+    <ingredient num="5">coconut flakes, to serve </ingredient>
+    <ingredient num="6">edible flower, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47162/low_1502485731.m3u8</low>
+    <high>https://vid.tasty.co/output/47162/mp4_720x1280/1502485731</high>
+  </video>
+  <steps>
+    <step num="0">Add the milk or water, yogurt, bananas, and ⅓ of the strawberries in a high-speed blender until smooth. </step>
+    <step num="1">Fill a glass ¼ of the way up with the smoothie, and smooth the surface with a spoon. </step>
+    <step num="2">Add another ⅓ of the strawberries to the blender and blend until smooth. </step>
+    <step num="3">Pour the smoothie on top of the base, filling the glass up to the halfway point. Smooth the surface with a spoon. </step>
+    <step num="4">Add remaining strawberries and ⅓ of the raspberries to the smoothie base and blend until smooth. </step>
+    <step num="5">Pour the smoothie in the glass filling it up ¾ of the way. Smooth the surface with a spoon. </step>
+    <step num="6">Finish by adding remaining raspberries to the smoothie and blend until smooth.. </step>
+    <step num="7">Pour the remaining smoothie into the glass to create the final layer. Smooth the layer with a spoon. </step>
+    <step num="8">Top smoothie with edible flowers and coconut flakes. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the milk or water, yogurt, bananas, and ⅓ of the strawberries in a high-speed blender until smooth. </steps_updated>
+    <steps_updated num="1">Fill a glass ¼ of the way up with the smoothie, and smooth the surface with a spoon. </steps_updated>
+    <steps_updated num="2">Add another ⅓ of the strawberries to the blender and blend until smooth. </steps_updated>
+    <steps_updated num="3">Pour the smoothie on top of the base, filling the glass up to the halfway point. </steps_updated>
+    <steps_updated num="4">Smooth the surface with a spoon. </steps_updated>
+    <steps_updated num="5">Add remaining strawberries and ⅓ of the raspberries to the smoothie base and blend until smooth. </steps_updated>
+    <steps_updated num="6">Pour the smoothie in the glass filling it up ¾ of the way. </steps_updated>
+    <steps_updated num="7">Smooth the surface with a spoon. </steps_updated>
+    <steps_updated num="8">Finish by adding remaining raspberries to the smoothie and blend until smooth.. </steps_updated>
+    <steps_updated num="9">Pour the remaining smoothie into the glass to create the final layer. </steps_updated>
+    <steps_updated num="10">Smooth the layer with a spoon. </steps_updated>
+    <steps_updated num="11">Top smoothie with edible flowers and coconut flakes. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

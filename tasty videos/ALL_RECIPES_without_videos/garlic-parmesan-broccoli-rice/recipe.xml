@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Parmesan Broccoli Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-parmesan-broccoli-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-rice-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 head ; broccoli, chopped </ingredient>
+    <ingredient num="1">1 tablespoon ; cooking oil, of preference, or water </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 tablespoons ; grated parmesan cheese, plus more for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54054/low_1506622144.m3u8</low>
+    <high>https://vid.tasty.co/output/54054/mp4_720x1280/1506622144</high>
+  </video>
+  <duration>
+    <start_time>0.8999999999999999</start_time>
+    <end_time>28.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a food processor, pulse the broccoli florets and stems until they reach your desired “rice” consistency. </step>
+    <step num="1">In pan over medium heat, add oil and garlic and cook for about 30 seconds. </step>
+    <step num="2">Add riced broccoli, salt, and pepper, and cook 5 minutes, or until tender. </step>
+    <step num="3">Add Parmesan and stir to combine. </step>
+    <step num="4">Serve with a sprinkle of Parmesan. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, pulse the broccoli florets and stems until they reach your desired “rice” consistency. </steps_updated>
+    <steps_updated num="1">In pan over medium heat, add oil and garlic and cook for about 30 seconds. </steps_updated>
+    <steps_updated num="2">Add riced broccoli, salt, and pepper, and cook 5 minutes, or until tender. </steps_updated>
+    <steps_updated num="3">Add Parmesan and stir to combine. </steps_updated>
+    <steps_updated num="4">Serve with a sprinkle of Parmesan. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00080</start_time>
+    <end_time>00855</end_time>
+  </duration_human>
+</recipe>

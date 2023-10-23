@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Unicorn Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/unicorn-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">48 oz ; cream cheese ; (1.3 kg) </ingredient>
+    <ingredient num="1">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; vanilla extract </ingredient>
+    <ingredient num="3">2 cups ; milk ; (480 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; gelatin </ingredient>
+    <ingredient num="5">food coloring, blue, purple, and pink </ingredient>
+    <ingredient num="6">20 ; graham crackers </ingredient>
+    <ingredient num="7">4 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="8">⅓ cup ; sugar ; (65 g) </ingredient>
+    <ingredient num="9">9 ; mini waffle cones </ingredient>
+    <ingredient num="10">2 cups ; white chocolate, melted </ingredient>
+    <ingredient num="11">sprinkles, pink and blue </ingredient>
+    <ingredient num="12">sprinkles </ingredient>
+    <ingredient num="13">gumballs </ingredient>
+    <ingredient num="14">swirl lollipop </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34166/low_1497486472.m3u8</low>
+    <high>https://vid.tasty.co/output/34166/mp4_720x1280/1497486472</high>
+  </video>
+  <steps>
+    <step num="0">Use a handheld mixer to combine the cream cheese, sugar, and vanilla extract. </step>
+    <step num="1">Microwave the milk for two minutes, and mix with the gelatin. Add the gelatin and milk to the cream cheese mixture. </step>
+    <step num="2">Separate the batter into three separate bowls. Add a drop of food coloring to each bowl, and stir to combine. </step>
+    <step num="3">Add the graham crackers to a sealed plastic bag, and use a rolling pie to crush until the graham crackers resemble a fine crumb. Transfer the graham crackers to a bowl. </step>
+    <step num="4">Add the butter and sugar. Mix until thoroughly combined. </step>
+    <step num="5">Press the graham cracker crust into a greased 8-inch (20 cm) springform pan and chill. </step>
+    <step num="6">Layer the blue batter into the graham cracker crust and refrigerate for 30 minutes, or until firm. Repeat with the purple batter, and refrigerate for 30 minutes. Repeat with the pink batter, and refrigerate for 60 minutes. </step>
+    <step num="7">Dip each waffle cone into the white chocolate, top with sprinkles, and chill until firm. </step>
+    <step num="8">Top the cheesecake with the sprinkles, unicorn horns, gumballs, and the lollipop. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a handheld mixer to combine the cream cheese, sugar, and vanilla extract. </steps_updated>
+    <steps_updated num="1">Microwave the milk for two minutes, and mix with the gelatin. </steps_updated>
+    <steps_updated num="2">Add the gelatin and milk to the cream cheese mixture. </steps_updated>
+    <steps_updated num="3">Separate the batter into three separate bowls. </steps_updated>
+    <steps_updated num="4">Add a drop of food coloring to each bowl, and stir to combine. </steps_updated>
+    <steps_updated num="5">Add the graham crackers to a sealed plastic bag, and use a rolling pie to crush until the graham crackers resemble a fine crumb. </steps_updated>
+    <steps_updated num="6">Transfer the graham crackers to a bowl. </steps_updated>
+    <steps_updated num="7">Add the butter and sugar. </steps_updated>
+    <steps_updated num="8">Mix until thoroughly combined. </steps_updated>
+    <steps_updated num="9">Press the graham cracker crust into a greased 8-inch (20 cm) springform pan and chill. </steps_updated>
+    <steps_updated num="10">Layer the blue batter into the graham cracker crust and refrigerate for 30 minutes, or until firm. </steps_updated>
+    <steps_updated num="11">Repeat with the purple batter, and refrigerate for 30 minutes. </steps_updated>
+    <steps_updated num="12">Repeat with the pink batter, and refrigerate for 60 minutes. </steps_updated>
+    <steps_updated num="13">Dip each waffle cone into the white chocolate, top with sprinkles, and chill until firm. </steps_updated>
+    <steps_updated num="14">Top the cheesecake with the sprinkles, unicorn horns, gumballs, and the lollipop. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

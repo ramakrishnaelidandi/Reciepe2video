@@ -1,0 +1,53 @@
+<recipe>
+  <title>Nori Cheese Tamagoyaki Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/nori-cheese-tamagoyaki</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 12708 </ingredient>
+    <ingredient num="1">3917 7463 13278 8596 </ingredient>
+    <ingredient num="2">3917 2157 13278 82 </ingredient>
+    <ingredient num="3">8580 8036 13278 2092 </ingredient>
+    <ingredient num="4">8580 8036 13278 14538 </ingredient>
+    <ingredient num="5">11796 2658 13615 </ingredient>
+    <ingredient num="6">11492 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>17.333</start_time>
+    <end_time>59.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">9393 14463 8596 13817 82 3631 </step>
+    <step num="1">8889 5994 1695 5687 7811 9721 2082 11881 5994 7497 11826 371 5766 4255 11951 10590 802 3482 1198 1391 5994 12 671 </step>
+    <step num="2">1083 12791 371 6216 2373 669 5687 13817 11974 7374 560 6506 11951 887 10590 </step>
+    <step num="3">11233 11951 6216 9490 6346 9370 5994 213 371 2092 13817 14538 4255 143 7692 11951 13784 </step>
+    <step num="4">1083 210 12791 371 11951 6216 2207 5556 3386 11951 3745 6216 4536 13817 3945 11951 2373 560 7724 1896 8712 11233 11951 6216 9490 6346 4536 11951 9604 7542 11269 5362 1148 14314 797 3954 13312 </step>
+    <step num="5">14100 11951 9604 669 5083 6043 14243 4711 1391 13051 13817 6663 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9393 14463 8596 13817 82 3631 </steps_updated>
+    <steps_updated num="1">8889 5994 1695 5687 7811 9721 2082 </steps_updated>
+    <steps_updated num="2">11881 5994 7497 11826 371 5766 4255 11951 10590 </steps_updated>
+    <steps_updated num="3">802 3482 1198 1391 5994 12 671 </steps_updated>
+    <steps_updated num="4">1083 12791 371 6216 2373 669 5687 13817 11974 7374 560 6506 11951 887 10590 </steps_updated>
+    <steps_updated num="5">11233 11951 6216 9490 6346 9370 5994 213 371 2092 13817 14538 4255 143 </steps_updated>
+    <steps_updated num="6">7692 11951 13784 </steps_updated>
+    <steps_updated num="7">1083 210 12791 371 11951 6216 2207 5556 3386 11951 3745 6216 4536 13817 3945 11951 2373 560 7724 1896 8712 </steps_updated>
+    <steps_updated num="8">11233 11951 6216 9490 6346 4536 11951 9604 7542 11269 </steps_updated>
+    <steps_updated num="9">5362 1148 14314 797 3954 13312 </steps_updated>
+    <steps_updated num="10">14100 11951 9604 669 5083 6043 14243 4711 1391 13051 13817 6663 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

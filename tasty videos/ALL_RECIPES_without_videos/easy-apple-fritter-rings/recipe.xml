@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Apple Fritter Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-apple-fritter-rings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">apple </ingredient>
+    <ingredient num="1">1 can ; ginger ale </ingredient>
+    <ingredient num="2">flour </ingredient>
+    <ingredient num="3">cinnamon </ingredient>
+    <ingredient num="4">powdered sugar </ingredient>
+    <ingredient num="5">oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32008/low_1495125007.m3u8</low>
+    <high>https://vid.tasty.co/output/32008/mp4_720x1280/1495125007</high>
+  </video>
+  <steps>
+    <step num="0">Slice apples into rings. </step>
+    <step num="1">Remove centers (cookie cutters or tablespoons work well for this). </step>
+    <step num="2">In a large bowl, mix flour with ginger ale until you have a thick batter. </step>
+    <step num="3">Batter rings. </step>
+    <step num="4">Fry in oil until golden brown </step>
+    <step num="5">Cover in a mixture of powdered sugar and cinnamon. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice apples into rings. </steps_updated>
+    <steps_updated num="1">Remove centers (cookie cutters or tablespoons work well for this). </steps_updated>
+    <steps_updated num="2">In a large bowl, mix flour with ginger ale until you have a thick batter. </steps_updated>
+    <steps_updated num="3">Batter rings. </steps_updated>
+    <steps_updated num="4">Fry in oil until golden brown </steps_updated>
+    <steps_updated num="5">Cover in a mixture of powdered sugar and cinnamon. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

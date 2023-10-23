@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Frozen Smoothie Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-smoothie-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; mixed berries, fresh or frozen ; (200 g) </ingredient>
+    <ingredient num="1">1 ; banana </ingredient>
+    <ingredient num="2">¼ cup ; yogurt ; (61 g) </ingredient>
+    <ingredient num="3">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="4">6 ; small paper cups </ingredient>
+    <ingredient num="5">6 ; popsicle sticks </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28182/low_1491000944.m3u8</low>
+    <high>https://vid.tasty.co/output/28182/mp4_720x1280/1491000944</high>
+  </video>
+  <steps>
+    <step num="0">In a blender mix all ingredients until smooth. </step>
+    <step num="1">Place six small paper cups on a baking tray and fill the cups with the smoothie and freeze for 15 minutes. </step>
+    <step num="2">Place one popsicle stick in the center of each cup and freeze again for one hour or until solid. </step>
+    <step num="3">Rip the paper cups from the popsicle and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender mix all ingredients until smooth. </steps_updated>
+    <steps_updated num="1">Place six small paper cups on a baking tray and fill the cups with the smoothie and freeze for 15 minutes. </steps_updated>
+    <steps_updated num="2">Place one popsicle stick in the center of each cup and freeze again for one hour or until solid. </steps_updated>
+    <steps_updated num="3">Rip the paper cups from the popsicle and enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

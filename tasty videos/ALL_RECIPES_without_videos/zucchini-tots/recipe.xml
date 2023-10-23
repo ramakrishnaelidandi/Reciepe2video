@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Zucchini Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; medium-sized zucchinis </ingredient>
+    <ingredient num="1">¾ cup ; bread crumbs ; (70 g) </ingredient>
+    <ingredient num="2">¾ cup ; shredded cheddar cheese ; (75 g) </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">salt, to pull moisture from the zucchini </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8018/low_1472240775.m3u8</low>
+    <high>https://vid.tasty.co/output/8018/mp4_720x1280/1472240775</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200˚C.) </step>
+    <step num="1">Grate the zucchini into a bowl and salt generously. </step>
+    <step num="2">Allow zucchini to sit for 20 minutes as the salt draws out moisture. </step>
+    <step num="3">Pour zucchini onto a clean dish towel and wring it out over the sink or into a separate bowl. </step>
+    <step num="4">Pour the zucchini back into your bowl and add bread crumbs, cheddar cheese, eggs, garlic powder, and pepper. Mix together until well-blended. </step>
+    <step num="5">Take a tablespoon of mixture and roll it into a tot, repeat for rest of mixture. </step>
+    <step num="6">Place on a greased baking sheet and place in the oven for 20-25 minutes or until tots are crunchy. Serve warm. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200˚C.) </steps_updated>
+    <steps_updated num="1">Grate the zucchini into a bowl and salt generously. </steps_updated>
+    <steps_updated num="2">Allow zucchini to sit for 20 minutes as the salt draws out moisture. </steps_updated>
+    <steps_updated num="3">Pour zucchini onto a clean dish towel and wring it out over the sink or into a separate bowl. </steps_updated>
+    <steps_updated num="4">Pour the zucchini back into your bowl and add bread crumbs, cheddar cheese, eggs, garlic powder, and pepper. </steps_updated>
+    <steps_updated num="5">Mix together until well-blended. </steps_updated>
+    <steps_updated num="6">Take a tablespoon of mixture and roll it into a tot, repeat for rest of mixture. </steps_updated>
+    <steps_updated num="7">Place on a greased baking sheet and place in the oven for 20-25 minutes or until tots are crunchy. </steps_updated>
+    <steps_updated num="8">Serve warm. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

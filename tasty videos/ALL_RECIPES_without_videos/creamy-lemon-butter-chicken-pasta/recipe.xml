@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Lemon Butter Chicken Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-lemon-butter-chicken-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts, diced </ingredient>
+    <ingredient num="1">1 tablespoon ; butter </ingredient>
+    <ingredient num="2">½ ; red onion, diced </ingredient>
+    <ingredient num="3">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="4">1 ; lemon, zest and juice </ingredient>
+    <ingredient num="5">1 teaspoon ; chili flake </ingredient>
+    <ingredient num="6">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="7">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="8">½ cup ; double cream ; (120 mL) </ingredient>
+    <ingredient num="9">2 cups ; baby spinach ; (85 g) </ingredient>
+    <ingredient num="10">1 ½ cups ; fresh egg pasta ; (150 g) </ingredient>
+    <ingredient num="11">2 tablespoons ; parmesan cheese, plus more for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32260/low_1495125489.m3u8</low>
+    <high>https://vid.tasty.co/output/32260/mp4_720x1280/1495125489</high>
+  </video>
+  <steps>
+    <step num="0">Fry the chicken over a medium heat and set aside. </step>
+    <step num="1">Give the pan a quick wipe with a paper towel </step>
+    <step num="2">Add butter to the same pan. Fry the onion and garlic until soft (about 3-5 minutes). </step>
+    <step num="3">Add the lemon zest and juice. Give the mixture a quick stir and add chilli flakes and thyme. </step>
+    <step num="4">Stir in the water and double cream. </step>
+    <step num="5">Add the spinach and allow it to cook for about a minute. </step>
+    <step num="6">Put the pre-cooked chicken back into the pan along with pasta. Allow to cook until al dente. </step>
+    <step num="7">Mix in the parmesan. </step>
+    <step num="8">Take off the hob and serve with extra parmesan, if you prefer. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fry the chicken over a medium heat and set aside. </steps_updated>
+    <steps_updated num="1">Give the pan a quick wipe with a paper towel </steps_updated>
+    <steps_updated num="2">Add butter to the same pan. </steps_updated>
+    <steps_updated num="3">Fry the onion and garlic until soft (about 3-5 minutes). </steps_updated>
+    <steps_updated num="4">Add the lemon zest and juice. </steps_updated>
+    <steps_updated num="5">Give the mixture a quick stir and add chilli flakes and thyme. </steps_updated>
+    <steps_updated num="6">Stir in the water and double cream. </steps_updated>
+    <steps_updated num="7">Add the spinach and allow it to cook for about a minute. </steps_updated>
+    <steps_updated num="8">Put the pre-cooked chicken back into the pan along with pasta. </steps_updated>
+    <steps_updated num="9">Allow to cook until al dente. </steps_updated>
+    <steps_updated num="10">Mix in the parmesan. </steps_updated>
+    <steps_updated num="11">Take off the hob and serve with extra parmesan, if you prefer. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

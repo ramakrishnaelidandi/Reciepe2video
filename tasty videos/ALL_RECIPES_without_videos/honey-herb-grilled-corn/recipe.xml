@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Herb Grilled Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-herb-grilled-corn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/grilled-corn-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ears ; corn </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="4">2 tablespoons ; honey </ingredient>
+    <ingredient num="5">2 tablespoons ; fresh chives, minced </ingredient>
+    <ingredient num="6">2 tablespoons ; fresh parsley, minced </ingredient>
+    <ingredient num="7">2 tablespoons ; fresh thyme, minced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41907/low_1498852141.m3u8</low>
+    <high>https://vid.tasty.co/output/41907/mp4_720x1280/1498852141</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat a grill or grill plate to medium heat. </step>
+    <step num="1">Drizzle the corn with olive oil and sprinkle with salt and pepper. Mix to ensure all the ears are evenly coated. </step>
+    <step num="2">Place the corn on the grill. Close the lid to keep the temperature high, and let the corn cook for about 15 minutes per side, or until slightly charred on all sides. </step>
+    <step num="3">Remove the corn from the heat and set aside. </step>
+    <step num="4">Brush melted butter on the corn. </step>
+    <step num="5">Drizzle the corn with honey. </step>
+    <step num="6">Sprinkle the corn with a mixture of the chives, parsley, and thyme. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat a grill or grill plate to medium heat. </steps_updated>
+    <steps_updated num="1">Drizzle the corn with olive oil and sprinkle with salt and pepper. </steps_updated>
+    <steps_updated num="2">Mix to ensure all the ears are evenly coated. </steps_updated>
+    <steps_updated num="3">Place the corn on the grill. </steps_updated>
+    <steps_updated num="4">Close the lid to keep the temperature high, and let the corn cook for about 15 minutes per side, or until slightly charred on all sides. </steps_updated>
+    <steps_updated num="5">Remove the corn from the heat and set aside. </steps_updated>
+    <steps_updated num="6">Brush melted butter on the corn. </steps_updated>
+    <steps_updated num="7">Drizzle the corn with honey. </steps_updated>
+    <steps_updated num="8">Sprinkle the corn with a mixture of the chives, parsley, and thyme. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01728</start_time>
+    <end_time>02285</end_time>
+  </duration_human>
+</recipe>

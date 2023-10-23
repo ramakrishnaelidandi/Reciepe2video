@@ -1,0 +1,45 @@
+<recipe>
+  <title>Cheesy Pesto Twists Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-pesto-twists</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 8036 13278 8247 7969 </ingredient>
+    <ingredient num="1">11061 643 13278 6209 2334 13278 757 5981 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 10865 13810 2431 13278 757 5981 </ingredient>
+    <ingredient num="3">3917 13278 4036 9917 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">10986 560 11567 </ingredient>
+    <ingredient num="6">1580 2605 13278 109 14538 13278 2264 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Sides</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31879/low_1495124871.m3u8</low>
+    <high>https://vid.tasty.co/output/31879/mp4_720x1280/1495124871</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9988 1610 </step>
+    <step num="1">7692 2696 5994 213 371 8247 7969 13817 11434 11951 2334 3584 11770 2996 9304 5994 2192 8344 371 10302 7811 11951 10663 6252 11770 11951 10865 13817 3345 6646 213 371 8247 7969 4255 386 9082 5994 1045 </step>
+    <step num="2">14100 669 7497 9259 1391 5994 5133 4144 7047 6697 672 371 10763 1174 14484 573 10248 560 10697 11951 5832 13817 13816 </step>
+    <step num="3">12785 1802 5994 10765 7238 10926 1391 10765 1715 13817 10654 1391 9917 13784 10242 1391 82 13817 7845 13817 1678 11770 11951 8924 </step>
+    <step num="4">7831 7990 2800 8927 1681 10963 2147 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 1610 </steps_updated>
+    <steps_updated num="1">7692 2696 5994 213 371 8247 7969 13817 11434 11951 2334 3584 11770 2996 9304 5994 2192 8344 371 10302 7811 11951 10663 </steps_updated>
+    <steps_updated num="2">6252 11770 11951 10865 13817 3345 6646 213 371 8247 7969 4255 386 9082 5994 1045 </steps_updated>
+    <steps_updated num="3">14100 669 7497 9259 1391 5994 5133 4144 </steps_updated>
+    <steps_updated num="4">7047 6697 672 371 10763 1174 14484 573 10248 560 10697 11951 5832 13817 13816 </steps_updated>
+    <steps_updated num="5">12785 1802 5994 10765 7238 10926 1391 10765 1715 13817 10654 1391 9917 13784 </steps_updated>
+    <steps_updated num="6">10242 1391 82 13817 7845 13817 1678 11770 11951 8924 </steps_updated>
+    <steps_updated num="7">7831 7990 2800 8927 1681 10963 2147 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<recipe>
+  <title>Juice Pulp Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/juice-pulp-muffins</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-packed-juices</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 10095 1941 </ingredient>
+    <ingredient num="1">11061 9486 13278 12282 </ingredient>
+    <ingredient num="2">9883 2605 13278 9889 371 6507 13278 10475 8007 </ingredient>
+    <ingredient num="3">1580 2605 13278 9171 6818 13278 10339 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 1879 13278 12933 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 6504 13817 4168 10374 13278 12751 5981 </ingredient>
+    <ingredient num="6">3917 8071 13278 9908 14165 10769 </ingredient>
+    <ingredient num="7">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="8">8580 9517 13278 3305 2168 890 13278 12751 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 952 1103 7789 3954 7990 8104 13278 12158 5981 </ingredient>
+    <ingredient num="10">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="11">1580 8071 13278 10765 3294 </ingredient>
+    <ingredient num="12">1580 8071 13278 82 </ingredient>
+    <ingredient num="13">3917 8071 13278 12425 </ingredient>
+    <ingredient num="14">12791 8071 13278 12159 </ingredient>
+    <ingredient num="15">9637 8224 775 7990 14389 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102625/hls24_1532112993.m3u8</low>
+    <high>https://vid.tasty.co/output/102625/landscape_720/1532112993</high>
+  </video>
+  <duration>
+    <start_time>91.166</start_time>
+    <end_time>134.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 5651 8614 </step>
+    <step num="1">6823 11951 10095 3866 4120 11951 10095 1941 1391 11951 12282 13817 817 10261 7990 13767 8927 560 4113 </step>
+    <step num="2">10950 5994 2597 14511 4120 11951 9889 9171 1285 10095 14463 7268 6504 13817 4168 9851 9908 14165 4450 13817 12048 12473 7990 6285 238 6659 1681 8460 </step>
+    <step num="3">9179 11951 6467 1103 10765 8117 10765 2101 12610 4654 13817 12825 12473 7990 6285 238 6659 1681 4309 </step>
+    <step num="4">5954 5994 1079 12841 2141 1391 9637 11013 13827 13262 10763 2605 1391 11951 4428 6285 9883 371 11951 10772 11177 6252 11951 4091 1391 1182 </step>
+    <step num="5">7831 7990 5169 11004 1681 5994 7462 7127 210 11951 937 371 5994 12841 4150 2696 7179 </step>
+    <step num="6">1828 10694 7990 7811 767 13133 11004 415 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 5651 8614 </steps_updated>
+    <steps_updated num="1">6823 11951 10095 3866 4120 11951 10095 1941 1391 11951 12282 13817 817 10261 7990 13767 8927 560 4113 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 4120 11951 9889 9171 1285 10095 14463 7268 6504 13817 4168 9851 9908 14165 4450 13817 12048 </steps_updated>
+    <steps_updated num="3">12473 7990 6285 238 6659 1681 8460 </steps_updated>
+    <steps_updated num="4">9179 11951 6467 1103 10765 8117 10765 2101 12610 4654 13817 12825 </steps_updated>
+    <steps_updated num="5">12473 7990 6285 238 6659 1681 4309 </steps_updated>
+    <steps_updated num="6">5954 5994 1079 12841 2141 1391 9637 11013 </steps_updated>
+    <steps_updated num="7">13827 13262 10763 2605 1391 11951 4428 6285 9883 371 11951 10772 11177 </steps_updated>
+    <steps_updated num="8">6252 11951 4091 1391 1182 </steps_updated>
+    <steps_updated num="9">7831 7990 5169 11004 1681 5994 7462 7127 210 11951 937 371 5994 12841 4150 2696 7179 </steps_updated>
+    <steps_updated num="10">1828 10694 7990 7811 767 13133 11004 415 8956 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

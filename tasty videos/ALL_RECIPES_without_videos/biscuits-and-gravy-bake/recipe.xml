@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Biscuits And Gravy Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/biscuits-and-gravy-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; refrigerated biscuit, 1 tube ; (340 g) </ingredient>
+    <ingredient num="1">6 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">1 lb ; cooked sausage ; (455 g) </ingredient>
+    <ingredient num="6">1 cup ; shredded cheese ; (100 g) </ingredient>
+    <ingredient num="7">4 tablespoons ; butter </ingredient>
+    <ingredient num="8">4 tablespoons ; flour </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">2 cups ; milk ; (470 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32043/low_1495125011.m3u8</low>
+    <high>https://vid.tasty.co/output/32043/mp4_720x1280/1495125011</high>
+  </video>
+  <steps>
+    <step num="0">Cut each biscuit into 8 pieces. Set aside. </step>
+    <step num="1">In a bowl, mix the eggs, milk, pepper, and salt. Set aside. </step>
+    <step num="2">For the gravy: melt the butter in a saucepan, over medium heat. Stir in flour, salt, and pepper, and slowly add the 2 cups of milk. </step>
+    <step num="3">Increase to medium-high, bring to a simmer, stirring until gravy is thickened. </step>
+    <step num="4">In a greased 9x13 (22x33 cm) glass baking dish, layer the biscuits, sausage, cheese, egg mixture, and gravy. </step>
+    <step num="5">Bake at 350°F (180°C) for 35-45 min, until the eggs on the bottom are cooked. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut each biscuit into 8 pieces. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">In a bowl, mix the eggs, milk, pepper, and salt. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">For the gravy: melt the butter in a saucepan, over medium heat. </steps_updated>
+    <steps_updated num="5">Stir in flour, salt, and pepper, and slowly add the 2 cups of milk. </steps_updated>
+    <steps_updated num="6">Increase to medium-high, bring to a simmer, stirring until gravy is thickened. </steps_updated>
+    <steps_updated num="7">In a greased 9x13 (22x33 cm) glass baking dish, layer the biscuits, sausage, cheese, egg mixture, and gravy. </steps_updated>
+    <steps_updated num="8">Bake at 350°F (180°C) for 35-45 min, until the eggs on the bottom are cooked. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,56 @@
+<recipe>
+  <title>Mixed Berry French Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mixed-berry-french-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/french-toast-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 8535 13278 4465 </ingredient>
+    <ingredient num="1">4061 13278 12708 </ingredient>
+    <ingredient num="2">3917 2605 13278 5802 13278 7503 8007 </ingredient>
+    <ingredient num="3">3917 14014 13278 1319 </ingredient>
+    <ingredient num="4">3917 14014 13278 12425 </ingredient>
+    <ingredient num="5">8580 9517 13278 13592 6738 4406 6289 13817 3121 13278 6898 5981 </ingredient>
+    <ingredient num="6">8580 9486 13278 597 10998 </ingredient>
+    <ingredient num="7">1813 2605 13278 8653 4834 13278 9377 5981 </ingredient>
+    <ingredient num="8">2401 6145 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/40734/low_1498787327.m3u8</low>
+    <high>https://vid.tasty.co/output/40734/mp4_720x1280/1498787327</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>29.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">283 14463 4654 1319 13817 5802 3626 210 2238 12377 560 3535 6216 7137 </step>
+    <step num="1">2368 4465 210 6216 7137 </step>
+    <step num="2">12305 9924 210 5994 10060 4255 4531 7855 13817 2550 4465 7990 6865 12689 </step>
+    <step num="3">9393 6738 6145 13817 597 10522 210 13757 5687 11770 9721 7855 9663 13817 13328 8540 1681 6665 1978 5994 7711 9286 </step>
+    <step num="4">4124 2696 8535 13817 11434 4799 210 8830 10763 12205 415 4255 143 13688 1391 2401 4834 6497 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">283 14463 4654 1319 13817 5802 3626 210 2238 12377 560 3535 6216 7137 </steps_updated>
+    <steps_updated num="1">2368 4465 210 6216 7137 </steps_updated>
+    <steps_updated num="2">12305 9924 210 5994 10060 4255 4531 7855 13817 2550 4465 7990 6865 12689 </steps_updated>
+    <steps_updated num="3">9393 6738 6145 13817 597 10522 210 13757 5687 11770 9721 7855 9663 13817 13328 8540 1681 6665 1978 5994 7711 9286 </steps_updated>
+    <steps_updated num="4">4124 2696 8535 13817 11434 4799 210 8830 10763 12205 415 4255 143 </steps_updated>
+    <steps_updated num="5">13688 1391 2401 4834 6497 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00891</end_time>
+  </duration_human>
+</recipe>

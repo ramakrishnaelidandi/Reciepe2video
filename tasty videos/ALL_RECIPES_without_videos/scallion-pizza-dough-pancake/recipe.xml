@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Scallion Pizza Dough Pancake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/scallion-pizza-dough-pancake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">pizza dough </ingredient>
+    <ingredient num="1">scallion </ingredient>
+    <ingredient num="2">sesame oil </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">white pepper, to taste </ingredient>
+    <ingredient num="5">⅓ cup ; soy sauce ; (80 mL) </ingredient>
+    <ingredient num="6">2 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="7">1 teaspoon ; sriracha sauce </ingredient>
+    <ingredient num="8">1 tablespoon ; garlic </ingredient>
+    <ingredient num="9">1 tablespoon ; ginger </ingredient>
+    <ingredient num="10">1 tablespoon ; sugar </ingredient>
+    <ingredient num="11">scallions, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31889/low_1495124896.m3u8</low>
+    <high>https://vid.tasty.co/output/31889/mp4_720x1280/1495124896</high>
+  </video>
+  <steps>
+    <step num="0">Brush pizza dough with sesame oil. Liberally spread scallions. Salt and white pepper the pizza dough. </step>
+    <step num="1">Cut pizza dough into 6 x 10 inch (15 x 25 cm) pieces. Roll and coil. Rest covered with a damp towel for an hour. </step>
+    <step num="2">After an hour, flatten each coil of dough, roll out as flat as possible. Fry on medium heat until both sides are golden brown (5 minutes). Then cut into quarters. </step>
+    <step num="3">Mix the ingredients for the dipping sauce into a small bowl. Serve. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Brush pizza dough with sesame oil. </steps_updated>
+    <steps_updated num="1">Liberally spread scallions. </steps_updated>
+    <steps_updated num="2">Salt and white pepper the pizza dough. </steps_updated>
+    <steps_updated num="3">Cut pizza dough into 6 x 10 inch (15 x 25 cm) pieces. </steps_updated>
+    <steps_updated num="4">Roll and coil. </steps_updated>
+    <steps_updated num="5">Rest covered with a damp towel for an hour. </steps_updated>
+    <steps_updated num="6">After an hour, flatten each coil of dough, roll out as flat as possible. </steps_updated>
+    <steps_updated num="7">Fry on medium heat until both sides are golden brown (5 minutes). </steps_updated>
+    <steps_updated num="8">Then cut into quarters. </steps_updated>
+    <steps_updated num="9">Mix the ingredients for the dipping sauce into a small bowl. </steps_updated>
+    <steps_updated num="10">Serve. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

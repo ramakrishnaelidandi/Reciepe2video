@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Coconut Cashew Butter Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coconut-cashew-butter</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-nut-butters-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 cups ; roasted cashew ; (390 g) </ingredient>
+    <ingredient num="1">½ cup ; unsweetened coconut flake ; (40 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; coconut oil </ingredient>
+    <ingredient num="3">food processor </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31127/low_1494259317.m3u8</low>
+    <high>https://vid.tasty.co/output/31127/mp4_720x1280/1494259317</high>
+  </video>
+  <duration>
+    <start_time>54.7</start_time>
+    <end_time>83.809</end_time>
+  </duration>
+  <steps>
+    <step num="0">NOTE: If you have unroasted nuts, preheat oven to 350°F (180°C). Spread cashews onto a baking tray and bake for 10-12 minutes or until you can smell them. </step>
+    <step num="1">In a food processor, blend raw cashews. Scrape down the sides when necessary. Nuts should turn into a ball then even out. </step>
+    <step num="2">Once the mixture looks creamy, add unsweetened coconut flakes and coconut oil. </step>
+    <step num="3">Blend until well combined. </step>
+    <step num="4">Pour into a jar, store in a refrigerator and use within one month. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">NOTE: If you have unroasted nuts, preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Spread cashews onto a baking tray and bake for 10-12 minutes or until you can smell them. </steps_updated>
+    <steps_updated num="2">In a food processor, blend raw cashews. </steps_updated>
+    <steps_updated num="3">Scrape down the sides when necessary. </steps_updated>
+    <steps_updated num="4">Nuts should turn into a ball then even out. </steps_updated>
+    <steps_updated num="5">Once the mixture looks creamy, add unsweetened coconut flakes and coconut oil. </steps_updated>
+    <steps_updated num="6">Blend until well combined. </steps_updated>
+    <steps_updated num="7">Pour into a jar, store in a refrigerator and use within one month. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01683</start_time>
+    <end_time>02511</end_time>
+  </duration_human>
+</recipe>

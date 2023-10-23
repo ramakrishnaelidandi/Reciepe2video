@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; Italian sausage ; (500 g) </ingredient>
+    <ingredient num="1">1 ; yellow onion, sliced </ingredient>
+    <ingredient num="2">1 ½ cups ; bell pepper, diced ; (150 g) </ingredient>
+    <ingredient num="3">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">3 cups ; marinara sauce, or pizza sauce ; (780 g) </ingredient>
+    <ingredient num="5">12 ; lasagna noodles, cooked </ingredient>
+    <ingredient num="6">6 oz ; pepperoni, sliced ; (180 g) </ingredient>
+    <ingredient num="7">1 cup ; fresh basil leaf, packed ; (40 g) </ingredient>
+    <ingredient num="8">3 cups ; mozzarella cheese ; (345 g) </ingredient>
+    <ingredient num="9">3 cups ; ricotta cheese ; (750 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19503/low_1482951353.m3u8</low>
+    <high>https://vid.tasty.co/output/19503/mp4_720x1280/1482951353</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375ºF (190ºC). </step>
+    <step num="1">Over medium-high heat, cook Italian sausage until browned, then remove from pan and set aside. </step>
+    <step num="2">In the same pan, cook onion until translucent, then add bell peppers and garlic. Cook until the veggies are soft, about 10 minutes. Set aside. </step>
+    <step num="3">In a 9 x13-inch (23cm x 33cm) baking dish, begin to assemble the lasagna by spreading a thin layer of sauce on the bottom of the pan. </step>
+    <step num="4">Then, layer ingredients in the following order: noodles, ricotta, sausage, veggies, mozzarella, sauce, noodles, ricotta, pepperoni, basil, mozzarella, sauce, noodles, marinara, mozzarella, veggies, sausage, and pepperoni. </step>
+    <step num="5">Place pan on a sheet tray and bake for 45-55 minutes, or until bubbling and starting to brown around the edges. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375ºF (190ºC). </steps_updated>
+    <steps_updated num="1">Over medium-high heat, cook Italian sausage until browned, then remove from pan and set aside. </steps_updated>
+    <steps_updated num="2">In the same pan, cook onion until translucent, then add bell peppers and garlic. </steps_updated>
+    <steps_updated num="3">Cook until the veggies are soft, about 10 minutes. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a 9 x13-inch (23cm x 33cm) baking dish, begin to assemble the lasagna by spreading a thin layer of sauce on the bottom of the pan. </steps_updated>
+    <steps_updated num="6">Then, layer ingredients in the following order: noodles, ricotta, sausage, veggies, mozzarella, sauce, noodles, ricotta, pepperoni, basil, mozzarella, sauce, noodles, marinara, mozzarella, veggies, sausage, and pepperoni. </steps_updated>
+    <steps_updated num="7">Place pan on a sheet tray and bake for 45-55 minutes, or until bubbling and starting to brown around the edges. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

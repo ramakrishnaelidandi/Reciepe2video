@@ -1,0 +1,43 @@
+<recipe>
+  <title>Brunch Strata Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/brunch-strata-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 13278 12708 </ingredient>
+    <ingredient num="1">8580 1580 9517 13278 5802 13278 7465 8007 </ingredient>
+    <ingredient num="2">8580 2031 13278 82 </ingredient>
+    <ingredient num="3">8580 2031 13278 7845 </ingredient>
+    <ingredient num="4">11061 9517 13278 5964 726 472 13278 10952 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 472 12868 13278 757 5981 </ingredient>
+    <ingredient num="6">3917 2605 13278 2602 3745 13817 6124 13278 9473 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 3333 14538 13278 11953 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32047/low_1495125041.m3u8</low>
+    <high>https://vid.tasty.co/output/32047/mp4_720x1280/1495125041</high>
+  </video>
+  <steps>
+    <step num="0">283 3626 14463 5802 13817 82 13817 12375 9179 11951 472 5964 2071 6142 13817 3945 11951 4465 12221 3386 8554 11951 6216 596 </step>
+    <step num="1">9060 5994 12875 10923 1645 11745 9370 573 1580 371 11951 8084 2071 740 7489 13220 13817 4496 </step>
+    <step num="2">13494 1391 11951 12886 371 11951 1208 4429 1762 12533 11993 14548 573 11951 1516 1391 12313 1798 5895 14263 6252 3954 14538 11770 11951 143 </step>
+    <step num="3">7831 210 11853 10439 7811 12738 7572 7990 7759 12689 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">283 3626 14463 5802 13817 82 13817 12375 </steps_updated>
+    <steps_updated num="1">9179 11951 472 5964 2071 6142 13817 3945 11951 4465 12221 3386 8554 11951 6216 596 </steps_updated>
+    <steps_updated num="2">9060 5994 12875 10923 1645 11745 9370 573 1580 371 11951 8084 2071 740 7489 13220 13817 4496 </steps_updated>
+    <steps_updated num="3">13494 1391 11951 12886 371 11951 1208 </steps_updated>
+    <steps_updated num="4">4429 1762 12533 11993 14548 573 11951 1516 1391 12313 1798 5895 14263 </steps_updated>
+    <steps_updated num="5">6252 3954 14538 11770 11951 143 </steps_updated>
+    <steps_updated num="6">7831 210 11853 10439 7811 12738 7572 7990 7759 12689 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

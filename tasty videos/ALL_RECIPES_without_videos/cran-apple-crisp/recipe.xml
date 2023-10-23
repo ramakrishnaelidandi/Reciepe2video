@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cran-Apple Crisp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cran-apple-crisp</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; apples, diced </ingredient>
+    <ingredient num="1">½ ; lemon, juiced </ingredient>
+    <ingredient num="2">1 ½ cups ; cranberry ; (150 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; cornstarch </ingredient>
+    <ingredient num="4">3 tablespoons ; sugar </ingredient>
+    <ingredient num="5">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="7">1 cup ; rolled oats ; (100 g) </ingredient>
+    <ingredient num="8">⅓ cup ; brown sugar ; (70 g) </ingredient>
+    <ingredient num="9">3 tablespoons ; flour </ingredient>
+    <ingredient num="10">4 tablespoons ; butter </ingredient>
+    <ingredient num="11">½ teaspoon ; salt </ingredient>
+    <ingredient num="12">ice cream, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Date Night</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19066/low_1482362326.m3u8</low>
+    <high>https://vid.tasty.co/output/19066/mp4_720x1280/1482362326</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a large bowl, gently combine apples, lemon juice, cranberries, cornstarch, sugar, syrup, and cinnamon. </step>
+    <step num="2">Pour into a 9x13-inch (23x33cm) baking dish and bake for 30 minutes. </step>
+    <step num="3">In another bowl, combine oats, brown sugar, flour, butter, and salt until well-incorporated. </step>
+    <step num="4">Sprinkle the oat topping evenly over the baked fruit and bake for another 15 minutes, or until the crust is golden brown. </step>
+    <step num="5">Serve with ice cream on top. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, gently combine apples, lemon juice, cranberries, cornstarch, sugar, syrup, and cinnamon. </steps_updated>
+    <steps_updated num="2">Pour into a 9x13-inch (23x33cm) baking dish and bake for 30 minutes. </steps_updated>
+    <steps_updated num="3">In another bowl, combine oats, brown sugar, flour, butter, and salt until well-incorporated. </steps_updated>
+    <steps_updated num="4">Sprinkle the oat topping evenly over the baked fruit and bake for another 15 minutes, or until the crust is golden brown. </steps_updated>
+    <steps_updated num="5">Serve with ice cream on top. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

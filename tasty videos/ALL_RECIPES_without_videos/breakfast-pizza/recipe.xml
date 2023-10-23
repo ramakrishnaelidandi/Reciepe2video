@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">olive oil </ingredient>
+    <ingredient num="1">shredded cheddar cheese </ingredient>
+    <ingredient num="2">cooked bacon </ingredient>
+    <ingredient num="3">hash brown, cooked </ingredient>
+    <ingredient num="4">3 ; eggs </ingredient>
+    <ingredient num="5">fresh chives, chopped </ingredient>
+    <ingredient num="6">black pepper, freshly ground </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Fusion</category>
+    <category num="6">brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31978/low_1495124970.m3u8</low>
+    <high>https://vid.tasty.co/output/31978/mp4_720x1280/1495124970</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 450ºF (232 ºC). </step>
+    <step num="1">Roll out your pizza dough (homemade or store bought). Add olive oil. </step>
+    <step num="2">Cover with whatever toppings you prefer. </step>
+    <step num="3">Bake the pizza for 10-12 minutes, or until the eggs are cooked to your preference. We cooked it until the egg whites were cooked, but the egg yolks were still runny. But you do you. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 450ºF (232 ºC). </steps_updated>
+    <steps_updated num="1">Roll out your pizza dough (homemade or store bought). </steps_updated>
+    <steps_updated num="2">Add olive oil. </steps_updated>
+    <steps_updated num="3">Cover with whatever toppings you prefer. </steps_updated>
+    <steps_updated num="4">Bake the pizza for 10-12 minutes, or until the eggs are cooked to your preference. </steps_updated>
+    <steps_updated num="5">We cooked it until the egg whites were cooked, but the egg yolks were still runny. </steps_updated>
+    <steps_updated num="6">But you do you. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Veggie Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-nuggets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; carrots, peeled and cut into chunks </ingredient>
+    <ingredient num="1">½ head ; cauliflower, broken up </ingredient>
+    <ingredient num="2">1 head ; broccoli, broken up </ingredient>
+    <ingredient num="3">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="4">1 ; egg </ingredient>
+    <ingredient num="5">½ teaspoon ; onion powder </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+    <ingredient num="8">1 ¾ cups ; bread crumbs ; (205 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20092/low_1483744153.m3u8</low>
+    <high>https://vid.tasty.co/output/20092/mp4_720x1280/1483744153</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, blend carrots, cauliflower, broccoli, garlic, egg, onion powder, salt, and pepper until combined. </step>
+    <step num="1">Add 1¼ cup (145 grams) of bread crumbs and blend just until incorporated. </step>
+    <step num="2">Scoop a tablespoon of the mixture and form a small circular-shaped “nugget.” </step>
+    <step num="3">Place the remaining ½ cup (60 grams) of bread crumbs in a bowl and cover each nugget with the bread crumbs. </step>
+    <step num="4">Pan fry with a small drizzle of oil over medium-high heat until both sides are golden brown, about 10 minutes. Or, you can bake them on a piece of parchment paper at 400˚F (200˚C) for 25 minutes, flipping after the first 15 minutes. </step>
+    <step num="5">Serve with your favorite dipping sauce. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, blend carrots, cauliflower, broccoli, garlic, egg, onion powder, salt, and pepper until combined. </steps_updated>
+    <steps_updated num="1">Add 1¼ cup (145 grams) of bread crumbs and blend just until incorporated. </steps_updated>
+    <steps_updated num="2">Scoop a tablespoon of the mixture and form a small circular-shaped “nugget.” </steps_updated>
+    <steps_updated num="3">Place the remaining ½ cup (60 grams) of bread crumbs in a bowl and cover each nugget with the bread crumbs. </steps_updated>
+    <steps_updated num="4">Pan fry with a small drizzle of oil over medium-high heat until both sides are golden brown, about 10 minutes. </steps_updated>
+    <steps_updated num="5">Or, you can bake them on a piece of parchment paper at 400˚F (200˚C) for 25 minutes, flipping after the first 15 minutes. </steps_updated>
+    <steps_updated num="6">Serve with your favorite dipping sauce. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

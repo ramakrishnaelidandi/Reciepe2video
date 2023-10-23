@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Korean-style Ribs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/korean-style-ribs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; soy sauce ; (120 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; rice vinegar </ingredient>
+    <ingredient num="2">2 tablespoons ; sesame oil </ingredient>
+    <ingredient num="3">2 tablespoons ; red pepper powder </ingredient>
+    <ingredient num="4">8 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">1 tablespoon ; grated ginger </ingredient>
+    <ingredient num="6">1 cup ; onion ; (150 g) </ingredient>
+    <ingredient num="7">3 lb ; baby back ribs ; (1 ⅓ kg) </ingredient>
+    <ingredient num="8">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="9">sesame seeds, for garnish </ingredient>
+    <ingredient num="10">scallion, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">BBQ</category>
+    <category num="1">Korean</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">BBQ</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32142/low_1495125405.m3u8</low>
+    <high>https://vid.tasty.co/output/32142/mp4_720x1280/1495125405</high>
+  </video>
+  <steps>
+    <step num="0">Combine marinade ingredients in a bowl. </step>
+    <step num="1">Pour marinade over ribs and let them marinate for at least four hours. </step>
+    <step num="2">After marinating, place ribs on baking dish. Reserve the marinade for later. </step>
+    <step num="3">Bake ribs at 325°F (160°C) for two and a half to three hours. </step>
+    <step num="4">Pour the leftover marinade into a saucepan, add the honey, and bring to a boil to form a glaze. Set aside. </step>
+    <step num="5">After two and half to three hours, remove the ribs from the oven. Pour the glaze over the ribs and broil for 5 to 10 minutes. </step>
+    <step num="6">Cut up the ribs, sprinkle sesame seeds over, and garnish with scallions. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine marinade ingredients in a bowl. </steps_updated>
+    <steps_updated num="1">Pour marinade over ribs and let them marinate for at least four hours. </steps_updated>
+    <steps_updated num="2">After marinating, place ribs on baking dish. </steps_updated>
+    <steps_updated num="3">Reserve the marinade for later. </steps_updated>
+    <steps_updated num="4">Bake ribs at 325°F (160°C) for two and a half to three hours. </steps_updated>
+    <steps_updated num="5">Pour the leftover marinade into a saucepan, add the honey, and bring to a boil to form a glaze. </steps_updated>
+    <steps_updated num="6">Set aside. </steps_updated>
+    <steps_updated num="7">After two and half to three hours, remove the ribs from the oven. </steps_updated>
+    <steps_updated num="8">Pour the glaze over the ribs and broil for 5 to 10 minutes. </steps_updated>
+    <steps_updated num="9">Cut up the ribs, sprinkle sesame seeds over, and garnish with scallions. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

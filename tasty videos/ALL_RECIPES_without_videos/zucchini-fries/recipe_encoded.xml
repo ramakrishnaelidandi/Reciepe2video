@@ -1,0 +1,67 @@
+<recipe>
+  <title>Zucchini Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-fries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-fries-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 7066 </ingredient>
+    <ingredient num="1">3917 2605 13278 12956 1230 13278 2264 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 2431 109 14538 13278 13412 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 11384 11703 </ingredient>
+    <ingredient num="4">3917 14014 13278 796 6250 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">3917 8071 13278 7845 </ingredient>
+    <ingredient num="7">8580 13278 12708 </ingredient>
+    <ingredient num="8">3917 2605 13278 12347 9767 3713 13278 13113 5981 </ingredient>
+    <ingredient num="9">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="10">8580 9486 13278 6209 3938 </ingredient>
+    <ingredient num="11">12791 8071 13278 82 </ingredient>
+    <ingredient num="12">12791 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Snacks</category>
+    <category num="7">Game Day</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17783/low_1481738771.m3u8</low>
+    <high>https://vid.tasty.co/output/17783/mp4_720x1280/1481738771</high>
+  </video>
+  <duration>
+    <start_time>33.0</start_time>
+    <end_time>55.116</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">14100 7601 669 6637 13817 817 5292 </step>
+    <step num="2">10950 5994 2597 12377 4120 5094 11493 11384 8117 749 12610 13817 12375 </step>
+    <step num="3">283 12708 210 5994 10067 12377 5895 6325 </step>
+    <step num="4">2668 7601 210 14463 13715 12811 13817 415 1686 210 4465 2883 10665 </step>
+    <step num="5">5570 4255 5994 10765 213 10926 1391 3550 8831 7831 7990 666 11004 9309 14640 </step>
+    <step num="6">10346 10852 3343 6637 12573 3685 10895 8554 10852 11907 210 5994 2192 12377 13817 817 10261 210 11951 7111 1681 12550 560 14318 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">14100 7601 669 6637 13817 817 5292 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 12377 4120 5094 11493 11384 8117 749 12610 13817 12375 </steps_updated>
+    <steps_updated num="3">283 12708 210 5994 10067 12377 5895 6325 </steps_updated>
+    <steps_updated num="4">2668 7601 210 14463 13715 12811 13817 415 1686 210 4465 2883 10665 </steps_updated>
+    <steps_updated num="5">5570 4255 5994 10765 213 10926 1391 3550 8831 </steps_updated>
+    <steps_updated num="6">7831 7990 666 11004 9309 14640 </steps_updated>
+    <steps_updated num="7">10346 10852 3343 6637 12573 3685 </steps_updated>
+    <steps_updated num="8">10895 8554 10852 11907 210 5994 2192 12377 13817 817 10261 210 11951 7111 1681 12550 560 14318 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01041</start_time>
+    <end_time>01811</end_time>
+  </duration_human>
+</recipe>

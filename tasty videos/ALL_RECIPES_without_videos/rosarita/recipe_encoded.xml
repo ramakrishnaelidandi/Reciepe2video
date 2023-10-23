@@ -1,0 +1,49 @@
+<recipe>
+  <title>Rosarita Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rosarita</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/rose-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 7245 13278 12462 8007 </ingredient>
+    <ingredient num="1">3917 2605 13278 9712 10522 13278 12462 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 3575 6818 13278 2935 8007 </ingredient>
+    <ingredient num="3">3917 1460 13278 3739 </ingredient>
+    <ingredient num="4">531 560 7397 2517 </ingredient>
+    <ingredient num="5">3917 13278 7695 976 669 5157 </ingredient>
+    <ingredient num="6">10866 1955 12610 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Date Night</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49433/low_1503686463.m3u8</low>
+    <high>https://vid.tasty.co/output/49433/mp4_720x1280/1503686463</high>
+  </video>
+  <duration>
+    <start_time>21.0</start_time>
+    <end_time>36.17</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 11856 5895 2597 14511 740 13395 9712 7654 3575 1285 13817 10585 12473 560 1011 </step>
+    <step num="1">1083 11951 7485 82 669 5994 10067 6325 5067 11951 2567 371 11951 9943 186 13817 10852 10763 669 11951 12051 </step>
+    <step num="2">9179 2439 560 10763 7818 13426 6689 415 10707 1391 11951 3739 14646 11768 </step>
+    <step num="3">12774 1391 5994 9712 1911 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 11856 5895 2597 14511 740 13395 9712 7654 3575 1285 13817 10585 </steps_updated>
+    <steps_updated num="1">12473 560 1011 </steps_updated>
+    <steps_updated num="2">1083 11951 7485 82 669 5994 10067 6325 </steps_updated>
+    <steps_updated num="3">5067 11951 2567 371 11951 9943 186 13817 10852 10763 669 11951 12051 </steps_updated>
+    <steps_updated num="4">9179 2439 560 10763 7818 13426 6689 415 10707 1391 11951 3739 14646 11768 </steps_updated>
+    <steps_updated num="5">12774 1391 5994 9712 1911 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00690</start_time>
+    <end_time>01061</end_time>
+  </duration_human>
+</recipe>

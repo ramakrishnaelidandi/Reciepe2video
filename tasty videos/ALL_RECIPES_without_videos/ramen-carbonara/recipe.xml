@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ramen Carbonara Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ramen-carbonara</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; egg </ingredient>
+    <ingredient num="1">1 ; egg yolk </ingredient>
+    <ingredient num="2">⅓ cup ; parmesan cheese ; (40 g) </ingredient>
+    <ingredient num="3">ground pepper, to taste </ingredient>
+    <ingredient num="4">2 strips ; bacon, sliced crosswise into half-inch strips </ingredient>
+    <ingredient num="5">1 pack ; instant ramen </ingredient>
+    <ingredient num="6">olive oil, as needed, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32099/low_1495125375.m3u8</low>
+    <high>https://vid.tasty.co/output/32099/mp4_720x1280/1495125375</high>
+  </video>
+  <steps>
+    <step num="0">In a small bowl, add one whole egg, one egg yolk, parmesan cheese, and pepper to taste. Whisk with fork until well combined. </step>
+    <step num="1">Cut two strips of bacon crosswise into half-inch strips. Fry until cooked but not yet crispy. </step>
+    <step num="2">Boil water and cook ramen very al dente, or just until it can be loosened from it’s block form. </step>
+    <step num="3">Add 1-2 tablespoons of olive oil to the bacon and stir, lifting any bacon bits that are stuck to the pan. Once the oil is hot, remove the pan from heat. </step>
+    <step num="4">Pour a small amount of the water the ramen was cooked in and stir. Add the ramen noodles and stir some more, coating the noodles in the bacon/olive oil mixture. </step>
+    <step num="5">Next, add the egg mixture, making sure to pour it onto the noodles and not straight onto the pan. Stir vigorously. The heat from the pan and ingredients need to turn the egg mixture into a creamy sauce. But, if the eggs get too hot they will cook too much and become scrabbled eggs. Add additional ramen water as needed to create a smooth but creamy sauce. </step>
+    <step num="6">Plate and top with additional parmesan cheese and pepper. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, add one whole egg, one egg yolk, parmesan cheese, and pepper to taste. </steps_updated>
+    <steps_updated num="1">Whisk with fork until well combined. </steps_updated>
+    <steps_updated num="2">Cut two strips of bacon crosswise into half-inch strips. </steps_updated>
+    <steps_updated num="3">Fry until cooked but not yet crispy. </steps_updated>
+    <steps_updated num="4">Boil water and cook ramen very al dente, or just until it can be loosened from it’s block form. </steps_updated>
+    <steps_updated num="5">Add 1-2 tablespoons of olive oil to the bacon and stir, lifting any bacon bits that are stuck to the pan. </steps_updated>
+    <steps_updated num="6">Once the oil is hot, remove the pan from heat. </steps_updated>
+    <steps_updated num="7">Pour a small amount of the water the ramen was cooked in and stir. </steps_updated>
+    <steps_updated num="8">Add the ramen noodles and stir some more, coating the noodles in the bacon/olive oil mixture. </steps_updated>
+    <steps_updated num="9">Next, add the egg mixture, making sure to pour it onto the noodles and not straight onto the pan. </steps_updated>
+    <steps_updated num="10">Stir vigorously. </steps_updated>
+    <steps_updated num="11">The heat from the pan and ingredients need to turn the egg mixture into a creamy sauce. </steps_updated>
+    <steps_updated num="12">But, if the eggs get too hot they will cook too much and become scrabbled eggs. </steps_updated>
+    <steps_updated num="13">Add additional ramen water as needed to create a smooth but creamy sauce. </steps_updated>
+    <steps_updated num="14">Plate and top with additional parmesan cheese and pepper. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

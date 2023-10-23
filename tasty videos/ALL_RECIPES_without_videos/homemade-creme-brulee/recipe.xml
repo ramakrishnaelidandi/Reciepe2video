@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Crème Brûlée Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-creme-brulee</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; heavy cream ; (945 mL) </ingredient>
+    <ingredient num="1">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="2">6 ; egg yolks </ingredient>
+    <ingredient num="3">1 cup ; sugar, half in mixture, half for crust ; (200 g) </ingredient>
+    <ingredient num="4">6 oz ; ramekins, 7 ounces (225 grams) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31912/low_1495124865.m3u8</low>
+    <high>https://vid.tasty.co/output/31912/mp4_720x1280/1495124865</high>
+  </video>
+  <steps>
+    <step num="0">Heat heavy cream and vanilla extract in a sauce pan until hot, but not boiling. </step>
+    <step num="1">In a medium bowl, whisk egg yolks and half of sugar until well mixed. Pour in the hot cream gradually, mixing continually. </step>
+    <step num="2">Pour hot water into a large roasting pan. Place six ramekins into the pan (the water should come roughly halfway up the sides of the ramekins). </step>
+    <step num="3">Pour the egg mixture into the ramekins and bake at 325˚F (165˚C) for 45 - 50 minutes. The crème brûlée should be set, but still a little jiggly in the middle. </step>
+    <step num="4">Remove the ramekins from the roasting pan, allow to cool to room temperature, cover with plastic wrap and refrigerate for at least two hours and up to three days. </step>
+    <step num="5">Remove the crème brûlée from the refrigerator for at least 30 minutes before browning the sugar on top. Spread a tablespoon of sugar on top of each crème brûlée. </step>
+    <step num="6">Using a torch, melt the sugar to for a crispy top. If you don’t have a torch, you can broil the crème brûlée to melt the sugar. Keep an eye on it, to make sure you don’t over cook it. Allow the crème brûlée to sit for at least five minutes before serving. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat heavy cream and vanilla extract in a sauce pan until hot, but not boiling. </steps_updated>
+    <steps_updated num="1">In a medium bowl, whisk egg yolks and half of sugar until well mixed. </steps_updated>
+    <steps_updated num="2">Pour in the hot cream gradually, mixing continually. </steps_updated>
+    <steps_updated num="3">Pour hot water into a large roasting pan. </steps_updated>
+    <steps_updated num="4">Place six ramekins into the pan (the water should come roughly halfway up the sides of the ramekins). </steps_updated>
+    <steps_updated num="5">Pour the egg mixture into the ramekins and bake at 325˚F (165˚C) for 45 - 50 minutes. </steps_updated>
+    <steps_updated num="6">The crème brûlée should be set, but still a little jiggly in the middle. </steps_updated>
+    <steps_updated num="7">Remove the ramekins from the roasting pan, allow to cool to room temperature, cover with plastic wrap and refrigerate for at least two hours and up to three days. </steps_updated>
+    <steps_updated num="8">Remove the crème brûlée from the refrigerator for at least 30 minutes before browning the sugar on top. </steps_updated>
+    <steps_updated num="9">Spread a tablespoon of sugar on top of each crème brûlée. </steps_updated>
+    <steps_updated num="10">Using a torch, melt the sugar to for a crispy top. </steps_updated>
+    <steps_updated num="11">If you don’t have a torch, you can broil the crème brûlée to melt the sugar. </steps_updated>
+    <steps_updated num="12">Keep an eye on it, to make sure you don’t over cook it. </steps_updated>
+    <steps_updated num="13">Allow the crème brûlée to sit for at least five minutes before serving. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

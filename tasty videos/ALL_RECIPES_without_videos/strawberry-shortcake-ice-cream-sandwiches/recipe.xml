@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Shortcake Ice Cream Sandwiches Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-shortcake-ice-cream-sandwiches</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/ice-cream-sandwiches</comp_url>
+  <ingredients>
+    <ingredient num="0">1 pt ; strawberry ice cream ; (475 g) </ingredient>
+    <ingredient num="1">6 ; sugar cookies </ingredient>
+    <ingredient num="2">½ cup ; graham cracker, crushed ; (40 g) </ingredient>
+    <ingredient num="3">½ cup ; freeze-dried strawberry, crushed ; (100 g) </ingredient>
+    <ingredient num="4">1 ½ cups ; white chocolate chip ; (260 g) </ingredient>
+    <ingredient num="5">1 ½ tablespoons ; coconut oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102877/hls24_1532389600.m3u8</low>
+    <high>https://vid.tasty.co/output/102877/landscape_720/1532389600</high>
+  </video>
+  <duration>
+    <start_time>42.666</start_time>
+    <end_time>92.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Using a serrated knife, cut the pint of ice cream crosswise into 3 equal discs. </step>
+    <step num="1">Lay out 3 sugar cookies and place a pint slice on top of each. Place another sugar cookie on top of each sandwich. Remove the ice cream packaging. </step>
+    <step num="2">Freeze for 30 minutes. </step>
+    <step num="3">In a small bowl, stir together the graham crackers and freeze-dried strawberries until thoroughly mixed. </step>
+    <step num="4">In a liquid measuring cup or deep, microwave-safe bowl, combine white chocolate chips and coconut oil. Microwave in 30-second intervals, stirring between each, until the white chocolate is silky smooth. Let the white chocolate cool to room temperature, about 5 minutes. </step>
+    <step num="5">Remove the ice cream sandwiches from the freezer and dip half of each sandwich into the white chocolate, then roll the dipped side in the graham cracker and strawberry mixture until fully covered. </step>
+    <step num="6">Freeze for 30 minutes more before serving. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Using a serrated knife, cut the pint of ice cream crosswise into 3 equal discs. </steps_updated>
+    <steps_updated num="1">Lay out 3 sugar cookies and place a pint slice on top of each. </steps_updated>
+    <steps_updated num="2">Place another sugar cookie on top of each sandwich. </steps_updated>
+    <steps_updated num="3">Remove the ice cream packaging. </steps_updated>
+    <steps_updated num="4">Freeze for 30 minutes. </steps_updated>
+    <steps_updated num="5">In a small bowl, stir together the graham crackers and freeze-dried strawberries until thoroughly mixed. </steps_updated>
+    <steps_updated num="6">In a liquid measuring cup or deep, microwave-safe bowl, combine white chocolate chips and coconut oil. </steps_updated>
+    <steps_updated num="7">Microwave in 30-second intervals, stirring between each, until the white chocolate is silky smooth. </steps_updated>
+    <steps_updated num="8">Let the white chocolate cool to room temperature, about 5 minutes. </steps_updated>
+    <steps_updated num="9">Remove the ice cream sandwiches from the freezer and dip half of each sandwich into the white chocolate, then roll the dipped side in the graham cracker and strawberry mixture until fully covered. </steps_updated>
+    <steps_updated num="10">Freeze for 30 minutes more before serving. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

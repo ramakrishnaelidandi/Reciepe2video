@@ -1,0 +1,48 @@
+<recipe>
+  <title>Egg, Avocado, &amp; Tomato Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/egg-avocado-tomato-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-under-10-minutes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 12205 13278 4465 </ingredient>
+    <ingredient num="1">3917 13278 4485 </ingredient>
+    <ingredient num="2">8580 13278 8602 7042 976 </ingredient>
+    <ingredient num="3">3917 13278 6216 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57653/low_1508540059.m3u8</low>
+    <high>https://vid.tasty.co/output/57653/mp4_720x1280/1508540059</high>
+  </video>
+  <duration>
+    <start_time>0.8599999999999999</start_time>
+    <end_time>21.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">2093 4817 8602 8720 </step>
+    <step num="1">10641 1580 371 3917 4485 1391 12051 319 11951 11649 2532 7990 6646 6437 </step>
+    <step num="2">10346 4465 210 5994 14364 560 13218 3447 </step>
+    <step num="3">10950 5994 11745 7256 2237 6216 6091 11801 8857 </step>
+    <step num="4">11547 11951 4870 5569 9802 4485 4255 11951 9971 415 11951 717 13817 3297 12826 1391 11951 13784 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">2093 4817 8602 8720 </steps_updated>
+    <steps_updated num="1">10641 1580 371 3917 4485 1391 12051 </steps_updated>
+    <steps_updated num="2">319 11951 11649 2532 7990 6646 6437 </steps_updated>
+    <steps_updated num="3">10346 4465 210 5994 14364 560 13218 3447 </steps_updated>
+    <steps_updated num="4">10950 5994 11745 7256 2237 6216 6091 11801 8857 </steps_updated>
+    <steps_updated num="5">11547 11951 4870 5569 9802 4485 4255 11951 9971 415 11951 717 13817 3297 12826 1391 11951 13784 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00080</start_time>
+    <end_time>00652</end_time>
+  </duration_human>
+</recipe>

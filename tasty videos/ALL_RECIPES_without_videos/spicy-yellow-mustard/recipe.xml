@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Yellow Mustard Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-yellow-mustard</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ cup ; dry mustard powder ; (75 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="2">½ teaspoon ; ground turmeric </ingredient>
+    <ingredient num="3">1 cup ; filtered water, cold ; (240 mL) </ingredient>
+    <ingredient num="4">1 ½ tablespoons ; distilled white vinegar </ingredient>
+    <ingredient num="5">1 ½ teaspoons ; kosher salt </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/129122/hls24_1554414523.m3u8</low>
+    <high>https://vid.tasty.co/output/129122/landscape_720/1554414523</high>
+  </video>
+  <steps>
+    <step num="0">In a small pot, combine the mustard powder, garlic powder, turmeric, and water. Whisk mixture, breaking up any lumps, until completely smooth. Bring to a simmer over medium-low heat. Cook, whisking occasionally, for 20-25 minutes, until thickened to the consistency of prepared yellow mustard. Be careful not to let mixture scorch or dry out. </step>
+    <step num="1">Remove the pot from the heat and stir in the vinegar and salt. Let cool completely. </step>
+    <step num="2">Transfer to a clean airtight container and store in the refrigerator. The mustard should keep for up to 1 year. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small pot, combine the mustard powder, garlic powder, turmeric, and water. </steps_updated>
+    <steps_updated num="1">Whisk mixture, breaking up any lumps, until completely smooth. </steps_updated>
+    <steps_updated num="2">Bring to a simmer over medium-low heat. </steps_updated>
+    <steps_updated num="3">Cook, whisking occasionally, for 20-25 minutes, until thickened to the consistency of prepared yellow mustard. </steps_updated>
+    <steps_updated num="4">Be careful not to let mixture scorch or dry out. </steps_updated>
+    <steps_updated num="5">Remove the pot from the heat and stir in the vinegar and salt. </steps_updated>
+    <steps_updated num="6">Let cool completely. </steps_updated>
+    <steps_updated num="7">Transfer to a clean airtight container and store in the refrigerator. </steps_updated>
+    <steps_updated num="8">The mustard should keep for up to 1 year. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

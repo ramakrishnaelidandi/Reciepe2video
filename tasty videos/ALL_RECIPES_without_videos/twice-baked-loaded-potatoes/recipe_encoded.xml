@@ -1,0 +1,59 @@
+<recipe>
+  <title>Twice-Baked Loaded Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/twice-baked-loaded-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tasty-101-how-to-cook-perfect-potatoes</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 9780 13233 </ingredient>
+    <ingredient num="1">8580 2031 13278 8244 5766 </ingredient>
+    <ingredient num="2">1580 2605 13278 1484 1123 7789 3954 7990 7818 13278 6518 5981 </ingredient>
+    <ingredient num="3">8580 9486 13278 7974 10907 5335 </ingredient>
+    <ingredient num="4">3917 8071 13278 3855 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 14585 11088 13584 7845 </ingredient>
+    <ingredient num="6">3917 2605 13278 3333 9784 13810 3247 13278 2264 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 10286 1088 516 3247 13278 2264 5981 </ingredient>
+    <ingredient num="8">8580 9259 13278 7035 8421 885 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Sides</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88513/hls24_1523062633.m3u8</low>
+    <high>https://vid.tasty.co/output/88513/landscape_720/1523062633</high>
+  </video>
+  <duration>
+    <start_time>243.666</start_time>
+    <end_time>308.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 11480 5578 </step>
+    <step num="1">14137 10763 2868 1391 3917 8071 371 7632 13817 5694 11951 10707 1391 5994 11206 </step>
+    <step num="2">5570 11951 13233 4255 5994 1836 10765 213 13817 10903 7990 3917 5664 </step>
+    <step num="3">12785 13233 560 5994 4669 8667 13817 7777 210 8467 </step>
+    <step num="4">5209 5994 13908 6183 1374 2696 11951 1864 2078 371 11951 13233 13817 10231 560 5994 13757 7616 8583 11951 10101 </step>
+    <step num="5">9179 11951 1484 1123 5335 10907 12610 10986 1580 371 11951 3333 13810 13817 1580 371 11951 10286 13817 4120 1391 5994 5768 9091 1681 12119 </step>
+    <step num="6">8431 5994 1798 560 10231 11951 2868 2373 13352 669 11951 4031 2696 2868 10101 </step>
+    <step num="7">7831 7990 13767 12689 </step>
+    <step num="8">6252 11951 13233 1391 374 13810 13817 10903 7990 2933 3954 11004 1681 11951 14538 9490 1311 </step>
+    <step num="9">13494 1391 1484 1123 7035 13817 11951 374 8278 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">14137 10763 2868 1391 3917 8071 371 7632 13817 5694 11951 10707 1391 5994 11206 </steps_updated>
+    <steps_updated num="2">5570 11951 13233 4255 5994 1836 10765 213 13817 10903 7990 3917 5664 </steps_updated>
+    <steps_updated num="3">12785 13233 560 5994 4669 8667 13817 7777 210 8467 </steps_updated>
+    <steps_updated num="4">5209 5994 13908 6183 1374 2696 11951 1864 2078 371 11951 13233 13817 10231 560 5994 13757 7616 </steps_updated>
+    <steps_updated num="5">8583 11951 10101 </steps_updated>
+    <steps_updated num="6">9179 11951 1484 1123 5335 10907 12610 10986 1580 371 11951 3333 13810 13817 1580 371 11951 10286 13817 4120 1391 5994 5768 9091 1681 12119 </steps_updated>
+    <steps_updated num="7">8431 5994 1798 560 10231 11951 2868 2373 13352 669 11951 4031 2696 2868 10101 </steps_updated>
+    <steps_updated num="8">7831 7990 13767 12689 </steps_updated>
+    <steps_updated num="9">6252 11951 13233 1391 374 13810 13817 10903 7990 2933 3954 11004 1681 11951 14538 9490 1311 </steps_updated>
+    <steps_updated num="10">13494 1391 1484 1123 7035 13817 11951 374 8278 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

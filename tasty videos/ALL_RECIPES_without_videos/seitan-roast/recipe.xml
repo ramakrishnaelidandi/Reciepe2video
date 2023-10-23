@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Seitan Roast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/seitan-roast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-vegetarian-holiday-mains</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ cup ; pinto bean ; (125 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic </ingredient>
+    <ingredient num="2">3 tablespoons ; soy sauce </ingredient>
+    <ingredient num="3">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="4">2 cups ; vital wheat gluten ; (240 g) </ingredient>
+    <ingredient num="5">⅓ cup ; nutritional yeast ; (45 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="8">1 teaspoon ; dried sage </ingredient>
+    <ingredient num="9">½ teaspoon ; dried rosemary </ingredient>
+    <ingredient num="10">1 teaspoon ; dried thyme </ingredient>
+    <ingredient num="11">½ teaspoon ; pepper </ingredient>
+    <ingredient num="12">1 ½ cups ; vegetable broth ; (360 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/63579/low_1511300857.m3u8</low>
+    <high>https://vid.tasty.co/output/63579/mp4_720x1280/1511300857</high>
+  </video>
+  <duration>
+    <start_time>165.06</start_time>
+    <end_time>232.66</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C). </step>
+    <step num="1">In food processor, combine pinto beans, garlic, soy sauce, and olive oil. Process until smooth. </step>
+    <step num="2">In medium-sized mixing bowl, combine vital wheat gluten, nutritional yeast, garlic powder, onion powder, sage, rosemary, thyme, and pepper. Add in bean mixture and stir until combined. </step>
+    <step num="3">Make a well in the the mixture and pour in vegetable broth. Mix until dough gets thick. </step>
+    <step num="4">Once thick enough, use your hands to knead dough. </step>
+    <step num="5">Form dough into log, approximately 10 inches (25 cm) long and 5 inches (13 cm) thick. Roll up log in parchment paper, then in aluminum foil. </step>
+    <step num="6">Bake for 1 hour, flipping roast every 20 minutes. </step>
+    <step num="7">Remove from oven and let rest for 10 minutes before slicing. </step>
+    <step num="8">Serve with vegetarian gravy. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="1">In food processor, combine pinto beans, garlic, soy sauce, and olive oil. </steps_updated>
+    <steps_updated num="2">Process until smooth. </steps_updated>
+    <steps_updated num="3">In medium-sized mixing bowl, combine vital wheat gluten, nutritional yeast, garlic powder, onion powder, sage, rosemary, thyme, and pepper. </steps_updated>
+    <steps_updated num="4">Add in bean mixture and stir until combined. </steps_updated>
+    <steps_updated num="5">Make a well in the the mixture and pour in vegetable broth. </steps_updated>
+    <steps_updated num="6">Mix until dough gets thick. </steps_updated>
+    <steps_updated num="7">Once thick enough, use your hands to knead dough. </steps_updated>
+    <steps_updated num="8">Form dough into log, approximately 10 inches (25 cm) long and 5 inches (13 cm) thick. </steps_updated>
+    <steps_updated num="9">Roll up log in parchment paper, then in aluminum foil. </steps_updated>
+    <steps_updated num="10">Bake for 1 hour, flipping roast every 20 minutes. </steps_updated>
+    <steps_updated num="11">Remove from oven and let rest for 10 minutes before slicing. </steps_updated>
+    <steps_updated num="12">Serve with vegetarian gravy. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05014</start_time>
+    <end_time>07017</end_time>
+  </duration_human>
+</recipe>

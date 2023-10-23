@@ -1,0 +1,66 @@
+<recipe>
+  <title>Butter Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/butter-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8268 9486 13278 7974 10907 564 </ingredient>
+    <ingredient num="1">3917 2605 13278 8653 4834 13278 6898 5981 </ingredient>
+    <ingredient num="2">3917 13278 2597 6216 </ingredient>
+    <ingredient num="3">3917 1580 9486 13278 5802 </ingredient>
+    <ingredient num="4">8580 9883 9517 13278 8554 5735 6467 7789 3954 7990 580 13278 11181 5981 </ingredient>
+    <ingredient num="5">1580 8071 13278 3855 82 </ingredient>
+    <ingredient num="6">1580 8071 13278 10765 3294 </ingredient>
+    <ingredient num="7">8580 715 13278 6885 4834 13278 10187 10482 </ingredient>
+    <ingredient num="8">6735 9486 13278 7974 10907 564 </ingredient>
+    <ingredient num="9">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="10">8883 643 13278 3063 5802 13278 8902 5981 </ingredient>
+    <ingredient num="11">8016 4397 371 12313 6507 </ingredient>
+    <ingredient num="12">11815 371 12313 6507 </ingredient>
+    <ingredient num="13">8799 371 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118867/hls24_1544228049.m3u8</low>
+    <high>https://vid.tasty.co/output/118867/landscape_720/1544228049</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">10950 5994 2597 14511 4120 11951 9924 13817 8525 639 3626 1391 2237 4918 5768 9091 1681 11951 9924 9490 6949 13817 2466 </step>
+    <step num="2">9179 11951 6216 13817 9889 13817 4861 14334 1681 12119 2257 5292 </step>
+    <step num="3">10950 13757 14511 6142 3626 11951 6467 10765 2101 13817 12051 </step>
+    <step num="4">12633 740 11951 5316 11907 560 11951 6118 11907 13817 3930 560 4120 1681 11951 8337 4150 6690 </step>
+    <step num="5">426 11951 8337 2696 1802 5994 8574 13004 12605 13817 4536 2696 560 7579 635 1645 13025 14100 2696 7134 1391 7155 11160 371 12313 13316 7131 11951 1198 8337 13817 7777 2696 3954 7134 1681 8554 371 11951 8337 9490 12705 12785 11951 8992 560 11951 9864 10765 11020 11887 6285 3917 2985 5504 1645 3017 </step>
+    <step num="6">7831 7990 14115 11004 5895 1681 11951 8992 12573 10524 5412 11951 5832 9801 8161 12386 7811 11951 790 12785 560 5994 12195 6880 560 10694 3936 </step>
+    <step num="7">6823 11951 4252 10950 5994 2597 14511 4120 11951 6885 6145 10907 308 13817 3063 9529 8315 1391 2237 4918 5768 9091 1681 7160 13817 12119 877 11951 10209 8830 4127 1066 13817 740 8016 4397 5358 13 </step>
+    <step num="8">8020 11951 8992 1391 11951 2677 11815 13817 2918 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 4120 11951 9924 13817 8525 </steps_updated>
+    <steps_updated num="3">639 3626 1391 2237 4918 5768 9091 1681 11951 9924 9490 6949 13817 2466 </steps_updated>
+    <steps_updated num="4">9179 11951 6216 13817 9889 13817 4861 14334 1681 12119 </steps_updated>
+    <steps_updated num="5">2257 5292 </steps_updated>
+    <steps_updated num="6">10950 13757 14511 6142 3626 11951 6467 10765 2101 13817 12051 </steps_updated>
+    <steps_updated num="7">12633 740 11951 5316 11907 560 11951 6118 11907 13817 3930 560 4120 1681 11951 8337 4150 6690 </steps_updated>
+    <steps_updated num="8">426 11951 8337 2696 1802 5994 8574 13004 12605 13817 4536 2696 560 7579 635 1645 13025 </steps_updated>
+    <steps_updated num="9">14100 2696 7134 1391 7155 11160 371 12313 13316 </steps_updated>
+    <steps_updated num="10">7131 11951 1198 8337 13817 7777 2696 3954 7134 1681 8554 371 11951 8337 9490 12705 </steps_updated>
+    <steps_updated num="11">12785 11951 8992 560 11951 9864 10765 11020 11887 6285 3917 2985 5504 1645 3017 </steps_updated>
+    <steps_updated num="12">7831 7990 14115 11004 5895 1681 11951 8992 12573 10524 5412 11951 5832 9801 8161 12386 7811 11951 790 </steps_updated>
+    <steps_updated num="13">12785 560 5994 12195 6880 560 10694 3936 </steps_updated>
+    <steps_updated num="14">6823 11951 4252 10950 5994 2597 14511 4120 11951 6885 6145 10907 308 13817 3063 9529 </steps_updated>
+    <steps_updated num="15">8315 1391 2237 4918 5768 9091 1681 7160 13817 12119 </steps_updated>
+    <steps_updated num="16">877 11951 10209 8830 4127 1066 13817 740 8016 4397 5358 13 </steps_updated>
+    <steps_updated num="17">8020 11951 8992 1391 11951 2677 11815 13817 2918 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

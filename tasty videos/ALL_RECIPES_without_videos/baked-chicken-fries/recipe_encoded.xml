@@ -1,0 +1,47 @@
+<recipe>
+  <title>Baked Chicken Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-chicken-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 8355 2144 7983 7678 </ingredient>
+    <ingredient num="1">8580 9517 13278 12347 1230 13278 2583 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="3">2933 13278 14463 9917 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">1580 8071 13278 6334 11703 </ingredient>
+    <ingredient num="7">1580 8071 13278 9496 </ingredient>
+    <ingredient num="8">1580 8071 13278 796 6250 </ingredient>
+    <ingredient num="9">1580 8071 13278 796 5616 </ingredient>
+    <ingredient num="10">1580 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41889/low_1498850377.m3u8</low>
+    <high>https://vid.tasty.co/output/41889/mp4_720x1280/1498850377</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 3963 12013 </step>
+    <step num="1">3235 7983 376 210 1991 13817 7777 669 7497 9259 6285 11951 13080 371 5994 14465 9467 </step>
+    <step num="2">10242 4465 9031 1391 12610 11384 8117 6334 8117 6958 796 749 796 11227 13817 12375 9393 3631 </step>
+    <step num="3">13576 7983 9259 210 11951 890 2126 415 6506 210 4036 13817 6798 1391 4465 10745 </step>
+    <step num="4">5570 4255 5994 10765 213 10926 1391 3550 12 13817 10903 7990 5527 11004 9309 14640 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="1">3235 7983 376 210 1991 13817 7777 669 7497 9259 6285 11951 13080 371 5994 14465 9467 </steps_updated>
+    <steps_updated num="2">10242 4465 9031 1391 12610 11384 8117 6334 8117 6958 796 749 796 11227 13817 12375 </steps_updated>
+    <steps_updated num="3">9393 3631 </steps_updated>
+    <steps_updated num="4">13576 7983 9259 210 11951 890 2126 415 6506 210 4036 13817 6798 1391 4465 10745 </steps_updated>
+    <steps_updated num="5">5570 4255 5994 10765 213 10926 1391 3550 12 13817 10903 7990 5527 11004 9309 14640 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

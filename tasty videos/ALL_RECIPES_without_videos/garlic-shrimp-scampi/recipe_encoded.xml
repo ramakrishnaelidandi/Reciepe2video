@@ -1,0 +1,54 @@
+<recipe>
+  <title>Garlic Shrimp Scampi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-shrimp-scampi</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 9924 </ingredient>
+    <ingredient num="1">13086 13667 13278 4155 3962 </ingredient>
+    <ingredient num="2">3917 715 13278 3876 4125 13817 12692 13278 14577 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 82 </ingredient>
+    <ingredient num="4">3917 8071 13278 7845 </ingredient>
+    <ingredient num="5">1580 13278 5516 3701 </ingredient>
+    <ingredient num="6">3917 8071 13278 8083 13389 12768 </ingredient>
+    <ingredient num="7">12791 2605 13278 6209 11911 3962 13278 12237 5981 </ingredient>
+    <ingredient num="8">1580 715 13278 11609 3745 13278 9473 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Seafood</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51258/low_1504721585.m3u8</low>
+    <high>https://vid.tasty.co/output/51258/mp4_720x1280/1504721585</high>
+  </video>
+  <duration>
+    <start_time>21.419</start_time>
+    <end_time>47.98</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 11951 10083 11770 13757 2082 </step>
+    <step num="1">12305 11951 9924 210 11951 4771 </step>
+    <step num="2">264 11951 11384 1681 3557 13860 560 2147 </step>
+    <step num="3">9179 11951 3876 12610 13817 10986 8224 1681 11084 9490 10866 8554 11951 10772 8119 </step>
+    <step num="4">9179 11951 597 7654 13389 8635 13817 13012 </step>
+    <step num="5">9179 11951 11609 13817 1686 1681 3584 229 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12305 11951 9924 210 5994 10083 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">264 11951 11384 1681 3557 13860 560 2147 </steps_updated>
+    <steps_updated num="2">9179 11951 3876 12610 13817 10986 8224 1681 11084 9490 10866 8554 11951 10772 8119 </steps_updated>
+    <steps_updated num="3">9179 11951 597 7654 13389 8635 13817 13012 </steps_updated>
+    <steps_updated num="4">9179 11951 11609 13817 1686 1681 3584 229 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00700</start_time>
+    <end_time>01461</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tempeh Bacon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tempeh-bacon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-bacon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 oz ; tempeh, half a package ; (115 g) </ingredient>
+    <ingredient num="1">olive oil, to taste </ingredient>
+    <ingredient num="2">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="3">1 tablespoon ; maple syrup </ingredient>
+    <ingredient num="4">½ teaspoon ; liquid smoke, optional </ingredient>
+    <ingredient num="5">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">black pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56942/low_1508350261.m3u8</low>
+    <high>https://vid.tasty.co/output/56942/mp4_720x1280/1508350261</high>
+  </video>
+  <duration>
+    <start_time>47.55</start_time>
+    <end_time>89.93</end_time>
+  </duration>
+  <steps>
+    <step num="0">On a cutting board, cut tempeh ¼-inch (6 mm) thick slices. </step>
+    <step num="1">Add olive oil to a pan over medium heat and add the tempeh. Cook for 5 minutes on each side until brown and crispy. </step>
+    <step num="2">Add 1 tablespoon of water to the pan and stir. </step>
+    <step num="3">Add soy sauce, maple syrup, liquid smoke, garlic powder, and black pepper, and stir until tempeh is evenly coated. </step>
+    <step num="4">Let brown for 2-3 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, cut tempeh ¼-inch (6 mm) thick slices. </steps_updated>
+    <steps_updated num="1">Add olive oil to a pan over medium heat and add the tempeh. </steps_updated>
+    <steps_updated num="2">Cook for 5 minutes on each side until brown and crispy. </steps_updated>
+    <steps_updated num="3">Add 1 tablespoon of water to the pan and stir. </steps_updated>
+    <steps_updated num="4">Add soy sauce, maple syrup, liquid smoke, garlic powder, and black pepper, and stir until tempeh is evenly coated. </steps_updated>
+    <steps_updated num="5">Let brown for 2-3 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

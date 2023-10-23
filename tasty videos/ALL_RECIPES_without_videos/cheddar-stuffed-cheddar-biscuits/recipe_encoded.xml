@@ -1,0 +1,50 @@
+<recipe>
+  <title>Cheddar-Stuffed Cheddar Biscuits Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-stuffed-cheddar-biscuits</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 13553 13278 7503 5981 </ingredient>
+    <ingredient num="1">4061 9486 13278 9924 </ingredient>
+    <ingredient num="2">3591 2605 13278 5802 13278 8178 8007 </ingredient>
+    <ingredient num="3">3917 8071 13278 796 2768 </ingredient>
+    <ingredient num="4">3917 2605 13278 3333 9784 14538 13278 11953 5981 </ingredient>
+    <ingredient num="5">472 9631 2658 13615 </ingredient>
+    <ingredient num="6">8580 9486 13278 9924 </ingredient>
+    <ingredient num="7">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="8">1580 8071 13278 12060 13063 2634 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32210/low_1495125459.m3u8</low>
+    <high>https://vid.tasty.co/output/32210/mp4_720x1280/1495125459</high>
+  </video>
+  <steps>
+    <step num="0">10895 13553 13817 9924 3626 1681 1762 11628 5994 451 596 </step>
+    <step num="1">9179 9889 796 2768 13817 3333 11450 12450 8337 217 11484 7292 </step>
+    <step num="2">12946 5994 2629 371 12687 12505 3345 5994 10224 371 14538 210 11951 8365 13817 4536 11951 8337 5412 11951 10224 371 4496 </step>
+    <step num="3">5570 4255 5994 3550 10926 10765 213 13817 10903 7990 7759 8927 7811 4195 2710 </step>
+    <step num="4">4829 11951 12525 12573 7214 772 11951 9924 242 12305 11951 9924 13817 740 210 11951 11384 11703 13817 12060 13063 1869 </step>
+    <step num="5">9956 11951 12525 12573 1559 7214 10654 11951 9924 3297 11770 10763 2075 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 13553 13817 9924 3626 1681 1762 11628 5994 451 596 </steps_updated>
+    <steps_updated num="1">9179 9889 796 2768 13817 3333 11450 </steps_updated>
+    <steps_updated num="2">12450 8337 217 11484 7292 </steps_updated>
+    <steps_updated num="3">12946 5994 2629 371 12687 12505 3345 5994 10224 371 14538 210 11951 8365 13817 4536 11951 8337 5412 11951 10224 371 4496 </steps_updated>
+    <steps_updated num="4">5570 4255 5994 3550 10926 10765 213 13817 10903 7990 7759 8927 7811 4195 2710 </steps_updated>
+    <steps_updated num="5">4829 11951 12525 12573 7214 772 11951 9924 242 </steps_updated>
+    <steps_updated num="6">12305 11951 9924 13817 740 210 11951 11384 11703 13817 12060 13063 1869 </steps_updated>
+    <steps_updated num="7">9956 11951 12525 12573 1559 7214 10654 11951 9924 3297 11770 10763 2075 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

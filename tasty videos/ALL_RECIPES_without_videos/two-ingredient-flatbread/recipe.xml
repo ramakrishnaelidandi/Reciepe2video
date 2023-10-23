@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-ingredient Flatbread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/two-ingredient-flatbread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; whole fat greek yogurt ; (285 g) </ingredient>
+    <ingredient num="1">1 cup ; self-rising flour, plus more for dusting </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43260/low_1499798031.m3u8</low>
+    <high>https://vid.tasty.co/output/43260/mp4_720x1280/1499798031</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl mix together yogurt and 1 cup flour (125 g) until it forms a smooth dough. </step>
+    <step num="1">Transfer dough to a floured surface. Divide into four equal parts. </step>
+    <step num="2">Roll out each section of dough to about 8 inches (20 cm) in diameter using plenty of flour to prevent sticking or tearing. </step>
+    <step num="3">Cook the bread in a dry hot pan set over medium high heat. Cook each side for 2-4 minutes until golden brown and cooked through. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl mix together yogurt and 1 cup flour (125 g) until it forms a smooth dough. </steps_updated>
+    <steps_updated num="1">Transfer dough to a floured surface. </steps_updated>
+    <steps_updated num="2">Divide into four equal parts. </steps_updated>
+    <steps_updated num="3">Roll out each section of dough to about 8 inches (20 cm) in diameter using plenty of flour to prevent sticking or tearing. </steps_updated>
+    <steps_updated num="4">Cook the bread in a dry hot pan set over medium high heat. </steps_updated>
+    <steps_updated num="5">Cook each side for 2-4 minutes until golden brown and cooked through. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

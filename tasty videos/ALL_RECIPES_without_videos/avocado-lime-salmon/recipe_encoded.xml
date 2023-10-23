@@ -1,0 +1,61 @@
+<recipe>
+  <title>Avocado Lime Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-lime-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-salmon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 2144 7989 13278 8118 5981 </ingredient>
+    <ingredient num="1">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="2">8244 7632 560 11567 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">1580 8071 13278 9496 </ingredient>
+    <ingredient num="6">3917 13278 468 3962 </ingredient>
+    <ingredient num="7">12791 13278 8083 12384 3962 </ingredient>
+    <ingredient num="8">3917 14014 13278 6209 6712 3962 </ingredient>
+    <ingredient num="9">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="10">12610 560 11567 </ingredient>
+    <ingredient num="11">10986 560 11567 </ingredient>
+    <ingredient num="12">3917 14014 13278 9712 10522 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Dinner</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9818/low_1473382399.m3u8</low>
+    <high>https://vid.tasty.co/output/9818/mp4_720x1280/1473382399</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>25.95</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">12474 5994 10765 11020 12616 7989 1391 4155 8244 7632 12610 10986 13817 4700 </step>
+    <step num="2">7831 7990 9810 12689 </step>
+    <step num="3">10950 5994 2192 14511 10968 4485 3297 11907 1681 7568 9456 225 7073 5895 5293 827 573 12313 2214 </step>
+    <step num="4">6877 4485 3297 11770 11951 1565 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">12474 5994 10765 11020 12616 7989 1391 4155 8244 7632 12610 10986 13817 4700 </steps_updated>
+    <steps_updated num="2">7831 7990 9810 12689 </steps_updated>
+    <steps_updated num="3">10950 5994 2192 14511 10968 4485 3297 11907 1681 7568 9456 </steps_updated>
+    <steps_updated num="4">225 7073 5895 5293 827 573 12313 2214 </steps_updated>
+    <steps_updated num="5">6877 4485 3297 11770 11951 1565 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00791</end_time>
+  </duration_human>
+</recipe>

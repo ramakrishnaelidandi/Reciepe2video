@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Szechuan Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-szechuan-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 teaspoons ; corn starch </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 tablespoon ; rice wine </ingredient>
+    <ingredient num="3">½ teaspoon ; white pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="5">1 stalk ; scallion, shredded </ingredient>
+    <ingredient num="6">2 slices ; ginger </ingredient>
+    <ingredient num="7">4 ; chicken thighs, chopped into bite-sized pieces </ingredient>
+    <ingredient num="8">vegetable oil, as needed for frying </ingredient>
+    <ingredient num="9">2 tablespoons ; szechuan peppercorn </ingredient>
+    <ingredient num="10">5 ; red chilis, chopped </ingredient>
+    <ingredient num="11">50 ; dried red chilis, whole </ingredient>
+    <ingredient num="12">4 slices ; ginger </ingredient>
+    <ingredient num="13">1 stalk ; scallion, chopped </ingredient>
+    <ingredient num="14">⅓ cup ; peanuts ; (40 g) </ingredient>
+    <ingredient num="15">½ teaspoon ; sugar </ingredient>
+    <ingredient num="16">½ tablespoon ; rice wine </ingredient>
+    <ingredient num="17">1 tablespoon ; sesame oil </ingredient>
+    <ingredient num="18">scallion, chopped for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Dinner</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32111/low_1495125374.m3u8</low>
+    <high>https://vid.tasty.co/output/32111/mp4_720x1280/1495125374</high>
+  </video>
+  <steps>
+    <step num="0">Combine marinade ingredients in a bowl, add the chopped chicken. Marinate for 10 minutes. </step>
+    <step num="1">In about 1 ½ inch (4 cm) of oil, fry the chicken until browned and crispy. Remove and set aside. </step>
+    <step num="2">Heat oil in a wok or a large pan. Add the Szechuan peppercorn and dried red chilies. Fry until fragrant. </step>
+    <step num="3">Add the rest of the dried red chilies, ginger, scallion, and peanuts. Fry for a minute. </step>
+    <step num="4">Add the fried chicken pieces, sugar, rice wine and sesame oil. Toss to coat. </step>
+    <step num="5">Garnish with chopped scallions. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine marinade ingredients in a bowl, add the chopped chicken. </steps_updated>
+    <steps_updated num="1">Marinate for 10 minutes. </steps_updated>
+    <steps_updated num="2">In about 1 ½ inch (4 cm) of oil, fry the chicken until browned and crispy. </steps_updated>
+    <steps_updated num="3">Remove and set aside. </steps_updated>
+    <steps_updated num="4">Heat oil in a wok or a large pan. </steps_updated>
+    <steps_updated num="5">Add the Szechuan peppercorn and dried red chilies. </steps_updated>
+    <steps_updated num="6">Fry until fragrant. </steps_updated>
+    <steps_updated num="7">Add the rest of the dried red chilies, ginger, scallion, and peanuts. </steps_updated>
+    <steps_updated num="8">Fry for a minute. </steps_updated>
+    <steps_updated num="9">Add the fried chicken pieces, sugar, rice wine and sesame oil. </steps_updated>
+    <steps_updated num="10">Toss to coat. </steps_updated>
+    <steps_updated num="11">Garnish with chopped scallions. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,44 @@
+<recipe>
+  <title>Cloud Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cloud-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 12708 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31425/low_1494607751.m3u8</low>
+    <high>https://vid.tasty.co/output/31425/mp4_720x1280/1494607751</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 13168 2544 </step>
+    <step num="1">8519 11951 6216 9314 6781 11951 6216 5197 11288 11951 9314 7990 1916 </step>
+    <step num="2">5570 11951 6216 4072 210 5994 2597 7616 5209 2237 4918 5768 9233 8341 4255 5994 8283 12398 1681 12386 5464 5563 </step>
+    <step num="3">12595 210 82 13817 12375 </step>
+    <step num="4">6877 11951 6216 4072 1802 5994 10765 7238 13817 772 5994 3145 210 11951 12255 7990 11951 9314 560 12409 210 1916 </step>
+    <step num="5">7831 7990 1882 12689 </step>
+    <step num="6">6559 11951 9314 669 11951 4072 13817 10903 7990 5994 4689 13086 12689 </step>
+    <step num="7">12774 4255 4870 5895 1391 10860 371 12313 13316 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 13168 2544 </steps_updated>
+    <steps_updated num="1">8519 11951 6216 9314 6781 11951 6216 5197 </steps_updated>
+    <steps_updated num="2">11288 11951 9314 7990 1916 </steps_updated>
+    <steps_updated num="3">5570 11951 6216 4072 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="4">5209 2237 4918 5768 9233 8341 4255 5994 8283 12398 1681 12386 5464 5563 </steps_updated>
+    <steps_updated num="5">12595 210 82 13817 12375 </steps_updated>
+    <steps_updated num="6">6877 11951 6216 4072 1802 5994 10765 7238 13817 772 5994 3145 210 11951 12255 7990 11951 9314 560 12409 210 1916 </steps_updated>
+    <steps_updated num="7">7831 7990 1882 12689 </steps_updated>
+    <steps_updated num="8">6559 11951 9314 669 11951 4072 13817 10903 7990 5994 4689 13086 12689 </steps_updated>
+    <steps_updated num="9">12774 4255 4870 5895 1391 10860 371 12313 13316 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

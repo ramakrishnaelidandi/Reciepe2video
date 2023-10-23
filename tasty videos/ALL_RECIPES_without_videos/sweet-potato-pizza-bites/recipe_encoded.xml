@@ -1,0 +1,61 @@
+<recipe>
+  <title>Sweet Potato Pizza Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-pizza-bites</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-stress-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 10882 13233 </ingredient>
+    <ingredient num="1">8244 7632 560 11567 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+    <ingredient num="4">1580 2605 13278 9122 2260 13278 12933 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 2334 13278 6518 5981 </ingredient>
+    <ingredient num="6">1580 2605 13278 3333 10865 14538 13278 2264 5981 </ingredient>
+    <ingredient num="7">6209 749 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85393/hls24_1521485033.m3u8</low>
+    <high>https://vid.tasty.co/output/85393/landscape_720/1521485033</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 9477 11454 9207 4817 10765 8036 1391 3550 8831 </step>
+    <step num="1">12775 12205 11951 10882 13233 669 10894 10187 1645 9584 </step>
+    <step num="2">12785 11951 10882 2868 13073 560 5994 2597 7616 1594 1391 8244 5766 13817 12616 1391 82 13817 12375 12473 560 515 </step>
+    <step num="3">12785 11951 13073 560 11951 10765 14342 11887 7317 </step>
+    <step num="4">7831 7990 238 11004 9309 2571 1681 10963 2147 </step>
+    <step num="5">13494 11951 10882 2868 13073 1391 9122 2260 13817 8111 5895 2334 13817 3193 </step>
+    <step num="6">7831 7990 6646 2933 11004 5895 1681 11951 14538 9490 5335 13817 11951 2260 9490 545 8119 </step>
+    <step num="7">13688 1391 6209 6250 13817 8956 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 9477 11454 </steps_updated>
+    <steps_updated num="1">9207 4817 10765 8036 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">12775 12205 11951 10882 13233 669 10894 10187 1645 9584 </steps_updated>
+    <steps_updated num="3">12785 11951 10882 2868 13073 560 5994 2597 7616 </steps_updated>
+    <steps_updated num="4">1594 1391 8244 5766 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="5">12473 560 515 </steps_updated>
+    <steps_updated num="6">12785 11951 13073 560 11951 10765 14342 11887 7317 </steps_updated>
+    <steps_updated num="7">7831 7990 238 11004 9309 2571 1681 10963 2147 </steps_updated>
+    <steps_updated num="8">13494 11951 10882 2868 13073 1391 9122 2260 13817 8111 5895 2334 13817 3193 </steps_updated>
+    <steps_updated num="9">7831 7990 6646 2933 11004 5895 1681 11951 14538 9490 5335 13817 11951 2260 9490 545 8119 </steps_updated>
+    <steps_updated num="10">13688 1391 6209 6250 13817 8956 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00064</start_time>
+    <end_time>01412</end_time>
+  </duration_human>
+</recipe>

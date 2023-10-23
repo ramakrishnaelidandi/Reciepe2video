@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cloud Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cloud-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; eggs, separated </ingredient>
+    <ingredient num="1">⅛ teaspoon ; cream of tartar </ingredient>
+    <ingredient num="2">3 tablespoons ; cream cheese, softened, or greek yogurt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Low-Carb</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30799/low_1493831215.m3u8</low>
+    <high>https://vid.tasty.co/output/30799/mp4_720x1280/1493831215</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 300°F (150°C). </step>
+    <step num="1">Separate the eggs into two bowls. </step>
+    <step num="2">Add the cream of tartar to the egg whites and whip into stiff peaks. </step>
+    <step num="3">Add the cream cheese or yogurt into the yolks and mix until combined. </step>
+    <step num="4">Fold half of the egg whites into the yolks until just combined. Add the rest and fold again until incorporated. </step>
+    <step num="5">Line a baking sheet with parchment paper and place six dollops of the mixture on the tray. </step>
+    <step num="6">Spread out the circles with a spatula to about ½ inch (1 cm) thick. </step>
+    <step num="7">Bake for 30 minutes or until golden. </step>
+    <step num="8">Allow to cool for at least 1 hour. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 300°F (150°C). </steps_updated>
+    <steps_updated num="1">Separate the eggs into two bowls. </steps_updated>
+    <steps_updated num="2">Add the cream of tartar to the egg whites and whip into stiff peaks. </steps_updated>
+    <steps_updated num="3">Add the cream cheese or yogurt into the yolks and mix until combined. </steps_updated>
+    <steps_updated num="4">Fold half of the egg whites into the yolks until just combined. </steps_updated>
+    <steps_updated num="5">Add the rest and fold again until incorporated. </steps_updated>
+    <steps_updated num="6">Line a baking sheet with parchment paper and place six dollops of the mixture on the tray. </steps_updated>
+    <steps_updated num="7">Spread out the circles with a spatula to about ½ inch (1 cm) thick. </steps_updated>
+    <steps_updated num="8">Bake for 30 minutes or until golden. </steps_updated>
+    <steps_updated num="9">Allow to cool for at least 1 hour. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

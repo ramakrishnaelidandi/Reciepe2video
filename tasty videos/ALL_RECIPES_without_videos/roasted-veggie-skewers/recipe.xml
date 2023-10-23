@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roasted Veggie Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-veggie-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/skewers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="1">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="2">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 ; zucchinis, sliced into rounds </ingredient>
+    <ingredient num="6">3 cups ; cremini mushroom ; (225 g) </ingredient>
+    <ingredient num="7">2 ; medium red onions, cut into 1-inch pieces </ingredient>
+    <ingredient num="8">2 ; red bell peppers, cut into 1-inch pieces </ingredient>
+    <ingredient num="9">2 ; yellow bell peppers, cut into 1-inch pieces </ingredient>
+    <ingredient num="10">8 skewers ; bamboo skewer, soaked in water for 20 minutes </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Lunch</category>
+    <category num="8">BBQ</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39367/low_1498728261.m3u8</low>
+    <high>https://vid.tasty.co/output/39367/mp4_720x1280/1498728261</high>
+  </video>
+  <duration>
+    <start_time>26.5</start_time>
+    <end_time>50.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat grill to medium heat. </step>
+    <step num="1">Combine the oil, lemon juice, oregano, salt, and pepper, stirring until mixed. </step>
+    <step num="2">Slide a zucchini slice down the skewer, followed by pieces of mushroom, red onion, and peppers, until there is a 1-inch gap at the top of the skewer. Brush each skewer liberally with the oil mixture. </step>
+    <step num="3">Repeat with the remaining skewers and vegetables. </step>
+    <step num="4">Grill the skewers for 12-18 minutes with the lid closed, flipping halfway. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat grill to medium heat. </steps_updated>
+    <steps_updated num="1">Combine the oil, lemon juice, oregano, salt, and pepper, stirring until mixed. </steps_updated>
+    <steps_updated num="2">Slide a zucchini slice down the skewer, followed by pieces of mushroom, red onion, and peppers, until there is a 1-inch gap at the top of the skewer. </steps_updated>
+    <steps_updated num="3">Brush each skewer liberally with the oil mixture. </steps_updated>
+    <steps_updated num="4">Repeat with the remaining skewers and vegetables. </steps_updated>
+    <steps_updated num="5">Grill the skewers for 12-18 minutes with the lid closed, flipping halfway. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00856</start_time>
+    <end_time>01562</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,49 @@
+<recipe>
+  <title>Three Bean Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/three-bean-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 13278 8083 6334 </ingredient>
+    <ingredient num="1">1580 13278 2597 13294 5992 </ingredient>
+    <ingredient num="2">1580 2605 13278 6209 2768 </ingredient>
+    <ingredient num="3">13133 643 13278 2955 3917 9067 6124 13817 4980 13278 13345 5981 </ingredient>
+    <ingredient num="4">13133 643 13278 7322 12690 3917 9067 6124 13817 4980 13278 13345 5981 </ingredient>
+    <ingredient num="5">13133 643 13278 6311 12690 3917 9067 6124 13817 4980 13278 13345 5981 </ingredient>
+    <ingredient num="6">12791 2605 13278 8244 5766 13278 13125 8007 </ingredient>
+    <ingredient num="7">12791 2605 13278 8083 13538 10769 13278 13125 8007 </ingredient>
+    <ingredient num="8">1580 8071 13278 796 5616 </ingredient>
+    <ingredient num="9">1580 8071 13278 82 </ingredient>
+    <ingredient num="10">12791 8071 13278 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93478/hls24_1525975986.m3u8</low>
+    <high>https://vid.tasty.co/output/93478/landscape_720/1525975986</high>
+  </video>
+  <steps>
+    <step num="0">4540 12205 11951 8083 6334 13817 740 560 5994 2597 7616 </step>
+    <step num="1">14050 11951 10837 5103 11951 1245 13817 9055 415 740 560 11951 12377 1391 11951 8083 12034 </step>
+    <step num="2">8431 5994 1514 560 5103 11951 2526 6781 11951 11911 415 11588 7514 13817 740 560 11951 7616 </step>
+    <step num="3">9179 11951 2955 7322 13829 13817 6311 6143 560 11951 7616 </step>
+    <step num="4">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 8244 7632 8083 13538 4450 11227 12610 13817 10986 13817 8341 6690 </step>
+    <step num="5">1083 11951 11708 11770 11951 11812 13817 10968 3145 1681 3584 9123 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">4540 12205 11951 8083 6334 13817 740 560 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">14050 11951 10837 5103 11951 1245 13817 9055 415 740 560 11951 12377 1391 11951 8083 12034 </steps_updated>
+    <steps_updated num="2">8431 5994 1514 560 5103 11951 2526 6781 11951 11911 415 11588 7514 13817 740 560 11951 7616 </steps_updated>
+    <steps_updated num="3">9179 11951 2955 7322 13829 13817 6311 6143 560 11951 7616 </steps_updated>
+    <steps_updated num="4">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 8244 7632 8083 13538 4450 11227 12610 13817 10986 13817 8341 6690 </steps_updated>
+    <steps_updated num="5">1083 11951 11708 11770 11951 11812 13817 10968 3145 1681 3584 9123 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

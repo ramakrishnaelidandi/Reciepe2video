@@ -1,0 +1,47 @@
+<recipe>
+  <title>Ham &amp; Cheese Panini Waffle Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ham-cheese-panini-waffle</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 8535 13278 5918 4465 </ingredient>
+    <ingredient num="1">13086 13278 14463 3699 </ingredient>
+    <ingredient num="2">3917 14014 13278 6209 11292 3962 </ingredient>
+    <ingredient num="3">8580 8535 13278 12868 </ingredient>
+    <ingredient num="4">13086 8535 13278 3538 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51247/low_1504720315.m3u8</low>
+    <high>https://vid.tasty.co/output/51247/mp4_720x1280/1504720315</high>
+  </video>
+  <duration>
+    <start_time>16.39</start_time>
+    <end_time>34.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 5994 12205 371 4465 210 5994 10945 2362 894 9757 2988 11951 12708 3584 4255 143 </step>
+    <step num="1">6252 11951 3938 11770 11951 8536 13494 1391 11951 7489 6960 5569 11951 4496 </step>
+    <step num="2">5570 11951 437 12205 371 4465 4255 143 </step>
+    <step num="3">264 7990 6175 11004 1681 14538 9490 5335 13817 11951 4465 9490 10963 1240 415 8956 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 5994 12205 371 4465 210 5994 10945 2362 894 9757 </steps_updated>
+    <steps_updated num="1">2988 11951 12708 3584 4255 143 </steps_updated>
+    <steps_updated num="2">6252 11951 3938 11770 11951 8536 </steps_updated>
+    <steps_updated num="3">13494 1391 11951 7489 6960 5569 11951 4496 </steps_updated>
+    <steps_updated num="4">5570 11951 437 12205 371 4465 4255 143 </steps_updated>
+    <steps_updated num="5">264 7990 6175 11004 1681 14538 9490 5335 13817 11951 4465 9490 10963 1240 415 8956 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00548</start_time>
+    <end_time>01058</end_time>
+  </duration_human>
+</recipe>

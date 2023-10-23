@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Strawberry Frozen Banana Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-strawberry-frozen-banana</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-bananas-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">3 cups ; dark chocolate ; (510 g) </ingredient>
+    <ingredient num="2">3 tablespoons ; coconut oil </ingredient>
+    <ingredient num="3">freeze-dried strawberry, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45025/low_1501086885.m3u8</low>
+    <high>https://vid.tasty.co/output/45025/mp4_720x1280/1501086885</high>
+  </video>
+  <duration>
+    <start_time>85</start_time>
+    <end_time>93</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut the bananas in half horizontally. </step>
+    <step num="1">Insert popsicle sticks in the middle of the banana halves. Transfer bananas to a parchment paper-lined baking sheet, and freeze until solid. </step>
+    <step num="2">In a tall glass or mixing cup, add chocolate and coconut oil. Microwave in 30-second intervals for 1 minute and a half, and mix until smooth. </step>
+    <step num="3">Place strawberries onto a plate. Dip the bananas into the chocolate coating, then roll or sprinkle on toppings. </step>
+    <step num="4">Place bananas in freezer until the coating has hardened. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the bananas in half horizontally. </steps_updated>
+    <steps_updated num="1">Insert popsicle sticks in the middle of the banana halves. </steps_updated>
+    <steps_updated num="2">Transfer bananas to a parchment paper-lined baking sheet, and freeze until solid. </steps_updated>
+    <steps_updated num="3">In a tall glass or mixing cup, add chocolate and coconut oil. </steps_updated>
+    <steps_updated num="4">Microwave in 30-second intervals for 1 minute and a half, and mix until smooth. </steps_updated>
+    <steps_updated num="5">Place strawberries onto a plate. </steps_updated>
+    <steps_updated num="6">Dip the bananas into the chocolate coating, then roll or sprinkle on toppings. </steps_updated>
+    <steps_updated num="7">Place bananas in freezer until the coating has hardened. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

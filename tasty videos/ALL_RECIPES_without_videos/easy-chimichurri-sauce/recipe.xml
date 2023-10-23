@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Chimichurri Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-chimichurri-sauce</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; fresh cilantro, chopped ; (40 g) </ingredient>
+    <ingredient num="1">1 cup ; fresh parsley, chopped ; (40 g) </ingredient>
+    <ingredient num="2">½ ; yellow onion, diced </ingredient>
+    <ingredient num="3">3 cloves ; garlic, peeled </ingredient>
+    <ingredient num="4">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="5">2 tablespoons ; red wine vinegar </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+    <ingredient num="8">1 ; lime, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Sides</category>
+    <category num="8">Date Night</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/72547/hls24_1515720049.m3u8</low>
+    <high>https://vid.tasty.co/output/72547/landscape_720/1515720049</high>
+  </video>
+  <steps>
+    <step num="0">Place all ingredients in a food processor or blender and blend until combined. </step>
+    <step num="1">Serve the chimichurri with your favorite steak, on chicken wings, roasted potatoes, or as a dressing for your favorite salad! </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place all ingredients in a food processor or blender and blend until combined. </steps_updated>
+    <steps_updated num="1">Serve the chimichurri with your favorite steak, on chicken wings, roasted potatoes, or as a dressing for your favorite salad! </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

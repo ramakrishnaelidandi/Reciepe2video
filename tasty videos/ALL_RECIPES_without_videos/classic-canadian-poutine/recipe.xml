@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mixed Gravy Poutine Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-canadian-poutine</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; large russet potatoes, scrubbed </ingredient>
+    <ingredient num="1">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 ½ teaspoons ; salt, divided </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper, divided </ingredient>
+    <ingredient num="4">6 tablespoons ; unsalted butter, 3/4 stick </ingredient>
+    <ingredient num="5">¼ cup ; all-purpose flour ; (30 g) </ingredient>
+    <ingredient num="6">2 ½ cups ; beef stock ; (600 mL) </ingredient>
+    <ingredient num="7">2 teaspoons ; worcestershire sauce </ingredient>
+    <ingredient num="8">3 tablespoons ; cornstarch </ingredient>
+    <ingredient num="9">2 tablespoons ; water </ingredient>
+    <ingredient num="10">1 ½ cups ; cheese curd ; (335 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99966/hls24_1529958459.m3u8</low>
+    <high>https://vid.tasty.co/output/99966/landscape_720/1529958459</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 450˚F (230˚C). Line 2 baking sheets with parchment paper. </step>
+    <step num="1">On a cutting board, slice the potatoes into matchsticks by quartering lengthwise. Cut the quarters lengthwise into ¼-inch slices, then cut into ¼-inch (6 mm) matchsticks. </step>
+    <step num="2">Place the potatoes in a large bowl. Drizzle with the olive oil and sprinkle with 1 teaspoon of salt and ½ teaspoon of pepper. Toss to coat. </step>
+    <step num="3">Arrange the fries evenly in 2 rows on each baking sheet so they are not touching. </step>
+    <step num="4">Bake for 25 minutes, flipping halfway through, until golden brown. </step>
+    <step num="5">In a medium saucepan over medium heat, add the butter and flour. Whisk until the mixture is a golden brown. Add the beef stock, Worcestershire, remaining ½ teaspoon of salt and remaining ½ teaspoon of pepper. Bring to a boil, whisking continuously. </step>
+    <step num="6">Add the water to the cornstarch in a small bowl and mix until dissolved. Add the cornstarch slurry to the gravy and stir until thickened. Remove from the heat and cover to keep the gravy hot. </step>
+    <step num="7">Transfer the baked fries to a large bowl, add the cheese curds, and pour the hot gravy over the top. Toss to coat. </step>
+    <step num="8">Transfer to a dish and serve immediately. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">Line 2 baking sheets with parchment paper. </steps_updated>
+    <steps_updated num="2">On a cutting board, slice the potatoes into matchsticks by quartering lengthwise. </steps_updated>
+    <steps_updated num="3">Cut the quarters lengthwise into ¼-inch slices, then cut into ¼-inch (6 mm) matchsticks. </steps_updated>
+    <steps_updated num="4">Place the potatoes in a large bowl. </steps_updated>
+    <steps_updated num="5">Drizzle with the olive oil and sprinkle with 1 teaspoon of salt and ½ teaspoon of pepper. </steps_updated>
+    <steps_updated num="6">Toss to coat. </steps_updated>
+    <steps_updated num="7">Arrange the fries evenly in 2 rows on each baking sheet so they are not touching. </steps_updated>
+    <steps_updated num="8">Bake for 25 minutes, flipping halfway through, until golden brown. </steps_updated>
+    <steps_updated num="9">In a medium saucepan over medium heat, add the butter and flour. </steps_updated>
+    <steps_updated num="10">Whisk until the mixture is a golden brown. </steps_updated>
+    <steps_updated num="11">Add the beef stock, Worcestershire, remaining ½ teaspoon of salt and remaining ½ teaspoon of pepper. </steps_updated>
+    <steps_updated num="12">Bring to a boil, whisking continuously. </steps_updated>
+    <steps_updated num="13">Add the water to the cornstarch in a small bowl and mix until dissolved. </steps_updated>
+    <steps_updated num="14">Add the cornstarch slurry to the gravy and stir until thickened. </steps_updated>
+    <steps_updated num="15">Remove from the heat and cover to keep the gravy hot. </steps_updated>
+    <steps_updated num="16">Transfer the baked fries to a large bowl, add the cheese curds, and pour the hot gravy over the top. </steps_updated>
+    <steps_updated num="17">Toss to coat. </steps_updated>
+    <steps_updated num="18">Transfer to a dish and serve immediately. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

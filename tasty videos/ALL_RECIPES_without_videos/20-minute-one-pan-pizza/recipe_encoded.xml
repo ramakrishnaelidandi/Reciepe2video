@@ -1,0 +1,49 @@
+<recipe>
+  <title>20-Minute One-Pan Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/20-minute-one-pan-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 10383 12282 13278 2935 8007 </ingredient>
+    <ingredient num="1">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="2">3591 2605 13278 8554 5735 890 13278 7005 5981 </ingredient>
+    <ingredient num="3">1580 8071 13278 4834 </ingredient>
+    <ingredient num="4">1580 8071 13278 5075 10026 </ingredient>
+    <ingredient num="5">1580 8071 13278 82 </ingredient>
+    <ingredient num="6">1580 2605 13278 9122 2260 13278 12933 5981 </ingredient>
+    <ingredient num="7">8580 9517 13278 3333 10865 14538 13278 6898 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 5243 8535 13278 3433 5981 </ingredient>
+    <ingredient num="9">6209 749 1404 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/110562/hls24_1538073269.m3u8</low>
+    <high>https://vid.tasty.co/output/110562/landscape_720/1538073269</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 9637 11745 4120 11951 10383 13384 8244 7632 6467 6145 6984 13817 12051 8431 5994 7700 560 6142 11951 13333 415 6873 11951 8337 560 11951 5832 371 11951 10590 </step>
+    <step num="1">2988 11951 9122 2260 11770 11951 12687 8554 11951 10772 560 11951 10663 6252 11951 10865 3584 11770 11951 7280 415 10707 1391 11951 7068 </step>
+    <step num="2">5570 11770 13757 14307 510 13817 2550 7990 13767 8927 1391 11951 8972 9214 </step>
+    <step num="3">10007 11951 8972 13817 2550 7990 2933 3954 11004 1681 11951 5832 12573 2111 </step>
+    <step num="4">8907 11951 6146 2696 371 11951 5687 1802 5994 4669 4330 13817 3945 10694 7990 2933 12689 </step>
+    <step num="5">6252 1391 749 415 12205 13817 8956 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 9637 11745 4120 11951 10383 13384 8244 7632 6467 6145 6984 13817 12051 </steps_updated>
+    <steps_updated num="1">8431 5994 7700 560 6142 11951 13333 415 6873 11951 8337 560 11951 5832 371 11951 10590 </steps_updated>
+    <steps_updated num="2">2988 11951 9122 2260 11770 11951 12687 8554 11951 10772 560 11951 10663 </steps_updated>
+    <steps_updated num="3">6252 11951 10865 3584 11770 11951 7280 415 10707 1391 11951 7068 </steps_updated>
+    <steps_updated num="4">5570 11770 13757 14307 510 13817 2550 7990 13767 8927 1391 11951 8972 9214 </steps_updated>
+    <steps_updated num="5">10007 11951 8972 13817 2550 7990 2933 3954 11004 1681 11951 5832 12573 2111 </steps_updated>
+    <steps_updated num="6">8907 11951 6146 2696 371 11951 5687 1802 5994 4669 4330 13817 3945 10694 7990 2933 12689 </steps_updated>
+    <steps_updated num="7">6252 1391 749 415 12205 13817 8956 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

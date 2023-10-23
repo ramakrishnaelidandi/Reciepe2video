@@ -1,0 +1,58 @@
+<recipe>
+  <title>Pesto Twist Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-twist-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-pasta-dishes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 2647 5444 5895 4312 950 13278 4563 5981 </ingredient>
+    <ingredient num="1">8580 9517 13278 6209 6250 6638 6416 13817 4386 796 13278 12158 5981 </ingredient>
+    <ingredient num="2">3917 2414 13278 11384 </ingredient>
+    <ingredient num="3">12791 2605 13278 5607 9656 13278 4239 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 3141 7549 8244 5766 13278 2935 8007 </ingredient>
+    <ingredient num="5">12791 2605 13278 13384 278 13278 13125 5981 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">10986 560 11567 </ingredient>
+    <ingredient num="8">1580 2605 13278 2431 109 14538 13278 13412 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21045/low_1484761758.m3u8</low>
+    <high>https://vid.tasty.co/output/21045/mp4_720x1280/1484761758</high>
+  </video>
+  <duration>
+    <start_time>216.0</start_time>
+    <end_time>242.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">264 2647 6539 5895 6484 210 2032 10298 12282 1681 10719 3033 10959 8583 3917 2605 12462 9443 371 11951 950 12282 432 5870 </step>
+    <step num="1">9179 749 4155 5607 9400 12610 13817 7845 560 5994 8016 9909 5895 12027 13817 8287 560 12207 560 827 3386 11951 295 9179 12282 13817 5994 7463 371 11951 8244 5766 560 5821 13341 5934 </step>
+    <step num="2">8211 573 11951 10860 371 9909 12377 560 8159 12826 9490 6770 10281 7317 </step>
+    <step num="3">10838 11951 10707 13352 13268 837 4255 11951 8016 5349 13817 12723 13630 11951 374 8244 5766 7492 11951 3318 4255 11951 10707 371 11951 8016 9909 1681 14132 210 11951 9286 </step>
+    <step num="4">1083 11951 2334 669 5994 14511 415 6142 210 11951 8924 8817 7855 371 11951 8016 9909 217 12207 560 6983 11951 13810 5833 14330 3557 3054 4442 5994 4567 1385 </step>
+    <step num="5">11720 11951 950 13817 10231 560 2597 12377 5895 10590 </step>
+    <step num="6">9179 2334 13817 5994 7463 371 950 13384 13328 560 502 </step>
+    <step num="7">9179 109 13817 6646 7463 371 950 2019 </step>
+    <step num="8">13494 3482 1391 3954 14538 13817 6250 432 3044 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">264 2647 6539 5895 6484 210 2032 10298 12282 1681 10719 3033 10959 </steps_updated>
+    <steps_updated num="1">8583 3917 2605 12462 9443 371 11951 950 12282 432 5870 </steps_updated>
+    <steps_updated num="2">9179 749 4155 5607 9400 12610 13817 7845 560 5994 8016 9909 5895 12027 13817 8287 560 12207 560 827 3386 11951 295 </steps_updated>
+    <steps_updated num="3">9179 12282 13817 5994 7463 371 11951 8244 5766 560 5821 13341 5934 </steps_updated>
+    <steps_updated num="4">8211 573 11951 10860 371 9909 12377 560 8159 12826 9490 6770 10281 7317 </steps_updated>
+    <steps_updated num="5">10838 11951 10707 13352 13268 837 4255 11951 8016 5349 13817 12723 13630 11951 374 8244 5766 7492 11951 3318 4255 11951 10707 371 11951 8016 9909 1681 14132 210 11951 9286 </steps_updated>
+    <steps_updated num="6">1083 11951 2334 669 5994 14511 415 6142 210 11951 8924 </steps_updated>
+    <steps_updated num="7">8817 7855 371 11951 8016 9909 217 12207 560 6983 11951 13810 5833 14330 3557 3054 4442 5994 4567 1385 </steps_updated>
+    <steps_updated num="8">11720 11951 950 13817 10231 560 2597 12377 5895 10590 </steps_updated>
+    <steps_updated num="9">9179 2334 13817 5994 7463 371 950 13384 13328 560 502 </steps_updated>
+    <steps_updated num="10">9179 109 13817 6646 7463 371 950 2019 </steps_updated>
+    <steps_updated num="11">13494 3482 1391 3954 14538 13817 6250 432 3044 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

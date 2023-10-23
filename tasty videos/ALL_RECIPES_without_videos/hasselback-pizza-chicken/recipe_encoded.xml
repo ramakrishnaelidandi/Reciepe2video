@@ -1,0 +1,43 @@
+<recipe>
+  <title>Hasselback Pizza Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hasselback-pizza-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 7983 376 </ingredient>
+    <ingredient num="1">14058 2031 13278 9668 5042 </ingredient>
+    <ingredient num="2">14058 8535 13278 10865 14538 </ingredient>
+    <ingredient num="3">14058 8535 13278 8456 </ingredient>
+    <ingredient num="4">3917 14014 13278 2431 9784 14538 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 5616 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32261/low_1495125525.m3u8</low>
+    <high>https://vid.tasty.co/output/32261/mp4_720x1280/1495125525</high>
+  </video>
+  <steps>
+    <step num="0">14100 1793 14224 4255 11951 10707 371 11951 7983 11118 </step>
+    <step num="1">10950 10763 5164 11434 3917 8071 371 9668 10391 3917 10865 6138 13817 3917 8456 2519 </step>
+    <step num="2">6252 4255 11951 9784 14538 13817 3875 </step>
+    <step num="3">7831 7990 5527 8927 5895 1681 7983 9490 3745 8119 1642 5376 11628 2237 1124 2281 371 10198 4928 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 1793 14224 4255 11951 10707 371 11951 7983 11118 </steps_updated>
+    <steps_updated num="1">10950 10763 5164 11434 3917 8071 371 9668 10391 3917 10865 6138 13817 3917 8456 2519 </steps_updated>
+    <steps_updated num="2">6252 4255 11951 9784 14538 13817 3875 </steps_updated>
+    <steps_updated num="3">7831 7990 5527 8927 5895 1681 7983 9490 3745 8119 </steps_updated>
+    <steps_updated num="4">1642 5376 11628 2237 1124 2281 371 10198 4928 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

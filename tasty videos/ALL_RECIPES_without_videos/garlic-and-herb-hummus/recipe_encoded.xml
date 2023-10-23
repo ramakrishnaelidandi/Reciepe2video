@@ -1,0 +1,51 @@
+<recipe>
+  <title>Garlic And Herb Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-and-herb-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hummus-3-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13133 643 13278 368 13829 3917 14138 13278 13345 5981 </ingredient>
+    <ingredient num="1">8580 13667 13278 11384 </ingredient>
+    <ingredient num="2">13086 9486 13278 8368 </ingredient>
+    <ingredient num="3">3917 13278 5516 3701 </ingredient>
+    <ingredient num="4">8580 9486 13278 8244 7632 3954 560 4711 </ingredient>
+    <ingredient num="5">12610 560 11567 </ingredient>
+    <ingredient num="6">5607 9400 560 4711 </ingredient>
+    <ingredient num="7">3917 1580 9486 13278 6209 2768 </ingredient>
+    <ingredient num="8">8580 9486 13278 12282 </ingredient>
+    <ingredient num="9">10995 4832 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Healthy</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39341/low_1498728957.m3u8</low>
+    <high>https://vid.tasty.co/output/39341/mp4_720x1280/1498728957</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>27.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">9731 11951 368 6143 1681 11951 899 4603 11353 6054 11951 1303 8681 </step>
+    <step num="1">10895 8554 11907 210 5994 8016 41 </step>
+    <step num="2">3262 1681 6873 14330 2192 1730 371 5766 13817 12282 1681 13218 7968 9490 1415 </step>
+    <step num="3">9179 3954 597 5895 8368 5358 10428 </step>
+    <step num="4">13688 1391 5607 9656 13817 3954 4626 </step>
+    <step num="5">9938 1391 6209 284 5895 10995 4668 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9731 11951 368 6143 1681 11951 899 4603 11353 </steps_updated>
+    <steps_updated num="1">6054 11951 1303 8681 </steps_updated>
+    <steps_updated num="2">10895 8554 11907 210 5994 8016 41 </steps_updated>
+    <steps_updated num="3">3262 1681 6873 14330 2192 1730 371 5766 13817 12282 1681 13218 7968 9490 1415 </steps_updated>
+    <steps_updated num="4">9179 3954 597 5895 8368 5358 10428 </steps_updated>
+    <steps_updated num="5">13688 1391 5607 9656 13817 3954 4626 </steps_updated>
+    <steps_updated num="6">9938 1391 6209 284 5895 10995 4668 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

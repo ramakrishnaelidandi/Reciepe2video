@@ -1,0 +1,50 @@
+<recipe>
+  <title>Cauliflower Grilled Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-grilled-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 3173 13278 10426 </ingredient>
+    <ingredient num="1">3917 2157 13278 82 </ingredient>
+    <ingredient num="2">8580 13278 12708 </ingredient>
+    <ingredient num="3">1580 2605 13278 8597 109 13810 2431 13278 13412 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 6209 749 3962 13278 12237 5981 </ingredient>
+    <ingredient num="5">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="7">1580 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="8">13810 371 12313 6507 </ingredient>
+    <ingredient num="9">3274 10873 371 12313 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31143/low_1494263214.m3u8</low>
+    <high>https://vid.tasty.co/output/31143/mp4_720x1280/1494263214</high>
+  </video>
+  <steps>
+    <step num="0">3208 5994 10426 11770 5994 2597 7616 </step>
+    <step num="1">6252 5994 2157 371 82 11770 11951 2431 10426 13817 10968 7317 3872 560 1788 7990 5527 12689 </step>
+    <step num="2">1083 11951 10426 669 5994 8751 3895 1811 13817 5646 11951 12282 5943 </step>
+    <step num="3">10950 5994 2597 14511 4120 11951 1633 13817 374 13333 12039 12313 14538 13817 4893 6142 1681 3145 10453 </step>
+    <step num="4">5209 5994 1798 10231 4817 4009 10548 371 2373 560 1978 10763 4750 14162 1802 5994 10060 4255 4531 7855 7990 6285 13767 11004 10763 145 </step>
+    <step num="5">9179 12313 14538 13817 7115 11649 13240 2234 5994 9673 8927 7990 14538 560 2632 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3208 5994 10426 11770 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">6252 5994 2157 371 82 11770 11951 2431 10426 13817 10968 7317 </steps_updated>
+    <steps_updated num="2">3872 560 1788 7990 5527 12689 </steps_updated>
+    <steps_updated num="3">1083 11951 10426 669 5994 8751 3895 1811 13817 5646 11951 12282 5943 </steps_updated>
+    <steps_updated num="4">10950 5994 2597 14511 4120 11951 1633 13817 374 13333 12039 12313 14538 13817 4893 6142 1681 3145 10453 </steps_updated>
+    <steps_updated num="5">5209 5994 1798 10231 4817 4009 10548 371 2373 560 1978 10763 4750 14162 1802 5994 10060 4255 4531 7855 7990 6285 13767 11004 10763 145 </steps_updated>
+    <steps_updated num="6">9179 12313 14538 13817 7115 11649 13240 2234 5994 9673 8927 7990 14538 560 2632 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

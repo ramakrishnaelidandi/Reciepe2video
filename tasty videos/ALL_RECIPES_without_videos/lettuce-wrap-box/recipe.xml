@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lettuce Wrap Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lettuce-wrap-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 pieces ; lettuce </ingredient>
+    <ingredient num="1">½ cup ; pepper, sliced ; (50 g) </ingredient>
+    <ingredient num="2">½ cup ; carrot, sliced ; (60 g) </ingredient>
+    <ingredient num="3">½ cup ; edamame ; (75 g) </ingredient>
+    <ingredient num="4">¼ cup ; cashews, chopped ; (30 g) </ingredient>
+    <ingredient num="5">1 cup ; orange, peeled ; (200 g) </ingredient>
+    <ingredient num="6">1 tablespoon ; sriracha </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>51.94</start_time>
+    <end_time>73.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place lettuce into box. </step>
+    <step num="1">Place sliced peppers, carrots, edamame, and cashews inside lettuce. </step>
+    <step num="2">Peel oranges and place inside box. </step>
+    <step num="3">Pour sriracha into box. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place lettuce into box. </steps_updated>
+    <steps_updated num="1">Place sliced peppers, carrots, edamame, and cashews inside lettuce. </steps_updated>
+    <steps_updated num="2">Peel oranges and place inside box. </steps_updated>
+    <steps_updated num="3">Pour sriracha into box. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01619</start_time>
+    <end_time>02210</end_time>
+  </duration_human>
+</recipe>

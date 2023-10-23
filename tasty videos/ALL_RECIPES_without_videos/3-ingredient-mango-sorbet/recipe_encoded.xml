@@ -1,0 +1,39 @@
+<recipe>
+  <title>3-ingredient Mango Sorbet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-mango-sorbet</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 1345 341 </ingredient>
+    <ingredient num="1">1580 2605 13278 9586 13278 8118 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23527/low_1486660146.m3u8</low>
+    <high>https://vid.tasty.co/output/23527/mp4_720x1280/1486660146</high>
+  </video>
+  <steps>
+    <step num="0">14100 7031 669 10894 1589 1645 4530 13817 9370 4255 10765 8800 4660 13817 13351 7990 5994 14612 371 4061 14329 </step>
+    <step num="1">10950 5994 8016 5349 740 11951 11579 3110 13384 13817 181 9393 1681 11951 2373 9490 12119 </step>
+    <step num="2">6054 6781 8016 9909 13817 1374 669 8141 </step>
+    <step num="3">13855 7990 797 3274 5664 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 7031 669 10894 1589 1645 4530 13817 9370 4255 10765 8800 </steps_updated>
+    <steps_updated num="1">4660 13817 13351 7990 5994 14612 371 4061 14329 </steps_updated>
+    <steps_updated num="2">10950 5994 8016 5349 740 11951 11579 3110 13384 13817 181 </steps_updated>
+    <steps_updated num="3">9393 1681 11951 2373 9490 12119 </steps_updated>
+    <steps_updated num="4">6054 6781 8016 9909 13817 1374 669 8141 </steps_updated>
+    <steps_updated num="5">13855 7990 797 3274 5664 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

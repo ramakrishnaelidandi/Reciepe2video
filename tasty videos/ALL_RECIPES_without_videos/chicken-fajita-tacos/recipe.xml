@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Fajita Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-fajita-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/chicken-tacos-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; shredded chicken ; (250 g) </ingredient>
+    <ingredient num="1">1 ; red bell pepper, thinly sliced </ingredient>
+    <ingredient num="2">1 ; yellow bell pepper, thinly sliced </ingredient>
+    <ingredient num="3">1 ; green bell pepper, thinly sliced </ingredient>
+    <ingredient num="4">½ ; white onion, thinly sliced </ingredient>
+    <ingredient num="5">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="6">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="7">½ teaspoon ; cumin </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="10">4 ; corn tortillas </ingredient>
+    <ingredient num="11">sour cream, for topping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Lunch</category>
+    <category num="3">Game Day</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10850/low_1474994819.m3u8</low>
+    <high>https://vid.tasty.co/output/10850/mp4_720x1280/1474994819</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>29.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large, nonstick skillet, heat the olive oil over medium heat. </step>
+    <step num="1">Toss in the onions, bell peppers, salt, chili powder, cumin, and black pepper, and sauté until the onions and peppers have softened. </step>
+    <step num="2">Add in the shredded chicken and toss until everything in the pan is evenly coated and warmed through. </step>
+    <step num="3">Pour the chicken mixture into a large serving bowl . </step>
+    <step num="4">Toast the tortillas in the seasoned pan, about 3 minutes per side. </step>
+    <step num="5">Divide the mixture evenly between tortillas, top with a drizzle of sour cream, and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large, nonstick skillet, heat the olive oil over medium heat. </steps_updated>
+    <steps_updated num="1">Toss in the onions, bell peppers, salt, chili powder, cumin, and black pepper, and sauté until the onions and peppers have softened. </steps_updated>
+    <steps_updated num="2">Add in the shredded chicken and toss until everything in the pan is evenly coated and warmed through. </steps_updated>
+    <steps_updated num="3">Pour the chicken mixture into a large serving bowl . </steps_updated>
+    <steps_updated num="4">Toast the tortillas in the seasoned pan, about 3 minutes per side. </steps_updated>
+    <steps_updated num="5">Divide the mixture evenly between tortillas, top with a drizzle of sour cream, and serve. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00894</end_time>
+  </duration_human>
+</recipe>

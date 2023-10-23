@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hearty Vegetable Stew Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hearty-vegetable-stew</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hearty-stews-that-will-fill-you-up</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">10 oz ; baby bella mushroom, quartered ; (275 g) </ingredient>
+    <ingredient num="2">1 ; yellow onion, diced </ingredient>
+    <ingredient num="3">3 ; carrots, chopped </ingredient>
+    <ingredient num="4">2 ; celery stalks, chopped </ingredient>
+    <ingredient num="5">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">½ teaspoon ; dried rosemary </ingredient>
+    <ingredient num="7">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="8">½ teaspoon ; pepper </ingredient>
+    <ingredient num="9">3 tablespoons ; tomato paste </ingredient>
+    <ingredient num="10">2 tablespoons ; low sodium soy sauce </ingredient>
+    <ingredient num="11">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="12">¾ cup ; dry red wine ; (180 mL) </ingredient>
+    <ingredient num="13">4 cups ; red potato, diced ; (900 g) </ingredient>
+    <ingredient num="14">4 cups ; vegetable broth ; (960 mL) </ingredient>
+    <ingredient num="15">2 leaves ; bay leaf </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/79256/hls24_1518729800.m3u8</low>
+    <high>https://vid.tasty.co/output/79256/landscape_720/1518729800</high>
+  </video>
+  <duration>
+    <start_time>0.5</start_time>
+    <end_time>62.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">In large pot or Dutch oven, heat the olive oil over medium heat. Once the oil begins to shimmer, add the mushrooms and cook for about 5 minutes, or until most of their juices have been released. </step>
+    <step num="1">Add the onions, carrots, and celery, and cook for 4-5 minutes, or until onions are semi-translucent. </step>
+    <step num="2">Add the garlic, rosemary, thyme, pepper, tomato paste, and soy sauce, and cook for 2-3 more minutes, until the herbs are fragrant. </step>
+    <step num="3">Add the flour and stir until fully incorporated. Add the wine and stir until mostly absorbed. </step>
+    <step num="4">Add the potatoes, vegetable broth, and bay leaves, and bring to a boil. Reduce the heat to medium-low and simmer for 45 minutes, stirring occasionally, until the potatoes are tender and the stew has thickened. </step>
+    <step num="5">Remove the bay leaves. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In large pot or Dutch oven, heat the olive oil over medium heat. </steps_updated>
+    <steps_updated num="1">Once the oil begins to shimmer, add the mushrooms and cook for about 5 minutes, or until most of their juices have been released. </steps_updated>
+    <steps_updated num="2">Add the onions, carrots, and celery, and cook for 4-5 minutes, or until onions are semi-translucent. </steps_updated>
+    <steps_updated num="3">Add the garlic, rosemary, thyme, pepper, tomato paste, and soy sauce, and cook for 2-3 more minutes, until the herbs are fragrant. </steps_updated>
+    <steps_updated num="4">Add the flour and stir until fully incorporated. </steps_updated>
+    <steps_updated num="5">Add the wine and stir until mostly absorbed. </steps_updated>
+    <steps_updated num="6">Add the potatoes, vegetable broth, and bay leaves, and bring to a boil. </steps_updated>
+    <steps_updated num="7">Reduce the heat to medium-low and simmer for 45 minutes, stirring occasionally, until the potatoes are tender and the stew has thickened. </steps_updated>
+    <steps_updated num="8">Remove the bay leaves. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00052</start_time>
+    <end_time>01509</end_time>
+  </duration_human>
+</recipe>

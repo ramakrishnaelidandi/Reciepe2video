@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Make-ahead Cheesy Egg Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/make-ahead-cheesy-egg-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-breakfast-ideas-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; frozen hash brown, thawed ; (425 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; shredded cheddar cheese ; (150 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; oil </ingredient>
+    <ingredient num="5">8 ; eggs </ingredient>
+    <ingredient num="6">3 slices ; bacon, cooked, crumbled </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Brunch</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26151/low_1489102618.m3u8</low>
+    <high>https://vid.tasty.co/output/26151/mp4_720x1280/1489102618</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>30.38</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F/220°C. </step>
+    <step num="1">In a bowl, combine hash browns, cheese, salt, pepper, and oil. Pack into the bottom half of the cups of a greased muffin tin. </step>
+    <step num="2">Bake for 15-20 minutes, until golden brown. </step>
+    <step num="3">In a separate bowl, whisk eggs with the bacon, salt, and pepper. Pour into the top half of each muffin cup. </step>
+    <step num="4">Bake 15 minutes. Freeze up to 1 month. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F/220°C. </steps_updated>
+    <steps_updated num="1">In a bowl, combine hash browns, cheese, salt, pepper, and oil. </steps_updated>
+    <steps_updated num="2">Pack into the bottom half of the cups of a greased muffin tin. </steps_updated>
+    <steps_updated num="3">Bake for 15-20 minutes, until golden brown. </steps_updated>
+    <steps_updated num="4">In a separate bowl, whisk eggs with the bacon, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Pour into the top half of each muffin cup. </steps_updated>
+    <steps_updated num="6">Bake 15 minutes. </steps_updated>
+    <steps_updated num="7">Freeze up to 1 month. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00884</end_time>
+  </duration_human>
+</recipe>

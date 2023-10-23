@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Boiled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boiled-eggs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">6 ; eggs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>185.0</start_time>
+    <end_time>222.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a pot of water to a rapid boil. </step>
+    <step num="1">Gently lower the eggs into the water and cover. Cook the eggs for exactly 6 minutes for soft-boiled eggs, 8 minutes for medium-boiled eggs, and 11 minutes for hard-boiled eggs. </step>
+    <step num="2">Once time has elapsed, scoop out the eggs and immediately transfer to an ice bath to chill. </step>
+    <step num="3">Peel the eggs. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a pot of water to a rapid boil. </steps_updated>
+    <steps_updated num="1">Gently lower the eggs into the water and cover. </steps_updated>
+    <steps_updated num="2">Cook the eggs for exactly 6 minutes for soft-boiled eggs, 8 minutes for medium-boiled eggs, and 11 minutes for hard-boiled eggs. </steps_updated>
+    <steps_updated num="3">Once time has elapsed, scoop out the eggs and immediately transfer to an ice bath to chill. </steps_updated>
+    <steps_updated num="4">Peel the eggs. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

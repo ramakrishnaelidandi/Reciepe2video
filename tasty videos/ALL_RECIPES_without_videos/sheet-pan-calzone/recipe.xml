@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet Pan Calzone</title>
+  <url>https://tasty.co/recipe/sheet-pan-calzone</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray </ingredient>
+    <ingredient num="1">2 lb ; pizza dough, rolled out, divided ; (905 g) </ingredient>
+    <ingredient num="2">1 cup ; marinara sauce ; (260 g) </ingredient>
+    <ingredient num="3">2 cups ; shredded mozzarella cheese ; (200 g) </ingredient>
+    <ingredient num="4">shredded cheddar cheese </ingredient>
+    <ingredient num="5">shredded parmesan cheese </ingredient>
+    <ingredient num="6">pepperoni </ingredient>
+    <ingredient num="7">sausage, cooked </ingredient>
+    <ingredient num="8">bell pepper, sliced </ingredient>
+    <ingredient num="9">mushroom, sliced </ingredient>
+    <ingredient num="10">black olive, sliced </ingredient>
+    <ingredient num="11">ham, chopped </ingredient>
+    <ingredient num="12">pineapple, sliced </ingredient>
+    <ingredient num="13">olive oil, for brushing </ingredient>
+    <ingredient num="14">1 teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102816/hls24_1532371002.m3u8</low>
+    <high>https://vid.tasty.co/output/102816/landscape_720/1532371002</high>
+  </video>
+  <steps>
+    <step num="0">Grease a baking sheet with nonstick spray and lay out half of the pizza dough on the pan, stretching it to make sure the dough reaches the edges. </step>
+    <step num="1">Pour the marinara sauce over the dough and spread evenly with a spoon, leaving about an inch (2 cm) at the edges. </step>
+    <step num="2">Top evenly with the mozzarella. </step>
+    <step num="3">On the first vertical quarter of the pan, sprinkle the cheddar and Parmesan. </step>
+    <step num="4">On the second quarter, add the pepperoni and sausage. </step>
+    <step num="5">In the third quarter, add the bell peppers, mushrooms, and olives. </step>
+    <step num="6">On the last quarter, add the ham and pineapple. </step>
+    <step num="7">Preheat the oven to 350°F (180°C). </step>
+    <step num="8">Place the remaining dough over the topped pizza. Fold the bottom edge of dough over the top edge and pinch to seal the edges. </step>
+    <step num="9">Brush the top with olive oil and sprinkle with salt. </step>
+    <step num="10">Use a paring knife to cut 2 vents on top of the pizza. </step>
+    <step num="11">Bake for 40 minutes, or until golden brown. </step>
+    <step num="12">Slice and serve. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Grease a baking sheet with nonstick spray and lay out half of the pizza dough on the pan, stretching it to make sure the dough reaches the edges. </steps_updated>
+    <steps_updated num="1">Pour the marinara sauce over the dough and spread evenly with a spoon, leaving about an inch (2 cm) at the edges. </steps_updated>
+    <steps_updated num="2">Top evenly with the mozzarella. </steps_updated>
+    <steps_updated num="3">On the first vertical quarter of the pan, sprinkle the cheddar and Parmesan. </steps_updated>
+    <steps_updated num="4">On the second quarter, add the pepperoni and sausage. </steps_updated>
+    <steps_updated num="5">In the third quarter, add the bell peppers, mushrooms, and olives. </steps_updated>
+    <steps_updated num="6">On the last quarter, add the ham and pineapple. </steps_updated>
+    <steps_updated num="7">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="8">Place the remaining dough over the topped pizza. </steps_updated>
+    <steps_updated num="9">Fold the bottom edge of dough over the top edge and pinch to seal the edges. </steps_updated>
+    <steps_updated num="10">Brush the top with olive oil and sprinkle with salt. </steps_updated>
+    <steps_updated num="11">Use a paring knife to cut 2 vents on top of the pizza. </steps_updated>
+    <steps_updated num="12">Bake for 40 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="13">Slice and serve. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

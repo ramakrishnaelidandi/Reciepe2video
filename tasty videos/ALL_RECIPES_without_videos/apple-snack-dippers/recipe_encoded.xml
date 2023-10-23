@@ -1,0 +1,43 @@
+<recipe>
+  <title>Apple Snack Dippers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-snack-dippers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-high-protein-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">1813 13278 13757 8083 12545 976 </ingredient>
+    <ingredient num="1">12791 2605 13278 9767 3713 13278 9234 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 3962 8988 </ingredient>
+    <ingredient num="3">3917 8071 13278 9586 </ingredient>
+    <ingredient num="4">4654 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/45231/low_1501189449.m3u8</low>
+    <high>https://vid.tasty.co/output/45231/mp4_720x1280/1501189449</high>
+  </video>
+  <duration>
+    <start_time>56.0</start_time>
+    <end_time>69.53</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 11951 1100 2694 9400 9586 13817 12425 210 5994 2192 12377 13817 10968 560 1011 </step>
+    <step num="1">12774 1391 9908 10832 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 11951 1100 2694 9400 9586 13817 12425 210 5994 2192 12377 13817 10968 560 1011 </steps_updated>
+    <steps_updated num="1">12774 1391 9908 10832 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01696</start_time>
+    <end_time>02096</end_time>
+  </duration_human>
+</recipe>

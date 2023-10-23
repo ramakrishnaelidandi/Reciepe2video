@@ -1,0 +1,42 @@
+<recipe>
+  <title>S'moreberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/s-moreberries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6114 </ingredient>
+    <ingredient num="1">14630 378 </ingredient>
+    <ingredient num="2">4680 6818 </ingredient>
+    <ingredient num="3">4661 4613 9031 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31977/low_1495125029.m3u8</low>
+    <high>https://vid.tasty.co/output/31977/mp4_720x1280/1495125029</high>
+  </video>
+  <steps>
+    <step num="0">14100 11951 4091 3482 6209 1927 3036 4661 7940 </step>
+    <step num="1">5570 6114 4255 5994 12355 415 10852 210 494 14630 378 9526 772 12313 10096 5569 10117 573 5994 2605 371 1127 </step>
+    <step num="2">2024 11770 5994 127 5895 11499 </step>
+    <step num="3">13494 1391 4680 6818 13817 4661 4613 6561 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 11951 4091 3482 6209 1927 </steps_updated>
+    <steps_updated num="1">3036 4661 7940 </steps_updated>
+    <steps_updated num="2">5570 6114 4255 5994 12355 415 10852 210 494 14630 378 9526 772 12313 10096 5569 10117 573 5994 2605 371 1127 </steps_updated>
+    <steps_updated num="3">2024 11770 5994 127 5895 11499 </steps_updated>
+    <steps_updated num="4">13494 1391 4680 6818 13817 4661 4613 6561 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

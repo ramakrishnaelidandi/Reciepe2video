@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Black Bean Burgers</title>
+  <url>https://tasty.co/recipe/black-bean-burgers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; canned cooked black beans, rinsed and drained </ingredient>
+    <ingredient num="1">1 ; onion, minced </ingredient>
+    <ingredient num="2">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">2 ; carrots, shredded </ingredient>
+    <ingredient num="4">½ cup ; quick-cook oats ; (50 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="6">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="7">1 teaspoon ; cumin </ingredient>
+    <ingredient num="8">½ teaspoon ; coriander </ingredient>
+    <ingredient num="9">½ teaspoon ; chili powder </ingredient>
+    <ingredient num="10">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+    <ingredient num="13">buns, we did not use vegan buns, but you can </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31921/low_1495124928.m3u8</low>
+    <high>https://vid.tasty.co/output/31921/mp4_720x1280/1495124928</high>
+  </video>
+  <steps>
+    <step num="0">Heat one tablespoon of olive oil in a pan. Combine onions, garlic, salt, and pepper and cook until onions are translucent. </step>
+    <step num="1">Add carrots, cumin, coriander, chili powder, and cayenne pepper until carrots are tender. Remove pan from heat. </step>
+    <step num="2">In a bowl, mash the beans and then add the contents of the pan along with the soy sauce and quick oats. </step>
+    <step num="3">Mix and form four patties. Place in freezer for 30 minutes to set. </step>
+    <step num="4">Cook patties on a pan coated in cooking spray over medium heat, flipping halfway. </step>
+    <step num="5">Use patties to create your dream veggie burger. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat one tablespoon of olive oil in a pan. </steps_updated>
+    <steps_updated num="1">Combine onions, garlic, salt, and pepper and cook until onions are translucent. </steps_updated>
+    <steps_updated num="2">Add carrots, cumin, coriander, chili powder, and cayenne pepper until carrots are tender. </steps_updated>
+    <steps_updated num="3">Remove pan from heat. </steps_updated>
+    <steps_updated num="4">In a bowl, mash the beans and then add the contents of the pan along with the soy sauce and quick oats. </steps_updated>
+    <steps_updated num="5">Mix and form four patties. </steps_updated>
+    <steps_updated num="6">Place in freezer for 30 minutes to set. </steps_updated>
+    <steps_updated num="7">Cook patties on a pan coated in cooking spray over medium heat, flipping halfway. </steps_updated>
+    <steps_updated num="8">Use patties to create your dream veggie burger. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

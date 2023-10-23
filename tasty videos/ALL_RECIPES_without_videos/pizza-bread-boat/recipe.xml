@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Bread Boat Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-bread-boat</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 loaf ; baguette </ingredient>
+    <ingredient num="1">8 oz ; mozzarella cheese ; (225 g) </ingredient>
+    <ingredient num="2">7 oz ; pizza sauce ; (200 g) </ingredient>
+    <ingredient num="3">10 slices ; presliced pepperoni </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32067/low_1495125065.m3u8</low>
+    <high>https://vid.tasty.co/output/32067/mp4_720x1280/1495125065</high>
+  </video>
+  <steps>
+    <step num="0">Cut a long rectangle through the top of the baguette and partially unstuff the baguette. </step>
+    <step num="1">Line the bottom of the inside with Mozzarella cheese, spoon pizza sauce on top of the cheese, add another layer of cheese, then lay the pepperoni slices on top and tuck the edges inside the bread. </step>
+    <step num="2">Bake for 25 minutes at 350˚F (175˚C). </step>
+    <step num="3">Cut and serve while still warm. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut a long rectangle through the top of the baguette and partially unstuff the baguette. </steps_updated>
+    <steps_updated num="1">Line the bottom of the inside with Mozzarella cheese, spoon pizza sauce on top of the cheese, add another layer of cheese, then lay the pepperoni slices on top and tuck the edges inside the bread. </steps_updated>
+    <steps_updated num="2">Bake for 25 minutes at 350˚F (175˚C). </steps_updated>
+    <steps_updated num="3">Cut and serve while still warm. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

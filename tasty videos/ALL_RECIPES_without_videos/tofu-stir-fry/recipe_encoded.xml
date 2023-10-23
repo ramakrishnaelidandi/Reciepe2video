@@ -1,0 +1,75 @@
+<recipe>
+  <title>Tofu Stir Fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tofu-stir-fry</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-high-protein-vegetarian-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13667 13278 4155 4625 3247 </ingredient>
+    <ingredient num="1">8580 2031 13278 6209 14635 2431 </ingredient>
+    <ingredient num="2">3917 14014 13278 9586 </ingredient>
+    <ingredient num="3">3917 8071 13278 11114 </ingredient>
+    <ingredient num="4">12791 2605 13278 9712 10522 13278 13125 8007 </ingredient>
+    <ingredient num="5">12791 2605 13278 12781 534 11691 2260 13278 13125 8007 </ingredient>
+    <ingredient num="6">3917 11247 13278 3141 10524 11366 </ingredient>
+    <ingredient num="7">4061 9486 13278 9110 7632 3247 </ingredient>
+    <ingredient num="8">3917 13278 2192 12384 976 </ingredient>
+    <ingredient num="9">3917 13278 2597 5425 976 </ingredient>
+    <ingredient num="10">3917 13278 8083 1466 10986 976 </ingredient>
+    <ingredient num="11">1580 2605 13278 6501 2468 9157 13278 3433 5981 </ingredient>
+    <ingredient num="12">13086 9517 13278 5650 69 3745 13278 1513 5981 </ingredient>
+    <ingredient num="13">3917 14014 13278 9110 5315 </ingredient>
+    <ingredient num="14">4985 12384 1404 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65581/hls24_1512413358.m3u8</low>
+    <high>https://vid.tasty.co/output/65581/landscape_720/1512413358</high>
+  </video>
+  <duration>
+    <start_time>54.2</start_time>
+    <end_time>107.08</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 740 11951 11691 7280 9712 7654 14240 14635 13817 13389 2260 13817 6142 560 1011 2257 10261 7534 </step>
+    <step num="1">5791 11951 11366 210 5994 3830 1811 415 3345 5994 4157 4255 143 </step>
+    <step num="2">12251 560 3499 7990 8489 8927 415 5103 11951 2773 868 11951 14412 13817 12205 669 1170 </step>
+    <step num="3">10950 5994 7742 5895 2597 5291 5687 7855 8580 9486 371 9110 5766 11770 13757 2082 </step>
+    <step num="4">9179 11951 11366 13817 5687 7256 7990 1106 11004 13328 13377 </step>
+    <step num="5">9179 11951 11384 13817 11951 6334 13817 6142 1681 10348 6285 3917 6513 </step>
+    <step num="6">9179 210 11951 6501 8083 10986 13817 9151 13817 12484 13328 6601 1681 1910 6865 12689 </step>
+    <step num="7">9179 11951 5650 12279 7280 13817 9110 6974 </step>
+    <step num="8">264 7990 6620 11004 13328 13377 </step>
+    <step num="9">6054 6781 11951 2082 </step>
+    <step num="10">13688 1391 4985 7272 5358 13 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 740 11951 11691 7280 9712 7654 14240 14635 13817 13389 2260 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="1">2257 10261 7534 </steps_updated>
+    <steps_updated num="2">5791 11951 11366 210 5994 3830 1811 415 3345 5994 4157 4255 143 </steps_updated>
+    <steps_updated num="3">12251 560 3499 7990 8489 8927 415 5103 11951 2773 868 11951 14412 13817 12205 669 1170 </steps_updated>
+    <steps_updated num="4">10950 5994 7742 5895 2597 5291 5687 7855 8580 9486 371 9110 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">9179 11951 11366 13817 5687 7256 7990 1106 11004 13328 13377 </steps_updated>
+    <steps_updated num="6">9179 11951 11384 13817 11951 6334 13817 6142 1681 10348 6285 3917 6513 </steps_updated>
+    <steps_updated num="7">9179 210 11951 6501 8083 10986 13817 9151 13817 12484 13328 6601 1681 1910 6865 12689 </steps_updated>
+    <steps_updated num="8">9179 11951 5650 12279 7280 13817 9110 6974 </steps_updated>
+    <steps_updated num="9">264 7990 6620 11004 13328 13377 </steps_updated>
+    <steps_updated num="10">6054 6781 11951 2082 </steps_updated>
+    <steps_updated num="11">13688 1391 4985 7272 5358 13 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01347</start_time>
+    <end_time>02575</end_time>
+  </duration_human>
+</recipe>

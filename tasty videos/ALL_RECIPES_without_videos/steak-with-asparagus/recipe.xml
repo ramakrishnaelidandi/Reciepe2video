@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steak With Asparagus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-with-asparagus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/surf-turf-dinner-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; boneless strip steaks, or shell steaks, about 1-inch (2 cm) thick </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">3 tablespoons ; canola oil </ingredient>
+    <ingredient num="4">1 bunch ; asparagus </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20419/low_1484159039.m3u8</low>
+    <high>https://vid.tasty.co/output/20419/mp4_720x1280/1484159039</high>
+  </video>
+  <duration>
+    <start_time>58.0</start_time>
+    <end_time>93.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Season the steaks on all sides with the salt and pepper. </step>
+    <step num="1">Heat oil in a pan or a skillet over high heat until smoking. </step>
+    <step num="2">Sear the steaks for about a minute to a minute and a half on each side, depending on the thickness of your steak for medium-rare. If you would like your steak rarer or more well-done, cook your steak shorter or longer accordingly. </step>
+    <step num="3">In the same pan, cook the asparagus with salt and pepper until tender but still slightly crunchy. Remove from heat. </step>
+    <step num="4">After the steaks have rested for about 5 minutes, slice, then serve with the asparagus! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season the steaks on all sides with the salt and pepper. </steps_updated>
+    <steps_updated num="1">Heat oil in a pan or a skillet over high heat until smoking. </steps_updated>
+    <steps_updated num="2">Sear the steaks for about a minute to a minute and a half on each side, depending on the thickness of your steak for medium-rare. </steps_updated>
+    <steps_updated num="3">If you would like your steak rarer or more well-done, cook your steak shorter or longer accordingly. </steps_updated>
+    <steps_updated num="4">In the same pan, cook the asparagus with salt and pepper until tender but still slightly crunchy. </steps_updated>
+    <steps_updated num="5">Remove from heat. </steps_updated>
+    <steps_updated num="6">After the steaks have rested for about 5 minutes, slice, then serve with the asparagus! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01744</start_time>
+    <end_time>02725</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+  <title>gin and tonic truffles</title>
+  <url>https://tasty.co/recipe/gin-tonic-truffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delectable-truffles</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 5475 4680 13278 6898 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 6435 13033 </ingredient>
+    <ingredient num="2">8580 9486 13278 14220 </ingredient>
+    <ingredient num="3">3917 14014 13278 7351 12282 </ingredient>
+    <ingredient num="4">1580 9712 13278 9712 10522 </ingredient>
+    <ingredient num="5">1580 9712 13278 9712 5921 </ingredient>
+    <ingredient num="6">13767 2031 13278 9924 </ingredient>
+    <ingredient num="7">3917 2605 13278 4617 13826 5335 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Casual Party</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118132/hls24_1543950282.m3u8</low>
+    <high>https://vid.tasty.co/output/118132/landscape_720/1543950282</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 5994 2597 12787 12377 11770 5994 5687 371 693 2019 9179 11951 5475 4680 13817 6435 1123 10117 13817 3624 3936 </step>
+    <step num="1">9179 11951 10921 3057 9712 7654 9712 9342 13817 10907 13817 596 6054 6781 7855 13817 173 7990 13086 13199 5895 14142 </step>
+    <step num="2">8431 5994 9737 7615 5895 1798 560 1374 2696 11951 7349 2373 13817 13935 669 2192 13202 13855 7990 238 12689 </step>
+    <step num="3">5209 5994 12747 10852 11951 11579 7349 2984 669 5335 4617 4680 560 515 1594 1391 3954 4617 13826 13817 1678 1391 9712 6585 2356 7990 238 11004 5895 1681 1703 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 5994 2597 12787 12377 11770 5994 5687 371 693 2019 </steps_updated>
+    <steps_updated num="1">9179 11951 5475 4680 13817 6435 1123 10117 13817 3624 3936 </steps_updated>
+    <steps_updated num="2">9179 11951 10921 3057 9712 7654 9712 9342 13817 10907 13817 596 </steps_updated>
+    <steps_updated num="3">6054 6781 7855 13817 173 7990 13086 13199 5895 14142 </steps_updated>
+    <steps_updated num="4">8431 5994 9737 7615 5895 1798 560 1374 2696 11951 7349 2373 13817 13935 669 2192 13202 </steps_updated>
+    <steps_updated num="5">13855 7990 238 12689 </steps_updated>
+    <steps_updated num="6">5209 5994 12747 10852 11951 11579 7349 2984 669 5335 4617 4680 560 515 </steps_updated>
+    <steps_updated num="7">1594 1391 3954 4617 13826 13817 1678 1391 9712 6585 </steps_updated>
+    <steps_updated num="8">2356 7990 238 11004 5895 1681 1703 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00804</start_time>
+    <end_time>02002</end_time>
+  </duration_human>
+</recipe>

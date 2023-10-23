@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cucumber, Tomato, And Avocado Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cucumber-tomato-and-avocado-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; english cucumber, diced </ingredient>
+    <ingredient num="1">4 ; roma tomatoes, diced </ingredient>
+    <ingredient num="2">3 ; ripe avocados, diced </ingredient>
+    <ingredient num="3">½ ; red onion, diced </ingredient>
+    <ingredient num="4">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="5">1 ; lemon, juiced </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">2 tablespoons ; extra virgin olive oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Lunch</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22634/low_1485906114.m3u8</low>
+    <high>https://vid.tasty.co/output/22634/mp4_720x1280/1485906114</high>
+  </video>
+  <steps>
+    <step num="0">Slice then dice cucumber. </step>
+    <step num="1">Slice then dice tomatoes. </step>
+    <step num="2">Slice avocado and carefully remove stone. Scoop out inside and dice. </step>
+    <step num="3">Peel onion and remove tops. Then slice. </step>
+    <step num="4">Chop cilantro and place in a large salad bowl with previous ingredients. </step>
+    <step num="5">Toss with olive oil, lemon juice, salt and pepper. Serve in a bowl. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice then dice cucumber. </steps_updated>
+    <steps_updated num="1">Slice then dice tomatoes. </steps_updated>
+    <steps_updated num="2">Slice avocado and carefully remove stone. </steps_updated>
+    <steps_updated num="3">Scoop out inside and dice. </steps_updated>
+    <steps_updated num="4">Peel onion and remove tops. </steps_updated>
+    <steps_updated num="5">Then slice. </steps_updated>
+    <steps_updated num="6">Chop cilantro and place in a large salad bowl with previous ingredients. </steps_updated>
+    <steps_updated num="7">Toss with olive oil, lemon juice, salt and pepper. </steps_updated>
+    <steps_updated num="8">Serve in a bowl. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

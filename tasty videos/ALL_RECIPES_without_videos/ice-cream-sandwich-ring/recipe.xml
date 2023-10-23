@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ice Cream Sandwich Ring Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-sandwich-ring</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; butter, melted ; (155 g) </ingredient>
+    <ingredient num="1">4 ; eggs </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="4">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="5">½ cup ; cocoa powder ; (60 g) </ingredient>
+    <ingredient num="6">¼ teaspoon ; salt </ingredient>
+    <ingredient num="7">3 cups ; vanilla ice cream ; (430 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56742/low_1508281244.m3u8</low>
+    <high>https://vid.tasty.co/output/56742/mp4_720x1280/1508281244</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a large bowl, beat melted butter, eggs, sugar, and vanilla until frothy. </step>
+    <step num="2">Sift flour, cocoa powder, and salt into the bowl with the butter and eggs and mix just until combined. </step>
+    <step num="3">Pour into a well-greased bundt pan and bake for 25 minutes, then cool completely. </step>
+    <step num="4">Remove the brownie ring from the bundt pan and slice in half, horizontally. </step>
+    <step num="5">Place the top back in the cleaned bunt pan. </step>
+    <step num="6">Place ice cream scoops on top. Spread ice cream out and place the bottom piece of the brownie on top of that. </step>
+    <step num="7">Freeze until solid, remove from bundt pan and cut into pieces. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, beat melted butter, eggs, sugar, and vanilla until frothy. </steps_updated>
+    <steps_updated num="2">Sift flour, cocoa powder, and salt into the bowl with the butter and eggs and mix just until combined. </steps_updated>
+    <steps_updated num="3">Pour into a well-greased bundt pan and bake for 25 minutes, then cool completely. </steps_updated>
+    <steps_updated num="4">Remove the brownie ring from the bundt pan and slice in half, horizontally. </steps_updated>
+    <steps_updated num="5">Place the top back in the cleaned bunt pan. </steps_updated>
+    <steps_updated num="6">Place ice cream scoops on top. </steps_updated>
+    <steps_updated num="7">Spread ice cream out and place the bottom piece of the brownie on top of that. </steps_updated>
+    <steps_updated num="8">Freeze until solid, remove from bundt pan and cut into pieces. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

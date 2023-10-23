@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fluffy Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fluffy-perfect-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; flour, sifted ; (500 g) </ingredient>
+    <ingredient num="1">4 tablespoons ; baking powder </ingredient>
+    <ingredient num="2">4 cups ; milk, warm to the touch ; (960 mL) </ingredient>
+    <ingredient num="3">¾ cup ; butter, melted ; (170 g) </ingredient>
+    <ingredient num="4">3 ; egg yolks </ingredient>
+    <ingredient num="5">4 ; egg whites </ingredient>
+    <ingredient num="6">maple syrup, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65088/hls24_1512083102.m3u8</low>
+    <high>https://vid.tasty.co/output/65088/landscape_720/1512083102</high>
+  </video>
+  <steps>
+    <step num="0">Whisk together the flour and baking powder in a large bowl. </step>
+    <step num="1">In a separate bowl, add the butter, milk, and egg yolks, stirring to combine. </step>
+    <step num="2">In a third bowl, use a hand mixer to beat the egg whites until soft peaks form. </step>
+    <step num="3">Pour the milk mixture into the flour mixture and stir with rubber spatula until just combined. Add the beaten egg whites and gently fold to combine.
+ </step>
+    <step num="4">Heat an 8-inch (20cm) nonstick skillet over low heat. Pour 1 ½ cups of pancake batter into the skillet, smooth out the top, then cover with a lid. Cook until golden brown on the bottom and a toothpick inserted into the center comes out clean, about 20 minutes. Transfer the pancake to a plate and repeat, making 5 more pancakes with the remaining batter.
+ </step>
+    <step num="5">Serve with maple syrup. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Whisk together the flour and baking powder in a large bowl. </steps_updated>
+    <steps_updated num="1">In a separate bowl, add the butter, milk, and egg yolks, stirring to combine. </steps_updated>
+    <steps_updated num="2">In a third bowl, use a hand mixer to beat the egg whites until soft peaks form. </steps_updated>
+    <steps_updated num="3">Pour the milk mixture into the flour mixture and stir with rubber spatula until just combined. </steps_updated>
+    <steps_updated num="4">Add the beaten egg whites and gently fold to combine. </steps_updated>
+    <steps_updated num="5">Heat an 8-inch (20cm) nonstick skillet over low heat. </steps_updated>
+    <steps_updated num="6">Pour 1 ½ cups of pancake batter into the skillet, smooth out the top, then cover with a lid. </steps_updated>
+    <steps_updated num="7">Cook until golden brown on the bottom and a toothpick inserted into the center comes out clean, about 20 minutes. </steps_updated>
+    <steps_updated num="8">Transfer the pancake to a plate and repeat, making 5 more pancakes with the remaining batter. </steps_updated>
+    <steps_updated num="9">Serve with maple syrup. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,52 @@
+<recipe>
+  <title>Ice Cream Sandwich Ring Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-sandwich-ring</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 10907 5335 13278 7707 5981 </ingredient>
+    <ingredient num="1">4061 13278 12708 </ingredient>
+    <ingredient num="2">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 1319 </ingredient>
+    <ingredient num="4">1580 2605 13278 890 13278 13125 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 9053 11703 13278 13125 5981 </ingredient>
+    <ingredient num="6">12791 8071 13278 82 </ingredient>
+    <ingredient num="7">13086 9517 13278 1319 2439 13033 13278 11145 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/56742/low_1508281244.m3u8</low>
+    <high>https://vid.tasty.co/output/56742/mp4_720x1280/1508281244</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9988 8999 </step>
+    <step num="1">10950 5994 2597 14511 3930 5335 10907 14463 6145 13817 1319 1681 12784 </step>
+    <step num="2">4026 6467 9053 8117 13817 82 669 11951 12377 1391 11951 9924 13817 12708 13817 10968 644 1681 4309 </step>
+    <step num="3">1083 669 5994 10929 11252 5687 13817 10903 7990 2800 11004 415 10694 3936 </step>
+    <step num="4">6054 11951 8630 4804 6781 11951 11252 5687 13817 12205 210 1991 10493 </step>
+    <step num="5">5570 11951 10707 13352 210 11951 4324 5752 10590 </step>
+    <step num="6">5570 2439 13033 10548 4255 143 2988 2439 13033 2696 13817 3345 11951 551 9152 371 11951 8630 4255 10707 371 10956 </step>
+    <step num="7">13855 1681 12091 5103 6781 11252 5687 13817 7777 669 13637 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 3930 5335 10907 14463 6145 13817 1319 1681 12784 </steps_updated>
+    <steps_updated num="2">4026 6467 9053 8117 13817 82 669 11951 12377 1391 11951 9924 13817 12708 13817 10968 644 1681 4309 </steps_updated>
+    <steps_updated num="3">1083 669 5994 10929 11252 5687 13817 10903 7990 2800 11004 415 10694 3936 </steps_updated>
+    <steps_updated num="4">6054 11951 8630 4804 6781 11951 11252 5687 13817 12205 210 1991 10493 </steps_updated>
+    <steps_updated num="5">5570 11951 10707 13352 210 11951 4324 5752 10590 </steps_updated>
+    <steps_updated num="6">5570 2439 13033 10548 4255 143 </steps_updated>
+    <steps_updated num="7">2988 2439 13033 2696 13817 3345 11951 551 9152 371 11951 8630 4255 10707 371 10956 </steps_updated>
+    <steps_updated num="8">13855 1681 12091 5103 6781 11252 5687 13817 7777 669 13637 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

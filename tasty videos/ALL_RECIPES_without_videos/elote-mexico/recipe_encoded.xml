@@ -1,0 +1,47 @@
+<recipe>
+  <title>Elote (Mexico) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/elote-mexico</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/corn-on-the-cob-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 2492 13278 12655 6843 </ingredient>
+    <ingredient num="1">3917 14014 13278 11338 5766 </ingredient>
+    <ingredient num="2">1813 2605 13278 13051 13278 12158 5981 </ingredient>
+    <ingredient num="3">1813 2605 13278 1484 13033 13278 12158 5981 </ingredient>
+    <ingredient num="4">1580 13278 7695 3701 </ingredient>
+    <ingredient num="5">3917 8071 13278 13026 11703 </ingredient>
+    <ingredient num="6">12791 2605 13278 4951 14538 13278 1258 5981 </ingredient>
+    <ingredient num="7">6209 6712 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108480/hls24_1536599550.m3u8</low>
+    <high>https://vid.tasty.co/output/108480/landscape_720/1536599550</high>
+  </video>
+  <duration>
+    <start_time>3.0</start_time>
+    <end_time>38.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 6054 11951 3183 6781 11951 4771 </step>
+    <step num="1">8889 11951 11338 5766 210 5994 13757 5687 11770 3996 2082 9179 11951 3183 13817 12484 12341 6601 1681 9861 870 4255 8554 6701 12785 560 5994 7818 9086 </step>
+    <step num="2">10950 5994 2192 14511 4120 11951 11796 1484 1123 13817 9712 8587 11881 8554 11770 11951 9551 </step>
+    <step num="3">6252 11951 3183 1391 11951 13026 8117 4951 13810 13817 1117 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 </steps_updated>
+    <steps_updated num="1">6054 11951 3183 6781 11951 4771 </steps_updated>
+    <steps_updated num="2">8889 11951 11338 5766 210 5994 13757 5687 11770 3996 2082 </steps_updated>
+    <steps_updated num="3">9179 11951 3183 13817 12484 12341 6601 1681 9861 870 4255 8554 6701 </steps_updated>
+    <steps_updated num="4">12785 560 5994 7818 9086 </steps_updated>
+    <steps_updated num="5">10950 5994 2192 14511 4120 11951 11796 1484 1123 13817 9712 8587 </steps_updated>
+    <steps_updated num="6">11881 8554 11770 11951 9551 </steps_updated>
+    <steps_updated num="7">6252 11951 3183 1391 11951 13026 8117 4951 13810 13817 1117 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

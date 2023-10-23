@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mandu</title>
+  <url>https://tasty.co/recipe/daniels-mandu</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dumplings-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">7 oz ; tofu ; (200 g) </ingredient>
+    <ingredient num="1">½ lb ; ground pork ; (225 g) </ingredient>
+    <ingredient num="2">½ lb ; ground beef ; (225 g) </ingredient>
+    <ingredient num="3">½ cup ; scallion, chopped ; (50 g) </ingredient>
+    <ingredient num="4">¼ cup ; white onion, chopped ; (35 g) </ingredient>
+    <ingredient num="5">½ cup ; kimchi, roughly chooled ; (115 g) </ingredient>
+    <ingredient num="6">2 cloves ; garlic, finely chopped </ingredient>
+    <ingredient num="7">2 teaspoons ; ginger, finely chopped </ingredient>
+    <ingredient num="8">2 tablespoons ; sesame oil </ingredient>
+    <ingredient num="9">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="10">1 teaspoon ; salt </ingredient>
+    <ingredient num="11">1 teaspoon ; pepper </ingredient>
+    <ingredient num="12">1 ; egg </ingredient>
+    <ingredient num="13">1 tablespoon ; water </ingredient>
+    <ingredient num="14">80 ; small dumpling wrappers </ingredient>
+    <ingredient num="15">dipping sauce, optional </ingredient>
+    <ingredient num="16">⅓ cup ; soy sauce ; (80 mL) </ingredient>
+    <ingredient num="17">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="18">1 teaspoon ; rice wine vinegar </ingredient>
+    <ingredient num="19">¼ teaspoon ; korean red pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Korean</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92132/hls24_1525222676.m3u8</low>
+    <high>https://vid.tasty.co/output/92132/landscape_720/1525222676</high>
+  </video>
+  <duration>
+    <start_time>7.333</start_time>
+    <end_time>85.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the tofu in a small bowl lined with paper towels. Top with another paper towel and a bowl filled water for weight. Let sit for 15 minutes to extract some moisture from the tofu. </step>
+    <step num="1">Crumble the tofu into small pieces in a large bowl. Add the pork, beef, scallions, onion, kimchi, garlic, ginger, sesame oil, soy sauce, salt and pepper. Mix well with your hands. </step>
+    <step num="2">In a small bowl, combine the egg and water. </step>
+    <step num="3">Put two teaspoons of filling in the middle of a dumpling wrapper. Using your finger, wet half of the outer rim of the wrapper with the egg and water mixture. </step>
+    <step num="4">Fold the wrapper in half. Using your fingertips, start make pleats to seal the mandu. Repeat with the rest of the wrappers and filling. </step>
+    <step num="5">Bring a large pot of water to boil over high heat. Once boiling, add 6-7 mandu at a time. Once the mandu start floating on the surface, boil for another 1-2 minutes. Remove the mandu from the water with a spider or slotted spoon and repeat with the rest of the dumplings. </step>
+    <step num="6">Serve with dipping sauce. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the tofu in a small bowl lined with paper towels. </steps_updated>
+    <steps_updated num="1">Top with another paper towel and a bowl filled water for weight. </steps_updated>
+    <steps_updated num="2">Let sit for 15 minutes to extract some moisture from the tofu. </steps_updated>
+    <steps_updated num="3">Crumble the tofu into small pieces in a large bowl. </steps_updated>
+    <steps_updated num="4">Add the pork, beef, scallions, onion, kimchi, garlic, ginger, sesame oil, soy sauce, salt and pepper. </steps_updated>
+    <steps_updated num="5">Mix well with your hands. </steps_updated>
+    <steps_updated num="6">In a small bowl, combine the egg and water. </steps_updated>
+    <steps_updated num="7">Put two teaspoons of filling in the middle of a dumpling wrapper. </steps_updated>
+    <steps_updated num="8">Using your finger, wet half of the outer rim of the wrapper with the egg and water mixture. </steps_updated>
+    <steps_updated num="9">Fold the wrapper in half. </steps_updated>
+    <steps_updated num="10">Using your fingertips, start make pleats to seal the mandu. </steps_updated>
+    <steps_updated num="11">Repeat with the rest of the wrappers and filling. </steps_updated>
+    <steps_updated num="12">Bring a large pot of water to boil over high heat. </steps_updated>
+    <steps_updated num="13">Once boiling, add 6-7 mandu at a time. </steps_updated>
+    <steps_updated num="14">Once the mandu start floating on the surface, boil for another 1-2 minutes. </steps_updated>
+    <steps_updated num="15">Remove the mandu from the water with a spider or slotted spoon and repeat with the rest of the dumplings. </steps_updated>
+    <steps_updated num="16">Serve with dipping sauce. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

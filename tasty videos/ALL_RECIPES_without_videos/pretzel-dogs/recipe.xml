@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pretzel Dogs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pretzel-dogs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">flour </ingredient>
+    <ingredient num="1">12 oz ; pizza dough ; (340 g) </ingredient>
+    <ingredient num="2">4 ; hot dogs </ingredient>
+    <ingredient num="3">5 cups ; water ; (1 L) </ingredient>
+    <ingredient num="4">¼ cup ; baking soda ; (45 g) </ingredient>
+    <ingredient num="5">1 ; egg yolk, beaten </ingredient>
+    <ingredient num="6">coarse sea salt, to taste </ingredient>
+    <ingredient num="7">shredded cheddar cheese </ingredient>
+    <ingredient num="8">jalapeño, sliced into rings and seeds taken out </ingredient>
+    <ingredient num="9">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="10">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="11">1 tablespoon ; fresh parsley, chopped </ingredient>
+    <ingredient num="12">shredded mozzarella cheese </ingredient>
+    <ingredient num="13">pepperoni </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34284/low_1497631052.m3u8</low>
+    <high>https://vid.tasty.co/output/34284/mp4_720x1280/1497631052</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 450˚F (230˚C). </step>
+    <step num="1">Dust the cutting board with flour, and cut the pizza dough into 4 equal pieces. </step>
+    <step num="2">Roll each piece of dough out until it’s a 12-inch (30 ½ cm) rope. It’s okay if the dough naturally shrinks. </step>
+    <step num="3">Take the rolled out dough and wrap it around a hot dog in a spiraling motion, leaving room on the ends. </step>
+    <step num="4">In a pot, combine the baking soda with the water and bring it to a boil. </step>
+    <step num="5">Cook each pretzel dog in the solution for 30 seconds each. Remove with a slotted spoon and transfer to a baking tray. </step>
+    <step num="6">Brush each pretzel dog with the egg wash. </step>
+    <step num="7">Top the pretzels with your toppings of choice. </step>
+    <step num="8">For sea salt, sprinkle the salt on top. For jalapeño cheddar, top the pretzel with cheddar cheese, then follow with jalapeños. For garlic butter, combine the butter, garlic, and parsley, and brush on top. For pizza, top with mozzarella and follow with pepperoni. </step>
+    <step num="9">Bake in the oven for 12-15 minutes, or until it reaches a deep golden brown. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">Dust the cutting board with flour, and cut the pizza dough into 4 equal pieces. </steps_updated>
+    <steps_updated num="2">Roll each piece of dough out until it’s a 12-inch (30 ½ cm) rope. </steps_updated>
+    <steps_updated num="3">It’s okay if the dough naturally shrinks. </steps_updated>
+    <steps_updated num="4">Take the rolled out dough and wrap it around a hot dog in a spiraling motion, leaving room on the ends. </steps_updated>
+    <steps_updated num="5">In a pot, combine the baking soda with the water and bring it to a boil. </steps_updated>
+    <steps_updated num="6">Cook each pretzel dog in the solution for 30 seconds each. </steps_updated>
+    <steps_updated num="7">Remove with a slotted spoon and transfer to a baking tray. </steps_updated>
+    <steps_updated num="8">Brush each pretzel dog with the egg wash. </steps_updated>
+    <steps_updated num="9">Top the pretzels with your toppings of choice. </steps_updated>
+    <steps_updated num="10">For sea salt, sprinkle the salt on top. </steps_updated>
+    <steps_updated num="11">For jalapeño cheddar, top the pretzel with cheddar cheese, then follow with jalapeños. </steps_updated>
+    <steps_updated num="12">For garlic butter, combine the butter, garlic, and parsley, and brush on top. </steps_updated>
+    <steps_updated num="13">For pizza, top with mozzarella and follow with pepperoni. </steps_updated>
+    <steps_updated num="14">Bake in the oven for 12-15 minutes, or until it reaches a deep golden brown. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

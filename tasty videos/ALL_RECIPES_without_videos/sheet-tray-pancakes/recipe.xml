@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet Tray Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-tray-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-meal-prep-for-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; whole wheat flour ; (195 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="2">⅔ cup ; almond milk ; (160 mL) </ingredient>
+    <ingredient num="3">1 ¼ cups ; unsweetened applesauce ; (280 g) </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">blueberry, to taste </ingredient>
+    <ingredient num="7">strawberry, to taste </ingredient>
+    <ingredient num="8">dark chocolate chip, to taste </ingredient>
+    <ingredient num="9">banana, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57232/low_1508449017.m3u8</low>
+    <high>https://vid.tasty.co/output/57232/mp4_720x1280/1508449017</high>
+  </video>
+  <duration>
+    <start_time>3.4299999999999997</start_time>
+    <end_time>68.75</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">In a bowl, mix whole wheat flour and baking powder. </step>
+    <step num="2">Add in milk, applesauce, egg, and vanilla extract. Mix until well combined. </step>
+    <step num="3">Pour pancake mix on a greased baking sheet and evenly spread out. </step>
+    <step num="4">Add desired toppings onto the whole pan or place in different corners for a variety. </step>
+    <step num="5">Bake for 15 minutes. </step>
+    <step num="6">Cut into squares. Serve now or freeze for up to a month. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">In a bowl, mix whole wheat flour and baking powder. </steps_updated>
+    <steps_updated num="2">Add in milk, applesauce, egg, and vanilla extract. </steps_updated>
+    <steps_updated num="3">Mix until well combined. </steps_updated>
+    <steps_updated num="4">Pour pancake mix on a greased baking sheet and evenly spread out. </steps_updated>
+    <steps_updated num="5">Add desired toppings onto the whole pan or place in different corners for a variety. </steps_updated>
+    <steps_updated num="6">Bake for 15 minutes. </steps_updated>
+    <steps_updated num="7">Cut into squares. </steps_updated>
+    <steps_updated num="8">Serve now or freeze for up to a month. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00154</start_time>
+    <end_time>02081</end_time>
+  </duration_human>
+</recipe>

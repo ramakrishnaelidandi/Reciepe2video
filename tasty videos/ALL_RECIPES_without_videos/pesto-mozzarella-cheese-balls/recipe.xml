@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pesto Mozzarella Cheese Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-mozzarella-cheese-balls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cans ; biscuit dough </ingredient>
+    <ingredient num="1">4 oz ; mozzarella cheese, cut into 20 equal cubes ; (115 g) </ingredient>
+    <ingredient num="2">8 oz ; basil pesto ; (225 g) </ingredient>
+    <ingredient num="3">4 tablespoons ; butter, melted </ingredient>
+    <ingredient num="4">2 cloves ; garlic cloves </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32213/low_1495125453.m3u8</low>
+    <high>https://vid.tasty.co/output/32213/mp4_720x1280/1495125453</high>
+  </video>
+  <steps>
+    <step num="0">Cut biscuit dough in half. Flatten dough. </step>
+    <step num="1">Spread a teaspoon of pesto in the center of the dough, then place a mozzarella cube on top </step>
+    <step num="2">Pinch the sides around the cheese so the pesto and cheese are completely encased by the dough. </step>
+    <step num="3">Place stuffed dough balls in a cast iron pan. </step>
+    <step num="4">Crush garlic and mix with melted butter. </step>
+    <step num="5">Brush the garlic butter over each ball. Bake for 20 minutes at 400˚F (200˚C) or until the dough is golden brown. Serve warm. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut biscuit dough in half. </steps_updated>
+    <steps_updated num="1">Flatten dough. </steps_updated>
+    <steps_updated num="2">Spread a teaspoon of pesto in the center of the dough, then place a mozzarella cube on top </steps_updated>
+    <steps_updated num="3">Pinch the sides around the cheese so the pesto and cheese are completely encased by the dough. </steps_updated>
+    <steps_updated num="4">Place stuffed dough balls in a cast iron pan. </steps_updated>
+    <steps_updated num="5">Crush garlic and mix with melted butter. </steps_updated>
+    <steps_updated num="6">Brush the garlic butter over each ball. </steps_updated>
+    <steps_updated num="7">Bake for 20 minutes at 400˚F (200˚C) or until the dough is golden brown. </steps_updated>
+    <steps_updated num="8">Serve warm. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shrimp Kale Caesar Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shrimp-kale-caesar-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; large free-range egg </ingredient>
+    <ingredient num="1">2 teaspoons ; dijon mustard </ingredient>
+    <ingredient num="2">3 fillets ; anchovies </ingredient>
+    <ingredient num="3">2 cloves ; garlic </ingredient>
+    <ingredient num="4">1 cup ; extra virgin olive oil ; (240 mL) </ingredient>
+    <ingredient num="5">fresh lemon juice, to taste </ingredient>
+    <ingredient num="6">kosher salt, to taste </ingredient>
+    <ingredient num="7">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="8">6 oz ; whole grain wheat bread, 1 loaf, cut into bite-size cubes ; (170 g) </ingredient>
+    <ingredient num="9">olive oil, to taste </ingredient>
+    <ingredient num="10">1 teaspoon ; italian seasoning </ingredient>
+    <ingredient num="11">1 pinch ; kosher salt </ingredient>
+    <ingredient num="12">1 lb ; wild-caught shrimp, (about 21 or 25) peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="13">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="14">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="15">1 ; lemon, zested </ingredient>
+    <ingredient num="16">kosher salt, to taste </ingredient>
+    <ingredient num="17">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="18">12 cups ; kale, mixed, stemmed and sliced into ribbons ; (120 g) </ingredient>
+    <ingredient num="19">kosher salt, to taste </ingredient>
+    <ingredient num="20">1 ; avocado, pitted and thinly sliced </ingredient>
+    <ingredient num="21">¾ cup ; pomegranate seeds ; (130 g) </ingredient>
+    <ingredient num="22">½ cup ; parmesan cheese, shaved ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Lunch</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114604/hls24_1541617345.m3u8</low>
+    <high>https://vid.tasty.co/output/114604/landscape_720/1541617345</high>
+  </video>
+  <steps>
+    <step num="0">Make the dressing: Add the egg, Dijon mustard, anchovy fillets, and garlic to a blender. Blend for about 1 minute, until smooth and creamy. With the blender running, slowly pour in the olive oil and blend until thick and emulsified. Season the dressing to taste with lemon juice, salt, and pepper, and quickly pulse to incorporate. Set aside. The dressing can be made ahead. Store in the fridge in an airtight container for up to 4 days. </step>
+    <step num="1">Make the croutons: In a 3-quart (3 L) mixing bowl, combine the bread, olive oil, and Italian seasoning. Toss to coat the bread cubes. </step>
+    <step num="2">Heat a medium pan over medium heat. Add the bread cubes, in batches if necessary to keep from overcrowding the pan. Toast, tossing occasionally, until crispy and golden brown, about 5 minutes. Remove from the pan and season with salt. Set aside. The croutons can be made ahead. Store in an airtight container in a cool, dry place for up to 4 days. </step>
+    <step num="3">Make the shrimp: In a medium bowl, combine the shrimp, olive oil, garlic, lemon zest, salt, and pepper. Toss to coat the shrimp. </step>
+    <step num="4">Heat a medium skillet over medium-high heat. Working in batches, cook the shrimp for 2 minutes on each side, until pink and opaque. Remove from the pan. </step>
+    <step num="5">Thoroughly wash and dry the kale. Add to a large bowl and season with salt. Gently massage the kale to break down some of the fibrous texture. Toss with a bit of dressing to coat the leaves, then add more to taste. </step>
+    <step num="6">Add the croutons, shrimp, avocado, pomegranate seeds, and Parmesan. Toss well. </step>
+    <step num="7">Divide between bowls and serve immediately. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the dressing: Add the egg, Dijon mustard, anchovy fillets, and garlic to a blender. </steps_updated>
+    <steps_updated num="1">Blend for about 1 minute, until smooth and creamy. </steps_updated>
+    <steps_updated num="2">With the blender running, slowly pour in the olive oil and blend until thick and emulsified. </steps_updated>
+    <steps_updated num="3">Season the dressing to taste with lemon juice, salt, and pepper, and quickly pulse to incorporate. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">The dressing can be made ahead. </steps_updated>
+    <steps_updated num="6">Store in the fridge in an airtight container for up to 4 days. </steps_updated>
+    <steps_updated num="7">Make the croutons: In a 3-quart (3 L) mixing bowl, combine the bread, olive oil, and Italian seasoning. </steps_updated>
+    <steps_updated num="8">Toss to coat the bread cubes. </steps_updated>
+    <steps_updated num="9">Heat a medium pan over medium heat. </steps_updated>
+    <steps_updated num="10">Add the bread cubes, in batches if necessary to keep from overcrowding the pan. </steps_updated>
+    <steps_updated num="11">Toast, tossing occasionally, until crispy and golden brown, about 5 minutes. </steps_updated>
+    <steps_updated num="12">Remove from the pan and season with salt. </steps_updated>
+    <steps_updated num="13">Set aside. </steps_updated>
+    <steps_updated num="14">The croutons can be made ahead. </steps_updated>
+    <steps_updated num="15">Store in an airtight container in a cool, dry place for up to 4 days. </steps_updated>
+    <steps_updated num="16">Make the shrimp: In a medium bowl, combine the shrimp, olive oil, garlic, lemon zest, salt, and pepper. </steps_updated>
+    <steps_updated num="17">Toss to coat the shrimp. </steps_updated>
+    <steps_updated num="18">Heat a medium skillet over medium-high heat. </steps_updated>
+    <steps_updated num="19">Working in batches, cook the shrimp for 2 minutes on each side, until pink and opaque. </steps_updated>
+    <steps_updated num="20">Remove from the pan. </steps_updated>
+    <steps_updated num="21">Thoroughly wash and dry the kale. </steps_updated>
+    <steps_updated num="22">Add to a large bowl and season with salt. </steps_updated>
+    <steps_updated num="23">Gently massage the kale to break down some of the fibrous texture. </steps_updated>
+    <steps_updated num="24">Toss with a bit of dressing to coat the leaves, then add more to taste. </steps_updated>
+    <steps_updated num="25">Add the croutons, shrimp, avocado, pomegranate seeds, and Parmesan. </steps_updated>
+    <steps_updated num="26">Toss well. </steps_updated>
+    <steps_updated num="27">Divide between bowls and serve immediately. </steps_updated>
+    <steps_updated num="28">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

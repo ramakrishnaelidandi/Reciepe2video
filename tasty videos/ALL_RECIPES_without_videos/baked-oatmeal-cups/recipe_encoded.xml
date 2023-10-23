@@ -1,0 +1,48 @@
+<recipe>
+  <title>Baked Oatmeal Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-oatmeal-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 2597 12708 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 5802 13278 1536 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 1879 13278 9373 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 8570 10907 5895 8988 9924 371 6507 13278 13125 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 9171 6818 13278 13412 5981 </ingredient>
+    <ingredient num="5">8580 2031 13278 1319 10937 </ingredient>
+    <ingredient num="6">13086 9517 13278 12060 803 6172 13278 1513 5981 </ingredient>
+    <ingredient num="7">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="8">3917 8071 13278 11088 12425 </ingredient>
+    <ingredient num="9">1580 8071 13278 11042 82 </ingredient>
+    <ingredient num="10">3297 371 12313 6507 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101624/hls24_1531339894.m3u8</low>
+    <high>https://vid.tasty.co/output/101624/landscape_720/1531339894</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">5570 9889 7268 8988 10907 9171 1285 308 13817 12708 210 5994 6389 7616 283 1681 4309 </step>
+    <step num="2">9179 1103 10765 8117 4654 13817 12051 12473 11974 560 772 11901 12826 9490 5108 </step>
+    <step num="3">1083 4428 669 5994 2362 12841 2860 13817 740 5677 371 12313 13316 7831 7990 1213 8927 5895 1681 11951 8365 14379 13352 10570 6183 1600 </step>
+    <step num="4">11144 9517 14138 11484 7754 6908 11374 11579 210 2237 2759 3801 901 2043 8264 560 11484 7754 5525 5569 658 7990 8580 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">5570 9889 7268 8988 10907 9171 1285 308 13817 12708 210 5994 6389 7616 </steps_updated>
+    <steps_updated num="2">283 1681 4309 </steps_updated>
+    <steps_updated num="3">9179 1103 10765 8117 4654 13817 12051 </steps_updated>
+    <steps_updated num="4">12473 11974 560 772 11901 12826 9490 5108 </steps_updated>
+    <steps_updated num="5">1083 4428 669 5994 2362 12841 2860 13817 740 5677 371 12313 13316 </steps_updated>
+    <steps_updated num="6">7831 7990 1213 8927 5895 1681 11951 8365 14379 13352 10570 6183 1600 </steps_updated>
+    <steps_updated num="7">11144 9517 14138 11484 7754 6908 11374 11579 210 2237 2759 3801 901 2043 8264 560 11484 7754 5525 5569 658 7990 8580 12689 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

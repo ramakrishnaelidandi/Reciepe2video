@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Carbonara Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-carbonara</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; avocado </ingredient>
+    <ingredient num="1">1 ; egg yolk </ingredient>
+    <ingredient num="2">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="3">1 clove ; garlic </ingredient>
+    <ingredient num="4">½ ; lemon, juiced </ingredient>
+    <ingredient num="5">½ cup ; parmesan cheese, grated ; (55 g) </ingredient>
+    <ingredient num="6">3 strips ; bacon </ingredient>
+    <ingredient num="7">½ lb ; spaghetti ; (230 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; olive oil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8837/low_1472568727.m3u8</low>
+    <high>https://vid.tasty.co/output/8837/mp4_720x1280/1472568727</high>
+  </video>
+  <steps>
+    <step num="0">Blend avocado, egg yolk, garlic, and lemon juice in a powerful blender or food processor. </step>
+    <step num="1">Pulse to blend and add heavy cream gradually. Blend the sauce until smooth and set aside. </step>
+    <step num="2">Cut up strips of bacon and cook in a large pan. Set aside. </step>
+    <step num="3">In a large pot, bring water to a boil and cook the spaghetti according to the package instructions. </step>
+    <step num="4">Drain and coat with olive oil. </step>
+    <step num="5">Add sauce, bacon, parmesan, salt and pepper, stirring until well-combined. </step>
+    <step num="6">Serve and sprinkle with parmesan. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Blend avocado, egg yolk, garlic, and lemon juice in a powerful blender or food processor. </steps_updated>
+    <steps_updated num="1">Pulse to blend and add heavy cream gradually. </steps_updated>
+    <steps_updated num="2">Blend the sauce until smooth and set aside. </steps_updated>
+    <steps_updated num="3">Cut up strips of bacon and cook in a large pan. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">In a large pot, bring water to a boil and cook the spaghetti according to the package instructions. </steps_updated>
+    <steps_updated num="6">Drain and coat with olive oil. </steps_updated>
+    <steps_updated num="7">Add sauce, bacon, parmesan, salt and pepper, stirring until well-combined. </steps_updated>
+    <steps_updated num="8">Serve and sprinkle with parmesan. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

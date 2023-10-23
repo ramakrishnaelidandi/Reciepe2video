@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Carne Asada Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carne-asada-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; russet potatoes </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; paprika </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="8">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="9">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="10">2 tablespoons ; fresh cilantro, minced </ingredient>
+    <ingredient num="11">½ cup ; fresh orange juice ; (120 mL) </ingredient>
+    <ingredient num="12">¼ cup ; fresh lime juice ; (60 mL) </ingredient>
+    <ingredient num="13">½ lb ; flank steak ; (225 g) </ingredient>
+    <ingredient num="14">1 tablespoon ; canola oil </ingredient>
+    <ingredient num="15">½ cup ; shredded Pepper Jack cheese ; (50 g) </ingredient>
+    <ingredient num="16">sour cream </ingredient>
+    <ingredient num="17">guacamole </ingredient>
+    <ingredient num="18">diced tomatoes </ingredient>
+    <ingredient num="19">fresh cilantro leaves </ingredient>
+    <ingredient num="20">cotija cheese, grated </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23959/low_1487113373.m3u8</low>
+    <high>https://vid.tasty.co/output/23959/mp4_720x1280/1487113373</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450°F (230°C). </step>
+    <step num="1">Rinse off your potatoes and give them a light scrub to remove any excess dirt. Dry with towel then cut into fries. </step>
+    <step num="2">In a large mixing bowl, combine potatoes, olive oil, salt, garlic powder, and paprika until each fry is fully coated in all of the spices. </step>
+    <step num="3">Place fries on a baking sheet lined with parchment paper and bake at 450°F (230°C) for 30-35 minutes or until the fries are crispy and golden brown. </step>
+    <step num="4">Marinate flank steak with salt, pepper, chili powder, oregano, garlic, cilantro, lime juice, and orange juice for 20 minutes. </step>
+    <step num="5">Heat up a cast-iron skillet with 1 tablespoon of canola oil. </step>
+    <step num="6">Place steak in the hot cast-iron skillet and cook for 3 minutes on both sides for a medium cooked steak. </step>
+    <step num="7">Take steak off the heat and let it rest for 10 minutes before dicing. </step>
+    <step num="8">In an ovenproof skillet, place baked french fries, pepper jack cheese, and diced carne asada, then broil until the cheese is melted. </step>
+    <step num="9">Top with sour cream, guacamole, diced tomatoes, cilantro, and cotija cheese. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450°F (230°C). </steps_updated>
+    <steps_updated num="1">Rinse off your potatoes and give them a light scrub to remove any excess dirt. </steps_updated>
+    <steps_updated num="2">Dry with towel then cut into fries. </steps_updated>
+    <steps_updated num="3">In a large mixing bowl, combine potatoes, olive oil, salt, garlic powder, and paprika until each fry is fully coated in all of the spices. </steps_updated>
+    <steps_updated num="4">Place fries on a baking sheet lined with parchment paper and bake at 450°F (230°C) for 30-35 minutes or until the fries are crispy and golden brown. </steps_updated>
+    <steps_updated num="5">Marinate flank steak with salt, pepper, chili powder, oregano, garlic, cilantro, lime juice, and orange juice for 20 minutes. </steps_updated>
+    <steps_updated num="6">Heat up a cast-iron skillet with 1 tablespoon of canola oil. </steps_updated>
+    <steps_updated num="7">Place steak in the hot cast-iron skillet and cook for 3 minutes on both sides for a medium cooked steak. </steps_updated>
+    <steps_updated num="8">Take steak off the heat and let it rest for 10 minutes before dicing. </steps_updated>
+    <steps_updated num="9">In an ovenproof skillet, place baked french fries, pepper jack cheese, and diced carne asada, then broil until the cheese is melted. </steps_updated>
+    <steps_updated num="10">Top with sour cream, guacamole, diced tomatoes, cilantro, and cotija cheese. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

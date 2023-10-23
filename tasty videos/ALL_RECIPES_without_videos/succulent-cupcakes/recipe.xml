@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Succulent Cupcakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/succulent-cupcakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 oz ; vanilla cake mix, batter prepared according to package instructions ; (430 g) </ingredient>
+    <ingredient num="1">1 cup ; chocolate frosting ; (115 g) </ingredient>
+    <ingredient num="2">4 cups ; buttercream frosting ; (460 g) </ingredient>
+    <ingredient num="3">food coloring, assorted </ingredient>
+    <ingredient num="4">12 ; cupcake liners, orange </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Casual Party</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130658/hls24_1556044185.m3u8</low>
+    <high>https://vid.tasty.co/output/130658/landscape_720/1556044185</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">Prepare the cake batter according to the package instructions. </step>
+    <step num="2">Line a 12-cup muffin tin with the orange liners. </step>
+    <step num="3">Scoop ¼ cup (30 G) of cake batter into each cup. Bake according to the package instructions, until a toothpick inserted in the center of a cupcake comes out clean. Let cool for 30 minutes. </step>
+    <step num="4">Frost each cupcake with a flat layer of chocolate frosting. </step>
+    <step num="5">Divide the buttercream frosting between small bowls and dye with gel food coloring as desired. Transfer the colored buttercream to piping bags fitted with your desired tips. </step>
+    <step num="6">Pipe succulent shapes onto the cupcakes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Prepare the cake batter according to the package instructions. </steps_updated>
+    <steps_updated num="2">Line a 12-cup muffin tin with the orange liners. </steps_updated>
+    <steps_updated num="3">Scoop ¼ cup (30 G) of cake batter into each cup. </steps_updated>
+    <steps_updated num="4">Bake according to the package instructions, until a toothpick inserted in the center of a cupcake comes out clean. </steps_updated>
+    <steps_updated num="5">Let cool for 30 minutes. </steps_updated>
+    <steps_updated num="6">Frost each cupcake with a flat layer of chocolate frosting. </steps_updated>
+    <steps_updated num="7">Divide the buttercream frosting between small bowls and dye with gel food coloring as desired. </steps_updated>
+    <steps_updated num="8">Transfer the colored buttercream to piping bags fitted with your desired tips. </steps_updated>
+    <steps_updated num="9">Pipe succulent shapes onto the cupcakes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<recipe>
+  <title>Grape Fruit Rollers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grape-fruit-rollers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fall-flavored-fruit-rollers</comp_url>
+  <ingredients>
+    <ingredient num="0">5527 643 13278 8083 11064 13278 4304 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 597 5921 </ingredient>
+    <ingredient num="2">3917 8071 13278 597 10522 </ingredient>
+    <ingredient num="3">13086 9486 13278 9586 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111266/hls24_1538670683.m3u8</low>
+    <high>https://vid.tasty.co/output/111266/landscape_720/1538670683</high>
+  </video>
+  <duration>
+    <start_time>92.0</start_time>
+    <end_time>133.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 7108 3286 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">10950 5994 8016 5349 4120 11951 9251 597 9342 597 7654 13817 181 3693 1681 12119 </step>
+    <step num="2">12785 11951 5042 560 5994 13757 5687 11770 3996 7855 13817 2550 7990 13133 11004 1681 3152 </step>
+    <step num="3">2988 11951 5042 4255 11951 9864 10765 213 669 2237 5713 2005 1827 6285 753 2985 10187 51 13025 </step>
+    <step num="4">7831 7990 11061 13199 5895 1681 6728 4860 8728 560 11951 1744 1828 10694 3936 </step>
+    <step num="5">7692 11951 6504 213 210 11951 3550 8831 10815 11951 4138 415 12205 1419 669 1318 8891 1645 13637 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 7108 3286 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">10950 5994 8016 5349 4120 11951 9251 597 9342 597 7654 13817 181 </steps_updated>
+    <steps_updated num="3">3693 1681 12119 </steps_updated>
+    <steps_updated num="4">12785 11951 5042 560 5994 13757 5687 11770 3996 7855 13817 2550 7990 13133 11004 1681 3152 </steps_updated>
+    <steps_updated num="5">2988 11951 5042 4255 11951 9864 10765 213 669 2237 5713 2005 1827 6285 753 2985 10187 51 13025 </steps_updated>
+    <steps_updated num="6">7831 7990 11061 13199 5895 1681 6728 4860 8728 560 11951 1744 </steps_updated>
+    <steps_updated num="7">1828 10694 3936 </steps_updated>
+    <steps_updated num="8">7692 11951 6504 213 210 11951 3550 8831 </steps_updated>
+    <steps_updated num="9">10815 11951 4138 415 12205 1419 669 1318 8891 1645 13637 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

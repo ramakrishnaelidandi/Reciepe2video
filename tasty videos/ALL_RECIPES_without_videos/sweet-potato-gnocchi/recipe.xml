@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato Gnocchi</title>
+  <url>https://tasty.co/recipe/sweet-potato-gnocchi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; sweet potato </ingredient>
+    <ingredient num="1">½ cup ; vegetarian parmesan cheese, grated ; (55 g) </ingredient>
+    <ingredient num="2">1 ; egg </ingredient>
+    <ingredient num="3">2 cups ; flour, plus more to dust ; (250 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; butter </ingredient>
+    <ingredient num="5">2 leaves ; fresh sage </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69039/hls24_1513706674.m3u8</low>
+    <high>https://vid.tasty.co/output/69039/landscape_720/1513706674</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400º F (200º C). </step>
+    <step num="1">Prick the sweet potato with a fork several times and bake for 40 minutes (or microwave for 5 minutes). </step>
+    <step num="2">Allow potato to cool at least 5 minutes before peeling skin off. </step>
+    <step num="3">In a large bowl, mash potato with masher or fork until smooth. </step>
+    <step num="4">Add parmesan cheese, egg, and flour. Knead the dough until it is firm and no longer sticky, adding flour as needed, forming a ball with the dough. </step>
+    <step num="5">Divide the dough into four equal parts. Take one part and roll it out into a long rope, about a 1-inch (2 ½ cm) wide. </step>
+    <step num="6">Slice into ½-inch (1 cm) rectangles and set aside. </step>
+    <step num="7">Using an overturned fork, slide each gnocchi over the fork prongs so they become serrated in a corkscrew shape. </step>
+    <step num="8">Bring a large pot of water to a boil and add the gnocchi. Boil until the gnocchi float to the top, about 1-2 minutes. Drain in a colander. </step>
+    <step num="9">In a pan over medium heat, melt butter and add sage. Simmer for 1 minute without letting butter burn. </step>
+    <step num="10">Add gnocchi to pan with the sage and butter, tossing until lightly golden. </step>
+    <step num="11">Top with more Parmesan cheese. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400º F (200º C). </steps_updated>
+    <steps_updated num="1">Prick the sweet potato with a fork several times and bake for 40 minutes (or microwave for 5 minutes). </steps_updated>
+    <steps_updated num="2">Allow potato to cool at least 5 minutes before peeling skin off. </steps_updated>
+    <steps_updated num="3">In a large bowl, mash potato with masher or fork until smooth. </steps_updated>
+    <steps_updated num="4">Add parmesan cheese, egg, and flour. </steps_updated>
+    <steps_updated num="5">Knead the dough until it is firm and no longer sticky, adding flour as needed, forming a ball with the dough. </steps_updated>
+    <steps_updated num="6">Divide the dough into four equal parts. </steps_updated>
+    <steps_updated num="7">Take one part and roll it out into a long rope, about a 1-inch (2 ½ cm) wide. </steps_updated>
+    <steps_updated num="8">Slice into ½-inch (1 cm) rectangles and set aside. </steps_updated>
+    <steps_updated num="9">Using an overturned fork, slide each gnocchi over the fork prongs so they become serrated in a corkscrew shape. </steps_updated>
+    <steps_updated num="10">Bring a large pot of water to a boil and add the gnocchi. </steps_updated>
+    <steps_updated num="11">Boil until the gnocchi float to the top, about 1-2 minutes. </steps_updated>
+    <steps_updated num="12">Drain in a colander. </steps_updated>
+    <steps_updated num="13">In a pan over medium heat, melt butter and add sage. </steps_updated>
+    <steps_updated num="14">Simmer for 1 minute without letting butter burn. </steps_updated>
+    <steps_updated num="15">Add gnocchi to pan with the sage and butter, tossing until lightly golden. </steps_updated>
+    <steps_updated num="16">Top with more Parmesan cheese. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

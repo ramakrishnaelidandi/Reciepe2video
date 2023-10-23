@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Mashed Sweet Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-mashed-sweet-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; sweet potatoes </ingredient>
+    <ingredient num="1">2 tablespoons ; butter ; (30 g) </ingredient>
+    <ingredient num="2">¼ cup ; heavy cream ; (60 mL) </ingredient>
+    <ingredient num="3">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Sides</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29433/low_1492463441.m3u8</low>
+    <high>https://vid.tasty.co/output/29433/mp4_720x1280/1492463441</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>19.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add potatoes to a large pot of salted water. Place over medium/high heat and bring to a boil. Cook until fork tender, about 15-20 minutes. </step>
+    <step num="1">Drain, peel, and mash potatoes until they reach a smooth consistency. </step>
+    <step num="2">Add remaining ingredients to mash and mix to incorporate. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add potatoes to a large pot of salted water. </steps_updated>
+    <steps_updated num="1">Place over medium/high heat and bring to a boil. </steps_updated>
+    <steps_updated num="2">Cook until fork tender, about 15-20 minutes. </steps_updated>
+    <steps_updated num="3">Drain, peel, and mash potatoes until they reach a smooth consistency. </steps_updated>
+    <steps_updated num="4">Add remaining ingredients to mash and mix to incorporate. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00593</end_time>
+  </duration_human>
+</recipe>

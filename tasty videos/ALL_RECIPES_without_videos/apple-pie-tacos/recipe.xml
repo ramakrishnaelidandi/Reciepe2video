@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; granny smith apples </ingredient>
+    <ingredient num="1">½ ; lemon, juiced </ingredient>
+    <ingredient num="2">2 tablespoons ; butter </ingredient>
+    <ingredient num="3">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="6">2 ; large flour tortillas </ingredient>
+    <ingredient num="7">¼ cup ; melted butter ; (60 g) </ingredient>
+    <ingredient num="8">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="9">½ tablespoon ; cinnamon </ingredient>
+    <ingredient num="10">vanilla ice cream, for serving </ingredient>
+    <ingredient num="11">caramel sauce, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97094/hls24_1528137560.m3u8</low>
+    <high>https://vid.tasty.co/output/97094/landscape_720/1528137560</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">Peel and core the apples. Soak the peeled apples in a large bowl filled with water and lemon juice so they won’t brown. Working one at a time, thinly slice the apples. </step>
+    <step num="2">Melt the butter in a medium saucepan over medium heat. Add the apple slices and sprinkle with the sugar, cinnamon, and nutmeg. Stir continuously and cook until the apples are soft, about 10 minutes. Remove the pan from the heat. </step>
+    <step num="3">Make the taco shells: Using a cookie cutter or the lid of a mason jar, cut out 14 small circles from the tortillas. </step>
+    <step num="4">Brush the small tortilla rounds with melted butter and coat with cinnamon sugar. Shape the cut-out tortillas to look like taco shells and place between the cups of an upside-down muffin tin to hold their shapes. </step>
+    <step num="5">Bake for 10 minutes, or until golden brown. Let the taco shells cool until easy to handle. </step>
+    <step num="6">Spoon the apple pie filling into the taco shells. Top with small scoops of vanilla ice cream and drizzle with caramel sauce. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Peel and core the apples. </steps_updated>
+    <steps_updated num="2">Soak the peeled apples in a large bowl filled with water and lemon juice so they won’t brown. </steps_updated>
+    <steps_updated num="3">Working one at a time, thinly slice the apples. </steps_updated>
+    <steps_updated num="4">Melt the butter in a medium saucepan over medium heat. </steps_updated>
+    <steps_updated num="5">Add the apple slices and sprinkle with the sugar, cinnamon, and nutmeg. </steps_updated>
+    <steps_updated num="6">Stir continuously and cook until the apples are soft, about 10 minutes. </steps_updated>
+    <steps_updated num="7">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="8">Make the taco shells: Using a cookie cutter or the lid of a mason jar, cut out 14 small circles from the tortillas. </steps_updated>
+    <steps_updated num="9">Brush the small tortilla rounds with melted butter and coat with cinnamon sugar. </steps_updated>
+    <steps_updated num="10">Shape the cut-out tortillas to look like taco shells and place between the cups of an upside-down muffin tin to hold their shapes. </steps_updated>
+    <steps_updated num="11">Bake for 10 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="12">Let the taco shells cool until easy to handle. </steps_updated>
+    <steps_updated num="13">Spoon the apple pie filling into the taco shells. </steps_updated>
+    <steps_updated num="14">Top with small scoops of vanilla ice cream and drizzle with caramel sauce. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

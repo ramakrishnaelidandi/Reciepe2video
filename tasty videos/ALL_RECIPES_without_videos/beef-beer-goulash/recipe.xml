@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef Beer Goulash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-beer-goulash</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; butter </ingredient>
+    <ingredient num="1">2.2 lb ; stewing beef ; (1 kg) </ingredient>
+    <ingredient num="2">3 teaspoons ; salt, divided </ingredient>
+    <ingredient num="3">3 teaspoons ; pepper, divided </ingredient>
+    <ingredient num="4">1 ; onion, diced </ingredient>
+    <ingredient num="5">1 stalk ; celery, diced </ingredient>
+    <ingredient num="6">1 ; carrot, diced </ingredient>
+    <ingredient num="7">3 cups ; dark beer ; (700 mL) </ingredient>
+    <ingredient num="8">2 tablespoons ; tomato puree </ingredient>
+    <ingredient num="9">2 ; bay leaves </ingredient>
+    <ingredient num="10">5 ; juniper berries </ingredient>
+    <ingredient num="11">1 ; parsley, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">German</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/61706/low_1510609071.m3u8</low>
+    <high>https://vid.tasty.co/output/61706/mp4_720x1280/1510609071</high>
+  </video>
+  <steps>
+    <step num="0">Heat half of the butter in large pot or Dutch oven. </step>
+    <step num="1">Add the beef, in batches, browning all sides of the meat. Season with 1 teaspoon of salt and pepper. Transfer the beef to a bowl and set aside. Clean the pot. </step>
+    <step num="2">In the same pan, heat remaining butter, then add in the onion, celery, and carrot. Cook until softened. </step>
+    <step num="3">Add in the beer. </step>
+    <step num="4">With a wooden spatula, scrape off the browned bits on the bottom of the pan to further flavour the stock. </step>
+    <step num="5">Add in the seared beef, tomato purée, bay leaves, juniper berries, and 2 teaspoons each of salt and pepper. </step>
+    <step num="6">Bring the stew to a boil, cover, and simmer for 2-4 hours, until the beef becomes tender. </step>
+    <step num="7">Serve topped with parsley. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat half of the butter in large pot or Dutch oven. </steps_updated>
+    <steps_updated num="1">Add the beef, in batches, browning all sides of the meat. </steps_updated>
+    <steps_updated num="2">Season with 1 teaspoon of salt and pepper. </steps_updated>
+    <steps_updated num="3">Transfer the beef to a bowl and set aside. </steps_updated>
+    <steps_updated num="4">Clean the pot. </steps_updated>
+    <steps_updated num="5">In the same pan, heat remaining butter, then add in the onion, celery, and carrot. </steps_updated>
+    <steps_updated num="6">Cook until softened. </steps_updated>
+    <steps_updated num="7">Add in the beer. </steps_updated>
+    <steps_updated num="8">With a wooden spatula, scrape off the browned bits on the bottom of the pan to further flavour the stock. </steps_updated>
+    <steps_updated num="9">Add in the seared beef, tomato purée, bay leaves, juniper berries, and 2 teaspoons each of salt and pepper. </steps_updated>
+    <steps_updated num="10">Bring the stew to a boil, cover, and simmer for 2-4 hours, until the beef becomes tender. </steps_updated>
+    <steps_updated num="11">Serve topped with parsley. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

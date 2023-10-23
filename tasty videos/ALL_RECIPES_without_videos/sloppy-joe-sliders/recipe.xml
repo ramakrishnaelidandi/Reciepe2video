@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sloppy Joe Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sloppy-joe-sliders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">½ ; white onion, diced </ingredient>
+    <ingredient num="4">1 clove ; garlic, minced </ingredient>
+    <ingredient num="5">¾ cup ; ketchup ; (180 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; mustard </ingredient>
+    <ingredient num="7">1 teaspoon ; worcestershire sauce </ingredient>
+    <ingredient num="8">2 teaspoons ; brown sugar </ingredient>
+    <ingredient num="9">1 pack ; dinner roll </ingredient>
+    <ingredient num="10">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="11">2 tablespoons ; butter, melted </ingredient>
+    <ingredient num="12">sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33369/low_1496445186.m3u8</low>
+    <high>https://vid.tasty.co/output/33369/mp4_720x1280/1496445186</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">In a saucepan over medium heat, add the ground beef and sprinkle with salt and pepper. </step>
+    <step num="2">Using a spoon, break up the meat and stir until browned. </step>
+    <step num="3">Add the onion and garlic and continue to cook until the onions are translucent. </step>
+    <step num="4">Add the ketchup, mustard, Worcestershire, and brown sugar. </step>
+    <step num="5">Stir until the meat is fully cooked and sauce is evenly combined. Set aside. </step>
+    <step num="6">Cut the dinner rolls in half and place the bottom half in a baking pan. </step>
+    <step num="7">Top with meat and sprinkle with cheese. Place the top of the rolls back on top. </step>
+    <step num="8">Brush the rolls with melted butter and sprinkle with sesame seeds. </step>
+    <step num="9">Bake for 10 minutes, or until rolls are toasted and cheese is melted. </step>
+    <step num="10">Cut into individual sliders. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a saucepan over medium heat, add the ground beef and sprinkle with salt and pepper. </steps_updated>
+    <steps_updated num="2">Using a spoon, break up the meat and stir until browned. </steps_updated>
+    <steps_updated num="3">Add the onion and garlic and continue to cook until the onions are translucent. </steps_updated>
+    <steps_updated num="4">Add the ketchup, mustard, Worcestershire, and brown sugar. </steps_updated>
+    <steps_updated num="5">Stir until the meat is fully cooked and sauce is evenly combined. </steps_updated>
+    <steps_updated num="6">Set aside. </steps_updated>
+    <steps_updated num="7">Cut the dinner rolls in half and place the bottom half in a baking pan. </steps_updated>
+    <steps_updated num="8">Top with meat and sprinkle with cheese. </steps_updated>
+    <steps_updated num="9">Place the top of the rolls back on top. </steps_updated>
+    <steps_updated num="10">Brush the rolls with melted butter and sprinkle with sesame seeds. </steps_updated>
+    <steps_updated num="11">Bake for 10 minutes, or until rolls are toasted and cheese is melted. </steps_updated>
+    <steps_updated num="12">Cut into individual sliders. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

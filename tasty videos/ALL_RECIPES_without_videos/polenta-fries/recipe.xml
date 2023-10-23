@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Polenta Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/polenta-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray, for greasing </ingredient>
+    <ingredient num="1">2 ½ cups ; milk, of choice ; (600 mL) </ingredient>
+    <ingredient num="2">2 ½ cups ; vegetable broth ; (600 mL) </ingredient>
+    <ingredient num="3">2 cups ; polenta ; (320 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; unsalted butter </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="8">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="9">½ teaspoon ; dried rosemary </ingredient>
+    <ingredient num="10">olive oil, for brushing (if baking) </ingredient>
+    <ingredient num="11">4 cups ; canola oil, if frying ; (960 mL) </ingredient>
+    <ingredient num="12">½ cup ; mayonnaise ; (120 g) </ingredient>
+    <ingredient num="13">1 clove ; garlic, minced </ingredient>
+    <ingredient num="14">1 tablespoon ; fresh parsley, chopped </ingredient>
+    <ingredient num="15">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="16">salt, to taste </ingredient>
+    <ingredient num="17">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103818/hls24_1533149293.m3u8</low>
+    <high>https://vid.tasty.co/output/103818/landscape_720/1533149293</high>
+  </video>
+  <steps>
+    <step num="0">Grease a baking sheet with nonstick spray. </step>
+    <step num="1">In a medium pot over high heat, add the milk and vegetable broth and bring to a boil. </step>
+    <step num="2">Whisk in the polenta and reduce the heat to low, whisking continuously for about 5 minutes, or until all the liquid has been absorbed and the polenta is creamy. </step>
+    <step num="3">Add the butter, salt, pepper, oregano, thyme, and rosemary and stir until well-combined. </step>
+    <step num="4">Transfer the polenta to the prepared baking sheet and spread out evenly with a spatula. Chill for at least 2 hours or up to 3 days to set. </step>
+    <step num="5">If baking, preheat the oven to 425ºF (220ºC). </step>
+    <step num="6">Make the aioli: Combine the mayonnaise, garlic, parsley, and lemon juice, salt, and pepper in a small bowl and mix until well-combined. Chill until ready to use. </step>
+    <step num="7">Carefully flip the baking sheet onto a cutting board to release the polenta. Slice in half lengthwise, and then cut into 22 equal-sized fries, each about 4 inches (10 cm) long and 1 inch (2 ½ cm) wide. </step>
+    <step num="8">If baking, use a spatula to transfer the fries onto wire racks set over 2 baking sheets. Brush each fry generously with olive oil. Bake for 30 minutes, flipping halfway through and brushing with more oil, until golden brown. </step>
+    <step num="9">If frying, heat the canola oil in a large pot until it reaches 375ºF (190ºC). Using a large spider, submerge 2 fries at a time into the oil and fry for 2-4 minutes, until golden brown and crispy. Remove from the oil and transfer to a plate lined with paper towels to cool for at least 5 minutes. </step>
+    <step num="10">Serve the fries with aioli. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Grease a baking sheet with nonstick spray. </steps_updated>
+    <steps_updated num="1">In a medium pot over high heat, add the milk and vegetable broth and bring to a boil. </steps_updated>
+    <steps_updated num="2">Whisk in the polenta and reduce the heat to low, whisking continuously for about 5 minutes, or until all the liquid has been absorbed and the polenta is creamy. </steps_updated>
+    <steps_updated num="3">Add the butter, salt, pepper, oregano, thyme, and rosemary and stir until well-combined. </steps_updated>
+    <steps_updated num="4">Transfer the polenta to the prepared baking sheet and spread out evenly with a spatula. </steps_updated>
+    <steps_updated num="5">Chill for at least 2 hours or up to 3 days to set. </steps_updated>
+    <steps_updated num="6">If baking, preheat the oven to 425ºF (220ºC). </steps_updated>
+    <steps_updated num="7">Make the aioli: Combine the mayonnaise, garlic, parsley, and lemon juice, salt, and pepper in a small bowl and mix until well-combined. </steps_updated>
+    <steps_updated num="8">Chill until ready to use. </steps_updated>
+    <steps_updated num="9">Carefully flip the baking sheet onto a cutting board to release the polenta. </steps_updated>
+    <steps_updated num="10">Slice in half lengthwise, and then cut into 22 equal-sized fries, each about 4 inches (10 cm) long and 1 inch (2 ½ cm) wide. </steps_updated>
+    <steps_updated num="11">If baking, use a spatula to transfer the fries onto wire racks set over 2 baking sheets. </steps_updated>
+    <steps_updated num="12">Brush each fry generously with olive oil. </steps_updated>
+    <steps_updated num="13">Bake for 30 minutes, flipping halfway through and brushing with more oil, until golden brown. </steps_updated>
+    <steps_updated num="14">If frying, heat the canola oil in a large pot until it reaches 375ºF (190ºC). </steps_updated>
+    <steps_updated num="15">Using a large spider, submerge 2 fries at a time into the oil and fry for 2-4 minutes, until golden brown and crispy. </steps_updated>
+    <steps_updated num="16">Remove from the oil and transfer to a plate lined with paper towels to cool for at least 5 minutes. </steps_updated>
+    <steps_updated num="17">Serve the fries with aioli. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

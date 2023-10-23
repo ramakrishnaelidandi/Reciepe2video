@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cloud Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cloud-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; eggs </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31425/low_1494607751.m3u8</low>
+    <high>https://vid.tasty.co/output/31425/mp4_720x1280/1494607751</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 230°C (450°F). </step>
+    <step num="1">Separate the egg yolks from the egg whites. Save the yolks for later. </step>
+    <step num="2">Place the egg whites in a large bowl. Using an electric hand whisk, whisk on a high speed until soft peaks form. </step>
+    <step num="3">Fold in salt and pepper. </step>
+    <step num="4">Spoon the egg whites onto a baking tray and make a well in the middle, for the yolks to go in later. </step>
+    <step num="5">Bake for 8-10 minutes. </step>
+    <step num="6">Drop the yolks into the whites and bake for a further 3 minutes. </step>
+    <step num="7">Serve on toast or with sides of your choice. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 230°C (450°F). </steps_updated>
+    <steps_updated num="1">Separate the egg yolks from the egg whites. </steps_updated>
+    <steps_updated num="2">Save the yolks for later. </steps_updated>
+    <steps_updated num="3">Place the egg whites in a large bowl. </steps_updated>
+    <steps_updated num="4">Using an electric hand whisk, whisk on a high speed until soft peaks form. </steps_updated>
+    <steps_updated num="5">Fold in salt and pepper. </steps_updated>
+    <steps_updated num="6">Spoon the egg whites onto a baking tray and make a well in the middle, for the yolks to go in later. </steps_updated>
+    <steps_updated num="7">Bake for 8-10 minutes. </steps_updated>
+    <steps_updated num="8">Drop the yolks into the whites and bake for a further 3 minutes. </steps_updated>
+    <steps_updated num="9">Serve on toast or with sides of your choice. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

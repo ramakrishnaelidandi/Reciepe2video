@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach &amp; Artichoke Avocado Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-artichoke-avocado-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-toast-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">bread, toasted </ingredient>
+    <ingredient num="1">2 tablespoons ; spinach and artichoke dip </ingredient>
+    <ingredient num="2">½ ; avocado, sliced </ingredient>
+    <ingredient num="3">2 tablespoons ; parmesan cheese, shaved </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31699/low_1494972610.m3u8</low>
+    <high>https://vid.tasty.co/output/31699/mp4_720x1280/1494972610</high>
+  </video>
+  <duration>
+    <start_time>78.3</start_time>
+    <end_time>89.49</end_time>
+  </duration>
+  <steps>
+    <step num="0">Spread spinach and artichoke dip on toast. </step>
+    <step num="1">Top with sliced avocado and shaved Parmesan cheese, and sprinkle with parsley. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Spread spinach and artichoke dip on toast. </steps_updated>
+    <steps_updated num="1">Top with sliced avocado and shaved Parmesan cheese, and sprinkle with parsley. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02404</start_time>
+    <end_time>02715</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,46 @@
+<recipe>
+  <title>Very Berry Sangria Float Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/very-berry-sangria-float</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sangria-sorbet-floats</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 13098 1088 516 7789 3305 13873 7990 4711 13278 757 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 8770 13278 757 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 356 13278 9373 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 1421 13278 11953 5981 </ingredient>
+    <ingredient num="4">3917 1460 13278 2721 3739 </ingredient>
+    <ingredient num="5">1580 2605 13278 4768 14102 13278 2935 8007 </ingredient>
+    <ingredient num="6">8580 9517 13278 2230 3294 13278 4551 8007 </ingredient>
+    <ingredient num="7">3917 2952 13278 8770 10393 13278 7465 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96725/hls24_1527808667.m3u8</low>
+    <high>https://vid.tasty.co/output/96725/landscape_720/1527808667</high>
+  </video>
+  <duration>
+    <start_time>34.5</start_time>
+    <end_time>67.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 7961 4120 11951 7234 9764 6289 4406 2721 12387 13817 4768 8479 12473 13817 173 7990 7811 767 13086 13199 5895 14142 </step>
+    <step num="1">11233 12550 560 7397 5103 11951 11856 6781 11951 7111 13817 740 11951 597 9712 14663 11982 6142 560 1011 </step>
+    <step num="2">5570 6620 2192 10548 371 8770 10393 210 5994 6369 1083 11951 5695 11770 11951 10393 13817 6142 1391 5994 1818 </step>
+    <step num="3">13688 1391 5994 6209 7563 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 7961 4120 11951 7234 9764 6289 4406 2721 12387 13817 4768 8479 </steps_updated>
+    <steps_updated num="1">12473 13817 173 7990 7811 767 13086 13199 5895 14142 </steps_updated>
+    <steps_updated num="2">11233 12550 560 7397 5103 11951 11856 6781 11951 7111 13817 740 11951 597 9712 14663 </steps_updated>
+    <steps_updated num="3">11982 6142 560 1011 </steps_updated>
+    <steps_updated num="4">5570 6620 2192 10548 371 8770 10393 210 5994 6369 </steps_updated>
+    <steps_updated num="5">1083 11951 5695 11770 11951 10393 13817 6142 1391 5994 1818 </steps_updated>
+    <steps_updated num="6">13688 1391 5994 6209 7563 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

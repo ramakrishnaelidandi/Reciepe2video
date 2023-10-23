@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Orangesicle Soda Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/orangesicle-soda</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/natural-fruit-herb-sodas-x-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; simple syrup ; (120 mL) </ingredient>
+    <ingredient num="1">¾ cup ; orange juice, freshly squeezed ; (180 mL) </ingredient>
+    <ingredient num="2">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="3">seltzer water, for serving </ingredient>
+    <ingredient num="4">orange, sliced into wheels, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121304/hls24_1545866741.m3u8</low>
+    <high>https://vid.tasty.co/output/121304/landscape_720/1545866741</high>
+  </video>
+  <duration>
+    <start_time>141.0</start_time>
+    <end_time>175.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small saucepan over medium heat, combine the simple syrup, orange juice, and vanilla. Simmer for 5 minutes, until slightly reduced. Remove from the heat and let cool completely. </step>
+    <step num="1">Once the syrup is cool, strain into an airtight glass container and store in the refrigerator for up to 1 month. </step>
+    <step num="2">To make the soda, pour 1 cup (240 ml) of seltzer water into a glass filled with ice and add 1-2 tablespoons of syrup. Stir to combine. Garnish with orange wheels, if desired. </step>
+    <step num="3">Nutrition, per 1 tablespoon:
+Calories: 20
+Sugar: 5 grams </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan over medium heat, combine the simple syrup, orange juice, and vanilla. </steps_updated>
+    <steps_updated num="1">Simmer for 5 minutes, until slightly reduced. </steps_updated>
+    <steps_updated num="2">Remove from the heat and let cool completely. </steps_updated>
+    <steps_updated num="3">Once the syrup is cool, strain into an airtight glass container and store in the refrigerator for up to 1 month. </steps_updated>
+    <steps_updated num="4">To make the soda, pour 1 cup (240 ml) of seltzer water into a glass filled with ice and add 1-2 tablespoons of syrup. </steps_updated>
+    <steps_updated num="5">Stir to combine. </steps_updated>
+    <steps_updated num="6">Garnish with orange wheels, if desired. </steps_updated>
+    <steps_updated num="7">Nutrition, per 1 tablespoon:
+Calories: 20
+Sugar: 5 grams </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

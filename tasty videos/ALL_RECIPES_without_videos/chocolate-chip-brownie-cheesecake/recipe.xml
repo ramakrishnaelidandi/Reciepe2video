@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Chip 'Box' Brownie Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-chip-brownie-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; brownie mix, and ingredients needed to make them </ingredient>
+    <ingredient num="1">15 oz ; cream cheese, softened ; (450 g) </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="4">8 oz ; whipped cream, or whipped topping ; (225 g) </ingredient>
+    <ingredient num="5">1 cup ; chocolate chips ; (175 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32244/low_1495125497.m3u8</low>
+    <high>https://vid.tasty.co/output/32244/mp4_720x1280/1495125497</high>
+  </video>
+  <steps>
+    <step num="0">Prepare the brownie mix according to package instructions, and pour the batter into a springform pan. Bake according to package instructions, and cool completely. </step>
+    <step num="1">Beat cream cheese and sugar until smooth. </step>
+    <step num="2">Fold in vanilla and whipped cream, then fold in the chocolate chips. </step>
+    <step num="3">Spread cream cheese mixture over the cooled brownie in the springform pan. </step>
+    <step num="4">Decorate with toppings of your choice, or just leave it plain! </step>
+    <step num="5">Refrigerate for at least 4 hours before serving. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare the brownie mix according to package instructions, and pour the batter into a springform pan. </steps_updated>
+    <steps_updated num="1">Bake according to package instructions, and cool completely. </steps_updated>
+    <steps_updated num="2">Beat cream cheese and sugar until smooth. </steps_updated>
+    <steps_updated num="3">Fold in vanilla and whipped cream, then fold in the chocolate chips. </steps_updated>
+    <steps_updated num="4">Spread cream cheese mixture over the cooled brownie in the springform pan. </steps_updated>
+    <steps_updated num="5">Decorate with toppings of your choice, or just leave it plain! </steps_updated>
+    <steps_updated num="6">Refrigerate for at least 4 hours before serving. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

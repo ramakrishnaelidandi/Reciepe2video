@@ -1,0 +1,58 @@
+<recipe>
+  <title>Truffle Mac &#8216;n&#8217; Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/truffle-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-decadent-dinner-for-one</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 10907 3247 </ingredient>
+    <ingredient num="1">3917 2605 13278 9325 976 13278 3433 5981 </ingredient>
+    <ingredient num="2">3917 2157 13278 82 </ingredient>
+    <ingredient num="3">3917 2157 13278 7845 </ingredient>
+    <ingredient num="4">8580 9486 13278 890 </ingredient>
+    <ingredient num="5">3917 2605 13278 5802 13278 7503 8007 </ingredient>
+    <ingredient num="6">3917 2605 13278 3333 109 14538 13278 7289 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 3333 9784 14538 13278 11953 5981 </ingredient>
+    <ingredient num="8">8580 9517 13278 9636 5444 3745 13278 5348 5981 </ingredient>
+    <ingredient num="9">7349 5766 </ingredient>
+    <ingredient num="10">3962 6209 3938 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23601/low_1486685439.m3u8</low>
+    <high>https://vid.tasty.co/output/23601/mp4_720x1280/1486685439</high>
+  </video>
+  <duration>
+    <start_time>59.0</start_time>
+    <end_time>98.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">12305 3917 14014 371 9924 210 5994 13757 10083 11770 13757 2082 9179 11951 9806 12610 13817 7845 13817 2550 1681 11951 14094 12573 2296 6054 6781 11951 4771 </step>
+    <step num="1">9179 11951 374 8580 9486 371 9924 13817 11951 890 560 11951 4771 283 1681 11951 890 9490 12508 205 8580 12689 </step>
+    <step num="2">9179 11951 5802 3343 5693 1616 560 3144 5789 264 1681 11951 2260 9490 3152 </step>
+    <step num="3">283 210 11951 3220 13817 9784 8136 13817 12616 1391 82 13817 12375 </step>
+    <step num="4">9179 11951 3745 950 13817 13421 9393 1681 11951 2260 10469 11951 950 3631 </step>
+    <step num="5">13494 1391 7349 5766 13817 7532 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 13799 6983 9924 13817 2550 14094 1681 2021 </steps_updated>
+    <steps_updated num="1">6054 6781 4771 </steps_updated>
+    <steps_updated num="2">10950 11951 5540 13799 740 8580 9486 371 9924 13817 13290 </steps_updated>
+    <steps_updated num="3">9393 1391 5994 8341 1681 890 9490 8421 205 8580 12689 </steps_updated>
+    <steps_updated num="4">9179 5802 13817 4861 560 8341 2956 4859 560 5563 </steps_updated>
+    <steps_updated num="5">9393 210 14538 13817 10968 1681 11951 2260 3370 560 13218 14602 </steps_updated>
+    <steps_updated num="6">9179 210 3745 950 13817 13421 </steps_updated>
+    <steps_updated num="7">9393 1681 2260 7568 10469 11951 4466 </steps_updated>
+    <steps_updated num="8">13494 3557 3482 1391 3938 13817 7349 14158 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01624</start_time>
+    <end_time>03298</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,41 @@
+<recipe>
+  <title>BBQ Chicken Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 7983 7678 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">11061 9486 13278 4716 2260 </ingredient>
+    <ingredient num="4">1580 13278 12384 976 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">BBQ</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39426/low_1498728774.m3u8</low>
+    <high>https://vid.tasty.co/output/39426/mp4_1280X720/1498728774</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">5570 7983 376 210 5994 10765 6325 10242 7983 1391 82 13817 10986 560 8686 </step>
+    <step num="2">2988 4716 2260 4255 10763 7983 11118 </step>
+    <step num="3">10452 11453 4255 10707 371 11951 9104 </step>
+    <step num="4">7831 7990 11203 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">5570 7983 376 210 5994 10765 6325 </steps_updated>
+    <steps_updated num="2">10242 7983 1391 82 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="3">2988 4716 2260 4255 10763 7983 11118 </steps_updated>
+    <steps_updated num="4">10452 11453 4255 10707 371 11951 9104 </steps_updated>
+    <steps_updated num="5">7831 7990 11203 12689 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

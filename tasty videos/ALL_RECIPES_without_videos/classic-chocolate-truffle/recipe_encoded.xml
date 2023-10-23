@@ -1,0 +1,47 @@
+<recipe>
+  <title>Classic Chocolate Truffle Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-chocolate-truffle</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-chocolate-truffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 12485 4680 11318 13278 6664 5981 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 8640 13033 13278 11904 8007 </ingredient>
+    <ingredient num="2">3917 2605 13278 9053 11703 13278 2935 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8233/low_1472567031.m3u8</low>
+    <high>https://vid.tasty.co/output/8233/mp4_720x1280/1472567031</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>22.64</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 6389 11745 4120 7595 4680 11318 13817 8640 13033 11770 9721 14307 10968 1681 1762 7998 5994 6873 7799 </step>
+    <step num="1">1083 2373 669 5994 4465 10590 </step>
+    <step num="2">12251 560 1788 210 7111 7990 3917 7739 5895 1681 2373 9490 1703 </step>
+    <step num="3">10936 2237 2439 13033 9607 1978 2984 6781 11951 2373 13042 5358 7349 10586 560 14464 </step>
+    <step num="4">7692 210 9053 11703 7990 242 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 6389 11745 4120 7595 4680 11318 13817 8640 13033 11770 9721 14307 10968 1681 1762 7998 5994 6873 7799 </steps_updated>
+    <steps_updated num="1">1083 2373 669 5994 4465 10590 </steps_updated>
+    <steps_updated num="2">12251 560 1788 210 7111 7990 3917 7739 5895 1681 2373 9490 1703 </steps_updated>
+    <steps_updated num="3">10936 2237 2439 13033 9607 1978 2984 6781 11951 2373 13042 5358 7349 10586 560 14464 </steps_updated>
+    <steps_updated num="4">7692 210 9053 11703 7990 242 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00687</end_time>
+  </duration_human>
+</recipe>

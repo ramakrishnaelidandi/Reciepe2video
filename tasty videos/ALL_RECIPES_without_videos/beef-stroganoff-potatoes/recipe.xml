@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Beef Stroganoff Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/beef-stroganoff-potatoes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 servings ; potato, cooked </ingredient>
+    <ingredient num="1">8 oz ; rump steak ; (230 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; butter </ingredient>
+    <ingredient num="3">1 ; onion, diced </ingredient>
+    <ingredient num="4">2 cloves ; garlic, crushed </ingredient>
+    <ingredient num="5">4 oz ; mushroom, diced ; (115 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; dijon mustard </ingredient>
+    <ingredient num="7">1 teaspoon ; paprika </ingredient>
+    <ingredient num="8">¾ cup ; beef stock ; (180 g) </ingredient>
+    <ingredient num="9">3 tablespoons ; sour cream </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+    <ingredient num="12">1 handful ; fresh parsley, chopped, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13487/low_1478017819.m3u8</low>
+    <high>https://vid.tasty.co/output/13487/mp4_720x1280/1478017819</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 200°C (400°F). </step>
+    <step num="1">Half the potatoes and scoop out the insides, keeping the scooped out potato for later. </step>
+    <step num="2">Cut the steak into thin strips and sear in a hot pan. Remove the steak. </step>
+    <step num="3">Melt the butter in the pan, then add the onions and garlic. Season with salt. </step>
+    <step num="4">Cook the onions and garlic until translucent, then add the mushrooms. </step>
+    <step num="5">When the mushrooms are soft, stir in the mustard, paprika, and leftover potato. </step>
+    <step num="6">Stir in the beef stock, then simmer until mostly reduced. </step>
+    <step num="7">Add the soured cream, then add the seared beef back in as well. </step>
+    <step num="8">Season with salt and pepper and remove from the heat immediately. </step>
+    <step num="9">Stuff the potato skins with the stroganoff mixture. </step>
+    <step num="10">Bake for 8-10 minutes. </step>
+    <step num="11">Sprinkle with parsley and serve. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 200°C (400°F). </steps_updated>
+    <steps_updated num="1">Half the potatoes and scoop out the insides, keeping the scooped out potato for later. </steps_updated>
+    <steps_updated num="2">Cut the steak into thin strips and sear in a hot pan. </steps_updated>
+    <steps_updated num="3">Remove the steak. </steps_updated>
+    <steps_updated num="4">Melt the butter in the pan, then add the onions and garlic. </steps_updated>
+    <steps_updated num="5">Season with salt. </steps_updated>
+    <steps_updated num="6">Cook the onions and garlic until translucent, then add the mushrooms. </steps_updated>
+    <steps_updated num="7">When the mushrooms are soft, stir in the mustard, paprika, and leftover potato. </steps_updated>
+    <steps_updated num="8">Stir in the beef stock, then simmer until mostly reduced. </steps_updated>
+    <steps_updated num="9">Add the soured cream, then add the seared beef back in as well. </steps_updated>
+    <steps_updated num="10">Season with salt and pepper and remove from the heat immediately. </steps_updated>
+    <steps_updated num="11">Stuff the potato skins with the stroganoff mixture. </steps_updated>
+    <steps_updated num="12">Bake for 8-10 minutes. </steps_updated>
+    <steps_updated num="13">Sprinkle with parsley and serve. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

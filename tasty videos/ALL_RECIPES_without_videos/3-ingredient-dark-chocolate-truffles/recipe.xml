@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Dark Chocolate Truffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-dark-chocolate-truffles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 oz ; dark chocolate ; (455 g) </ingredient>
+    <ingredient num="1">¼ cup ; greek yogurt ; (70 g) </ingredient>
+    <ingredient num="2">cocoa powder, to taste </ingredient>
+    <ingredient num="3">sprinkles, to taste </ingredient>
+    <ingredient num="4">chopped nut, to taste </ingredient>
+    <ingredient num="5">shredded coconut, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26065/low_1489084931.m3u8</low>
+    <high>https://vid.tasty.co/output/26065/mp4_720x1280/1489084931</high>
+  </video>
+  <steps>
+    <step num="0">Chop dark chocolate into a bowl. Microwave in 15-second intervals, until fully melted. </step>
+    <step num="1">Slowly fold in Greek yogurt until thoroughly combined. </step>
+    <step num="2">Chill in the refrigerator for 15-20 minutes, until mixture is solid but still formable. </step>
+    <step num="3">Using a tablespoon, scoop the mixture and use palms to form and roll into balls. </step>
+    <step num="4">Roll truffles into your favorite toppings. For sprinkles, chopped nuts, and shredded coconut: first dip truffles into melted chocolate for best results.* </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Chop dark chocolate into a bowl. </steps_updated>
+    <steps_updated num="1">Microwave in 15-second intervals, until fully melted. </steps_updated>
+    <steps_updated num="2">Slowly fold in Greek yogurt until thoroughly combined. </steps_updated>
+    <steps_updated num="3">Chill in the refrigerator for 15-20 minutes, until mixture is solid but still formable. </steps_updated>
+    <steps_updated num="4">Using a tablespoon, scoop the mixture and use palms to form and roll into balls. </steps_updated>
+    <steps_updated num="5">Roll truffles into your favorite toppings. </steps_updated>
+    <steps_updated num="6">For sprinkles, chopped nuts, and shredded coconut: first dip truffles into melted chocolate for best results. </steps_updated>
+    <steps_updated num="7">* </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Brie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-brie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-cheeses</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; raw cashews ; (130 g) </ingredient>
+    <ingredient num="1">½ cup ; plain, unsweetened, non-dairy yogurt ; (120 g) </ingredient>
+    <ingredient num="2">½ cup ; refined coconut oil, melted ; (120 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; nutritional yeast </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="6">2 tablespoons ; tapioca flour </ingredient>
+    <ingredient num="7">1 teaspoon ; agar-agar flakes </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108211/hls24_1536269245.m3u8</low>
+    <high>https://vid.tasty.co/output/108211/landscape_720/1536269245</high>
+  </video>
+  <duration>
+    <start_time>110.833</start_time>
+    <end_time>180.716</end_time>
+  </duration>
+  <steps>
+    <step num="0">Bring a medium saucepan filled with water to a boil. Add the cashews and boil for 30 minutes, then drain. </step>
+    <step num="1">Add the boiled cashews, yogurt, coconut oil, nutritional yeast, salt, and water to a blender. Blend until smooth. </step>
+    <step num="2">Transfer the “brie” mixture to a large bowl, cover with a kitchen towel, and let sit at room temperature, or between 72º-90ºF (22˚-32˚C), for 12-16 hours. </step>
+    <step num="3">Transfer the mixture to a large saucepan over medium-high heat and add tapioca flour and agar agar flakes. Cook, whisking constantly, until the mixture is thick and pulls away from the sides of the pan, about 5 minutes. </step>
+    <step num="4">Line an 8-inch (20-cm) round baking dish with cheesecloth and pour in the hot cheese mixture. Cover with the cheesecloth. Let cool in the refrigerator until firm, 4-8 hours. </step>
+    <step num="5">Remove the cheesecloth. Eat right away or place the cheese on a wire rack and refrigerate for up to 36 hours (cheese will become drier the longer it waits). </step>
+    <step num="6">Store in the refrigerator for up to 4 days. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Bring a medium saucepan filled with water to a boil. </steps_updated>
+    <steps_updated num="1">Add the cashews and boil for 30 minutes, then drain. </steps_updated>
+    <steps_updated num="2">Add the boiled cashews, yogurt, coconut oil, nutritional yeast, salt, and water to a blender. </steps_updated>
+    <steps_updated num="3">Blend until smooth. </steps_updated>
+    <steps_updated num="4">Transfer the “brie” mixture to a large bowl, cover with a kitchen towel, and let sit at room temperature, or between 72º-90ºF (22˚-32˚C), for 12-16 hours. </steps_updated>
+    <steps_updated num="5">Transfer the mixture to a large saucepan over medium-high heat and add tapioca flour and agar agar flakes. </steps_updated>
+    <steps_updated num="6">Cook, whisking constantly, until the mixture is thick and pulls away from the sides of the pan, about 5 minutes. </steps_updated>
+    <steps_updated num="7">Line an 8-inch (20-cm) round baking dish with cheesecloth and pour in the hot cheese mixture. </steps_updated>
+    <steps_updated num="8">Cover with the cheesecloth. </steps_updated>
+    <steps_updated num="9">Let cool in the refrigerator until firm, 4-8 hours. </steps_updated>
+    <steps_updated num="10">Remove the cheesecloth. </steps_updated>
+    <steps_updated num="11">Eat right away or place the cheese on a wire rack and refrigerate for up to 36 hours (cheese will become drier the longer it waits). </steps_updated>
+    <steps_updated num="12">Store in the refrigerator for up to 4 days. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

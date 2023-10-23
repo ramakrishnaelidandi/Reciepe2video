@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Quick-Roasted Veggie Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/quick-roasted-veggie-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; farro, soaked for 30 min ; (300 g) </ingredient>
+    <ingredient num="1">3 cups ; water ; (720 mL) </ingredient>
+    <ingredient num="2">3 cups ; Private Selection Petite Medley Potatoes ; (675 g) </ingredient>
+    <ingredient num="3">1 cup ; carrot, sliced ; (120 g) </ingredient>
+    <ingredient num="4">olive oil, to taste </ingredient>
+    <ingredient num="5">garlic powder, to taste </ingredient>
+    <ingredient num="6">kosher salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">1 cup ; broccoli floret ; (150 g) </ingredient>
+    <ingredient num="9">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="10">½ teaspoon ; dried thyme </ingredient>
+    <ingredient num="11">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="12">1 clove ; garlic, grated </ingredient>
+    <ingredient num="13">kosher salt, to taste </ingredient>
+    <ingredient num="14">pepper, to taste </ingredient>
+    <ingredient num="15">1 cup ; extra firm tofu, pressed and cubed ; (250 g) </ingredient>
+    <ingredient num="16">1 cup ; canned chickpea, drained and rinsed ; (200 g) </ingredient>
+    <ingredient num="17">olive oil, to taste </ingredient>
+    <ingredient num="18">kosher salt, to taste </ingredient>
+    <ingredient num="19">¼ teaspoon ; paprika </ingredient>
+    <ingredient num="20">¼ teaspoon ; chili powder </ingredient>
+    <ingredient num="21">½ cup ; tahini ; (120 mL) </ingredient>
+    <ingredient num="22">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="23">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="24">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="25">¼ teaspoon ; kosher salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121682/hls24_1546538876.m3u8</low>
+    <high>https://vid.tasty.co/output/121682/landscape_720/1546538876</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 375°F (190°C) </step>
+    <step num="1">Make the farro: In a medium pot, combine the farro and water, then bring to a boil over high heat. Reduce the heat to low, cover, and simmer for 20-25 minutes, until the water is absorbed and the farro is tender. </step>
+    <step num="2">Make the roasted veggies: Cut the potatoes in half. Arrange on half of a baking sheet and spread the carrots on the other half. Drizzle with olive oil, then season with the garlic powder, salt, and pepper. Toss until well coated. </step>
+    <step num="3">Bake for 10 minutes. </step>
+    <step num="4">Remove the baking sheet from the oven and add the broccoli. Drizzle with olive oil and season with salt, garlic powder, and pepper. Bake for another 15-20 minutes, until all of the veggies are fork tender. </step>
+    <step num="5">Make the marinated tofu: In a small bowl, combine the olive oil, thyme, oregano, garlic, salt, and pepper. Add the tofu and stir until well coated. Set aside for 10 minutes. </step>
+    <step num="6">Spread out the tofu on half of a baking sheet. Bake for 20 minutes, then remove from oven and flip. </step>
+    <step num="7">Make the roasted chickpeas: Add the chickpeas to the other side of the baking sheet with the tofu. Drizzle with olive oil and season with salt, paprika, and chili powder. Toss until well coated. </step>
+    <step num="8">Bake for another 15 minutes, until the chickpeas are crispy. </step>
+    <step num="9">Make the lemon tahini dressing: In a liquid measuring cup, combine the tahini, water, olive oil, lemon juice, and salt and whisk until well combined. </step>
+    <step num="10">To assemble the grain bowl, top the farro with the roasted veggies, tofu, and chickpeas. Drizzle with the tahini dressing. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375°F (190°C) </steps_updated>
+    <steps_updated num="1">Make the farro: In a medium pot, combine the farro and water, then bring to a boil over high heat. </steps_updated>
+    <steps_updated num="2">Reduce the heat to low, cover, and simmer for 20-25 minutes, until the water is absorbed and the farro is tender. </steps_updated>
+    <steps_updated num="3">Make the roasted veggies: Cut the potatoes in half. </steps_updated>
+    <steps_updated num="4">Arrange on half of a baking sheet and spread the carrots on the other half. </steps_updated>
+    <steps_updated num="5">Drizzle with olive oil, then season with the garlic powder, salt, and pepper. </steps_updated>
+    <steps_updated num="6">Toss until well coated. </steps_updated>
+    <steps_updated num="7">Bake for 10 minutes. </steps_updated>
+    <steps_updated num="8">Remove the baking sheet from the oven and add the broccoli. </steps_updated>
+    <steps_updated num="9">Drizzle with olive oil and season with salt, garlic powder, and pepper. </steps_updated>
+    <steps_updated num="10">Bake for another 15-20 minutes, until all of the veggies are fork tender. </steps_updated>
+    <steps_updated num="11">Make the marinated tofu: In a small bowl, combine the olive oil, thyme, oregano, garlic, salt, and pepper. </steps_updated>
+    <steps_updated num="12">Add the tofu and stir until well coated. </steps_updated>
+    <steps_updated num="13">Set aside for 10 minutes. </steps_updated>
+    <steps_updated num="14">Spread out the tofu on half of a baking sheet. </steps_updated>
+    <steps_updated num="15">Bake for 20 minutes, then remove from oven and flip. </steps_updated>
+    <steps_updated num="16">Make the roasted chickpeas: Add the chickpeas to the other side of the baking sheet with the tofu. </steps_updated>
+    <steps_updated num="17">Drizzle with olive oil and season with salt, paprika, and chili powder. </steps_updated>
+    <steps_updated num="18">Toss until well coated. </steps_updated>
+    <steps_updated num="19">Bake for another 15 minutes, until the chickpeas are crispy. </steps_updated>
+    <steps_updated num="20">Make the lemon tahini dressing: In a liquid measuring cup, combine the tahini, water, olive oil, lemon juice, and salt and whisk until well combined. </steps_updated>
+    <steps_updated num="21">To assemble the grain bowl, top the farro with the roasted veggies, tofu, and chickpeas. </steps_updated>
+    <steps_updated num="22">Drizzle with the tahini dressing. </steps_updated>
+    <steps_updated num="23">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

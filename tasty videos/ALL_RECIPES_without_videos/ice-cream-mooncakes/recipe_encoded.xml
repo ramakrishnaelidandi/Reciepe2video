@@ -1,0 +1,56 @@
+<recipe>
+  <title>Ice Cream Mooncakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ice-cream-mooncakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13956 13302 5895 14149 13302 7990 11951 11086 8162 210 11951 8365 </ingredient>
+    <ingredient num="1">1319 2439 1123 7990 11951 11086 8162 210 11951 8365 </ingredient>
+    <ingredient num="2">6114 2439 13033 </ingredient>
+    <ingredient num="3">7988 2439 13033 </ingredient>
+    <ingredient num="4">3917 2605 13278 2279 5614 13278 11953 5981 </ingredient>
+    <ingredient num="5">13086 9486 13278 5335 9924 </ingredient>
+    <ingredient num="6">8580 9517 13278 4680 11318 13278 11904 5981 </ingredient>
+    <ingredient num="7">12791 2605 13278 6742 5766 13278 2264 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32121/low_1495125365.m3u8</low>
+    <high>https://vid.tasty.co/output/32121/mp4_720x1280/1495125365</high>
+  </video>
+  <steps>
+    <step num="0">5209 5994 9737 7615 5895 5994 7155 9607 1374 2696 2984 371 13960 11397 5895 1319 2439 5808 5570 4255 3550 13817 13351 7990 4817 14329 3319 217 11484 11951 5182 1864 11951 2439 13033 11868 </step>
+    <step num="1">4829 11951 2439 13033 2984 12573 6836 10359 11951 5585 10745 13135 797 2605 11953 5981 371 13320 740 11951 5335 10907 13817 6142 1681 11951 12525 9031 12573 7670 210 9924 13817 1297 3626 10570 8798 </step>
+    <step num="2">12946 12313 2439 13033 14426 5895 202 9370 573 5994 11826 371 6114 5895 7988 2439 5808 </step>
+    <step num="3">5570 5994 6267 371 5593 669 11951 9729 </step>
+    <step num="4">10452 4255 3954 6114 5895 7988 2439 5808 </step>
+    <step num="5">13494 3557 3482 1391 11951 12525 9031 13817 14484 7584 13855 7990 6646 4817 14329 </step>
+    <step num="6">10346 11951 4680 983 6983 11951 4680 11318 13817 6742 14158 12473 1681 3479 13817 12119 2257 10261 1681 3557 7312 13046 560 10302 4841 </step>
+    <step num="7">11233 9555 5280 12313 2439 13033 2744 1083 11951 5335 4680 9386 13855 14142 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5209 5994 9737 7615 5895 5994 7155 9607 1374 2696 2984 371 13960 11397 5895 1319 2439 5808 </steps_updated>
+    <steps_updated num="1">5570 4255 3550 13817 13351 7990 4817 14329 </steps_updated>
+    <steps_updated num="2">3319 217 11484 11951 5182 1864 11951 2439 13033 11868 </steps_updated>
+    <steps_updated num="3">4829 11951 2439 13033 2984 12573 6836 10359 11951 5585 10745 </steps_updated>
+    <steps_updated num="4">13135 797 2605 11953 5981 371 13320 740 11951 5335 10907 13817 6142 1681 11951 12525 9031 12573 7670 210 9924 13817 1297 3626 10570 8798 </steps_updated>
+    <steps_updated num="5">12946 12313 2439 13033 14426 5895 202 9370 573 5994 11826 371 6114 5895 7988 2439 5808 </steps_updated>
+    <steps_updated num="6">5570 5994 6267 371 5593 669 11951 9729 </steps_updated>
+    <steps_updated num="7">10452 4255 3954 6114 5895 7988 2439 5808 </steps_updated>
+    <steps_updated num="8">13494 3557 3482 1391 11951 12525 9031 13817 14484 7584 </steps_updated>
+    <steps_updated num="9">13855 7990 6646 4817 14329 </steps_updated>
+    <steps_updated num="10">10346 11951 4680 983 6983 11951 4680 11318 13817 6742 14158 </steps_updated>
+    <steps_updated num="11">12473 1681 3479 13817 12119 </steps_updated>
+    <steps_updated num="12">2257 10261 1681 3557 7312 13046 560 10302 4841 </steps_updated>
+    <steps_updated num="13">11233 9555 5280 12313 2439 13033 2744 </steps_updated>
+    <steps_updated num="14">1083 11951 5335 4680 9386 </steps_updated>
+    <steps_updated num="15">13855 14142 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

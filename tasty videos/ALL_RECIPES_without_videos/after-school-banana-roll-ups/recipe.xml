@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>After School Banana Roll-ups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/after-school-banana-roll-ups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/after-school-snack-ideas-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; flour tortilla, burrito sized </ingredient>
+    <ingredient num="1">2 tablespoons ; almond butter </ingredient>
+    <ingredient num="2">1 ; banana, peeled </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25709/low_1488835051.m3u8</low>
+    <high>https://vid.tasty.co/output/25709/mp4_720x1280/1488835051</high>
+  </video>
+  <duration>
+    <start_time>100.316</start_time>
+    <end_time>118.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Evenly spread almond butter over one side of the tortilla. </step>
+    <step num="1">Place banana along one edge of the tortilla, and roll up. </step>
+    <step num="2">Slice the roll into small pieces. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Evenly spread almond butter over one side of the tortilla. </steps_updated>
+    <steps_updated num="1">Place banana along one edge of the tortilla, and roll up. </steps_updated>
+    <steps_updated num="2">Slice the roll into small pieces. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+    <steps_updated num="4">Inspired by: http://www.thegraciouspantry.com/clean-eating-banana-wrap/ </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03067</start_time>
+    <end_time>03550</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>S’mores Bark Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smores-bark</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/holiday-bark-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">30 ; graham crackers </ingredient>
+    <ingredient num="1">16 tablespoons ; butter, melted </ingredient>
+    <ingredient num="2">3 cups ; mini marshmallows ; (150 g) </ingredient>
+    <ingredient num="3">3 cups ; chocolate chips, melted ; (525 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67936/hls24_1513216128.m3u8</low>
+    <high>https://vid.tasty.co/output/67936/landscape_720/1513216128</high>
+  </video>
+  <duration>
+    <start_time>60.0</start_time>
+    <end_time>124.3</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Place the graham crackers inside a plastic bag and use a rolling pin to finely crush the crackers. Pour most of the crackers into a bowl, reserving ¼ cup (20 g) for later. </step>
+    <step num="2">Add the melted butter to a bowl with the graham crackers and mix until the texture of wet sand. </step>
+    <step num="3">Transfer the graham crackers onto a parchment paper-lined baking sheet, spreading into an even layer. </step>
+    <step num="4">Sprinkle 2 cups (100 G) of mini marshmallows over the top of the graham cracker crumbs, then bake for 10 minutes. </step>
+    <step num="5">Pour the melted chocolate over the graham crackers and marshmallows, spreading evenly with a spatula. </step>
+    <step num="6">Top with remaining cup of marshmallows and reserved ¼ cup of crushed graham cracker crumbs. Drizzle with any remaining melted chocolate. </step>
+    <step num="7">Freeze for at least 1 hour. </step>
+    <step num="8">Remove the bark from the freezer and break it into pieces. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Place the graham crackers inside a plastic bag and use a rolling pin to finely crush the crackers. </steps_updated>
+    <steps_updated num="2">Pour most of the crackers into a bowl, reserving ¼ cup for later. </steps_updated>
+    <steps_updated num="3">Add the melted butter to a bowl with the graham crackers and mix until the texture of wet sand. </steps_updated>
+    <steps_updated num="4">Transfer the graham crackers onto a parchment paper-lined baking sheet, spreading into an even layer. </steps_updated>
+    <steps_updated num="5">Sprinkle 2 cups of mini marshmallows over the top of the graham cracker crumbs, then bake for 10 minutes. </steps_updated>
+    <steps_updated num="6">Pour the melted chocolate over the graham crackers and marshmallows, spreading evenly with a spatula. </steps_updated>
+    <steps_updated num="7">Top with remaining cup of marshmallows and reserved ¼ cup of crushed graham cracker crumbs. </steps_updated>
+    <steps_updated num="8">Drizzle with any remaining melted chocolate. </steps_updated>
+    <steps_updated num="9">Freeze for at least 1 hour. </steps_updated>
+    <steps_updated num="10">Remove the bark from the freezer and break it into pieces. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01432</start_time>
+    <end_time>02988</end_time>
+  </duration_human>
+</recipe>

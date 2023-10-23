@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Youtiao Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/youtiao</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/street-treats-from-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; all-purpose flour ; (250 g) </ingredient>
+    <ingredient num="1">1 ½ teaspoons ; baking powder </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">1 tablespoon ; whole milk </ingredient>
+    <ingredient num="4">2 tablespoons ; unsalted butter, softened </ingredient>
+    <ingredient num="5">1 ; large egg </ingredient>
+    <ingredient num="6">⅓ cup ; water ; (80 mL) </ingredient>
+    <ingredient num="7">oil, for frying </ingredient>
+    <ingredient num="8">soy milk, sweet, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96870/hls24_1527884128.m3u8</low>
+    <high>https://vid.tasty.co/output/96870/landscape_720/1527884128</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, mix together the flour, baking powder, salt, milk, softened butter, and egg. </step>
+    <step num="1">Slowly add the water, stirring between each addition. </step>
+    <step num="2">Knead the dough for 5-10 minutes. The dough should feel very soft, but not too sticky. </step>
+    <step num="3">Grease the bowl with oil, return the dough to the bowl, and cover with plastic wrap. Rest for 30 minutes in a warm place. </step>
+    <step num="4">Place the dough in the center of a large piece of plastic. Wrap it tightly, ensuring the dough is completely covered. </step>
+    <step num="5">Refrigerate for at least 8 hours. </step>
+    <step num="6">Remove the dough from the refrigerator. Let it rest on the countertop for 1-2 hours, or until it comes to room temperature and is soft to the touch. </step>
+    <step num="7">Fill a wok or large skillet with enough oil to come 2 inches from the top of the pan. Heat the oil over medium heat until it reaches 375°F (190°C). </step>
+    <step num="8">Lightly flour the dough and the surface, then carefully pull, press, and roll the dough to form a long flat loaf shape, about ¼-inch (½ cm) thick and 4-inches (10 cm) wide. </step>
+    <step num="9">Cut the dough crosswise into 1-inch (2-cm) wide strips. </step>
+    <step num="10">Stack them 2 by 2. </step>
+    <step num="11">Using a chopstick or skewer, press the center of the dough stack down lengthwise. </step>
+    <step num="12">Gently stretch, then lower each dough stack into the oil. If the oil temperature is right, the dough should rise to the surface right away. Use chopsticks or tongs to quickly roll the dough in a continuous motion for about 1 minute. </step>
+    <step num="13">Fry until the dough is light golden brown, about 5-7 minutes. </step>
+    <step num="14">Cool on a wire rack. </step>
+    <step num="15">Serve with sweet soy milk for dipping, if desired. </step>
+    <step num="16">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, mix together the flour, baking powder, salt, milk, softened butter, and egg. </steps_updated>
+    <steps_updated num="1">Slowly add the water, stirring between each addition. </steps_updated>
+    <steps_updated num="2">Knead the dough for 5-10 minutes. </steps_updated>
+    <steps_updated num="3">The dough should feel very soft, but not too sticky. </steps_updated>
+    <steps_updated num="4">Grease the bowl with oil, return the dough to the bowl, and cover with plastic wrap. </steps_updated>
+    <steps_updated num="5">Rest for 30 minutes in a warm place. </steps_updated>
+    <steps_updated num="6">Place the dough in the center of a large piece of plastic. </steps_updated>
+    <steps_updated num="7">Wrap it tightly, ensuring the dough is completely covered. </steps_updated>
+    <steps_updated num="8">Refrigerate for at least 8 hours. </steps_updated>
+    <steps_updated num="9">Remove the dough from the refrigerator. </steps_updated>
+    <steps_updated num="10">Let it rest on the countertop for 1-2 hours, or until it comes to room temperature and is soft to the touch. </steps_updated>
+    <steps_updated num="11">Fill a wok or large skillet with enough oil to come 2 inches from the top of the pan. </steps_updated>
+    <steps_updated num="12">Heat the oil over medium heat until it reaches 375°F (190°C). </steps_updated>
+    <steps_updated num="13">Lightly flour the dough and the surface, then carefully pull, press, and roll the dough to form a long flat loaf shape, about ¼-inch (½ cm) thick and 4-inches (10 cm) wide. </steps_updated>
+    <steps_updated num="14">Cut the dough crosswise into 1-inch (2-cm) wide strips. </steps_updated>
+    <steps_updated num="15">Stack them 2 by 2. </steps_updated>
+    <steps_updated num="16">Using a chopstick or skewer, press the center of the dough stack down lengthwise. </steps_updated>
+    <steps_updated num="17">Gently stretch, then lower each dough stack into the oil. </steps_updated>
+    <steps_updated num="18">If the oil temperature is right, the dough should rise to the surface right away. </steps_updated>
+    <steps_updated num="19">Use chopsticks or tongs to quickly roll the dough in a continuous motion for about 1 minute. </steps_updated>
+    <steps_updated num="20">Fry until the dough is light golden brown, about 5-7 minutes. </steps_updated>
+    <steps_updated num="21">Cool on a wire rack. </steps_updated>
+    <steps_updated num="22">Serve with sweet soy milk for dipping, if desired. </steps_updated>
+    <steps_updated num="23">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05360</start_time>
+    <end_time>08302</end_time>
+  </duration_human>
+</recipe>

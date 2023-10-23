@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tropical Punch Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tropical-punch</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-low-sugar-drink-swaps-for-kids-by-playfull</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; fresh pineapple, cut into chunks ; (60 g) </ingredient>
+    <ingredient num="1">1 cup ; coconut water ; (240 mL) </ingredient>
+    <ingredient num="2">1 slice ; lime </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+    <category num="7">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58277/low_1508958261.m3u8</low>
+    <high>https://vid.tasty.co/output/58277/mp4_720x1280/1508958261</high>
+  </video>
+  <duration>
+    <start_time>1.166</start_time>
+    <end_time>21.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine pineapple, coconut water, and lime in a glass and muddle to infuse flavors. </step>
+    <step num="1">Strain and serve. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine pineapple, coconut water, and lime in a glass and muddle to infuse flavors. </steps_updated>
+    <steps_updated num="1">Strain and serve. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cajun Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cajun-deviled-eggs</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/deviled-eggs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; eggs </ingredient>
+    <ingredient num="1">½ cup ; mayonnaise ; (120 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; mustard </ingredient>
+    <ingredient num="3">1 tablespoon ; cajun seasoning </ingredient>
+    <ingredient num="4">½ stalk ; celery, finely chopped </ingredient>
+    <ingredient num="5">½ ; bell pepper, finely chopped </ingredient>
+    <ingredient num="6">1 teaspoon ; hot sauce, or more to taste </ingredient>
+    <ingredient num="7">smoked paprika </ingredient>
+    <ingredient num="8">green onions, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43566/low_1499981396.m3u8</low>
+    <high>https://vid.tasty.co/output/43566/mp4_720x1280/1499981396</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the eggs in a pot and fill with cold water until the eggs are just covered. Bring the pot to a boil, then cover, remove from heat, and let sit for about 12 minutes. </step>
+    <step num="1">Transfer the eggs to a bowl of ice water for about 3 minutes, then peel them and cut them in half. Transfer the egg yolks to a bowl, and set the cooked egg whites aside. </step>
+    <step num="2">Mix the mayonnaise, mustard, Cajun seasoning, celery, bell pepper, and hot sauce with the yolks and transfer to a piping bag. (Alternatively, use a zip-top bag with a corner cut off.) </step>
+    <step num="3">Pipe the mixture into the eggs, garnish with the smoked paprika and green onion, and serve chilled. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the eggs in a pot and fill with cold water until the eggs are just covered. </steps_updated>
+    <steps_updated num="1">Bring the pot to a boil, then cover, remove from heat, and let sit for about 12 minutes. </steps_updated>
+    <steps_updated num="2">Transfer the eggs to a bowl of ice water for about 3 minutes, then peel them and cut them in half. </steps_updated>
+    <steps_updated num="3">Transfer the egg yolks to a bowl, and set the cooked egg whites aside. </steps_updated>
+    <steps_updated num="4">Mix the mayonnaise, mustard, Cajun seasoning, celery, bell pepper, and hot sauce with the yolks and transfer to a piping bag. </steps_updated>
+    <steps_updated num="5">(Alternatively, use a zip-top bag with a corner cut off.) </steps_updated>
+    <steps_updated num="6">Pipe the mixture into the eggs, garnish with the smoked paprika and green onion, and serve chilled. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01511</start_time>
+    <end_time>02192</end_time>
+  </duration_human>
+</recipe>

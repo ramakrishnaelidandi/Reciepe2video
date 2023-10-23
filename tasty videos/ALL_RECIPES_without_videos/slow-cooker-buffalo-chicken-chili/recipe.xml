@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Buffalo Chicken Chili Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-buffalo-chicken-chili</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1.5 lb ; chicken breast, whole ; (680 g) </ingredient>
+    <ingredient num="1">1 packet ; ranch seasoning </ingredient>
+    <ingredient num="2">1 ; onion, diced </ingredient>
+    <ingredient num="3">3 ribs ; celery, chopped </ingredient>
+    <ingredient num="4">14 oz ; tomato sauce, 1 can ; (420 g) </ingredient>
+    <ingredient num="5">14 oz ; crushed tomato, 1 can ; (395 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; garlic, minced </ingredient>
+    <ingredient num="7">1 can ; white bean </ingredient>
+    <ingredient num="8">½ cup ; buffalo sauce ; (120 mL) </ingredient>
+    <ingredient num="9">2 cups ; chicken broth ; (480 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32061/low_1495125031.m3u8</low>
+    <high>https://vid.tasty.co/output/32061/mp4_720x1280/1495125031</high>
+  </video>
+  <steps>
+    <step num="0">Combine all ingredients in a crockpot. </step>
+    <step num="1">Cook on high for 4 hours or low for 8 hours. </step>
+    <step num="2">Remove chicken and shred, then return to the crockpot for 10 minutes. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine all ingredients in a crockpot. </steps_updated>
+    <steps_updated num="1">Cook on high for 4 hours or low for 8 hours. </steps_updated>
+    <steps_updated num="2">Remove chicken and shred, then return to the crockpot for 10 minutes. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

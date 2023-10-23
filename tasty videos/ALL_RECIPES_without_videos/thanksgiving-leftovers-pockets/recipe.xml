@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thanksgiving Leftovers Pockets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thanksgiving-leftovers-pockets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; mashed potato ; (750 g) </ingredient>
+    <ingredient num="1">1 cup ; turkey, shredded ; (125 g) </ingredient>
+    <ingredient num="2">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="3">1 ; egg </ingredient>
+    <ingredient num="4">1 tablespoon ; water </ingredient>
+    <ingredient num="5">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="6">empanada wrapper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31877/low_1495124865.m3u8</low>
+    <high>https://vid.tasty.co/output/31877/mp4_720x1280/1495124865</high>
+  </video>
+  <steps>
+    <step num="0">Combine mashed potatoes, shredded turkey, and corn in a medium-sized bowl. </step>
+    <step num="1">Whisk together the egg and water for the egg wash. </step>
+    <step num="2">Lay out empanada wrappers on a lightly floured surface. Brush egg wash over surface of wrappers. </step>
+    <step num="3">Scoop two tablespoons of the mashed potato mixture into the center of each wrapper. </step>
+    <step num="4">Fold each wrapper in half and press the edges together so it is sealed. </step>
+    <step num="5">Add 2 tablespoons of vegetable oil to a skillet on medium heat. </step>
+    <step num="6">Cook pierogi for 1-2 minutes on both sides. </step>
+    <step num="7">Serve with gravy and cranberry sauce. Yum! </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine mashed potatoes, shredded turkey, and corn in a medium-sized bowl. </steps_updated>
+    <steps_updated num="1">Whisk together the egg and water for the egg wash. </steps_updated>
+    <steps_updated num="2">Lay out empanada wrappers on a lightly floured surface. </steps_updated>
+    <steps_updated num="3">Brush egg wash over surface of wrappers. </steps_updated>
+    <steps_updated num="4">Scoop two tablespoons of the mashed potato mixture into the center of each wrapper. </steps_updated>
+    <steps_updated num="5">Fold each wrapper in half and press the edges together so it is sealed. </steps_updated>
+    <steps_updated num="6">Add 2 tablespoons of vegetable oil to a skillet on medium heat. </steps_updated>
+    <steps_updated num="7">Cook pierogi for 1-2 minutes on both sides. </steps_updated>
+    <steps_updated num="8">Serve with gravy and cranberry sauce. </steps_updated>
+    <steps_updated num="9">Yum! </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

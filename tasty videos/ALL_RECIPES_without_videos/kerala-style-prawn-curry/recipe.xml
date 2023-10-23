@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Kerala Style Prawn Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kerala-style-prawn-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; cooking oil </ingredient>
+    <ingredient num="1">1 teaspoon ; fenugreek </ingredient>
+    <ingredient num="2">½ teaspoon ; turmeric </ingredient>
+    <ingredient num="3">¼ teaspoon ; asafoetida </ingredient>
+    <ingredient num="4">1 teaspoon ; mustard seed </ingredient>
+    <ingredient num="5">12 leaves ; dried curry </ingredient>
+    <ingredient num="6">2 lb ; fresh king prawn ; (1 kg) </ingredient>
+    <ingredient num="7">1 cup ; coconut milk ; (200 mL) </ingredient>
+    <ingredient num="8">¼ cup ; water ; (50 mL) </ingredient>
+    <ingredient num="9">salt, to season </ingredient>
+    <ingredient num="10">pepper, to season </ingredient>
+    <ingredient num="11">1 ; lime, juiced </ingredient>
+    <ingredient num="12">1 ; onion, chopped </ingredient>
+    <ingredient num="13">1 ; red chili </ingredient>
+    <ingredient num="14">⅔ cup ; ginger ; (30 g) </ingredient>
+    <ingredient num="15">4 cloves ; garlic </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43366/low_1499879764.m3u8</low>
+    <high>https://vid.tasty.co/output/43366/mp4_720x1280/1499879764</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, blitz the onion, chili, ginger and garlic together to make a paste. Set aside. </step>
+    <step num="1">In a large pan, heat the oil over a medium heat. </step>
+    <step num="2">Add the fenugreek, turmeric, asafoetida, mustard seeds, and curry leaves to the pan, and fry for a couple of minutes. </step>
+    <step num="3">Add the paste and continue to cook for 2-3 minutes. </step>
+    <step num="4">Add the prawns and water. Cook until they start to turn pink. </step>
+    <step num="5">Pour in the coconut milk, salt, pepper, and lime juice, and cook for another few minutes. </step>
+    <step num="6">Serve with parathas, naan bread, and rice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, blitz the onion, chili, ginger and garlic together to make a paste. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">In a large pan, heat the oil over a medium heat. </steps_updated>
+    <steps_updated num="3">Add the fenugreek, turmeric, asafoetida, mustard seeds, and curry leaves to the pan, and fry for a couple of minutes. </steps_updated>
+    <steps_updated num="4">Add the paste and continue to cook for 2-3 minutes. </steps_updated>
+    <steps_updated num="5">Add the prawns and water. </steps_updated>
+    <steps_updated num="6">Cook until they start to turn pink. </steps_updated>
+    <steps_updated num="7">Pour in the coconut milk, salt, pepper, and lime juice, and cook for another few minutes. </steps_updated>
+    <steps_updated num="8">Serve with parathas, naan bread, and rice. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

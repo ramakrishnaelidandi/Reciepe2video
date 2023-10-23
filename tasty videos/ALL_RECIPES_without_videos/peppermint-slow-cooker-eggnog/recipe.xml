@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peppermint Slow Cooker Eggnog Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peppermint-slow-cooker-eggnog</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/slow-cooker-eggnog-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 qt ; eggnog ; (1 L) </ingredient>
+    <ingredient num="1">⅓ cup ; candy cane, crushed ; (60 g) </ingredient>
+    <ingredient num="2">⅓ cup ; white chocolate ; (60 g) </ingredient>
+    <ingredient num="3">whipped cream </ingredient>
+    <ingredient num="4">candy cane </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18326/low_1481926127.m3u8</low>
+    <high>https://vid.tasty.co/output/18326/mp4_720x1280/1481926127</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>21.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put candy canes in a sealed zip bag. Beat with a rolling pin or heavy object until crumbled into tiny pieces. </step>
+    <step num="1">Add eggnog, candy canes, and chocolate to slow cooker and stir. </step>
+    <step num="2">Cook on high for 1 hour, stirring occasionally. </step>
+    <step num="3">Top with whipped cream and sprinkle with candy cane pieces. Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put candy canes in a sealed zip bag. </steps_updated>
+    <steps_updated num="1">Beat with a rolling pin or heavy object until crumbled into tiny pieces. </steps_updated>
+    <steps_updated num="2">Add eggnog, candy canes, and chocolate to slow cooker and stir. </steps_updated>
+    <steps_updated num="3">Cook on high for 1 hour, stirring occasionally. </steps_updated>
+    <steps_updated num="4">Top with whipped cream and sprinkle with candy cane pieces. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00651</end_time>
+  </duration_human>
+</recipe>

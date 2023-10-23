@@ -1,0 +1,40 @@
+<recipe>
+  <title>Chicken Alfredo Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-alfredo-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 6146 8337 </ingredient>
+    <ingredient num="1">13086 9486 13278 8304 2260 </ingredient>
+    <ingredient num="2">1580 2605 13278 10865 14538 13278 13125 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 3745 7983 13278 9234 5981 </ingredient>
+    <ingredient num="4">3917 13278 3665 9491 472 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12155/low_1476478095.m3u8</low>
+    <high>https://vid.tasty.co/output/12155/mp4_720x1280/1476478095</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 4195 13239 </step>
+    <step num="1">7692 2696 8337 560 6285 13767 8861 409 4735 8260 1645 210 10505 </step>
+    <step num="2">13494 6146 1391 8304 7280 12816 13817 8720 </step>
+    <step num="3">7831 210 10439 7990 666 11004 5895 1681 1547 9490 12019 13817 14538 9490 5335 13817 6199 12341 10963 2147 </step>
+    <step num="4">13688 1391 2768 13817 7777 669 6735 10832 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 4195 13239 </steps_updated>
+    <steps_updated num="1">7692 2696 8337 560 6285 13767 8861 409 4735 8260 1645 210 10505 </steps_updated>
+    <steps_updated num="2">13494 6146 1391 8304 7280 12816 13817 8720 </steps_updated>
+    <steps_updated num="3">7831 210 10439 7990 666 11004 5895 1681 1547 9490 12019 13817 14538 9490 5335 13817 6199 12341 10963 2147 </steps_updated>
+    <steps_updated num="4">13688 1391 2768 13817 7777 669 6735 10832 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

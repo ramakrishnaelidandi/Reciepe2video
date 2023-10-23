@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Whole Wheat Waffle Sticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/whole-wheat-waffle-sticks</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffle-press-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; large eggs </ingredient>
+    <ingredient num="1">1 cup ; whole greek yogurt ; (245 g) </ingredient>
+    <ingredient num="2">½ cup ; milk, of choice ; (120 mL) </ingredient>
+    <ingredient num="3">¼ cup ; oil ; (60 mL) </ingredient>
+    <ingredient num="4">2 tablespoons ; maple syrup, plus more for dipping </ingredient>
+    <ingredient num="5">1 ⅓ cups ; whole wheat flour ; (165 g) </ingredient>
+    <ingredient num="6">1 ½ teaspoons ; baking powder </ingredient>
+    <ingredient num="7">½ teaspoon ; baking soda </ingredient>
+    <ingredient num="8">powdered sugar, for dusting </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81311/hls24_1519693104.m3u8</low>
+    <high>https://vid.tasty.co/output/81311/landscape_720/1519693104</high>
+  </video>
+  <duration>
+    <start_time>52.0</start_time>
+    <end_time>104.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the Griddler, fitted with the waffle plates, to 375°F (190°C), and grease with nonstick spray. </step>
+    <step num="1">Whisk the eggs in a large mixing bowl until smooth. </step>
+    <step num="2">Add the Greek yogurt and whisk again until smooth. </step>
+    <step num="3">Whisk in the milk, oil, and maple syrup. </step>
+    <step num="4">Add the flour, baking powder, and baking soda, and whisk together until the batter is smooth and well combined. </step>
+    <step num="5">Use a 1-cup (130 G) measuring cup to pour batter onto the Griddler. </step>
+    <step num="6">Cook for 10 minutes, until the waffle has puffed up and is golden brown. Transfer the waffle to a cutting board and repeat with the remaining batter. </step>
+    <step num="7">Cut the waffles into sticks. </step>
+    <step num="8">Sprinkle with powdered sugar and serve with maple syrup. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the Griddler, fitted with the waffle plates, to 375°F (190°C), and grease with nonstick spray. </steps_updated>
+    <steps_updated num="1">Whisk the eggs in a large mixing bowl until smooth. </steps_updated>
+    <steps_updated num="2">Add the Greek yogurt and whisk again until smooth. </steps_updated>
+    <steps_updated num="3">Whisk in the milk, oil, and maple syrup. </steps_updated>
+    <steps_updated num="4">Add the flour, baking powder, and baking soda, and whisk together until the batter is smooth and well combined. </steps_updated>
+    <steps_updated num="5">Use a 1-cup (130 G) measuring cup to pour batter onto the Griddler. </steps_updated>
+    <steps_updated num="6">Cook for 10 minutes, until the waffle has puffed up and is golden brown. </steps_updated>
+    <steps_updated num="7">Transfer the waffle to a cutting board and repeat with the remaining batter. </steps_updated>
+    <steps_updated num="8">Cut the waffles into sticks. </steps_updated>
+    <steps_updated num="9">Sprinkle with powdered sugar and serve with maple syrup. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01271</start_time>
+    <end_time>02512</end_time>
+  </duration_human>
+</recipe>

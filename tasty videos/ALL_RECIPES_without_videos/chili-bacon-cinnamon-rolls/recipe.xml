@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chili Bacon “Cinnamon Rolls” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-bacon-cinnamon-rolls</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-savory-tricks</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray, for greasing </ingredient>
+    <ingredient num="1">⅓ cup ; bacon bits ; (75 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; mild chili powder </ingredient>
+    <ingredient num="3">all-purpose flour, for dusting </ingredient>
+    <ingredient num="4">8 oz ; crescent roll dough, 1 tube ; (225 g) </ingredient>
+    <ingredient num="5">¼ cup ; butter, melted ; (60 g) </ingredient>
+    <ingredient num="6">1 cup ; béchamel sauce, for drizzling ; (260 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107992/hls24_1536166116.m3u8</low>
+    <high>https://vid.tasty.co/output/107992/landscape_720/1536166116</high>
+  </video>
+  <duration>
+    <start_time>72.0</start_time>
+    <end_time>127.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). Grease a 9-inch (23-cm) round baking pan with nonstick spray. </step>
+    <step num="1">In a medium bowl, combine the bacon bits and chili powder. </step>
+    <step num="2">On a lightly floured surface, roll out the crescent roll dough to a 12x6-inch (30x15 cm) rectangle. </step>
+    <step num="3">Brush the dough with the melted butter </step>
+    <step num="4">Sprinkle the bacon bits over the dough, leaving 1 inch (2 cm) of a long end empty for rolling. Starting with the other long end, roll into a tube. </step>
+    <step num="5">Slice the tube into 7 pieces and place in the prepared pan. </step>
+    <step num="6">Bake for 12-15 minutes, until the rolls are light golden brown. </step>
+    <step num="7">Drizzle with béchamel sauce to mimic icing. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Grease a 9-inch (23-cm) round baking pan with nonstick spray. </steps_updated>
+    <steps_updated num="2">In a medium bowl, combine the bacon bits and chili powder. </steps_updated>
+    <steps_updated num="3">On a lightly floured surface, roll out the crescent roll dough to a 12x6-inch (30x15 cm) rectangle. </steps_updated>
+    <steps_updated num="4">Brush the dough with the melted butter </steps_updated>
+    <steps_updated num="5">Sprinkle the bacon bits over the dough, leaving 1 inch (2 cm) of a long end empty for rolling. </steps_updated>
+    <steps_updated num="6">Starting with the other long end, roll into a tube. </steps_updated>
+    <steps_updated num="7">Slice the tube into 7 pieces and place in the prepared pan. </steps_updated>
+    <steps_updated num="8">Bake for 12-15 minutes, until the rolls are light golden brown. </steps_updated>
+    <steps_updated num="9">Drizzle with béchamel sauce to mimic icing. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

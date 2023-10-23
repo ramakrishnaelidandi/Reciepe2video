@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Meatball Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-meatball-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground chicken ; (455 g) </ingredient>
+    <ingredient num="1">½ cup ; panko bread crumbs ; (25 g) </ingredient>
+    <ingredient num="2">1 ; large egg </ingredient>
+    <ingredient num="3">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="4">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">¼ cup ; fresh parsley, finely chopped ; (10 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+    <ingredient num="8">2 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="9">1 cup ; white onion, diced ; (150 g) </ingredient>
+    <ingredient num="10">½ cup ; carrot, diced ; (60 g) </ingredient>
+    <ingredient num="11">½ cup ; celery, diced ; (110 g) </ingredient>
+    <ingredient num="12">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="13">8 cups ; chicken stock ; (1.9 L) </ingredient>
+    <ingredient num="14">1 ; bay leaf </ingredient>
+    <ingredient num="15">1 cup ; dry orzo pasta ; (145 g) </ingredient>
+    <ingredient num="16">4 cups ; swiss chard, roughly chopped ; (400 g) </ingredient>
+    <ingredient num="17">3 tablespoons ; grated parmesan cheese </ingredient>
+    <ingredient num="18">kosher salt, to taste </ingredient>
+    <ingredient num="19">pepper, to taste </ingredient>
+    <ingredient num="20">1 tablespoon ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117803/hls24_1543624762.m3u8</low>
+    <high>https://vid.tasty.co/output/117803/landscape_720/1543624762</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, combine the ground chicken, bread crumbs, egg, Parmesan, garlic, parsley, salt, and pepper. Mix well, then form into 1-inch (2 cm) meatballs. You should have 16-18 total. </step>
+    <step num="1">In a large pot, heat 1 tablespoon of olive oil over medium heat. Sear the meatballs on all sides until golden brown, 4-5 minutes. Remove from the pot and set aside. </step>
+    <step num="2">In the same pot, heat the remaining tablespoon of oil. Add the onion, carrot, and celery and cook, stirring occasionally until tender, 3-4 minutes. Add the garlic and cook until fragrant, 1-2 minutes. </step>
+    <step num="3">Add the chicken stock and bay leaf. Cover and bring to a boil. </step>
+    <step num="4">Once boiling, add the orzo and meatballs. Cover and simmer for 7-8 minutes, until the orzo is tender. </step>
+    <step num="5">Add the Swiss chard, cover, and cook for 2-3 minutes until the chard has wilted. </step>
+    <step num="6">Add the Parmesan cheese and season to taste with salt and pepper. Add the lemon juice. </step>
+    <step num="7">Ladle into bowls and serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, combine the ground chicken, bread crumbs, egg, Parmesan, garlic, parsley, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Mix well, then form into 1-inch (2 cm) meatballs. </steps_updated>
+    <steps_updated num="2">You should have 16-18 total. </steps_updated>
+    <steps_updated num="3">In a large pot, heat 1 tablespoon of olive oil over medium heat. </steps_updated>
+    <steps_updated num="4">Sear the meatballs on all sides until golden brown, 4-5 minutes. </steps_updated>
+    <steps_updated num="5">Remove from the pot and set aside. </steps_updated>
+    <steps_updated num="6">In the same pot, heat the remaining tablespoon of oil. </steps_updated>
+    <steps_updated num="7">Add the onion, carrot, and celery and cook, stirring occasionally until tender, 3-4 minutes. </steps_updated>
+    <steps_updated num="8">Add the garlic and cook until fragrant, 1-2 minutes. </steps_updated>
+    <steps_updated num="9">Add the chicken stock and bay leaf. </steps_updated>
+    <steps_updated num="10">Cover and bring to a boil. </steps_updated>
+    <steps_updated num="11">Once boiling, add the orzo and meatballs. </steps_updated>
+    <steps_updated num="12">Cover and simmer for 7-8 minutes, until the orzo is tender. </steps_updated>
+    <steps_updated num="13">Add the Swiss chard, cover, and cook for 2-3 minutes until the chard has wilted. </steps_updated>
+    <steps_updated num="14">Add the Parmesan cheese and season to taste with salt and pepper. </steps_updated>
+    <steps_updated num="15">Add the lemon juice. </steps_updated>
+    <steps_updated num="16">Ladle into bowls and serve. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

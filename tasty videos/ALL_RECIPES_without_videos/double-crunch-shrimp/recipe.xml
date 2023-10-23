@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Double Crunch Shrimp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/double-crunch-shrimp</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; medium shrimp, peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">4 ; large eggs </ingredient>
+    <ingredient num="4">1 ½ cups ; soda water, cold ; (360 mL) </ingredient>
+    <ingredient num="5">2 cups ; cake flour ; (200 g) </ingredient>
+    <ingredient num="6">oil, for frying </ingredient>
+    <ingredient num="7">3 cups ; panko bread crumbs ; (150 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; oil </ingredient>
+    <ingredient num="9">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="10">1 tablespoon ; ginger, minced </ingredient>
+    <ingredient num="11">1 cup ; soy sauce ; (240 mL) </ingredient>
+    <ingredient num="12">2 tablespoons ; rice wine vinegar </ingredient>
+    <ingredient num="13">⅓ cup ; light brown sugar ; (75 g) </ingredient>
+    <ingredient num="14">1 pinch ; red pepper flakes </ingredient>
+    <ingredient num="15">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="16">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="17">white rice, cooked </ingredient>
+    <ingredient num="18">scallion, thinly sliced </ingredient>
+    <ingredient num="19">sesame seeds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102057/hls24_1531758430.m3u8</low>
+    <high>https://vid.tasty.co/output/102057/landscape_720/1531758430</high>
+  </video>
+  <steps>
+    <step num="0">Pat the shrimp dry with paper towels, then transfer to a medium bowl and season with salt and pepper. </step>
+    <step num="1">In a separate medium bowl, whisk the eggs and soda water until combined. Add the cake flour and gently whisk, making sure the batter is still clumpy. Do not overmix. </step>
+    <step num="2">Heat the oil in a large pot until it reaches 350˚F (180˚C). </step>
+    <step num="3">Add the panko bread crumbs to a shallow bowl. </step>
+    <step num="4">Using a slotted spoon, dip the shrimp in the tempura batter, then toss in the panko, making sure to fully coat. </step>
+    <step num="5">Fry the shrimp in the hot oil, 5-6 at a time, until golden brown, about 2-3 minutes. Transfer to a wire rack to drain. </step>
+    <step num="6">Make the glaze: Heat the oil in a medium saucepan over medium-high heat. Add the garlic and ginger and cook until fragrant, about 30 seconds, stirring frequently. </step>
+    <step num="7">Add the soy sauce, rice wine vinegar, brown sugar, and red pepper flakes. Stir until the mixture begins to simmer. </step>
+    <step num="8">In a small bowl, combine the water and cornstarch. Add the cornstarch slurry to the saucepan and stir to combine. Cook until the glaze is reduced by half and looks thick and syrupy, about 5 minutes. </step>
+    <step num="9">Transfer the shrimp to a large bowl and pour the glaze over. Toss the shrimp gently to coat with the glaze. </step>
+    <step num="10">Serve the shrimp over rice and garnish with scallions. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pat the shrimp dry with paper towels, then transfer to a medium bowl and season with salt and pepper. </steps_updated>
+    <steps_updated num="1">In a separate medium bowl, whisk the eggs and soda water until combined. </steps_updated>
+    <steps_updated num="2">Add the cake flour and gently whisk, making sure the batter is still clumpy. </steps_updated>
+    <steps_updated num="3">Do not overmix. </steps_updated>
+    <steps_updated num="4">Heat the oil in a large pot until it reaches 350˚F (180˚C). </steps_updated>
+    <steps_updated num="5">Add the panko bread crumbs to a shallow bowl. </steps_updated>
+    <steps_updated num="6">Using a slotted spoon, dip the shrimp in the tempura batter, then toss in the panko, making sure to fully coat. </steps_updated>
+    <steps_updated num="7">Fry the shrimp in the hot oil, 5-6 at a time, until golden brown, about 2-3 minutes. </steps_updated>
+    <steps_updated num="8">Transfer to a wire rack to drain. </steps_updated>
+    <steps_updated num="9">Make the glaze: Heat the oil in a medium saucepan over medium-high heat. </steps_updated>
+    <steps_updated num="10">Add the garlic and ginger and cook until fragrant, about 30 seconds, stirring frequently. </steps_updated>
+    <steps_updated num="11">Add the soy sauce, rice wine vinegar, brown sugar, and red pepper flakes. </steps_updated>
+    <steps_updated num="12">Stir until the mixture begins to simmer. </steps_updated>
+    <steps_updated num="13">In a small bowl, combine the water and cornstarch. </steps_updated>
+    <steps_updated num="14">Add the cornstarch slurry to the saucepan and stir to combine. </steps_updated>
+    <steps_updated num="15">Cook until the glaze is reduced by half and looks thick and syrupy, about 5 minutes. </steps_updated>
+    <steps_updated num="16">Transfer the shrimp to a large bowl and pour the glaze over. </steps_updated>
+    <steps_updated num="17">Toss the shrimp gently to coat with the glaze. </steps_updated>
+    <steps_updated num="18">Serve the shrimp over rice and garnish with scallions. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

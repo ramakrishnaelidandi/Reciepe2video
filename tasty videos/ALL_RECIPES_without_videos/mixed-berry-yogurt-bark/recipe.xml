@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mixed Berry Yogurt Bark Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mixed-berry-yogurt-bark</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/yogurt-bark-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; strawberry ; (40 g) </ingredient>
+    <ingredient num="1">¼ cup ; blueberry ; (25 g) </ingredient>
+    <ingredient num="2">¼ cup ; raspberry ; (30 g) </ingredient>
+    <ingredient num="3">¼ cup ; blackberry ; (40 g) </ingredient>
+    <ingredient num="4">2 cups ; greek yogurt ; (570 g) </ingredient>
+    <ingredient num="5">strawberry, to taste </ingredient>
+    <ingredient num="6">blueberry, to taste </ingredient>
+    <ingredient num="7">raspberry, to taste </ingredient>
+    <ingredient num="8">blackberry, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28288/low_1491255435.m3u8</low>
+    <high>https://vid.tasty.co/output/28288/mp4_720x1280/1491255435</high>
+  </video>
+  <duration>
+    <start_time>23.64</start_time>
+    <end_time>55.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender, mix fruit until consistency is smooth. Add in yogurt and blend until fully mixed. </step>
+    <step num="1">Pour mixture into a baking pan lined with parchment paper. Add desired amount of toppings. </step>
+    <step num="2">Freeze for 6 hours, or overnight, until frozen solid. </step>
+    <step num="3">Break yogurt bark into desired numbers of pieces. </step>
+    <step num="4">Serve cold, or store in a closed container in the freezer. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender, mix fruit until consistency is smooth. </steps_updated>
+    <steps_updated num="1">Add in yogurt and blend until fully mixed. </steps_updated>
+    <steps_updated num="2">Pour mixture into a baking pan lined with parchment paper. </steps_updated>
+    <steps_updated num="3">Add desired amount of toppings. </steps_updated>
+    <steps_updated num="4">Freeze for 6 hours, or overnight, until frozen solid. </steps_updated>
+    <steps_updated num="5">Break yogurt bark into desired numbers of pieces. </steps_updated>
+    <steps_updated num="6">Serve cold, or store in a closed container in the freezer. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00771</start_time>
+    <end_time>01684</end_time>
+  </duration_human>
+</recipe>

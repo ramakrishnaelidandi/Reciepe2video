@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheddar Ranch Popcorn Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-ranch-popcorn-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">2 cups ; buttermilk ; (480 mL) </ingredient>
+    <ingredient num="2">1 packet ; ranch dressing mix </ingredient>
+    <ingredient num="3">2 cups ; cheese cracker ; (125 g) </ingredient>
+    <ingredient num="4">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8211/low_1472566416.m3u8</low>
+    <high>https://vid.tasty.co/output/8211/mp4_720x1280/1472566416</high>
+  </video>
+  <steps>
+    <step num="0">Chop chicken breasts into bite-size pieces. </step>
+    <step num="1">In a large bowl, combine chicken, buttermilk, and ranch packet. </step>
+    <step num="2">Refrigerate for 2 hours. </step>
+    <step num="3">In a large ziplock bag, crumble the cheese crackers into desired crumbs (to replace bread crumbs). </step>
+    <step num="4">Place cracker crumbs into a medium bowl and coat each piece of chicken until fully covered. </step>
+    <step num="5">Heat oil to 350°F (180°C) and fry chicken until crackers turn golden brown (3 minutes). </step>
+    <step num="6">Place on a paper towel to dry. </step>
+    <step num="7">Serve with a side of ranch or any sauce. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Chop chicken breasts into bite-size pieces. </steps_updated>
+    <steps_updated num="1">In a large bowl, combine chicken, buttermilk, and ranch packet. </steps_updated>
+    <steps_updated num="2">Refrigerate for 2 hours. </steps_updated>
+    <steps_updated num="3">In a large ziplock bag, crumble the cheese crackers into desired crumbs (to replace bread crumbs). </steps_updated>
+    <steps_updated num="4">Place cracker crumbs into a medium bowl and coat each piece of chicken until fully covered. </steps_updated>
+    <steps_updated num="5">Heat oil to 350°F (180°C) and fry chicken until crackers turn golden brown (3 minutes). </steps_updated>
+    <steps_updated num="6">Place on a paper towel to dry. </steps_updated>
+    <steps_updated num="7">Serve with a side of ranch or any sauce. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

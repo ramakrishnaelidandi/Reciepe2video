@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Green Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/green-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 cups ; fresh spinach, packed ; (160 g) </ingredient>
+    <ingredient num="1">½ cup ; fresh parsley ; (15 g) </ingredient>
+    <ingredient num="2">2 ½ cups ; milk, divided ; (600 g) </ingredient>
+    <ingredient num="3">5 qt ; water ; (4 ¾ L) </ingredient>
+    <ingredient num="4">1 tablespoon ; salt </ingredient>
+    <ingredient num="5">1 lb ; elbow macaroni ; (455 g) </ingredient>
+    <ingredient num="6">¼ cup ; butter ; (60 g) </ingredient>
+    <ingredient num="7">¼ cup ; flour ; (30 g) </ingredient>
+    <ingredient num="8">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="9">2 teaspoons ; onion powder </ingredient>
+    <ingredient num="10">1 teaspoon ; paprika </ingredient>
+    <ingredient num="11">1 teaspoon ; pepper </ingredient>
+    <ingredient num="12">1 teaspoon ; salt </ingredient>
+    <ingredient num="13">1 lb ; white cheddar cheese ; (455 g) </ingredient>
+    <ingredient num="14">½ cup ; mozzarella cheese ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49329/low_1503620609.m3u8</low>
+    <high>https://vid.tasty.co/output/49329/mp4_720x1280/1503620609</high>
+  </video>
+  <steps>
+    <step num="0">In a food processor, combine the spinach, parsley, and ½ cup (120 ml) milk, and process until evenly mixed. </step>
+    <step num="1">In a large pot, bring water and 1 tbsp salt to a boil over high heat. Add the elbows and cook until al dente, roughly 6-7 minutes. Rinse with cold water and drain. </step>
+    <step num="2">In a large pot, combine the butter and flour on medium-high heat, and stir until the mixture has become golden brown. </step>
+    <step num="3">Add 2 cups (470 ml) milk, garlic powder, onion powder, paprika, pepper, and salt to the pot and stir until well incorporated. </step>
+    <step num="4">Add in the cheddar cheese and mix until well incorporated. </step>
+    <step num="5">Add in the spinach mixture and stir until fully incorporated and the green color is consistent. </step>
+    <step num="6">Mix in the pasta and pour into a casserole dish. </step>
+    <step num="7">Top the macaroni with mozzarella and broil for 5 minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, combine the spinach, parsley, and ½ cup (120 ml) milk, and process until evenly mixed. </steps_updated>
+    <steps_updated num="1">In a large pot, bring water and 1 tbsp salt to a boil over high heat. </steps_updated>
+    <steps_updated num="2">Add the elbows and cook until al dente, roughly 6-7 minutes. </steps_updated>
+    <steps_updated num="3">Rinse with cold water and drain. </steps_updated>
+    <steps_updated num="4">In a large pot, combine the butter and flour on medium-high heat, and stir until the mixture has become golden brown. </steps_updated>
+    <steps_updated num="5">Add 2 cups (470 ml) milk, garlic powder, onion powder, paprika, pepper, and salt to the pot and stir until well incorporated. </steps_updated>
+    <steps_updated num="6">Add in the cheddar cheese and mix until well incorporated. </steps_updated>
+    <steps_updated num="7">Add in the spinach mixture and stir until fully incorporated and the green color is consistent. </steps_updated>
+    <steps_updated num="8">Mix in the pasta and pour into a casserole dish. </steps_updated>
+    <steps_updated num="9">Top the macaroni with mozzarella and broil for 5 minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

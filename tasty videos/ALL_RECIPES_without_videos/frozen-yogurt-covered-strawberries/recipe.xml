@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Frozen Yogurt-covered Strawberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frozen-yogurt-covered-strawberries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-lighter-sweet-snacks</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ cup ; plain greek yogurt, nonfat ; (213 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; honey </ingredient>
+    <ingredient num="2">1 tablespoon ; water </ingredient>
+    <ingredient num="3">12 ; strawberries, large </ingredient>
+    <ingredient num="4">½ cup ; almond, roasted, unsalted, chopped ; (70 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/68188/hls24_1513294858.m3u8</low>
+    <high>https://vid.tasty.co/output/68188/landscape_720/1513294858</high>
+  </video>
+  <duration>
+    <start_time>122.6</start_time>
+    <end_time>145.29</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine Greek yogurt, honey, and water in a small bowl and stir to combine. </step>
+    <step num="1">Dip the strawberries into the yogurt mixture, ensuring they are fully coated. </step>
+    <step num="2">Dip the yogurt-covered strawberries in the chopped almonds, and place on a parchment paper-lined sheet tray. </step>
+    <step num="3">Freeze for 2 hours. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine Greek yogurt, honey, and water in a small bowl and stir to combine. </steps_updated>
+    <steps_updated num="1">Dip the strawberries into the yogurt mixture, ensuring they are fully coated. </steps_updated>
+    <steps_updated num="2">Dip the yogurt-covered strawberries in the chopped almonds, and place on a parchment paper-lined sheet tray. </steps_updated>
+    <steps_updated num="3">Freeze for 2 hours. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

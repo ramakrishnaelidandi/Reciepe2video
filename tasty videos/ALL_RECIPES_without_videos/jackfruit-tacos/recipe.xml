@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Jackfruit Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jackfruit-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/meatless-tacos-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">20 oz ; jackfruit, 2 cans, in brine or water ; (565 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">½ ; yellow onion, sliced </ingredient>
+    <ingredient num="3">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="5">1 teaspoon ; paprika </ingredient>
+    <ingredient num="6">1 teaspoon ; cumin </ingredient>
+    <ingredient num="7">1 teaspoon ; liquid smoke </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 cup ; vegetable stock ; (240 mL) </ingredient>
+    <ingredient num="11">¾ cup ; vegan bbq sauce ; (215 g) </ingredient>
+    <ingredient num="12">tortilla, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Vegan</category>
+    <category num="7">Vegetarian</category>
+    <category num="8">Lunch</category>
+    <category num="9">BBQ</category>
+    <category num="10">Weeknight</category>
+    <category num="11">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60252/low_1509996185.m3u8</low>
+    <high>https://vid.tasty.co/output/60252/mp4_720x1280/1509996185</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Drain and rinse jackfruit, then cut jackfruit into smaller pieces, removing the core. </step>
+    <step num="1">Add olive oil, onions, garlic, salt, and pepper to a large frying pan or skillet over medium-high heat. Sauté until onions are tender and become translucent. </step>
+    <step num="2">Add jackfruit, chili powder, paprika, cumin, liquid smoke, salt, pepper, and liquid smoke, and stir. </step>
+    <step num="3">Add vegetable stock, cover, and cook another 10-15 minutes, until jackfruit is soft enough that it can be mashed. </step>
+    <step num="4">Preheat oven to 400ºF (200ºC). </step>
+    <step num="5">Mash jackfruit with potato masher or a couple of forks, until it looks pulled or shredded. </step>
+    <step num="6">Spread an even layer of pulled jackfruit across a parchment paper-lined baking sheet. </step>
+    <step num="7">Bake for 25 minutes. </step>
+    <step num="8">Remove from oven and pour on vegan BBQ sauce. Stir to combine. </step>
+    <step num="9">Place back in oven for 10 more minutes. </step>
+    <step num="10">Serve on warm tortillas with desired taco toppings. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">Drain and rinse jackfruit, then cut jackfruit into smaller pieces, removing the core. </steps_updated>
+    <steps_updated num="2">Add olive oil, onions, garlic, salt, and pepper to a large frying pan or skillet over medium-high heat. </steps_updated>
+    <steps_updated num="3">Sauté until onions are tender and become translucent. </steps_updated>
+    <steps_updated num="4">Add jackfruit, chili powder, paprika, cumin, liquid smoke, salt, pepper, and liquid smoke, and stir. </steps_updated>
+    <steps_updated num="5">Add vegetable stock, cover, and cook another 10-15 minutes, until jackfruit is soft enough that it can be mashed. </steps_updated>
+    <steps_updated num="6">Mash jackfruit with potato masher or a couple of forks, until it looks pulled or shredded. </steps_updated>
+    <steps_updated num="7">Spread an even layer of pulled jackfruit across a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="8">Bake for 25 minutes. </steps_updated>
+    <steps_updated num="9">Remove from oven and pour on vegan BBQ sauce. </steps_updated>
+    <steps_updated num="10">Stir to combine. </steps_updated>
+    <steps_updated num="11">Place back in oven for 10 more minutes. </steps_updated>
+    <steps_updated num="12">Serve on warm tortillas with desired taco toppings. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-04228</start_time>
+    <end_time>05498</end_time>
+  </duration_human>
+</recipe>

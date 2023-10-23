@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Homemade Chicken Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-homemade-chicken-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">1 tablespoon ; turmeric </ingredient>
+    <ingredient num="2">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="3">1 tablespoon ; ground cumin </ingredient>
+    <ingredient num="4">1 tablespoon ; garam masala </ingredient>
+    <ingredient num="5">½ tablespoon ; ground ginger </ingredient>
+    <ingredient num="6">2 tablespoons ; white wine vinegar </ingredient>
+    <ingredient num="7">oil, for frying </ingredient>
+    <ingredient num="8">1 ; red chili, chopped </ingredient>
+    <ingredient num="9">2 cups ; tomato, chopped ; (400 g) </ingredient>
+    <ingredient num="10">½ cup ; water ; (100 mL) </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+    <ingredient num="13">rice, to serve </ingredient>
+    <ingredient num="14">fresh coriander, to serve, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Indian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Healthy</category>
+    <category num="6">Dinner</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43727/low_1500071112.m3u8</low>
+    <high>https://vid.tasty.co/output/43727/mp4_720x1280/1500071112</high>
+  </video>
+  <steps>
+    <step num="0">Cut the chicken into bite-size pieces. </step>
+    <step num="1">Season the chicken with turmeric, chili powder, cumin, garam masala, ginger, and white wine vinegar, and mix well. </step>
+    <step num="2">Heat oil in a pot over a medium heat. Add the chicken and cook until brown. </step>
+    <step num="3">Add the chili, chopped tomatoes, water, salt, and pepper. </step>
+    <step num="4">Mix well and bring to a boil. </step>
+    <step num="5">Simmer for 1 hour, until the sauce has thickened. </step>
+    <step num="6">Serve with rice and chopped coriander. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the chicken into bite-size pieces. </steps_updated>
+    <steps_updated num="1">Season the chicken with turmeric, chili powder, cumin, garam masala, ginger, and white wine vinegar, and mix well. </steps_updated>
+    <steps_updated num="2">Heat oil in a pot over a medium heat. </steps_updated>
+    <steps_updated num="3">Add the chicken and cook until brown. </steps_updated>
+    <steps_updated num="4">Add the chili, chopped tomatoes, water, salt, and pepper. </steps_updated>
+    <steps_updated num="5">Mix well and bring to a boil. </steps_updated>
+    <steps_updated num="6">Simmer for 1 hour, until the sauce has thickened. </steps_updated>
+    <steps_updated num="7">Serve with rice and chopped coriander. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

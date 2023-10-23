@@ -1,0 +1,51 @@
+<recipe>
+  <title>Sesame Peanut Noodles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sesame-peanut-noodles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-eat-vegan-on-a-budget</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 13798 9924 13278 2935 5981 </ingredient>
+    <ingredient num="1">13086 9486 13278 9721 534 11691 2260 </ingredient>
+    <ingredient num="2">8580 9486 13278 9110 5766 </ingredient>
+    <ingredient num="3">8580 9486 13278 7706 10769 </ingredient>
+    <ingredient num="4">13086 9486 13278 12282 </ingredient>
+    <ingredient num="5">8580 1580 2031 13278 1368 4834 </ingredient>
+    <ingredient num="6">3917 2414 13278 11384 </ingredient>
+    <ingredient num="7">1580 14014 13278 6209 14635 10015 </ingredient>
+    <ingredient num="8">6735 643 13278 11609 3745 12968 560 3756 1128 13278 7503 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 3333 11021 13278 13412 5981 </ingredient>
+    <ingredient num="10">1580 2605 13278 3333 8083 2048 13278 2264 5981 </ingredient>
+    <ingredient num="11">9883 2605 13278 6501 14008 13278 6518 5981 </ingredient>
+    <ingredient num="12">3850 7990 4711 </ingredient>
+    <ingredient num="13">13584 9110 12320 7990 4711 </ingredient>
+    <ingredient num="14">10286 516 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90034/hls24_1524075673.m3u8</low>
+    <high>https://vid.tasty.co/output/90034/landscape_720/1524075673</high>
+  </video>
+  <duration>
+    <start_time>108.333</start_time>
+    <end_time>148.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 6212 4120 11951 13798 10907 11691 7280 9110 7632 7706 4450 13384 1368 6145 4155 13817 14418 13817 1279 1681 12119 </step>
+    <step num="1">10950 5994 2597 14511 740 11951 11609 8445 747 13817 8692 13817 5406 11770 11951 13798 9286 8431 4875 560 10968 12923 1681 2260 9490 7568 9456 </step>
+    <step num="2">12785 560 1066 13817 10707 1391 3850 13584 9110 12320 13817 1138 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 6212 4120 11951 13798 10907 11691 7280 9110 7632 7706 4450 13384 1368 6145 4155 13817 14418 13817 1279 1681 12119 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 740 11951 11609 8445 747 13817 8692 13817 5406 11770 11951 13798 9286 </steps_updated>
+    <steps_updated num="2">8431 4875 560 10968 12923 1681 2260 9490 7568 9456 </steps_updated>
+    <steps_updated num="3">12785 560 1066 13817 10707 1391 3850 13584 9110 12320 13817 1138 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

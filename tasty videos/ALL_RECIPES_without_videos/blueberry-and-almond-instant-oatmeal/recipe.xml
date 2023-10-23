@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry And Almond Instant Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-and-almond-instant-oatmeal</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthier-dorm-friendly-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; instant oatmeal ; (50 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; freeze-dried blueberry </ingredient>
+    <ingredient num="2">1 tablespoon ; slivered almond </ingredient>
+    <ingredient num="3">1 tablespoon ; chia seed </ingredient>
+    <ingredient num="4">⅛ teaspoon ; vanilla bean </ingredient>
+    <ingredient num="5">2 teaspoons ; sugar, of choice </ingredient>
+    <ingredient num="6">¾ cup ; boiling water, or milk ; (175 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57773/low_1508773504.m3u8</low>
+    <high>https://vid.tasty.co/output/57773/mp4_720x1280/1508773504</high>
+  </video>
+  <duration>
+    <start_time>87.1</start_time>
+    <end_time>106.449</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the instant oatmeal, freeze-dried blueberries, almonds, chia seeds, vanilla bean, and sugar into a mason jar. </step>
+    <step num="1">Store in a cool, dry place for up to a month. </step>
+    <step num="2">To prepare, pour boiling water or milk over oats. Stir to combine and let sit for 3 minutes. </step>
+    <step num="3">Serve with slivered almonds and fresh blueberries. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the instant oatmeal, freeze-dried blueberries, almonds, chia seeds, vanilla bean, and sugar into a mason jar. </steps_updated>
+    <steps_updated num="1">Store in a cool, dry place for up to a month. </steps_updated>
+    <steps_updated num="2">To prepare, pour boiling water or milk over oats. </steps_updated>
+    <steps_updated num="3">Stir to combine and let sit for 3 minutes. </steps_updated>
+    <steps_updated num="4">Serve with slivered almonds and fresh blueberries. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02651</start_time>
+    <end_time>03203</end_time>
+  </duration_human>
+</recipe>

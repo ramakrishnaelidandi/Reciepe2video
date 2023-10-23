@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Steak Fajita Quesadillas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steak-fajita-quesadillas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; skirt steak ; (455 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="5">1 teaspoon ; cumin </ingredient>
+    <ingredient num="6">1 ; onion, sliced </ingredient>
+    <ingredient num="7">4 cloves ; garlic, sliced </ingredient>
+    <ingredient num="8">3 ; bell peppers, sliced </ingredient>
+    <ingredient num="9">1 ; jalapeño pepper, sliced </ingredient>
+    <ingredient num="10">1 tablespoon ; butter </ingredient>
+    <ingredient num="11">4 ; large tortillas </ingredient>
+    <ingredient num="12">2 cups ; mexican blend cheese ; (200 g) </ingredient>
+    <ingredient num="13">guacamole </ingredient>
+    <ingredient num="14">sour cream </ingredient>
+    <ingredient num="15">salsa </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/21390/low_1484942611.m3u8</low>
+    <high>https://vid.tasty.co/output/21390/mp4_720x1280/1484942611</high>
+  </video>
+  <steps>
+    <step num="0">Season skirt steak with olive oil, salt, pepper, chili powder, and cumin. </step>
+    <step num="1">Cook on high heat for roughly 3 minutes each side, for medium-rare. </step>
+    <step num="2">Let the steak rest for 10 minutes. </step>
+    <step num="3">While the steak is resting, sauté onion and garlic until slightly translucent. Add bell peppers, jalapeño, salt, and pepper, cook slightly. </step>
+    <step num="4">Slice the steak into strips. </step>
+    <step num="5">Mix the steak into the pepper mix. Remove from heat and set aside. </step>
+    <step num="6">In a clean pan, melt butter. Lay the tortilla on the buttered pan, add cheese, fajita mixture, more cheese, then top with another tortilla and pat it down. </step>
+    <step num="7">Flip the quesadilla over and cook the other side until it’s golden. </step>
+    <step num="8">Remove from pan and cut into quarters or eighths. Repeat these steps with the remaining tortillas. </step>
+    <step num="9">Serve immediately with sour cream, salsa, and guacamole. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season skirt steak with olive oil, salt, pepper, chili powder, and cumin. </steps_updated>
+    <steps_updated num="1">Cook on high heat for roughly 3 minutes each side, for medium-rare. </steps_updated>
+    <steps_updated num="2">Let the steak rest for 10 minutes. </steps_updated>
+    <steps_updated num="3">While the steak is resting, sauté onion and garlic until slightly translucent. </steps_updated>
+    <steps_updated num="4">Add bell peppers, jalapeño, salt, and pepper, cook slightly. </steps_updated>
+    <steps_updated num="5">Slice the steak into strips. </steps_updated>
+    <steps_updated num="6">Mix the steak into the pepper mix. </steps_updated>
+    <steps_updated num="7">Remove from heat and set aside. </steps_updated>
+    <steps_updated num="8">In a clean pan, melt butter. </steps_updated>
+    <steps_updated num="9">Lay the tortilla on the buttered pan, add cheese, fajita mixture, more cheese, then top with another tortilla and pat it down. </steps_updated>
+    <steps_updated num="10">Flip the quesadilla over and cook the other side until it’s golden. </steps_updated>
+    <steps_updated num="11">Remove from pan and cut into quarters or eighths. </steps_updated>
+    <steps_updated num="12">Repeat these steps with the remaining tortillas. </steps_updated>
+    <steps_updated num="13">Serve immediately with sour cream, salsa, and guacamole. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<recipe>
+  <title>Bell Pepper Egg Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bell-pepper-egg-rings</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-under-10-minutes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 12708 </ingredient>
+    <ingredient num="1">3917 13278 11091 1466 7845 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57653/low_1508540059.m3u8</low>
+    <high>https://vid.tasty.co/output/57653/mp4_720x1280/1508540059</high>
+  </video>
+  <duration>
+    <start_time>35.17</start_time>
+    <end_time>58.36</end_time>
+  </duration>
+  <steps>
+    <step num="0">3235 5994 11091 1466 7845 4255 4996 11801 560 3535 13607 </step>
+    <step num="1">5570 11951 8580 3571 210 5994 5687 13817 3945 11779 7990 5994 8631 773 </step>
+    <step num="2">4652 797 6216 1864 10763 371 11951 13607 </step>
+    <step num="3">4660 11951 5687 13817 2550 12002 12689 9526 560 13218 598 </step>
+    <step num="4">12774 11951 1466 7845 6216 3571 1391 4870 13817 11682 6059 13494 1391 82 13817 7845 560 8686 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 5994 11091 1466 7845 4255 4996 11801 560 3535 13607 </steps_updated>
+    <steps_updated num="1">5570 11951 8580 3571 210 5994 5687 13817 3945 11779 7990 5994 8631 773 </steps_updated>
+    <steps_updated num="2">4652 797 6216 1864 10763 371 11951 13607 </steps_updated>
+    <steps_updated num="3">4660 11951 5687 13817 2550 12002 12689 </steps_updated>
+    <steps_updated num="4">9526 560 13218 598 </steps_updated>
+    <steps_updated num="5">12774 11951 1466 7845 6216 3571 1391 4870 13817 11682 </steps_updated>
+    <steps_updated num="6">6059 13494 1391 82 13817 7845 560 8686 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01107</start_time>
+    <end_time>01771</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Beef And Broccoli Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-beef-and-broccoli</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; flank steak, sliced into thin strips ; (455 g) </ingredient>
+    <ingredient num="1">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">½ teaspoon ; grated ginger </ingredient>
+    <ingredient num="3">2 tablespoons ; sesame oil </ingredient>
+    <ingredient num="4">⅓ cup ; low sodium soy sauce ; (80 mL) </ingredient>
+    <ingredient num="5">¼ cup ; brown sugar ; (55 g) </ingredient>
+    <ingredient num="6">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="7">1 cup ; beef broth ; (240 mL) </ingredient>
+    <ingredient num="8">4 cups ; broccoli floret ; (700 g) </ingredient>
+    <ingredient num="9">2 tablespoons ; cornstarch </ingredient>
+    <ingredient num="10">2 tablespoons ; water </ingredient>
+    <ingredient num="11">sesame seed, as desired </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25866/low_1488926435.m3u8</low>
+    <high>https://vid.tasty.co/output/25866/mp4_720x1280/1488926435</high>
+  </video>
+  <steps>
+    <step num="0">In an oiled skillet over medium-high heat, sear the steak until cooked all the way through. Remove from the pan. </step>
+    <step num="1">Add a little more oil, then add the garlic and ginger to the pan. Sauté until soft. </step>
+    <step num="2">Add the sesame oil, soy sauce, brown sugar, honey, and beef broth. Stir until combined. </step>
+    <step num="3">Add the broccoli florets. </step>
+    <step num="4">In a separate bowl, combine cornstarch and water. Add to broccoli mixture. Bring to a boil, until sauce has thickened. </step>
+    <step num="5">Add the beef back into the mixture, and serve over rice with sesame seeds, if desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In an oiled skillet over medium-high heat, sear the steak until cooked all the way through. </steps_updated>
+    <steps_updated num="1">Remove from the pan. </steps_updated>
+    <steps_updated num="2">Add a little more oil, then add the garlic and ginger to the pan. </steps_updated>
+    <steps_updated num="3">Sauté until soft. </steps_updated>
+    <steps_updated num="4">Add the sesame oil, soy sauce, brown sugar, honey, and beef broth. </steps_updated>
+    <steps_updated num="5">Stir until combined. </steps_updated>
+    <steps_updated num="6">Add the broccoli florets. </steps_updated>
+    <steps_updated num="7">In a separate bowl, combine cornstarch and water. </steps_updated>
+    <steps_updated num="8">Add to broccoli mixture. </steps_updated>
+    <steps_updated num="9">Bring to a boil, until sauce has thickened. </steps_updated>
+    <steps_updated num="10">Add the beef back into the mixture, and serve over rice with sesame seeds, if desired. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

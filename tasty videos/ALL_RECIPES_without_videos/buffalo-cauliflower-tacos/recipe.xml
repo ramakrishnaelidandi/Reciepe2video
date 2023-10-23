@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buffalo Cauliflower Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-cauliflower-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/meatless-tacos-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower </ingredient>
+    <ingredient num="1">¾ cup ; flour ; (95 g) </ingredient>
+    <ingredient num="2">¾ cup ; milk, or milk alternative ; (175 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; paprika </ingredient>
+    <ingredient num="4">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">½ teaspoon ; pepper </ingredient>
+    <ingredient num="7">¼ cup ; hot sauce ; (70 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="9">1 tablespoon ; honey </ingredient>
+    <ingredient num="10">tortilla, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Lunch</category>
+    <category num="7">Game Day</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/60252/low_1509996185.m3u8</low>
+    <high>https://vid.tasty.co/output/60252/mp4_720x1280/1509996185</high>
+  </video>
+  <duration>
+    <start_time>30.119999999999997</start_time>
+    <end_time>95.49</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 450˚F (230˚C). </step>
+    <step num="1">On a cutting board, break the head of cauliflower into florets. </step>
+    <step num="2">In a large mixing bowl, add flour, paprika, garlic powder, salt, pepper, and milk, and stir until well combined. </step>
+    <step num="3">Add cauliflower florets to batter, making sure each piece is evenly coated. </step>
+    <step num="4">Transfer to a parchment paper-lined baking sheet and bake for 20 minutes, flipping halfway. </step>
+    <step num="5">In a small mixing bowl, combine hot sauce, vegetable oil, and honey, and stir until evenly combined. </step>
+    <step num="6">Brush hot sauce mixture on cauliflower and bake for an additional 20 minutes. </step>
+    <step num="7">Serve on warm tortillas with desired taco toppings. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">On a cutting board, break the head of cauliflower into florets. </steps_updated>
+    <steps_updated num="2">In a large mixing bowl, add flour, paprika, garlic powder, salt, pepper, and milk, and stir until well combined. </steps_updated>
+    <steps_updated num="3">Add cauliflower florets to batter, making sure each piece is evenly coated. </steps_updated>
+    <steps_updated num="4">Transfer to a parchment paper-lined baking sheet and bake for 20 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="5">In a small mixing bowl, combine hot sauce, vegetable oil, and honey, and stir until evenly combined. </steps_updated>
+    <steps_updated num="6">Brush hot sauce mixture on cauliflower and bake for an additional 20 minutes. </steps_updated>
+    <steps_updated num="7">Serve on warm tortillas with desired taco toppings. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00959</start_time>
+    <end_time>02858</end_time>
+  </duration_human>
+</recipe>

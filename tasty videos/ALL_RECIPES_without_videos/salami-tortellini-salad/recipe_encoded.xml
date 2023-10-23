@@ -1,0 +1,39 @@
+<recipe>
+  <title>Salami Tortellini Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/salami-tortellini-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 2334 </ingredient>
+    <ingredient num="1">1580 2605 13278 14538 5062 3745 13278 3433 5981 </ingredient>
+    <ingredient num="2">8580 9486 13278 4282 3962 </ingredient>
+    <ingredient num="3">1580 13278 2192 9491 3962 </ingredient>
+    <ingredient num="4">1580 2605 13278 6209 749 3962 13278 828 5981 </ingredient>
+    <ingredient num="5">3917 14014 13278 3333 109 14538 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102953/hls24_1532454040.m3u8</low>
+    <high>https://vid.tasty.co/output/102953/landscape_720/1532454040</high>
+  </video>
+  <duration>
+    <start_time>27.333</start_time>
+    <end_time>45.266</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 2334 560 11951 551 371 5994 9840 4551 9443 9190 13531 </step>
+    <step num="1">9179 11951 5062 4282 9491 749 13817 10226 </step>
+    <step num="2">10434 210 11951 7111 7990 6865 2497 </step>
+    <step num="3">11233 12550 560 1471 7934 3145 560 1011 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 2334 560 11951 551 371 5994 9840 4551 9443 9190 13531 </steps_updated>
+    <steps_updated num="1">9179 11951 5062 4282 9491 749 13817 10226 </steps_updated>
+    <steps_updated num="2">10434 210 11951 7111 7990 6865 2497 </steps_updated>
+    <steps_updated num="3">11233 12550 560 1471 7934 3145 560 1011 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

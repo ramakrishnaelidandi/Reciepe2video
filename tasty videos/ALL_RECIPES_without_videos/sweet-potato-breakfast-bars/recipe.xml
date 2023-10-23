@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato Breakfast Bars Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-breakfast-bars</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-holiday-leftovers</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; mashed sweet potato ; (375 g) </ingredient>
+    <ingredient num="1">5 tablespoons ; almond butter </ingredient>
+    <ingredient num="2">⅓ cup ; maple syrup ; (110 g) </ingredient>
+    <ingredient num="3">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">2 ¼ cups ; rolled oats ; (180 g) </ingredient>
+    <ingredient num="5">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="6">½ teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="7">⅓ cup ; slivered almond ; (25 g) </ingredient>
+    <ingredient num="8">⅓ cup ; shredded coconut ; (35 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/119172/hls24_1544558806.m3u8</low>
+    <high>https://vid.tasty.co/output/119172/landscape_720/1544558806</high>
+  </video>
+  <duration>
+    <start_time>111.166</start_time>
+    <end_time>160.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line a 9-inch (23 cm) square baking pan with parchment paper. </step>
+    <step num="1">In a large bowl, stir together the mashed sweet potatoes, almond butter, maple syrup, and vanilla until well combined. Add the oats, cinnamon, and nutmeg and stir until well combined. </step>
+    <step num="2">Transfer the mixture to the baking pan and spread in an even layer with a spatula. </step>
+    <step num="3">Bake for 20 minutes. Remove from oven and top with the slivered almonds and shredded coconut, pressing gently into the bars. Bake for another 10 minutes, until the coconut is lightly toasted. </step>
+    <step num="4">Let cool for 10 minutes, then slice into 9 bars. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line a 9-inch (23 cm) square baking pan with parchment paper. </steps_updated>
+    <steps_updated num="2">In a large bowl, stir together the mashed sweet potatoes, almond butter, maple syrup, and vanilla until well combined. </steps_updated>
+    <steps_updated num="3">Add the oats, cinnamon, and nutmeg and stir until well combined. </steps_updated>
+    <steps_updated num="4">Transfer the mixture to the baking pan and spread in an even layer with a spatula. </steps_updated>
+    <steps_updated num="5">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="6">Remove from oven and top with the slivered almonds and shredded coconut, pressing gently into the bars. </steps_updated>
+    <steps_updated num="7">Bake for another 10 minutes, until the coconut is lightly toasted. </steps_updated>
+    <steps_updated num="8">Let cool for 10 minutes, then slice into 9 bars. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

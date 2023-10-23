@@ -1,0 +1,43 @@
+<recipe>
+  <title>Fruit Lollies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fruit-lollies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 76 976 </ingredient>
+    <ingredient num="1">13086 9517 13278 13098 10480 1991 13817 7514 669 2192 13009 7990 10416 8580 13278 1513 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 8455 10480 2532 11951 8540 7990 10416 8580 13278 6898 5981 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 6289 10480 2532 11951 8540 7990 10416 8580 13278 757 5981 </ingredient>
+    <ingredient num="4">3917 12791 9517 13278 3713 13278 1513 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8786/low_1472771230.m3u8</low>
+    <high>https://vid.tasty.co/output/8786/mp4_720x1280/1472771230</high>
+  </video>
+  <steps>
+    <step num="0">3262 3626 11951 76 2532 371 11951 7234 2532 371 11951 4406 2532 371 11951 6289 13817 8554 371 11951 3713 210 5994 8016 41 </step>
+    <step num="1">6054 11951 6061 415 6142 210 11951 12886 371 11951 11682 </step>
+    <step num="2">1083 1148 2373 669 5994 4465 2141 13817 9370 409 2025 12401 3763 3584 1690 3017 </step>
+    <step num="3">13855 14142 </step>
+    <step num="4">12251 560 14070 7990 13928 666 12689 </step>
+    <step num="5">6054 6781 2860 13817 7777 11951 4867 2696 1391 5994 5133 4144 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3262 3626 11951 76 2532 371 11951 7234 2532 371 11951 4406 2532 371 11951 6289 13817 8554 371 11951 3713 210 5994 8016 41 </steps_updated>
+    <steps_updated num="1">6054 11951 6061 415 6142 210 11951 12886 371 11951 11682 </steps_updated>
+    <steps_updated num="2">1083 1148 2373 669 5994 4465 2141 13817 9370 409 2025 12401 3763 3584 1690 3017 </steps_updated>
+    <steps_updated num="3">13855 14142 </steps_updated>
+    <steps_updated num="4">12251 560 14070 7990 13928 666 12689 </steps_updated>
+    <steps_updated num="5">6054 6781 2860 13817 7777 11951 4867 2696 1391 5994 5133 4144 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

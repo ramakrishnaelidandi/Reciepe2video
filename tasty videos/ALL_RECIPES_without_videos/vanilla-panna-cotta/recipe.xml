@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vanilla Panna Cotta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-panna-cotta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-italian-dinner</comp_url>
+  <ingredients>
+    <ingredient num="0">1 teaspoon ; unflavored gelatin </ingredient>
+    <ingredient num="1">1 tablespoon ; cold water </ingredient>
+    <ingredient num="2">1 ½ cups ; heavy cream ; (360 mL) </ingredient>
+    <ingredient num="3">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="4">¼ teaspoon ; vanilla extract </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Date Night</category>
+    <category num="3">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22789/low_1485992761.m3u8</low>
+    <high>https://vid.tasty.co/output/22789/mp4_720x1280/1485992761</high>
+  </video>
+  <duration>
+    <start_time>74.38</start_time>
+    <end_time>114.38</end_time>
+  </duration>
+  <steps>
+    <step num="0">Sprinkle gelatin over the water. The gelatin will absorb the water and dissolve, in a process called “blooming.” </step>
+    <step num="1">In a small saucepan, combine heavy cream with sugar and cook over medium until it’s at the scalding point, or just under a boil. </step>
+    <step num="2">Once the cream has almost reached the boiling point, remove from heat and add vanilla extract and bloomed gelatin. Stir until fully dissolved. </step>
+    <step num="3">Strain panna cotta mixture into desired serving tempered glasses. </step>
+    <step num="4">Allow cream to come to room temperature before chilling in the fridge for 2-4 hours, or until the cream is firm in texture. </step>
+    <step num="5">Top with berries and honey. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Sprinkle gelatin over the water. </steps_updated>
+    <steps_updated num="1">The gelatin will absorb the water and dissolve, in a process called “blooming.” </steps_updated>
+    <steps_updated num="2">In a small saucepan, combine heavy cream with sugar and cook over medium until it’s at the scalding point, or just under a boil. </steps_updated>
+    <steps_updated num="3">Once the cream has almost reached the boiling point, remove from heat and add vanilla extract and bloomed gelatin. </steps_updated>
+    <steps_updated num="4">Stir until fully dissolved. </steps_updated>
+    <steps_updated num="5">Strain panna cotta mixture into desired serving tempered glasses. </steps_updated>
+    <steps_updated num="6">Allow cream to come to room temperature before chilling in the fridge for 2-4 hours, or until the cream is firm in texture. </steps_updated>
+    <steps_updated num="7">Top with berries and honey. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02293</start_time>
+    <end_time>03441</end_time>
+  </duration_human>
+</recipe>

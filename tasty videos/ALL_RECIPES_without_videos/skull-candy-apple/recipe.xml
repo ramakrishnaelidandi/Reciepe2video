@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Skull Candy Apple Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/skull-candy-apple</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">red delicious apple </ingredient>
+    <ingredient num="1">white chocolate, melted </ingredient>
+    <ingredient num="2">red gel frosting </ingredient>
+    <ingredient num="3">cake pop stick </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">Insert a cake pop stick through the top of an apple. </step>
+    <step num="1">Create a melting face by using melted white chocolate. Outline three circles on the side of your apple. Leave these circles unfilled. </step>
+    <step num="2">Create a dripping design around the apple by coating the apple with melted white chocolate. </step>
+    <step num="3">Use red gel frosting to garnish your apple and to create an oozing blood design. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Insert a cake pop stick through the top of an apple. </steps_updated>
+    <steps_updated num="1">Create a melting face by using melted white chocolate. </steps_updated>
+    <steps_updated num="2">Outline three circles on the side of your apple. </steps_updated>
+    <steps_updated num="3">Leave these circles unfilled. </steps_updated>
+    <steps_updated num="4">Create a dripping design around the apple by coating the apple with melted white chocolate. </steps_updated>
+    <steps_updated num="5">Use red gel frosting to garnish your apple and to create an oozing blood design. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

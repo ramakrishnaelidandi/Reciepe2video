@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Applesauce And Apple Butter Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-applesauce-and-apple-butter</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; red apples, combination of gala, honeycrip, and mcintosh </ingredient>
+    <ingredient num="1">¾ cup ; water ; (180 mL) </ingredient>
+    <ingredient num="2">¼ teaspoon ; salt </ingredient>
+    <ingredient num="3">3 sticks ; cinnamon </ingredient>
+    <ingredient num="4">⅓ cup ; dark brown sugar ; (75 g) </ingredient>
+    <ingredient num="5">½ teaspoon ; vanilla </ingredient>
+    <ingredient num="6">¼ teaspoon ; cinnamon </ingredient>
+    <ingredient num="7">⅛ teaspoon ; nutmeg </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/109526/hls24_1537376253.m3u8</low>
+    <high>https://vid.tasty.co/output/109526/landscape_720/1537376253</high>
+  </video>
+  <steps>
+    <step num="0">Peel and roughly dice the apples, removing the cores. </step>
+    <step num="1">Add the apples to a slow cooker with the water, salt, and cinnamon sticks, and stir to combine. Cover and cook on high for 4 hours or low for 8 hours, stirring halfway through. </step>
+    <step num="2">Uncover and remove the cinnamon sticks. Using an immersion blender, blend until your desired consistency is reached. </step>
+    <step num="3">Scoop out half of the applesauce and enjoy immediately or refrigerate in an airtight container for up to 10 days. </step>
+    <step num="4">To the remaining applesauce, add the brown sugar, vanilla, cinnamon, and nutmeg, and stir to combine. Cover and cook for 3 hours on high or 6 hours on low, stirring halfway through. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel and roughly dice the apples, removing the cores. </steps_updated>
+    <steps_updated num="1">Add the apples to a slow cooker with the water, salt, and cinnamon sticks, and stir to combine. </steps_updated>
+    <steps_updated num="2">Cover and cook on high for 4 hours or low for 8 hours, stirring halfway through. </steps_updated>
+    <steps_updated num="3">Uncover and remove the cinnamon sticks. </steps_updated>
+    <steps_updated num="4">Using an immersion blender, blend until your desired consistency is reached. </steps_updated>
+    <steps_updated num="5">Scoop out half of the applesauce and enjoy immediately or refrigerate in an airtight container for up to 10 days. </steps_updated>
+    <steps_updated num="6">To the remaining applesauce, add the brown sugar, vanilla, cinnamon, and nutmeg, and stir to combine. </steps_updated>
+    <steps_updated num="7">Cover and cook for 3 hours on high or 6 hours on low, stirring halfway through. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,39 @@
+<recipe>
+  <title>Sunny-Side Up Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sunny-side-up</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 9924 </ingredient>
+    <ingredient num="1">3917 13278 6216 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>26.666</start_time>
+    <end_time>46.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">12305 11951 9924 210 5994 13757 5291 5687 11770 8283 2082 </step>
+    <step num="1">4652 11951 6216 669 11951 5687 13817 3945 3557 2550 1681 11951 6216 4072 13824 9218 6285 3917 6513 6252 1391 82 13817 12375 4660 1391 5994 5378 4255 7990 3917 12110 560 13670 8224 11951 13784 13827 12296 13817 5103 11951 6216 6781 11951 10590 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12305 11951 9924 210 5994 13757 5291 5687 11770 8283 2082 </steps_updated>
+    <steps_updated num="1">4652 11951 6216 669 11951 5687 13817 3945 3557 2550 1681 11951 6216 4072 13824 9218 6285 3917 6513 </steps_updated>
+    <steps_updated num="2">6252 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">4660 1391 5994 5378 4255 7990 3917 12110 560 13670 8224 11951 13784 </steps_updated>
+    <steps_updated num="4">13827 12296 13817 5103 11951 6216 6781 11951 10590 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

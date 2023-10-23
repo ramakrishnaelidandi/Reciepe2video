@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon, Egg, And Cheese Breakfast Bread Boat Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-egg-and-cheese-breakfast-bread-boat</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; baguette </ingredient>
+    <ingredient num="1">5 ; large eggs </ingredient>
+    <ingredient num="2">⅓ cup ; heavy cream, or whole milk ; (80 mL) </ingredient>
+    <ingredient num="3">4 oz ; bacon bits, cooked ; (115 g) </ingredient>
+    <ingredient num="4">4 oz ; cheese, shredded ; (115 g) </ingredient>
+    <ingredient num="5">2 ; green onions, thinly sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32221/low_1495125450.m3u8</low>
+    <high>https://vid.tasty.co/output/32221/mp4_720x1280/1495125450</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, mix eggs, cream, bacon, cheese, and onions. </step>
+    <step num="1">Cut a long rectangle through the top of the baguette and partially unstuff the baguette. </step>
+    <step num="2">Spoon the mixture into the baguette. </step>
+    <step num="3">Bake for 25 minutes at 350°F/ 175°C </step>
+    <step num="4">Cut and serve while still warm. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, mix eggs, cream, bacon, cheese, and onions. </steps_updated>
+    <steps_updated num="1">Cut a long rectangle through the top of the baguette and partially unstuff the baguette. </steps_updated>
+    <steps_updated num="2">Spoon the mixture into the baguette. </steps_updated>
+    <steps_updated num="3">Bake for 25 minutes at 350°F/ 175°C </steps_updated>
+    <steps_updated num="4">Cut and serve while still warm. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

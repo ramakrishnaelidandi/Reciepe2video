@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Halloween Candy Cookie Bars Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/halloween-candy-cookie-bars</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; white sugar ; (200 g) </ingredient>
+    <ingredient num="1">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="2">1 cup ; butter, melted ; (230 g) </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+    <ingredient num="4">1 tablespoon ; vanilla </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="7">2 cups ; assorted candy, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13015/low_1477501168.m3u8</low>
+    <high>https://vid.tasty.co/output/13015/mp4_720x1280/1477501168</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350ºF (175ºC). </step>
+    <step num="1">Chop your Halloween candy into bite-size pieces. </step>
+    <step num="2">In a large bowl, mix sugars and melted butter, whisk until mix turns lighter (around 8 minutes). </step>
+    <step num="3">Mix in eggs and vanilla, then salt and flour until completely blended. </step>
+    <step num="4">Mix in the candy. </step>
+    <step num="5">Bake for 45-50 minutes. </step>
+    <step num="6">Allow to cool. </step>
+    <step num="7">Cut into squares. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350ºF (175ºC). </steps_updated>
+    <steps_updated num="1">Chop your Halloween candy into bite-size pieces. </steps_updated>
+    <steps_updated num="2">In a large bowl, mix sugars and melted butter, whisk until mix turns lighter (around 8 minutes). </steps_updated>
+    <steps_updated num="3">Mix in eggs and vanilla, then salt and flour until completely blended. </steps_updated>
+    <steps_updated num="4">Mix in the candy. </steps_updated>
+    <steps_updated num="5">Bake for 45-50 minutes. </steps_updated>
+    <steps_updated num="6">Allow to cool. </steps_updated>
+    <steps_updated num="7">Cut into squares. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

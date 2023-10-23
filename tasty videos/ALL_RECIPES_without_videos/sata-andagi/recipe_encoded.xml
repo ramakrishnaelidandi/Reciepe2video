@@ -1,0 +1,56 @@
+<recipe>
+  <title>Sata Andagi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sata-andagi</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/street-treats-from-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">7632 7990 5291 </ingredient>
+    <ingredient num="1">11061 9517 13278 8554 5735 890 13278 6686 5981 </ingredient>
+    <ingredient num="2">13086 9517 13278 4834 13278 8941 5981 </ingredient>
+    <ingredient num="3">8580 9486 13278 10765 3294 </ingredient>
+    <ingredient num="4">1580 8071 13278 82 </ingredient>
+    <ingredient num="5">11061 13278 2597 12708 </ingredient>
+    <ingredient num="6">3917 2605 13278 3305 5802 13278 7503 8007 </ingredient>
+    <ingredient num="7">12791 2605 13278 13956 13278 13125 8007 </ingredient>
+    <ingredient num="8">3917 2157 371 13278 13956 5921 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96870/hls24_1527884128.m3u8</low>
+    <high>https://vid.tasty.co/output/96870/landscape_720/1527884128</high>
+  </video>
+  <duration>
+    <start_time>359.0</start_time>
+    <end_time>412.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">1349 5994 11358 10083 5895 10060 1391 9815 5766 560 4603 8580 4735 103 1645 6781 11951 10707 371 11951 10590 8889 11951 5766 11770 13757 7855 1681 3557 13751 12738 1610 </step>
+    <step num="1">10950 5994 2597 14511 8341 3626 11951 6467 6145 10765 2101 13817 12051 </step>
+    <step num="2">12473 210 11951 14463 9889 13817 13956 8587 9393 1681 5994 7711 4428 11836 </step>
+    <step num="3">9179 11951 13956 5921 13817 10968 560 502 </step>
+    <step num="4">5209 5994 7155 1374 5895 14356 7416 3903 4762 1808 8337 2984 669 11951 6222 14158 </step>
+    <step num="5">8916 7990 6285 1106 11004 5895 1681 10963 2147 12450 11582 5376 5213 560 11951 12605 10570 6665 12573 13686 </step>
+    <step num="6">11720 4255 5994 12 14550 9086 </step>
+    <step num="7">12774 4527 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1349 5994 11358 10083 5895 10060 1391 9815 5766 560 4603 8580 4735 103 1645 6781 11951 10707 371 11951 10590 </steps_updated>
+    <steps_updated num="1">8889 11951 5766 11770 13757 7855 1681 3557 13751 12738 1610 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 8341 3626 11951 6467 6145 10765 2101 13817 12051 </steps_updated>
+    <steps_updated num="3">12473 210 11951 14463 9889 13817 13956 8587 </steps_updated>
+    <steps_updated num="4">9393 1681 5994 7711 4428 11836 </steps_updated>
+    <steps_updated num="5">9179 11951 13956 5921 13817 10968 560 502 </steps_updated>
+    <steps_updated num="6">5209 5994 7155 1374 5895 14356 7416 3903 4762 1808 8337 2984 669 11951 6222 14158 </steps_updated>
+    <steps_updated num="7">8916 7990 6285 1106 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="8">12450 11582 5376 5213 560 11951 12605 10570 6665 12573 13686 </steps_updated>
+    <steps_updated num="9">11720 4255 5994 12 14550 9086 </steps_updated>
+    <steps_updated num="10">12774 4527 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

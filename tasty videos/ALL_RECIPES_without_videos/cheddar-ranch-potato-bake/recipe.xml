@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheddar Ranch Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-ranch-potato-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">9 ; red potatoes </ingredient>
+    <ingredient num="1">½ cup ; ranch dressing ; (120 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="3">1 teaspoon ; paprika </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="7">¼ cup ; fresh chives, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10076/low_1473871416.m3u8</low>
+    <high>https://vid.tasty.co/output/10076/mp4_720x1280/1473871416</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200˚C). </step>
+    <step num="1">Slice the potatoes in half, lengthwise, then slice each half lengthwise three times and across four times, to cube. </step>
+    <step num="2">Bring a large pot of water to a boil and drop in chopped potatoes, cook 10 minutes. </step>
+    <step num="3">Drain potatoes and mix in ranch, garlic powder, paprika, salt, and pepper. </step>
+    <step num="4">Transfer to a 9x13-inch (23x33 cm) baking dish. </step>
+    <step num="5">Bake for 30-35 minutes, or until nicely browned. </step>
+    <step num="6">While still hot, mix in cheddar and chives. </step>
+    <step num="7">Allow to cool for 5 minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200˚C). </steps_updated>
+    <steps_updated num="1">Slice the potatoes in half, lengthwise, then slice each half lengthwise three times and across four times, to cube. </steps_updated>
+    <steps_updated num="2">Bring a large pot of water to a boil and drop in chopped potatoes, cook 10 minutes. </steps_updated>
+    <steps_updated num="3">Drain potatoes and mix in ranch, garlic powder, paprika, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Transfer to a 9x13-inch (23x33 cm) baking dish. </steps_updated>
+    <steps_updated num="5">Bake for 30-35 minutes, or until nicely browned. </steps_updated>
+    <steps_updated num="6">While still hot, mix in cheddar and chives. </steps_updated>
+    <steps_updated num="7">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

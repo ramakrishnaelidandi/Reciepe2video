@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Bacon Twists Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-bacon-twists</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-for-your-sweet-and-savory-cravings</comp_url>
+  <ingredients>
+    <ingredient num="0">1 packet ; puff pastry </ingredient>
+    <ingredient num="1">1 ; egg, beaten, for egg wash </ingredient>
+    <ingredient num="2">1 teaspoon ; paprika, or cayenne pepper, both optional </ingredient>
+    <ingredient num="3">⅔ cup ; cheddar cheese ; (150 g) </ingredient>
+    <ingredient num="4">10 ; rashers streaky bacons </ingredient>
+    <ingredient num="5">brown sugar </ingredient>
+    <ingredient num="6">fresh rosemary, minced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/119306/hls24_1544613619.m3u8</low>
+    <high>https://vid.tasty.co/output/119306/landscape_720/1544613619</high>
+  </video>
+  <duration>
+    <start_time>7.166</start_time>
+    <end_time>47.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Roll out the pastry and brush with the beaten egg. </step>
+    <step num="1">Sprinkle on the paprika and cheese evenly, then sprinkle flour on a rolling pin and flatten down. </step>
+    <step num="2">Cut into ½ inch (1 ¼ cm) wide strips, then fold in half and pinch the ends together. Gently twist pastry. </step>
+    <step num="3">Wrap bacon around the twists. </step>
+    <step num="4">Sprinkle on brown sugar and minced rosemary. </step>
+    <step num="5">Bake at 350°F (190°C) for 45-50 minutes, turning halfway through to make sure they are golden brown all over. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Roll out the pastry and brush with the beaten egg. </steps_updated>
+    <steps_updated num="1">Sprinkle on the paprika and cheese evenly, then sprinkle flour on a rolling pin and flatten down. </steps_updated>
+    <steps_updated num="2">Cut into ½ inch (1 ¼ cm) wide strips, then fold in half and pinch the ends together. </steps_updated>
+    <steps_updated num="3">Gently twist pastry. </steps_updated>
+    <steps_updated num="4">Wrap bacon around the twists. </steps_updated>
+    <steps_updated num="5">Sprinkle on brown sugar and minced rosemary. </steps_updated>
+    <steps_updated num="6">Bake at 350°F (190°C) for 45-50 minutes, turning halfway through to make sure they are golden brown all over. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

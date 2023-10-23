@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet &amp; Sour Pork Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-sour-pork</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; pork shoulder, or pork butt ; (910 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="3">¼ cup ; green onion ; (25 g) </ingredient>
+    <ingredient num="4">½ cup ; soy sauce, divided </ingredient>
+    <ingredient num="5">2 tablespoons ; vegetable oil, plus more for frying </ingredient>
+    <ingredient num="6">3 ; eggs, beaten </ingredient>
+    <ingredient num="7">1 ½ cups ; cornstarch ; (190 g) </ingredient>
+    <ingredient num="8">1 ; white onion, chopped </ingredient>
+    <ingredient num="9">1 ; red bell pepper </ingredient>
+    <ingredient num="10">1 ; green bell pepper </ingredient>
+    <ingredient num="11">8 oz ; chopped pineapple with syrup ; (225 g) </ingredient>
+    <ingredient num="12">¼ cup ; vinegar ; (60 mL) </ingredient>
+    <ingredient num="13">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="14">¼ cup ; ketchup ; (55 g) </ingredient>
+    <ingredient num="15">cooked white rice, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18681/low_1482255317.m3u8</low>
+    <high>https://vid.tasty.co/output/18681/mp4_720x1280/1482255317</high>
+  </video>
+  <steps>
+    <step num="0">Cut pork into bite-sized pieces and place in a medium-sized bowl. </step>
+    <step num="1">Season with pepper and add soy sauce, garlic, and green onion. </step>
+    <step num="2">Cover and let marinate for 1-2 hours. </step>
+    <step num="3">Coat pork pieces with egg, dip in cornstarch, and fry until crispy and golden (about 2 minutes). </step>
+    <step num="4">Drain on paper towels. </step>
+    <step num="5">Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat. Add the onion and bell pepper. </step>
+    <step num="6">Once the vegetables start to become tender, add pineapple with syrup. </step>
+    <step num="7">Stir for 30 seconds before adding vinegar, soy sauce, ketchup, and sugar. Stir regularly over medium-high heat for 3-4 minutes as water evaporates and sauce thickens. </step>
+    <step num="8">Add the pork to the pan once the sauce begins to thicken. Stir to coat evenly. </step>
+    <step num="9">Garnish with additional green onions and a sprinkle of sesame seeds. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut pork into bite-sized pieces and place in a medium-sized bowl. </steps_updated>
+    <steps_updated num="1">Season with pepper and add soy sauce, garlic, and green onion. </steps_updated>
+    <steps_updated num="2">Cover and let marinate for 1-2 hours. </steps_updated>
+    <steps_updated num="3">Coat pork pieces with egg, dip in cornstarch, and fry until crispy and golden (about 2 minutes). </steps_updated>
+    <steps_updated num="4">Drain on paper towels. </steps_updated>
+    <steps_updated num="5">Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat. </steps_updated>
+    <steps_updated num="6">Add the onion and bell pepper. </steps_updated>
+    <steps_updated num="7">Once the vegetables start to become tender, add pineapple with syrup. </steps_updated>
+    <steps_updated num="8">Stir for 30 seconds before adding vinegar, soy sauce, ketchup, and sugar. </steps_updated>
+    <steps_updated num="9">Stir regularly over medium-high heat for 3-4 minutes as water evaporates and sauce thickens. </steps_updated>
+    <steps_updated num="10">Add the pork to the pan once the sauce begins to thicken. </steps_updated>
+    <steps_updated num="11">Stir to coat evenly. </steps_updated>
+    <steps_updated num="12">Garnish with additional green onions and a sprinkle of sesame seeds. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

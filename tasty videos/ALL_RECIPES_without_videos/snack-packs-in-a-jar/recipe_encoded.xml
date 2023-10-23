@@ -1,0 +1,56 @@
+<recipe>
+  <title>Snack Packs In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snack-packs-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/clever-mason-jar-hacks</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 12669 13278 4587 3962 669 12401 </ingredient>
+    <ingredient num="1">12791 2605 13278 638 9924 13278 2935 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 9767 3713 13278 13113 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 13592 6209 823 13278 1258 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 5359 13278 1258 5981 </ingredient>
+    <ingredient num="5">1580 13278 10837 3962 669 12401 </ingredient>
+    <ingredient num="6">3917 13278 2597 5425 3962 669 12401 </ingredient>
+    <ingredient num="7">12791 2605 13278 840 13278 13125 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50560/low_1504212116.m3u8</low>
+    <high>https://vid.tasty.co/output/50560/mp4_720x1280/1504212116</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>23.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">11229 2696 2237 1879 5895 10445 7210 1854 5104 3631 </step>
+    <step num="1">2715 11951 10848 13817 638 10907 13262 11951 3801 1391 638 9924 415 13262 5994 8871 9190 7051 1391 11951 10848 2132 6503 11951 638 9924 3801 4255 10707 371 11951 9190 7051 13817 3955 4255 11951 5378 12328 </step>
+    <step num="2">2715 11951 2694 750 13817 6738 13262 797 3801 1391 11951 8540 415 13262 11951 11649 3801 1391 11951 11324 10993 13262 5994 8871 9190 7051 1391 11951 1100 5132 5570 11951 823 3801 1864 371 11951 9190 13531 5570 11951 9190 377 754 2142 11770 11951 5359 3801 415 10954 13821 573 1802 11951 9190 13531 5704 669 3345 12328 </step>
+    <step num="3">2715 11951 4168 12401 13817 7429 13262 11951 3801 1391 840 415 13262 5994 8871 9190 7051 1391 11951 4168 2132 6503 11951 840 3801 1864 371 11951 9190 7051 13817 3955 4255 11951 5378 12328 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">11229 2696 2237 1879 5895 10445 7210 1854 </steps_updated>
+    <steps_updated num="1">5104 3631 </steps_updated>
+    <steps_updated num="2">2715 11951 10848 13817 638 10907 13262 11951 3801 1391 638 9924 415 13262 5994 8871 9190 7051 1391 11951 10848 2132 </steps_updated>
+    <steps_updated num="3">6503 11951 638 9924 3801 4255 10707 371 11951 9190 7051 13817 3955 4255 11951 5378 12328 </steps_updated>
+    <steps_updated num="4">2715 11951 2694 750 13817 6738 13262 797 3801 1391 11951 8540 415 13262 11951 11649 3801 1391 11951 11324 </steps_updated>
+    <steps_updated num="5">10993 13262 5994 8871 9190 7051 1391 11951 1100 5132 </steps_updated>
+    <steps_updated num="6">5570 11951 823 3801 1864 371 11951 9190 13531 </steps_updated>
+    <steps_updated num="7">5570 11951 9190 377 754 2142 11770 11951 5359 3801 415 10954 13821 573 1802 11951 9190 13531 </steps_updated>
+    <steps_updated num="8">5704 669 3345 12328 </steps_updated>
+    <steps_updated num="9">2715 11951 4168 12401 13817 7429 13262 11951 3801 1391 840 415 13262 5994 8871 9190 7051 1391 11951 4168 2132 </steps_updated>
+    <steps_updated num="10">6503 11951 840 3801 1864 371 11951 9190 7051 13817 3955 4255 11951 5378 12328 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00045</start_time>
+    <end_time>00688</end_time>
+  </duration_human>
+</recipe>

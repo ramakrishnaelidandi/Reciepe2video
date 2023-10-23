@@ -1,0 +1,60 @@
+<recipe>
+  <title>Grilled Berry Cobbler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-berry-cobbler</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-potluck-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 10988 13278 5585 8337 </ingredient>
+    <ingredient num="1">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 890 13278 13125 5981 </ingredient>
+    <ingredient num="3">1580 14014 13278 12425 </ingredient>
+    <ingredient num="4">12791 8071 13278 82 </ingredient>
+    <ingredient num="5">3917 1580 9517 13278 1421 13278 757 5981 </ingredient>
+    <ingredient num="6">3917 1580 9517 13278 6114 13278 9473 5981 </ingredient>
+    <ingredient num="7">3917 1580 9517 13278 8770 13278 9473 5981 </ingredient>
+    <ingredient num="8">3917 1580 9517 13278 356 13278 11028 5981 </ingredient>
+    <ingredient num="9">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="10">13086 9486 13278 12367 </ingredient>
+    <ingredient num="11">2439 1123 7990 3297 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101899/hls24_1531506743.m3u8</low>
+    <high>https://vid.tasty.co/output/101899/landscape_720/1531506743</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>55.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 12525 669 2192 5422 13009 12363 11852 4884 3289 13817 3345 210 5994 7616 </step>
+    <step num="1">6252 6145 6467 4654 13817 82 11770 11951 8337 9803 9393 3631 </step>
+    <step num="2">12474 11951 13849 10104 5994 10294 3615 5687 5895 9937 5051 11745 4120 4406 7234 9764 6289 6145 13817 430 12473 3145 13817 3945 2550 1681 6504 13860 560 11136 4996 2341 </step>
+    <step num="3">4660 6504 1391 11951 12425 9890 5585 8337 210 2658 5422 5994 11826 2658 9724 </step>
+    <step num="4">4660 5687 13528 1391 3615 13817 1739 11951 11499 6922 11951 2281 7811 9988 3059 9937 7990 5527 12689 </step>
+    <step num="5">12946 11951 3615 3482 5687 13817 1739 9937 2798 7990 13767 3954 11004 5895 1681 8337 9490 3745 7492 13817 10963 2147 1252 13817 11855 5401 12446 190 4255 13249 </step>
+    <step num="6">6054 6781 11951 9937 9606 1966 1391 5994 1374 371 2439 5808 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 12525 669 2192 5422 13009 12363 11852 4884 3289 13817 3345 210 5994 7616 </steps_updated>
+    <steps_updated num="1">6252 6145 6467 4654 13817 82 11770 11951 8337 9803 </steps_updated>
+    <steps_updated num="2">9393 3631 </steps_updated>
+    <steps_updated num="3">12474 11951 13849 10104 5994 10294 3615 5687 5895 9937 5051 11745 4120 4406 7234 9764 6289 6145 13817 430 </steps_updated>
+    <steps_updated num="4">12473 3145 13817 3945 2550 1681 6504 13860 560 11136 4996 2341 </steps_updated>
+    <steps_updated num="5">4660 6504 1391 11951 12425 9890 5585 8337 210 2658 5422 5994 11826 2658 9724 </steps_updated>
+    <steps_updated num="6">4660 5687 13528 1391 3615 13817 1739 11951 11499 </steps_updated>
+    <steps_updated num="7">6922 11951 2281 7811 9988 3059 9937 7990 5527 12689 </steps_updated>
+    <steps_updated num="8">12946 11951 3615 3482 5687 13817 1739 9937 2798 7990 13767 3954 11004 5895 1681 8337 9490 3745 7492 13817 10963 2147 </steps_updated>
+    <steps_updated num="9">1252 13817 11855 5401 12446 190 4255 13249 </steps_updated>
+    <steps_updated num="10">6054 6781 11951 9937 9606 1966 1391 5994 1374 371 2439 5808 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

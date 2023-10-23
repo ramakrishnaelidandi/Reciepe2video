@@ -1,0 +1,53 @@
+<recipe>
+  <title>Bacon Egg Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-egg-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/strawberry-shortcake-pancake-breakfast-in-bed</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 8535 13278 8932 </ingredient>
+    <ingredient num="1">11061 13278 12708 </ingredient>
+    <ingredient num="2">12610 11567 </ingredient>
+    <ingredient num="3">10986 11567 </ingredient>
+    <ingredient num="4">12791 2605 13278 3333 9784 14538 13278 1936 5981 </ingredient>
+    <ingredient num="5">11292 560 11567 </ingredient>
+    <ingredient num="6">12841 2141 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31174/low_1494276313.m3u8</low>
+    <high>https://vid.tasty.co/output/31174/mp4_720x1280/1494276313</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>21.69</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 312 1867 </step>
+    <step num="1">5570 11951 8535 371 8932 210 11951 12841 2860 9844 210 5994 10783 </step>
+    <step num="2">7831 11951 8932 7990 13767 12689 </step>
+    <step num="3">6054 11951 8932 6781 11951 10439 13817 5406 2696 7115 1198 14292 5358 13 4652 3917 6216 669 10763 371 11951 351 415 1678 1391 12610 10986 13817 9784 4496 </step>
+    <step num="4">7831 7990 6646 13767 11004 5895 1681 11951 6216 9314 3313 12313 13218 7799 </step>
+    <step num="5">10546 5994 5668 5412 11951 12872 371 10763 2605 560 4121 13817 3759 6252 1391 11292 5358 13 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">5570 11951 8535 371 8932 210 11951 12841 2141 9844 210 5994 10783 </steps_updated>
+    <steps_updated num="2">7831 11951 8932 7990 13767 12689 </steps_updated>
+    <steps_updated num="3">4652 797 6216 669 10763 371 11951 9517 13817 1678 1391 12610 10986 13817 9784 4496 </steps_updated>
+    <steps_updated num="4">7831 2798 7990 6646 13767 8927 5895 1681 6216 5031 9490 7811 13218 7799 </steps_updated>
+    <steps_updated num="5">10546 5994 5668 5412 11951 12872 371 10763 2605 560 4121 13817 3759 </steps_updated>
+    <steps_updated num="6">6252 1391 11292 5358 13 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00661</end_time>
+  </duration_human>
+</recipe>

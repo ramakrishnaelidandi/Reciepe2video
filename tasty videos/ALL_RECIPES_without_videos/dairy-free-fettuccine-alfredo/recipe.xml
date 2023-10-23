@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Dairy-Free Fettuccine Alfredo Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dairy-free-fettuccine-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; cashews </ingredient>
+    <ingredient num="1">3 cups ; boiling water </ingredient>
+    <ingredient num="2">¾ cup ; water </ingredient>
+    <ingredient num="3">½ ; medium onion, diced </ingredient>
+    <ingredient num="4">3 tablespoons ; nutritional yeast </ingredient>
+    <ingredient num="5">3 cloves ; garlic </ingredient>
+    <ingredient num="6">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; lemon juice </ingredient>
+    <ingredient num="10">1 box ; fettuccine pasta, cooked </ingredient>
+    <ingredient num="11">fresh parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Dinner</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Lunch</category>
+    <category num="10">Weeknight</category>
+    <category num="11">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67451/hls24_1513100353.m3u8</low>
+    <high>https://vid.tasty.co/output/67451/landscape_720/1513100353</high>
+  </video>
+  <steps>
+    <step num="0">In a small saucepan, boil 3 cups (720 ml) of water. Pour the water over cashews and allow to sit for 15 minutes then drain in a colander. </step>
+    <step num="1">In a blender or food processor combine cashews, ¾ cup (180 ml) water, onion nutritional yeast, garlic, rosemary, pepper, salt, and lemon juice. Blend until smooth. </step>
+    <step num="2">Pour mixture over cooked pasta and stir. </step>
+    <step num="3">Garnish with parsley. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan, boil 3 cups (720 ml) of water. </steps_updated>
+    <steps_updated num="1">Pour the water over cashews and allow to sit for 15 minutes then drain in a colander. </steps_updated>
+    <steps_updated num="2">In a blender or food processor combine cashews, ¾ cup (180 ml) water, onion nutritional yeast, garlic, rosemary, pepper, salt, and lemon juice. </steps_updated>
+    <steps_updated num="3">Blend until smooth. </steps_updated>
+    <steps_updated num="4">Pour mixture over cooked pasta and stir. </steps_updated>
+    <steps_updated num="5">Garnish with parsley. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

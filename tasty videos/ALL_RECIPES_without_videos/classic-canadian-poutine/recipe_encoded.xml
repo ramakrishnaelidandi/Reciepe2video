@@ -1,0 +1,63 @@
+<recipe>
+  <title>Mixed Gravy Poutine Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-canadian-poutine</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 2597 9780 2274 294 </ingredient>
+    <ingredient num="1">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 1580 2031 13278 12610 3247 </ingredient>
+    <ingredient num="3">3917 8071 13278 10986 3247 </ingredient>
+    <ingredient num="4">11061 9486 13278 7974 10907 7560 1297 </ingredient>
+    <ingredient num="5">12791 2605 13278 13521 890 13278 1258 5981 </ingredient>
+    <ingredient num="6">8580 1580 9517 13278 1946 220 13278 8941 8007 </ingredient>
+    <ingredient num="7">8580 2031 13278 10646 2260 </ingredient>
+    <ingredient num="8">13086 9486 13278 12367 </ingredient>
+    <ingredient num="9">8580 9486 13278 12282 </ingredient>
+    <ingredient num="10">3917 1580 9517 13278 14538 1743 13278 6982 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99966/hls24_1529958459.m3u8</low>
+    <high>https://vid.tasty.co/output/99966/landscape_720/1529958459</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 11854 6522 9207 8580 10765 8036 1391 3550 8831 </step>
+    <step num="1">12474 5994 4669 8667 12205 11951 13233 669 9775 5569 6407 7959 14100 11951 3556 3449 669 7579 4743 415 7777 669 7579 1745 51 10419 </step>
+    <step num="2">5570 11951 13233 210 5994 2597 7616 1594 1391 11951 8244 5766 13817 1678 1391 3917 8071 371 82 13817 1580 8071 371 12375 7643 560 515 </step>
+    <step num="3">6695 11951 6637 3584 210 8580 2936 4255 10763 10765 213 5833 6665 12573 11155 3445 </step>
+    <step num="4">7831 7990 2800 11004 9309 14166 8180 1681 10963 2147 </step>
+    <step num="5">10950 5994 13757 11844 11770 13757 14307 740 11951 9924 13817 13290 283 1681 11951 2373 9490 5994 10963 2147 9179 11951 1946 11899 11131 374 1580 8071 371 82 13817 374 1580 8071 371 12375 8785 560 5994 8288 5693 1118 </step>
+    <step num="6">9179 11951 12282 560 11951 12367 210 5994 2192 12377 13817 10968 1681 10033 9179 11951 12367 9328 560 11951 2615 13817 6142 1681 3152 6054 6781 11951 7855 13817 6506 560 2505 11951 2615 4527 </step>
+    <step num="7">12785 11951 13828 6637 560 5994 2597 14511 740 11951 14538 8915 13817 5406 11951 6222 2615 11770 11951 143 7643 560 515 </step>
+    <step num="8">12785 560 5994 3830 13817 1966 7389 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 11854 6522 </steps_updated>
+    <steps_updated num="1">9207 8580 10765 8036 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">12474 5994 4669 8667 12205 11951 13233 669 9775 5569 6407 7959 </steps_updated>
+    <steps_updated num="3">14100 11951 3556 3449 669 7579 4743 415 7777 669 7579 1745 51 10419 </steps_updated>
+    <steps_updated num="4">5570 11951 13233 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="5">1594 1391 11951 8244 5766 13817 1678 1391 3917 8071 371 82 13817 1580 8071 371 12375 </steps_updated>
+    <steps_updated num="6">7643 560 515 </steps_updated>
+    <steps_updated num="7">6695 11951 6637 3584 210 8580 2936 4255 10763 10765 213 5833 6665 12573 11155 3445 </steps_updated>
+    <steps_updated num="8">7831 7990 2800 11004 9309 14166 8180 1681 10963 2147 </steps_updated>
+    <steps_updated num="9">10950 5994 13757 11844 11770 13757 14307 740 11951 9924 13817 13290 </steps_updated>
+    <steps_updated num="10">283 1681 11951 2373 9490 5994 10963 2147 </steps_updated>
+    <steps_updated num="11">9179 11951 1946 11899 11131 374 1580 8071 371 82 13817 374 1580 8071 371 12375 </steps_updated>
+    <steps_updated num="12">8785 560 5994 8288 5693 1118 </steps_updated>
+    <steps_updated num="13">9179 11951 12282 560 11951 12367 210 5994 2192 12377 13817 10968 1681 10033 </steps_updated>
+    <steps_updated num="14">9179 11951 12367 9328 560 11951 2615 13817 6142 1681 3152 </steps_updated>
+    <steps_updated num="15">6054 6781 11951 7855 13817 6506 560 2505 11951 2615 4527 </steps_updated>
+    <steps_updated num="16">12785 11951 13828 6637 560 5994 2597 14511 740 11951 14538 8915 13817 5406 11951 6222 2615 11770 11951 143 </steps_updated>
+    <steps_updated num="17">7643 560 515 </steps_updated>
+    <steps_updated num="18">12785 560 5994 3830 13817 1966 7389 </steps_updated>
+    <steps_updated num="19">9092 </steps_updated>
+  </steps_updated>
+</recipe>

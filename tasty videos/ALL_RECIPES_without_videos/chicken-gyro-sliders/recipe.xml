@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Gyro Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-gyro-sliders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; greek yogurt ; (245 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; paprika </ingredient>
+    <ingredient num="2">1 tablespoon ; dried oregano </ingredient>
+    <ingredient num="3">1 tablespoon ; ground coriander </ingredient>
+    <ingredient num="4">1 tablespoon ; cumin </ingredient>
+    <ingredient num="5">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">½ teaspoon ; cayenne </ingredient>
+    <ingredient num="7">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">2 tablespoons ; tahini paste </ingredient>
+    <ingredient num="10">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">2 lb ; boneless, skinless chicken thighs, chopped into 1-inch (2-cm) cubes ; (910 g) </ingredient>
+    <ingredient num="13">2 cups ; greek yogurt ; (490 g) </ingredient>
+    <ingredient num="14">1 cup ; english cucumber, grated, salted, and drained ; (135 g) </ingredient>
+    <ingredient num="15">1 ; lemon, zested </ingredient>
+    <ingredient num="16">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="17">¼ cup ; fresh dill, chopped ; (10 g) </ingredient>
+    <ingredient num="18">pepper, to taste </ingredient>
+    <ingredient num="19">salt, to taste </ingredient>
+    <ingredient num="20">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="21">1 ; lemon, juiced </ingredient>
+    <ingredient num="22">slider bun, or dinner roll </ingredient>
+    <ingredient num="23">½ cup ; tomato, diced ; (100 g) </ingredient>
+    <ingredient num="24">½ cup ; red onion, chopped ; (75 g) </ingredient>
+    <ingredient num="25">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="26">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="27">2 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="28">salt, to taste </ingredient>
+    <ingredient num="29">wooden skewer </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Greek</category>
+    <category num="2">Dinner</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98564/hls24_1528997980.m3u8</low>
+    <high>https://vid.tasty.co/output/98564/landscape_720/1528997980</high>
+  </video>
+  <steps>
+    <step num="0">Soak the wooden skewers in water for 30 minutes. </step>
+    <step num="1">In a large bowl, combine the Greek yogurt, paprika, oregano, coriander, cumin, garlic, cayenne, cinnamon, pepper, tahini, olive oil, and salt. </step>
+    <step num="2">Add the chicken and stir to coat completely in the sauce. Cover with plastic wrap and marinate in the fridge for at least 30 minutes or up to 4 hours. </step>
+    <step num="3">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="4">Make the tzatziki: in a medium bowl, combine the Greek yogurt, cucumber, lemon zest, garlic, dill, pepper, salt, olive oil, and lemon juice. Stir to combine. Cover and refrigerate until ready to use. </step>
+    <step num="5">Thread 3-5 pieces of chicken onto each wooden skewer until loosely filled, leaving at least an inch (2 cm) of space on either end of the skewers. Place the skewers on a baking sheet and bake for 20 minutes. </step>
+    <step num="6">Slice the dinner rolls in half. Place the bottom half on a greased baking sheet. Sprinkle with diced tomatoes and chopped red onion. </step>
+    <step num="7">Stick the par-cooked chicken skewers into the bottom buns, spacing evenly. Place the top buns over the skewers and press down. </step>
+    <step num="8">Combine the olive oil, garlic, parsley, and salt in a small bowl and brush on the top buns. </step>
+    <step num="9">Bake the buns and the chicken for 10 more minutes, or until the chicken is fully cooked and the bread is toasted. </step>
+    <step num="10">Place the gyro sliders on a large platter and serve with tzatziki. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak the wooden skewers in water for 30 minutes. </steps_updated>
+    <steps_updated num="1">In a large bowl, combine the Greek yogurt, paprika, oregano, coriander, cumin, garlic, cayenne, cinnamon, pepper, tahini, olive oil, and salt. </steps_updated>
+    <steps_updated num="2">Add the chicken and stir to coat completely in the sauce. </steps_updated>
+    <steps_updated num="3">Cover with plastic wrap and marinate in the fridge for at least 30 minutes or up to 4 hours. </steps_updated>
+    <steps_updated num="4">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="5">Make the tzatziki: in a medium bowl, combine the Greek yogurt, cucumber, lemon zest, garlic, dill, pepper, salt, olive oil, and lemon juice. </steps_updated>
+    <steps_updated num="6">Stir to combine. </steps_updated>
+    <steps_updated num="7">Cover and refrigerate until ready to use. </steps_updated>
+    <steps_updated num="8">Thread 3-5 pieces of chicken onto each wooden skewer until loosely filled, leaving at least an inch (2 cm) of space on either end of the skewers. </steps_updated>
+    <steps_updated num="9">Place the skewers on a baking sheet and bake for 20 minutes. </steps_updated>
+    <steps_updated num="10">Slice the dinner rolls in half. </steps_updated>
+    <steps_updated num="11">Place the bottom half on a greased baking sheet. </steps_updated>
+    <steps_updated num="12">Sprinkle with diced tomatoes and chopped red onion. </steps_updated>
+    <steps_updated num="13">Stick the par-cooked chicken skewers into the bottom buns, spacing evenly. </steps_updated>
+    <steps_updated num="14">Place the top buns over the skewers and press down. </steps_updated>
+    <steps_updated num="15">Combine the olive oil, garlic, parsley, and salt in a small bowl and brush on the top buns. </steps_updated>
+    <steps_updated num="16">Bake the buns and the chicken for 10 more minutes, or until the chicken is fully cooked and the bread is toasted. </steps_updated>
+    <steps_updated num="17">Place the gyro sliders on a large platter and serve with tzatziki. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

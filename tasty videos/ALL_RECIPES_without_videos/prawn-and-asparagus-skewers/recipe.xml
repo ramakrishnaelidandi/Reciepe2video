@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Prawn And Asparagus Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/prawn-and-asparagus-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-bbq-skewers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="1">½ ; lemon, juiced </ingredient>
+    <ingredient num="2">2 cloves ; garlic cloves, crushed </ingredient>
+    <ingredient num="3">1 teaspoon ; mixed herbs </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">½ lb ; raw prawn ; (255 g) </ingredient>
+    <ingredient num="7">5 oz ; fresh asparagus ; (150 g) </ingredient>
+    <ingredient num="8">6 skewers ; bamboo skewer, soaked in water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33287/low_1496421807.m3u8</low>
+    <high>https://vid.tasty.co/output/33287/mp4_720x1280/1496421807</high>
+  </video>
+  <duration>
+    <start_time>40.0</start_time>
+    <end_time>61.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the lemon juice, garlic, herbs, salt, and pepper into the melted butter and mix well. </step>
+    <step num="1">On soaked bamboo sticks, skewer on the prawns and asparagus. Repeat until the skewer is full. Brush the butter mix onto to skewer. </step>
+    <step num="2">On a coal BBQ, cook the steak skewers for 1-2 minutes a side, until the prawns turn pink and are cooked through. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the lemon juice, garlic, herbs, salt, and pepper into the melted butter and mix well. </steps_updated>
+    <steps_updated num="1">On soaked bamboo sticks, skewer on the prawns and asparagus. </steps_updated>
+    <steps_updated num="2">Repeat until the skewer is full. </steps_updated>
+    <steps_updated num="3">Brush the butter mix onto to skewer. </steps_updated>
+    <steps_updated num="4">On a coal BBQ, cook the steak skewers for 1-2 minutes a side, until the prawns turn pink and are cooked through. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01246</start_time>
+    <end_time>01843</end_time>
+  </duration_human>
+</recipe>

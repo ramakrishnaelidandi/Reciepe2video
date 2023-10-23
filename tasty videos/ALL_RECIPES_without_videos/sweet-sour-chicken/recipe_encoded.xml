@@ -1,0 +1,59 @@
+<recipe>
+  <title>Sweet &amp; Sour Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-sour-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 8355 2144 7983 376 13278 4563 5981 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">1580 2605 13278 12367 13278 13125 5981 </ingredient>
+    <ingredient num="4">8580 13278 14463 9917 </ingredient>
+    <ingredient num="5">7632 560 7256 </ingredient>
+    <ingredient num="6">3917 14014 13278 5766 </ingredient>
+    <ingredient num="7">1580 14014 13278 4155 10015 </ingredient>
+    <ingredient num="8">3917 13278 1466 10986 341 </ingredient>
+    <ingredient num="9">9883 2605 13278 14165 10769 13278 10475 8007 </ingredient>
+    <ingredient num="10">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="11">12791 2605 13278 11892 13278 13412 5981 </ingredient>
+    <ingredient num="12">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="13">6293 3962 </ingredient>
+    <ingredient num="14">9110 1245 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59231/low_1509474853.m3u8</low>
+    <high>https://vid.tasty.co/output/59231/mp4_720x1280/1509474853</high>
+  </video>
+  <steps>
+    <step num="0">10242 7983 1391 82 13817 12375 309 1391 2089 10852 210 9917 13784 </step>
+    <step num="1">8916 1681 2357 12019 13817 3745 8119 2257 5292 3205 1391 12 1811 5358 13988 </step>
+    <step num="2">10950 5994 2597 11745 7855 5766 13817 7256 11384 1681 11564 </step>
+    <step num="3">9179 11951 1466 10986 14165 4450 11691 7280 11892 13817 8525 8785 560 5994 11714 </step>
+    <step num="4">11233 11951 2260 7312 7242 740 11951 1940 9104 7643 560 515 </step>
+    <step num="5">13688 1391 3962 1061 13817 9110 6974 12774 1391 8860 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10242 7983 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="1">309 1391 2089 10852 210 9917 13784 </steps_updated>
+    <steps_updated num="2">8916 1681 2357 12019 13817 3745 8119 </steps_updated>
+    <steps_updated num="3">2257 5292 </steps_updated>
+    <steps_updated num="4">3205 1391 12 1811 5358 13988 </steps_updated>
+    <steps_updated num="5">10950 5994 2597 11745 7855 5766 13817 7256 11384 1681 11564 </steps_updated>
+    <steps_updated num="6">9179 11951 1466 10986 14165 4450 11691 7280 11892 13817 8525 </steps_updated>
+    <steps_updated num="7">8785 560 5994 11714 </steps_updated>
+    <steps_updated num="8">11233 11951 2260 7312 7242 740 11951 1940 9104 </steps_updated>
+    <steps_updated num="9">7643 560 515 </steps_updated>
+    <steps_updated num="10">13688 1391 3962 1061 13817 9110 6974 </steps_updated>
+    <steps_updated num="11">12774 1391 8860 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

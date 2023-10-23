@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Coconut Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-coconut-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; medium white onion </ingredient>
+    <ingredient num="1">1 large head ; broccoli </ingredient>
+    <ingredient num="2">1 ; medium sweet potato, or large, scrubbed </ingredient>
+    <ingredient num="3">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="4">15 oz ; organic chickpeas, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="5">¼ cup ; quinoa, uncooked ; (40 g) </ingredient>
+    <ingredient num="6">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="7">1 teaspoon ; fresh ginger, minced </ingredient>
+    <ingredient num="8">1 teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="9">1 tablespoon ; ground turmeric </ingredient>
+    <ingredient num="10">2 teaspoons ; tamari </ingredient>
+    <ingredient num="11">2 teaspoons ; salt </ingredient>
+    <ingredient num="12">28 oz ; diced tomato ; (795 g) </ingredient>
+    <ingredient num="13">30 oz ; coconut milk </ingredient>
+    <ingredient num="14">cooked rice, for serving </ingredient>
+    <ingredient num="15">fresh parsley, chopped, for serving, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101337/hls24_1531155141.m3u8</low>
+    <high>https://vid.tasty.co/output/101337/landscape_720/1531155141</high>
+  </video>
+  <steps>
+    <step num="0">Dice the onion. </step>
+    <step num="1">Cut the broccoli into florets. </step>
+    <step num="2">Dice the sweet potato. </step>
+    <step num="3">Add the water, broccoli, chickpeas, sweet potato, onion, quinoa, garlic, ginger, red pepper flakes, turmeric, tamari, salt, tomatoes, and coconut milk to a slow cooker. Stir to combine. </step>
+    <step num="4">Cover and cook for 4 hours on high or 8 hours on low, until the sweet potato is tender and the curry has thickened. </step>
+    <step num="5">Serve warm over rice. Garnish with parsley, if desired. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Dice the onion. </steps_updated>
+    <steps_updated num="1">Cut the broccoli into florets. </steps_updated>
+    <steps_updated num="2">Dice the sweet potato. </steps_updated>
+    <steps_updated num="3">Add the water, broccoli, chickpeas, sweet potato, onion, quinoa, garlic, ginger, red pepper flakes, turmeric, tamari, salt, tomatoes, and coconut milk to a slow cooker. </steps_updated>
+    <steps_updated num="4">Stir to combine. </steps_updated>
+    <steps_updated num="5">Cover and cook for 4 hours on high or 8 hours on low, until the sweet potato is tender and the curry has thickened. </steps_updated>
+    <steps_updated num="6">Serve warm over rice. </steps_updated>
+    <steps_updated num="7">Garnish with parsley, if desired. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

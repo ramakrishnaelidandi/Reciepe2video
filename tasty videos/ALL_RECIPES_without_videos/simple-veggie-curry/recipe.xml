@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Veggie Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-veggie-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; salt, for water </ingredient>
+    <ingredient num="1">2 lb ; potato, cut into 1-inch (2 cm) cubes ; (905 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; vegetable oil </ingredient>
+    <ingredient num="3">1 ; medium onion, diced </ingredient>
+    <ingredient num="4">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">2 teaspoons ; cumin </ingredient>
+    <ingredient num="6">1 teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="7">4 teaspoons ; curry powder </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="10">2 centimeter pieces ; ginger, minced </ingredient>
+    <ingredient num="11">14 oz ; diced tomato, 1 can ; (395 g) </ingredient>
+    <ingredient num="12">15 oz ; chickpeas, 1 can, drained ; (425 g) </ingredient>
+    <ingredient num="13">15 oz ; peas, 1 can, drained ; (425 g) </ingredient>
+    <ingredient num="14">14 oz ; coconut milk, 1 can ; (395 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Dinner</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28258/low_1491243908.m3u8</low>
+    <high>https://vid.tasty.co/output/28258/mp4_720x1280/1491243908</high>
+  </video>
+  <steps>
+    <step num="0">Place potatoes into a large pot or dutch oven and cover with well-salted water. Bring to a boil, then reduce heat to a simmer, cover and let the potatoes cook until fork tender–about 12 minutes. Once cooked, drain the potatoes and set them aside. </step>
+    <step num="1">Return the pot to the stove and add 1 tablespoon of oil. Add onion and garlic and sauté over medium heat until onion is tender and starts to turn translucent, about 3-5 minutes. </step>
+    <step num="2">Add cumin, cayenne, curry powder, salt, pepper and ginger. Stir to combine before adding tomatoes, chickpeas, and peas. </step>
+    <step num="3">Increase heat to medium-high and stir in the coconut milk. Bring to a simmer before adding the potatoes back to the pot. Reduce heat to low and cook everything together for 3-5 minutes before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place potatoes into a large pot or dutch oven and cover with well-salted water. </steps_updated>
+    <steps_updated num="1">Bring to a boil, then reduce heat to a simmer, cover and let the potatoes cook until fork tender–about 12 minutes. </steps_updated>
+    <steps_updated num="2">Once cooked, drain the potatoes and set them aside. </steps_updated>
+    <steps_updated num="3">Return the pot to the stove and add 1 tablespoon of oil. </steps_updated>
+    <steps_updated num="4">Add onion and garlic and sauté over medium heat until onion is tender and starts to turn translucent, about 3-5 minutes. </steps_updated>
+    <steps_updated num="5">Add cumin, cayenne, curry powder, salt, pepper and ginger. </steps_updated>
+    <steps_updated num="6">Stir to combine before adding tomatoes, chickpeas, and peas. </steps_updated>
+    <steps_updated num="7">Increase heat to medium-high and stir in the coconut milk. </steps_updated>
+    <steps_updated num="8">Bring to a simmer before adding the potatoes back to the pot. </steps_updated>
+    <steps_updated num="9">Reduce heat to low and cook everything together for 3-5 minutes before serving. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

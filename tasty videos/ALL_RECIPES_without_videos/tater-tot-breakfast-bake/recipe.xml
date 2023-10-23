@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tater Tot Breakfast Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tater-tot-breakfast-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; eggs </ingredient>
+    <ingredient num="1">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">2 lb ; breakfast sausage, crumbled and cooked ; (905 g) </ingredient>
+    <ingredient num="5">1 can ; condensed french onion soup </ingredient>
+    <ingredient num="6">2 cups ; cheddar cheese, shredded ; (200 g) </ingredient>
+    <ingredient num="7">1 bag ; frozen tater tots </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32163/low_1495125344.m3u8</low>
+    <high>https://vid.tasty.co/output/32163/mp4_720x1280/1495125344</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, beat the eggs with milk, salt, and pepper. Set aside. </step>
+    <step num="1">Spread the sausage over the bottom of a glass 9×13-inch (35 cm x 25 cm) baking dish. Pour on the onion soup, and mix with the sausage. </step>
+    <step num="2">Sprinkle the cheddar cheese evenly over the top. </step>
+    <step num="3">Cover with the lined up tater tots, and pour the egg mixture over everything. </step>
+    <step num="4">Bake uncovered at 350°F (180°C) for one hour. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, beat the eggs with milk, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Spread the sausage over the bottom of a glass 9×13-inch (35 cm x 25 cm) baking dish. </steps_updated>
+    <steps_updated num="3">Pour on the onion soup, and mix with the sausage. </steps_updated>
+    <steps_updated num="4">Sprinkle the cheddar cheese evenly over the top. </steps_updated>
+    <steps_updated num="5">Cover with the lined up tater tots, and pour the egg mixture over everything. </steps_updated>
+    <steps_updated num="6">Bake uncovered at 350°F (180°C) for one hour. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Corned Beef And How To Use It</title>
+  <url>https://tasty.co/recipe/corned-beef-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 qt ; water ; (1.8 L) </ingredient>
+    <ingredient num="1">2 cups ; kosher salt ; (480 g) </ingredient>
+    <ingredient num="2">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; pink curing salt </ingredient>
+    <ingredient num="4">5 cloves ; garlic, crushed </ingredient>
+    <ingredient num="5">fresh ginger, 2-in (5 cm) sliced </ingredient>
+    <ingredient num="6">1 ; cinnamon stick, broken into pieces </ingredient>
+    <ingredient num="7">3 ; bay leaves, crumbled </ingredient>
+    <ingredient num="8">1 tablespoon ; mustard seed </ingredient>
+    <ingredient num="9">1 tablespoon ; black peppercorn </ingredient>
+    <ingredient num="10">8 ; whole allspice berries </ingredient>
+    <ingredient num="11">12 ; juniper berries </ingredient>
+    <ingredient num="12">8 ; whole cloves </ingredient>
+    <ingredient num="13">2 lb ; ice ; (910 g) </ingredient>
+    <ingredient num="14">5 lb ; beef brisket, good-quality, trimmed ; (2.2 kg) </ingredient>
+    <ingredient num="15">1 ; large yellow onion, chopped </ingredient>
+    <ingredient num="16">3 ; celery stalks, chopped </ingredient>
+    <ingredient num="17">2 ; large carrots, chopped </ingredient>
+    <ingredient num="18">ginger beer, 2 bottles </ingredient>
+    <ingredient num="19">dark extra-stout beer, 2 bottles </ingredient>
+    <ingredient num="20">2 slices ; rye toast </ingredient>
+    <ingredient num="21">english mustard, to taste </ingredient>
+    <ingredient num="22">⅓ lb ; corned beef brisket, thinly sliced ; (150 g) </ingredient>
+    <ingredient num="23">kosher dill pickles, sliced lengthwise to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/127080/hls24_1552416717.m3u8</low>
+    <high>https://vid.tasty.co/output/127080/landscape_720/1552416717</high>
+  </video>
+  <steps>
+    <step num="0">In a very large pot, combine the water, kosher salt, brown sugar, pink curing salt, garlic, ginger, cinnamon stick, bay leaves, mustard seeds, peppercorns, allspice berries, juniper berries, and cloves. Stir and bring to a boil over high heat. </step>
+    <step num="1">Once the brine is boiling, remove from the heat and add the ice to bring the temperature below 45˚F (7˚C). </step>
+    <step num="2">Place the brisket in a large plastic storage container with a lid. Pour the cooled brine over the meat. Cover and brine the beef in the refrigerator for 5–7 days, flipping once a day. </step>
+    <step num="3">Once the brisket is brined, remove the beef from the liquid and transfer to a pot large enough for it to sit flat on the bottom. Add the onion, celery, carrot, ginger beer, and beer. Bring to a boil over high heat, then reduce the heat to low, cover, and gently simmer for 2½–3 hours, or until the meat is fork-tender. Remove the meat from the pot and let cool. If making corned beef and cabbage, reserve the cooking liquid. Otherwise, discard. </step>
+    <step num="4">Spread the mustard on both sides of the toasted rye bread. Lay the corned beef and pickles on one slice of bread and top with the other slice. </step>
+    <step num="5">Cut the sandwich in half crosswise. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a very large pot, combine the water, kosher salt, brown sugar, pink curing salt, garlic, ginger, cinnamon stick, bay leaves, mustard seeds, peppercorns, allspice berries, juniper berries, and cloves. </steps_updated>
+    <steps_updated num="1">Stir and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="2">Once the brine is boiling, remove from the heat and add the ice to bring the temperature below 45˚F (7˚C). </steps_updated>
+    <steps_updated num="3">Place the brisket in a large plastic storage container with a lid. </steps_updated>
+    <steps_updated num="4">Pour the cooled brine over the meat. </steps_updated>
+    <steps_updated num="5">Cover and brine the beef in the refrigerator for 5–7 days, flipping once a day. </steps_updated>
+    <steps_updated num="6">Once the brisket is brined, remove the beef from the liquid and transfer to a pot large enough for it to sit flat on the bottom. </steps_updated>
+    <steps_updated num="7">Add the onion, celery, carrot, ginger beer, and beer. </steps_updated>
+    <steps_updated num="8">Bring to a boil over high heat, then reduce the heat to low, cover, and gently simmer for 2½–3 hours, or until the meat is fork-tender. </steps_updated>
+    <steps_updated num="9">Remove the meat from the pot and let cool. </steps_updated>
+    <steps_updated num="10">If making corned beef and cabbage, reserve the cooking liquid. </steps_updated>
+    <steps_updated num="11">Otherwise, discard. </steps_updated>
+    <steps_updated num="12">Spread the mustard on both sides of the toasted rye bread. </steps_updated>
+    <steps_updated num="13">Lay the corned beef and pickles on one slice of bread and top with the other slice. </steps_updated>
+    <steps_updated num="14">Cut the sandwich in half crosswise. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One Pot Cajun Chicken &amp; Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-cajun-chicken-rice</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; chicken breasts </ingredient>
+    <ingredient num="1">cajun spice, to taste, extra for seasoning chicken </ingredient>
+    <ingredient num="2">1 ; onion, diced </ingredient>
+    <ingredient num="3">1 ; bell pepper, diced </ingredient>
+    <ingredient num="4">1 can ; black beans, drained </ingredient>
+    <ingredient num="5">1 cup ; rice ; (225 g) </ingredient>
+    <ingredient num="6">15 oz ; chopped tomato, 1 can ; (425 g) </ingredient>
+    <ingredient num="7">1 ¾ cups ; chicken stock ; (400 mL) </ingredient>
+    <ingredient num="8">olive oil </ingredient>
+    <ingredient num="9">2 teaspoons ; salt </ingredient>
+    <ingredient num="10">2 teaspoons ; garlic powder </ingredient>
+    <ingredient num="11">2 teaspoons ; hot paprika </ingredient>
+    <ingredient num="12">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="13">1 teaspoon ; onion salt </ingredient>
+    <ingredient num="14">1 teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="15">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="16">1 teaspoon ; dried thyme </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14533/low_1478891142.m3u8</low>
+    <high>https://vid.tasty.co/output/14533/mp4_720x1280/1478891142</high>
+  </video>
+  <steps>
+    <step num="0">Rub chicken breasts with olive oil and then the cajun spice mix (store-bought or homemade) </step>
+    <step num="1">Sear the chicken breasts on each side for about 2 minutes, then remove from the pan. </step>
+    <step num="2">Add some more oil and fry the onions and peppers until softened. </step>
+    <step num="3">Add the black beans and fry for a couple of minutes. Add the rice and fry for a further minute. </step>
+    <step num="4">Place the chicken back on and cover in chopped tomatoes. </step>
+    <step num="5">Add chicken stock and more cajun spice (to taste). </step>
+    <step num="6">Bring to boil, then cover and simmer for 25 minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Rub chicken breasts with olive oil and then the cajun spice mix (store-bought or homemade) </steps_updated>
+    <steps_updated num="1">Sear the chicken breasts on each side for about 2 minutes, then remove from the pan. </steps_updated>
+    <steps_updated num="2">Add some more oil and fry the onions and peppers until softened. </steps_updated>
+    <steps_updated num="3">Add the black beans and fry for a couple of minutes. </steps_updated>
+    <steps_updated num="4">Add the rice and fry for a further minute. </steps_updated>
+    <steps_updated num="5">Place the chicken back on and cover in chopped tomatoes. </steps_updated>
+    <steps_updated num="6">Add chicken stock and more cajun spice (to taste). </steps_updated>
+    <steps_updated num="7">Bring to boil, then cover and simmer for 25 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

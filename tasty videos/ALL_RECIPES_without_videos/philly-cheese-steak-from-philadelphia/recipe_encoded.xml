@@ -1,0 +1,44 @@
+<recipe>
+  <title>Philly Cheese Steak From Philadelphia Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/philly-cheese-steak-from-philadelphia</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-famous-sandwiches-from-4-cities</comp_url>
+  <ingredients>
+    <ingredient num="0">12386 11239 4536 </ingredient>
+    <ingredient num="1">1580 715 13278 8086 11009 13278 9473 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 14538 12416 13278 8118 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 12384 13152 341 13278 336 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Lunch</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17309/low_1481320572.m3u8</low>
+    <high>https://vid.tasty.co/output/17309/mp4_720x1280/1481320572</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>24.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3235 11951 6302 4536 13086 3556 371 11951 10772 7492 5833 3557 14138 7475 10325 </step>
+    <step num="1">264 11951 8086 11009 210 5994 2597 10060 11770 3996 2082 12473 3343 8224 560 772 11901 11951 3061 2027 4255 8554 6701 </step>
+    <step num="2">5570 11951 6927 4536 10962 573 4255 10707 371 11951 834 415 10954 11951 3305 13921 11770 5833 11951 3061 9490 1410 </step>
+    <step num="3">9179 14538 12416 13817 10742 914 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 6302 4536 13086 3556 371 11951 10772 7492 5833 3557 14138 7475 10325 </steps_updated>
+    <steps_updated num="1">264 11951 8086 11009 210 5994 2597 10060 11770 3996 2082 </steps_updated>
+    <steps_updated num="2">12473 3343 8224 560 772 11901 11951 3061 2027 4255 8554 6701 </steps_updated>
+    <steps_updated num="3">5570 11951 6927 4536 10962 573 4255 10707 371 11951 834 415 10954 11951 3305 13921 11770 5833 11951 3061 9490 1410 </steps_updated>
+    <steps_updated num="4">9179 14538 12416 13817 10742 914 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00744</end_time>
+  </duration_human>
+</recipe>

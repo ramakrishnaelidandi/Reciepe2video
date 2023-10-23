@@ -1,0 +1,42 @@
+<recipe>
+  <title>Bagel Boats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bagel-boats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 4165 </ingredient>
+    <ingredient num="1">8580 13278 12708 </ingredient>
+    <ingredient num="2">8580 9486 13278 9784 14538 </ingredient>
+    <ingredient num="3">8580 9259 13278 7035 3962 </ingredient>
+    <ingredient num="4">3917 14014 13278 4985 6334 </ingredient>
+    <ingredient num="5">3917 14014 13278 5802 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10490/low_1474498160.m3u8</low>
+    <high>https://vid.tasty.co/output/10490/mp4_720x1280/1474498160</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9477 11454 </step>
+    <step num="1">10950 5994 2192 14511 10968 13810 7035 13817 4985 12034 </step>
+    <step num="2">10950 5994 2192 14511 12073 8580 12708 1391 9529 </step>
+    <step num="3">12775 1150 2696 3917 4165 1391 5994 2192 10850 1818 5570 6697 4165 10009 4255 5994 10765 8800 </step>
+    <step num="4">1349 6697 4165 10009 1391 14538 13817 6216 10498 7831 210 11951 10439 7990 2800 778 5895 1681 11951 6216 9490 907 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9477 11454 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 14511 10968 13810 7035 13817 4985 12034 </steps_updated>
+    <steps_updated num="2">10950 5994 2192 14511 12073 8580 12708 1391 9529 </steps_updated>
+    <steps_updated num="3">12775 1150 2696 3917 4165 1391 5994 2192 10850 1818 </steps_updated>
+    <steps_updated num="4">5570 6697 4165 10009 4255 5994 10765 8800 </steps_updated>
+    <steps_updated num="5">1349 6697 4165 10009 1391 14538 13817 6216 10498 </steps_updated>
+    <steps_updated num="6">7831 210 11951 10439 7990 2800 778 5895 1681 11951 6216 9490 907 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

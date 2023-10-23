@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cookie Dough Boxed Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookie-dough-boxed-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-ways-to-make-better-boxed-brownies</comp_url>
+  <ingredients>
+    <ingredient num="0">1 box ; brownie mix, prepared according to package </ingredient>
+    <ingredient num="1">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="2">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="3">1 cup ; butter, softened ; (230 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="6">1 cup ; chocolate chips ; (180 g) </ingredient>
+    <ingredient num="7">2 tablespoons ; milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/39561/low_1498760855.m3u8</low>
+    <high>https://vid.tasty.co/output/39561/mp4_720x1280/1498760855</high>
+  </video>
+  <duration>
+    <start_time>0.08999999999999986</start_time>
+    <end_time>50.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Prepare brownie mix according to package instructions. </step>
+    <step num="2">Sprinkle flour on a baking sheet and bake for 5 minutes to kill any lingering bacteria. </step>
+    <step num="3">In a medium bowl mix together the flour, milk, sugar, butter, salt, and vanilla. </step>
+    <step num="4">Stir in chocolate chips. </step>
+    <step num="5">Pour cookie dough on top of baked and cooled brownies and spread evenly with a spatula. </step>
+    <step num="6">Cool in the refrigerator. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Prepare brownie mix according to package instructions. </steps_updated>
+    <steps_updated num="2">Sprinkle flour on a baking sheet and bake for 5 minutes to kill any lingering bacteria. </steps_updated>
+    <steps_updated num="3">In a medium bowl mix together the flour, milk, sugar, butter, salt, and vanilla. </steps_updated>
+    <steps_updated num="4">Stir in chocolate chips. </steps_updated>
+    <steps_updated num="5">Pour cookie dough on top of baked and cooled brownies and spread evenly with a spatula. </steps_updated>
+    <steps_updated num="6">Cool in the refrigerator. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00056</start_time>
+    <end_time>01513</end_time>
+  </duration_human>
+</recipe>

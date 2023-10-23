@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Chicken Chimichanga Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-chicken-chimichanga</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; onion, diced </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">1 ; bell pepper, diced </ingredient>
+    <ingredient num="3">1 ; jalapeño, diced </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">4 cups ; rotisserie chicken, shredded ; (500 g) </ingredient>
+    <ingredient num="7">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="8">1 teaspoon ; cumin </ingredient>
+    <ingredient num="9">1 teaspoon ; paprika </ingredient>
+    <ingredient num="10">8 oz ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="11">6 ; flour tortillas </ingredient>
+    <ingredient num="12">2 cups ; cheese blend ; (200 g) </ingredient>
+    <ingredient num="13">oil, for frying </ingredient>
+    <ingredient num="14">sour cream, for serving </ingredient>
+    <ingredient num="15">pico de gallo, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29420/low_1492460499.m3u8</low>
+    <high>https://vid.tasty.co/output/29420/mp4_720x1280/1492460499</high>
+  </video>
+  <steps>
+    <step num="0">Add onion, garlic, bell pepper, and jalapeño to a lightly oiled sauté pan. Season with salt and pepper, then cook until onions are translucent. </step>
+    <step num="1">Once veggies are fully cooked add in chicken, corn, cumin, and paprika. Mix together until fully combined. </step>
+    <step num="2">Remove chicken from the heat and place in a large mixing bowl. </step>
+    <step num="3">Add in cream cheese and mix until chicken becomes creamy. </step>
+    <step num="4">Using a medium-sized ice cream scooper. Scoop out 2 portions of creamy chicken and place on flour tortilla. Top with cheese blend then roll tightly into a burrito. </step>
+    <step num="5">Preheat oil to 325ºF (170ºC). </step>
+    <step num="6">Place burrito into shallow oil, flap side down to create a seal and cook for 2-3 minutes on both sides or until golden brown. </step>
+    <step num="7">Top with sour cream and pico de gallo. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add onion, garlic, bell pepper, and jalapeño to a lightly oiled sauté pan. </steps_updated>
+    <steps_updated num="1">Season with salt and pepper, then cook until onions are translucent. </steps_updated>
+    <steps_updated num="2">Once veggies are fully cooked add in chicken, corn, cumin, and paprika. </steps_updated>
+    <steps_updated num="3">Mix together until fully combined. </steps_updated>
+    <steps_updated num="4">Remove chicken from the heat and place in a large mixing bowl. </steps_updated>
+    <steps_updated num="5">Add in cream cheese and mix until chicken becomes creamy. </steps_updated>
+    <steps_updated num="6">Using a medium-sized ice cream scooper. </steps_updated>
+    <steps_updated num="7">Scoop out 2 portions of creamy chicken and place on flour tortilla. </steps_updated>
+    <steps_updated num="8">Top with cheese blend then roll tightly into a burrito. </steps_updated>
+    <steps_updated num="9">Preheat oil to 325ºF (170ºC). </steps_updated>
+    <steps_updated num="10">Place burrito into shallow oil, flap side down to create a seal and cook for 2-3 minutes on both sides or until golden brown. </steps_updated>
+    <steps_updated num="11">Top with sour cream and pico de gallo. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

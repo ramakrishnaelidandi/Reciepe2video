@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chickpea And Black Bean Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chickpea-and-black-bean-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cans ; black beans, drained and rinsed </ingredient>
+    <ingredient num="1">2 cans ; chickpeas, drained and rinsed </ingredient>
+    <ingredient num="2">½ ; red onion, chopped </ingredient>
+    <ingredient num="3">20 ; cherry tomatoes, halved </ingredient>
+    <ingredient num="4">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+    <ingredient num="5">½ cup ; fresh mint, chopped ; (15 g) </ingredient>
+    <ingredient num="6">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="7">¼ cup ; apple cider vinegar ; (60 mL) </ingredient>
+    <ingredient num="8">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">feta cheese, crumbled, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Middle Eastern</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Sides</category>
+    <category num="8">BBQ</category>
+    <category num="9">Weeknight</category>
+    <category num="10">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32184/low_1495125446.m3u8</low>
+    <high>https://vid.tasty.co/output/32184/mp4_720x1280/1495125446</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine the chickpeas, black beans, red onion, cherry tomatoes, fresh parsley, and fresh mint. </step>
+    <step num="1">In a small bowl, mix together olive oil, vinegar, lemon juice, salt, and pepper. </step>
+    <step num="2">Pour over the salad and toss to coat. </step>
+    <step num="3">Top with crumbled feta cheese. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the chickpeas, black beans, red onion, cherry tomatoes, fresh parsley, and fresh mint. </steps_updated>
+    <steps_updated num="1">In a small bowl, mix together olive oil, vinegar, lemon juice, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Pour over the salad and toss to coat. </steps_updated>
+    <steps_updated num="3">Top with crumbled feta cheese. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

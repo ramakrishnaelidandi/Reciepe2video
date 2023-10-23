@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-pan Fall Chicken Dinner Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pan-fall-chicken-dinner</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="1">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">1 tablespoon ; fresh thyme, finely chopped </ingredient>
+    <ingredient num="3">1 tablespoon ; fresh rosemary, finely chopped </ingredient>
+    <ingredient num="4">1 tablespoon ; fresh sage, finely chopped </ingredient>
+    <ingredient num="5">4 ; boneless, skinless chicken thighs </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; pepper </ingredient>
+    <ingredient num="8">1 ; sweet potato, cubed </ingredient>
+    <ingredient num="9">1 lb ; brussels sprouts, trimmed and halved ; (455 g) </ingredient>
+    <ingredient num="10">½ ; red onion, chopped </ingredient>
+    <ingredient num="11">4 slices ; bacon, chopped </ingredient>
+    <ingredient num="12">salt, to taste </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Date Night</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57204/low_1508444283.m3u8</low>
+    <high>https://vid.tasty.co/output/57204/mp4_720x1280/1508444283</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">In a plastic zip-top bag add 2 tablespoons of olive oil, garlic, thyme, rosemary, and sage. </step>
+    <step num="2">Place the chicken thighs on top and season with salt and pepper. </step>
+    <step num="3">Close the bag and massage to coat the chicken evenly. Refrigerate. </step>
+    <step num="4">On a sheet pan, place the chopped sweet potato, Brussels sprouts and red onion. </step>
+    <step num="5">Drizzle with 2 tablespoons of olive oil and season with salt and pepper. Toss to coat. </step>
+    <step num="6">Place the chicken thighs on top of the vegetables and sprinkle with chopped bacon. </step>
+    <step num="7">Bake for 30 minutes, or until the internal temperature of the chicken reaches 165°F (75°C). </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">In a plastic zip-top bag add 2 tablespoons of olive oil, garlic, thyme, rosemary, and sage. </steps_updated>
+    <steps_updated num="2">Place the chicken thighs on top and season with salt and pepper. </steps_updated>
+    <steps_updated num="3">Close the bag and massage to coat the chicken evenly. </steps_updated>
+    <steps_updated num="4">Refrigerate. </steps_updated>
+    <steps_updated num="5">On a sheet pan, place the chopped sweet potato, Brussels sprouts and red onion. </steps_updated>
+    <steps_updated num="6">Drizzle with 2 tablespoons of olive oil and season with salt and pepper. </steps_updated>
+    <steps_updated num="7">Toss to coat. </steps_updated>
+    <steps_updated num="8">Place the chicken thighs on top of the vegetables and sprinkle with chopped bacon. </steps_updated>
+    <steps_updated num="9">Bake for 30 minutes, or until the internal temperature of the chicken reaches 165°F (75°C). </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

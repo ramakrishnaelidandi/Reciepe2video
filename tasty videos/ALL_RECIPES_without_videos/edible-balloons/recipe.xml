@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Edible Balloons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/edible-balloons</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ oz ; gelatin, one packet ; (7 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; water </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; cornstarch </ingredient>
+    <ingredient num="4">⅔ cup ; light corn syrup ; (165 g) </ingredient>
+    <ingredient num="5">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">food thermometer </ingredient>
+    <ingredient num="8">vinyl tubing </ingredient>
+    <ingredient num="9">helium tank </ingredient>
+    <ingredient num="10">string </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Snacks</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/84810/hls24_1521132381.m3u8</low>
+    <high>https://vid.tasty.co/output/84810/landscape_720/1521132381</high>
+  </video>
+  <steps>
+    <step num="0">In a small bowl, combine 1 pack of gelatin and 2 tbsp of water. Set aside. </step>
+    <step num="1">In a medium pot, combine sugar, cornstarch, light corn syrup, water, and salt. Mix together and bring to a boil. </step>
+    <step num="2">Heat mixture until it reaches 255°F (124°C), then turn off heat. </step>
+    <step num="3">Carefully mix in gelatin and remove from heat. </step>
+    <step num="4">Attach one end of a vinyl tube to a helium tank. Use a piece of tape to secure it in place. </step>
+    <step num="5">Dip the other end of your vinyl tube into your sugar mixture. Make sure the opening is completely covered in your mixture. </step>
+    <step num="6">Hold your tube over your mixture pointing down toward the pot. Carefully inflate by slowly filling it with helium. </step>
+    <step num="7">As the balloon inflates, turn the tube upward to allow the balloon to form. </step>
+    <step num="8">Once filled have another person use a piece of string to capture your balloon. </step>
+    <step num="9">Carefully wrap the string at the base of your balloon on the tube, twist the string once wrapped. As one person slowly pulls the vinyl tube away, the other person will use the string to scrape off the balloon base of the tube. </step>
+    <step num="10">Eat immediately. The taffy balloon can be eaten on its own or popped, then wrapped around a stick for easier consumption. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, combine 1 pack of gelatin and 2 tbsp of water. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">In a medium pot, combine sugar, cornstarch, light corn syrup, water, and salt. </steps_updated>
+    <steps_updated num="3">Mix together and bring to a boil. </steps_updated>
+    <steps_updated num="4">Heat mixture until it reaches 255°F (124°C), then turn off heat. </steps_updated>
+    <steps_updated num="5">Carefully mix in gelatin and remove from heat. </steps_updated>
+    <steps_updated num="6">Attach one end of a vinyl tube to a helium tank. </steps_updated>
+    <steps_updated num="7">Use a piece of tape to secure it in place. </steps_updated>
+    <steps_updated num="8">Dip the other end of your vinyl tube into your sugar mixture. </steps_updated>
+    <steps_updated num="9">Make sure the opening is completely covered in your mixture. </steps_updated>
+    <steps_updated num="10">Hold your tube over your mixture pointing down toward the pot. </steps_updated>
+    <steps_updated num="11">Carefully inflate by slowly filling it with helium. </steps_updated>
+    <steps_updated num="12">As the balloon inflates, turn the tube upward to allow the balloon to form. </steps_updated>
+    <steps_updated num="13">Once filled have another person use a piece of string to capture your balloon. </steps_updated>
+    <steps_updated num="14">Carefully wrap the string at the base of your balloon on the tube, twist the string once wrapped. </steps_updated>
+    <steps_updated num="15">As one person slowly pulls the vinyl tube away, the other person will use the string to scrape off the balloon base of the tube. </steps_updated>
+    <steps_updated num="16">Eat immediately. </steps_updated>
+    <steps_updated num="17">The taffy balloon can be eaten on its own or popped, then wrapped around a stick for easier consumption. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

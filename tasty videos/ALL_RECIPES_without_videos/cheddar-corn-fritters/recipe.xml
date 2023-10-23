@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheddar Corn Fritters Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-corn-fritters</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; flour ; (190 g) </ingredient>
+    <ingredient num="1">2 cups ; corn, or one 15 oz (425 g) can ; (350 g) </ingredient>
+    <ingredient num="2">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="3">⅓ cup ; fresh chives, chopped ; (15 g) </ingredient>
+    <ingredient num="4">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="5">2 ; eggs </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="8">½ cup ; oil, for frying ; (120 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+    <category num="3">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11248/low_1475504997.m3u8</low>
+    <high>https://vid.tasty.co/output/11248/mp4_720x1280/1475504997</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl add the ingredients. </step>
+    <step num="1">Mix well. </step>
+    <step num="2">In a large skillet, heat a half cup of oil (or until entire skillet is covered with a thin layer) over medium-high heat. </step>
+    <step num="3">Spoon 2 tablespoons of mixture to form each fritter into the hot oil. </step>
+    <step num="4">Flip after about a minute and a half or when you can see the edges beginning to brown. Repeat for other side. </step>
+    <step num="5">Serve with a dollop of sour cream and chives. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl add the ingredients. </steps_updated>
+    <steps_updated num="1">Mix well. </steps_updated>
+    <steps_updated num="2">In a large skillet, heat a half cup of oil (or until entire skillet is covered with a thin layer) over medium-high heat. </steps_updated>
+    <steps_updated num="3">Spoon 2 tablespoons of mixture to form each fritter into the hot oil. </steps_updated>
+    <steps_updated num="4">Flip after about a minute and a half or when you can see the edges beginning to brown. </steps_updated>
+    <steps_updated num="5">Repeat for other side. </steps_updated>
+    <steps_updated num="6">Serve with a dollop of sour cream and chives. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

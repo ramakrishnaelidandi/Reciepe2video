@@ -1,0 +1,55 @@
+<recipe>
+  <title>Farro Lentil Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/farro-lentil-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-plant-based-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 1580 9517 13278 1014 3745 13278 11904 5981 </ingredient>
+    <ingredient num="1">3917 1580 9517 13278 13187 3745 13278 1513 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 5071 9491 10844 13278 757 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 10837 341 13278 1316 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 11091 1466 10986 341 13278 2264 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 8083 1466 7845 13278 2264 5981 </ingredient>
+    <ingredient num="6">1813 2605 13278 6209 11911 3962 13278 6429 5981 </ingredient>
+    <ingredient num="7">1813 2605 13278 8244 5766 13278 12158 8007 </ingredient>
+    <ingredient num="8">8580 9486 13278 8083 13538 10769 </ingredient>
+    <ingredient num="9">8580 9486 13278 597 10522 </ingredient>
+    <ingredient num="10">3917 8071 13278 9260 6422 </ingredient>
+    <ingredient num="11">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="12">3917 8071 13278 11239 2634 </ingredient>
+    <ingredient num="13">1580 8071 13278 82 </ingredient>
+    <ingredient num="14">12791 8071 13278 7845 </ingredient>
+    <ingredient num="15">6209 13566 560 13772 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107852/hls24_1536088553.m3u8</low>
+    <high>https://vid.tasty.co/output/107852/landscape_720/1536088553</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>135.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 4120 11951 1014 13187 7042 10837 11091 10986 8083 10986 13817 13012 </step>
+    <step num="1">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 8244 7632 8083 13538 4450 597 7654 7997 5920 4155 6302 3123 12610 13817 10986 13817 8341 1681 8460 </step>
+    <step num="2">1083 11951 6650 11770 11951 6314 11812 13817 1686 1681 8460 </step>
+    <step num="3">12435 11951 6314 11812 669 2759 5840 1391 11951 13566 5358 936 2356 7990 3386 560 2933 2497 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 4120 11951 1014 13187 7042 10837 11091 10986 8083 10986 13817 13012 </steps_updated>
+    <steps_updated num="1">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 8244 7632 8083 13538 4450 597 7654 7997 5920 4155 6302 3123 12610 13817 10986 13817 8341 1681 8460 </steps_updated>
+    <steps_updated num="2">1083 11951 6650 11770 11951 6314 11812 13817 1686 1681 8460 </steps_updated>
+    <steps_updated num="3">12435 11951 6314 11812 669 2759 5840 1391 11951 13566 5358 936 </steps_updated>
+    <steps_updated num="4">2356 7990 3386 560 2933 2497 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

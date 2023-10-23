@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fajita Pepper Rings Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fajita-pepper-rings</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; red onion, diced </ingredient>
+    <ingredient num="1">2 ; chicken breasts, diced </ingredient>
+    <ingredient num="2">1 tablespoon ; fajita spice mix </ingredient>
+    <ingredient num="3">1 tablespoon ; salsa </ingredient>
+    <ingredient num="4">½ ; lime, juiced </ingredient>
+    <ingredient num="5">cheddar cheese, grated </ingredient>
+    <ingredient num="6">2 ; bell peppers, mixed colors of your choice </ingredient>
+    <ingredient num="7">2 ; eggs, beaten </ingredient>
+    <ingredient num="8">6 ; taco shells, crushed </ingredient>
+    <ingredient num="9">dipping sauce, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15790/low_1479926362.m3u8</low>
+    <high>https://vid.tasty.co/output/15790/mp4_720x1280/1479926362</high>
+  </video>
+  <steps>
+    <step num="0">Fry the onion and chicken in a little oil until the onions are translucent and the chicken is cooked through. </step>
+    <step num="1">Add the fajita spice mix, salsa, cheese, and lime juice. </step>
+    <step num="2">Cook and stir until the cheese has melted and everything is combined. </step>
+    <step num="3">Slice the peppers into thick rings, remove all seeds, and place onto a tray lined with baking paper. </step>
+    <step num="4">Spoon the mixture into each pepper ring and freeze until set, approx 1-2 hours. </step>
+    <step num="5">Preheat the oven to 200°C (400°F). </step>
+    <step num="6">Dip the frozen pepper rings (which should now hold their shape) into the eggs and then the crushed taco shells. </step>
+    <step num="7">Place back on the baking tray and cook for 20-25 minutes, turning occasionally until browned and crispy. </step>
+    <step num="8">Serve with a selection of dips such as soured cream and chive, guacamole, and salsa. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fry the onion and chicken in a little oil until the onions are translucent and the chicken is cooked through. </steps_updated>
+    <steps_updated num="1">Add the fajita spice mix, salsa, cheese, and lime juice. </steps_updated>
+    <steps_updated num="2">Cook and stir until the cheese has melted and everything is combined. </steps_updated>
+    <steps_updated num="3">Slice the peppers into thick rings, remove all seeds, and place onto a tray lined with baking paper. </steps_updated>
+    <steps_updated num="4">Spoon the mixture into each pepper ring and freeze until set, approx 1-2 hours. </steps_updated>
+    <steps_updated num="5">Preheat the oven to 200°C (400°F). </steps_updated>
+    <steps_updated num="6">Dip the frozen pepper rings (which should now hold their shape) into the eggs and then the crushed taco shells. </steps_updated>
+    <steps_updated num="7">Place back on the baking tray and cook for 20-25 minutes, turning occasionally until browned and crispy. </steps_updated>
+    <steps_updated num="8">Serve with a selection of dips such as soured cream and chive, guacamole, and salsa. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

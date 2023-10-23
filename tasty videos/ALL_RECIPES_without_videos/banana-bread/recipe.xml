@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-bread</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-healthier-food-substitutions</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; ripe bananas, mashed </ingredient>
+    <ingredient num="1">¾ cup ; honey ; (255 g) </ingredient>
+    <ingredient num="2">1 ; egg </ingredient>
+    <ingredient num="3">2 tablespoons ; almond milk </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">2 cups ; whole wheat flour ; (260 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="7">salt, a pinch </ingredient>
+    <ingredient num="8">¼ cup ; applesauce, or Greek yogurt ; (65 mL) </ingredient>
+    <ingredient num="9">¼ cup ; greek yogurt ; (70 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46809/low_1502320486.m3u8</low>
+    <high>https://vid.tasty.co/output/46809/mp4_720x1280/1502320486</high>
+  </video>
+  <duration>
+    <start_time>20.56</start_time>
+    <end_time>32.1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 325°F (170°C). </step>
+    <step num="1">Mash bananas, then add applesauce or Greek yogurt, honey, egg, vanilla extract, and almond milk. Whisk until well combined. </step>
+    <step num="2">In another bowl, mix whole wheat flour, baking soda, and salt together. </step>
+    <step num="3">Add the dry ingredients to the wet ingredients and stir well. </step>
+    <step num="4">Spray loaf pan with cooking spray or wipe down with oil. Pour mix into a loaf pan. </step>
+    <step num="5">Bake 50-55 minutes. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 325°F (170°C). </steps_updated>
+    <steps_updated num="1">Mash bananas, then add applesauce or Greek yogurt, honey, egg, vanilla extract, and almond milk. </steps_updated>
+    <steps_updated num="2">Whisk until well combined. </steps_updated>
+    <steps_updated num="3">In another bowl, mix whole wheat flour, baking soda, and salt together. </steps_updated>
+    <steps_updated num="4">Add the dry ingredients to the wet ingredients and stir well. </steps_updated>
+    <steps_updated num="5">Spray loaf pan with cooking spray or wipe down with oil. </steps_updated>
+    <steps_updated num="6">Pour mix into a loaf pan. </steps_updated>
+    <steps_updated num="7">Bake 50-55 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00980</end_time>
+  </duration_human>
+</recipe>

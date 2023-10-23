@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Aunt Vivian’s Sweet Potato Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/aunt-vivians-sweet-potato-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 lb ; large sweet potato, 4 potatoes ; (1.3 g) </ingredient>
+    <ingredient num="1">1 cup ; unsalted butter, 2 sticks, melted ; (225 g) </ingredient>
+    <ingredient num="2">2 ½ cups ; sugar ; (500 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; ground nutmeg </ingredient>
+    <ingredient num="4">1 teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="5">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="6">4 ; large eggs </ingredient>
+    <ingredient num="7">1 tablespoon ; self-rising flour </ingredient>
+    <ingredient num="8">¼ cup ; buttermilk ; (60 mL) </ingredient>
+    <ingredient num="9">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="10">1 teaspoon ; lemon extract </ingredient>
+    <ingredient num="11">3 pies ; frozen prepared pie crust, unbaked </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/117003/hls24_1543365926.m3u8</low>
+    <high>https://vid.tasty.co/output/117003/landscape_720/1543365926</high>
+  </video>
+  <steps>
+    <step num="0">Cook the sweet potatoes in a large pot of boiling water until fork-tender, about 25-30 minutes. Drain and let cool completely. </step>
+    <step num="1">Preheat the oven to 365˚F (185˚C). </step>
+    <step num="2">Peel the sweet potatoes, then transfer to a large bowl and mash thoroughly with an electric hand mixer or fork. </step>
+    <step num="3">Add the melted butter, sugar, nutmeg, cinnamon, and salt. Beat to combine, then scrape down the sides of the bowl with a rubber spatula. Add the eggs, 1 at a time, beating to incorporate each addition. Add the self-rising flour, buttermilk, vanilla, and lemon extract, and beat to combine. </step>
+    <step num="4">Divide the sweet potato filling between the frozen pie crusts and smooth the tops. </step>
+    <step num="5">Bake for about 1 hour, until pies are set in the center. Cover the crusts with foil if it is getting too dark before the pies finish baking. </step>
+    <step num="6">Cool the pies for 2 hours on a wire rack. </step>
+    <step num="7">Slice and serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook the sweet potatoes in a large pot of boiling water until fork-tender, about 25-30 minutes. </steps_updated>
+    <steps_updated num="1">Drain and let cool completely. </steps_updated>
+    <steps_updated num="2">Preheat the oven to 365˚F (185˚C). </steps_updated>
+    <steps_updated num="3">Peel the sweet potatoes, then transfer to a large bowl and mash thoroughly with an electric hand mixer or fork. </steps_updated>
+    <steps_updated num="4">Add the melted butter, sugar, nutmeg, cinnamon, and salt. </steps_updated>
+    <steps_updated num="5">Beat to combine, then scrape down the sides of the bowl with a rubber spatula. </steps_updated>
+    <steps_updated num="6">Add the eggs, 1 at a time, beating to incorporate each addition. </steps_updated>
+    <steps_updated num="7">Add the self-rising flour, buttermilk, vanilla, and lemon extract, and beat to combine. </steps_updated>
+    <steps_updated num="8">Divide the sweet potato filling between the frozen pie crusts and smooth the tops. </steps_updated>
+    <steps_updated num="9">Bake for about 1 hour, until pies are set in the center. </steps_updated>
+    <steps_updated num="10">Cover the crusts with foil if it is getting too dark before the pies finish baking. </steps_updated>
+    <steps_updated num="11">Cool the pies for 2 hours on a wire rack. </steps_updated>
+    <steps_updated num="12">Slice and serve. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

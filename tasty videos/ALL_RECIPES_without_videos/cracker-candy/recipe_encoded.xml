@@ -1,0 +1,50 @@
+<recipe>
+  <title>Cracker Candy Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cracker-candy</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 8134 13278 9722 11203 1928 3807 </ingredient>
+    <ingredient num="1">3917 2605 13278 10907 8580 11078 6811 10298 5895 11406 9473 5981 </ingredient>
+    <ingredient num="2">3917 11216 9517 13278 1368 6145 10248 11505 5746 14 6949 13278 3153 5981 </ingredient>
+    <ingredient num="3">3917 12854 13278 4680 10803 5746 665 12485 </ingredient>
+    <ingredient num="4">1580 2605 13278 3962 5587 12508 5895 488 3962 638 13278 13125 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32034/low_1495125030.m3u8</low>
+    <high>https://vid.tasty.co/output/32034/mp4_720x1280/1495125030</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 6866 7143 </step>
+    <step num="1">9207 7155 213 1391 3615 9606 8226 1391 14260 8224 11013 9207 1928 12459 560 12459 4255 11020 3128 1928 560 10313 11951 12459 5358 14532 </step>
+    <step num="2">10950 5994 7110 6983 9924 4255 9721 2082 9956 4318 740 1368 4834 13817 837 7855 560 2022 8697 13328 1681 2032 6427 415 1002 7990 13086 8927 10518 8046 </step>
+    <step num="3">1083 11770 9703 11434 3584 10887 8067 </step>
+    <step num="4">10838 213 669 10439 6427 10903 7990 2933 12689 </step>
+    <step num="5">6054 6427 5406 4680 11318 11770 10707 6427 3345 5994 213 371 3615 11770 13817 3945 6983 7990 13086 12689 </step>
+    <step num="6">2988 5335 4680 11770 11951 10707 7317 9179 9656 560 10707 6427 12944 3615 13817 173 1681 9892 11848 11484 6801 </step>
+    <step num="7">906 3386 669 13637 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 6866 7143 </steps_updated>
+    <steps_updated num="1">9207 7155 213 1391 3615 9606 8226 1391 14260 8224 11013 </steps_updated>
+    <steps_updated num="2">9207 1928 12459 560 12459 4255 11020 3128 1928 560 10313 11951 12459 5358 14532 </steps_updated>
+    <steps_updated num="3">10950 5994 7110 6983 9924 4255 9721 2082 </steps_updated>
+    <steps_updated num="4">9956 4318 740 1368 4834 13817 837 7855 560 2022 </steps_updated>
+    <steps_updated num="5">8697 13328 1681 2032 6427 415 1002 7990 13086 8927 10518 8046 </steps_updated>
+    <steps_updated num="6">1083 11770 9703 11434 3584 10887 8067 </steps_updated>
+    <steps_updated num="7">10838 213 669 10439 6427 10903 7990 2933 12689 </steps_updated>
+    <steps_updated num="8">6054 6427 5406 4680 11318 11770 10707 6427 3345 5994 213 371 3615 11770 13817 3945 6983 7990 13086 12689 </steps_updated>
+    <steps_updated num="9">2988 5335 4680 11770 11951 10707 7317 </steps_updated>
+    <steps_updated num="10">9179 9656 560 10707 6427 12944 3615 13817 173 1681 9892 </steps_updated>
+    <steps_updated num="11">11848 11484 6801 </steps_updated>
+    <steps_updated num="12">906 3386 669 13637 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

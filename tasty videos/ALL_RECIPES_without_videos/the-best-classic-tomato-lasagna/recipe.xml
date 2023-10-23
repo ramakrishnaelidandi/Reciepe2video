@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>The Best Layered Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-best-classic-tomato-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">2 tablespoons ; butter </ingredient>
+    <ingredient num="2">1 ; onion, minced </ingredient>
+    <ingredient num="3">1 g ; large carrot, peeled and minced ; 1 g </ingredient>
+    <ingredient num="4">1 g ; celery stalk, minced ; 1 g </ingredient>
+    <ingredient num="5">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="6">1 lb ; ground pork ; (455 g) </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">6 oz ; can of tomato paste ; (1 g) </ingredient>
+    <ingredient num="10">2 cups ; red wine </ingredient>
+    <ingredient num="11">28 oz ; can of diced tomatoes ; (1 g) </ingredient>
+    <ingredient num="12">15 oz ; ricotta cheese ; (425 g) </ingredient>
+    <ingredient num="13">½ cup ; fresh basil, chopped ; (20 g) </ingredient>
+    <ingredient num="14">1 cup ; shredded parmesan cheese, plus more to taste ; (100 g) </ingredient>
+    <ingredient num="15">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+    <ingredient num="16">1 ; egg </ingredient>
+    <ingredient num="17">salt, to taste </ingredient>
+    <ingredient num="18">pepper, to taste </ingredient>
+    <ingredient num="19">1 lb ; lasagna noodle, cooked ; (455 g) </ingredient>
+    <ingredient num="20">shredded mozzarella cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/49395/low_1503683618.m3u8</low>
+    <high>https://vid.tasty.co/output/49395/mp4_720x1280/1503683618</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Add olive oil and butter to a skillet on medium-high heat. Once warmed, add the carrot, onion, celery, and garlic. Cook, stirring occasionally, until golden brown, 10-12 minutes. </step>
+    <step num="2">Once the vegetables have caramelized, add in the ground beef, pork, salt, pepper, and tomato paste. Stir to combine, breaking up the pieces of meat, until the meat has browned, 15-20 minutes. </step>
+    <step num="3">Once the sauce is dark brown and starting to stick slightly to the bottom of the pan, add the red wine. Scrape the bottom of the pan with a wooden spoon to release all the cooked brown bits. </step>
+    <step num="4">Once the wine comes to a simmer, add in the diced canned tomatoes, and stir to combine. </step>
+    <step num="5">Bring the sauce to a simmer, cover with a lid, and cook for at least 30 minutes (the longer the better!) stirring occasionally, and then set aside. </step>
+    <step num="6">In a large bowl, mix together the ricotta, basil, Parmesan, parsley, egg, salt, and pepper. Set aside. </step>
+    <step num="7">In a 9x13-inch (23x33 cm) glass baking pan, add a layer of bolognese to the bottom. Top with noodles, then spread a layer of ricotta. </step>
+    <step num="8">Repeat with another layer of bolognese, noodles, ricotta, noodles, bolognese, extra mozzarella, and Parmesan. </step>
+    <step num="9">Cover the baking dish with foil and bake for 25 minutes. </step>
+    <step num="10">Remove the foil and bake again for an additional 15 minutes until the cheese on top has browned and the bolognese is bubbling. </step>
+    <step num="11">Slice and serve. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Add olive oil and butter to a skillet on medium-high heat. </steps_updated>
+    <steps_updated num="2">Once warmed, add the carrot, onion, celery, and garlic. </steps_updated>
+    <steps_updated num="3">Cook, stirring occasionally, until golden brown, 10-12 minutes. </steps_updated>
+    <steps_updated num="4">Once the vegetables have caramelized, add in the ground beef, pork, salt, pepper, and tomato paste. </steps_updated>
+    <steps_updated num="5">Stir to combine, breaking up the pieces of meat, until the meat has browned, 15-20 minutes. </steps_updated>
+    <steps_updated num="6">Once the sauce is dark brown and starting to stick slightly to the bottom of the pan, add the red wine. </steps_updated>
+    <steps_updated num="7">Scrape the bottom of the pan with a wooden spoon to release all the cooked brown bits. </steps_updated>
+    <steps_updated num="8">Once the wine comes to a simmer, add in the diced canned tomatoes, and stir to combine. </steps_updated>
+    <steps_updated num="9">Bring the sauce to a simmer, cover with a lid, and cook for at least 30 minutes (the longer the better!) </steps_updated>
+    <steps_updated num="10">stirring occasionally, and then set aside. </steps_updated>
+    <steps_updated num="11">In a large bowl, mix together the ricotta, basil, Parmesan, parsley, egg, salt, and pepper. </steps_updated>
+    <steps_updated num="12">Set aside. </steps_updated>
+    <steps_updated num="13">In a 9x13-inch (23x33 cm) glass baking pan, add a layer of bolognese to the bottom. </steps_updated>
+    <steps_updated num="14">Top with noodles, then spread a layer of ricotta. </steps_updated>
+    <steps_updated num="15">Repeat with another layer of bolognese, noodles, ricotta, noodles, bolognese, extra mozzarella, and Parmesan. </steps_updated>
+    <steps_updated num="16">Cover the baking dish with foil and bake for 25 minutes. </steps_updated>
+    <steps_updated num="17">Remove the foil and bake again for an additional 15 minutes until the cheese on top has browned and the bolognese is bubbling. </steps_updated>
+    <steps_updated num="18">Slice and serve. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pork Chops And Creamy Spinach Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pork-chops-and-creamy-spinach</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; onion, sliced ; (38 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">7 oz ; spinach, washed ; (198 g) </ingredient>
+    <ingredient num="3">6 oz ; cream cheese, cubed ; (170 g) </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">5 ; thick-cut pork chops </ingredient>
+    <ingredient num="7">mashed potato </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19114/low_1482370920.m3u8</low>
+    <high>https://vid.tasty.co/output/19114/mp4_720x1280/1482370920</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400ºF (200ºC). </step>
+    <step num="1">Cook the onion and the garlic, until translucent. </step>
+    <step num="2">Add the washed spinach. Cook until wilted. </step>
+    <step num="3">Add the cream cheese, salt, and pepper, and stir until melted. Set aside and allow to cool. </step>
+    <step num="4">Make a slit on the side of the pork chop, making a pocket but not cutting all the way through. </step>
+    <step num="5">Fill the pork chop with the spinach mixture. Season with salt and pepper both sides. </step>
+    <step num="6">In a hot pan, sear the pork chop, until golden brown on both sides. </step>
+    <step num="7">Move pork chop to a baking sheet and bake for 20 minutes, or until pork is cooked through. </step>
+    <step num="8">Serve with your favorite side - we chose mashed potatoes! </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400ºF (200ºC). </steps_updated>
+    <steps_updated num="1">Cook the onion and the garlic, until translucent. </steps_updated>
+    <steps_updated num="2">Add the washed spinach. </steps_updated>
+    <steps_updated num="3">Cook until wilted. </steps_updated>
+    <steps_updated num="4">Add the cream cheese, salt, and pepper, and stir until melted. </steps_updated>
+    <steps_updated num="5">Set aside and allow to cool. </steps_updated>
+    <steps_updated num="6">Make a slit on the side of the pork chop, making a pocket but not cutting all the way through. </steps_updated>
+    <steps_updated num="7">Fill the pork chop with the spinach mixture. </steps_updated>
+    <steps_updated num="8">Season with salt and pepper both sides. </steps_updated>
+    <steps_updated num="9">In a hot pan, sear the pork chop, until golden brown on both sides. </steps_updated>
+    <steps_updated num="10">Move pork chop to a baking sheet and bake for 20 minutes, or until pork is cooked through. </steps_updated>
+    <steps_updated num="11">Serve with your favorite side - we chose mashed potatoes! </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

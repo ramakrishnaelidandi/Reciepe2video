@@ -1,0 +1,47 @@
+<recipe>
+  <title>Spiked Hot Chocolate Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spiked-hot-chocolate</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-slow-cooker-cocktails-to-serve-at-your-next-holiday-party</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 4834 13278 8941 5981 </ingredient>
+    <ingredient num="1">3917 9883 9517 13278 4384 9053 11703 13278 10952 5981 </ingredient>
+    <ingredient num="2">8883 9517 13278 3305 5802 13278 5912 9883 1767 </ingredient>
+    <ingredient num="3">3917 2605 13278 13934 5013 13278 7503 8007 </ingredient>
+    <ingredient num="4">8268 13278 2597 8503 </ingredient>
+    <ingredient num="5">279 1123 7990 4711 </ingredient>
+    <ingredient num="6">13934 8799 4353 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112113/hls24_1539385219.m3u8</low>
+    <high>https://vid.tasty.co/output/112113/landscape_720/1539385219</high>
+  </video>
+  <duration>
+    <start_time>138.166</start_time>
+    <end_time>186.533</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 4834 13817 9053 11703 560 5994 3025 9394 13817 8341 560 1011 </step>
+    <step num="1">9179 11951 5802 13817 8341 560 502 426 11951 7855 6454 560 6428 510 13817 10383 7990 9030 11004 1681 8009 9956 11898 2864 11951 7855 6454 560 10316 </step>
+    <step num="2">9179 11951 13934 1638 283 560 4120 13817 560 8159 11951 4834 13817 9053 11703 12573 7568 10033 9179 11951 628 </step>
+    <step num="3">8225 669 1637 13817 10707 1391 279 13033 13817 5614 13934 2918 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 4834 13817 9053 11703 560 5994 3025 9394 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="1">9179 11951 5802 13817 8341 560 502 </steps_updated>
+    <steps_updated num="2">426 11951 7855 6454 560 6428 510 13817 10383 7990 9030 11004 1681 8009 </steps_updated>
+    <steps_updated num="3">9956 11898 2864 11951 7855 6454 560 10316 </steps_updated>
+    <steps_updated num="4">9179 11951 13934 1638 </steps_updated>
+    <steps_updated num="5">283 560 4120 13817 560 8159 11951 4834 13817 9053 11703 12573 7568 10033 </steps_updated>
+    <steps_updated num="6">9179 11951 628 </steps_updated>
+    <steps_updated num="7">8225 669 1637 13817 10707 1391 279 13033 13817 5614 13934 2918 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

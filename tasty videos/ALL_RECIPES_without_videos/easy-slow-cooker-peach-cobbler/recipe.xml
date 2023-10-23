@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow-Cooker Peach Cobbler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-slow-cooker-peach-cobbler</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">42 oz ; peach pie filling, about 2 cans ; (1 kg) </ingredient>
+    <ingredient num="1">1 box ; vanilla cake mix </ingredient>
+    <ingredient num="2">8 oz ; unsalted butter, cut into small chunks ; (225 g) </ingredient>
+    <ingredient num="3">⅓ cup ; walnuts, optional ; (35 g) </ingredient>
+    <ingredient num="4">vanilla ice cream, optional, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32054/low_1495124992.m3u8</low>
+    <high>https://vid.tasty.co/output/32054/mp4_720x1280/1495124992</high>
+  </video>
+  <steps>
+    <step num="0">Put peach pie filling in slow cooker. Then top with cake mix, butter, and walnuts. </step>
+    <step num="1">Cook on high for 2-2.5 hours or until the cake part reaches desired consistency. </step>
+    <step num="2">Server a la mode with vanilla ice cream or your favorite whipped cream. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put peach pie filling in slow cooker. </steps_updated>
+    <steps_updated num="1">Then top with cake mix, butter, and walnuts. </steps_updated>
+    <steps_updated num="2">Cook on high for 2-2.5 hours or until the cake part reaches desired consistency. </steps_updated>
+    <steps_updated num="3">Server a la mode with vanilla ice cream or your favorite whipped cream. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

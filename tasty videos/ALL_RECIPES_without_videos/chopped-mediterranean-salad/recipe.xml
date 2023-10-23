@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chopped Mediterranean Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chopped-mediterranean-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; cucumbers </ingredient>
+    <ingredient num="1">4 ; tomatoes </ingredient>
+    <ingredient num="2">1 ; red onion </ingredient>
+    <ingredient num="3">½ cup ; feta cheese ; (75 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="5">2 tablespoons ; red wine vinegar </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">black pepper, to taste </ingredient>
+    <ingredient num="8">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="9">1 cup ; kalamata olive ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Sides</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26490/low_1489523999.m3u8</low>
+    <high>https://vid.tasty.co/output/26490/mp4_720x1280/1489523999</high>
+  </video>
+  <steps>
+    <step num="0">Peel the cucumbers. Cut into discs, and then quarter the discs. Place in a large salad bowl. </step>
+    <step num="1">Cut tomatoes into quarters, lengthwise, and then rotate and cut into large chunks. Add to the salad bowl. </step>
+    <step num="2">Cut the red onion in half, removing the skin, stem, and bottom. Thinly slice and add to the bowl. </step>
+    <step num="3">Add the feta cheese, olive oil, red wine vinegar, salt, pepper, lemon juice, and olives to the salad bowl and toss gently. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Peel the cucumbers. </steps_updated>
+    <steps_updated num="1">Cut into discs, and then quarter the discs. </steps_updated>
+    <steps_updated num="2">Place in a large salad bowl. </steps_updated>
+    <steps_updated num="3">Cut tomatoes into quarters, lengthwise, and then rotate and cut into large chunks. </steps_updated>
+    <steps_updated num="4">Add to the salad bowl. </steps_updated>
+    <steps_updated num="5">Cut the red onion in half, removing the skin, stem, and bottom. </steps_updated>
+    <steps_updated num="6">Thinly slice and add to the bowl. </steps_updated>
+    <steps_updated num="7">Add the feta cheese, olive oil, red wine vinegar, salt, pepper, lemon juice, and olives to the salad bowl and toss gently. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cobb Salad Deviled Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cobb-salad-deviled-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; eggs </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">1 teaspoon ; pepper </ingredient>
+    <ingredient num="3">½ cup ; tomato, diced ; (100 g) </ingredient>
+    <ingredient num="4">½ cup ; cooked chicken, fine chopped ; (65 g) </ingredient>
+    <ingredient num="5">½ cup ; bacon, crumbled ; (115 g) </ingredient>
+    <ingredient num="6">3 tablespoons ; mayonnaise </ingredient>
+    <ingredient num="7">2 tablespoons ; dijon mustard </ingredient>
+    <ingredient num="8">½ ; avocado, diced </ingredient>
+    <ingredient num="9">blue cheese </ingredient>
+    <ingredient num="10">bacon, sliced into strips </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22440/low_1485798728.m3u8</low>
+    <high>https://vid.tasty.co/output/22440/mp4_720x1280/1485798728</high>
+  </video>
+  <steps>
+    <step num="0">Place the eggs in a large pot and cover with 1 inch (2 cm) of cold water. </step>
+    <step num="1">Bring to a rolling boil, cover with the lid, and remove from heat. Let the eggs sit, covered for 8-10 minutes. </step>
+    <step num="2">Remove from water and immediately place in bath of ice water for a few minutes. </step>
+    <step num="3">Remove shells and cut the egg in half, vertically. </step>
+    <step num="4">Remove the yolk and place in a bowl. Set the cooked whites aside on a serving tray. </step>
+    <step num="5">In the bowl with the yolks, add salt, pepper, tomatoes, chicken, bacon, mayonnaise, and mustard. </step>
+    <step num="6">Mash until everything is well incorporated. </step>
+    <step num="7">Gently fold in the diced avocado. </step>
+    <step num="8">Fill each cooked egg white with the mixture, and if you would like to get fancy, garnish with blue cheese and a small strip of bacon. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the eggs in a large pot and cover with 1 inch (2 cm) of cold water. </steps_updated>
+    <steps_updated num="1">Bring to a rolling boil, cover with the lid, and remove from heat. </steps_updated>
+    <steps_updated num="2">Let the eggs sit, covered for 8-10 minutes. </steps_updated>
+    <steps_updated num="3">Remove from water and immediately place in bath of ice water for a few minutes. </steps_updated>
+    <steps_updated num="4">Remove shells and cut the egg in half, vertically. </steps_updated>
+    <steps_updated num="5">Remove the yolk and place in a bowl. </steps_updated>
+    <steps_updated num="6">Set the cooked whites aside on a serving tray. </steps_updated>
+    <steps_updated num="7">In the bowl with the yolks, add salt, pepper, tomatoes, chicken, bacon, mayonnaise, and mustard. </steps_updated>
+    <steps_updated num="8">Mash until everything is well incorporated. </steps_updated>
+    <steps_updated num="9">Gently fold in the diced avocado. </steps_updated>
+    <steps_updated num="10">Fill each cooked egg white with the mixture, and if you would like to get fancy, garnish with blue cheese and a small strip of bacon. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

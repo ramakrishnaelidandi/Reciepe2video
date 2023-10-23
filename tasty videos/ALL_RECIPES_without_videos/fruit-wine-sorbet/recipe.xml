@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fruit &amp; Wine Sorbet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fruit-wine-sorbet</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; strawberry, cut in half, stems removed ; (150 g) </ingredient>
+    <ingredient num="1">1 cup ; pineapple, cut into small pieces ; (245 g) </ingredient>
+    <ingredient num="2">½ cup ; blackberry ; (75 g) </ingredient>
+    <ingredient num="3">½ cup ; raspberry ; (60 g) </ingredient>
+    <ingredient num="4">½ cup ; mango, cut into small pieces ; (80 g) </ingredient>
+    <ingredient num="5">1 ½ cups ; white wine ; (360 mL) </ingredient>
+    <ingredient num="6">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="7">1 cup ; sugar, dissolved ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Desserts</category>
+    <category num="7">Happy Hour</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32174/low_1495125412.m3u8</low>
+    <high>https://vid.tasty.co/output/32174/mp4_720x1280/1495125412</high>
+  </video>
+  <steps>
+    <step num="0">Make the simple syrup by dissolving one cup of sugar into one cup (240 ml) of water. </step>
+    <step num="1">Blend strawberries, pineapple, blackberries, raspberries, mango, wine, and simple syrup until well combined (you may have to do this in two batches). </step>
+    <step num="2">Pour mixture into a 9×9 inch (23x23 cm) glass pan, cover with plastic wrap, and freeze overnight. </step>
+    <step num="3">Scoop and serve with fresh strawberry (optional). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the simple syrup by dissolving one cup of sugar into one cup (240 ml) of water. </steps_updated>
+    <steps_updated num="1">Blend strawberries, pineapple, blackberries, raspberries, mango, wine, and simple syrup until well combined (you may have to do this in two batches). </steps_updated>
+    <steps_updated num="2">Pour mixture into a 9×9 inch (23x23 cm) glass pan, cover with plastic wrap, and freeze overnight. </steps_updated>
+    <steps_updated num="3">Scoop and serve with fresh strawberry (optional). </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

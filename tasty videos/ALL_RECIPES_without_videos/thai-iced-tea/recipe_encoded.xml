@@ -1,0 +1,46 @@
+<recipe>
+  <title>Thai Iced Tea Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-iced-tea</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delicious-asian-drinks</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 9517 13278 12282 13278 10187 1767 </ingredient>
+    <ingredient num="1">3917 2605 13278 7149 13796 2526 13278 1936 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 4834 13278 5348 5981 </ingredient>
+    <ingredient num="3">3917 1580 9517 13278 12282 13278 1536 8007 </ingredient>
+    <ingredient num="4">1580 2605 13278 2439 13278 4239 5981 </ingredient>
+    <ingredient num="5">3575 1285 560 11567 </ingredient>
+    <ingredient num="6">3917 2605 13278 7149 13796 13278 7503 8007 </ingredient>
+    <ingredient num="7">12791 2605 13278 2532 9606 2532 13278 13125 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Brunch</category>
+    <category num="2">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96714/hls24_1527806756.m3u8</low>
+    <high>https://vid.tasty.co/output/96714/landscape_720/1527806756</high>
+  </video>
+  <duration>
+    <start_time>24.0</start_time>
+    <end_time>65.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 10083 11770 8283 14307 4120 11951 12282 13817 10684 13796 1550 8785 11951 13796 560 5994 8288 415 6908 5406 11951 13796 7492 5994 1497 669 5994 14401 5311 560 5103 11951 13796 1550 1828 11951 13796 10694 560 10302 7553 </step>
+    <step num="1">6823 11951 3575 5466 210 5994 2192 10083 11770 8283 14307 4120 11951 4834 13817 2019 8785 560 5994 1002 13817 12484 13328 6601 1681 11951 4834 7312 6856 13817 11951 6818 9490 10784 </step>
+    <step num="2">11547 11951 7430 4783 11951 2439 8830 8580 186 415 740 3575 1285 9648 13817 9563 </step>
+    <step num="3">12473 432 3044 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 10083 11770 8283 14307 4120 11951 12282 13817 10684 13796 1550 </steps_updated>
+    <steps_updated num="1">8785 11951 13796 560 5994 8288 415 6908 5406 11951 13796 7492 5994 1497 669 5994 14401 5311 560 5103 11951 13796 1550 </steps_updated>
+    <steps_updated num="2">1828 11951 13796 10694 560 10302 7553 </steps_updated>
+    <steps_updated num="3">6823 11951 3575 5466 210 5994 2192 10083 11770 8283 14307 4120 11951 4834 13817 2019 </steps_updated>
+    <steps_updated num="4">8785 560 5994 1002 13817 12484 13328 6601 1681 11951 4834 7312 6856 13817 11951 6818 9490 10784 </steps_updated>
+    <steps_updated num="5">11547 11951 7430 4783 11951 2439 8830 8580 186 415 740 3575 1285 9648 13817 9563 </steps_updated>
+    <steps_updated num="6">12473 432 3044 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

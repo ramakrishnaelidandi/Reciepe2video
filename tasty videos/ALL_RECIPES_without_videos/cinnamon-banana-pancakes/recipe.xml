@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-banana-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-healthier-food-substitutions</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana, mashed, extra to garnish </ingredient>
+    <ingredient num="1">½ cup ; applesauce ; (120 g) </ingredient>
+    <ingredient num="2">2 cups ; almond milk ; (470 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">1 cup ; whole wheat flour ; (115 g) </ingredient>
+    <ingredient num="5">3 teaspoons ; baking powder </ingredient>
+    <ingredient num="6">1 pinch ; salt </ingredient>
+    <ingredient num="7">1 tablespoon ; chia seed </ingredient>
+    <ingredient num="8">1 tablespoon ; ground flaxseed, mixed with 3 tablespoons of water </ingredient>
+    <ingredient num="9">½ ; banana, mashed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46809/low_1502320486.m3u8</low>
+    <high>https://vid.tasty.co/output/46809/mp4_720x1280/1502320486</high>
+  </video>
+  <duration>
+    <start_time>129.43</start_time>
+    <end_time>176.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mash one banana to substitute for egg. </step>
+    <step num="1">For chia or ground flax seeds, mix with water and let rest for 5-10 minutes. </step>
+    <step num="2">Add to the other wet ingredients. Mix well. </step>
+    <step num="3">Add flour, baking powder, and salt to wet ingredients until well combined. </step>
+    <step num="4">Measure out ¼ cup (60 ml) of batter and add to a skillet over low heat. </step>
+    <step num="5">When bubbles start to form and edges start to come off the pan, flip the pancake. </step>
+    <step num="6">Cook an additional 2-3 minutes. Repeat with remaining batter. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mash one banana to substitute for egg. </steps_updated>
+    <steps_updated num="1">For chia or ground flax seeds, mix with water and let rest for 5-10 minutes. </steps_updated>
+    <steps_updated num="2">Add to the other wet ingredients. </steps_updated>
+    <steps_updated num="3">Mix well. </steps_updated>
+    <steps_updated num="4">Add flour, baking powder, and salt to wet ingredients until well combined. </steps_updated>
+    <steps_updated num="5">Measure out ¼ cup (60 ml) of batter and add to a skillet over low heat. </steps_updated>
+    <steps_updated num="6">When bubbles start to form and edges start to come off the pan, flip the pancake. </steps_updated>
+    <steps_updated num="7">Cook an additional 2-3 minutes. </steps_updated>
+    <steps_updated num="8">Repeat with remaining batter. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

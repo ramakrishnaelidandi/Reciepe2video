@@ -1,0 +1,53 @@
+<recipe>
+  <title>Creamy Lemon Butter Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-lemon-butter-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">11061 13278 8052 9611 7983 8309 </ingredient>
+    <ingredient num="1">3917 14014 13278 9496 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">10986 560 11567 </ingredient>
+    <ingredient num="4">13086 9486 13278 7974 9924 </ingredient>
+    <ingredient num="5">13086 13667 13278 11384 </ingredient>
+    <ingredient num="6">1580 2605 13278 8640 13033 13278 2935 8007 </ingredient>
+    <ingredient num="7">12791 2605 13278 109 14538 13278 1258 5981 </ingredient>
+    <ingredient num="8">3917 13278 5516 3701 </ingredient>
+    <ingredient num="9">8580 9517 13278 6209 7905 13220 13278 7005 5981 </ingredient>
+    <ingredient num="10">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="11">3917 2605 13278 7983 547 13278 7503 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32027/low_1495124973.m3u8</low>
+    <high>https://vid.tasty.co/output/32027/mp4_720x1280/1495124973</high>
+  </video>
+  <steps>
+    <step num="0">10242 7983 8309 1391 12610 10986 13817 4700 </step>
+    <step num="1">12305 8580 1184 9924 210 5994 2597 11352 10060 11770 13757 8283 2082 9179 12816 10143 258 13817 11636 6697 10860 1681 10963 2147 11720 1198 3257 13817 817 5292 </step>
+    <step num="2">12305 3917 1184 9924 210 11951 2641 9179 4155 6142 1681 94 415 740 7983 42 8640 1123 6696 597 7654 5040 13817 12224 8785 560 8288 415 2864 7855 560 11813 </step>
+    <step num="3">12473 210 2602 11779 1681 13220 7312 14667 13817 11951 2260 7312 3152 </step>
+    <step num="4">4278 7983 560 11951 2641 7831 7811 11480 13129 7990 2800 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10242 7983 8309 1391 12610 10986 13817 4700 </steps_updated>
+    <steps_updated num="1">12305 8580 1184 </steps_updated>
+    <steps_updated num="2">9924 210 5994 2597 11352 10060 11770 13757 8283 2082 </steps_updated>
+    <steps_updated num="3">9179 12816 10143 258 13817 11636 6697 10860 1681 10963 2147 </steps_updated>
+    <steps_updated num="4">11720 1198 3257 13817 817 5292 </steps_updated>
+    <steps_updated num="5">12305 3917 1184 </steps_updated>
+    <steps_updated num="6">9924 210 11951 2641 </steps_updated>
+    <steps_updated num="7">9179 4155 6142 1681 94 415 740 7983 42 8640 1123 6696 597 7654 5040 13817 12224 </steps_updated>
+    <steps_updated num="8">8785 560 8288 415 2864 7855 560 11813 </steps_updated>
+    <steps_updated num="9">12473 210 2602 11779 1681 13220 7312 14667 13817 11951 2260 7312 3152 </steps_updated>
+    <steps_updated num="10">4278 7983 560 11951 2641 </steps_updated>
+    <steps_updated num="11">7831 7811 11480 13129 7990 2800 12689 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

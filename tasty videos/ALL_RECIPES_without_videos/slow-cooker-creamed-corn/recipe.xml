@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Creamed Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-creamed-corn</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 ¼ oz ; whole kernel corn, 3 (15.25 Oz) cans ; (430 g) </ingredient>
+    <ingredient num="1">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="2">1 tablespoon ; sugar </ingredient>
+    <ingredient num="3">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="4">8 oz ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="5">½ cup ; unsalted butter ; (115 g) </ingredient>
+    <ingredient num="6">fresh thyme, optional, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32235/low_1495125525.m3u8</low>
+    <high>https://vid.tasty.co/output/32235/mp4_720x1280/1495125525</high>
+  </video>
+  <steps>
+    <step num="0">Drain corn and pour into slow cooker. Add milk, sugar, and pepper. Stir until mixed. </step>
+    <step num="1">Without stirring- place the thinly sliced butter and cubed cream cheese on top. </step>
+    <step num="2">Cover and cook on high for 2-3 hours. </step>
+    <step num="3">Stir until butter and cream cheese are mixed in. Cover again for 15 minutes. </step>
+    <step num="4">Garnish with thyme and serve. </step>
+    <step num="5">Enjoy! :) </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Drain corn and pour into slow cooker. </steps_updated>
+    <steps_updated num="1">Add milk, sugar, and pepper. </steps_updated>
+    <steps_updated num="2">Stir until mixed. </steps_updated>
+    <steps_updated num="3">Without stirring- place the thinly sliced butter and cubed cream cheese on top. </steps_updated>
+    <steps_updated num="4">Cover and cook on high for 2-3 hours. </steps_updated>
+    <steps_updated num="5">Stir until butter and cream cheese are mixed in. </steps_updated>
+    <steps_updated num="6">Cover again for 15 minutes. </steps_updated>
+    <steps_updated num="7">Garnish with thyme and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+    <steps_updated num="9">:) </steps_updated>
+  </steps_updated>
+</recipe>

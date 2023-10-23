@@ -1,0 +1,55 @@
+<recipe>
+  <title>Zucchini Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zucchini-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-fruit-veggie-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2597 7601 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">12791 8071 13278 82 </ingredient>
+    <ingredient num="3">1580 8071 13278 7845 </ingredient>
+    <ingredient num="4">1580 8071 13278 11384 11703 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Snacks</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12061/low_1476400695.m3u8</low>
+    <high>https://vid.tasty.co/output/12061/mp4_720x1280/1476400695</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 11480 5578 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">14100 11951 7601 669 251 560 7579 12895 560 11667 10832 6695 4255 11951 10765 11020 8033 11951 8535 300 5874 9088 6665 6359 5316 2696 8215 11881 11951 8535 1391 8244 7632 415 12616 1391 12610 10986 13817 11384 785 11423 11951 8535 11770 13817 1662 </step>
+    <step num="2">7831 7990 11260 11004 9309 2571 1681 10963 2147 1828 10694 560 10302 7553 12450 7601 217 4861 560 5821 11360 2658 6665 435 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">14100 7601 669 11216 2985 5912 51 560 12791 2985 1745 51 10832 </steps_updated>
+    <steps_updated num="2">6695 8535 4255 5994 9637 10765 8800 </steps_updated>
+    <steps_updated num="3">225 2 11951 6753 5895 6665 8719 5316 2696 8215 </steps_updated>
+    <steps_updated num="4">11881 8535 1391 8244 7632 415 12616 1391 12610 10986 13817 11384 785 </steps_updated>
+    <steps_updated num="5">11423 8535 11770 13817 1662 </steps_updated>
+    <steps_updated num="6">7831 7990 11260 11004 9309 14640 </steps_updated>
+    <steps_updated num="7">12251 8535 560 10694 560 10302 7553 </steps_updated>
+    <steps_updated num="8">2323 217 4861 560 5821 11360 2658 6665 435 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-00001</start_time>
+    <end_time>00693</end_time>
+  </duration_human>
+</recipe>

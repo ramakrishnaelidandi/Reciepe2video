@@ -1,0 +1,57 @@
+<recipe>
+  <title>Roasted Veggie Quinoa Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-veggie-quinoa-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 6753 472 13278 3433 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 10882 6817 472 13278 11953 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 8602 9491 10844 13278 6898 5981 </ingredient>
+    <ingredient num="3">1580 13278 8083 12384 341 </ingredient>
+    <ingredient num="4">1580 2605 13278 12655 6209 5895 5450 13278 7005 5981 </ingredient>
+    <ingredient num="5">1580 13278 5516 7990 10522 </ingredient>
+    <ingredient num="6">4061 9486 13278 8244 7632 3247 </ingredient>
+    <ingredient num="7">11384 12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">4061 9517 13278 954 3745 13278 5800 5981 </ingredient>
+    <ingredient num="10">3917 14014 13278 9908 14165 10769 </ingredient>
+    <ingredient num="11">12791 2605 13278 6209 11911 3962 13278 12237 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>55.166</start_time>
+    <end_time>121.383</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 9988 8999 9207 5994 10765 213 1391 3550 8831 </step>
+    <step num="1">9179 11951 6753 10882 6817 7042 12384 13817 3183 560 11951 10765 8800 </step>
+    <step num="2">1594 1391 11951 597 10522 13817 8580 9486 371 8244 7632 415 12616 1391 11384 82 13817 12375 7643 560 6798 12811 7802 11951 284 10909 4255 11951 10590 </step>
+    <step num="3">2024 7990 666 11004 5895 1681 1514 14371 </step>
+    <step num="4">12785 11951 6097 284 560 5994 2597 14511 13817 740 11951 5790 7643 3631 </step>
+    <step num="5">10950 5994 2192 14511 10968 3626 11951 374 8580 9486 371 8244 5766 13817 9908 14165 4378 1083 11770 11951 4068 13817 954 13817 1686 560 515 </step>
+    <step num="6">13688 1391 13012 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">9207 5994 10765 213 1391 3550 8831 </steps_updated>
+    <steps_updated num="2">9179 11951 6753 10882 6817 7042 12384 13817 3183 560 11951 10765 8800 </steps_updated>
+    <steps_updated num="3">1594 1391 11951 597 10522 13817 8580 9486 371 8244 7632 415 12616 1391 11384 82 13817 12375 </steps_updated>
+    <steps_updated num="4">7643 560 6798 12811 7802 11951 284 10909 4255 11951 10590 </steps_updated>
+    <steps_updated num="5">2024 7990 666 11004 5895 1681 1514 14371 </steps_updated>
+    <steps_updated num="6">12785 11951 6097 284 560 5994 2597 14511 13817 740 11951 5790 </steps_updated>
+    <steps_updated num="7">7643 3631 </steps_updated>
+    <steps_updated num="8">10950 5994 2192 14511 10968 3626 11951 374 8580 9486 371 8244 5766 13817 9908 14165 4378 </steps_updated>
+    <steps_updated num="9">1083 11770 11951 4068 13817 954 13817 1686 560 515 </steps_updated>
+    <steps_updated num="10">13688 1391 13012 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,50 @@
+<recipe>
+  <title>30 Minute Tomato Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/30-minute-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-vs-store-bought-tomato-sauce</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="1">1813 2605 13278 12384 341 13278 2264 5981 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">2933 9486 13278 9668 30 </ingredient>
+    <ingredient num="4">13347 643 13278 5614 9668 13278 4126 5981 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="6">3917 8071 13278 796 6250 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/74197/hls24_1516670926.m3u8</low>
+    <high>https://vid.tasty.co/output/74197/landscape_720/1516670926</high>
+  </video>
+  <duration>
+    <start_time>54.0</start_time>
+    <end_time>92.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 10083 11770 13757 14307 740 11951 8244 7632 12384 4155 13817 9668 14012 264 7990 1106 8927 5895 1681 11951 9668 30 7312 9687 </step>
+    <step num="1">9179 11951 5450 7042 796 11227 13817 796 13952 10211 7855 560 5994 11779 13817 2550 7990 666 8927 5895 1681 11951 13218 14602 </step>
+    <step num="2">9179 82 13817 7845 560 8686 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 10083 11770 13757 14307 740 11951 8244 7632 12384 4155 13817 9668 14012 </steps_updated>
+    <steps_updated num="1">264 7990 1106 8927 5895 1681 11951 9668 30 7312 9687 </steps_updated>
+    <steps_updated num="2">9179 11951 5450 7042 796 11227 13817 796 13952 </steps_updated>
+    <steps_updated num="3">10211 7855 560 5994 11779 13817 2550 7990 666 8927 5895 1681 11951 13218 14602 </steps_updated>
+    <steps_updated num="4">9179 82 13817 7845 560 8686 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01320</start_time>
+    <end_time>02152</end_time>
+  </duration_human>
+</recipe>

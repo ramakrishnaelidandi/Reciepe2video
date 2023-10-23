@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peach &amp; Orange Cream Protein Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peach-orange-cream-protein-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/protein-smoothies-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; water, or yogurt or milk of choice ; (350 mL) </ingredient>
+    <ingredient num="1">1 scoop ; vanilla protein powder </ingredient>
+    <ingredient num="2">1 ½ cups ; peaches, sliced and frozen ; (340 g) </ingredient>
+    <ingredient num="3">1 ½ cups ; orange, sliced and frozen ; (300 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33117/low_1496253209.m3u8</low>
+    <high>https://vid.tasty.co/output/33117/mp4_720x1280/1496253209</high>
+  </video>
+  <duration>
+    <start_time>26.8</start_time>
+    <end_time>40.46</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put all ingredients into a blender and mix until smooth. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put all ingredients into a blender and mix until smooth. </steps_updated>
+    <steps_updated num="1">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00866</start_time>
+    <end_time>01232</end_time>
+  </duration_human>
+</recipe>

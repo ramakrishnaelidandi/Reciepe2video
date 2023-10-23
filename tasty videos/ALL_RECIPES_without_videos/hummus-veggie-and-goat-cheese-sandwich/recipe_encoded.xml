@@ -1,0 +1,49 @@
+<recipe>
+  <title>Hummus, Veggie, And Goat Cheese Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hummus-veggie-and-goat-cheese-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/chicken-and-wild-rice-soup-and-sandwich</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 10502 13810 12386 </ingredient>
+    <ingredient num="1">8580 9486 13278 3352 10769 </ingredient>
+    <ingredient num="2">4061 13278 2192 11199 8545 10844 </ingredient>
+    <ingredient num="3">1580 2605 13278 6097 11384 840 13278 9373 5981 </ingredient>
+    <ingredient num="4">3917 13278 2597 8774 10837 976 </ingredient>
+    <ingredient num="5">8580 13278 2597 3665 7042 1088 976 </ingredient>
+    <ingredient num="6">12791 13278 2192 8083 12384 1088 976 </ingredient>
+    <ingredient num="7">3917 2605 13278 6209 1848 13278 828 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/126202/hls24_1551495681.m3u8</low>
+    <high>https://vid.tasty.co/output/126202/landscape_720/1551495681</high>
+  </video>
+  <duration>
+    <start_time>124.0</start_time>
+    <end_time>167.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 2192 14511 4120 11951 10502 14538 13817 3352 10769 13817 10968 1681 3145 4309 </step>
+    <step num="1">2988 6285 3917 14014 371 11951 10502 14538 2373 4255 11951 10707 2532 371 10763 11199 11723 </step>
+    <step num="2">2988 6285 8580 9486 371 6097 11384 840 4255 11951 551 2532 371 10763 11723 </step>
+    <step num="3">12474 551 2532 371 10763 4016 11826 4061 5992 4743 8580 9668 4743 6334 4743 13817 5994 2629 371 3027 </step>
+    <step num="4">4660 1391 11951 10707 10009 371 13802 7621 5994 7462 669 10763 125 560 11111 </step>
+    <step num="5">12774 1391 7983 13817 11712 7706 7853 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 2192 14511 4120 11951 10502 14538 13817 3352 10769 13817 10968 1681 3145 4309 </steps_updated>
+    <steps_updated num="1">2988 6285 3917 14014 371 11951 10502 14538 2373 4255 11951 10707 2532 371 10763 11199 11723 </steps_updated>
+    <steps_updated num="2">2988 6285 8580 9486 371 6097 11384 840 4255 11951 551 2532 371 10763 11723 </steps_updated>
+    <steps_updated num="3">12474 551 2532 371 10763 4016 11826 4061 5992 4743 8580 9668 4743 6334 4743 13817 5994 2629 371 3027 </steps_updated>
+    <steps_updated num="4">4660 1391 11951 10707 10009 371 13802 </steps_updated>
+    <steps_updated num="5">7621 5994 7462 669 10763 125 560 11111 </steps_updated>
+    <steps_updated num="6">12774 1391 7983 13817 11712 7706 7853 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

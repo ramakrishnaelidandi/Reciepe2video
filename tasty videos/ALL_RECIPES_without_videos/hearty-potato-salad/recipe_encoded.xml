@@ -1,0 +1,50 @@
+<recipe>
+  <title>Hearty Potato Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hearty-potato-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 1580 715 13278 2192 8083 6817 4324 13817 7994 13278 5800 5981 </ingredient>
+    <ingredient num="1">11042 13510 12610 560 11567 </ingredient>
+    <ingredient num="2">1580 2605 13278 13051 13278 2935 5981 </ingredient>
+    <ingredient num="3">1580 13278 5516 3701 </ingredient>
+    <ingredient num="4">8580 2031 13278 9260 6422 </ingredient>
+    <ingredient num="5">12791 2605 13278 8083 12384 11588 3962 13278 3433 5981 </ingredient>
+    <ingredient num="6">8580 13278 4457 14463 4533 3962 </ingredient>
+    <ingredient num="7">12791 8071 13278 11986 9496 </ingredient>
+    <ingredient num="8">14585 11088 13584 10986 560 11567 </ingredient>
+    <ingredient num="9">1813 2605 13278 3043 10549 4533 3962 13278 2264 5981 </ingredient>
+    <ingredient num="10">8580 9486 13278 11292 11588 1404 7789 3954 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+    <category num="4">Sides</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92767/hls24_1525475654.m3u8</low>
+    <high>https://vid.tasty.co/output/92767/landscape_720/1525475654</high>
+  </video>
+  <steps>
+    <step num="0">5570 11951 13233 210 5994 2597 10083 1391 9815 12282 560 6506 3755 5569 8580 4735 103 9969 510 13817 14238 560 5994 1002 11770 8283 2082 </step>
+    <step num="1">9956 12859 12616 1391 12610 2864 11951 7855 560 12100 13817 2550 1681 11951 13233 12573 1910 7562 12689 11720 13817 817 10261 560 435 </step>
+    <step num="2">10950 5994 2597 14511 8341 3626 11951 11796 597 7654 7997 5920 13817 4700 10242 1391 1580 8071 371 82 13817 1580 8071 371 12375 </step>
+    <step num="3">7441 11951 13233 13817 10231 560 5994 10909 2597 14511 14473 1391 11951 12384 14463 9849 13817 7532 10242 1391 82 13817 7845 560 8686 1083 11951 2260 11770 11951 13233 13817 1686 560 6798 7317 6252 1391 3962 11292 7990 3741 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 13233 210 5994 2597 10083 1391 9815 12282 560 6506 3755 5569 8580 4735 103 9969 510 13817 14238 560 5994 1002 11770 8283 2082 </steps_updated>
+    <steps_updated num="1">9956 12859 12616 1391 12610 2864 11951 7855 560 12100 13817 2550 1681 11951 13233 12573 1910 7562 12689 </steps_updated>
+    <steps_updated num="2">11720 13817 817 10261 560 435 </steps_updated>
+    <steps_updated num="3">10950 5994 2597 14511 8341 3626 11951 11796 597 7654 7997 5920 13817 4700 </steps_updated>
+    <steps_updated num="4">10242 1391 1580 8071 371 82 13817 1580 8071 371 12375 </steps_updated>
+    <steps_updated num="5">7441 11951 13233 13817 10231 560 5994 10909 2597 14511 14473 1391 11951 12384 14463 9849 13817 7532 </steps_updated>
+    <steps_updated num="6">10242 1391 82 13817 7845 560 8686 </steps_updated>
+    <steps_updated num="7">1083 11951 2260 11770 11951 13233 13817 1686 560 6798 7317 </steps_updated>
+    <steps_updated num="8">6252 1391 3962 11292 7990 3741 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

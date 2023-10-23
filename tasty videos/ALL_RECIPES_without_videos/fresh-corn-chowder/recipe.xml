@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fresh Corn Chowder Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fresh-corn-chowder</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; oil </ingredient>
+    <ingredient num="1">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 ; onion, diced </ingredient>
+    <ingredient num="5">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="6">1 ; potato, cubed </ingredient>
+    <ingredient num="7">1 ear ; corn, kernels removed </ingredient>
+    <ingredient num="8">6 cups ; vegetable broth ; (1 ½ L) </ingredient>
+    <ingredient num="9">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="10">1 tablespoon ; dried thyme </ingredient>
+    <ingredient num="11">2 tablespoons ; paprika </ingredient>
+    <ingredient num="12">1 ; bay leaf </ingredient>
+    <ingredient num="13">1 cup ; milk, milk alternative ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46743/low_1502304094.m3u8</low>
+    <high>https://vid.tasty.co/output/46743/mp4_720x1280/1502304094</high>
+  </video>
+  <steps>
+    <step num="0">Combine oil, garlic, and onion, salt, and pepper in a large pot over medium heat for 3 minutes. </step>
+    <step num="1">Add red pepper, potato, and corn. Stir for another 2 or 3 minutes. </step>
+    <step num="2">Add vegetable broth, water, thyme, paprika, and bay leaf. Stir. </step>
+    <step num="3">Bring to a boil, place the lid on the pot, and simmer for 10 minutes. </step>
+    <step num="4">Add milk or milk alternative, and stir. Remove bay leaf. </step>
+    <step num="5">Allow to cool a little before serving. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine oil, garlic, and onion, salt, and pepper in a large pot over medium heat for 3 minutes. </steps_updated>
+    <steps_updated num="1">Add red pepper, potato, and corn. </steps_updated>
+    <steps_updated num="2">Stir for another 2 or 3 minutes. </steps_updated>
+    <steps_updated num="3">Add vegetable broth, water, thyme, paprika, and bay leaf. </steps_updated>
+    <steps_updated num="4">Stir. </steps_updated>
+    <steps_updated num="5">Bring to a boil, place the lid on the pot, and simmer for 10 minutes. </steps_updated>
+    <steps_updated num="6">Add milk or milk alternative, and stir. </steps_updated>
+    <steps_updated num="7">Remove bay leaf. </steps_updated>
+    <steps_updated num="8">Allow to cool a little before serving. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

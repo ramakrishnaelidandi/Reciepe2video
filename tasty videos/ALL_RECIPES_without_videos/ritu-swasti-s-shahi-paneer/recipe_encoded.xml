@@ -1,0 +1,64 @@
+<recipe>
+  <title>Shahi Paneer Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ritu-swasti-s-shahi-paneer</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 9486 13278 7974 10907 7887 1297 </ingredient>
+    <ingredient num="1">8580 13278 4985 13652 976 </ingredient>
+    <ingredient num="2">3917 13278 2597 12384 11588 3962 </ingredient>
+    <ingredient num="3">3917 14014 13278 4155 5614 </ingredient>
+    <ingredient num="4">3917 14014 13278 14635 5614 </ingredient>
+    <ingredient num="5">3917 1580 9517 13278 9668 5042 </ingredient>
+    <ingredient num="6">3917 8071 13278 11088 4461 </ingredient>
+    <ingredient num="7">3917 14014 13278 3124 1032 </ingredient>
+    <ingredient num="8">3917 13278 8083 1466 10986 976 3449 </ingredient>
+    <ingredient num="9">3917 8071 13278 12610 560 11567 </ingredient>
+    <ingredient num="10">8580 9517 13278 8640 13033 13278 4551 8007 </ingredient>
+    <ingredient num="11">8883 643 13278 3124 13810 3917 12074 472 13278 8902 5981 </ingredient>
+    <ingredient num="12">6209 6712 7990 4711 </ingredient>
+    <ingredient num="13">3304 4465 </ingredient>
+    <ingredient num="14">11948 3745 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93008/hls24_1525740576.m3u8</low>
+    <high>https://vid.tasty.co/output/93008/landscape_720/1525740576</high>
+  </video>
+  <steps>
+    <step num="0">12305 11951 9924 210 5994 7552 11770 13757 2082 </step>
+    <step num="1">9179 13711 13817 2550 7990 6865 11004 13328 13377 9179 11951 6334 13817 6805 1681 12449 6285 2933 12689 9179 11951 5614 11384 13817 14418 13817 2550 7990 6865 11004 1681 11564 2997 13377 10211 11951 7855 560 11286 510 13817 2550 1681 11951 6334 9490 2043 10348 6285 13767 12689 12473 6107 560 772 11901 551 8189 3794 </step>
+    <step num="2">9179 11951 9668 1763 12473 3145 13817 6506 3258 264 1681 9668 475 665 10719 12560 4336 13817 9490 12781 210 7428 5569 1991 6285 13767 12689 </step>
+    <step num="3">9179 11951 4461 13817 3124 1755 12473 3631 9179 11951 8083 1466 7845 13817 2550 1681 11951 7845 9490 486 6285 2933 12689 9179 11951 12610 6506 2920 13817 2550 7990 6646 2933 12689 </step>
+    <step num="4">9179 11951 8640 5808 12473 12923 415 740 11951 472 3124 13817 12538 264 7990 2800 8927 8554 11951 11907 12573 14371 </step>
+    <step num="5">13688 1391 14621 13817 1966 1391 3304 5895 8860 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12305 11951 9924 210 5994 7552 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9179 13711 13817 2550 7990 6865 11004 13328 13377 </steps_updated>
+    <steps_updated num="2">9179 11951 6334 13817 6805 1681 12449 6285 2933 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 5614 11384 13817 14418 13817 2550 7990 6865 11004 1681 11564 </steps_updated>
+    <steps_updated num="4">2997 13377 </steps_updated>
+    <steps_updated num="5">10211 11951 7855 560 11286 510 13817 2550 1681 11951 6334 9490 2043 10348 6285 13767 12689 </steps_updated>
+    <steps_updated num="6">12473 6107 560 772 11901 551 8189 3794 </steps_updated>
+    <steps_updated num="7">9179 11951 9668 1763 </steps_updated>
+    <steps_updated num="8">12473 3145 13817 6506 3258 </steps_updated>
+    <steps_updated num="9">264 1681 9668 475 665 10719 12560 4336 13817 9490 12781 210 7428 5569 1991 6285 13767 12689 </steps_updated>
+    <steps_updated num="10">9179 11951 4461 13817 3124 1755 </steps_updated>
+    <steps_updated num="11">12473 3631 </steps_updated>
+    <steps_updated num="12">9179 11951 8083 1466 7845 13817 2550 1681 11951 7845 9490 486 6285 2933 12689 </steps_updated>
+    <steps_updated num="13">9179 11951 12610 6506 2920 13817 2550 7990 6646 2933 12689 </steps_updated>
+    <steps_updated num="14">9179 11951 8640 5808 </steps_updated>
+    <steps_updated num="15">12473 12923 415 740 11951 472 3124 13817 12538 </steps_updated>
+    <steps_updated num="16">264 7990 2800 8927 8554 11951 11907 12573 14371 </steps_updated>
+    <steps_updated num="17">13688 1391 14621 13817 1966 1391 3304 5895 8860 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

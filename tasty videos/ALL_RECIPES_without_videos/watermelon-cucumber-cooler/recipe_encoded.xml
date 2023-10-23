@@ -1,0 +1,47 @@
+<recipe>
+  <title>Watermelon Cucumber Cooler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-cucumber-cooler</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 12282 13278 7503 8007 </ingredient>
+    <ingredient num="2">3917 13278 10837 976 </ingredient>
+    <ingredient num="3">2439 </ingredient>
+    <ingredient num="4">8580 643 13278 14220 13278 13125 8007 </ingredient>
+    <ingredient num="5">3917 1580 643 13278 2787 3701 13278 1420 8007 </ingredient>
+    <ingredient num="6">1580 643 13278 9712 10522 13278 6429 8007 </ingredient>
+    <ingredient num="7">3917 643 13278 5992 3575 6818 13278 1258 8007 </ingredient>
+    <ingredient num="8">4830 2101 560 11567 </ingredient>
+    <ingredient num="9">3917 12205 13278 10837 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130181/hls24_1555522016.m3u8</low>
+    <high>https://vid.tasty.co/output/130181/landscape_720/1555522016</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2192 10083 11770 13757 14307 4120 11951 4834 13817 2019 8785 560 5994 8288 13328 560 2319 11951 4834 3936 </step>
+    <step num="1">6054 11951 10083 6781 11951 7855 13817 6142 210 11951 6511 1828 11375 13709 7990 7811 767 4061 12721 5895 3386 560 14142 </step>
+    <step num="2">8845 11951 6818 7492 5994 9423 14546 5895 13105 9888 560 10937 2658 9741 6818 2658 9724 10434 210 2237 2759 3801 210 11951 7111 7990 3386 560 3917 8043 </step>
+    <step num="3">10950 5994 1026 3199 7860 1391 531 4120 11951 10921 14183 7654 9712 7654 13817 3575 12911 1709 11264 7990 5527 773 </step>
+    <step num="4">8845 669 5994 13426 7860 1391 2439 13817 10707 1391 4830 14663 </step>
+    <step num="5">13688 1391 11951 5992 2519 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 10083 11770 13757 14307 4120 11951 4834 13817 2019 </steps_updated>
+    <steps_updated num="1">8785 560 5994 8288 13328 560 2319 11951 4834 3936 </steps_updated>
+    <steps_updated num="2">6054 11951 10083 6781 11951 7855 13817 6142 210 11951 6511 </steps_updated>
+    <steps_updated num="3">1828 11375 13709 7990 7811 767 4061 12721 5895 3386 560 14142 </steps_updated>
+    <steps_updated num="4">8845 11951 6818 7492 5994 9423 14546 5895 13105 9888 560 10937 2658 9741 6818 2658 9724 </steps_updated>
+    <steps_updated num="5">10434 210 2237 2759 3801 210 11951 7111 7990 3386 560 3917 8043 </steps_updated>
+    <steps_updated num="6">10950 5994 1026 3199 7860 1391 531 4120 11951 10921 14183 7654 9712 7654 13817 3575 12911 </steps_updated>
+    <steps_updated num="7">1709 11264 7990 5527 773 </steps_updated>
+    <steps_updated num="8">8845 669 5994 13426 7860 1391 2439 13817 10707 1391 4830 14663 </steps_updated>
+    <steps_updated num="9">13688 1391 11951 5992 2519 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

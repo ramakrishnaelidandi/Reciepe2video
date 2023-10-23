@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Puff Pastry Twists Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-puff-pastry-twists</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 sheets ; puff pastry </ingredient>
+    <ingredient num="1">pizza sauce </ingredient>
+    <ingredient num="2">shredded cheese </ingredient>
+    <ingredient num="3">egg wash </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32056/low_1495124992.m3u8</low>
+    <high>https://vid.tasty.co/output/32056/mp4_720x1280/1495124992</high>
+  </video>
+  <steps>
+    <step num="0">Place the two sheets of puff pastry on a parchment paper lined baking tray. </step>
+    <step num="1">Cut out equal size circles. Remove the top sheet. </step>
+    <step num="2">On the bottom sheet, spread pizza sauce and shredded cheese. Place the other sheet of puff pastry on top. </step>
+    <step num="3">Take a glass and place it in the center of the circle. Using a knife or scissors, cut strips away from the edge of the glass. </step>
+    <step num="4">Take each strip and twist. </step>
+    <step num="5">Brush egg wash over the top of the puff pastry. </step>
+    <step num="6">Bake at 400°F (204°C) for 20-25 minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the two sheets of puff pastry on a parchment paper lined baking tray. </steps_updated>
+    <steps_updated num="1">Cut out equal size circles. </steps_updated>
+    <steps_updated num="2">Remove the top sheet. </steps_updated>
+    <steps_updated num="3">On the bottom sheet, spread pizza sauce and shredded cheese. </steps_updated>
+    <steps_updated num="4">Place the other sheet of puff pastry on top. </steps_updated>
+    <steps_updated num="5">Take a glass and place it in the center of the circle. </steps_updated>
+    <steps_updated num="6">Using a knife or scissors, cut strips away from the edge of the glass. </steps_updated>
+    <steps_updated num="7">Take each strip and twist. </steps_updated>
+    <steps_updated num="8">Brush egg wash over the top of the puff pastry. </steps_updated>
+    <steps_updated num="9">Bake at 400°F (204°C) for 20-25 minutes. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

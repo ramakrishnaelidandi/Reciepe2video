@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Coconut Chai Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coconut-chai</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/winter-warmers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13.5 fl oz ; coconut milk, 1 tin ; (400 g) </ingredient>
+    <ingredient num="1">1 ⅔ cups ; water ; (400 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; sugar </ingredient>
+    <ingredient num="3">2 bags ; chai tea </ingredient>
+    <ingredient num="4">1 ; cinnamon stick </ingredient>
+    <ingredient num="5">2 shots ; dark rum </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Date Night</category>
+    <category num="4">Happy Hour</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18211/low_1481910340.m3u8</low>
+    <high>https://vid.tasty.co/output/18211/mp4_720x1280/1481910340</high>
+  </video>
+  <duration>
+    <start_time>41.29</start_time>
+    <end_time>64.28</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the coconut milk, water, and sugar to a pot. Stir, and bring to boil. </step>
+    <step num="1">Turn down the heat and add the chai tea bags and cinnamon stick. Steep for 5 minutes at a low heat. </step>
+    <step num="2">Add two shots of rum and simmer for a further 2-3 minutes. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the coconut milk, water, and sugar to a pot. </steps_updated>
+    <steps_updated num="1">Stir, and bring to boil. </steps_updated>
+    <steps_updated num="2">Turn down the heat and add the chai tea bags and cinnamon stick. </steps_updated>
+    <steps_updated num="3">Steep for 5 minutes at a low heat. </steps_updated>
+    <steps_updated num="4">Add two shots of rum and simmer for a further 2-3 minutes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01296</start_time>
+    <end_time>01939</end_time>
+  </duration_human>
+</recipe>

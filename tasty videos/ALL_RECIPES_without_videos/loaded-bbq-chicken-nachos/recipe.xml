@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded BBQ Chicken Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-bbq-chicken-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; canola oil </ingredient>
+    <ingredient num="1">2 breasts ; chicken breast, finely diced </ingredient>
+    <ingredient num="2">½ tablespoon ; kosher salt </ingredient>
+    <ingredient num="3">½ tablespoon ; freshly ground black pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="5">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="6">¾ cup ; BBQ sauce ; (215 g) </ingredient>
+    <ingredient num="7">15 oz ; tortilla chips, 1 bag ; (370 g) </ingredient>
+    <ingredient num="8">2 cups ; shredded cheese, shredded ; (200 g) </ingredient>
+    <ingredient num="9">½ ; red onion, finely sliced </ingredient>
+    <ingredient num="10">1 ; tomato, diced </ingredient>
+    <ingredient num="11">8 strips ; bacon, cooked, crumbled </ingredient>
+    <ingredient num="12">2 tablespoons ; fresh parsley, finely chopped </ingredient>
+    <ingredient num="13">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="14">1 ; avocado, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32170/low_1495125415.m3u8</low>
+    <high>https://vid.tasty.co/output/32170/mp4_720x1280/1495125415</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (176°C). Heat the oil in a pan over high heat. Cook the chicken with salt, pepper, garlic powder, and chili powder for two to three minutes. </step>
+    <step num="1">Add the barbecue sauce and cook until the sauce has reduced by about half, about five minutes. Remove from heat. </step>
+    <step num="2">In a large skillet, spread out two large handfuls of tortilla chips. Layer with half of the barbecue chicken, followed by half of the cheese, onion, tomato, bacon, and parsley. Repeat with the remaining ingredients. </step>
+    <step num="3">Bake for 15 minutes. </step>
+    <step num="4">Drizzle the sour cream and sprinkle the avocado on top. Serve! </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (176°C). </steps_updated>
+    <steps_updated num="1">Heat the oil in a pan over high heat. </steps_updated>
+    <steps_updated num="2">Cook the chicken with salt, pepper, garlic powder, and chili powder for two to three minutes. </steps_updated>
+    <steps_updated num="3">Add the barbecue sauce and cook until the sauce has reduced by about half, about five minutes. </steps_updated>
+    <steps_updated num="4">Remove from heat. </steps_updated>
+    <steps_updated num="5">In a large skillet, spread out two large handfuls of tortilla chips. </steps_updated>
+    <steps_updated num="6">Layer with half of the barbecue chicken, followed by half of the cheese, onion, tomato, bacon, and parsley. </steps_updated>
+    <steps_updated num="7">Repeat with the remaining ingredients. </steps_updated>
+    <steps_updated num="8">Bake for 15 minutes. </steps_updated>
+    <steps_updated num="9">Drizzle the sour cream and sprinkle the avocado on top. </steps_updated>
+    <steps_updated num="10">Serve! </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

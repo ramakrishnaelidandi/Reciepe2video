@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Crisp-Coated Chicken Nuggets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/potato-chip-crusted-chicken-nuggets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">1 bag ; smoky bacon potato chops, crushed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/35429/low_1498680816.m3u8</low>
+    <high>https://vid.tasty.co/output/35429/mp4_720x1280/1498680816</high>
+  </video>
+  <steps>
+    <step num="0">Smush the crisps into little bits. </step>
+    <step num="1">Cut the chicken breast into small bite sized chunks. </step>
+    <step num="2">One at a time, add a piece of chicken to the bag and shake it around a bit. Squeeze to help the the crisps stick to the chicken. </step>
+    <step num="3">Continue until you have either run out of chicken or crisps! (don’t eat any leftover crisps that have come into contact with the raw chicken). </step>
+    <step num="4">Place the coated chicken onto a baking tray. </step>
+    <step num="5">Bake in the centre of a pre-heated oven for 12 minutes at 200°C/400°F </step>
+    <step num="6">Serve with ketchup, mayo or whatever you like! </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Smush the crisps into little bits. </steps_updated>
+    <steps_updated num="1">Cut the chicken breast into small bite sized chunks. </steps_updated>
+    <steps_updated num="2">One at a time, add a piece of chicken to the bag and shake it around a bit. </steps_updated>
+    <steps_updated num="3">Squeeze to help the the crisps stick to the chicken. </steps_updated>
+    <steps_updated num="4">Continue until you have either run out of chicken or crisps! (don’t eat any leftover crisps that have come into contact with the raw chicken). </steps_updated>
+    <steps_updated num="5">Place the coated chicken onto a baking tray. </steps_updated>
+    <steps_updated num="6">Bake in the centre of a pre-heated oven for 12 minutes at 200°C/400°F </steps_updated>
+    <steps_updated num="7">Serve with ketchup, mayo or whatever you like! </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

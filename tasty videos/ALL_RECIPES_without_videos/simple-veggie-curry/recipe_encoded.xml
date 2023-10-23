@@ -1,0 +1,57 @@
+<recipe>
+  <title>Simple Veggie Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-veggie-curry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 12610 7990 12282 </ingredient>
+    <ingredient num="1">8580 715 13278 6817 7777 669 1318 8891 1645 4530 13278 7696 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 4168 5766 </ingredient>
+    <ingredient num="3">3917 13278 13757 12384 341 </ingredient>
+    <ingredient num="4">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">8580 2031 13278 3170 </ingredient>
+    <ingredient num="6">3917 8071 13278 499 7845 </ingredient>
+    <ingredient num="7">4061 2031 13278 11210 11703 </ingredient>
+    <ingredient num="8">3917 8071 13278 82 </ingredient>
+    <ingredient num="9">3917 8071 13278 13584 7845 </ingredient>
+    <ingredient num="10">8580 9735 13009 13278 14635 10015 </ingredient>
+    <ingredient num="11">8883 643 13278 341 9491 3917 14138 13278 8902 5981 </ingredient>
+    <ingredient num="12">13133 643 13278 2955 3917 9067 6124 13278 13345 5981 </ingredient>
+    <ingredient num="13">13133 643 13278 12644 3917 9067 6124 13278 13345 5981 </ingredient>
+    <ingredient num="14">8883 643 13278 6742 9889 3917 14138 13278 8902 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Indian</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Dinner</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28258/low_1491243908.m3u8</low>
+    <high>https://vid.tasty.co/output/28258/mp4_720x1280/1491243908</high>
+  </video>
+  <steps>
+    <step num="0">5570 13233 669 5994 2597 10083 5895 801 10439 13817 6506 1391 2610 2019 8785 560 5994 8288 415 2864 7855 560 5994 9609 6506 13817 3945 11951 13233 2550 1681 1514 4180 409 12689 9956 8421 3499 11951 13233 13817 817 3755 5292 </step>
+    <step num="1">4278 11951 10083 560 11951 4445 13817 740 3917 14014 371 14158 9179 6334 13817 11384 13817 9347 11770 13757 7855 1681 6334 9490 10306 13817 13860 560 837 12449 6285 6175 12689 </step>
+    <step num="2">9179 2670 6110 11210 8117 12610 7845 13817 1255 12473 560 4120 432 14330 7042 2955 13817 12750 </step>
+    <step num="3">5632 7855 560 3996 13817 6142 210 11951 6742 9529 8785 560 5994 11779 432 14330 11951 13233 13352 560 11951 4771 10211 7855 560 9721 13817 2550 12826 3626 7990 6175 8927 432 3044 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 13233 669 5994 2597 10083 5895 801 10439 13817 6506 1391 2610 2019 </steps_updated>
+    <steps_updated num="1">8785 560 5994 8288 415 2864 7855 560 5994 9609 6506 13817 3945 11951 13233 2550 1681 1514 4180 409 12689 </steps_updated>
+    <steps_updated num="2">9956 8421 3499 11951 13233 13817 817 3755 5292 </steps_updated>
+    <steps_updated num="3">4278 11951 10083 560 11951 4445 13817 740 3917 14014 371 14158 </steps_updated>
+    <steps_updated num="4">9179 6334 13817 11384 13817 9347 11770 13757 7855 1681 6334 9490 10306 13817 13860 560 837 12449 6285 6175 12689 </steps_updated>
+    <steps_updated num="5">9179 2670 6110 11210 8117 12610 7845 13817 1255 </steps_updated>
+    <steps_updated num="6">12473 560 4120 432 14330 7042 2955 13817 12750 </steps_updated>
+    <steps_updated num="7">5632 7855 560 3996 13817 6142 210 11951 6742 9529 </steps_updated>
+    <steps_updated num="8">8785 560 5994 11779 432 14330 11951 13233 13352 560 11951 4771 </steps_updated>
+    <steps_updated num="9">10211 7855 560 9721 13817 2550 12826 3626 7990 6175 8927 432 3044 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

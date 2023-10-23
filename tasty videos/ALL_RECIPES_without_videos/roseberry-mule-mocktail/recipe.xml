@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roseberry Mule Mocktail Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roseberry-mule-mocktail</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/summer-mocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 handful ; blackberry </ingredient>
+    <ingredient num="1">1 sprig ; fresh rosemary </ingredient>
+    <ingredient num="2">1 tablespoon ; agave nectar, or honey </ingredient>
+    <ingredient num="3">ginger beer, to taste </ingredient>
+    <ingredient num="4">1 fl oz ; lime, juice ; (30 mL) </ingredient>
+    <ingredient num="5">ice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34828/low_1498238088.m3u8</low>
+    <high>https://vid.tasty.co/output/34828/mp4_720x1280/1498238088</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>46.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a cocktail shaker or a tall glass, muddle blackberries and rosemary. </step>
+    <step num="1">Add sweetener and ice, shake until well combined. (If you do not have a cocktail shaker, simply pour back and forth between two glasses until combined.) </step>
+    <step num="2">Strain mixture over ice and add ginger beer and a squeeze of lime to taste. </step>
+    <step num="3">Garnish with blackberries and a sprig of rosemary. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a cocktail shaker or a tall glass, muddle blackberries and rosemary. </steps_updated>
+    <steps_updated num="1">Add sweetener and ice, shake until well combined. </steps_updated>
+    <steps_updated num="2">(If you do not have a cocktail shaker, simply pour back and forth between two glasses until combined.) </steps_updated>
+    <steps_updated num="3">Strain mixture over ice and add ginger beer and a squeeze of lime to taste. </steps_updated>
+    <steps_updated num="4">Garnish with blackberries and a sprig of rosemary. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00648</start_time>
+    <end_time>01406</end_time>
+  </duration_human>
+</recipe>

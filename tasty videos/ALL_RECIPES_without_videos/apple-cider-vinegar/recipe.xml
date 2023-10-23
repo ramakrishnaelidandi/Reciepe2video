@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Cider Vinegar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-cider-vinegar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; medium apples, peeled and washed </ingredient>
+    <ingredient num="1">2 cups ; water, plus more as needed ; (480 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the apple peels and cores (optional) in a quart-sized jar with a wide mouth. </step>
+    <step num="1">Cover the peels completely with the water. </step>
+    <step num="2">Add the sugar and stir. </step>
+    <step num="3">Make sure your scraps are completely covered with water. </step>
+    <step num="4">Cover the mouth of the jar with a coffee filter or a thin cloth, then screw on the outer ring of the lid. </step>
+    <step num="5">Let sit in a dark area at room temperature for 1-2 weeks, stirring the mix once a day to stimulate proper fermentation and prevent mold from forming. </step>
+    <step num="6">When you notice some fizz and a significant amount of bubbles on the surface, strain out the scraps and compost them. </step>
+    <step num="7">Put the liquid back in the jar, cover with a coffee filter or a thin cloth, and let it sit. </step>
+    <step num="8">Taste it once a week and once it has reached your desired level acidity, cover with a lid or transfer to a closed bottle to stop the fermentation. </step>
+    <step num="9">The apple cider vinegar will keep for about a year in the refrigerator. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the apple peels and cores (optional) in a quart-sized jar with a wide mouth. </steps_updated>
+    <steps_updated num="1">Cover the peels completely with the water. </steps_updated>
+    <steps_updated num="2">Add the sugar and stir. </steps_updated>
+    <steps_updated num="3">Make sure your scraps are completely covered with water. </steps_updated>
+    <steps_updated num="4">Cover the mouth of the jar with a coffee filter or a thin cloth, then screw on the outer ring of the lid. </steps_updated>
+    <steps_updated num="5">Let sit in a dark area at room temperature for 1-2 weeks, stirring the mix once a day to stimulate proper fermentation and prevent mold from forming. </steps_updated>
+    <steps_updated num="6">When you notice some fizz and a significant amount of bubbles on the surface, strain out the scraps and compost them. </steps_updated>
+    <steps_updated num="7">Put the liquid back in the jar, cover with a coffee filter or a thin cloth, and let it sit. </steps_updated>
+    <steps_updated num="8">Taste it once a week and once it has reached your desired level acidity, cover with a lid or transfer to a closed bottle to stop the fermentation. </steps_updated>
+    <steps_updated num="9">The apple cider vinegar will keep for about a year in the refrigerator. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00100</start_time>
+    <end_time>01214</end_time>
+  </duration_human>
+</recipe>

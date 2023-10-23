@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Shrimp Ceviche Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-shrimp-ceviche</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">10 ; limes </ingredient>
+    <ingredient num="1">1 lb ; shrimp, peeled, deveined, and diced ; (455 g) </ingredient>
+    <ingredient num="2">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="3">2 ; jalapeñoes, seeded and minced </ingredient>
+    <ingredient num="4">1 ; small red onion, diced </ingredient>
+    <ingredient num="5">2 cups ; cherry tomato, chopped ; (400 g) </ingredient>
+    <ingredient num="6">fresh cilantro leaves, for garnish, optional </ingredient>
+    <ingredient num="7">tortilla chips, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/131471/hls24_1556818827.m3u8</low>
+    <high>https://vid.tasty.co/output/131471/landscape_720/1556818827</high>
+  </video>
+  <steps>
+    <step num="0">Halve the limes, then juice using a citrus press or a pair of kitchen tongs. You should have about 1 cup (240 ML) total. </step>
+    <step num="1">In a medium bowl, combine the shrimp, lime juice, salt, jalapeños, onion, and tomatoes. Mix well. </step>
+    <step num="2">Cover and refrigerate for about 4 hours, until the shrimp is opaque and firm. </step>
+    <step num="3">Serve the ceviche chilled. Garnish with cilantro, if desired, and serve with tortilla chips. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Halve the limes, then juice using a citrus press or a pair of kitchen tongs. </steps_updated>
+    <steps_updated num="1">You should have about 1 cup (240 ML) total. </steps_updated>
+    <steps_updated num="2">In a medium bowl, combine the shrimp, lime juice, salt, jalapeños, onion, and tomatoes. </steps_updated>
+    <steps_updated num="3">Mix well. </steps_updated>
+    <steps_updated num="4">Cover and refrigerate for about 4 hours, until the shrimp is opaque and firm. </steps_updated>
+    <steps_updated num="5">Serve the ceviche chilled. </steps_updated>
+    <steps_updated num="6">Garnish with cilantro, if desired, and serve with tortilla chips. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

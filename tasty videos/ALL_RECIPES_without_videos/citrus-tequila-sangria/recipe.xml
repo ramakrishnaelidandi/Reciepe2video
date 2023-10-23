@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Citrus Tequila Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/citrus-tequila-sangria</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (235 mL) </ingredient>
+    <ingredient num="1">1 cup ; granulated sugar ; (200 g) </ingredient>
+    <ingredient num="2">3 ; oranges </ingredient>
+    <ingredient num="3">3 ; lemons </ingredient>
+    <ingredient num="4">6 ; limes </ingredient>
+    <ingredient num="5">1 cup ; tequila ; (235 mL) </ingredient>
+    <ingredient num="6">1 bottle ; white wine, we used sauvignon blanc ; 750 mL </ingredient>
+    <ingredient num="7">1 L ; club soda ; 1 L </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Drinks</category>
+    <category num="4">Happy Hour</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/17124/low_1481226935.m3u8</low>
+    <high>https://vid.tasty.co/output/17124/mp4_720x1280/1481226935</high>
+  </video>
+  <steps>
+    <step num="0">Combine water and sugar in a saucepan, bring mixture to a boil, then remove from heat and let cool. </step>
+    <step num="1">Squeeze fresh juice from 2 oranges, 2 lemons, and 4 limes into the cooled simple syrup, then stir. </step>
+    <step num="2">Using a mesh sieve, strain the citrus simple syrup into a large pitcher. </step>
+    <step num="3">Slice 1 orange, 1 lemon, 2 limes, and add the slices into the pitcher. Pour in tequila, wine, club soda, and give it all a good stir. </step>
+    <step num="4">Serve with ice and garnish with a slice of fruit. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine water and sugar in a saucepan, bring mixture to a boil, then remove from heat and let cool. </steps_updated>
+    <steps_updated num="1">Squeeze fresh juice from 2 oranges, 2 lemons, and 4 limes into the cooled simple syrup, then stir. </steps_updated>
+    <steps_updated num="2">Using a mesh sieve, strain the citrus simple syrup into a large pitcher. </steps_updated>
+    <steps_updated num="3">Slice 1 orange, 1 lemon, 2 limes, and add the slices into the pitcher. </steps_updated>
+    <steps_updated num="4">Pour in tequila, wine, club soda, and give it all a good stir. </steps_updated>
+    <steps_updated num="5">Serve with ice and garnish with a slice of fruit. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Philly Cheesesteak Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/philly-cheesesteak-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; green bell pepper, chopped </ingredient>
+    <ingredient num="1">½ ; medium onion, chopped </ingredient>
+    <ingredient num="2">1 cup ; mushroom, chopped ; (75 g) </ingredient>
+    <ingredient num="3">1 lb ; ribeye steak, thinly sliced ; (455 g) </ingredient>
+    <ingredient num="4">olive oil </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">garlic powder </ingredient>
+    <ingredient num="7">ground pepper </ingredient>
+    <ingredient num="8">⅓ cup ; milk ; (80 mL) </ingredient>
+    <ingredient num="9">⅓ cup ; heavy cream ; (80 mL) </ingredient>
+    <ingredient num="10">1 package ; puff pastry, thawed </ingredient>
+    <ingredient num="11">½ cup ; provolone cheese, grated ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31862/low_1495124845.m3u8</low>
+    <high>https://vid.tasty.co/output/31862/mp4_720x1280/1495124845</high>
+  </video>
+  <steps>
+    <step num="0">Chop the green pepper, onion, mushrooms and thinly slice the rib eye steak. </step>
+    <step num="1">Sautè chopped pepper and onions in a skillet with oil over medium heat for 5 mins. Add mushrooms and cook another 5 minutes. Set aside. </step>
+    <step num="2">In another skillet, cook the sliced rib eye (the meat will cook in it’s own fat so no oil necessary!) </step>
+    <step num="3">Once meat is cooked through, add the pepper mixture, season with salt to taste, pepper to taste, and garlic powder to taste. </step>
+    <step num="4">Add milk and cream. Bring to a light boil, stirring frequently, until mixture thickens. Remove from heat. </step>
+    <step num="5">Cut thawed pastry dough into 3-inch (7.5 cm) squares. </step>
+    <step num="6">Place in a greased muffin tray. </step>
+    <step num="7">Fill with ¼ cup cheesesteak mix and bake for 10-12 minutes at 400°F (200°C). </step>
+    <step num="8">Take out of oven and cover with grated provolone cheese. Return to oven until cheese is melted. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Chop the green pepper, onion, mushrooms and thinly slice the rib eye steak. </steps_updated>
+    <steps_updated num="1">Sautè chopped pepper and onions in a skillet with oil over medium heat for 5 mins. </steps_updated>
+    <steps_updated num="2">Add mushrooms and cook another 5 minutes. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">In another skillet, cook the sliced rib eye (the meat will cook in it’s own fat so no oil necessary!) </steps_updated>
+    <steps_updated num="5">Once meat is cooked through, add the pepper mixture, season with salt to taste, pepper to taste, and garlic powder to taste. </steps_updated>
+    <steps_updated num="6">Add milk and cream. </steps_updated>
+    <steps_updated num="7">Bring to a light boil, stirring frequently, until mixture thickens. </steps_updated>
+    <steps_updated num="8">Remove from heat. </steps_updated>
+    <steps_updated num="9">Cut thawed pastry dough into 3-inch (7.5 cm) squares. </steps_updated>
+    <steps_updated num="10">Place in a greased muffin tray. </steps_updated>
+    <steps_updated num="11">Fill with ¼ cup cheesesteak mix and bake for 10-12 minutes at 400°F (200°C). </steps_updated>
+    <steps_updated num="12">Take out of oven and cover with grated provolone cheese. </steps_updated>
+    <steps_updated num="13">Return to oven until cheese is melted. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Meatball Parmesan Calzones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatball-parmesan-calzones</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mini-calzones-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">16 oz ; pizza dough ; (455 g) </ingredient>
+    <ingredient num="1">8 tablespoons ; marinara sauce </ingredient>
+    <ingredient num="2">16 ; frozen party sized meatballs, thawed </ingredient>
+    <ingredient num="3">4 slices ; mozzarella cheese, cut in half </ingredient>
+    <ingredient num="4">4 tablespoons ; parmesan cheese, grated </ingredient>
+    <ingredient num="5">fresh basil </ingredient>
+    <ingredient num="6">black pepper, for topping </ingredient>
+    <ingredient num="7">1 ; egg </ingredient>
+    <ingredient num="8">1 tablespoon ; water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22266/low_1485538825.m3u8</low>
+    <high>https://vid.tasty.co/output/22266/mp4_720x1280/1485538825</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>30.43</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Cut pizza dough into 8 sections on a floured surface. </step>
+    <step num="2">With one section, roll out dough until flat and circular. </step>
+    <step num="3">Spread 1 tablespoon of marinara on flattened dough. Wrap up two meatballs in a slice of mozzarella and place them in the center of the dough. Sprinkle with ½ tablespoon parmesan cheese and some fresh basil. </step>
+    <step num="4">Fold one side of dough up and over ingredients, and seal calzone by crimping the edges together. </step>
+    <step num="5">Place on a parchment-lined baking sheet. Apply egg wash to outside of calzone and sprinkle with black pepper. </step>
+    <step num="6">Bake calzones for 15-20 minutes or until golden brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Cut pizza dough into 8 sections on a floured surface. </steps_updated>
+    <steps_updated num="2">With one section, roll out dough until flat and circular. </steps_updated>
+    <steps_updated num="3">Spread 1 tablespoon of marinara on flattened dough. </steps_updated>
+    <steps_updated num="4">Wrap up two meatballs in a slice of mozzarella and place them in the center of the dough. </steps_updated>
+    <steps_updated num="5">Sprinkle with ½ tablespoon parmesan cheese and some fresh basil. </steps_updated>
+    <steps_updated num="6">Fold one side of dough up and over ingredients, and seal calzone by crimping the edges together. </steps_updated>
+    <steps_updated num="7">Place on a parchment-lined baking sheet. </steps_updated>
+    <steps_updated num="8">Apply egg wash to outside of calzone and sprinkle with black pepper. </steps_updated>
+    <steps_updated num="9">Bake calzones for 15-20 minutes or until golden brown. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00943</end_time>
+  </duration_human>
+</recipe>

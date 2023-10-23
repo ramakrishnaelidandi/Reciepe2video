@@ -1,0 +1,55 @@
+<recipe>
+  <title>Potato Roses Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/potato-roses</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 3367 11486 2274 10844 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="3">3917 8071 13278 796 9211 </ingredient>
+    <ingredient num="4">3917 8071 13278 796 7516 </ingredient>
+    <ingredient num="5">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="6">3917 8071 13278 82 </ingredient>
+    <ingredient num="7">409 9259 13278 937 7777 8932 </ingredient>
+    <ingredient num="8">6209 5040 560 1966 </ingredient>
+    <ingredient num="9">2431 109 13810 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Sides</category>
+    <category num="3">Date Night</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75777/hls24_1517358346.m3u8</low>
+    <high>https://vid.tasty.co/output/75777/landscape_720/1517358346</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">5209 5994 1228 13817 5994 5768 5741 1088 12205 11951 13233 669 5994 2597 3624 7616 </step>
+    <step num="2">9179 8244 7632 11384 8117 5040 5984 10986 13817 82 560 11951 976 13233 13817 1686 1391 4875 1681 3584 229 </step>
+    <step num="3">12474 5994 4669 8667 7454 2696 4817 13009 371 8932 10407 10763 11649 14203 </step>
+    <step num="4">9207 11951 8932 1391 11951 976 2274 9082 11901 10763 2868 9490 1444 </step>
+    <step num="5">8476 7811 797 786 6183 4536 3386 11951 7035 8362 5994 2868 4821 </step>
+    <step num="6">5570 11951 952 2868 14579 210 5994 2362 12841 5304 5362 1391 11951 374 8932 9259 13817 13950 </step>
+    <step num="7">7831 7990 5527 12689 4660 11951 14579 1391 2141 8450 13817 10903 7990 2237 3274 238 12689 </step>
+    <step num="8">13494 11951 14579 1391 9211 13817 10226 7831 7990 2237 9236 5966 8927 10223 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">5209 5994 1228 13817 5994 5768 5741 1088 12205 11951 13233 669 5994 2597 3624 7616 </steps_updated>
+    <steps_updated num="2">9179 8244 7632 11384 8117 5040 5984 10986 13817 82 560 11951 976 13233 13817 1686 1391 4875 1681 3584 229 </steps_updated>
+    <steps_updated num="3">12474 5994 4669 8667 7454 2696 4817 13009 371 8932 10407 10763 11649 14203 </steps_updated>
+    <steps_updated num="4">9207 11951 8932 1391 11951 976 2274 9082 11901 10763 2868 9490 1444 </steps_updated>
+    <steps_updated num="5">8476 7811 797 786 6183 4536 3386 11951 7035 8362 5994 2868 4821 </steps_updated>
+    <steps_updated num="6">5570 11951 952 2868 14579 210 5994 2362 12841 5304 </steps_updated>
+    <steps_updated num="7">5362 1391 11951 374 8932 9259 13817 13950 </steps_updated>
+    <steps_updated num="8">7831 7990 5527 12689 </steps_updated>
+    <steps_updated num="9">4660 11951 14579 1391 2141 8450 13817 10903 7990 2237 3274 238 12689 </steps_updated>
+    <steps_updated num="10">13494 11951 14579 1391 9211 13817 10226 </steps_updated>
+    <steps_updated num="11">7831 7990 2237 9236 5966 8927 10223 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,42 @@
+<recipe>
+  <title>Barbeque Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/barbeque-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-bbq-recipes-for-a-great-bbq</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 11892 13278 7503 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 10646 2260 </ingredient>
+    <ingredient num="2">13086 9486 13278 9908 14165 10769 </ingredient>
+    <ingredient num="3">3917 14014 13278 9260 6422 </ingredient>
+    <ingredient num="4">1813 2605 13278 6949 1368 4834 13278 3433 5981 </ingredient>
+    <ingredient num="5">8580 9486 13278 1193 </ingredient>
+    <ingredient num="6">3917 8071 13278 9496 </ingredient>
+    <ingredient num="7">3917 8071 13278 11384 11703 </ingredient>
+    <ingredient num="8">12791 8071 13278 499 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99711/hls24_1529684842.m3u8</low>
+    <high>https://vid.tasty.co/output/99711/landscape_720/1529684842</high>
+  </video>
+  <duration>
+    <start_time>25.0</start_time>
+    <end_time>42.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 7110 4120 11951 8675 11131 9908 14165 4450 5920 1368 6145 4793 6958 11384 8117 13817 499 8341 560 1011 </step>
+    <step num="1">8785 560 5994 1002 11770 13757 14307 415 11779 7990 13767 11004 13328 6601 1681 3152 </step>
+    <step num="2">12774 10383 5895 1023 210 2237 2759 3801 210 11951 7111 7990 3386 560 8580 6938 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 7110 4120 11951 8675 11131 9908 14165 4450 5920 1368 6145 4793 6958 11384 8117 13817 499 8341 560 1011 </steps_updated>
+    <steps_updated num="1">8785 560 5994 1002 11770 13757 14307 415 11779 7990 13767 11004 13328 6601 1681 3152 </steps_updated>
+    <steps_updated num="2">12774 10383 5895 1023 210 2237 2759 3801 210 11951 7111 7990 3386 560 8580 6938 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>English Scones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/english-scones</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/afternoon-tea-party-for-4</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ½ cups ; self-raising flour ; (450 g) </ingredient>
+    <ingredient num="1">4 tablespoons ; butter, cut into cubes </ingredient>
+    <ingredient num="2">2 tablespoons ; sugar </ingredient>
+    <ingredient num="3">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">1 ¼ cups ; milk ; (250 mL) </ingredient>
+    <ingredient num="6">1 ; egg yolk </ingredient>
+    <ingredient num="7">jam, as needed </ingredient>
+    <ingredient num="8">clotted cream, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26109/low_1489096735.m3u8</low>
+    <high>https://vid.tasty.co/output/26109/mp4_720x1280/1489096735</high>
+  </video>
+  <duration>
+    <start_time>49.0</start_time>
+    <end_time>88.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425˚F (220˚C). </step>
+    <step num="1">In a large bowl, rub together the self-raising flour and cubed butter until you form fine crumbs. </step>
+    <step num="2">Mix in the sugar, baking powder, and salt, and make a well in the middle. </step>
+    <step num="3">Pour in the milk and gently mix together until just combined. </step>
+    <step num="4">Tip the dough onto a floured surface and knead for about a minute. Be careful not to over-knead the dough. </step>
+    <step num="5">Using a round cookie cutter or the rim of a glass, cut circles into the dough that are about 1-2 inches thick. </step>
+    <step num="6">Place onto a baking tray lined with parchment paper and coat the tops of the scones with the egg yolk. </step>
+    <step num="7">Bake for 12 minutes. </step>
+    <step num="8">Serve with clotted cream and jam. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, rub together the self-raising flour and cubed butter until you form fine crumbs. </steps_updated>
+    <steps_updated num="2">Mix in the sugar, baking powder, and salt, and make a well in the middle. </steps_updated>
+    <steps_updated num="3">Pour in the milk and gently mix together until just combined. </steps_updated>
+    <steps_updated num="4">Tip the dough onto a floured surface and knead for about a minute. </steps_updated>
+    <steps_updated num="5">Be careful not to over-knead the dough. </steps_updated>
+    <steps_updated num="6">Using a round cookie cutter or the rim of a glass, cut circles into the dough that are about 1-2 inches thick. </steps_updated>
+    <steps_updated num="7">Place onto a baking tray lined with parchment paper and coat the tops of the scones with the egg yolk. </steps_updated>
+    <steps_updated num="8">Bake for 12 minutes. </steps_updated>
+    <steps_updated num="9">Serve with clotted cream and jam. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01508</start_time>
+    <end_time>02750</end_time>
+  </duration_human>
+</recipe>

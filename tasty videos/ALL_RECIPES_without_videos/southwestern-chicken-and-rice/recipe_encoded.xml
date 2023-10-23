@@ -1,0 +1,48 @@
+<recipe>
+  <title>Southwestern Chicken And Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-chicken-and-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 1580 9486 13278 1484 13033 </ingredient>
+    <ingredient num="1">3917 14014 13278 9712 10522 </ingredient>
+    <ingredient num="2">12791 8071 13278 3170 </ingredient>
+    <ingredient num="3">12791 8071 13278 9496 </ingredient>
+    <ingredient num="4">1580 8071 13278 82 </ingredient>
+    <ingredient num="5">1580 8071 13278 7845 </ingredient>
+    <ingredient num="6">1580 8071 13278 6209 6712 11588 3962 </ingredient>
+    <ingredient num="7">1580 2605 13278 4617 11948 3745 13278 9377 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 13584 6143 13278 336 5981 </ingredient>
+    <ingredient num="9">12791 2605 13278 12655 3745 13278 1420 5981 </ingredient>
+    <ingredient num="10">1580 13278 2192 9491 3962 </ingredient>
+    <ingredient num="11">1580 2605 13278 3333 482 7983 13278 13125 5981 </ingredient>
+    <ingredient num="12">11216 2605 13278 3333 14538 1279 13278 12237 5981 </ingredient>
+    <ingredient num="13">1580 8071 13278 6209 6712 11588 3962 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102953/hls24_1532454040.m3u8</low>
+    <high>https://vid.tasty.co/output/102953/landscape_720/1532454040</high>
+  </video>
+  <duration>
+    <start_time>1.166</start_time>
+    <end_time>29.083</end_time>
+  </duration>
+  <steps>
+    <step num="0">6823 11951 7611 10895 11951 1484 1123 9712 7654 2670 6958 12610 10986 13817 14621 210 5994 9190 13531 12473 1391 5994 1514 1681 6873 13817 8460 </step>
+    <step num="1">9179 11951 11948 13584 13829 12655 9491 12816 13810 13817 1117 </step>
+    <step num="2">10434 210 11951 7111 7990 6865 2497 </step>
+    <step num="3">11233 12550 560 1471 7934 3145 560 1011 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6823 11951 7611 10895 11951 1484 1123 9712 7654 2670 6958 12610 10986 13817 14621 210 5994 9190 13531 </steps_updated>
+    <steps_updated num="1">12473 1391 5994 1514 1681 6873 13817 8460 </steps_updated>
+    <steps_updated num="2">9179 11951 11948 13584 13829 12655 9491 12816 13810 13817 1117 </steps_updated>
+    <steps_updated num="3">10434 210 11951 7111 7990 6865 2497 </steps_updated>
+    <steps_updated num="4">11233 12550 560 1471 7934 3145 560 1011 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

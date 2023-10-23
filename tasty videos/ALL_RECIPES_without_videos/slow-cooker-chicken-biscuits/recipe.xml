@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Chicken &amp; Biscuits Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-chicken-biscuits</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-slow-cooker-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts, diced </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">2 cups ; broccoli floret ; (300 g) </ingredient>
+    <ingredient num="4">2 cups ; baby carrot, diced ; (240 g) </ingredient>
+    <ingredient num="5">21 oz ; condensed cream of chicken soup ; (600 mL) </ingredient>
+    <ingredient num="6">1 can ; refrigerated biscuit </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10106/low_1473885705.m3u8</low>
+    <high>https://vid.tasty.co/output/10106/mp4_720x1280/1473885705</high>
+  </video>
+  <duration>
+    <start_time>17.66</start_time>
+    <end_time>47.11</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the chicken in a 7-quart (6 ½ liters) slow cooker. Sprinkle on salt &amp; pepper. </step>
+    <step num="1">Add the veggies and condensed soup, and mix thoroughly. </step>
+    <step num="2">Cook on high for 3 hours. </step>
+    <step num="3">Rip biscuit dough into small pieces, and drop evenly over chicken. Cook an additional hour. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the chicken in a 7-quart (6 ½ liters) slow cooker. </steps_updated>
+    <steps_updated num="1">Sprinkle on salt &amp; pepper. </steps_updated>
+    <steps_updated num="2">Add the veggies and condensed soup, and mix thoroughly. </steps_updated>
+    <steps_updated num="3">Cook on high for 3 hours. </steps_updated>
+    <steps_updated num="4">Rip biscuit dough into small pieces, and drop evenly over chicken. </steps_updated>
+    <steps_updated num="5">Cook an additional hour. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00585</start_time>
+    <end_time>01435</end_time>
+  </duration_human>
+</recipe>

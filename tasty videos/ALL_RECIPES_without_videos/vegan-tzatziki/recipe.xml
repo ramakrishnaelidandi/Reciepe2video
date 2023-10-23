@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Tzatziki Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-tzatziki</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-vegan-dipping-sauces</comp_url>
+  <ingredients>
+    <ingredient num="0">12 oz ; coconut yogurt ; (340 g) </ingredient>
+    <ingredient num="1">1 ; lemon, juiced </ingredient>
+    <ingredient num="2">1 tablespoon ; white wine vinegar </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="6">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="7">1 ; cucumber, grated </ingredient>
+    <ingredient num="8">1 tablespoon ; fresh dill, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55114/low_1507225865.m3u8</low>
+    <high>https://vid.tasty.co/output/55114/mp4_720x1280/1507225865</high>
+  </video>
+  <duration>
+    <start_time>74.6</start_time>
+    <end_time>124.41</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender or food processor, combine coconut yogurt, lemon juice, vinegar, salt, and pepper. When creamy, add chopped garlic and oil. Blend again. </step>
+    <step num="1">Seed and grate cucumber and wrap in towel. </step>
+    <step num="2">Squeeze excess water out of cucumber. </step>
+    <step num="3">Add cucumber to coconut yogurt dip, and stir to blend. </step>
+    <step num="4">Cover and chill 2-3 hours. </step>
+    <step num="5">Garnish with dill. </step>
+    <step num="6">Serve with chips, crackers, or veggies. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender or food processor, combine coconut yogurt, lemon juice, vinegar, salt, and pepper. </steps_updated>
+    <steps_updated num="1">When creamy, add chopped garlic and oil. </steps_updated>
+    <steps_updated num="2">Blend again. </steps_updated>
+    <steps_updated num="3">Seed and grate cucumber and wrap in towel. </steps_updated>
+    <steps_updated num="4">Squeeze excess water out of cucumber. </steps_updated>
+    <steps_updated num="5">Add cucumber to coconut yogurt dip, and stir to blend. </steps_updated>
+    <steps_updated num="6">Cover and chill 2-3 hours. </steps_updated>
+    <steps_updated num="7">Garnish with dill. </steps_updated>
+    <steps_updated num="8">Serve with chips, crackers, or veggies. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02291</start_time>
+    <end_time>03749</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy French Pull-apart Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-french-pull-apart-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 loaf ; whole wheat bread </ingredient>
+    <ingredient num="1">4 ½ cups ; low-moisture mozzarella, cut into about twenty pieces ; (500 g) </ingredient>
+    <ingredient num="2">2 cups ; white chedder, grated, or comte cheese ; (200 g) </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">1 handful ; parsley, chopped </ingredient>
+    <ingredient num="6">3 tablespoons ; butter </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31850/low_1495124850.m3u8</low>
+    <high>https://vid.tasty.co/output/31850/mp4_720x1280/1495124850</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Cut the bread diagonally to form diamond shapes, making sure not to cut all the way down to the base of the bread. </step>
+    <step num="2">Place the pieces of white cheddar between cuts. </step>
+    <step num="3">Cover with shredded mozzarella. </step>
+    <step num="4">Sprinkle salt, pepper, parsley, and melted butter on top. </step>
+    <step num="5">Bake for 15-20 minutes or until all the cheese is melted and the bread is lightly toasted. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Cut the bread diagonally to form diamond shapes, making sure not to cut all the way down to the base of the bread. </steps_updated>
+    <steps_updated num="2">Place the pieces of white cheddar between cuts. </steps_updated>
+    <steps_updated num="3">Cover with shredded mozzarella. </steps_updated>
+    <steps_updated num="4">Sprinkle salt, pepper, parsley, and melted butter on top. </steps_updated>
+    <steps_updated num="5">Bake for 15-20 minutes or until all the cheese is melted and the bread is lightly toasted. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

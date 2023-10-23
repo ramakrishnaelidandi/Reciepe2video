@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Roasted Veggie Quinoa Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/roasted-veggie-quinoa-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/lettuce-free-salads</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; zucchini, cubed ; (75 g) </ingredient>
+    <ingredient num="1">½ cup ; sweet potato, cubed ; (100 g) </ingredient>
+    <ingredient num="2">1 cup ; cherry tomato, halved ; (200 g) </ingredient>
+    <ingredient num="3">½ ; red onion, diced </ingredient>
+    <ingredient num="4">½ cup ; corn, fresh or canned ; (85 g) </ingredient>
+    <ingredient num="5">½ ; lemon, for juice </ingredient>
+    <ingredient num="6">4 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="7">garlic salt, to taste </ingredient>
+    <ingredient num="8">pepper, to taste </ingredient>
+    <ingredient num="9">4 cups ; quinoa, cooked ; (680 g) </ingredient>
+    <ingredient num="10">1 tablespoon ; apple cider vinegar </ingredient>
+    <ingredient num="11">¼ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108215/hls24_1536270024.m3u8</low>
+    <high>https://vid.tasty.co/output/108215/landscape_720/1536270024</high>
+  </video>
+  <duration>
+    <start_time>55.166</start_time>
+    <end_time>121.383</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). Line a baking sheet with parchment paper. </step>
+    <step num="1">Add the zucchini, sweet potato, tomatoes, onion, and corn to the baking sheet. </step>
+    <step num="2">Drizzle with the lemon juice and 2 tablespoons of olive oil, then season with garlic salt and pepper. Toss to coat evenly, keeping the vegetables separate on the pan. </step>
+    <step num="3">Roast for 15-20 minutes, or until fork tender. </step>
+    <step num="4">Transfer the roasted vegetables to a large bowl, and add the quinoa. Toss well. </step>
+    <step num="5">In a small bowl, mix together the remaining 2 tablespoons of olive oil and apple cider vinegar. Pour over the veggies and quinoa, and toss to coat. </step>
+    <step num="6">Garnish with parsley. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Line a baking sheet with parchment paper. </steps_updated>
+    <steps_updated num="2">Add the zucchini, sweet potato, tomatoes, onion, and corn to the baking sheet. </steps_updated>
+    <steps_updated num="3">Drizzle with the lemon juice and 2 tablespoons of olive oil, then season with garlic salt and pepper. </steps_updated>
+    <steps_updated num="4">Toss to coat evenly, keeping the vegetables separate on the pan. </steps_updated>
+    <steps_updated num="5">Roast for 15-20 minutes, or until fork tender. </steps_updated>
+    <steps_updated num="6">Transfer the roasted vegetables to a large bowl, and add the quinoa. </steps_updated>
+    <steps_updated num="7">Toss well. </steps_updated>
+    <steps_updated num="8">In a small bowl, mix together the remaining 2 tablespoons of olive oil and apple cider vinegar. </steps_updated>
+    <steps_updated num="9">Pour over the veggies and quinoa, and toss to coat. </steps_updated>
+    <steps_updated num="10">Garnish with parsley. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

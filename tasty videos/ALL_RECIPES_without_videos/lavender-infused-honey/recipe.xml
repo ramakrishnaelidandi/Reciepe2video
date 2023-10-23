@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lavender-Infused Honey Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lavender-infused-honey</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; honey ; (340 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; dried lavender </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92033/hls24_1525194158.m3u8</low>
+    <high>https://vid.tasty.co/output/92033/landscape_720/1525194158</high>
+  </video>
+  <steps>
+    <step num="0">Pour the honey into a medium, heavy saucepan and place over medium heat. Be sure to use a large enough pot because the honey can easily boil over. </step>
+    <step num="1">Add in the dried lavender and let the honey come to a boil. </step>
+    <step num="2">Let the honey boil for about 5 minutes to let the lavender infuse, then remove from the heat. </step>
+    <step num="3">Pour the honey through a mesh sieve into a heat-proof container. </step>
+    <step num="4">Allow the honey to cool, uncovered, until room temperature, at least 1 hour. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the honey into a medium, heavy saucepan and place over medium heat. </steps_updated>
+    <steps_updated num="1">Be sure to use a large enough pot because the honey can easily boil over. </steps_updated>
+    <steps_updated num="2">Add in the dried lavender and let the honey come to a boil. </steps_updated>
+    <steps_updated num="3">Let the honey boil for about 5 minutes to let the lavender infuse, then remove from the heat. </steps_updated>
+    <steps_updated num="4">Pour the honey through a mesh sieve into a heat-proof container. </steps_updated>
+    <steps_updated num="5">Allow the honey to cool, uncovered, until room temperature, at least 1 hour. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

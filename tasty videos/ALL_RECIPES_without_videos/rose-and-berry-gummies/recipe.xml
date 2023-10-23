@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rosé And Berry Gummies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rose-and-berry-gummies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; rosé wine ; (235 mL) </ingredient>
+    <ingredient num="1">1 ½ oz ; gelatin powder ; (40 g) </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">strawberry, diced, optional </ingredient>
+    <ingredient num="4">blueberry, optional </ingredient>
+    <ingredient num="5">rasberries, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Drinks</category>
+    <category num="4">Happy Hour</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18865/low_1482278027.m3u8</low>
+    <high>https://vid.tasty.co/output/18865/mp4_720x1280/1482278027</high>
+  </video>
+  <steps>
+    <step num="0">Heat wine in a microwave-safe container for 1 minute, or until hot. </step>
+    <step num="1">Mix sugar and gelatin into the wine and stir with a whisk until dissolved. </step>
+    <step num="2">Pour mixture into molds. Add fruit if desired. </step>
+    <step num="3">Refrigerate for 1 hour. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat wine in a microwave-safe container for 1 minute, or until hot. </steps_updated>
+    <steps_updated num="1">Mix sugar and gelatin into the wine and stir with a whisk until dissolved. </steps_updated>
+    <steps_updated num="2">Pour mixture into molds. </steps_updated>
+    <steps_updated num="3">Add fruit if desired. </steps_updated>
+    <steps_updated num="4">Refrigerate for 1 hour. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

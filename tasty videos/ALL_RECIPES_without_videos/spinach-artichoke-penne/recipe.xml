@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spinach Artichoke Penne Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-artichoke-penne</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/penne-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">5 oz ; spinach ; (140 g) </ingredient>
+    <ingredient num="2">1 cup ; artichoke heart, drained ; (170 g) </ingredient>
+    <ingredient num="3">16 oz ; cream cheese, softened ; (455 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; pepper </ingredient>
+    <ingredient num="7">2 cups ; milk ; (470 mL) </ingredient>
+    <ingredient num="8">4 cups ; penne pasta, cooked ; (400 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51244/low_1504720250.m3u8</low>
+    <high>https://vid.tasty.co/output/51244/mp4_720x1280/1504720250</high>
+  </video>
+  <duration>
+    <start_time>52.0</start_time>
+    <end_time>77.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat oil in a large pot over medium heat. Add spinach, cooking until wilted, then add artichoke hearts, cooking for 1 minute. </step>
+    <step num="1">Add cream cheese until melted, stirring until there are no lumps. </step>
+    <step num="2">Sprinkle in garlic powder, salt, pepper, and milk, stirring until smooth. </step>
+    <step num="3">Add pasta and mix until pasta is evenly coated. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a large pot over medium heat. </steps_updated>
+    <steps_updated num="1">Add spinach, cooking until wilted, then add artichoke hearts, cooking for 1 minute. </steps_updated>
+    <steps_updated num="2">Add cream cheese until melted, stirring until there are no lumps. </steps_updated>
+    <steps_updated num="3">Sprinkle in garlic powder, salt, pepper, and milk, stirring until smooth. </steps_updated>
+    <steps_updated num="4">Add pasta and mix until pasta is evenly coated. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01606</start_time>
+    <end_time>02340</end_time>
+  </duration_human>
+</recipe>

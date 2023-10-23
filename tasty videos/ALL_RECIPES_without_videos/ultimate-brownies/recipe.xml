@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>How To Make The Best Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ultimate-brownies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ½ sticks ; unsalted butter, plus more, softened, for greasing </ingredient>
+    <ingredient num="1">8 oz ; good-quality semisweet chocolate, or bittersweet chocolate, 60-70% cacao, roughly chopped ; (225 g) </ingredient>
+    <ingredient num="2">¾ cup ; unsweetened dutch process cocoa powder, divided ; (90 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; espresso powder </ingredient>
+    <ingredient num="4">2 cups ; granulated sugar ; (400 g) </ingredient>
+    <ingredient num="5">½ cup ; dark brown sugar, packed ; (110 g) </ingredient>
+    <ingredient num="6">2 teaspoons ; vanilla extract </ingredient>
+    <ingredient num="7">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="8">6 ; large eggs </ingredient>
+    <ingredient num="9">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="10">flaky sea salt, for sprinkling </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100529/hls24_1530304706.m3u8</low>
+    <high>https://vid.tasty.co/output/100529/landscape_720/1530304706</high>
+  </video>
+  <steps>
+    <step num="0">Grease a 9x13-inch (23x33-cm) dark metal pan with softened butter, then line with parchment paper, leaving overhang on all sides. Grease the parchment with softened butter. </step>
+    <step num="1">Combine the chopped chocolate, ¼ cup (30 g) of cocoa powder, and espresso powder in a heatproof liquid measuring cup or medium bowl and set aside. </step>
+    <step num="2">Add the butter to a small saucepan over medium heat and cook until the butter just comes to a vigorous simmer, about 5 minutes, swirling the pan occasionally. Immediately pour the hot butter over the chocolate mixture and let sit for 2 minutes. Whisk until the chocolate is completely smooth and melted, then set aside. </step>
+    <step num="3">Combine the granulated sugar, brown sugar, vanilla extract, salt, and eggs in a large bowl. Beat with an electric hand mixer on high speed until light and fluffy, about 10 minutes. It will be similar to the texture of very thick pancake batter. </step>
+    <step num="4">With the mixer on, pour in the slightly cooled chocolate and butter mixture and blend until smooth. </step>
+    <step num="5">Position a rack in the middle of the oven and preheat to 350°F (180°C). </step>
+    <step num="6">Sift in the flour and remaining cocoa powder and use a rubber spatula to gently fold until just combined. </step>
+    <step num="7">Pour the batter into the prepared baking pan and smooth the top with a spatula. Bake until lightly puffed on top, about 20 minutes. </step>
+    <step num="8">Remove the baking pan from the oven using oven mitts or kitchen towels, then lightly drop the pan on a flat surface 1-2 times until the brownies deflate slightly. Sprinkle with flaky sea salt. </step>
+    <step num="9">Return the pan to the oven and bake until a wooden skewer inserted into the center of the brownies comes out fudgy but the edges look cooked through, about 20 minutes more. The center of the brownies will seem under-baked, but the brownies will continue to set as they cool. </step>
+    <step num="10">Set the brownies on a cooling rack and cool completely in the pan. </step>
+    <step num="11">Use the parchment paper to lift the cooled brownies out of the pan. Cut into 24 bars and serve immediately. </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Grease a 9x13-inch (23x33-cm) dark metal pan with softened butter, then line with parchment paper, leaving overhang on all sides. </steps_updated>
+    <steps_updated num="1">Grease the parchment with softened butter. </steps_updated>
+    <steps_updated num="2">Combine the chopped chocolate, ¼ cup (30 g) of cocoa powder, and espresso powder in a heatproof liquid measuring cup or medium bowl and set aside. </steps_updated>
+    <steps_updated num="3">Add the butter to a small saucepan over medium heat and cook until the butter just comes to a vigorous simmer, about 5 minutes, swirling the pan occasionally. </steps_updated>
+    <steps_updated num="4">Immediately pour the hot butter over the chocolate mixture and let sit for 2 minutes. </steps_updated>
+    <steps_updated num="5">Whisk until the chocolate is completely smooth and melted, then set aside. </steps_updated>
+    <steps_updated num="6">Combine the granulated sugar, brown sugar, vanilla extract, salt, and eggs in a large bowl. </steps_updated>
+    <steps_updated num="7">Beat with an electric hand mixer on high speed until light and fluffy, about 10 minutes. </steps_updated>
+    <steps_updated num="8">It will be similar to the texture of very thick pancake batter. </steps_updated>
+    <steps_updated num="9">With the mixer on, pour in the slightly cooled chocolate and butter mixture and blend until smooth. </steps_updated>
+    <steps_updated num="10">Position a rack in the middle of the oven and preheat to 350°F (180°C). </steps_updated>
+    <steps_updated num="11">Sift in the flour and remaining cocoa powder and use a rubber spatula to gently fold until just combined. </steps_updated>
+    <steps_updated num="12">Pour the batter into the prepared baking pan and smooth the top with a spatula. </steps_updated>
+    <steps_updated num="13">Bake until lightly puffed on top, about 20 minutes. </steps_updated>
+    <steps_updated num="14">Remove the baking pan from the oven using oven mitts or kitchen towels, then lightly drop the pan on a flat surface 1-2 times until the brownies deflate slightly. </steps_updated>
+    <steps_updated num="15">Sprinkle with flaky sea salt. </steps_updated>
+    <steps_updated num="16">Return the pan to the oven and bake until a wooden skewer inserted into the center of the brownies comes out fudgy but the edges look cooked through, about 20 minutes more. </steps_updated>
+    <steps_updated num="17">The center of the brownies will seem under-baked, but the brownies will continue to set as they cool. </steps_updated>
+    <steps_updated num="18">Set the brownies on a cooling rack and cool completely in the pan. </steps_updated>
+    <steps_updated num="19">Use the parchment paper to lift the cooled brownies out of the pan. </steps_updated>
+    <steps_updated num="20">Cut into 24 bars and serve immediately. </steps_updated>
+    <steps_updated num="21">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

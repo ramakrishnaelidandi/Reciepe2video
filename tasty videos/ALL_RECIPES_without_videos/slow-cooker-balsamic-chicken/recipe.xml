@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Balsamic Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-balsamic-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-whole-30-friendly-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="2">1 lb ; baby carrot ; (455 g) </ingredient>
+    <ingredient num="3">8 ; boneless, skinless chicken thighs </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">1 teaspoon ; dried basil </ingredient>
+    <ingredient num="8">½ cup ; balsamic vinegar ; (120 mL) </ingredient>
+    <ingredient num="9">1 ; onion, sliced </ingredient>
+    <ingredient num="10">1 lb ; green beans ; (455 g) </ingredient>
+    <ingredient num="11">fresh parsley, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76318/hls24_1517539727.m3u8</low>
+    <high>https://vid.tasty.co/output/76318/landscape_720/1517539727</high>
+  </video>
+  <duration>
+    <start_time>163.0</start_time>
+    <end_time>194.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pour olive oil and garlic in the bottom of a 6-qt slow cooker. Line the bottom with baby carrots, then place the chicken thighs over the carrots. </step>
+    <step num="1">Season the chicken thighs with salt, pepper, garlic powder, basil and vinegar. Top with sliced onion. </step>
+    <step num="2">Cover and cook on low heat for 8 hours or high for 4 hours. Add green beans during the last 30 minutes of cooking time. </step>
+    <step num="3">Sprinkle with fresh chopped parsley and serve immediately. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour olive oil and garlic in the bottom of a 6-qt slow cooker. </steps_updated>
+    <steps_updated num="1">Line the bottom with baby carrots, then place the chicken thighs over the carrots. </steps_updated>
+    <steps_updated num="2">Season the chicken thighs with salt, pepper, garlic powder, basil and vinegar. </steps_updated>
+    <steps_updated num="3">Top with sliced onion. </steps_updated>
+    <steps_updated num="4">Cover and cook on low heat for 8 hours or high for 4 hours. </steps_updated>
+    <steps_updated num="5">Add green beans during the last 30 minutes of cooking time. </steps_updated>
+    <steps_updated num="6">Sprinkle with fresh chopped parsley and serve immediately. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03934</start_time>
+    <end_time>04669</end_time>
+  </duration_human>
+</recipe>

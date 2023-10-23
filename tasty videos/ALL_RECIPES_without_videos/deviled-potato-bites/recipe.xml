@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Deviled Potato Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/deviled-potato-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">10 ; small yellow potatoes </ingredient>
+    <ingredient num="1">15 oz ; chickpeas, 1 can ; (425 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="3">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; dijon mustard </ingredient>
+    <ingredient num="5">1 teaspoon ; turmeric </ingredient>
+    <ingredient num="6">2 tablespoons ; tahini sauce </ingredient>
+    <ingredient num="7">2 tablespoons ; water, add more as needed for creamier texture </ingredient>
+    <ingredient num="8">salt, to taste </ingredient>
+    <ingredient num="9">pepper, to taste </ingredient>
+    <ingredient num="10">paprika, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32062/low_1495125059.m3u8</low>
+    <high>https://vid.tasty.co/output/32062/mp4_720x1280/1495125059</high>
+  </video>
+  <steps>
+    <step num="0">Chop 10-15 small yellow potatoes in half, and place on a baking sheet. </step>
+    <step num="1">Sprinkle with salt, and spray with cooking oil. </step>
+    <step num="2">Bake at 400˚F (200˚C) for 40 minutes, or until soft. </step>
+    <step num="3">Scoop out a small section of the potatoes to create a bowl. (You can add these to the hummus center, or simply snack on them now!) </step>
+    <step num="4">In a food processor, combine all remaining ingredients. </step>
+    <step num="5">Blend thoroughly. Add more water as needed until the mixture is smooth and creamy. </step>
+    <step num="6">Spoon mixture into a piping bag, and fill the potato cups. Use a ridged tip on the bag for a beautiful textured effect! </step>
+    <step num="7">Sprinkle with paprika or seasoning salt and chives. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Chop 10-15 small yellow potatoes in half, and place on a baking sheet. </steps_updated>
+    <steps_updated num="1">Sprinkle with salt, and spray with cooking oil. </steps_updated>
+    <steps_updated num="2">Bake at 400˚F (200˚C) for 40 minutes, or until soft. </steps_updated>
+    <steps_updated num="3">Scoop out a small section of the potatoes to create a bowl. </steps_updated>
+    <steps_updated num="4">(You can add these to the hummus center, or simply snack on them now!) </steps_updated>
+    <steps_updated num="5">In a food processor, combine all remaining ingredients. </steps_updated>
+    <steps_updated num="6">Blend thoroughly. </steps_updated>
+    <steps_updated num="7">Add more water as needed until the mixture is smooth and creamy. </steps_updated>
+    <steps_updated num="8">Spoon mixture into a piping bag, and fill the potato cups. </steps_updated>
+    <steps_updated num="9">Use a ridged tip on the bag for a beautiful textured effect! </steps_updated>
+    <steps_updated num="10">Sprinkle with paprika or seasoning salt and chives. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

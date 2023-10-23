@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet-Pan Steak Fajitas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-pan-steak-fajitas</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-stress-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; flank steak ; (455 g) </ingredient>
+    <ingredient num="1">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="2">1 ; yellow bell pepper, sliced </ingredient>
+    <ingredient num="3">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="4">½ ; red onion, sliced </ingredient>
+    <ingredient num="5">olive oil, to taste </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">chili powder, to taste </ingredient>
+    <ingredient num="9">garlic powder, to taste </ingredient>
+    <ingredient num="10">cumin, to taste </ingredient>
+    <ingredient num="11">½ ; lime, juiced </ingredient>
+    <ingredient num="12">fresh cilantro, chopped, for garnish </ingredient>
+    <ingredient num="13">8 ; whole grain tortillas, warmed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85393/hls24_1521485033.m3u8</low>
+    <high>https://vid.tasty.co/output/85393/landscape_720/1521485033</high>
+  </video>
+  <duration>
+    <start_time>169.166</start_time>
+    <end_time>233.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 450°F (230°C). </step>
+    <step num="1">Lay the flank steak in the middle of a baking sheet. Arrange the bell peppers and red onion around it. Drizzle everything with olive oil and season with salt, pepper, chili powder, garlic powder, and cumin. </step>
+    <step num="2">Using your hands, rub the seasoning into the vegetables, then into the steak. Flip the steak and season the other side. </step>
+    <step num="3">Squeeze the lime juice over the top of the steak and veggies. </step>
+    <step num="4">Cook for 12 minutes, or until the meat has reached your desired doneness. </step>
+    <step num="5">Transfer the steak to a cutting board and let it rest for 10 minutes, then slice it into pieces, going against the grain. </step>
+    <step num="6">Fill up a warm tortilla with the steak, bell peppers, and onion. </step>
+    <step num="7">Garnish with cilantro, and serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 450°F (230°C). </steps_updated>
+    <steps_updated num="1">Lay the flank steak in the middle of a baking sheet. </steps_updated>
+    <steps_updated num="2">Arrange the bell peppers and red onion around it. </steps_updated>
+    <steps_updated num="3">Drizzle everything with olive oil and season with salt, pepper, chili powder, garlic powder, and cumin. </steps_updated>
+    <steps_updated num="4">Using your hands, rub the seasoning into the vegetables, then into the steak. </steps_updated>
+    <steps_updated num="5">Flip the steak and season the other side. </steps_updated>
+    <steps_updated num="6">Squeeze the lime juice over the top of the steak and veggies. </steps_updated>
+    <steps_updated num="7">Cook for 12 minutes, or until the meat has reached your desired doneness. </steps_updated>
+    <steps_updated num="8">Transfer the steak to a cutting board and let it rest for 10 minutes, then slice it into pieces, going against the grain. </steps_updated>
+    <steps_updated num="9">Fill up a warm tortilla with the steak, bell peppers, and onion. </steps_updated>
+    <steps_updated num="10">Garnish with cilantro, and serve. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04102</start_time>
+    <end_time>05593</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Chickpea Salad with Chili Lime Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-chickpea-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">¼ cup ; lime juice ; (60 mL) </ingredient>
+    <ingredient num="2">2 teaspoons ; cumin </ingredient>
+    <ingredient num="3">2 teaspoons ; chili powder </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="7">2 cans ; chickpeas, drained, rinsed </ingredient>
+    <ingredient num="8">1 ; cucumber, chopped, quartered </ingredient>
+    <ingredient num="9">20 ; cherry tomatoes, halved </ingredient>
+    <ingredient num="10">1 ; onion, chopped </ingredient>
+    <ingredient num="11">1 ; avocado, diced </ingredient>
+    <ingredient num="12">⅓ cup ; carrot, shredded ; (35 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Lunch</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25258/low_1488403237.m3u8</low>
+    <high>https://vid.tasty.co/output/25258/mp4_720x1280/1488403237</high>
+  </video>
+  <steps>
+    <step num="0">For the dressing, combine dressing ingredients in a small bowl. Whisk together until mixed thoroughly. </step>
+    <step num="1">In a large bowl, combine chickpeas, cucumber, tomatoes, onion, avocado, carrots, and dressing. Toss together until evenly combined. </step>
+    <step num="2">Serve and garnish. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the dressing, combine dressing ingredients in a small bowl. </steps_updated>
+    <steps_updated num="1">Whisk together until mixed thoroughly. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine chickpeas, cucumber, tomatoes, onion, avocado, carrots, and dressing. </steps_updated>
+    <steps_updated num="3">Toss together until evenly combined. </steps_updated>
+    <steps_updated num="4">Serve and garnish. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

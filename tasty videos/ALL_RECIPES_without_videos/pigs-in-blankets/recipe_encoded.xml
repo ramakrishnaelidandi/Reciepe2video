@@ -1,0 +1,49 @@
+<recipe>
+  <title>Pigs In Blankets Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pigs-in-blankets</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">409 13278 1459 4658 </ingredient>
+    <ingredient num="1">11061 7163 13278 8932 </ingredient>
+    <ingredient num="2">3917 2605 13278 2431 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="3">3917 213 13278 8247 7969 </ingredient>
+    <ingredient num="4">6216 2060 2658 13615 </ingredient>
+    <ingredient num="5">13584 6334 4 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16517/low_1480701399.m3u8</low>
+    <high>https://vid.tasty.co/output/16517/mp4_720x1280/1480701399</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 7606 998 </step>
+    <step num="1">14100 11951 7163 210 2532 12957 13817 4536 11951 4658 210 8254 2257 5292 </step>
+    <step num="2">4124 2696 11951 213 371 8247 7969 13817 6798 1391 8177 6216 7137 </step>
+    <step num="3">14100 669 409 13332 </step>
+    <step num="4">10950 10763 4641 1678 4255 8177 13810 6960 5569 5994 13280 11410 210 6106 </step>
+    <step num="5">7692 210 11951 8763 10504 8177 4297 4255 10707 371 10763 4536 13817 6798 1391 3954 6216 7137 13494 1391 13584 6334 6974 </step>
+    <step num="6">7831 7990 5527 11004 5895 1681 10963 1368 13817 11951 4658 12573 3745 8119 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 7606 998 </steps_updated>
+    <steps_updated num="1">14100 11951 7163 210 2532 12957 13817 4536 11951 4658 210 8254 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">4124 2696 11951 213 371 8247 7969 13817 6798 1391 8177 6216 7137 </steps_updated>
+    <steps_updated num="4">14100 669 409 13332 </steps_updated>
+    <steps_updated num="5">10950 10763 4641 1678 4255 8177 13810 6960 5569 5994 13280 11410 210 6106 </steps_updated>
+    <steps_updated num="6">7692 210 11951 8763 </steps_updated>
+    <steps_updated num="7">10504 8177 4297 4255 10707 371 10763 4536 13817 6798 1391 3954 6216 7137 13494 1391 13584 6334 6974 </steps_updated>
+    <steps_updated num="8">7831 7990 5527 11004 5895 1681 10963 1368 13817 11951 4658 12573 3745 8119 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

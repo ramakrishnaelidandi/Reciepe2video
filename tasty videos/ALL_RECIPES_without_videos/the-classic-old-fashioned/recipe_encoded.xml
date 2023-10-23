@@ -1,0 +1,41 @@
+<recipe>
+  <title>The Classic Old Fashioned Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/the-classic-old-fashioned</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 4834 10224 </ingredient>
+    <ingredient num="1">13086 587 13278 3536 </ingredient>
+    <ingredient num="2">12791 2605 13278 13082 12706 13278 13125 8007 </ingredient>
+    <ingredient num="3">13956 7368 </ingredient>
+    <ingredient num="4">3737 8602 </ingredient>
+    <ingredient num="5">2439 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50503/low_1504205940.m3u8</low>
+    <high>https://vid.tasty.co/output/50503/mp4_720x1280/1504205940</high>
+  </video>
+  <steps>
+    <step num="0">5570 4834 210 11951 551 371 5994 9700 6369 9179 9527 13817 5331 3626 1681 4309 </step>
+    <step num="1">9179 12648 8344 371 2439 13817 5406 11770 6335 12473 1681 4834 9490 1954 10033 </step>
+    <step num="2">11759 5994 9152 371 13956 7368 8830 12313 9102 13817 11962 13817 882 11770 11951 13426 560 11136 11951 14158 4429 1762 1551 1762 14138 13260 11003 5994 12004 5895 6242 560 11833 11951 13956 11174 7990 5994 6743 10816 </step>
+    <step num="3">13688 1391 11951 13956 7368 13817 5994 3622 13540 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 4834 210 11951 551 371 5994 9700 6369 </steps_updated>
+    <steps_updated num="1">9179 9527 13817 5331 3626 1681 4309 </steps_updated>
+    <steps_updated num="2">9179 12648 8344 371 2439 13817 5406 11770 6335 </steps_updated>
+    <steps_updated num="3">12473 1681 4834 9490 1954 10033 </steps_updated>
+    <steps_updated num="4">11759 5994 9152 371 13956 7368 8830 12313 9102 13817 11962 13817 882 11770 11951 13426 560 11136 11951 14158 </steps_updated>
+    <steps_updated num="5">4429 1762 1551 1762 14138 13260 11003 5994 12004 5895 6242 560 11833 11951 13956 11174 7990 5994 6743 10816 </steps_updated>
+    <steps_updated num="6">13688 1391 11951 13956 7368 13817 5994 3622 13540 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Paprika Herb Roasted Carrots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/paprika-herb-roasted-carrots</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-roasted-veggies-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; carrots </ingredient>
+    <ingredient num="1">2 tablespoons ; oil </ingredient>
+    <ingredient num="2">¼ cup ; Chopped fresh parsley ; (10 g) </ingredient>
+    <ingredient num="3">2 teaspoons ; paprika </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Snacks</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31203/low_1494349079.m3u8</low>
+    <high>https://vid.tasty.co/output/31203/mp4_720x1280/1494349079</high>
+  </video>
+  <duration>
+    <start_time>52.0</start_time>
+    <end_time>75.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 400°F (200ºC). </step>
+    <step num="1">Trim the carrots, then slice on the diagonal into ½ inch thick coins. </step>
+    <step num="2">Transfer the carrots to a baking sheet and add the oil, parsley, paprika, salt, and pepper. Toss to coat. </step>
+    <step num="3">Bake for 20-25 minutes, until the carrots are tender. Let cool for 5 minutes before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200ºC). </steps_updated>
+    <steps_updated num="1">Slice the top and bottom off of the carrots (hold knife diagonally while slicing to make fancy carrot slices). </steps_updated>
+    <steps_updated num="2">On a prepared baking sheet, combine carrots and remaining ingredients. </steps_updated>
+    <steps_updated num="3">Mix evenly. </steps_updated>
+    <steps_updated num="4">Bake for 20-25 minutes. </steps_updated>
+    <steps_updated num="5">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01594</start_time>
+    <end_time>02260</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,46 @@
+<recipe>
+  <title>Cake Batter Frozen Yogurt Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cake-batter-frozen-yogurt</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/frozen-yogurt-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">6735 643 13278 13033 14538 13278 9473 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 1319 3713 13278 3153 5981 </ingredient>
+    <ingredient num="2">13086 9486 13278 9586 </ingredient>
+    <ingredient num="3">3917 8071 13278 638 10937 </ingredient>
+    <ingredient num="4">1580 2605 13278 1226 1397 13278 12158 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23492/low_1486603084.m3u8</low>
+    <high>https://vid.tasty.co/output/23492/mp4_720x1280/1486603084</high>
+  </video>
+  <duration>
+    <start_time>19.0</start_time>
+    <end_time>45.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 8554 11907 210 5994 8016 9909 1681 12119 12473 210 1226 1504 </step>
+    <step num="1">12785 560 2237 13966 13037 1645 13426 6325 </step>
+    <step num="2">13855 7990 7811 767 8580 14329 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 8554 11907 210 5994 8016 9909 1681 12119 </steps_updated>
+    <steps_updated num="1">12473 210 1226 1504 </steps_updated>
+    <steps_updated num="2">12785 560 2237 13966 13037 1645 13426 6325 </steps_updated>
+    <steps_updated num="3">13855 7990 7811 767 8580 14329 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00630</start_time>
+    <end_time>01374</end_time>
+  </duration_human>
+</recipe>

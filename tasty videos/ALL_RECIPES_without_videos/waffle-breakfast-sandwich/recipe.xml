@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Waffle Breakfast Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/waffle-breakfast-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/portable-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; sausage patty </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">1 teaspoon ; milk </ingredient>
+    <ingredient num="5">2 slices ; cheddar cheese </ingredient>
+    <ingredient num="6">2 ; frozen waffles </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102123/hls24_1531775108.m3u8</low>
+    <high>https://vid.tasty.co/output/102123/landscape_720/1531775108</high>
+  </video>
+  <duration>
+    <start_time>128.666</start_time>
+    <end_time>172.566</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place a sausage patty and a mug or ramekin on a large microwaveable-friendly plate. </step>
+    <step num="1">Crack the egg into the mug. Season with salt and pepper. Add a splash of milk, if desired. Whisk until well-mixed. </step>
+    <step num="2">Microwave the entire plate for 1½-2 minutes, or until the egg is cooked through. </step>
+    <step num="3">Invert the mug with the egg. You may have to run a knife around the mug first to ensure that the egg comes loose in one solid piece. </step>
+    <step num="4">Toast two frozen waffles. </step>
+    <step num="5">After the waffles are toasted, layer 1 waffle, cheese, the cooked sausage patty, eggs, and the remaining waffle. </step>
+    <step num="6">Fold the edges of a sheet of aluminum foil down by half an inch (1 cm). Place the sandwich in the middle. </step>
+    <step num="7">Bring the top and bottom of the edges of the paper together over the center of the sandwich. Repeat folding in half-inch (1 cm) turns, creasing each time, until the fold is level with the top of the sandwich. </step>
+    <step num="8">Starting on the left side, use your fingers to press the edges into the center to form a pleated triangle. Press down and crease the triangle's edges, including at the base of the sandwich, before carefully folding it underneath. Repeat this process on the other side of the sandwich. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a sausage patty and a mug or ramekin on a large microwaveable-friendly plate. </steps_updated>
+    <steps_updated num="1">Crack the egg into the mug. </steps_updated>
+    <steps_updated num="2">Season with salt and pepper. </steps_updated>
+    <steps_updated num="3">Add a splash of milk, if desired. </steps_updated>
+    <steps_updated num="4">Whisk until well-mixed. </steps_updated>
+    <steps_updated num="5">Microwave the entire plate for 1½-2 minutes, or until the egg is cooked through. </steps_updated>
+    <steps_updated num="6">Invert the mug with the egg. </steps_updated>
+    <steps_updated num="7">You may have to run a knife around the mug first to ensure that the egg comes loose in one solid piece. </steps_updated>
+    <steps_updated num="8">Toast two frozen waffles. </steps_updated>
+    <steps_updated num="9">After the waffles are toasted, layer 1 waffle, cheese, the cooked sausage patty, eggs, and the remaining waffle. </steps_updated>
+    <steps_updated num="10">Fold the edges of a sheet of aluminum foil down by half an inch (1 cm). </steps_updated>
+    <steps_updated num="11">Place the sandwich in the middle. </steps_updated>
+    <steps_updated num="12">Bring the top and bottom of the edges of the paper together over the center of the sandwich. </steps_updated>
+    <steps_updated num="13">Repeat folding in half-inch (1 cm) turns, creasing each time, until the fold is level with the top of the sandwich. </steps_updated>
+    <steps_updated num="14">Starting on the left side, use your fingers to press the edges into the center to form a pleated triangle. </steps_updated>
+    <steps_updated num="15">Press down and crease the triangle's edges, including at the base of the sandwich, before carefully folding it underneath. </steps_updated>
+    <steps_updated num="16">Repeat this process on the other side of the sandwich. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

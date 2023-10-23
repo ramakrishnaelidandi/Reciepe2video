@@ -1,0 +1,60 @@
+<recipe>
+  <title>Red Wine Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/red-wine-pasta</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/unexpected-cooking-techniques</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 8083 13538 13278 4551 8007 </ingredient>
+    <ingredient num="1">13086 9517 13278 12282 13278 3465 8007 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">8268 643 13278 13402 13278 4563 5981 </ingredient>
+    <ingredient num="4">8580 9486 13278 9924 </ingredient>
+    <ingredient num="5">8580 13667 13278 4155 11161 </ingredient>
+    <ingredient num="6">12791 2605 13278 5607 9656 13278 4239 5981 </ingredient>
+    <ingredient num="7">1580 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="8">2431 109 13810 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80534/hls24_1519324259.m3u8</low>
+    <high>https://vid.tasty.co/output/80534/landscape_720/1519324259</high>
+  </video>
+  <duration>
+    <start_time>111.0</start_time>
+    <end_time>162.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">1083 11951 8083 13538 13817 12282 669 5994 13757 10590 10242 1391 12051 </step>
+    <step num="1">8785 11951 2373 560 5994 1002 13817 740 11951 3125 </step>
+    <step num="2">264 1681 6241 371 11951 8083 13538 9490 7391 5569 11951 5444 1882 12689 </step>
+    <step num="3">12785 11951 950 560 5994 13757 7616 </step>
+    <step num="4">12305 11951 9924 210 11951 5540 10060 11770 13757 2082 9179 11951 4155 5607 9400 13817 8083 7845 13342 </step>
+    <step num="5">264 11951 2260 1681 11951 9924 13860 560 1240 415 740 11951 4466 </step>
+    <step num="6">9393 11951 2260 13817 950 6690 </step>
+    <step num="7">6252 1391 109 4496 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1083 11951 8083 13538 13817 12282 669 5994 13757 10590 </steps_updated>
+    <steps_updated num="1">10242 1391 12051 </steps_updated>
+    <steps_updated num="2">8785 11951 2373 560 5994 1002 13817 740 11951 3125 </steps_updated>
+    <steps_updated num="3">264 1681 6241 371 11951 8083 13538 9490 7391 5569 11951 5444 1882 12689 </steps_updated>
+    <steps_updated num="4">12785 11951 950 560 5994 13757 7616 </steps_updated>
+    <steps_updated num="5">12305 11951 9924 210 11951 5540 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="6">9179 11951 4155 5607 9400 13817 8083 7845 13342 </steps_updated>
+    <steps_updated num="7">264 11951 2260 1681 11951 9924 13860 560 1240 415 740 11951 4466 </steps_updated>
+    <steps_updated num="8">9393 11951 2260 13817 950 6690 </steps_updated>
+    <steps_updated num="9">6252 1391 109 4496 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02711</start_time>
+    <end_time>03893</end_time>
+  </duration_human>
+</recipe>

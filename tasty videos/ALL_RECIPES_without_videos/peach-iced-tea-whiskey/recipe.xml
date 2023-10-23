@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peach Iced Tea Whiskey Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peach-iced-tea-whiskey</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 cups ; boiling water ; (2 L) </ingredient>
+    <ingredient num="1">7 ; black tea bags </ingredient>
+    <ingredient num="2">1 ½ cups ; whiskey ; (355 mL) </ingredient>
+    <ingredient num="3">2 ; fresh peaches, diced </ingredient>
+    <ingredient num="4">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="5">1 cup ; water ; (235 mL) </ingredient>
+    <ingredient num="6">1 ; lemon, juiced </ingredient>
+    <ingredient num="7">1 ; fresh peach, sliced </ingredient>
+    <ingredient num="8">1 ; lemon, sliced </ingredient>
+    <ingredient num="9">fresh mint </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Date Night</category>
+    <category num="6">Game Day</category>
+    <category num="7">Happy Hour</category>
+    <category num="8">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43904/low_1500402792.m3u8</low>
+    <high>https://vid.tasty.co/output/43904/mp4_720x1280/1500402792</high>
+  </video>
+  <steps>
+    <step num="0">In a large pitcher, pour hot water over tea bags letting steep 5 minutes. </step>
+    <step num="1">Bring syrup ingredients to boil, then reduce heat to medium. </step>
+    <step num="2">Strain syrup through a fine strainer to remove fruit pieces. </step>
+    <step num="3">Add syrup and whiskey to tea, then chill until ready to serve. </step>
+    <step num="4">Serve over ice, with sliced peaches, sliced lemons and a mint sprig. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pitcher, pour hot water over tea bags letting steep 5 minutes. </steps_updated>
+    <steps_updated num="1">Bring syrup ingredients to boil, then reduce heat to medium. </steps_updated>
+    <steps_updated num="2">Strain syrup through a fine strainer to remove fruit pieces. </steps_updated>
+    <steps_updated num="3">Add syrup and whiskey to tea, then chill until ready to serve. </steps_updated>
+    <steps_updated num="4">Serve over ice, with sliced peaches, sliced lemons and a mint sprig. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

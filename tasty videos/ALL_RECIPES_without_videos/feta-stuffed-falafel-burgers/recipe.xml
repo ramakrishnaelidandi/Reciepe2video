@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Feta-stuffed Falafel Burgers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/feta-stuffed-falafel-burgers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; chickpeas, skinned ; (400 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="2">1 ; red onion, roughly chopped </ingredient>
+    <ingredient num="3">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="4">1 teaspoon ; harissa paste </ingredient>
+    <ingredient num="5">2 tablespoons ; plain flour </ingredient>
+    <ingredient num="6">fresh parsley, a handful </ingredient>
+    <ingredient num="7">fresh coriander, a handful </ingredient>
+    <ingredient num="8">⅓ cup ; feta cheese ; (50 g) </ingredient>
+    <ingredient num="9">brioche bun </ingredient>
+    <ingredient num="10">gem lettuce </ingredient>
+    <ingredient num="11">tomato </ingredient>
+    <ingredient num="12">salsa </ingredient>
+    <ingredient num="13">coriander </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Greek</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11541/low_1475776311.m3u8</low>
+    <high>https://vid.tasty.co/output/11541/mp4_720x1280/1475776311</high>
+  </video>
+  <steps>
+    <step num="0">Add all the burger ingredients, except for the feta, to a blender and blend until smooth. (Make sure your chickpeas are very dry first!) </step>
+    <step num="1">Divide mixture into four balls, then make an indent in the middle. </step>
+    <step num="2">Place a small block of feta in each indent and roll up again until the feta is completely covered. </step>
+    <step num="3">Fry in sunflower oil for 5 minutes until brown on each side. </step>
+    <step num="4">Add to a burger bun with lettuce, tomato, salsa, and coriander. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all the burger ingredients, except for the feta, to a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">(Make sure your chickpeas are very dry first!) </steps_updated>
+    <steps_updated num="2">Divide mixture into four balls, then make an indent in the middle. </steps_updated>
+    <steps_updated num="3">Place a small block of feta in each indent and roll up again until the feta is completely covered. </steps_updated>
+    <steps_updated num="4">Fry in sunflower oil for 5 minutes until brown on each side. </steps_updated>
+    <steps_updated num="5">Add to a burger bun with lettuce, tomato, salsa, and coriander. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

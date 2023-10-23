@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Corn Dogs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-corn-dogs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; cornmeal ; (140 g) </ingredient>
+    <ingredient num="1">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="2">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="3">4 teaspoons ; baking powder </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">⅛ teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 ; egg </ingredient>
+    <ingredient num="7">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="8">5 ; hot dogs </ingredient>
+    <ingredient num="9">1 tablespoon ; flour </ingredient>
+    <ingredient num="10">1 qt ; vegetable oil, for frying ; (945 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30710/low_1493751321.m3u8</low>
+    <high>https://vid.tasty.co/output/30710/mp4_720x1280/1493751321</high>
+  </video>
+  <steps>
+    <step num="0">In a medium sized mixing bowl, whisk together dry ingredients. </step>
+    <step num="1">Then add the egg and milk. Stir until batter is smooth with no lumps and chill in refrigerator for 25 minutes. </step>
+    <step num="2">Cut the hot dogs into ⅓ pieces and coat in flour to help batter to stick to the dogs. </step>
+    <step num="3">Preheat oil to 350ºF (180ºC). </step>
+    <step num="4">Dunk flour battered hot dogs into corn dog batter by using a fork. Make sure to fully coat the dogs before frying in the oil. </step>
+    <step num="5">Fry at 350ºF (180ºC) for 3-4 minutes or until golden brown. For even cooking use a slotted steel spoon or a pair of tongs to rotate the floating corn dogs. </step>
+    <step num="6">Dry off excess oil with paper towels. </step>
+    <step num="7">Serve with side of veggies or fruit. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium sized mixing bowl, whisk together dry ingredients. </steps_updated>
+    <steps_updated num="1">Then add the egg and milk. </steps_updated>
+    <steps_updated num="2">Stir until batter is smooth with no lumps and chill in refrigerator for 25 minutes. </steps_updated>
+    <steps_updated num="3">Cut the hot dogs into ⅓ pieces and coat in flour to help batter to stick to the dogs. </steps_updated>
+    <steps_updated num="4">Preheat oil to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="5">Dunk flour battered hot dogs into corn dog batter by using a fork. </steps_updated>
+    <steps_updated num="6">Make sure to fully coat the dogs before frying in the oil. </steps_updated>
+    <steps_updated num="7">Fry at 350ºF (180ºC) for 3-4 minutes or until golden brown. </steps_updated>
+    <steps_updated num="8">For even cooking use a slotted steel spoon or a pair of tongs to rotate the floating corn dogs. </steps_updated>
+    <steps_updated num="9">Dry off excess oil with paper towels. </steps_updated>
+    <steps_updated num="10">Serve with side of veggies or fruit. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

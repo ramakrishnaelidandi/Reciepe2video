@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll Waffles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-waffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/waffles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">7 oz ; cinnamon roll dough, 1 tube, with icing ; (400 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51247/low_1504720315.m3u8</low>
+    <high>https://vid.tasty.co/output/51247/mp4_720x1280/1504720315</high>
+  </video>
+  <duration>
+    <start_time>33.57</start_time>
+    <end_time>47.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place 4 cinnamon rolls in a preheated, greased waffle iron. </step>
+    <step num="1">Cook for 2-3 minutes, until golden brown. </step>
+    <step num="2">Serve with the reserved icing. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place 4 cinnamon rolls in a preheated, greased waffle iron. </steps_updated>
+    <steps_updated num="1">Cook for 2-3 minutes, until golden brown. </steps_updated>
+    <steps_updated num="2">Serve with the reserved icing. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01059</start_time>
+    <end_time>01462</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tropical Coconut Smoothie Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tropical-coconut-smoothie-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-beautiful-smoothie-bowls</comp_url>
+  <ingredients>
+    <ingredient num="0">¼ cup ; coconut milk ; (60 g) </ingredient>
+    <ingredient num="1">½ cup ; mango, peeled and cubed ; (80 g) </ingredient>
+    <ingredient num="2">½ cup ; pineapple, peeled and cubed ; (80 g) </ingredient>
+    <ingredient num="3">½ cup ; ice ; (110 g) </ingredient>
+    <ingredient num="4">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31665/low_1494962693.m3u8</low>
+    <high>https://vid.tasty.co/output/31665/mp4_720x1280/1494962693</high>
+  </video>
+  <duration>
+    <start_time>1.79</start_time>
+    <end_time>26.2</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add all the ingredients to a blender and mix on high. </step>
+    <step num="1">Pour into a bowl or half a coconut, and top with desired fruit and other toppings. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all the ingredients to a blender and mix on high. </steps_updated>
+    <steps_updated num="1">Pour into a bowl or half a coconut, and top with desired fruit and other toppings. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00096</start_time>
+    <end_time>00797</end_time>
+  </duration_human>
+</recipe>

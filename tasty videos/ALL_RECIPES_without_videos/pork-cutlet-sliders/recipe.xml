@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pork Cutlet Sliders Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pork-cutlet-sliders</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; pork tenderloin </ingredient>
+    <ingredient num="1">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; pepper </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">1 cup ; plain breadcrumbs ; (115 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; butter </ingredient>
+    <ingredient num="7">2 ; sweet onions, sliced </ingredient>
+    <ingredient num="8">1 cup ; beer ; (235 mL) </ingredient>
+    <ingredient num="9">2 ; lemons, juiced </ingredient>
+    <ingredient num="10">4 slices ; cheese, quartered, we used swiss </ingredient>
+    <ingredient num="11">½ head ; red cabbage, thinly sliced </ingredient>
+    <ingredient num="12">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32112/low_1495125305.m3u8</low>
+    <high>https://vid.tasty.co/output/32112/mp4_720x1280/1495125305</high>
+  </video>
+  <steps>
+    <step num="0">Slice the pork tenderloin into equal medallions, roughly ¼ inch (6 mm). </step>
+    <step num="1">Pound the cutlets thin. Slice into slider size, roughly 3 square inches (7 ½ cm). </step>
+    <step num="2">Mix flour, salt, and pepper in one bowl. Whisk two eggs in another bowl. Pour bread crumbs in the third bowl. </step>
+    <step num="3">Dredge each cutlet in the flour mix, then egg mix, then breadcrumbs. </step>
+    <step num="4">Heat up cooking oil in a large pan. Fry the cutlets until they are golden brown. </step>
+    <step num="5">Set cutlets on a paper towel to remove excess grease. </step>
+    <step num="6">Melt butter in a skillet over medium heat. Add sliced onions and cook until starting to brown. Pour beer and stir occasionally. When the liquid is gone, the onions are ready. </step>
+    <step num="7">Stack your sliders: pork, lemon juice, cheese, onion, sliced red cabbage, pork, and insert a toothpick to hold the slider together. </step>
+    <step num="8">Serve with dressing of choice (optional). </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the pork tenderloin into equal medallions, roughly ¼ inch (6 mm). </steps_updated>
+    <steps_updated num="1">Pound the cutlets thin. </steps_updated>
+    <steps_updated num="2">Slice into slider size, roughly 3 square inches (7 ½ cm). </steps_updated>
+    <steps_updated num="3">Mix flour, salt, and pepper in one bowl. </steps_updated>
+    <steps_updated num="4">Whisk two eggs in another bowl. </steps_updated>
+    <steps_updated num="5">Pour bread crumbs in the third bowl. </steps_updated>
+    <steps_updated num="6">Dredge each cutlet in the flour mix, then egg mix, then breadcrumbs. </steps_updated>
+    <steps_updated num="7">Heat up cooking oil in a large pan. </steps_updated>
+    <steps_updated num="8">Fry the cutlets until they are golden brown. </steps_updated>
+    <steps_updated num="9">Set cutlets on a paper towel to remove excess grease. </steps_updated>
+    <steps_updated num="10">Melt butter in a skillet over medium heat. </steps_updated>
+    <steps_updated num="11">Add sliced onions and cook until starting to brown. </steps_updated>
+    <steps_updated num="12">Pour beer and stir occasionally. </steps_updated>
+    <steps_updated num="13">When the liquid is gone, the onions are ready. </steps_updated>
+    <steps_updated num="14">Stack your sliders: pork, lemon juice, cheese, onion, sliced red cabbage, pork, and insert a toothpick to hold the slider together. </steps_updated>
+    <steps_updated num="15">Serve with dressing of choice (optional). </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

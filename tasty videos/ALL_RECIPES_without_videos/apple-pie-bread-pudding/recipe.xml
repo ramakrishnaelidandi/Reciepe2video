@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Pie Bread Pudding Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-bread-pudding</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 slices ; bread </ingredient>
+    <ingredient num="1">3 ; eggs </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="4">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="5">3 ; granny smith apples, peeled and chopped </ingredient>
+    <ingredient num="6">1 cup ; brown sugar ; (220 g) </ingredient>
+    <ingredient num="7">3 tablespoons ; cornstarch </ingredient>
+    <ingredient num="8">vanilla ice cream </ingredient>
+    <ingredient num="9">caramel sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Fusion</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8421/low_1472567727.m3u8</low>
+    <high>https://vid.tasty.co/output/8421/mp4_720x1280/1472567727</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175°C). </step>
+    <step num="1">Slice the bread into ½ inch (1 cm) cubes. </step>
+    <step num="2">In a large bowl, combine the eggs, milk, vanilla, and cinnamon, stirring until smooth. </step>
+    <step num="3">Add the bread and stir until the bread cubes have evenly absorbed the milk mixture. </step>
+    <step num="4">Spread the bread evenly in a 9-inch (23cm) round baking pan. </step>
+    <step num="5">In a large bowl, combine the apples, brown sugar, and cornstarch, mixing until evenly combined. </step>
+    <step num="6">Spread the apples evenly on top of the bread. </step>
+    <step num="7">Bake for 40 minutes, until edges are brown. </step>
+    <step num="8">Cool, slice, then serve with vanilla ice cream and caramel sauce! </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="1">Slice the bread into ½ inch (1 cm) cubes. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine the eggs, milk, vanilla, and cinnamon, stirring until smooth. </steps_updated>
+    <steps_updated num="3">Add the bread and stir until the bread cubes have evenly absorbed the milk mixture. </steps_updated>
+    <steps_updated num="4">Spread the bread evenly in a 9-inch (23cm) round baking pan. </steps_updated>
+    <steps_updated num="5">In a large bowl, combine the apples, brown sugar, and cornstarch, mixing until evenly combined. </steps_updated>
+    <steps_updated num="6">Spread the apples evenly on top of the bread. </steps_updated>
+    <steps_updated num="7">Bake for 40 minutes, until edges are brown. </steps_updated>
+    <steps_updated num="8">Cool, slice, then serve with vanilla ice cream and caramel sauce! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

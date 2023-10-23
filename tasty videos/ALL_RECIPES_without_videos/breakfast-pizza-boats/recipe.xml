@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Pizza Boats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-pizza-boats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; shredded mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="1">1 cup ; feta cheese, crumbled ; (115 g) </ingredient>
+    <ingredient num="2">1 lb ; pizza dough, divided into 3 portions ; (450 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="4">3 ; eggs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/73343/hls24_1516227821.m3u8</low>
+    <high>https://vid.tasty.co/output/73343/landscape_720/1516227821</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425˚F (220˚C). </step>
+    <step num="1">In a small mixing bowl combine the mozzarella and feta and set aside. </step>
+    <step num="2">On a large floured surface, roll out the pizza dough to an oval roughly 10 inches (25 cm) in length. </step>
+    <step num="3">Transfer the dough to a parchment paper-lined baking sheet. </step>
+    <step num="4">Cover surface of dough with olive oil and spoon on cheese mixture leaving a 1 inch (2 cm) margin around the outside of the dough. </step>
+    <step num="5">Fold in the 1 inch (2 cm) margin creating a crust around the cheese. </step>
+    <step num="6">Brush the crust with egg wash. </step>
+    <step num="7">Bake for 10 minutes. </step>
+    <step num="8">Remove the baking sheet from oven and with a knife spread out some of the melted cheese in the center of the pizza boat and crack an egg into it. </step>
+    <step num="9">Turn down heat to 400˚F (200˚C). </step>
+    <step num="10">Bake for an additional 6-8 minutes. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (220˚C). </steps_updated>
+    <steps_updated num="1">In a small mixing bowl combine the mozzarella and feta and set aside. </steps_updated>
+    <steps_updated num="2">On a large floured surface, roll out the pizza dough to an oval roughly 10 inches (25 cm) in length. </steps_updated>
+    <steps_updated num="3">Transfer the dough to a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="4">Cover surface of dough with olive oil and spoon on cheese mixture leaving a 1 inch (2 cm) margin around the outside of the dough. </steps_updated>
+    <steps_updated num="5">Fold in the 1 inch (2 cm) margin creating a crust around the cheese. </steps_updated>
+    <steps_updated num="6">Brush the crust with egg wash. </steps_updated>
+    <steps_updated num="7">Bake for 10 minutes. </steps_updated>
+    <steps_updated num="8">Remove the baking sheet from oven and with a knife spread out some of the melted cheese in the center of the pizza boat and crack an egg into it. </steps_updated>
+    <steps_updated num="9">Turn down heat to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="10">Bake for an additional 6-8 minutes. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

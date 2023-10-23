@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Mexican Quinoa Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-pot-mexican-quinoa</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-to-pack-vegan-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; quinoa, rinsed ; (170 g) </ingredient>
+    <ingredient num="1">1 ½ cups ; water, or vegetable broth ; (360 mL) </ingredient>
+    <ingredient num="2">1 ¼ cups ; salsa ; (325 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; cumin </ingredient>
+    <ingredient num="4">15 oz ; black beans, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="5">1 cup ; frozen corn, defrosted ; (175 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">olive oil, to taste </ingredient>
+    <ingredient num="8">1 ; avocado, mashed </ingredient>
+    <ingredient num="9">1 clove ; garlic, minced </ingredient>
+    <ingredient num="10">2 teaspoons ; lemon juice </ingredient>
+    <ingredient num="11">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="12">salt, to taste </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+    <ingredient num="14">4 tablespoons ; water </ingredient>
+    <ingredient num="15">tortilla, to serve, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76566/hls24_1517619562.m3u8</low>
+    <high>https://vid.tasty.co/output/76566/landscape_720/1517619562</high>
+  </video>
+  <duration>
+    <start_time>1.0</start_time>
+    <end_time>79.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium saucepan, combine quinoa and water, and bring to a boil over high heat. Reduce heat to low, cover with a lid, and simmer for 10 minutes. </step>
+    <step num="1">Add in salsa and cumin, and cover for 5 more minutes or until quinoa is fluffy. </step>
+    <step num="2">Add in black beans, corn, salt, and olive oil, and stir until combined. </step>
+    <step num="3">For the avocado dressing, combine avocado, garlic, lemon juice, olive oil, salt, and pepper in liquid measuring cup and whisk until smooth. </step>
+    <step num="4">Whisk in water a little bit at a time until desired consistency is reached. 6. For extra smooth consistency, process all ingredients in blender or food processor. </step>
+    <step num="5">Portion out into 4 containers and refrigerate for up to 5 days. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium saucepan, combine quinoa and water, and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="1">Reduce heat to low, cover with a lid, and simmer for 10 minutes. </steps_updated>
+    <steps_updated num="2">Add in salsa and cumin, and cover for 5 more minutes or until quinoa is fluffy. </steps_updated>
+    <steps_updated num="3">Add in black beans, corn, salt, and olive oil, and stir until combined. </steps_updated>
+    <steps_updated num="4">For the avocado dressing, combine avocado, garlic, lemon juice, olive oil, salt, and pepper in liquid measuring cup and whisk until smooth. </steps_updated>
+    <steps_updated num="5">Whisk in water a little bit at a time until desired consistency is reached. </steps_updated>
+    <steps_updated num="6">6. </steps_updated>
+    <steps_updated num="7">For extra smooth consistency, process all ingredients in blender or food processor. </steps_updated>
+    <steps_updated num="8">Portion out into 4 containers and refrigerate for up to 5 days. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00058</start_time>
+    <end_time>01927</end_time>
+  </duration_human>
+</recipe>

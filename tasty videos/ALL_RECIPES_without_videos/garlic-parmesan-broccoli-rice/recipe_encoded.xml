@@ -1,0 +1,51 @@
+<recipe>
+  <title>Garlic Parmesan Broccoli Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-parmesan-broccoli-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-rice-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 3173 13278 8741 3962 </ingredient>
+    <ingredient num="1">3917 14014 13278 8224 7632 371 4153 5895 12282 </ingredient>
+    <ingredient num="2">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="3">1580 8071 13278 82 </ingredient>
+    <ingredient num="4">1580 8071 13278 7845 </ingredient>
+    <ingredient num="5">8580 9486 13278 2431 109 13810 7789 3954 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/54054/low_1506622144.m3u8</low>
+    <high>https://vid.tasty.co/output/54054/mp4_720x1280/1506622144</high>
+  </video>
+  <duration>
+    <start_time>0.8999999999999999</start_time>
+    <end_time>28.25</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 8016 5349 8287 11951 2340 4772 13817 856 1681 6665 3313 12313 13218 7751 7799 </step>
+    <step num="1">10950 5687 11770 13757 14307 740 5766 13817 11384 13817 2550 7990 6285 238 773 </step>
+    <step num="2">9179 6521 8741 12610 13817 10986 13817 2550 2933 11004 5895 1681 14371 </step>
+    <step num="3">9179 3220 13817 6142 560 1011 </step>
+    <step num="4">12774 1391 5994 1678 371 10226 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 8016 5349 8287 11951 2340 4772 13817 856 1681 6665 3313 12313 13218 7751 7799 </steps_updated>
+    <steps_updated num="1">10950 5687 11770 13757 14307 740 5766 13817 11384 13817 2550 7990 6285 238 773 </steps_updated>
+    <steps_updated num="2">9179 6521 8741 12610 13817 10986 13817 2550 2933 11004 5895 1681 14371 </steps_updated>
+    <steps_updated num="3">9179 3220 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="4">12774 1391 5994 1678 371 10226 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00080</start_time>
+    <end_time>00855</end_time>
+  </duration_human>
+</recipe>

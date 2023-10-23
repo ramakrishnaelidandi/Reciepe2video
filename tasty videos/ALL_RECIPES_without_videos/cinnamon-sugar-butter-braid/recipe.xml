@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Sugar Butter Braid Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-sugar-butter-braid</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">pizza dough </ingredient>
+    <ingredient num="1">butter, softened </ingredient>
+    <ingredient num="2">cinnamon, to taste </ingredient>
+    <ingredient num="3">sugar, to taste </ingredient>
+    <ingredient num="4">egg wash, as needed </ingredient>
+    <ingredient num="5">powdered sugar, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32156/low_1495125391.m3u8</low>
+    <high>https://vid.tasty.co/output/32156/mp4_720x1280/1495125391</high>
+  </video>
+  <steps>
+    <step num="0">Lay your pizza dough flat on your work surface. Spread softened butter all over the dough, then sprinkle with cinnamon and sugar. </step>
+    <step num="1">Roll up the dough, split down the middle, and twist one half over the other with the layers exposed. Twist and join the dough into a circle. </step>
+    <step num="2">Place on parchment paper, brush on egg wash, and sprinkle more sugar on top. </step>
+    <step num="3">Bake at 350°F (180°C) for 40 to 45 minutes. </step>
+    <step num="4">Let the braid cool for a bit before dusting with powdered sugar. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Lay your pizza dough flat on your work surface. </steps_updated>
+    <steps_updated num="1">Spread softened butter all over the dough, then sprinkle with cinnamon and sugar. </steps_updated>
+    <steps_updated num="2">Roll up the dough, split down the middle, and twist one half over the other with the layers exposed. </steps_updated>
+    <steps_updated num="3">Twist and join the dough into a circle. </steps_updated>
+    <steps_updated num="4">Place on parchment paper, brush on egg wash, and sprinkle more sugar on top. </steps_updated>
+    <steps_updated num="5">Bake at 350°F (180°C) for 40 to 45 minutes. </steps_updated>
+    <steps_updated num="6">Let the braid cool for a bit before dusting with powdered sugar. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

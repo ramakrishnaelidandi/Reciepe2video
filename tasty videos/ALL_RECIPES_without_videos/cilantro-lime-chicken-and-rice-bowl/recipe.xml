@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cilantro-Lime Chicken And Rice Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cilantro-lime-chicken-and-rice-bowl</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-5</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ cup ; brown rice, cooked ; (195 g) </ingredient>
+    <ingredient num="1">½ cup ; rotisserie chicken, shredded ; (60 g) </ingredient>
+    <ingredient num="2">1 cup ; vegetable, roasted ; (225 g) </ingredient>
+    <ingredient num="3">¼ cup ; pico de gallo ; (45 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; plain yogurt </ingredient>
+    <ingredient num="5">2 tablespoons ; fresh cilantro, chopped </ingredient>
+    <ingredient num="6">1 wedge ; lime </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94370/hls24_1526501033.m3u8</low>
+    <high>https://vid.tasty.co/output/94370/landscape_720/1526501033</high>
+  </video>
+  <duration>
+    <start_time>63.0</start_time>
+    <end_time>91.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place the brown rice, shredded chicken, roasted vegetables, pico de gallo, and yogurt in a bowl or resealable container. Garnish with chopped cilantro and the lime wedge. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the brown rice, shredded chicken, roasted vegetables, pico de gallo, and yogurt in a bowl or resealable container. </steps_updated>
+    <steps_updated num="1">Garnish with chopped cilantro and the lime wedge. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

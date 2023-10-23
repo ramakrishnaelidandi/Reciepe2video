@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Queso Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-queso</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; raw cashew ; (130 g) </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">½ ; white onion, diced </ingredient>
+    <ingredient num="3">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">2 ; carrots, sliced </ingredient>
+    <ingredient num="5">1 ; serrano pepper, or jalapeño pepper, seeded and sliced </ingredient>
+    <ingredient num="6">½ teaspoon ; cumin </ingredient>
+    <ingredient num="7">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="8">½ cup ; vegetable stock ; (120 mL) </ingredient>
+    <ingredient num="9">⅓ cup ; nutritional yeast ; (20 g) </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">black pepper, to taste </ingredient>
+    <ingredient num="12">1 cup ; non-dairy milk ; (235 mL) </ingredient>
+    <ingredient num="13">fresh cilantro, to garnish </ingredient>
+    <ingredient num="14">tortilla chips, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Date Night</category>
+    <category num="8">Game Day</category>
+    <category num="9">Casual Party</category>
+    <category num="10">BBQ</category>
+    <category num="11">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46322/low_1501881909.m3u8</low>
+    <high>https://vid.tasty.co/output/46322/mp4_720x1280/1501881909</high>
+  </video>
+  <steps>
+    <step num="0">Add cashews to a small bowl and cover with boiling water and soak for 1 hour. </step>
+    <step num="1">Heat olive oil in a pan over medium heat. Add onion and garlic, and cook until the garlic is fragrant and the onion begins to soften, about 2 minutes. </step>
+    <step num="2">Add carrots and chiles. Continue to cook for an additional 3-4 minutes, or until the onions are translucent and the chiles are tender. </step>
+    <step num="3">Add cumin and chili powders, and stir well to coat the vegetables. </step>
+    <step num="4">Increase heat to medium-high and add the vegetable stock. Bring to a simmer before covering and cooking for 15 minutes. </step>
+    <step num="5">Once the carrots are tender, transfer to a blender. </step>
+    <step num="6">Add the soaked cashews, nutritional yeast, salt, pepper, and milk alternative to the blender on top of the sautéed vegetables. Puree until smooth and creamy, adding more milk alternative to adjust the consistency if necessary. </step>
+    <step num="7">Pour mixture into a shallow bowl or serving dish. </step>
+    <step num="8">Garnish with additional chiles and freshly chopped cilantro. Serve with tortilla chips. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add cashews to a small bowl and cover with boiling water and soak for 1 hour. </steps_updated>
+    <steps_updated num="1">Heat olive oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="2">Add onion and garlic, and cook until the garlic is fragrant and the onion begins to soften, about 2 minutes. </steps_updated>
+    <steps_updated num="3">Add carrots and chiles. </steps_updated>
+    <steps_updated num="4">Continue to cook for an additional 3-4 minutes, or until the onions are translucent and the chiles are tender. </steps_updated>
+    <steps_updated num="5">Add cumin and chili powders, and stir well to coat the vegetables. </steps_updated>
+    <steps_updated num="6">Increase heat to medium-high and add the vegetable stock. </steps_updated>
+    <steps_updated num="7">Bring to a simmer before covering and cooking for 15 minutes. </steps_updated>
+    <steps_updated num="8">Once the carrots are tender, transfer to a blender. </steps_updated>
+    <steps_updated num="9">Add the soaked cashews, nutritional yeast, salt, pepper, and milk alternative to the blender on top of the sautéed vegetables. </steps_updated>
+    <steps_updated num="10">Puree until smooth and creamy, adding more milk alternative to adjust the consistency if necessary. </steps_updated>
+    <steps_updated num="11">Pour mixture into a shallow bowl or serving dish. </steps_updated>
+    <steps_updated num="12">Garnish with additional chiles and freshly chopped cilantro. </steps_updated>
+    <steps_updated num="13">Serve with tortilla chips. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

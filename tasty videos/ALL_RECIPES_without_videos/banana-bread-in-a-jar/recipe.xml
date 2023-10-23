@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Bread In A Jar Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-bread-in-a-jar</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/clever-mason-jar-hacks</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick spray, or oil of choice </ingredient>
+    <ingredient num="1">3 ; ripe bananas </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">½ cup ; plain greek yogurt ; (120 g) </ingredient>
+    <ingredient num="4">⅓ cup ; honey ; (115 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="6">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="7">1 ½ cups ; wheat flour ; (185 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50560/low_1504212116.m3u8</low>
+    <high>https://vid.tasty.co/output/50560/mp4_720x1280/1504212116</high>
+  </video>
+  <duration>
+    <start_time>101.3</start_time>
+    <end_time>126.73</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">Prepare six pint-sized mason jars with nonstick spray or oil of choice to prevent sticking. </step>
+    <step num="2">In a medium bowl, mash bananas. Mix eggs, yogurt, honey, vanilla extract, and baking soda into mixture. </step>
+    <step num="3">Add flour and mix until just combined. </step>
+    <step num="4">Pour the batter into the mason jars, filling half of each jar. Do not add the lids. </step>
+    <step num="5">Bake for 50 mins, or until a toothpick comes out clean from the middle of the bread. </step>
+    <step num="6">Allow to cool for 15 minutes before serving. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Prepare six pint-sized mason jars with nonstick spray or oil of choice to prevent sticking. </steps_updated>
+    <steps_updated num="2">In a medium bowl, mash bananas. </steps_updated>
+    <steps_updated num="3">Mix eggs, yogurt, honey, vanilla extract, and baking soda into mixture. </steps_updated>
+    <steps_updated num="4">Add flour and mix until just combined. </steps_updated>
+    <steps_updated num="5">Pour the batter into the mason jars, filling half of each jar. </steps_updated>
+    <steps_updated num="6">Do not add the lids. </steps_updated>
+    <steps_updated num="7">Bake for 50 mins, or until a toothpick comes out clean from the middle of the bread. </steps_updated>
+    <steps_updated num="8">Allow to cool for 15 minutes before serving. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03085</start_time>
+    <end_time>03850</end_time>
+  </duration_human>
+</recipe>

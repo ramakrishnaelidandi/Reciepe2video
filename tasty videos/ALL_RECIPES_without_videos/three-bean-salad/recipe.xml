@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Three Bean Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/three-bean-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; red onion </ingredient>
+    <ingredient num="1">½ ; large english cucumber </ingredient>
+    <ingredient num="2">½ cup ; fresh parsley </ingredient>
+    <ingredient num="3">15 oz ; chickpeas, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="4">15 oz ; kidney bean, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="5">15 oz ; cannellini bean, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="6">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="7">¼ cup ; red wine vinegar ; (60 mL) </ingredient>
+    <ingredient num="8">½ teaspoon ; dried oregano </ingredient>
+    <ingredient num="9">½ teaspoon ; salt </ingredient>
+    <ingredient num="10">¼ teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93478/hls24_1525975986.m3u8</low>
+    <high>https://vid.tasty.co/output/93478/landscape_720/1525975986</high>
+  </video>
+  <steps>
+    <step num="0">Thinly slice the red onion and add to a large bowl. </step>
+    <step num="1">Quarter the cucumber, remove the seeds and dice, then add to the bowl with the red onion. </step>
+    <step num="2">Use a fork to remove the leaves from the parsley, then finely chop and add to the bowl. </step>
+    <step num="3">Add the chickpeas, kidney beans, and cannellini beans to the bowl. </step>
+    <step num="4">In a liquid measuring cup or small bowl, combine the olive oil, red wine vinegar, oregano, salt, and pepper, and whisk together. </step>
+    <step num="5">Pour the dressing over the salad and mix well until evenly distributed. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Thinly slice the red onion and add to a large bowl. </steps_updated>
+    <steps_updated num="1">Quarter the cucumber, remove the seeds and dice, then add to the bowl with the red onion. </steps_updated>
+    <steps_updated num="2">Use a fork to remove the leaves from the parsley, then finely chop and add to the bowl. </steps_updated>
+    <steps_updated num="3">Add the chickpeas, kidney beans, and cannellini beans to the bowl. </steps_updated>
+    <steps_updated num="4">In a liquid measuring cup or small bowl, combine the olive oil, red wine vinegar, oregano, salt, and pepper, and whisk together. </steps_updated>
+    <steps_updated num="5">Pour the dressing over the salad and mix well until evenly distributed. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

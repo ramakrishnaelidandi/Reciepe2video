@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chicken Ring Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chicken-ring</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ½ cups ; cooked chicken, shredded ; (375 g) </ingredient>
+    <ingredient num="1">1 cup ; red onion, diced ; (150 g) </ingredient>
+    <ingredient num="2">1 cup ; BBQ sauce ; (290 g) </ingredient>
+    <ingredient num="3">1 cup ; mozzarella cheese ; (115 g) </ingredient>
+    <ingredient num="4">16 pieces ; crescent dough, 2 cans </ingredient>
+    <ingredient num="5">ranch dressing, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">BBQ</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12398/low_1476831393.m3u8</low>
+    <high>https://vid.tasty.co/output/12398/mp4_720x1280/1476831393</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375˚F (170˚C). </step>
+    <step num="1">In a large bowl, combine shredded chicken, red onion, and BBQ sauce. </step>
+    <step num="2">Place a small bowl, filled with mozzarella cheese, in the middle of a greased baking pan and arrange crescent dough triangles around the bowl with the smallest angle on the outside. </step>
+    <step num="3">Sprinkle ½ of the cheese along the inside of the ring and spoon BBQ chicken mixture on top of the cheese, also in a circular shape. Top with the rest of the mozzarella. </step>
+    <step num="4">Lay the top of the triangle over the filling and repeat until the all of the triangles have been wrapped around the filling. </step>
+    <step num="5">Bake for 25 minutes or until golden brown. </step>
+    <step num="6">Cut into pieces and serve with choice dressing in a bowl in the middle. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375˚F (170˚C). </steps_updated>
+    <steps_updated num="1">In a large bowl, combine shredded chicken, red onion, and BBQ sauce. </steps_updated>
+    <steps_updated num="2">Place a small bowl, filled with mozzarella cheese, in the middle of a greased baking pan and arrange crescent dough triangles around the bowl with the smallest angle on the outside. </steps_updated>
+    <steps_updated num="3">Sprinkle ½ of the cheese along the inside of the ring and spoon BBQ chicken mixture on top of the cheese, also in a circular shape. </steps_updated>
+    <steps_updated num="4">Top with the rest of the mozzarella. </steps_updated>
+    <steps_updated num="5">Lay the top of the triangle over the filling and repeat until the all of the triangles have been wrapped around the filling. </steps_updated>
+    <steps_updated num="6">Bake for 25 minutes or until golden brown. </steps_updated>
+    <steps_updated num="7">Cut into pieces and serve with choice dressing in a bowl in the middle. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

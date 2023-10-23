@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Chicken Fajitas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-chicken-fajitas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="1">1 ; yellow bell pepper, sliced </ingredient>
+    <ingredient num="2">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="3">1 ; yellow onion, sliced </ingredient>
+    <ingredient num="4">2 lb ; boneless, skinless chicken breast, cut in half ; (910 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; taco seasoning </ingredient>
+    <ingredient num="6">4 cloves ; garlic, diced </ingredient>
+    <ingredient num="7">1 ; lime </ingredient>
+    <ingredient num="8">10 oz ; canned diced tomatoes with green chiles, drained ; (285 g) </ingredient>
+    <ingredient num="9">flour tortilla </ingredient>
+    <ingredient num="10">cheese, optional </ingredient>
+    <ingredient num="11">sour cream, optional </ingredient>
+    <ingredient num="12">guacamole, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31988/low_1495124959.m3u8</low>
+    <high>https://vid.tasty.co/output/31988/mp4_720x1280/1495124959</high>
+  </video>
+  <steps>
+    <step num="0">Add half of the sliced peppers and onions to your slow cooker. </step>
+    <step num="1">Layer the chicken and coat all sides with taco seasoning. </step>
+    <step num="2">Top with garlic, the juice from one lime, and tomatoes (be sure to drain). </step>
+    <step num="3">Add the remaining peppers and onions, cover and any remaining lime juice. </step>
+    <step num="4">Cook on high for 3-4 hours. </step>
+    <step num="5">Remove chicken and cut/shred into slices (chicken left longer will tend to shred more - cook to your preference). </step>
+    <step num="6">Return the sliced chicken to the slow cooker to marinate in the juices for about 10 more minutes (on LOW) until ready to serve. </step>
+    <step num="7">NOTE: If you find that there is too much liquid, you can remove till there is a desired amount before serving. </step>
+    <step num="8">Assemble Fajitas to your liking - we recommend topping with cheese, sour cream, and guacamole! </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add half of the sliced peppers and onions to your slow cooker. </steps_updated>
+    <steps_updated num="1">Layer the chicken and coat all sides with taco seasoning. </steps_updated>
+    <steps_updated num="2">Top with garlic, the juice from one lime, and tomatoes (be sure to drain). </steps_updated>
+    <steps_updated num="3">Add the remaining peppers and onions, cover and any remaining lime juice. </steps_updated>
+    <steps_updated num="4">Cook on high for 3-4 hours. </steps_updated>
+    <steps_updated num="5">Remove chicken and cut/shred into slices (chicken left longer will tend to shred more - cook to your preference). </steps_updated>
+    <steps_updated num="6">Return the sliced chicken to the slow cooker to marinate in the juices for about 10 more minutes (on LOW) until ready to serve. </steps_updated>
+    <steps_updated num="7">NOTE: If you find that there is too much liquid, you can remove till there is a desired amount before serving. </steps_updated>
+    <steps_updated num="8">Assemble Fajitas to your liking - we recommend topping with cheese, sour cream, and guacamole! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

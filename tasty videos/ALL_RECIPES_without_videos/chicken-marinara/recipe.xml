@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Marinara Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-marinara</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/back-to-school-lunch-prep</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; rotini pasta, cooked ; (100 g) </ingredient>
+    <ingredient num="1">¼ cup ; rotisserie chicken, shredded ; (30 g) </ingredient>
+    <ingredient num="2">¼ cup ; marinara pasta sauce ; (65 g) </ingredient>
+    <ingredient num="3">1 ; bell pepper, sliced </ingredient>
+    <ingredient num="4">1 ; apple </ingredient>
+    <ingredient num="5">1 ; juice box, frozen </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46650/low_1502234080.m3u8</low>
+    <high>https://vid.tasty.co/output/46650/mp4_720x1280/1502234080</high>
+  </video>
+  <duration>
+    <start_time>59.0</start_time>
+    <end_time>91.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat up rotisserie chicken and marinara sauce. </step>
+    <step num="1">Place cooked pasta in a thermos followed by hot chicken and marinara sauce. </step>
+    <step num="2">Shake to mix and place in lunch box along with sliced bell peppers. </step>
+    <step num="3">Slice an apple and reassemble slices around the core. Wrap with a rubber band to prevent browning. </step>
+    <step num="4">Pack bento box in the lunchbox with a frozen juice box and a fork. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat up rotisserie chicken and marinara sauce. </steps_updated>
+    <steps_updated num="1">Place cooked pasta in a thermos followed by hot chicken and marinara sauce. </steps_updated>
+    <steps_updated num="2">Shake to mix and place in lunch box along with sliced bell peppers. </steps_updated>
+    <steps_updated num="3">Slice an apple and reassemble slices around the core. </steps_updated>
+    <steps_updated num="4">Wrap with a rubber band to prevent browning. </steps_updated>
+    <steps_updated num="5">Pack bento box in the lunchbox with a frozen juice box and a fork. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01832</start_time>
+    <end_time>02741</end_time>
+  </duration_human>
+</recipe>

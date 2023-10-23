@@ -1,0 +1,38 @@
+<recipe>
+  <title>Meatball Sub Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatball-sub-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 8134 13278 10912 5585 </ingredient>
+    <ingredient num="1">3917 7051 13278 9122 2260 </ingredient>
+    <ingredient num="2">11598 13278 11579 1459 13391 </ingredient>
+    <ingredient num="3">8580 9517 13278 3333 10865 14538 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32066/low_1495125014.m3u8</low>
+    <high>https://vid.tasty.co/output/32066/mp4_720x1280/1495125014</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 9477 11454 </step>
+    <step num="1">14100 10763 10912 5585 669 6735 13637 5570 210 5994 2362 13444 2985 10923 1645 10765 6325 </step>
+    <step num="2">1083 4255 11951 7280 13817 6142 560 6798 8554 10860 371 11951 4522 </step>
+    <step num="3">5570 11951 13391 4255 10707 371 11951 10665 </step>
+    <step num="4">13494 1391 11951 3333 13810 13817 10903 7990 50 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9477 11454 </steps_updated>
+    <steps_updated num="1">14100 10763 10912 5585 669 6735 13637 </steps_updated>
+    <steps_updated num="2">5570 210 5994 2362 13444 2985 10923 1645 10765 6325 </steps_updated>
+    <steps_updated num="3">1083 4255 11951 7280 13817 6142 560 6798 8554 10860 371 11951 4522 </steps_updated>
+    <steps_updated num="4">5570 11951 13391 4255 10707 371 11951 10665 </steps_updated>
+    <steps_updated num="5">13494 1391 11951 3333 13810 13817 10903 7990 50 12689 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

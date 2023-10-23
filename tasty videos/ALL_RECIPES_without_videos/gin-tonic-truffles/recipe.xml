@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>gin and tonic truffles</title>
+  <url>https://tasty.co/recipe/gin-tonic-truffles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/delectable-truffles</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; dark chocolate ; (200 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; double cream </ingredient>
+    <ingredient num="2">2 tablespoons ; gin </ingredient>
+    <ingredient num="3">1 tablespoon ; tonic water </ingredient>
+    <ingredient num="4">½ lime ; lime juice </ingredient>
+    <ingredient num="5">½ lime ; lime zest </ingredient>
+    <ingredient num="6">10 teaspoons ; butter </ingredient>
+    <ingredient num="7">1 cup ; white chocolate, melted ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Desserts</category>
+    <category num="1">Casual Party</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118132/hls24_1543950282.m3u8</low>
+    <high>https://vid.tasty.co/output/118132/landscape_720/1543950282</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Place a large heatproof bowl over a pan of simmering water. Add the dark chocolate and double cream, melting and mixing completely. </step>
+    <step num="1">Add the gin, tonic, lime juice, lime zest, and butter, and mix. Remove from heat and refrigerate for 3 hours, or overnight. </step>
+    <step num="2">Use a melon baller or spoon to scoop out the truffle mixture and shape into small balls. Freeze for 30 minutes. </step>
+    <step num="3">Using a fork, dip the frozen truffle balls into melted white chocolate to coat. Drizzle with more white chocolate, and sprinkle with lime zest. Refrigerate for 30 minutes, or until solid. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place a large heatproof bowl over a pan of simmering water. </steps_updated>
+    <steps_updated num="1">Add the dark chocolate and double cream, melting and mixing completely. </steps_updated>
+    <steps_updated num="2">Add the gin, tonic, lime juice, lime zest, and butter, and mix. </steps_updated>
+    <steps_updated num="3">Remove from heat and refrigerate for 3 hours, or overnight. </steps_updated>
+    <steps_updated num="4">Use a melon baller or spoon to scoop out the truffle mixture and shape into small balls. </steps_updated>
+    <steps_updated num="5">Freeze for 30 minutes. </steps_updated>
+    <steps_updated num="6">Using a fork, dip the frozen truffle balls into melted white chocolate to coat. </steps_updated>
+    <steps_updated num="7">Drizzle with more white chocolate, and sprinkle with lime zest. </steps_updated>
+    <steps_updated num="8">Refrigerate for 30 minutes, or until solid. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00804</start_time>
+    <end_time>02002</end_time>
+  </duration_human>
+</recipe>

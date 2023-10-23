@@ -1,0 +1,49 @@
+<recipe>
+  <title>Snowball Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/snowball-cookies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-tasty-gift-ideas-for-holiday-seasons</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 13271 13278 6898 5981 </ingredient>
+    <ingredient num="1">8580 12791 9517 13278 890 13278 2718 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="3">8580 12401 13278 10907 564 </ingredient>
+    <ingredient num="4">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="5">8580 9517 13278 6885 4834 13278 7503 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indulgent Sweets</category>
+    <category num="1">Bakery Goods</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67159/hls24_1513018969.m3u8</low>
+    <high>https://vid.tasty.co/output/67159/landscape_720/1513018969</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>59.12</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 1346 10164 </step>
+    <step num="1">5570 11951 13271 210 5994 5960 12854 13817 11003 5994 11526 880 560 4455 3755 1681 4999 </step>
+    <step num="2">10950 5994 2597 14511 4120 5614 5432 6467 6145 564 10907 1319 13817 10968 1391 5994 10258 7700 1681 3145 4309 </step>
+    <step num="3">7692 11951 8337 669 3903 4762 6973 702 </step>
+    <step num="4">7831 7990 1491 11004 1681 11951 551 371 11951 8992 9490 4721 2147 </step>
+    <step num="5">4829 11951 8992 12573 8161 13981 5068 6885 4834 11770 11951 3116 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 1346 10164 </steps_updated>
+    <steps_updated num="1">5570 11951 13271 210 5994 5960 12854 13817 11003 5994 11526 880 560 4455 3755 1681 4999 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 4120 5614 5432 6467 6145 564 10907 1319 13817 10968 1391 5994 10258 7700 1681 3145 4309 </steps_updated>
+    <steps_updated num="3">7692 11951 8337 669 3903 4762 6973 702 </steps_updated>
+    <steps_updated num="4">7831 7990 1491 11004 1681 11951 551 371 11951 8992 9490 4721 2147 </steps_updated>
+    <steps_updated num="5">4829 11951 8992 12573 8161 13981 5068 6885 4834 11770 11951 3116 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00077</start_time>
+    <end_time>01502</end_time>
+  </duration_human>
+</recipe>

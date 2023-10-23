@@ -1,0 +1,45 @@
+<recipe>
+  <title>Horchata Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/horchata-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 11948 14502 13278 9494 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 976 9169 13278 2264 5981 </ingredient>
+    <ingredient num="2">1580 8071 13278 11088 12425 </ingredient>
+    <ingredient num="3">1580 14014 13278 1319 10937 </ingredient>
+    <ingredient num="4">409 643 13278 12385 5802 13278 11904 8007 </ingredient>
+    <ingredient num="5">3917 1580 9517 13278 638 5802 13278 1536 8007 </ingredient>
+    <ingredient num="6">4061 9517 13278 12282 13278 10187 1767 </ingredient>
+    <ingredient num="7">11061 643 13278 3063 5802 13278 7642 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Desserts</category>
+    <category num="2">Casual Party</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94896/hls24_1526678129.m3u8</low>
+    <high>https://vid.tasty.co/output/94896/landscape_720/1526678129</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 6212 4120 11948 13969 13817 3917 12425 9716 3262 1681 7706 9490 644 14339 8857 12785 7706 2373 560 14511 12221 210 12282 14490 5895 7811 767 13086 14329 </step>
+    <step num="1">8845 7706 2373 13817 10480 2019 10950 5994 6212 4120 7706 2373 13817 12385 9529 3262 1681 12119 8845 6464 9546 7346 4728 283 210 3063 5802 13817 12048 9179 638 5802 13817 8276 7706 2019 </step>
+    <step num="2">1083 12929 669 5298 13891 13855 7990 11061 12721 5895 1681 2681 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 6212 4120 11948 13969 13817 3917 12425 9716 </steps_updated>
+    <steps_updated num="1">3262 1681 7706 9490 644 14339 8857 </steps_updated>
+    <steps_updated num="2">12785 7706 2373 560 14511 12221 210 12282 14490 5895 7811 767 13086 14329 </steps_updated>
+    <steps_updated num="3">8845 7706 2373 13817 10480 2019 </steps_updated>
+    <steps_updated num="4">10950 5994 6212 4120 7706 2373 13817 12385 9529 </steps_updated>
+    <steps_updated num="5">3262 1681 12119 </steps_updated>
+    <steps_updated num="6">8845 6464 9546 7346 4728 </steps_updated>
+    <steps_updated num="7">283 210 3063 5802 13817 12048 </steps_updated>
+    <steps_updated num="8">9179 638 5802 13817 8276 7706 2019 </steps_updated>
+    <steps_updated num="9">1083 12929 669 5298 13891 </steps_updated>
+    <steps_updated num="10">13855 7990 11061 12721 5895 1681 2681 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Prime Rib Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/prime-rib</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 lb ; prime rib, bones removed and tied back to the roast ; (3.5 kg) </ingredient>
+    <ingredient num="1">kosher salt, to salt </ingredient>
+    <ingredient num="2">freshly ground black pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+    <category num="1">Date Night</category>
+    <category num="2">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/118814/hls24_1544219853.m3u8</low>
+    <high>https://vid.tasty.co/output/118814/landscape_720/1544219853</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, thoroughly blot the prime rib with paper towels to absorb any moisture. </step>
+    <step num="1">Generously season the prime rib all over with salt and pepper. </step>
+    <step num="2">Place the prime rib in dish with tall sides and set in the refrigerator uncovered to rest for at least 2-4 hours, or overnight. </step>
+    <step num="3">Transfer the prime rib to a roasting rack set inside a roasting pan and let come to room temperature for 1 hour before roasting. </step>
+    <step num="4">Preheat the oven to 450˚F (230˚C). </step>
+    <step num="5">Roast the prime rib for 30 minutes. </step>
+    <step num="6">Reduce the oven temperature to 325˚F (160˚C). </step>
+    <step num="7">Continue roasting the rib for 11 minutes per pound, until the internal temperature of the roast reaches 120˚F-125˚F (45-50˚C), for medium rare. </step>
+    <step num="8">Remove the rib from the oven, tent with foil, and let rest for 30 minutes. </step>
+    <step num="9">Transfer the roast to a cutting board and carve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, thoroughly blot the prime rib with paper towels to absorb any moisture. </steps_updated>
+    <steps_updated num="1">Generously season the prime rib all over with salt and pepper. </steps_updated>
+    <steps_updated num="2">Place the prime rib in dish with tall sides and set in the refrigerator uncovered to rest for at least 2-4 hours, or overnight. </steps_updated>
+    <steps_updated num="3">Transfer the prime rib to a roasting rack set inside a roasting pan and let come to room temperature for 1 hour before roasting. </steps_updated>
+    <steps_updated num="4">Preheat the oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="5">Roast the prime rib for 30 minutes. </steps_updated>
+    <steps_updated num="6">Reduce the oven temperature to 325˚F (160˚C). </steps_updated>
+    <steps_updated num="7">Continue roasting the rib for 11 minutes per pound, until the internal temperature of the roast reaches 120˚F-125˚F (45-50˚C), for medium rare. </steps_updated>
+    <steps_updated num="8">Remove the rib from the oven, tent with foil, and let rest for 30 minutes. </steps_updated>
+    <steps_updated num="9">Transfer the roast to a cutting board and carve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

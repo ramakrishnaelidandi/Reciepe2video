@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy White Bean Chili Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-white-bean-chili</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; yellow onion, chopped </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">1 can ; great northern beans </ingredient>
+    <ingredient num="3">4 cloves ; garlic, finely minced </ingredient>
+    <ingredient num="4">2 teaspoons ; cumin </ingredient>
+    <ingredient num="5">¼ teaspoon ; ground cloves </ingredient>
+    <ingredient num="6">1 ½ teaspoons ; dried oregano </ingredient>
+    <ingredient num="7">½ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="8">1 cup ; mild green chillis, 2 - 4oz (115 g) cans ; (230 g) </ingredient>
+    <ingredient num="9">3 cups ; veggie broth ; (720 g) </ingredient>
+    <ingredient num="10">1 teaspoon ; salt, or to taste </ingredient>
+    <ingredient num="11">½ teaspoon ; pepper </ingredient>
+    <ingredient num="12">2 tablespoons ; fresh parsley </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Vegan</category>
+    <category num="7">Vegetarian</category>
+    <category num="8">Dinner</category>
+    <category num="9">Casual Party</category>
+    <category num="10">Weeknight</category>
+    <category num="11">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32234/low_1495125495.m3u8</low>
+    <high>https://vid.tasty.co/output/32234/mp4_720x1280/1495125495</high>
+  </video>
+  <steps>
+    <step num="0">In a slow cooker, combine all ingredients except the parsley. </step>
+    <step num="1">Set to low heat for 8-10 hours. Keep in mind that the longer you cook, the spicier the chili will become! (Adjust the amount of chilis accordingly) </step>
+    <step num="2">Sprinkle parsley over top, and stir. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a slow cooker, combine all ingredients except the parsley. </steps_updated>
+    <steps_updated num="1">Set to low heat for 8-10 hours. </steps_updated>
+    <steps_updated num="2">Keep in mind that the longer you cook, the spicier the chili will become! </steps_updated>
+    <steps_updated num="3">(Adjust the amount of chilis accordingly) </steps_updated>
+    <steps_updated num="4">Sprinkle parsley over top, and stir. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

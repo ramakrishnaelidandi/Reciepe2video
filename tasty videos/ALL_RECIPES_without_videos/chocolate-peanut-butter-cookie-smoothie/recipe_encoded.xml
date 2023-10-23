@@ -1,0 +1,45 @@
+<recipe>
+  <title>Chocolate Peanut Butter Cookie Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peanut-butter-cookie-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/portable-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">1813 2605 13278 12060 803 6172 13278 4239 5981 </ingredient>
+    <ingredient num="1">8580 2031 13278 9053 11703 </ingredient>
+    <ingredient num="2">8580 9486 13278 8988 10907 371 12313 6507 </ingredient>
+    <ingredient num="3">3917 1580 13278 11579 4850 </ingredient>
+    <ingredient num="4">3591 2605 13278 9889 371 12313 6507 13278 8178 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102123/hls24_1531775108.m3u8</low>
+    <high>https://vid.tasty.co/output/102123/landscape_720/1531775108</high>
+  </video>
+  <duration>
+    <start_time>56.833</start_time>
+    <end_time>88.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 1103 8988 10907 76 9889 13817 9053 11703 560 5994 12095 </step>
+    <step num="1">3262 7990 238 773 8211 573 11951 10860 1391 5994 1798 5895 5633 5358 2363 13817 1279 7990 6646 238 773 </step>
+    <step num="2">1083 669 5994 9190 7051 5895 5691 </step>
+    <step num="3">13688 1391 959 8535 13817 3274 1103 5358 13 </step>
+    <step num="4">2356 1681 12550 560 8956 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 1103 8988 10907 76 9889 13817 9053 11703 560 5994 12095 </steps_updated>
+    <steps_updated num="1">3262 7990 238 773 </steps_updated>
+    <steps_updated num="2">8211 573 11951 10860 1391 5994 1798 5895 5633 5358 2363 13817 1279 7990 6646 238 773 </steps_updated>
+    <steps_updated num="3">1083 669 5994 9190 7051 5895 5691 </steps_updated>
+    <steps_updated num="4">13688 1391 959 8535 13817 3274 1103 5358 13 </steps_updated>
+    <steps_updated num="5">2356 1681 12550 560 8956 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

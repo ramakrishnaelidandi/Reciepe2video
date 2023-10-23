@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Chocolate Overnight Oats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-chocolate-overnight-oats</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-meal-prep-for-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; rolled oats ; (40 g) </ingredient>
+    <ingredient num="1">⅓ cup ; almond milk, or preferred milk ; (80 mL) </ingredient>
+    <ingredient num="2">¼ cup ; greek yogurt ; (70 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; maple syrup </ingredient>
+    <ingredient num="4">1 teaspoon ; cocoa powder </ingredient>
+    <ingredient num="5">2 ; strawberries, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57232/low_1508449017.m3u8</low>
+    <high>https://vid.tasty.co/output/57232/mp4_720x1280/1508449017</high>
+  </video>
+  <duration>
+    <start_time>137.51</start_time>
+    <end_time>163.08</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a mason jar, fill with rolled oats, almond milk, Greek yogurt, cocoa powder, and maple syrup. Stir until well combined. </step>
+    <step num="1">Place diced strawberries on top and seal jar. </step>
+    <step num="2">Soak the oats overnight. </step>
+    <step num="3">Place in fridge until ready to eat. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a mason jar, fill with rolled oats, almond milk, Greek yogurt, cocoa powder, and maple syrup. </steps_updated>
+    <steps_updated num="1">Stir until well combined. </steps_updated>
+    <steps_updated num="2">Place diced strawberries on top and seal jar. </steps_updated>
+    <steps_updated num="3">Soak the oats overnight. </steps_updated>
+    <steps_updated num="4">Place in fridge until ready to eat. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04176</start_time>
+    <end_time>04921</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Parmesan Grilled Corn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-parmesan-grilled-corn</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/grilled-corn-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ears ; corn </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">4 tablespoons ; butter </ingredient>
+    <ingredient num="5">1 tablespoon ; garlic, minced </ingredient>
+    <ingredient num="6">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Sides</category>
+    <category num="4">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41907/low_1498852141.m3u8</low>
+    <high>https://vid.tasty.co/output/41907/mp4_720x1280/1498852141</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>32.93</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat a grill or grill plate to medium heat. </step>
+    <step num="1">Drizzle the corn with olive oil and sprinkle with salt and pepper. Mix to ensure all the ears are evenly coated. </step>
+    <step num="2">Place the corn on the grill. Close the lid to keep the temperature high, and let the corn cook for about 15 minutes per side, or until slightly charred on all sides. </step>
+    <step num="3">Remove the corn from the heat and set aside. </step>
+    <step num="4">Place the garlic and butter in a microwave-safe bowl and microwave for 1 minute, or until melted. </step>
+    <step num="5">Brush the garlic butter on the corn. Sprinkle with grated parmesan cheese. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat a grill or grill plate to medium heat. </steps_updated>
+    <steps_updated num="1">Drizzle the corn with olive oil and sprinkle with salt and pepper. </steps_updated>
+    <steps_updated num="2">Mix to ensure all the ears are evenly coated. </steps_updated>
+    <steps_updated num="3">Place the corn on the grill. </steps_updated>
+    <steps_updated num="4">Close the lid to keep the temperature high, and let the corn cook for about 15 minutes per side, or until slightly charred on all sides. </steps_updated>
+    <steps_updated num="5">Remove the corn from the heat and set aside. </steps_updated>
+    <steps_updated num="6">Place the garlic and butter in a microwave-safe bowl and microwave for 1 minute, or until melted. </steps_updated>
+    <steps_updated num="7">Brush the garlic butter on the corn. </steps_updated>
+    <steps_updated num="8">Sprinkle with grated parmesan cheese. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01024</end_time>
+  </duration_human>
+</recipe>

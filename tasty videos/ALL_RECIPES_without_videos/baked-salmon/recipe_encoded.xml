@@ -1,0 +1,48 @@
+<recipe>
+  <title>Baked Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-cook-salmon</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 2144 7989 721 13278 8118 5981 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">8244 7632 2658 13615 </ingredient>
+    <ingredient num="4">3917 13278 5516 976 </ingredient>
+    <ingredient num="5">6209 5040 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Lunch</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24516/low_1487727857.m3u8</low>
+    <high>https://vid.tasty.co/output/24516/mp4_720x1280/1487727857</high>
+  </video>
+  <duration>
+    <start_time>43.0</start_time>
+    <end_time>66.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 11480 5578 </step>
+    <step num="1">4660 5994 213 5687 1391 3615 5895 3550 8831 </step>
+    <step num="2">1594 8244 5766 4255 11951 9069 415 12616 1391 82 13817 12375 13494 1391 597 8535 13817 9019 </step>
+    <step num="3">7831 7990 9810 12689 8817 7989 5376 12768 13669 1391 5994 1514 10570 10719 11115 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">4660 5994 213 5687 1391 3615 5895 3550 8831 </steps_updated>
+    <steps_updated num="2">1594 8244 5766 4255 11951 9069 415 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="3">13494 1391 597 8535 13817 9019 </steps_updated>
+    <steps_updated num="4">7831 7990 9810 12689 </steps_updated>
+    <steps_updated num="5">8817 7989 5376 12768 13669 1391 5994 1514 10570 10719 11115 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01326</start_time>
+    <end_time>02041</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Chocolate-Stuffed Strawberries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-chocolate-stuffed-strawberries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-vegan-dessert-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; strawberries </ingredient>
+    <ingredient num="1">2 cups ; vegan dark chocolate ; (350 g) </ingredient>
+    <ingredient num="2">2 cups ; vegan white chocolate ; (350 g) </ingredient>
+    <ingredient num="3">Garnish, of your choice </ingredient>
+    <ingredient num="4">1 ; egg carton </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Date Night</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24496/low_1487723547.m3u8</low>
+    <high>https://vid.tasty.co/output/24496/mp4_720x1280/1487723547</high>
+  </video>
+  <duration>
+    <start_time>120.0</start_time>
+    <end_time>152.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Line a 9-inch (23 cm) baking sheet with parchment paper. </step>
+    <step num="1">Chop the top half of the strawberries off. Hollow out the insides, then place the strawberries in the egg carton. </step>
+    <step num="2">Melt the dark chocolate. Transfer to a piping bag. </step>
+    <step num="3">Fill the strawberries with the melted dark chocolate and cover them with the top halves again. </step>
+    <step num="4">Chill for 5 minutes. </step>
+    <step num="5">Melt the white chocolate. </step>
+    <step num="6">Dip the strawberries in the melted white chocolate, then sprinkle with the topping of your choice. </step>
+    <step num="7">Chill for another 5 minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Line a 9-inch baking tray with parchment paper. </steps_updated>
+    <steps_updated num="1">Set aside melted dark chocolate and white chocolate. </steps_updated>
+    <steps_updated num="2">Chop the top half of the strawberries off. </steps_updated>
+    <steps_updated num="3">Carve the inside of the strawberry hollow. </steps_updated>
+    <steps_updated num="4">Place strawberries in empty egg carton. </steps_updated>
+    <steps_updated num="5">Fill a piping bag (placed in a glass container) with melted chocolate. </steps_updated>
+    <steps_updated num="6">Fill the strawberries with melted chocolate and cover them with the top half again. </steps_updated>
+    <steps_updated num="7">Chill for five minutes. </steps_updated>
+    <steps_updated num="8">Dip in white chocolate and place in baking tray. </steps_updated>
+    <steps_updated num="9">Sprinkle on topping of your choice. </steps_updated>
+    <steps_updated num="10">Chill for another five minutes. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03645</start_time>
+    <end_time>04571</end_time>
+  </duration_human>
+</recipe>

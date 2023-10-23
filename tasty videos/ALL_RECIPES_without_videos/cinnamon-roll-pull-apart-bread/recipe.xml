@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cinnamon Roll Pull-Apart Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cinnamon-roll-pull-apart-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; cream cheese, softened ; (225 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; sugar </ingredient>
+    <ingredient num="2">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="3">8 ; cinnamon rolls, unbaked </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/16433/low_1480630662.m3u8</low>
+    <high>https://vid.tasty.co/output/16433/mp4_720x1280/1480630662</high>
+  </video>
+  <steps>
+    <step num="0">In a bowl, combine cream cheese, sugar, and cinnamon. </step>
+    <step num="1">On a floured surface, flatten each cinnamon roll and spread cream cheese mixture on top. </step>
+    <step num="2">Cut flattened roll in half and place one half on top of the other. Repeat for the rest of the cinnamon rolls. </step>
+    <step num="3">Line a loaf pan with parchment paper. Lay the pan vertically on its side, and stack cinnamon rolls cut side facing the bottom of the pan. </step>
+    <step num="4">Cover the loaf pan loosely with foil. </step>
+    <step num="5">Bake at 325˚F(160˚C) 70 minutes, removing the foil for the last 10 minutes. </step>
+    <step num="6">Drizzle with the icing that comes with the cinnamon rolls. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, combine cream cheese, sugar, and cinnamon. </steps_updated>
+    <steps_updated num="1">On a floured surface, flatten each cinnamon roll and spread cream cheese mixture on top. </steps_updated>
+    <steps_updated num="2">Cut flattened roll in half and place one half on top of the other. </steps_updated>
+    <steps_updated num="3">Repeat for the rest of the cinnamon rolls. </steps_updated>
+    <steps_updated num="4">Line a loaf pan with parchment paper. </steps_updated>
+    <steps_updated num="5">Lay the pan vertically on its side, and stack cinnamon rolls cut side facing the bottom of the pan. </steps_updated>
+    <steps_updated num="6">Cover the loaf pan loosely with foil. </steps_updated>
+    <steps_updated num="7">Bake at 325˚F(160˚C) 70 minutes, removing the foil for the last 10 minutes. </steps_updated>
+    <steps_updated num="8">Drizzle with the icing that comes with the cinnamon rolls. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

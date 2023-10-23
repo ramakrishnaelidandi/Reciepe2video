@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Paloma Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/paloma</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; grapefruits, quartered and squeezed, juice reserved for another use </ingredient>
+    <ingredient num="1">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="2">ice </ingredient>
+    <ingredient num="3">2 oz ; tequila ; (60 mL) </ingredient>
+    <ingredient num="4">1 oz ; lime juice ; (30 mL) </ingredient>
+    <ingredient num="5">1 oz ; grapefruit peel simple syrup ; (30 mL) </ingredient>
+    <ingredient num="6">club soda, to taste </ingredient>
+    <ingredient num="7">1 wedge ; grapefruit </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130186/hls24_1555522129.m3u8</low>
+    <high>https://vid.tasty.co/output/130186/landscape_720/1555522129</high>
+  </video>
+  <steps>
+    <step num="0">In a medium bowl, combine the grapefruit rinds and sugar. Toss to coat the rinds with the sugar, then cover. Let sit, stirring every 45 minutes, for about 4 hours, or until the sugar is completely dissolved and there’s syrup in the bottom of the bowl. </step>
+    <step num="1">Strain the syrup through a fine-mesh sieve or cheesecloth, pushing to extract as much syrup as possible. Store in an airtight container in the refrigerator for up to 3 weeks. </step>
+    <step num="2">In a cocktail shaker filled with ice, combine the tequila, lime juice, and simple syrup. Shake vigorously for 20 seconds. </step>
+    <step num="3">Strain into a glass filled with ice and top with club soda. </step>
+    <step num="4">Garnish with the grapefruit wedge. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, combine the grapefruit rinds and sugar. </steps_updated>
+    <steps_updated num="1">Toss to coat the rinds with the sugar, then cover. </steps_updated>
+    <steps_updated num="2">Let sit, stirring every 45 minutes, for about 4 hours, or until the sugar is completely dissolved and there’s syrup in the bottom of the bowl. </steps_updated>
+    <steps_updated num="3">Strain the syrup through a fine-mesh sieve or cheesecloth, pushing to extract as much syrup as possible. </steps_updated>
+    <steps_updated num="4">Store in an airtight container in the refrigerator for up to 3 weeks. </steps_updated>
+    <steps_updated num="5">In a cocktail shaker filled with ice, combine the tequila, lime juice, and simple syrup. </steps_updated>
+    <steps_updated num="6">Shake vigorously for 20 seconds. </steps_updated>
+    <steps_updated num="7">Strain into a glass filled with ice and top with club soda. </steps_updated>
+    <steps_updated num="8">Garnish with the grapefruit wedge. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

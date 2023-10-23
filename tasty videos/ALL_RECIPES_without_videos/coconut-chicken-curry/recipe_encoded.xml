@@ -1,0 +1,73 @@
+<recipe>
+  <title>Coconut Chicken Curry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coconut-chicken-curry</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/trinidadian-roti</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 715 13278 12816 472 13278 1589 10482 </ingredient>
+    <ingredient num="1">12791 13278 13757 4617 12384 341 </ingredient>
+    <ingredient num="2">12791 2605 13278 6209 6293 3962 13278 1936 5981 </ingredient>
+    <ingredient num="3">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">3917 14014 13278 6209 6712 3962 </ingredient>
+    <ingredient num="5">13086 9486 13278 11210 11703 </ingredient>
+    <ingredient num="6">4061 7033 13278 6209 9211 </ingredient>
+    <ingredient num="7">8580 9486 13278 6209 11911 3962 </ingredient>
+    <ingredient num="8">8580 2031 13278 82 </ingredient>
+    <ingredient num="9">1580 8071 13278 7845 </ingredient>
+    <ingredient num="10">8580 9486 13278 5766 </ingredient>
+    <ingredient num="11">1580 13278 13757 4617 12384 341 </ingredient>
+    <ingredient num="12">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="13">8580 9486 13278 11210 11703 </ingredient>
+    <ingredient num="14">12791 2605 13278 6209 6293 3962 13278 1936 5981 </ingredient>
+    <ingredient num="15">9465 643 13278 6742 9889 3917 14138 13278 5739 8007 </ingredient>
+    <ingredient num="16">10986 560 11567 </ingredient>
+    <ingredient num="17">3917 1580 9517 13278 7983 547 13278 1536 8007 </ingredient>
+    <ingredient num="18">6209 6712 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Lunch</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/81799/hls24_1519864109.m3u8</low>
+    <high>https://vid.tasty.co/output/81799/landscape_720/1519864109</high>
+  </video>
+  <duration>
+    <start_time>92.666</start_time>
+    <end_time>139.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 3624 14511 4120 11951 7983 1391 11951 12384 10286 4155 6712 11210 8117 5040 11911 12610 13817 12375 9393 13817 3945 7162 7990 7811 767 3917 7739 210 11951 7524 </step>
+    <step num="1">8889 11951 5766 210 5994 13757 10060 11770 13757 7855 1681 631 13817 740 11951 6334 13817 1937 264 7990 6620 11004 1681 11564 </step>
+    <step num="2">9179 11951 11210 11703 13817 6142 12923 8224 7990 199 8927 3347 </step>
+    <step num="3">9179 11951 1061 13817 6742 9889 10842 11951 7855 560 2520 13817 2550 7990 1882 11004 1681 11951 6742 5802 9490 2032 13817 10586 560 5364 </step>
+    <step num="4">9179 11951 5859 7983 13817 6142 3631 264 11951 7983 7990 2933 11004 5895 1681 11695 560 2147 10242 1391 12375 </step>
+    <step num="5">9179 11951 7983 547 560 11951 10083 13817 12224 </step>
+    <step num="6">8785 560 5994 11526 1002 13817 6506 11951 4771 9411 7990 238 11004 1681 11951 2260 3370 669 5994 5753 </step>
+    <step num="7">13688 1391 1117 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 3624 14511 4120 11951 7983 1391 11951 12384 10286 4155 6712 11210 8117 5040 11911 12610 13817 12375 </steps_updated>
+    <steps_updated num="1">9393 13817 3945 7162 7990 7811 767 3917 7739 210 11951 7524 </steps_updated>
+    <steps_updated num="2">8889 11951 5766 210 5994 13757 10060 11770 13757 7855 1681 631 13817 740 11951 6334 13817 1937 </steps_updated>
+    <steps_updated num="3">264 7990 6620 11004 1681 11564 </steps_updated>
+    <steps_updated num="4">9179 11951 11210 11703 13817 6142 12923 8224 7990 199 8927 3347 </steps_updated>
+    <steps_updated num="5">9179 11951 1061 13817 6742 9889 10842 11951 7855 560 2520 13817 2550 7990 1882 11004 1681 11951 6742 5802 9490 2032 13817 10586 560 5364 </steps_updated>
+    <steps_updated num="6">9179 11951 5859 7983 13817 6142 3631 </steps_updated>
+    <steps_updated num="7">264 11951 7983 7990 2933 11004 5895 1681 11695 560 2147 </steps_updated>
+    <steps_updated num="8">10242 1391 12375 </steps_updated>
+    <steps_updated num="9">9179 11951 7983 547 560 11951 10083 13817 12224 </steps_updated>
+    <steps_updated num="10">8785 560 5994 11526 1002 13817 6506 11951 4771 </steps_updated>
+    <steps_updated num="11">9411 7990 238 11004 1681 11951 2260 3370 669 5994 5753 </steps_updated>
+    <steps_updated num="12">13688 1391 1117 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02268</start_time>
+    <end_time>03340</end_time>
+  </duration_human>
+</recipe>

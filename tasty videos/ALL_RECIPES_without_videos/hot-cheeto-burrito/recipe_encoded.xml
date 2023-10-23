@@ -1,0 +1,59 @@
+<recipe>
+  <title>Hot Cheeto Burrito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hot-cheeto-burrito</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/restaurant-vs-homemade-flaming-hot-cheeto-burrito</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 10098 11009 13278 14577 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 10176 2634 </ingredient>
+    <ingredient num="2">8580 2031 13278 12610 3247 </ingredient>
+    <ingredient num="3">8580 2031 13278 9712 7654 3247 </ingredient>
+    <ingredient num="4">8580 13278 6716 </ingredient>
+    <ingredient num="5">12791 2605 13278 7495 1484 13033 13278 13412 5981 </ingredient>
+    <ingredient num="6">6735 643 13278 12098 6222 10254 3917 12854 13278 9473 5981 </ingredient>
+    <ingredient num="7">1580 2605 13278 9784 13810 5450 13278 2264 5981 </ingredient>
+    <ingredient num="8">3917 13278 11338 7632 560 7256 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/69477/hls24_1513808824.m3u8</low>
+    <high>https://vid.tasty.co/output/69477/landscape_720/1513808824</high>
+  </video>
+  <duration>
+    <start_time>40.43</start_time>
+    <end_time>106.899</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 10098 11009 669 12265 5285 13009 13817 3345 210 7616 9179 11951 10176 3123 3917 8071 9712 10522 13817 12051 1828 7162 7990 238 12689 </step>
+    <step num="1">9679 4485 1391 5994 1798 13817 3345 210 5994 7616 9179 3917 8071 9712 7654 82 13817 12833 1391 5994 1514 1681 12386 9815 560 655 </step>
+    <step num="2">10950 5994 5291 11745 740 3917 14014 371 11338 5766 13817 3945 7855 7990 238 773 9179 5859 3061 13817 3945 2550 7990 5527 11004 13328 1681 3061 9490 506 </step>
+    <step num="3">10950 5994 2192 11844 7855 3063 9784 14538 7990 13086 11004 6142 10388 </step>
+    <step num="4">12474 5994 12352 10383 3386 890 11237 1681 2021 9179 3745 834 740 2532 371 14322 8580 9486 371 1484 1123 3917 12854 371 6222 10254 13817 10383 9784 4496 </step>
+    <step num="5">5791 12870 718 7475 672 210 415 10763 2530 371 11951 10707 11801 1681 1762 14138 4536 11951 10707 11801 8857 </step>
+    <step num="6">3235 210 1991 13817 8497 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 10098 11009 669 12265 5285 13009 13817 3345 210 7616 </steps_updated>
+    <steps_updated num="1">9179 11951 10176 3123 3917 8071 9712 10522 13817 12051 </steps_updated>
+    <steps_updated num="2">1828 7162 7990 238 12689 </steps_updated>
+    <steps_updated num="3">9679 4485 1391 5994 1798 13817 3345 210 5994 7616 </steps_updated>
+    <steps_updated num="4">9179 3917 8071 9712 7654 82 13817 12833 1391 5994 1514 1681 12386 9815 560 655 </steps_updated>
+    <steps_updated num="5">10950 5994 5291 11745 740 3917 14014 371 11338 5766 13817 3945 7855 7990 238 773 </steps_updated>
+    <steps_updated num="6">9179 5859 3061 13817 3945 2550 7990 5527 11004 13328 1681 3061 9490 506 </steps_updated>
+    <steps_updated num="7">10950 5994 2192 11844 7855 3063 9784 14538 7990 13086 11004 6142 10388 </steps_updated>
+    <steps_updated num="8">12474 5994 12352 10383 3386 890 11237 1681 2021 </steps_updated>
+    <steps_updated num="9">9179 3745 834 740 2532 371 14322 8580 9486 371 1484 1123 3917 12854 371 6222 10254 13817 10383 9784 4496 </steps_updated>
+    <steps_updated num="10">5791 12870 718 7475 672 210 415 10763 2530 371 11951 10707 11801 1681 1762 14138 4536 11951 10707 11801 8857 </steps_updated>
+    <steps_updated num="11">3235 210 1991 13817 8497 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01013</start_time>
+    <end_time>02598</end_time>
+  </duration_human>
+</recipe>

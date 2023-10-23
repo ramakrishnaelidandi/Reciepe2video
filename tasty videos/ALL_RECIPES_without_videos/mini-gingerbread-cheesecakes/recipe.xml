@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Gingerbread Cheesecakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-gingerbread-cheesecakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">16 oz ; cream cheese, softened ; (450 g) </ingredient>
+    <ingredient num="1">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="2">⅓ cup ; sugar ; (65 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="4">2 ; eggs </ingredient>
+    <ingredient num="5">2 tablespoons ; molasses </ingredient>
+    <ingredient num="6">½ teaspoon ; ground ginger </ingredient>
+    <ingredient num="7">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="8">½ teaspoon ; nutmeg </ingredient>
+    <ingredient num="9">gingersnaps </ingredient>
+    <ingredient num="10">cupcake liner </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19206/low_1482435389.m3u8</low>
+    <high>https://vid.tasty.co/output/19206/mp4_720x1280/1482435389</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 300˚F (150˚C). </step>
+    <step num="1">Place gingersnaps in bottom of each liner, then set aside. </step>
+    <step num="2">Beat cream cheese, sugar, and vanilla until fluffy. </step>
+    <step num="3">Add eggs one at a time. </step>
+    <step num="4">Add in the sour cream, molasses, and spices. </step>
+    <step num="5">Pour mixture over gingersnaps. </step>
+    <step num="6">Bake for 20 minutes. </step>
+    <step num="7">Sprinkle with crushed gingersnaps. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 300˚F (150˚C). </steps_updated>
+    <steps_updated num="1">Place gingersnaps in bottom of each liner, then set aside. </steps_updated>
+    <steps_updated num="2">Beat cream cheese, sugar, and vanilla until fluffy. </steps_updated>
+    <steps_updated num="3">Add eggs one at a time. </steps_updated>
+    <steps_updated num="4">Add in the sour cream, molasses, and spices. </steps_updated>
+    <steps_updated num="5">Pour mixture over gingersnaps. </steps_updated>
+    <steps_updated num="6">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="7">Sprinkle with crushed gingersnaps. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,59 @@
+<recipe>
+  <title>Apple Pie Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-pie-tacos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4061 13278 7019 10362 7848 </ingredient>
+    <ingredient num="1">1580 13278 5516 3701 </ingredient>
+    <ingredient num="2">8580 9486 13278 9924 </ingredient>
+    <ingredient num="3">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="4">1580 8071 13278 12425 </ingredient>
+    <ingredient num="5">12791 8071 13278 12159 </ingredient>
+    <ingredient num="6">8580 13278 2597 890 5817 </ingredient>
+    <ingredient num="7">12791 2605 13278 5335 9924 13278 13125 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 4834 13278 2264 5981 </ingredient>
+    <ingredient num="9">1580 14014 13278 12425 </ingredient>
+    <ingredient num="10">1319 2439 1123 7990 7818 </ingredient>
+    <ingredient num="11">329 7280 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97094/hls24_1528137560.m3u8</low>
+    <high>https://vid.tasty.co/output/97094/landscape_720/1528137560</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 560 9988 8999 </step>
+    <step num="1">8940 13817 616 11951 10048 7872 11951 4125 7848 210 5994 2597 12377 7860 1391 12282 13817 597 10522 5833 6665 8719 2147 153 797 7811 5994 7555 1088 12205 11951 10048 </step>
+    <step num="2">12305 11951 9924 210 5994 13757 11844 11770 13757 2082 9179 11951 9908 8535 13817 1678 1391 11951 6145 4654 13817 12825 12473 1616 13817 2550 1681 11951 7848 12573 91 6285 13767 12689 6054 11951 5687 6781 11951 2082 </step>
+    <step num="3">6823 11951 10176 13339 5209 5994 7155 8508 5895 11951 5378 371 5994 9190 4566 7777 2696 8883 2192 3988 6781 11951 4291 </step>
+    <step num="4">11881 11951 2192 11237 13073 1391 5335 9924 13817 6798 1391 12425 8525 6235 11951 1111 5817 560 6915 665 10176 2979 13817 3345 8830 11951 9517 371 2237 3093 12841 2141 560 14634 2349 4511 </step>
+    <step num="5">7831 7990 13767 11004 5895 1681 10963 2147 1828 11951 10176 2979 10694 1681 7634 560 11743 </step>
+    <step num="6">6877 11951 9908 4844 11539 669 11951 10176 3949 13494 1391 2192 10548 371 1319 2439 13033 13817 13630 1391 329 9286 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="1">8940 13817 616 11951 10048 </steps_updated>
+    <steps_updated num="2">7872 11951 4125 7848 210 5994 2597 12377 7860 1391 12282 13817 597 10522 5833 6665 8719 2147 </steps_updated>
+    <steps_updated num="3">153 797 7811 5994 7555 1088 12205 11951 10048 </steps_updated>
+    <steps_updated num="4">12305 11951 9924 210 5994 13757 11844 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">9179 11951 9908 8535 13817 1678 1391 11951 6145 4654 13817 12825 </steps_updated>
+    <steps_updated num="6">12473 1616 13817 2550 1681 11951 7848 12573 91 6285 13767 12689 </steps_updated>
+    <steps_updated num="7">6054 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="8">6823 11951 10176 13339 5209 5994 7155 8508 5895 11951 5378 371 5994 9190 4566 7777 2696 8883 2192 3988 6781 11951 4291 </steps_updated>
+    <steps_updated num="9">11881 11951 2192 11237 13073 1391 5335 9924 13817 6798 1391 12425 8525 </steps_updated>
+    <steps_updated num="10">6235 11951 1111 5817 560 6915 665 10176 2979 13817 3345 8830 11951 9517 371 2237 3093 12841 2141 560 14634 2349 4511 </steps_updated>
+    <steps_updated num="11">7831 7990 13767 11004 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="12">1828 11951 10176 2979 10694 1681 7634 560 11743 </steps_updated>
+    <steps_updated num="13">6877 11951 9908 4844 11539 669 11951 10176 3949 </steps_updated>
+    <steps_updated num="14">13494 1391 2192 10548 371 1319 2439 13033 13817 13630 1391 329 9286 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+</recipe>

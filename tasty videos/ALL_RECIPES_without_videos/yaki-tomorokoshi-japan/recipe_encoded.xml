@@ -1,0 +1,45 @@
+<recipe>
+  <title>Yaki Tomorokoshi (Japan) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/yaki-tomorokoshi-japan</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/corn-on-the-cob-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 2492 13278 12655 6843 </ingredient>
+    <ingredient num="1">3917 14014 13278 11338 5766 </ingredient>
+    <ingredient num="2">13086 9486 13278 11691 2260 </ingredient>
+    <ingredient num="3">3917 14014 13278 4834 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108480/hls24_1536599550.m3u8</low>
+    <high>https://vid.tasty.co/output/108480/landscape_720/1536599550</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 6054 11951 3183 6781 11951 4771 </step>
+    <step num="1">8889 11951 11338 5766 210 5994 13757 5687 11770 3996 2082 9179 11951 3183 13817 12484 12341 6601 1681 9861 870 4255 8554 6701 </step>
+    <step num="2">10950 5994 2192 14511 4120 11951 11691 2260 13817 8525 1083 11770 11951 3183 210 11951 5687 13817 10654 11770 11951 3183 1681 3145 229 12785 560 5994 7818 9086 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 </steps_updated>
+    <steps_updated num="1">6054 11951 3183 6781 11951 4771 </steps_updated>
+    <steps_updated num="2">8889 11951 11338 5766 210 5994 13757 5687 11770 3996 2082 </steps_updated>
+    <steps_updated num="3">9179 11951 3183 13817 12484 12341 6601 1681 9861 870 4255 8554 6701 </steps_updated>
+    <steps_updated num="4">10950 5994 2192 14511 4120 11951 11691 2260 13817 8525 </steps_updated>
+    <steps_updated num="5">1083 11770 11951 3183 210 11951 5687 13817 10654 11770 11951 3183 1681 3145 229 </steps_updated>
+    <steps_updated num="6">12785 560 5994 7818 9086 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00000</start_time>
+    <end_time>02222</end_time>
+  </duration_human>
+</recipe>

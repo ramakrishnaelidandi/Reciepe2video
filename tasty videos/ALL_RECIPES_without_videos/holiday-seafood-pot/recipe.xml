@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Holiday Seafood Pot Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/holiday-seafood-pot</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; lemons, zested and juiced </ingredient>
+    <ingredient num="1">½ cup ; serrano pepper, chopped ; (50 g) </ingredient>
+    <ingredient num="2">1 clove ; garlic </ingredient>
+    <ingredient num="3">1 cup ; fresh parsley ; (40 g) </ingredient>
+    <ingredient num="4">1 ¼ cups ; olive oil ; (300 mL) </ingredient>
+    <ingredient num="5">1 ¼ cups ; canola oil ; (300 mL) </ingredient>
+    <ingredient num="6">salt </ingredient>
+    <ingredient num="7">10 ; large shrimps, shells on, deveined </ingredient>
+    <ingredient num="8">1 clove ; garlic </ingredient>
+    <ingredient num="9">1 ; shallot </ingredient>
+    <ingredient num="10">1 tablespoon ; ginger </ingredient>
+    <ingredient num="11">½ teaspoon ; turmeric </ingredient>
+    <ingredient num="12">1 teaspoon ; fresh lemongrass </ingredient>
+    <ingredient num="13">½ cup ; fresh cilantro ; (20 g) </ingredient>
+    <ingredient num="14">2 ; serrano peppers </ingredient>
+    <ingredient num="15">1 teaspoon ; lemon zest </ingredient>
+    <ingredient num="16">1 tablespoon ; sugar </ingredient>
+    <ingredient num="17">1 ½ lb ; clams ; (680 g) </ingredient>
+    <ingredient num="18">1 lb ; mussels ; (455 g) </ingredient>
+    <ingredient num="19">1 lb ; king crab legs ; (455 g) </ingredient>
+    <ingredient num="20">4 ears ; corn, halved </ingredient>
+    <ingredient num="21">1 bottle ; light beer </ingredient>
+    <ingredient num="22">3 cups ; chicken stock ; (720 mL) </ingredient>
+    <ingredient num="23">½ lb ; ground chorizo ; (225 g) </ingredient>
+    <ingredient num="24">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="25">1 cup ; fresh cilantro leaves ; (50 g) </ingredient>
+    <ingredient num="26">olive oil </ingredient>
+    <ingredient num="27">salt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/115184/hls24_1542050010.m3u8</low>
+    <high>https://vid.tasty.co/output/115184/landscape_720/1542050010</high>
+  </video>
+  <steps>
+    <step num="0">To make the shrimp marinade, combine all ingredients in a food processor and blend until chopped and well combined. </step>
+    <step num="1">Pour over the shrimp, cover and place in the refrigerator to marinate for 30 minutes. </step>
+    <step num="2">To make herb paste, place all ingredients in a food processor and blend until finely chopped. </step>
+    <step num="3">Clean all the shellfish. Discard any dead mussels or clams. Soak the clams in cold water for 30 minutes and then scrub clean, then remove the beard of the mussels and scrub clean. Rinse the crab legs and break apart at the joint for smaller pieces. </step>
+    <step num="4">In a large pot, heat a drizzle of olive oil and then add chorizo and cook until browned. </step>
+    <step num="5">Add the herb paste and cook for 2 minutes. </step>
+    <step num="6">Add beer to the pan and bring to a simmer. Cook until the liquid is reduced by half. Then add chicken stock and bring back to a simmer. Add lemon juice and season to taste with salt. </step>
+    <step num="7">Add the mussels, clams and crab legs to the broth, and place the corn on top. Cook until mussels and clams have opened and crab legs are steamed through, about 10 minutes. </step>
+    <step num="8">While the seafood cooks, heat a large pan and fry the shrimp until pink and cooked through. </step>
+    <step num="9">Serve the shellfish and corn in a warmed cast iron pot, with some of the broth, garnished with cilantro sprigs. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">To make the shrimp marinade, combine all ingredients in a food processor and blend until chopped and well combined. </steps_updated>
+    <steps_updated num="1">Pour over the shrimp, cover and place in the refrigerator to marinate for 30 minutes. </steps_updated>
+    <steps_updated num="2">To make herb paste, place all ingredients in a food processor and blend until finely chopped. </steps_updated>
+    <steps_updated num="3">Clean all the shellfish. </steps_updated>
+    <steps_updated num="4">Discard any dead mussels or clams. </steps_updated>
+    <steps_updated num="5">Soak the clams in cold water for 30 minutes and then scrub clean, then remove the beard of the mussels and scrub clean. </steps_updated>
+    <steps_updated num="6">Rinse the crab legs and break apart at the joint for smaller pieces. </steps_updated>
+    <steps_updated num="7">In a large pot, heat a drizzle of olive oil and then add chorizo and cook until browned. </steps_updated>
+    <steps_updated num="8">Add the herb paste and cook for 2 minutes. </steps_updated>
+    <steps_updated num="9">Add beer to the pan and bring to a simmer. </steps_updated>
+    <steps_updated num="10">Cook until the liquid is reduced by half. </steps_updated>
+    <steps_updated num="11">Then add chicken stock and bring back to a simmer. </steps_updated>
+    <steps_updated num="12">Add lemon juice and season to taste with salt. </steps_updated>
+    <steps_updated num="13">Add the mussels, clams and crab legs to the broth, and place the corn on top. </steps_updated>
+    <steps_updated num="14">Cook until mussels and clams have opened and crab legs are steamed through, about 10 minutes. </steps_updated>
+    <steps_updated num="15">While the seafood cooks, heat a large pan and fry the shrimp until pink and cooked through. </steps_updated>
+    <steps_updated num="16">Serve the shellfish and corn in a warmed cast iron pot, with some of the broth, garnished with cilantro sprigs. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

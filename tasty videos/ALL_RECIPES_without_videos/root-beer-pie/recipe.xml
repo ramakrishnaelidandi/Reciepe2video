@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Root Beer Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/root-beer-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; heavy whipping cream ; (235 mL) </ingredient>
+    <ingredient num="1">12 oz ; root beer ; (355 mL) </ingredient>
+    <ingredient num="2">¼ cup ; milk ; (60 mL) </ingredient>
+    <ingredient num="3">1 box ; vanilla pudding mix </ingredient>
+    <ingredient num="4">1 ; graham cracker crust </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24715/low_1487873980.m3u8</low>
+    <high>https://vid.tasty.co/output/24715/mp4_1280X720/1487873980</high>
+  </video>
+  <steps>
+    <step num="0">In one bowl, beat the heavy cream until stiff peaks form. In a separate bowl, mix the root beer, milk, and pudding mix until thick. </step>
+    <step num="1">Fold the heavy cream into the pudding mixture. </step>
+    <step num="2">Pour into prepared graham cracker crust. </step>
+    <step num="3">Freeze for four hours or refrigerate overnight. </step>
+    <step num="4">Serve with your favorite topping! (We used whipped cream and sprinkles.) </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In one bowl, beat the heavy cream until stiff peaks form. </steps_updated>
+    <steps_updated num="1">In a separate bowl, mix the root beer, milk, and pudding mix until thick. </steps_updated>
+    <steps_updated num="2">Fold the heavy cream into the pudding mixture. </steps_updated>
+    <steps_updated num="3">Pour into prepared graham cracker crust. </steps_updated>
+    <steps_updated num="4">Freeze for four hours or refrigerate overnight. </steps_updated>
+    <steps_updated num="5">Serve with your favorite topping! </steps_updated>
+    <steps_updated num="6">(We used whipped cream and sprinkles.) </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

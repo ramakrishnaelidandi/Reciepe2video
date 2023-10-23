@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bacon-Wrapped Mozzarella Sticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-wrapped-mozzarella-sticks</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">bacon </ingredient>
+    <ingredient num="1">string cheese, frozen </ingredient>
+    <ingredient num="2">oil, for frying </ingredient>
+    <ingredient num="3">toothpick, for support </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31990/low_1495124964.m3u8</low>
+    <high>https://vid.tasty.co/output/31990/mp4_720x1280/1495124964</high>
+  </video>
+  <steps>
+    <step num="0">Freeze the string cheese (for at least a few hours) </step>
+    <step num="1">Once frozen, place the string cheese on top of a slice of bacon, and fold the edges over to cover the cheese. </step>
+    <step num="2">Once folded wrap/roll the cheese in a second slice of bacon. Make sure to use toothpicks for support. </step>
+    <step num="3">Pour oil into a pan and heat to 350°F (177°C), then place your Bacon Mozzarella stick into it. </step>
+    <step num="4">Fry until the bacon appears to be cooked in it’s golden brown state then let dry on a paper towel. </step>
+    <step num="5">Once dried, serve with a dipping sauce of your choice! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Freeze the string cheese (for at least a few hours) </steps_updated>
+    <steps_updated num="1">Once frozen, place the string cheese on top of a slice of bacon, and fold the edges over to cover the cheese. </steps_updated>
+    <steps_updated num="2">Once folded wrap/roll the cheese in a second slice of bacon. </steps_updated>
+    <steps_updated num="3">Make sure to use toothpicks for support. </steps_updated>
+    <steps_updated num="4">Pour oil into a pan and heat to 350°F (177°C), then place your Bacon Mozzarella stick into it. </steps_updated>
+    <steps_updated num="5">Fry until the bacon appears to be cooked in it’s golden brown state then let dry on a paper towel. </steps_updated>
+    <steps_updated num="6">Once dried, serve with a dipping sauce of your choice! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

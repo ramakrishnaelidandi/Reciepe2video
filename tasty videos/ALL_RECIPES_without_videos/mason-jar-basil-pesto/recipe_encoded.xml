@@ -1,0 +1,44 @@
+<recipe>
+  <title>Mason Jar Basil Pesto Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mason-jar-basil-pesto</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-simple-mason-jar-sauces</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 6209 749 11588 3962 13278 336 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 4155 10015 </ingredient>
+    <ingredient num="2">1580 2605 13278 5607 9400 3962 13278 9377 5981 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">13584 10986 560 11567 </ingredient>
+    <ingredient num="5">3917 2605 13278 2431 109 14538 13278 7289 5981 </ingredient>
+    <ingredient num="6">12791 2605 13278 597 10522 13278 13125 8007 </ingredient>
+    <ingredient num="7">3917 2605 13278 8244 5766 13278 7503 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94047/hls24_1526342726.m3u8</low>
+    <high>https://vid.tasty.co/output/94047/landscape_720/1526342726</high>
+  </video>
+  <duration>
+    <start_time>121.666</start_time>
+    <end_time>146.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 9190 4566 4120 11951 749 4155 5607 9400 12610 10986 6696 597 7654 13817 8244 14158 1709 560 1011 </step>
+    <step num="1">10434 210 11951 10437 7990 3386 560 5994 2812 </step>
+    <step num="2">9179 560 5994 6222 5687 1391 8016 2658 1762 12160 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 9190 4566 4120 11951 749 4155 5607 9400 12610 10986 6696 597 7654 13817 8244 14158 </steps_updated>
+    <steps_updated num="1">1709 560 1011 </steps_updated>
+    <steps_updated num="2">10434 210 11951 10437 7990 3386 560 5994 2812 </steps_updated>
+    <steps_updated num="3">9179 560 5994 6222 5687 1391 8016 2658 1762 12160 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

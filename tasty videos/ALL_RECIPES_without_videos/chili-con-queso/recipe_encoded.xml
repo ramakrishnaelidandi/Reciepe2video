@@ -1,0 +1,55 @@
+<recipe>
+  <title>Chili Con Queso Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-con-queso</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 2031 13278 4168 5766 </ingredient>
+    <ingredient num="1">3917 13278 13757 11091 12384 341 </ingredient>
+    <ingredient num="2">3917 13278 8083 1466 10986 8695 13817 341 </ingredient>
+    <ingredient num="3">3917 715 13278 11088 1946 13278 4563 5981 </ingredient>
+    <ingredient num="4">13086 9486 13278 12189 11362 </ingredient>
+    <ingredient num="5">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="6">1580 2605 13278 8640 13033 13278 2935 8007 </ingredient>
+    <ingredient num="7">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="8">8580 9486 13278 3183 11008 </ingredient>
+    <ingredient num="9">8268 643 13278 9241 14538 13278 14577 5981 </ingredient>
+    <ingredient num="10">3917 8071 13278 82 </ingredient>
+    <ingredient num="11">13133 643 13278 341 9491 14089 13278 14577 5981 </ingredient>
+    <ingredient num="12">6735 643 13278 341 4985 7468 14089 13278 9473 5981 </ingredient>
+    <ingredient num="13">3917 12745 13278 6293 976 </ingredient>
+    <ingredient num="14">3917 12854 13278 3183 10803 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Game Day</category>
+    <category num="1">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125812/hls24_1551233263.m3u8</low>
+    <high>https://vid.tasty.co/output/125812/landscape_720/1551233263</high>
+  </video>
+  <steps>
+    <step num="0">8889 11951 4168 5766 210 5994 2597 10060 11770 13757 2082 9179 11951 6334 13817 1466 7845 13817 2550 7990 8580 11004 1681 11695 560 8523 9179 11951 11088 1946 13817 13389 1869 264 1681 11951 1946 9490 3745 8180 6285 2933 12689 6054 11951 5687 6781 11951 2082 </step>
+    <step num="1">10950 5994 2192 7110 8341 3626 11951 5802 13817 8640 5808 8785 560 5994 8288 415 5103 6781 11951 2082 </step>
+    <step num="2">10950 5994 2192 14511 8341 3626 11951 12282 13817 12367 560 1978 5994 1267 1083 11951 9328 669 5802 2373 13817 8341 560 1011 10838 2373 13352 4255 11951 7855 13817 14238 560 5994 5181 </step>
+    <step num="3">283 210 11951 14538 1681 7568 5335 13817 12616 1391 11951 12051 9179 11951 341 717 13817 4985 24 13817 8341 560 1011 </step>
+    <step num="4">1083 11951 8407 11770 11951 13389 10665 13688 1391 1061 13817 1966 1391 3183 11318 7990 2110 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 11951 4168 5766 210 5994 2597 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9179 11951 6334 13817 1466 7845 13817 2550 7990 8580 11004 1681 11695 560 8523 </steps_updated>
+    <steps_updated num="2">9179 11951 11088 1946 13817 13389 1869 </steps_updated>
+    <steps_updated num="3">264 1681 11951 1946 9490 3745 8180 6285 2933 12689 </steps_updated>
+    <steps_updated num="4">6054 11951 5687 6781 11951 2082 </steps_updated>
+    <steps_updated num="5">10950 5994 2192 7110 8341 3626 11951 5802 13817 8640 5808 </steps_updated>
+    <steps_updated num="6">8785 560 5994 8288 415 5103 6781 11951 2082 </steps_updated>
+    <steps_updated num="7">10950 5994 2192 14511 8341 3626 11951 12282 13817 12367 560 1978 5994 1267 </steps_updated>
+    <steps_updated num="8">1083 11951 9328 669 5802 2373 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="9">10838 2373 13352 4255 11951 7855 13817 14238 560 5994 5181 </steps_updated>
+    <steps_updated num="10">283 210 11951 14538 1681 7568 5335 13817 12616 1391 11951 12051 </steps_updated>
+    <steps_updated num="11">9179 11951 341 717 13817 4985 24 13817 8341 560 1011 </steps_updated>
+    <steps_updated num="12">1083 11951 8407 11770 11951 13389 10665 </steps_updated>
+    <steps_updated num="13">13688 1391 1061 13817 1966 1391 3183 11318 7990 2110 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

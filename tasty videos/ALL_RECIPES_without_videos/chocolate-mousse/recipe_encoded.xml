@@ -1,0 +1,50 @@
+<recipe>
+  <title>Chocolate Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-mousse</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/garlic-shrimp-alfredo-dinner-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 8640 13033 13278 7503 8007 </ingredient>
+    <ingredient num="1">13086 9486 13278 4834 </ingredient>
+    <ingredient num="2">8580 643 13278 13826 5802 5895 8214 14339 669 2192 13009 13278 13125 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 8640 1123 6222 13278 13125 8007 </ingredient>
+    <ingredient num="4">11061 13278 6289 560 4711 </ingredient>
+    <ingredient num="5">8580 7033 13278 5663 560 4711 </ingredient>
+    <ingredient num="6">8580 12497 13278 8134 3767 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/22843/low_1486059943.m3u8</low>
+    <high>https://vid.tasty.co/output/22843/mp4_720x1280/1486059943</high>
+  </video>
+  <duration>
+    <start_time>57.43</start_time>
+    <end_time>86.22</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 4120 11951 8640 13033 13817 11951 6145 14334 1391 2237 4918 9091 1681 12386 5464 1978 10570 2395 6781 11951 7616 2257 10261 4817 2597 13681 371 11951 279 13033 560 4711 1391 7811 11951 11238 </step>
+    <step num="1">283 11951 4680 13817 6222 13033 210 5994 10909 12377 1681 4376 415 7475 210 11951 2373 669 11951 13033 1391 5994 7700 1681 6728 5862 4714 </step>
+    <step num="2">5212 11951 4680 13033 2373 3584 8830 4817 10037 1754 5895 12313 7818 3830 371 4399 415 1780 7990 7811 767 3917 5664 </step>
+    <step num="3">13688 1391 5994 6481 371 279 1123 6289 5663 13817 11951 4680 13486 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 4120 11951 8640 13033 13817 11951 6145 14334 1391 2237 4918 9091 1681 12386 5464 1978 10570 2395 6781 11951 7616 </steps_updated>
+    <steps_updated num="1">2257 10261 4817 2597 13681 371 11951 279 13033 560 4711 1391 7811 11951 11238 </steps_updated>
+    <steps_updated num="2">283 11951 4680 13817 6222 13033 210 5994 10909 12377 1681 4376 415 7475 210 11951 2373 669 11951 13033 1391 5994 7700 1681 6728 5862 4714 </steps_updated>
+    <steps_updated num="3">5212 11951 4680 13033 2373 3584 8830 4817 10037 1754 5895 12313 7818 3830 371 4399 415 1780 7990 7811 767 3917 5664 </steps_updated>
+    <steps_updated num="4">13688 1391 5994 6481 371 279 1123 6289 5663 13817 11951 4680 13486 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01779</start_time>
+    <end_time>02603</end_time>
+  </duration_human>
+</recipe>

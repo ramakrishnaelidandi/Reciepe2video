@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ham, Cheese, And Spinach-stuffed Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ham-cheese-and-spinach-stuffed-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 breast ; large chicken breast </ingredient>
+    <ingredient num="1">1 slice ; baby swiss cheese </ingredient>
+    <ingredient num="2">1 slice ; provolone cheese </ingredient>
+    <ingredient num="3">1 thin slice ; ham </ingredient>
+    <ingredient num="4">5 leaves ; baby spinach leaf </ingredient>
+    <ingredient num="5">½ cup ; flour ; (60 g) </ingredient>
+    <ingredient num="6">2 ; eggs, beaten </ingredient>
+    <ingredient num="7">⅔ cup ; breadcrumb ; (75 g) </ingredient>
+    <ingredient num="8">oil, for frying </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9866/low_1473451025.m3u8</low>
+    <high>https://vid.tasty.co/output/9866/mp4_720x1280/1473451025</high>
+  </video>
+  <steps>
+    <step num="0">Cut a pocket into the side of the chicken breast. </step>
+    <step num="1">Season chicken with salt and pepper. </step>
+    <step num="2">Stack the two cheeses and spinach on top of the ham and roll up tightly. </step>
+    <step num="3">Stuff the chicken with the roll and press the edges of the chicken together to create a seal. </step>
+    <step num="4">Place the flour, eggs, and bread crumbs into 3 separate bowls. </step>
+    <step num="5">Being careful to keep the chicken from opening, dip the stuffed chicken in the flour, shaking off the excess. Then dip the floured chicken into the egg, then breadcrumbs, then egg and breadcrumbs again. Coat evenly and shake off any excess breading. </step>
+    <step num="6">Heat oil in a cast iron pan over medium heat and preheat oven to 375ºF (190°C). </step>
+    <step num="7">Fry the chicken until golden brown on both sides. </step>
+    <step num="8">Once the chicken is fried, place into a baking dish and bake for 20 minutes, or until the internal temperature of the chicken reaches a minimum of 165ºF (75ºC). </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut a pocket into the side of the chicken breast. </steps_updated>
+    <steps_updated num="1">Season chicken with salt and pepper. </steps_updated>
+    <steps_updated num="2">Stack the two cheeses and spinach on top of the ham and roll up tightly. </steps_updated>
+    <steps_updated num="3">Stuff the chicken with the roll and press the edges of the chicken together to create a seal. </steps_updated>
+    <steps_updated num="4">Place the flour, eggs, and bread crumbs into 3 separate bowls. </steps_updated>
+    <steps_updated num="5">Being careful to keep the chicken from opening, dip the stuffed chicken in the flour, shaking off the excess. </steps_updated>
+    <steps_updated num="6">Then dip the floured chicken into the egg, then breadcrumbs, then egg and breadcrumbs again. </steps_updated>
+    <steps_updated num="7">Coat evenly and shake off any excess breading. </steps_updated>
+    <steps_updated num="8">Heat oil in a cast iron pan over medium heat and preheat oven to 375ºF (190°C). </steps_updated>
+    <steps_updated num="9">Fry the chicken until golden brown on both sides. </steps_updated>
+    <steps_updated num="10">Once the chicken is fried, place into a baking dish and bake for 20 minutes, or until the internal temperature of the chicken reaches a minimum of 165ºF (75ºC). </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

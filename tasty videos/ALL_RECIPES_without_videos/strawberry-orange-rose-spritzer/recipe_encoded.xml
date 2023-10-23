@@ -1,0 +1,44 @@
+<recipe>
+  <title>Strawberry Orange Ros&#233; Spritzer Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-orange-rose-spritzer</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/refreshing-summer-cocktails-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 7234 976 7789 3917 7990 4711 </ingredient>
+    <ingredient num="1">13086 8535 13278 1379 7789 3917 6474 7990 4711 </ingredient>
+    <ingredient num="2">531 2658 13615 </ingredient>
+    <ingredient num="3">1580 2605 13278 3739 13278 2935 8007 </ingredient>
+    <ingredient num="4">12791 2605 13278 11276 12282 13278 13125 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Drinks</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94686/hls24_1526593742.m3u8</low>
+    <high>https://vid.tasty.co/output/94686/landscape_720/1526593742</high>
+  </video>
+  <duration>
+    <start_time>33.5</start_time>
+    <end_time>55.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10450 5994 14269 1278 740 6114 8535 13817 13956 10832 9384 1681 8473 </step>
+    <step num="1">9179 2439 13817 13262 11951 13426 9883 371 11951 10772 1391 10585 13494 1391 11276 2019 </step>
+    <step num="2">13688 1391 2237 13956 6474 13817 5994 7563 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10450 5994 14269 1278 740 6114 8535 13817 13956 10832 </steps_updated>
+    <steps_updated num="1">9384 1681 8473 </steps_updated>
+    <steps_updated num="2">9179 2439 13817 13262 11951 13426 9883 371 11951 10772 1391 10585 </steps_updated>
+    <steps_updated num="3">13494 1391 11276 2019 </steps_updated>
+    <steps_updated num="4">13688 1391 2237 13956 6474 13817 5994 7563 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

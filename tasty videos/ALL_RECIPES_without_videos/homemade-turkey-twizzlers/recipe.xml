@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Turkey Twizzlers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-turkey-twizzlers</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; turkey sausages </ingredient>
+    <ingredient num="1">flour, as needed </ingredient>
+    <ingredient num="2">egg, whisked with milk for egg wash </ingredient>
+    <ingredient num="3">bread crumbs, as needed </ingredient>
+    <ingredient num="4">skewers, as needed </ingredient>
+    <ingredient num="5">oil, to fry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32231/low_1495125532.m3u8</low>
+    <high>https://vid.tasty.co/output/32231/mp4_720x1280/1495125532</high>
+  </video>
+  <steps>
+    <step num="0">Cook turkey sausages fully. </step>
+    <step num="1">Skewer a sausage. Run a knife around the sausage in a spiral down the full length of the sausage. </step>
+    <step num="2">Spread the sausage spiral down the skewer and coat in flour, egg wash, and bread crumbs. </step>
+    <step num="3">Fry in oil until golden brown. </step>
+    <step num="4">Let cool until safe to touch and remove from skewer. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook turkey sausages fully. </steps_updated>
+    <steps_updated num="1">Skewer a sausage. </steps_updated>
+    <steps_updated num="2">Run a knife around the sausage in a spiral down the full length of the sausage. </steps_updated>
+    <steps_updated num="3">Spread the sausage spiral down the skewer and coat in flour, egg wash, and bread crumbs. </steps_updated>
+    <steps_updated num="4">Fry in oil until golden brown. </steps_updated>
+    <steps_updated num="5">Let cool until safe to touch and remove from skewer. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baklava Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baklava</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="1">¾ cup ; water ; (180 mL) </ingredient>
+    <ingredient num="2">½ lemon ; lemon juice </ingredient>
+    <ingredient num="3">3 cups ; walnuts ; (300 g) </ingredient>
+    <ingredient num="4">3 tablespoons ; sugar </ingredient>
+    <ingredient num="5">2 teaspoons ; ground cinnamon </ingredient>
+    <ingredient num="6">1 lb ; phyllo dough, #4 or #7 ; (455 g) </ingredient>
+    <ingredient num="7">1 cup ; butter, melted ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Desserts</category>
+    <category num="2">Date Night</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/121279/hls24_1545856986.m3u8</low>
+    <high>https://vid.tasty.co/output/121279/landscape_720/1545856986</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">Make the syrup: In a small pot over medium high heat, combine the sugar, water, and lemon juice, and bring to a boil. Simmer until reduced to a syrupy consistency, 5-7 minutes. Remove from the heat and let cool. </step>
+    <step num="2">Make the filling: In a food processor, combine the walnuts, sugar, and cinnamon. Process until very finely ground. </step>
+    <step num="3">Assemble the baklava: On a flat surface, lay out a sheet of phyllo dough. Brush with melted butter. </step>
+    <step num="4">Spoon some of the filling along the bottom edge of the phyllo sheet, leaving ½ inch (1 ¼ cm) space from the bottom, then roll up as tightly as you can. Transfer to a baking sheet and repeat with the remaining ingredients. You should be about to fit about 12 phyllo rolls per baking sheet. </step>
+    <step num="5">Brush the tops of the rolls with butter, then use a knife to score the rolls diagonally where you will slice them after baking. </step>
+    <step num="6">Bake for 20 minutes, or until golden brown. </step>
+    <step num="7">Immediately after removing from the oven, brush the baklava with the syrup. Finish slicing, then serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Make the syrup: In a small pot over medium high heat, combine the sugar, water, and lemon juice, and bring to a boil. </steps_updated>
+    <steps_updated num="2">Simmer until reduced to a syrupy consistency, 5-7 minutes. </steps_updated>
+    <steps_updated num="3">Remove from the heat and let cool. </steps_updated>
+    <steps_updated num="4">Make the filling: In a food processor, combine the walnuts, sugar, and cinnamon. </steps_updated>
+    <steps_updated num="5">Process until very finely ground. </steps_updated>
+    <steps_updated num="6">Assemble the baklava: On a flat surface, lay out a sheet of phyllo dough. </steps_updated>
+    <steps_updated num="7">Brush with melted butter. </steps_updated>
+    <steps_updated num="8">Spoon some of the filling along the bottom edge of the phyllo sheet, leaving ½ inch (1 ¼ cm) space from the bottom, then roll up as tightly as you can. </steps_updated>
+    <steps_updated num="9">Transfer to a baking sheet and repeat with the remaining ingredients. </steps_updated>
+    <steps_updated num="10">You should be about to fit about 12 phyllo rolls per baking sheet. </steps_updated>
+    <steps_updated num="11">Brush the tops of the rolls with butter, then use a knife to score the rolls diagonally where you will slice them after baking. </steps_updated>
+    <steps_updated num="12">Bake for 20 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="13">Immediately after removing from the oven, brush the baklava with the syrup. </steps_updated>
+    <steps_updated num="14">Finish slicing, then serve. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

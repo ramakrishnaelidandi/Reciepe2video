@@ -1,0 +1,43 @@
+<recipe>
+  <title>Watermelon And Cucumber Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-and-cucumber-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 13278 2597 2787 341 </ingredient>
+    <ingredient num="1">3917 13278 10837 341 </ingredient>
+    <ingredient num="2">3917 13278 8083 12384 3962 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">11039 13810 560 11567 </ingredient>
+    <ingredient num="5">1813 2605 13278 3352 10769 13278 12158 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+    <category num="9">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46435/low_1502138501.m3u8</low>
+    <high>https://vid.tasty.co/output/46435/mp4_720x1280/1502138501</high>
+  </video>
+  <steps>
+    <step num="0">14100 5994 2597 14183 210 2532 7959 </step>
+    <step num="1">7441 2532 371 11951 14183 13817 7545 11951 7929 7990 1916 </step>
+    <step num="2">5570 2787 10837 8083 12384 12610 13817 3352 10769 669 2597 12377 13817 10968 6690 </step>
+    <step num="3">1083 11812 669 9599 2696 14183 7929 6497 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 5994 2597 14183 210 2532 7959 </steps_updated>
+    <steps_updated num="1">7441 2532 371 11951 14183 13817 7545 11951 7929 7990 1916 </steps_updated>
+    <steps_updated num="2">5570 2787 10837 8083 12384 12610 13817 3352 10769 669 2597 12377 13817 10968 6690 </steps_updated>
+    <steps_updated num="3">1083 11812 669 9599 2696 14183 7929 6497 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

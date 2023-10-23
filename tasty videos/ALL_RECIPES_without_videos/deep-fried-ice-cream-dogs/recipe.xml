@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Deep Fried Ice Cream Dogs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/deep-fried-ice-cream-dogs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">vegetable oil, or sunflower oil </ingredient>
+    <ingredient num="1">2 ; hot dog buns </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">2 ¾ cups ; ice cream ; (400 g) </ingredient>
+    <ingredient num="4">your choice of toppings, like sauce or sprinkles </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Fusion</category>
+    <category num="8">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32146/low_1495125347.m3u8</low>
+    <high>https://vid.tasty.co/output/32146/mp4_720x1280/1495125347</high>
+  </video>
+  <steps>
+    <step num="0">Cut the hot dog bun in half, keeping it together a little if you can. </step>
+    <step num="1">Roll the bun in sugar. </step>
+    <step num="2">Fry in hot oil for about 30 seconds each side, </step>
+    <step num="3">Allow to cool for 30 seconds, then fill with ice cream and cover in sauce! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the hot dog bun in half, keeping it together a little if you can. </steps_updated>
+    <steps_updated num="1">Roll the bun in sugar. </steps_updated>
+    <steps_updated num="2">Fry in hot oil for about 30 seconds each side, </steps_updated>
+    <steps_updated num="3">Allow to cool for 30 seconds, then fill with ice cream and cover in sauce! </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

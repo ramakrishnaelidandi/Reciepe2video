@@ -1,0 +1,51 @@
+<recipe>
+  <title>Spinach Mushroom Pesto Spaghetti Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spinach-mushroom-pesto-spaghetti</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 11338 5766 </ingredient>
+    <ingredient num="1">2933 643 13278 13220 13278 9018 5981 </ingredient>
+    <ingredient num="2">8580 9517 13278 9325 976 13278 757 5981 </ingredient>
+    <ingredient num="3">3917 8071 13278 82 </ingredient>
+    <ingredient num="4">3917 8071 13278 7845 </ingredient>
+    <ingredient num="5">3917 2605 13278 2334 13278 9473 5981 </ingredient>
+    <ingredient num="6">1580 2605 13278 109 14538 13278 7289 5981 </ingredient>
+    <ingredient num="7">1580 715 13278 11609 3745 13278 9473 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51258/low_1504721585.m3u8</low>
+    <high>https://vid.tasty.co/output/51258/mp4_720x1280/1504721585</high>
+  </video>
+  <duration>
+    <start_time>47.0</start_time>
+    <end_time>70.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">8889 10083 11770 3996 2082 </step>
+    <step num="1">9179 5766 560 11951 4771 </step>
+    <step num="2">264 11951 13220 1681 1320 </step>
+    <step num="3">9179 11951 9806 12610 13817 7845 8224 1681 6241 371 11951 12282 9490 9050 </step>
+    <step num="4">9179 11951 2334 13817 8924 </step>
+    <step num="5">9179 11951 11609 13817 1686 1681 3584 2194 1391 11951 2260 14207 560 11951 11293 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5766 210 5994 10083 11770 3996 7855 </steps_updated>
+    <steps_updated num="1">264 11951 13220 1681 1320 </steps_updated>
+    <steps_updated num="2">9179 11951 9806 12610 13817 7845 8224 1681 6241 371 11951 12282 9490 9050 </steps_updated>
+    <steps_updated num="3">9179 11951 2334 13817 8924 </steps_updated>
+    <steps_updated num="4">9179 11951 11609 13817 1686 1681 3584 2194 1391 11951 2260 14207 560 11951 11293 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01462</start_time>
+    <end_time>02127</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,56 @@
+<recipe>
+  <title>Tamagoyaki (Japanese Egg Omelet) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tamagoyaki-japanese-egg-omelet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/japanese-lunch</comp_url>
+  <ingredients>
+    <ingredient num="0">11216 8071 13278 3740 11703 </ingredient>
+    <ingredient num="1">11216 8071 13278 82 </ingredient>
+    <ingredient num="2">12791 8071 13278 11691 2260 </ingredient>
+    <ingredient num="3">1580 14014 13278 4834 </ingredient>
+    <ingredient num="4">12791 2605 13278 12282 13278 13125 8007 </ingredient>
+    <ingredient num="5">8580 13278 12708 </ingredient>
+    <ingredient num="6">7632 7990 93 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93823/hls24_1526073991.m3u8</low>
+    <high>https://vid.tasty.co/output/93823/landscape_720/1526073991</high>
+  </video>
+  <duration>
+    <start_time>7.666</start_time>
+    <end_time>70.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2192 14511 4120 11951 6950 12610 11691 7280 6145 13817 2019 9393 1681 12826 9490 10033 </step>
+    <step num="1">10950 5994 13757 14511 3930 11951 12708 13817 740 11951 2634 10665 9393 1681 8460 </step>
+    <step num="2">8889 5994 425 5687 11770 3996 2082 11881 5994 7497 11826 371 5766 4255 11951 10590 </step>
+    <step num="3">1083 5994 3990 371 11951 6216 2373 669 5687 13817 11974 7374 560 6506 11951 887 10590 11233 11951 6216 9490 107 6183 4536 11951 13784 </step>
+    <step num="4">10936 11951 952 6216 8161 210 11951 11745 5406 210 6646 3990 371 11951 6216 10665 1312 3386 11951 952 6216 13817 3945 11951 2373 560 7724 1896 8712 11233 11951 6216 9490 107 4536 11951 9604 7542 11269 5362 1391 11951 12886 371 11951 6216 10665 </step>
+    <step num="5">3235 669 3484 13637 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2192 14511 4120 11951 6950 12610 11691 7280 6145 13817 2019 </steps_updated>
+    <steps_updated num="1">9393 1681 12826 9490 10033 </steps_updated>
+    <steps_updated num="2">10950 5994 13757 14511 3930 11951 12708 13817 740 11951 2634 10665 </steps_updated>
+    <steps_updated num="3">9393 1681 8460 </steps_updated>
+    <steps_updated num="4">8889 5994 425 5687 11770 3996 2082 </steps_updated>
+    <steps_updated num="5">11881 5994 7497 11826 371 5766 4255 11951 10590 </steps_updated>
+    <steps_updated num="6">1083 5994 3990 371 11951 6216 2373 669 5687 13817 11974 7374 560 6506 11951 887 10590 </steps_updated>
+    <steps_updated num="7">11233 11951 6216 9490 107 6183 4536 11951 13784 </steps_updated>
+    <steps_updated num="8">10936 11951 952 6216 8161 210 11951 11745 5406 210 6646 3990 371 11951 6216 10665 </steps_updated>
+    <steps_updated num="9">1312 3386 11951 952 6216 13817 3945 11951 2373 560 7724 1896 8712 </steps_updated>
+    <steps_updated num="10">11233 11951 6216 9490 107 4536 11951 9604 7542 11269 </steps_updated>
+    <steps_updated num="11">5362 1391 11951 12886 371 11951 6216 10665 </steps_updated>
+    <steps_updated num="12">3235 669 3484 13637 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Cider Funnel Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-cider-funnel-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; flour ; (375 g) </ingredient>
+    <ingredient num="1">½ teaspoon ; salt </ingredient>
+    <ingredient num="2">1 tablespoon ; cinnamon </ingredient>
+    <ingredient num="3">½ teaspoon ; allspice </ingredient>
+    <ingredient num="4">2 teaspoons ; baking powder </ingredient>
+    <ingredient num="5">3 ; eggs </ingredient>
+    <ingredient num="6">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="7">1 tablespoon ; vanilla </ingredient>
+    <ingredient num="8">1 cup ; apple cider ; (240 mL) </ingredient>
+    <ingredient num="9">1 cup ; whole milk ; (240 mL) </ingredient>
+    <ingredient num="10">vegetable oil, for frying </ingredient>
+    <ingredient num="11">powdered sugar, for dusting </ingredient>
+    <ingredient num="12">ice cream, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31992/low_1495124962.m3u8</low>
+    <high>https://vid.tasty.co/output/31992/mp4_720x1280/1495124962</high>
+  </video>
+  <steps>
+    <step num="0">Combine flour, salt, cinnamon, allspice and baking powder in a bowl. </step>
+    <step num="1">In separate bowl, combine eggs, sugar and vanilla. Blend. </step>
+    <step num="2">Add apple cider and milk. Blend until well incorporated. </step>
+    <step num="3">Slowly add the dry ingredients to the wet ingredients, blend until you have a smooth and creamy batter. </step>
+    <step num="4">Heat vegetable oil in a deep skillet. </step>
+    <step num="5">Transfer the batter into a zipper bag and trim the corner. </step>
+    <step num="6">Pour batter in funnel cake shapes into the hot oil. Once golden brown, flip and cook the other side (1 min max). </step>
+    <step num="7">Remove and drain on paper towel. </step>
+    <step num="8">Dust with powdered sugar and top with ice cream. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine flour, salt, cinnamon, allspice and baking powder in a bowl. </steps_updated>
+    <steps_updated num="1">In separate bowl, combine eggs, sugar and vanilla. </steps_updated>
+    <steps_updated num="2">Blend. </steps_updated>
+    <steps_updated num="3">Add apple cider and milk. </steps_updated>
+    <steps_updated num="4">Blend until well incorporated. </steps_updated>
+    <steps_updated num="5">Slowly add the dry ingredients to the wet ingredients, blend until you have a smooth and creamy batter. </steps_updated>
+    <steps_updated num="6">Heat vegetable oil in a deep skillet. </steps_updated>
+    <steps_updated num="7">Transfer the batter into a zipper bag and trim the corner. </steps_updated>
+    <steps_updated num="8">Pour batter in funnel cake shapes into the hot oil. </steps_updated>
+    <steps_updated num="9">Once golden brown, flip and cook the other side (1 min max). </steps_updated>
+    <steps_updated num="10">Remove and drain on paper towel. </steps_updated>
+    <steps_updated num="11">Dust with powdered sugar and top with ice cream. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

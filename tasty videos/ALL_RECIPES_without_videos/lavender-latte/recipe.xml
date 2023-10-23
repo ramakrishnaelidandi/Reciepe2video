@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lavender Latte Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lavender-latte</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tea-lattes</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; culinary lavender, plus more for topping </ingredient>
+    <ingredient num="1">½ cup ; hot water ; (120 mL) </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">½ tablespoon ; agave nectar, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Gluten-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114059/hls24_1541113086.m3u8</low>
+    <high>https://vid.tasty.co/output/114059/landscape_720/1541113086</high>
+  </video>
+  <duration>
+    <start_time>159.833</start_time>
+    <end_time>196.133</end_time>
+  </duration>
+  <steps>
+    <step num="0">Steep the lavender in the hot water for 7 minutes. </step>
+    <step num="1">Froth the milk by adding it to a resealable jar. Shake vigorously until many bubbles form. Then, microwave the milk for 45 seconds to 1 minute, which will help create stable bubbles. </step>
+    <step num="2">Remove the lavender, then stir in the agave and frothed milk. </step>
+    <step num="3">Top with more lavender, if desired. </step>
+    <step num="4">Enjoy! </step>
+    <step num="5">Nutrition, per serving - Calories: 89, Total fat: 2 grams, Sodium: 69 mg, Total carb: 18 grams, Dietary fiber: 0 gram, Sugars: 6 grams, Protein: 4 grams </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Steep the lavender in the hot water for 7 minutes. </steps_updated>
+    <steps_updated num="1">Froth the milk by adding it to a resealable jar. </steps_updated>
+    <steps_updated num="2">Shake vigorously until many bubbles form. </steps_updated>
+    <steps_updated num="3">Then, microwave the milk for 45 seconds to 1 minute, which will help create stable bubbles. </steps_updated>
+    <steps_updated num="4">Remove the lavender, then stir in the agave and frothed milk. </steps_updated>
+    <steps_updated num="5">Top with more lavender, if desired. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+    <steps_updated num="7">Nutrition, per serving - Calories: 89, Total fat: 2 grams, Sodium: 69 mg, Total carb: 18 grams, Dietary fiber: 0 gram, Sugars: 6 grams, Protein: 4 grams </steps_updated>
+  </steps_updated>
+</recipe>

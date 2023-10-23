@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Breakfast Taco Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-taco-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mini-tacos-bowls</comp_url>
+  <ingredients>
+    <ingredient num="0">nonstick cooking spray, for greasing </ingredient>
+    <ingredient num="1">3 ; large flour tortillas </ingredient>
+    <ingredient num="2">¾ cup ; vegetarian refried beans ; (180 g) </ingredient>
+    <ingredient num="3">¾ cup ; egg, scrambled ; (165 g) </ingredient>
+    <ingredient num="4">¼ cup ; shredded mexican cheese blend ; (25 g) </ingredient>
+    <ingredient num="5">3 ; cherry tomatoes, quartered </ingredient>
+    <ingredient num="6">fresh cilantro leaves, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106140/hls24_1534894360.m3u8</low>
+    <high>https://vid.tasty.co/output/106140/landscape_720/1534894360</high>
+  </video>
+  <duration>
+    <start_time>4.166</start_time>
+    <end_time>34.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 375ºF (190ºC). Generously coat a 12-cup muffin tin with nonstick spray. </step>
+    <step num="1">Stack the tortillas and cut off the edges so the tortillas are square. Then, quarter the squares so you have 12 small tortilla pieces. </step>
+    <step num="2">Press a tortilla square into each cup of the prepared muffin tin. </step>
+    <step num="3">Fill each cup with 1 tablespoon of refried beans, 1 tablespoon of scrambled eggs, and 1 teaspoon of cheese and top with a cherry tomato quarter. </step>
+    <step num="4">Bake for about 10 minutes, until the edges of the tortillas are golden brown and the cheese has melted. </step>
+    <step num="5">Garnish with cilantro. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375ºF (190ºC). </steps_updated>
+    <steps_updated num="1">Generously coat a 12-cup muffin tin with nonstick spray. </steps_updated>
+    <steps_updated num="2">Stack the tortillas and cut off the edges so the tortillas are square. </steps_updated>
+    <steps_updated num="3">Then, quarter the squares so you have 12 small tortilla pieces. </steps_updated>
+    <steps_updated num="4">Press a tortilla square into each cup of the prepared muffin tin. </steps_updated>
+    <steps_updated num="5">Fill each cup with 1 tablespoon of refried beans, 1 tablespoon of scrambled eggs, and 1 teaspoon of cheese and top with a cherry tomato quarter. </steps_updated>
+    <steps_updated num="6">Bake for about 10 minutes, until the edges of the tortillas are golden brown and the cheese has melted. </steps_updated>
+    <steps_updated num="7">Garnish with cilantro. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

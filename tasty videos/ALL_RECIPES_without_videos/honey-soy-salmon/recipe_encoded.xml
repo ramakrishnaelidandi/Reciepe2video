@@ -1,0 +1,60 @@
+<recipe>
+  <title>Honey Soy Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-soy-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/one-pan-salmon-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 643 13278 2144 7989 13278 8118 5981 </ingredient>
+    <ingredient num="1">8580 9517 13278 2340 9800 13278 1513 5981 </ingredient>
+    <ingredient num="2">8244 7632 560 11567 </ingredient>
+    <ingredient num="3">12610 560 11567 </ingredient>
+    <ingredient num="4">10986 560 11567 </ingredient>
+    <ingredient num="5">3917 14014 13278 4985 12384 976 </ingredient>
+    <ingredient num="6">3917 8071 13278 11384 </ingredient>
+    <ingredient num="7">3917 8071 13278 14418 </ingredient>
+    <ingredient num="8">12791 8071 13278 7845 </ingredient>
+    <ingredient num="9">3917 14014 13278 11691 2260 </ingredient>
+    <ingredient num="10">3917 14014 13278 9586 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9818/low_1473382399.m3u8</low>
+    <high>https://vid.tasty.co/output/9818/mp4_720x1280/1473382399</high>
+  </video>
+  <duration>
+    <start_time>39.1</start_time>
+    <end_time>62.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 11480 5578 </step>
+    <step num="1">10950 5994 2192 14511 10968 9586 11691 6966 295 </step>
+    <step num="2">4124 11951 7989 4255 5994 10765 8800 1083 11951 6966 11770 11951 1565 </step>
+    <step num="3">4124 11951 2340 2158 11951 9069 9801 11155 3445 1594 8244 5766 11770 11951 8741 415 12616 1391 82 13817 12375 </step>
+    <step num="4">7831 7990 9810 12689 </step>
+    <step num="5">13494 1391 976 4985 914 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 11480 5578 </steps_updated>
+    <steps_updated num="1">10950 5994 2192 14511 10968 9586 11691 6966 295 </steps_updated>
+    <steps_updated num="2">4124 11951 7989 4255 5994 10765 8800 </steps_updated>
+    <steps_updated num="3">1083 11951 6966 11770 11951 1565 </steps_updated>
+    <steps_updated num="4">4124 11951 2340 2158 11951 9069 9801 11155 3445 </steps_updated>
+    <steps_updated num="5">1594 8244 5766 11770 11951 8741 415 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="6">7831 7990 9810 12689 </steps_updated>
+    <steps_updated num="7">13494 1391 976 4985 914 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01237</start_time>
+    <end_time>01874</end_time>
+  </duration_human>
+</recipe>

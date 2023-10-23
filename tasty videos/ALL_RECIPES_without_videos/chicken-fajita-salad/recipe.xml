@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Fajita Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-fajita-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="1">1 ; boneless, skinless chicken breast </ingredient>
+    <ingredient num="2">1 ; red bell pepper, thinly sliced </ingredient>
+    <ingredient num="3">1 ; yellow bell pepper, thinly sliced </ingredient>
+    <ingredient num="4">1 ; onion, medium, thinly sliced </ingredient>
+    <ingredient num="5">1 teaspoon ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="7">1 teaspoon ; cumin </ingredient>
+    <ingredient num="8">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="9">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="10">3 tablespoons ; lime juice </ingredient>
+    <ingredient num="11">1 teaspoon ; brown sugar </ingredient>
+    <ingredient num="12">1 teaspoon ; chili flakes </ingredient>
+    <ingredient num="13">1 teaspoon ; salt </ingredient>
+    <ingredient num="14">1 head ; romaine lettuce, chopped </ingredient>
+    <ingredient num="15">1 ; avocado, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Lunch</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31941/low_1495124919.m3u8</low>
+    <high>https://vid.tasty.co/output/31941/mp4_720x1280/1495124919</high>
+  </video>
+  <steps>
+    <step num="0">Heat the oil in a pan over medium-high heat. Cook the chicken, bell peppers, onion, salt, chili powder, cumin, and garlic powder for five minutes, stirring constantly. </step>
+    <step num="1">Flip the chicken, and cook for another five minutes, until chicken is cooked and vegetables are slightly soft. Remove from heat and slice the chicken into strips. </step>
+    <step num="2">In a small bowl, combine the olive oil, lime juice, brown sugar, chili, and salt, stirring until evenly mixed. </step>
+    <step num="3">In a large bowl, toss the romaine lettuce with the chicken, peppers &amp; onions, avocado, and dressing. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the oil in a pan over medium-high heat. </steps_updated>
+    <steps_updated num="1">Cook the chicken, bell peppers, onion, salt, chili powder, cumin, and garlic powder for five minutes, stirring constantly. </steps_updated>
+    <steps_updated num="2">Flip the chicken, and cook for another five minutes, until chicken is cooked and vegetables are slightly soft. </steps_updated>
+    <steps_updated num="3">Remove from heat and slice the chicken into strips. </steps_updated>
+    <steps_updated num="4">In a small bowl, combine the olive oil, lime juice, brown sugar, chili, and salt, stirring until evenly mixed. </steps_updated>
+    <steps_updated num="5">In a large bowl, toss the romaine lettuce with the chicken, peppers &amp; onions, avocado, and dressing. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

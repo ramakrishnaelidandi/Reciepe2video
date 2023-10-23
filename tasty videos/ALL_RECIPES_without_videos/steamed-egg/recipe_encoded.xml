@@ -1,0 +1,46 @@
+<recipe>
+  <title>Steamed Egg Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/steamed-egg</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 1813 9517 13278 13384 3247 13278 7438 8007 </ingredient>
+    <ingredient num="1">3917 13278 4036 9917 </ingredient>
+    <ingredient num="2">3917 2157 13278 82 </ingredient>
+    <ingredient num="3">11292 1404 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>45.0</start_time>
+    <end_time>68.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">8785 5994 13757 10083 1391 6285 3917 2605 7503 9443 371 13384 644 9815 560 6506 11951 551 371 11951 5687 5569 2237 2985 8891 9969 560 5994 11714 </step>
+    <step num="1">9179 11951 9917 6216 560 5994 11594 13817 1678 210 5994 2157 371 12051 </step>
+    <step num="2">4829 12723 13328 1391 5994 12747 5406 210 11951 374 2019 </step>
+    <step num="3">4660 1391 3615 13817 3345 11951 11594 669 11951 2032 2019 4660 13817 14170 7990 409 12689 2642 13260 5103 11951 14592 13817 13176 3482 11951 11426 </step>
+    <step num="4">13494 1391 3938 5358 1762 7156 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 5994 13757 10083 1391 6285 3917 2605 7503 9443 371 13384 644 9815 560 6506 11951 551 371 11951 5687 5569 2237 2985 8891 9969 560 5994 11714 </steps_updated>
+    <steps_updated num="1">9179 11951 9917 6216 560 5994 11594 13817 1678 210 5994 2157 371 12051 </steps_updated>
+    <steps_updated num="2">4829 12723 13328 1391 5994 12747 5406 210 11951 374 2019 </steps_updated>
+    <steps_updated num="3">4660 1391 3615 13817 3345 11951 11594 669 11951 2032 2019 </steps_updated>
+    <steps_updated num="4">4660 13817 14170 7990 409 12689 </steps_updated>
+    <steps_updated num="5">2642 13260 5103 11951 14592 13817 13176 3482 11951 11426 </steps_updated>
+    <steps_updated num="6">13494 1391 3938 5358 1762 7156 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+</recipe>

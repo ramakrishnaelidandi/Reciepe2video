@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bleeding Vampire Drink Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bleeding-vampire-drink</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="1">2 tablespoons ; grenadine </ingredient>
+    <ingredient num="2">1 tablespoon ; red food coloring </ingredient>
+    <ingredient num="3">lemon-lime soda </ingredient>
+    <ingredient num="4">plastic vampire teeth </ingredient>
+    <ingredient num="5">pipette, or eyedropper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/112600/hls24_1539904560.m3u8</low>
+    <high>https://vid.tasty.co/output/112600/landscape_720/1539904560</high>
+  </video>
+  <steps>
+    <step num="0">Combine water, grenadine, and food coloring. </step>
+    <step num="1">Using a pipette or an eyedropper fill the inner chamber of plastic vampire teeth with the grenadine mixture. </step>
+    <step num="2">Freeze the filled vampire teeth. </step>
+    <step num="3">Fill a clear glass with lemon-lime soda or any other clear carbonated beverage. </step>
+    <step num="4">Place the frozen vampire teeth ice cubes on the rim of the glass. </step>
+    <step num="5">The grenadine ice cube will melt into the drink and slowly turn the drink red. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine water, grenadine, and food coloring. </steps_updated>
+    <steps_updated num="1">Using a pipette or an eyedropper fill the inner chamber of plastic vampire teeth with the grenadine mixture. </steps_updated>
+    <steps_updated num="2">Freeze the filled vampire teeth. </steps_updated>
+    <steps_updated num="3">Fill a clear glass with lemon-lime soda or any other clear carbonated beverage. </steps_updated>
+    <steps_updated num="4">Place the frozen vampire teeth ice cubes on the rim of the glass. </steps_updated>
+    <steps_updated num="5">The grenadine ice cube will melt into the drink and slowly turn the drink red. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

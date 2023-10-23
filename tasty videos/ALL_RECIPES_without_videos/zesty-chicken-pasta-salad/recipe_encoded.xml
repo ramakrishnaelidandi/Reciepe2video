@@ -1,0 +1,45 @@
+<recipe>
+  <title>Zesty Chicken Pasta Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/zesty-chicken-pasta-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 6360 5444 3745 13278 6898 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 3333 7983 13278 9377 5981 </ingredient>
+    <ingredient num="2">12791 2605 13278 10837 341 13278 4239 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 4587 341 13278 13125 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 13584 12274 976 </ingredient>
+    <ingredient num="5">11061 13278 8602 7042 976 210 2532 </ingredient>
+    <ingredient num="6">1580 2605 13278 5425 4926 13278 13125 5981 </ingredient>
+    <ingredient num="7">13086 9486 13278 11239 11708 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>29.0</start_time>
+    <end_time>53.24</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 4120 5444 12816 10837 4587 13584 11150 976 7042 8445 13817 6302 5342 </step>
+    <step num="1">9393 3145 13817 5406 950 11812 669 5994 6661 1854 1173 1391 6744 13817 4068 7990 6701 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 4120 5444 12816 10837 4587 13584 11150 976 7042 8445 13817 6302 5342 </steps_updated>
+    <steps_updated num="1">9393 3145 13817 5406 950 11812 669 5994 6661 1854 </steps_updated>
+    <steps_updated num="2">1173 1391 6744 13817 4068 7990 6701 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00924</start_time>
+    <end_time>01642</end_time>
+  </duration_human>
+</recipe>

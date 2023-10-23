@@ -1,0 +1,72 @@
+<recipe>
+  <title>Ratatouille Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ratatouille</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 333 </ingredient>
+    <ingredient num="1">11061 13278 3665 717 </ingredient>
+    <ingredient num="2">8580 13278 11091 7866 </ingredient>
+    <ingredient num="3">8580 13278 7066 </ingredient>
+    <ingredient num="4">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="5">3917 13278 12384 341 </ingredient>
+    <ingredient num="6">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="7">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="8">3917 13278 11091 1466 10986 341 </ingredient>
+    <ingredient num="9">12610 560 11567 </ingredient>
+    <ingredient num="10">10986 560 11567 </ingredient>
+    <ingredient num="11">13347 643 13278 14138 371 5614 717 </ingredient>
+    <ingredient num="12">8580 9486 13278 3962 6209 749 6781 1882 2526 </ingredient>
+    <ingredient num="13">8580 9486 13278 3962 6209 749 6781 1882 2526 </ingredient>
+    <ingredient num="14">3917 8071 13278 4155 10015 </ingredient>
+    <ingredient num="15">8580 9486 13278 4899 6209 2768 </ingredient>
+    <ingredient num="16">8580 2031 13278 6209 9211 </ingredient>
+    <ingredient num="17">12610 560 11567 </ingredient>
+    <ingredient num="18">10986 560 11567 </ingredient>
+    <ingredient num="19">4061 9486 13278 8244 5766 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">French</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13082/low_1477516794.m3u8</low>
+    <high>https://vid.tasty.co/output/13082/mp4_720x1280/1477516794</high>
+  </video>
+  <steps>
+    <step num="0">3915 11951 10439 7990 7951 </step>
+    <step num="1">3235 11951 2070 3665 7042 7602 13817 7601 669 205 9603 13759 4199 415 817 5292 </step>
+    <step num="2">8889 8244 5766 210 5994 14328 10439 13378 5687 11770 3996 2082 13888 7272 4155 13817 1466 2986 1681 91 6285 13767 12689 10242 1391 82 13817 10986 415 740 5614 8720 12473 1681 11907 12573 7568 9456 6054 6781 14307 415 740 13952 12473 1956 7191 415 6873 11951 12605 371 11951 2260 1391 12313 14263 </step>
+    <step num="3">6695 11951 976 4068 210 14174 4103 1541 8848 9491 7602 2182 4255 10707 371 11951 2260 6781 11951 2202 12872 560 11951 1864 371 11951 10590 10242 1391 82 13817 12375 </step>
+    <step num="4">9393 13143 2634 13817 5406 11770 11951 14212 </step>
+    <step num="5">4660 11951 5687 1391 2141 3615 13817 10903 7990 11203 12689 136 11203 11004 12947 415 10903 7990 2237 3274 5527 12689 12450 284 5376 11484 2021 </step>
+    <step num="6">12774 3343 6222 2658 5994 7080 5435 5895 2658 5994 11801 6325 12450 1004 9490 10455 9212 11951 5116 14355 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 7990 7951 </steps_updated>
+    <steps_updated num="1">3235 11951 2070 3665 7042 7602 13817 7601 669 205 9603 13759 4199 415 817 5292 </steps_updated>
+    <steps_updated num="2">8889 8244 5766 210 5994 14328 10439 13378 5687 11770 3996 2082 </steps_updated>
+    <steps_updated num="3">13888 7272 4155 13817 1466 2986 1681 91 6285 13767 12689 </steps_updated>
+    <steps_updated num="4">10242 1391 82 13817 10986 415 740 5614 8720 </steps_updated>
+    <steps_updated num="5">12473 1681 11907 12573 7568 9456 </steps_updated>
+    <steps_updated num="6">6054 6781 14307 415 740 13952 </steps_updated>
+    <steps_updated num="7">12473 1956 7191 415 6873 11951 12605 371 11951 2260 1391 12313 14263 </steps_updated>
+    <steps_updated num="8">6695 11951 976 4068 210 14174 4103 1541 </steps_updated>
+    <steps_updated num="9">8848 9491 7602 2182 4255 10707 371 11951 2260 6781 11951 2202 12872 560 11951 1864 371 11951 10590 </steps_updated>
+    <steps_updated num="10">10242 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="11">9393 13143 2634 13817 5406 11770 11951 14212 </steps_updated>
+    <steps_updated num="12">4660 11951 5687 1391 2141 3615 13817 10903 7990 11203 12689 </steps_updated>
+    <steps_updated num="13">136 11203 11004 12947 415 10903 7990 2237 3274 5527 12689 </steps_updated>
+    <steps_updated num="14">12450 284 5376 11484 2021 </steps_updated>
+    <steps_updated num="15">12774 3343 6222 2658 5994 7080 5435 5895 2658 5994 11801 6325 </steps_updated>
+    <steps_updated num="16">12450 1004 9490 10455 9212 11951 5116 14355 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

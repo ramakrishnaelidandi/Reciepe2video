@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Alfredo Chicken Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/alfredo-chicken-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">24 oz ; alfredo sauce, or more, to preference ; (680 g) </ingredient>
+    <ingredient num="4">1 lb ; broccoli head ; (455 g) </ingredient>
+    <ingredient num="5">1 cup ; parmesan cheese ; (110 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/75842/hls24_1517417494.m3u8</low>
+    <high>https://vid.tasty.co/output/75842/landscape_720/1517417494</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400˚F (200˚C). </step>
+    <step num="1">Spread a layer of alfredo sauce on the baking dish. Place chicken breast over sauce. Season chicken with salt and pepper, to taste. </step>
+    <step num="2">Spread broccoli over chicken. </step>
+    <step num="3">Pour remaining alfredo over chicken and broccoli. </step>
+    <step num="4">Top with Parmesan cheese. </step>
+    <step num="5">Bake for 40 minutes. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Spread a layer of alfredo sauce on the baking dish. </steps_updated>
+    <steps_updated num="2">Place chicken breast over sauce. </steps_updated>
+    <steps_updated num="3">Season chicken with salt and pepper, to taste. </steps_updated>
+    <steps_updated num="4">Spread broccoli over chicken. </steps_updated>
+    <steps_updated num="5">Pour remaining alfredo over chicken and broccoli. </steps_updated>
+    <steps_updated num="6">Top with Parmesan cheese. </steps_updated>
+    <steps_updated num="7">Bake for 40 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

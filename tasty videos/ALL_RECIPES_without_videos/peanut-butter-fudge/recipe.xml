@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peanut Butter Fudge Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-fudge</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; peanut butter ; (480 g) </ingredient>
+    <ingredient num="1">¼ cup ; coconut oil ; (50 g) </ingredient>
+    <ingredient num="2">½ cup ; powdered sugar ; (80 g) </ingredient>
+    <ingredient num="3">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; salt </ingredient>
+    <ingredient num="5">2 teaspoons ; vanilla extract </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32028/low_1495125022.m3u8</low>
+    <high>https://vid.tasty.co/output/32028/mp4_720x1280/1495125022</high>
+  </video>
+  <steps>
+    <step num="0">Combine peanut butter, melted coconut oil, powdered sugar, honey, salt, and vanilla extract in a bowl until all ingredients are well-combined. </step>
+    <step num="1">Pour into a container lined with wax paper and smooth out the surface with a spoon </step>
+    <step num="2">Freeze for at least 1 hour and take the fudge out of the freezer just before serving. </step>
+    <step num="3">NOTE: Leftovers should be stored in an airtight container in the freezer. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine peanut butter, melted coconut oil, powdered sugar, honey, salt, and vanilla extract in a bowl until all ingredients are well-combined. </steps_updated>
+    <steps_updated num="1">Pour into a container lined with wax paper and smooth out the surface with a spoon </steps_updated>
+    <steps_updated num="2">Freeze for at least 1 hour and take the fudge out of the freezer just before serving. </steps_updated>
+    <steps_updated num="3">NOTE: Leftovers should be stored in an airtight container in the freezer. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

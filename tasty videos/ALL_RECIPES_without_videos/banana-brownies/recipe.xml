@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-healthier-banana-swap-outs</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">1 box ; brownie mix </ingredient>
+    <ingredient num="2">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="3">2 ; eggs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14770/low_1479239773.m3u8</low>
+    <high>https://vid.tasty.co/output/14770/mp4_720x1280/1479239773</high>
+  </video>
+  <duration>
+    <start_time>1.33</start_time>
+    <end_time>32.33</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350ºF (175ºC). </step>
+    <step num="1">In a large bowl, mash the banana until it's liquid. </step>
+    <step num="2">Add the remaining ingredients to the bowl and mix until incorporated. </step>
+    <step num="3">Pour the mix into a greased 8x8" (20cm x 20cm) baking pan. </step>
+    <step num="4">Bake for 15 minutes. </step>
+    <step num="5">Allow to cool for 5 minutes. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350ºF (175ºC). </steps_updated>
+    <steps_updated num="1">In a large bowl, mash the banana until it's liquid. </steps_updated>
+    <steps_updated num="2">Add the remaining ingredients to the bowl and mix until incorporated. </steps_updated>
+    <steps_updated num="3">Pour the mix into a greased 8x8" (20cm x 20cm) baking pan. </steps_updated>
+    <steps_updated num="4">Bake for 15 minutes. </steps_updated>
+    <steps_updated num="5">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Basil And Pesto Hasselback Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/basil-and-pesto-hasselback-chicken</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hasselback-chicken-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; chicken breasts </ingredient>
+    <ingredient num="1">2 tablespoons ; red pesto </ingredient>
+    <ingredient num="2">1 handful ; fresh basil, roughly chopped </ingredient>
+    <ingredient num="3">½ cup ; mozzarella cheese ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dinner</category>
+    <category num="1">Lunch</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/38809/low_1498727674.m3u8</low>
+    <high>https://vid.tasty.co/output/38809/mp4_720x1280/1498727674</high>
+  </video>
+  <duration>
+    <start_time>74.0</start_time>
+    <end_time>95.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). </step>
+    <step num="1">Slice into the chicken several times, about 1 cm (½ inch) apart, but only cut about 85% of the way through, leaving the bottom intact. </step>
+    <step num="2">Cook the red pesto and basil on a medium heat until the basil is just wilted. </step>
+    <step num="3">Sprinkle over the mozzarella and stir until melted. </step>
+    <step num="4">Allow to cool to the touch, and then fill each segment of the chicken breast with about 1 teaspoon of the mixture. </step>
+    <step num="5">Bake in the centre of the oven for 18-22 minutes until the chicken is cooked through and the juices run clear. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Slice into the chicken several times, about 1 cm (½ inch) apart, but only cut about 85% of the way through, leaving the bottom intact. </steps_updated>
+    <steps_updated num="2">Cook the red pesto and basil on a medium heat until the basil is just wilted. </steps_updated>
+    <steps_updated num="3">Sprinkle over the mozzarella and stir until melted. </steps_updated>
+    <steps_updated num="4">Allow to cool to the touch, and then fill each segment of the chicken breast with about 1 teaspoon of the mixture. </steps_updated>
+    <steps_updated num="5">Bake in the centre of the oven for 18-22 minutes until the chicken is cooked through and the juices run clear. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02257</start_time>
+    <end_time>02877</end_time>
+  </duration_human>
+</recipe>

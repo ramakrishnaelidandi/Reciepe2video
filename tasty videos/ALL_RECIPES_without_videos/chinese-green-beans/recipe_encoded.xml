@@ -1,0 +1,55 @@
+<recipe>
+  <title>Chinese Green Beans Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chinese-green-beans</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 4168 5766 13278 13125 8007 </ingredient>
+    <ingredient num="1">3917 715 13278 1434 3984 13278 14577 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 11384 </ingredient>
+    <ingredient num="3">3917 8071 13278 14418 </ingredient>
+    <ingredient num="4">13086 13278 10286 3962 </ingredient>
+    <ingredient num="5">4061 643 13278 7424 14094 13278 6518 5981 </ingredient>
+    <ingredient num="6">1580 715 13278 11088 5234 13278 2583 5981 </ingredient>
+    <ingredient num="7">4061 13278 796 8083 246 </ingredient>
+    <ingredient num="8">3917 14014 13278 13389 30 </ingredient>
+    <ingredient num="9">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="10">3917 14014 13278 7706 13538 </ingredient>
+    <ingredient num="11">4617 10986 13030 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Sides</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32154/low_1495125393.m3u8</low>
+    <high>https://vid.tasty.co/output/32154/mp4_720x1280/1495125393</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 2597 5687 5895 9842 7855 11951 5766 11770 8319 8916 11951 1434 6143 1681 6665 12207 13611 6054 11951 1434 6200 </step>
+    <step num="1">10950 11951 5540 5687 5895 9842 740 11951 4155 14635 13817 8278 8916 1681 11564 </step>
+    <step num="2">9179 11951 14094 13817 11088 1643 8916 1681 11951 5234 9490 1954 13686 12473 210 11951 11951 796 8083 246 13817 13389 14012 </step>
+    <step num="3">9179 11951 1434 6143 13352 11951 3502 7643 560 4120 10913 9179 11951 11691 7280 7706 8286 13817 5994 13030 371 4617 12375 5015 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 5687 5895 9842 7855 11951 5766 11770 8319 </steps_updated>
+    <steps_updated num="1">8916 11951 1434 6143 1681 6665 12207 13611 </steps_updated>
+    <steps_updated num="2">6054 11951 1434 6200 </steps_updated>
+    <steps_updated num="3">10950 11951 5540 5687 5895 9842 740 11951 4155 14635 13817 8278 </steps_updated>
+    <steps_updated num="4">8916 1681 11564 </steps_updated>
+    <steps_updated num="5">9179 11951 14094 13817 11088 1643 </steps_updated>
+    <steps_updated num="6">8916 1681 11951 5234 9490 1954 13686 </steps_updated>
+    <steps_updated num="7">12473 210 11951 11951 796 8083 246 13817 13389 14012 </steps_updated>
+    <steps_updated num="8">9179 11951 1434 6143 13352 11951 3502 </steps_updated>
+    <steps_updated num="9">7643 560 4120 10913 </steps_updated>
+    <steps_updated num="10">9179 11951 11691 7280 7706 8286 13817 5994 13030 371 4617 12375 </steps_updated>
+    <steps_updated num="11">5015 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

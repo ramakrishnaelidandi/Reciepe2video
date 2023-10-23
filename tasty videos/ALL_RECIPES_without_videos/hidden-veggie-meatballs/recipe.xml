@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hidden Veggie Meatballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hidden-veggie-meatballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; large carrot, shredded </ingredient>
+    <ingredient num="1">1 ; zucchini, shredded </ingredient>
+    <ingredient num="2">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="3">1 lb ; ground pork ; (455 g) </ingredient>
+    <ingredient num="4">¼ cup ; grated parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="5">¼ cup ; onion, minced ; (40 g) </ingredient>
+    <ingredient num="6">¼ cup ; fresh parsley, minced ; (10 g) </ingredient>
+    <ingredient num="7">2 teaspoons ; salt </ingredient>
+    <ingredient num="8">1 teaspoon ; pepper </ingredient>
+    <ingredient num="9">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="10">2 ; eggs </ingredient>
+    <ingredient num="11">1 cup ; bread crumbs ; (115 g) </ingredient>
+    <ingredient num="12">marinara sauce, as needed </ingredient>
+    <ingredient num="13">16 oz ; spaghetti, cooked ; (455 g) </ingredient>
+    <ingredient num="14">parmesan cheese, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23970/low_1487114404.m3u8</low>
+    <high>https://vid.tasty.co/output/23970/mp4_720x1280/1487114404</high>
+  </video>
+  <steps>
+    <step num="0">Place shredded carrot and zucchini on a clean towel and wring out as much liquid as possible. </step>
+    <step num="1">Place strained carrot and zucchini in a bowl and add ground beef, ground pork, parmesan, onion, parsley, salt, pepper, garlic powder, breadcrumbs, and eggs. Mix until just combined. </step>
+    <step num="2">Grab about a ¼ cup (85 grams) of the mixture and roll into a ball. </step>
+    <step num="3">Either pan-fry the meatballs over medium-high heat until all sides are golden brown, about 10 minutes, and pour marinara sauce into the pan. Simmer for 10-15 minutes. Or you can bake them on a piece of parchment paper at 250˚F (180˚C) for 30-35 minutes, flipping after the first 15 minutes. Warm up marinara sauce on the side. </step>
+    <step num="4">Serve with cooked spaghetti and parmesan cheese. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place shredded carrot and zucchini on a clean towel and wring out as much liquid as possible. </steps_updated>
+    <steps_updated num="1">Place strained carrot and zucchini in a bowl and add ground beef, ground pork, parmesan, onion, parsley, salt, pepper, garlic powder, breadcrumbs, and eggs. </steps_updated>
+    <steps_updated num="2">Mix until just combined. </steps_updated>
+    <steps_updated num="3">Grab about a ¼ cup (85 grams) of the mixture and roll into a ball. </steps_updated>
+    <steps_updated num="4">Either pan-fry the meatballs over medium-high heat until all sides are golden brown, about 10 minutes, and pour marinara sauce into the pan. </steps_updated>
+    <steps_updated num="5">Simmer for 10-15 minutes. </steps_updated>
+    <steps_updated num="6">Or you can bake them on a piece of parchment paper at 250˚F (180˚C) for 30-35 minutes, flipping after the first 15 minutes. </steps_updated>
+    <steps_updated num="7">Warm up marinara sauce on the side. </steps_updated>
+    <steps_updated num="8">Serve with cooked spaghetti and parmesan cheese. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

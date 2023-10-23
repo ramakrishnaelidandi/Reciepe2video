@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sweet Potato Black Bean Hash Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sweet-potato-black-bean-hash</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">3 cups ; sweet potato, diced, about 2 large potatoes ; (600 g) </ingredient>
+    <ingredient num="2">½ ; yellow onion, diced </ingredient>
+    <ingredient num="3">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">½ tablespoon ; paprika </ingredient>
+    <ingredient num="7">1 teaspoon ; cumin </ingredient>
+    <ingredient num="8">2 cups ; spinach ; (80 g) </ingredient>
+    <ingredient num="9">15 oz ; black beans, 1 can ; (425 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32125/low_1495125397.m3u8</low>
+    <high>https://vid.tasty.co/output/32125/mp4_720x1280/1495125397</high>
+  </video>
+  <steps>
+    <step num="0">Heat olive oil on medium heat in a 4-quart chicken fryer. Add sweet potatoes, onion, pepper, salt, pepper, paprika, and cumin, and stir. Cook for 10 minutes, occasionally stirring. </step>
+    <step num="1">Add spinach and cook for an additional five minutes. </step>
+    <step num="2">Lastly, add the black beans and stir until all ingredients are well-blended. </step>
+    <step num="3">NOTE: We topped our hash with an egg and avocado slices. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil on medium heat in a 4-quart chicken fryer. </steps_updated>
+    <steps_updated num="1">Add sweet potatoes, onion, pepper, salt, pepper, paprika, and cumin, and stir. </steps_updated>
+    <steps_updated num="2">Cook for 10 minutes, occasionally stirring. </steps_updated>
+    <steps_updated num="3">Add spinach and cook for an additional five minutes. </steps_updated>
+    <steps_updated num="4">Lastly, add the black beans and stir until all ingredients are well-blended. </steps_updated>
+    <steps_updated num="5">NOTE: We topped our hash with an egg and avocado slices. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

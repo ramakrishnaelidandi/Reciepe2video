@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bell Pepper And Kale Frittata Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bell-pepper-and-kale-frittata</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-unique-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; large eggs </ingredient>
+    <ingredient num="1">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="2">olive oil, drizzle </ingredient>
+    <ingredient num="3">½ cup ; kale, chopped ; (35 g) </ingredient>
+    <ingredient num="4">⅓ cup ; bell pepper, diced ; (35 g) </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">¼ cup ; feta cheese, crumbled ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105971/hls24_1534801160.m3u8</low>
+    <high>https://vid.tasty.co/output/105971/landscape_720/1534801160</high>
+  </video>
+  <duration>
+    <start_time>50.0</start_time>
+    <end_time>91.366</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, whisk together the eggs and milk. </step>
+    <step num="1">Heat the olive oil in an oven-safe pan over medium-low heat. When the oil is shimmering, add the kale, bell pepper, salt, and pepper. Sauté until the pepper is tender, about 10 minutes. </step>
+    <step num="2">Pour the egg mixture into the pan and sprinkle the feta cheese on top. Continue to cook, pushing in the edges occasionally to make sure all the egg cooks evenly. Remove from the heat. </step>
+    <step num="3">Place the pan in the oven and broil on high until the top is lightly browned, about 4 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, whisk together the eggs and milk. </steps_updated>
+    <steps_updated num="1">Heat the olive oil in an oven-safe pan over medium-low heat. </steps_updated>
+    <steps_updated num="2">When the oil is shimmering, add the kale, bell pepper, salt, and pepper. </steps_updated>
+    <steps_updated num="3">Sauté until the pepper is tender, about 10 minutes. </steps_updated>
+    <steps_updated num="4">Pour the egg mixture into the pan and sprinkle the feta cheese on top. </steps_updated>
+    <steps_updated num="5">Continue to cook, pushing in the edges occasionally to make sure all the egg cooks evenly. </steps_updated>
+    <steps_updated num="6">Remove from the heat. </steps_updated>
+    <steps_updated num="7">Place the pan in the oven and broil on high until the top is lightly browned, about 4 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

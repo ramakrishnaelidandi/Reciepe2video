@@ -1,0 +1,67 @@
+<recipe>
+  <title>General Tso&#8217;s Tempeh Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/general-tsos-tempeh</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8268 643 13278 3912 13278 4563 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 12367 13278 1258 5981 </ingredient>
+    <ingredient num="2">3917 8071 13278 9496 </ingredient>
+    <ingredient num="3">4061 13667 13278 4155 516 3247 </ingredient>
+    <ingredient num="4">4061 2031 13278 14635 13801 3247 </ingredient>
+    <ingredient num="5">8580 9486 13278 9110 7632 3247 </ingredient>
+    <ingredient num="6">8580 9486 13278 7706 13538 </ingredient>
+    <ingredient num="7">4061 9486 13278 11691 7280 3247 </ingredient>
+    <ingredient num="8">12791 2605 13278 5766 13278 13125 8007 </ingredient>
+    <ingredient num="9">1580 8071 13278 8083 7845 10876 </ingredient>
+    <ingredient num="10">3917 14014 13278 9668 30 </ingredient>
+    <ingredient num="11">12791 2605 13278 4168 547 13278 13125 8007 </ingredient>
+    <ingredient num="12">3917 14014 13278 7706 10769 </ingredient>
+    <ingredient num="13">3917 14014 13278 9586 </ingredient>
+    <ingredient num="14">9110 4 7928 560 4711 </ingredient>
+    <ingredient num="15">3917 14014 13278 12367 </ingredient>
+    <ingredient num="16">8580 9486 13278 12282 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/53560/low_1506447034.m3u8</low>
+    <high>https://vid.tasty.co/output/53560/mp4_720x1280/1506447034</high>
+  </video>
+  <steps>
+    <step num="0">13190 11951 3912 669 7983 6451 13009 13817 10231 560 5994 3624 7616 </step>
+    <step num="1">9179 11951 2089 6958 14635 4155 9110 7632 7706 8286 13817 11691 2260 560 11951 7616 9393 1681 9456 4660 13817 1780 210 10437 7990 3917 7739 4738 </step>
+    <step num="2">9179 5766 560 5994 5687 4255 3996 7855 13817 12814 3912 1681 870 4255 6697 6701 6054 6781 10590 </step>
+    <step num="3">10950 11951 5540 11745 740 210 5766 13817 9110 5766 4255 3996 2082 </step>
+    <step num="4">9179 11951 4155 14635 13817 8083 7845 8635 13817 2550 1681 10963 1368 13817 4682 6285 3917 6513 </step>
+    <step num="5">9179 11951 9668 30 13817 4168 42 13817 6142 1681 9456 </step>
+    <step num="6">9179 11951 11691 7280 7706 4450 13817 14240 13817 6142 1681 8554 12573 9456 </step>
+    <step num="7">9179 11951 12367 9328 3331 11951 12367 1391 11951 12282 210 5994 2192 12377 1681 30 2302 669 2260 2373 13817 6142 1681 2260 13776 </step>
+    <step num="8">4278 11951 3912 560 11951 5687 13817 2234 560 9010 1391 11951 9286 13494 1391 9110 1245 6497 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">13190 11951 3912 669 7983 6451 13009 13817 10231 560 5994 3624 7616 </steps_updated>
+    <steps_updated num="1">9179 11951 2089 6958 14635 4155 9110 7632 7706 8286 13817 11691 2260 560 11951 7616 </steps_updated>
+    <steps_updated num="2">9393 1681 9456 </steps_updated>
+    <steps_updated num="3">4660 13817 1780 210 10437 7990 3917 7739 4738 </steps_updated>
+    <steps_updated num="4">9179 5766 560 5994 5687 4255 3996 7855 13817 12814 3912 1681 870 4255 6697 6701 </steps_updated>
+    <steps_updated num="5">6054 6781 10590 </steps_updated>
+    <steps_updated num="6">10950 11951 5540 11745 740 210 5766 13817 9110 5766 4255 3996 2082 </steps_updated>
+    <steps_updated num="7">9179 11951 4155 14635 13817 8083 7845 8635 13817 2550 1681 10963 1368 13817 4682 6285 3917 6513 </steps_updated>
+    <steps_updated num="8">9179 11951 9668 30 13817 4168 42 13817 6142 1681 9456 </steps_updated>
+    <steps_updated num="9">9179 11951 11691 7280 7706 4450 13817 14240 13817 6142 1681 8554 12573 9456 </steps_updated>
+    <steps_updated num="10">9179 11951 12367 9328 3331 11951 12367 1391 11951 12282 210 5994 2192 12377 1681 30 2302 669 2260 2373 13817 6142 1681 2260 13776 </steps_updated>
+    <steps_updated num="11">4278 11951 3912 560 11951 5687 13817 2234 560 9010 1391 11951 9286 </steps_updated>
+    <steps_updated num="12">13494 1391 9110 1245 6497 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,59 @@
+<recipe>
+  <title>Loaded BBQ Chicken Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-bbq-chicken-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 11338 5766 </ingredient>
+    <ingredient num="1">8580 7678 13278 7983 8833 11588 341 </ingredient>
+    <ingredient num="2">1580 14014 13278 3855 82 </ingredient>
+    <ingredient num="3">1580 14014 13278 14585 11088 13584 7845 </ingredient>
+    <ingredient num="4">3917 14014 13278 11384 11703 </ingredient>
+    <ingredient num="5">3917 14014 13278 13389 11703 </ingredient>
+    <ingredient num="6">9883 2605 13278 4716 2260 13278 6181 5981 </ingredient>
+    <ingredient num="7">13133 643 13278 11237 10803 3917 12854 13278 1495 5981 </ingredient>
+    <ingredient num="8">8580 9517 13278 3333 13810 3333 13278 6898 5981 </ingredient>
+    <ingredient num="9">1580 13278 8083 12384 11588 976 </ingredient>
+    <ingredient num="10">3917 13278 9491 341 </ingredient>
+    <ingredient num="11">6735 9259 13278 7035 8421 885 </ingredient>
+    <ingredient num="12">8580 9486 13278 6209 11911 11588 3962 </ingredient>
+    <ingredient num="13">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+    <ingredient num="14">3917 13278 468 341 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32170/low_1495125415.m3u8</low>
+    <high>https://vid.tasty.co/output/32170/mp4_720x1280/1495125415</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 6965 8889 11951 5766 210 5994 5687 11770 8283 2082 264 11951 7983 1391 12610 10986 11384 8117 13817 13389 11703 7990 4817 560 2734 12689 </step>
+    <step num="1">9179 11951 8961 2260 13817 2550 1681 11951 2260 7312 12781 5569 6285 1991 6285 7460 12689 6054 6781 2082 </step>
+    <step num="2">10950 5994 2597 6326 11434 2696 4817 2597 9046 371 11237 4668 10452 1391 2532 371 11951 8961 12816 6960 5569 2532 371 11951 13810 12384 9491 7035 13817 13012 5362 1391 11951 374 295 </step>
+    <step num="3">7831 7990 13133 12689 </step>
+    <step num="4">1594 11951 1484 13033 13817 1678 11951 4485 4255 143 5015 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 6965 </steps_updated>
+    <steps_updated num="1">8889 11951 5766 210 5994 5687 11770 8283 2082 </steps_updated>
+    <steps_updated num="2">264 11951 7983 1391 12610 10986 11384 8117 13817 13389 11703 7990 4817 560 2734 12689 </steps_updated>
+    <steps_updated num="3">9179 11951 8961 2260 13817 2550 1681 11951 2260 7312 12781 5569 6285 1991 6285 7460 12689 </steps_updated>
+    <steps_updated num="4">6054 6781 2082 </steps_updated>
+    <steps_updated num="5">10950 5994 2597 6326 11434 2696 4817 2597 9046 371 11237 4668 </steps_updated>
+    <steps_updated num="6">10452 1391 2532 371 11951 8961 12816 6960 5569 2532 371 11951 13810 12384 9491 7035 13817 13012 </steps_updated>
+    <steps_updated num="7">5362 1391 11951 374 295 </steps_updated>
+    <steps_updated num="8">7831 7990 13133 12689 </steps_updated>
+    <steps_updated num="9">1594 11951 1484 13033 13817 1678 11951 4485 4255 143 </steps_updated>
+    <steps_updated num="10">5015 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

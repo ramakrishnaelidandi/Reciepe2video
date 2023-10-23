@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Time Saving Sheet-Pan Eggs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/time-saving-sheet-pan-eggs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; eggs </ingredient>
+    <ingredient num="1">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">topping of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/53054/low_1506036129.m3u8</low>
+    <high>https://vid.tasty.co/output/53054/mp4_720x1280/1506036129</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 450˚F (230˚C). </step>
+    <step num="1">In a bowl, whisk together the eggs and milk until smooth. </step>
+    <step num="2">Pour the eggs onto a greased sheet pan and sprinkle in your favorite toppings. </step>
+    <step num="3">Bake for 15 minutes or until the eggs are cooked through. </step>
+    <step num="4">Slice the omelette and serve immediately or put into a storage container and freeze for up to 1 month. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 450˚F (230˚C). </steps_updated>
+    <steps_updated num="1">In a bowl, whisk together the eggs and milk until smooth. </steps_updated>
+    <steps_updated num="2">Pour the eggs onto a greased sheet pan and sprinkle in your favorite toppings. </steps_updated>
+    <steps_updated num="3">Bake for 15 minutes or until the eggs are cooked through. </steps_updated>
+    <steps_updated num="4">Slice the omelette and serve immediately or put into a storage container and freeze for up to 1 month. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Ultimate Mashed Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/ultimate-mashed-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/tasty-101-how-to-cook-perfect-potatoes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 lb ; yukon gold potato ; (905 g) </ingredient>
+    <ingredient num="1">½ cup ; whole milk ; (120 mL) </ingredient>
+    <ingredient num="2">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="3">8 cloves ; garlic, crushed </ingredient>
+    <ingredient num="4">½ cup ; unsalted butter, cubed, cold ; (115 g) </ingredient>
+    <ingredient num="5">2 teaspoons ; kosher salt </ingredient>
+    <ingredient num="6">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="7">chives, finely chopped, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88513/hls24_1523062633.m3u8</low>
+    <high>https://vid.tasty.co/output/88513/landscape_720/1523062633</high>
+  </video>
+  <duration>
+    <start_time>134.333</start_time>
+    <end_time>237.866</end_time>
+  </duration>
+  <steps>
+    <step num="0">On a cutting board, peel the potatoes. Place the potatoes in a large bowl of cold water after peeling to avoid discoloration. </step>
+    <step num="1">Cut the potatoes into 1-inch (2 cm) cubes. </step>
+    <step num="2">Add the potatoes to a large pot and cover with cold water. Bring to a boil over high heat, then reduce the heat to low and simmer for 12 minutes. </step>
+    <step num="3">In a small saucepan, bring the milk, heavy cream, and garlic to a simmer over low heat. </step>
+    <step num="4">Remove the pot from the heat and strain the cream through a fine mesh sieve. </step>
+    <step num="5">Drain the potatoes in a colander and transfer back to the pot. </step>
+    <step num="6">Mash the potatoes with a potato masher, potato ricer, or by pushing through a fine mesh sieve with a spatula. </step>
+    <step num="7">Add the cubed cold butter and salt. Stir to combine. </step>
+    <step num="8">Gradually add the cream mixture to the potatoes, little by little, until fully incorporated. </step>
+    <step num="9">Top with freshly ground black pepper and sprinkle with chives and serve. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, peel the potatoes. </steps_updated>
+    <steps_updated num="1">Place the potatoes in a large bowl of cold water after peeling to avoid discoloration. </steps_updated>
+    <steps_updated num="2">Cut the potatoes into 1-inch (2 cm) cubes. </steps_updated>
+    <steps_updated num="3">Add the potatoes to a large pot and cover with cold water. </steps_updated>
+    <steps_updated num="4">Bring to a boil over high heat, then reduce the heat to low and simmer for 12 minutes. </steps_updated>
+    <steps_updated num="5">In a small saucepan, bring the milk, heavy cream, and garlic to a simmer over low heat. </steps_updated>
+    <steps_updated num="6">Remove the pot from the heat and strain the cream through a fine mesh sieve. </steps_updated>
+    <steps_updated num="7">Drain the potatoes in a colander and transfer back to the pot. </steps_updated>
+    <steps_updated num="8">Mash the potatoes with a potato masher, potato ricer, or by pushing through a fine mesh sieve with a spatula. </steps_updated>
+    <steps_updated num="9">Add the cubed cold butter and salt. </steps_updated>
+    <steps_updated num="10">Stir to combine. </steps_updated>
+    <steps_updated num="11">Gradually add the cream mixture to the potatoes, little by little, until fully incorporated. </steps_updated>
+    <steps_updated num="12">Top with freshly ground black pepper and sprinkle with chives and serve. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

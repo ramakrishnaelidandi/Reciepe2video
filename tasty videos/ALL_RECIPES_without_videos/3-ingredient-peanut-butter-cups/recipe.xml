@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Peanut Butter Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-peanut-butter-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-easy-3-ingredient-no-bake-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; powdered sugar, sifted </ingredient>
+    <ingredient num="1">½ cup ; creamy peanut butter ; (120 g) </ingredient>
+    <ingredient num="2">1 cup ; chocolate, melted ; (170 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9996/low_1473790210.m3u8</low>
+    <high>https://vid.tasty.co/output/9996/mp4_720x1280/1473790210</high>
+  </video>
+  <duration>
+    <start_time>2.189</start_time>
+    <end_time>26.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Prepare a cupcake tin with 6 liners. </step>
+    <step num="1">Stir peanut butter and powdered sugar together until smooth. </step>
+    <step num="2">Spread 1 to 2 tablespoons of chocolate in the bottom of each cupcake liner. </step>
+    <step num="3">Dollop 1 to 2 teaspoons of the peanut butter mixture on top of the chocolate. </step>
+    <step num="4">Cover each dollop of peanut butter with more chocolate and smooth out the top. </step>
+    <step num="5">Refrigerate for 1 hour or until chocolate has hardened. </step>
+    <step num="6">Remove peanut butter cups from the liners. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare a cupcake tin with 6 liners. </steps_updated>
+    <steps_updated num="1">Stir peanut butter and powdered sugar together until smooth. </steps_updated>
+    <steps_updated num="2">Spread 1 to 2 tablespoons of chocolate in the bottom of each cupcake liner. </steps_updated>
+    <steps_updated num="3">Dollop 1 to 2 teaspoons of the peanut butter mixture on top of the chocolate. </steps_updated>
+    <steps_updated num="4">Cover each dollop of peanut butter with more chocolate and smooth out the top. </steps_updated>
+    <steps_updated num="5">Refrigerate for 1 hour or until chocolate has hardened. </steps_updated>
+    <steps_updated num="6">Remove peanut butter cups from the liners. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00794</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>On-the-Go Cereal Bars Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-chocolate-cereal-bars</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; peanut butter ; (240 g) </ingredient>
+    <ingredient num="1">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="2">3 cups ; cornflakes ; (75 g) </ingredient>
+    <ingredient num="3">2 cups ; puffed rice cereal ; (50 g) </ingredient>
+    <ingredient num="4">½ cup ; raisin ; (75 g) </ingredient>
+    <ingredient num="5">¼ cup ; mini chocolate chips, optional ; (45 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27893/low_1490818305.m3u8</low>
+    <high>https://vid.tasty.co/output/27893/mp4_720x1280/1490818305</high>
+  </video>
+  <steps>
+    <step num="0">Pour the peanut butter and honey into a bowl. Microwave in 30-second intervals until melted. </step>
+    <step num="1">Mix in the corn flakes, puffed rice cereal, and raisins. </step>
+    <step num="2">Transfer mixture to a parchment-lined 8x8inch (20x20cm) baking pan. Top with mini chocolate chips (optional). </step>
+    <step num="3">Chill until firm. </step>
+    <step num="4">Cut bars into sizes of your choice, wrap in parchment paper, and store in a sealed ziplock in the fridge or freezer for up to 3 months. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pour the peanut butter and honey into a bowl. </steps_updated>
+    <steps_updated num="1">Microwave in 30-second intervals until melted. </steps_updated>
+    <steps_updated num="2">Mix in the corn flakes, puffed rice cereal, and raisins. </steps_updated>
+    <steps_updated num="3">Transfer mixture to a parchment-lined 8x8inch (20x20cm) baking pan. </steps_updated>
+    <steps_updated num="4">Top with mini chocolate chips (optional). </steps_updated>
+    <steps_updated num="5">Chill until firm. </steps_updated>
+    <steps_updated num="6">Cut bars into sizes of your choice, wrap in parchment paper, and store in a sealed ziplock in the fridge or freezer for up to 3 months. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

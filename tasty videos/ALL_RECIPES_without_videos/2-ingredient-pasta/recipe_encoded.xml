@@ -1,0 +1,50 @@
+<recipe>
+  <title>2-ingredient Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 3333 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="1">3917 13278 6216 5031 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51134/low_1504636473.m3u8</low>
+    <high>https://vid.tasty.co/output/51134/mp4_720x1280/1504636473</high>
+  </video>
+  <steps>
+    <step num="0">9179 11951 10865 560 5994 12377 13817 10503 7990 6620 11004 1681 1311 </step>
+    <step num="1">12251 11951 10865 560 10694 7990 238 773 </step>
+    <step num="2">10936 5994 5633 6183 7475 11951 6216 5031 669 11951 4496 </step>
+    <step num="3">426 11951 2373 2696 1802 5994 3550 8797 10765 8800 </step>
+    <step num="4">5570 6646 9152 371 3550 12 4255 10707 371 11951 8337 13817 14484 573 1391 12313 5768 1681 6847 </step>
+    <step num="5">6054 11951 10707 9152 371 3550 13817 7777 11951 8337 669 7497 13773 </step>
+    <step num="6">5570 11951 2210 4255 5994 6880 13817 173 7990 12645 12721 5895 14142 </step>
+    <step num="7">5570 11951 2210 210 2032 12282 7990 797 6513 </step>
+    <step num="8">11720 669 5994 6258 13817 5728 10694 12282 11770 11951 950 560 3720 10055 </step>
+    <step num="9">12774 1391 12313 226 2260 13817 7857 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 10865 560 5994 12377 13817 10503 7990 6620 11004 1681 1311 </steps_updated>
+    <steps_updated num="1">12251 11951 10865 560 10694 7990 238 773 </steps_updated>
+    <steps_updated num="2">10936 5994 5633 6183 7475 11951 6216 5031 669 11951 4496 </steps_updated>
+    <steps_updated num="3">426 11951 2373 2696 1802 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="4">5570 6646 9152 371 3550 12 4255 10707 371 11951 8337 13817 14484 573 1391 12313 5768 1681 6847 </steps_updated>
+    <steps_updated num="5">6054 11951 10707 9152 371 3550 13817 7777 11951 8337 669 7497 13773 </steps_updated>
+    <steps_updated num="6">5570 11951 2210 4255 5994 6880 13817 173 7990 12645 12721 5895 14142 </steps_updated>
+    <steps_updated num="7">5570 11951 2210 210 2032 12282 7990 797 6513 </steps_updated>
+    <steps_updated num="8">11720 669 5994 6258 13817 5728 10694 12282 11770 11951 950 560 3720 10055 </steps_updated>
+    <steps_updated num="9">12774 1391 12313 226 2260 13817 7857 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

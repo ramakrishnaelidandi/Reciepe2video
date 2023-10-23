@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fancy AF Fish Finger Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fancy-af-fish-finger-sandwich</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; cod fillet </ingredient>
+    <ingredient num="1">¾ cup ; flour ; (100 g) </ingredient>
+    <ingredient num="2">2 ; eggs, whisked </ingredient>
+    <ingredient num="3">2 cups ; panko breadcrumbs ; (100 g) </ingredient>
+    <ingredient num="4">⅓ cup ; grated parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="5">½ cup ; mayonnaise ; (100 g) </ingredient>
+    <ingredient num="6">1 ; pickled gherkin, diced </ingredient>
+    <ingredient num="7">1 tablespoon ; caper, diced </ingredient>
+    <ingredient num="8">1 teaspoon ; whole grain mustard </ingredient>
+    <ingredient num="9">½ ; lemon, juiced </ingredient>
+    <ingredient num="10">4 slices ; white bread </ingredient>
+    <ingredient num="11">rocket leaf </ingredient>
+    <ingredient num="12">romaine lettuce </ingredient>
+    <ingredient num="13">salt, to taste </ingredient>
+    <ingredient num="14">pepper, to taste </ingredient>
+    <ingredient num="15">ketchup </ingredient>
+    <ingredient num="16">lemon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65406/hls24_1512175013.m3u8</low>
+    <high>https://vid.tasty.co/output/65406/landscape_720/1512175013</high>
+  </video>
+  <steps>
+    <step num="0">Cut the cod fillet into 6-7 big finger shapes. </step>
+    <step num="1">Mix the Parmesan with the panko breadcrumbs. </step>
+    <step num="2">Coat the fish fingers with flour, then egg, then breadcrumbs. </step>
+    <step num="3">Deep fry the fish fingers in 170˚C (325˚F) hot oil for about 2-3 minutes or until they turn golden brown and are cooked through. Set aside. </step>
+    <step num="4">Mix all the sauce ingredients well, set aside. </step>
+    <step num="5">Spread a thick layer of the tartar sauce onto a soft and fluffy slice of bread. </step>
+    <step num="6">Place some rocket leaves, romaine lettuce, and three chunky fish fingers, then flavour with a squeeze of lemon, salt, and pepper. Finish with a drizzle of ketchup and more Tartar. </step>
+    <step num="7">Top with another slice of bread and serve. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the cod fillet into 6-7 big finger shapes. </steps_updated>
+    <steps_updated num="1">Mix the Parmesan with the panko breadcrumbs. </steps_updated>
+    <steps_updated num="2">Coat the fish fingers with flour, then egg, then breadcrumbs. </steps_updated>
+    <steps_updated num="3">Deep fry the fish fingers in 170˚C (325˚F) hot oil for about 2-3 minutes or until they turn golden brown and are cooked through. </steps_updated>
+    <steps_updated num="4">Set aside. </steps_updated>
+    <steps_updated num="5">Mix all the sauce ingredients well, set aside. </steps_updated>
+    <steps_updated num="6">Spread a thick layer of the tartar sauce onto a soft and fluffy slice of bread. </steps_updated>
+    <steps_updated num="7">Place some rocket leaves, romaine lettuce, and three chunky fish fingers, then flavour with a squeeze of lemon, salt, and pepper. </steps_updated>
+    <steps_updated num="8">Finish with a drizzle of ketchup and more Tartar. </steps_updated>
+    <steps_updated num="9">Top with another slice of bread and serve. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

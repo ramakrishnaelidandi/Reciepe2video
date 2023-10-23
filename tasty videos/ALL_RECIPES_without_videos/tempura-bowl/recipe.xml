@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tempura Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tempura-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; shrimps </ingredient>
+    <ingredient num="1">sweet potato </ingredient>
+    <ingredient num="2">mushrooms </ingredient>
+    <ingredient num="3">green beans </ingredient>
+    <ingredient num="4">kabocha pumpkin </ingredient>
+    <ingredient num="5">rice </ingredient>
+    <ingredient num="6">1 ; egg </ingredient>
+    <ingredient num="7">½ cup ; soda water, cold ; (120 mL) </ingredient>
+    <ingredient num="8">½ cup ; cup cake flour ; (60 g) </ingredient>
+    <ingredient num="9">oil, for frying </ingredient>
+    <ingredient num="10">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="11">1 tablespoon ; mirin </ingredient>
+    <ingredient num="12">¼ cup ; water, hot ; (60 mL) </ingredient>
+    <ingredient num="13">1 teaspoon ; dashi granules, japanese stock granules </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8575/low_1472567461.m3u8</low>
+    <high>https://vid.tasty.co/output/8575/mp4_720x1280/1472567461</high>
+  </video>
+  <steps>
+    <step num="0">Prepare shrimp by taking off shell and deveining. </step>
+    <step num="1">Make 4 slits down the stomach. Flip shrimp on the side and diagonally slice 4 more slits on each side. (This will keep the shrimp straight when cooked.) </step>
+    <step num="2">In a medium bowl, beat egg and soda water. </step>
+    <step num="3">Heat a pot of oil to 350˚F (180˚C). </step>
+    <step num="4">Then add cake flour and mix, but keep it clumpy. Do NOT over-mix. </step>
+    <step num="5">Dredge shrimp up to the tail and carefully place into frying oil. Fry for 2-3 minutes or until shrimp is fully cooked. Place tempura on paper towel to absorb oil or a wired rack to drain excess oil. </step>
+    <step num="6">For the dipping sauce, combine soy sauce and mirin. If using, dissolve dashi in the hot water and add to the soy sauce and mirin. </step>
+    <step num="7">Arrange assorted tempura on a bowl of rice. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare shrimp by taking off shell and deveining. </steps_updated>
+    <steps_updated num="1">Make 4 slits down the stomach. </steps_updated>
+    <steps_updated num="2">Flip shrimp on the side and diagonally slice 4 more slits on each side. </steps_updated>
+    <steps_updated num="3">(This will keep the shrimp straight when cooked.) </steps_updated>
+    <steps_updated num="4">In a medium bowl, beat egg and soda water. </steps_updated>
+    <steps_updated num="5">Heat a pot of oil to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="6">Then add cake flour and mix, but keep it clumpy. </steps_updated>
+    <steps_updated num="7">Do NOT over-mix. </steps_updated>
+    <steps_updated num="8">Dredge shrimp up to the tail and carefully place into frying oil. </steps_updated>
+    <steps_updated num="9">Fry for 2-3 minutes or until shrimp is fully cooked. </steps_updated>
+    <steps_updated num="10">Place tempura on paper towel to absorb oil or a wired rack to drain excess oil. </steps_updated>
+    <steps_updated num="11">For the dipping sauce, combine soy sauce and mirin. </steps_updated>
+    <steps_updated num="12">If using, dissolve dashi in the hot water and add to the soy sauce and mirin. </steps_updated>
+    <steps_updated num="13">Arrange assorted tempura on a bowl of rice. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

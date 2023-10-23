@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cider Pulled Pork Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cider-pulled-pork</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 lb ; pork shoulder ; (2 kg) </ingredient>
+    <ingredient num="1">1 cup ; cider ; (250 mL) </ingredient>
+    <ingredient num="2">2 teaspoons ; salt </ingredient>
+    <ingredient num="3">2 tablespoons ; smoked paprika </ingredient>
+    <ingredient num="4">2 tablespoons ; dark muscovado sugar </ingredient>
+    <ingredient num="5">1 tablespoon ; pepper </ingredient>
+    <ingredient num="6">1 ; coleslaw, to taste </ingredient>
+    <ingredient num="7">1 ; BBQ sauce, to taste </ingredient>
+    <ingredient num="8">1 ; brioche bun, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dairy-Free</category>
+    <category num="4">Gluten-Free</category>
+    <category num="5">Low-Carb</category>
+    <category num="6">Dinner</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+    <category num="9">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32167/low_1495125388.m3u8</low>
+    <high>https://vid.tasty.co/output/32167/mp4_720x1280/1495125388</high>
+  </video>
+  <steps>
+    <step num="0">Mix together all of the spices and seasoning </step>
+    <step num="1">Rub it onto the pork shoulder, make sure you get really stuck in there and all over the pork. </step>
+    <step num="2">Place the pork shoulder into a slow cooker and gently pour over the cider. </step>
+    <step num="3">Put the lid on and cook on low for 8-12 hours. </step>
+    <step num="4">Move the pork into a large bowl and shred using two forks. </step>
+    <step num="5">We used toasted brioche buns and coleslaw, but you could add some bbq sauce or whatever you feel like. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together all of the spices and seasoning </steps_updated>
+    <steps_updated num="1">Rub it onto the pork shoulder, make sure you get really stuck in there and all over the pork. </steps_updated>
+    <steps_updated num="2">Place the pork shoulder into a slow cooker and gently pour over the cider. </steps_updated>
+    <steps_updated num="3">Put the lid on and cook on low for 8-12 hours. </steps_updated>
+    <steps_updated num="4">Move the pork into a large bowl and shred using two forks. </steps_updated>
+    <steps_updated num="5">We used toasted brioche buns and coleslaw, but you could add some bbq sauce or whatever you feel like. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

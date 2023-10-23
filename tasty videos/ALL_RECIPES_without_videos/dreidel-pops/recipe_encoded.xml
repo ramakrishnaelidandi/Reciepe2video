@@ -1,0 +1,47 @@
+<recipe>
+  <title>Dreidel Pops Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/dreidel-pops</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 12854 13278 14630 </ingredient>
+    <ingredient num="1">423 1297 </ingredient>
+    <ingredient num="2">4680 9201 12477 1939 612 210 1148 5143 </ingredient>
+    <ingredient num="3">3917 2605 13278 4617 4680 8086 13278 7642 5981 </ingredient>
+    <ingredient num="4">4061 667 13278 13204 8016 7781 </ingredient>
+    <ingredient num="5">4617 10209 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32004/low_1495124977.m3u8</low>
+    <high>https://vid.tasty.co/output/32004/mp4_720x1280/1495124977</high>
+  </video>
+  <steps>
+    <step num="0">3829 10763 14630 1391 5994 423 9716 </step>
+    <step num="1">12474 5994 6222 6326 6983 11951 8634 371 11951 4680 1586 7990 5994 8631 773 11408 11951 5335 8162 560 11951 14630 143 1828 3755 817 7990 5994 8631 8927 1681 12247 </step>
+    <step num="2">12305 11951 4617 4680 210 11951 10503 7990 3917 6560 13328 5452 5527 131 1681 11951 4680 9490 12119 9179 11951 13204 8016 7781 13817 10968 13948 </step>
+    <step num="3">10936 5994 13908 4160 11951 4680 4819 11770 11951 14630 6701 11942 11951 10860 573 1391 11951 13352 371 11951 5038 6130 6672 14254 </step>
+    <step num="4">2257 10763 4255 3802 12 560 9892 </step>
+    <step num="5">10936 5994 9410 8449 5895 14361 5301 8210 3755 1391 11951 487 11889 6495 12169 6574 5339 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3829 10763 14630 1391 5994 423 9716 </steps_updated>
+    <steps_updated num="1">12474 5994 6222 6326 6983 11951 8634 371 11951 4680 1586 7990 5994 8631 773 </steps_updated>
+    <steps_updated num="2">11408 11951 5335 8162 560 11951 14630 143 </steps_updated>
+    <steps_updated num="3">1828 3755 817 7990 5994 8631 8927 1681 12247 </steps_updated>
+    <steps_updated num="4">12305 11951 4617 4680 210 11951 10503 7990 3917 6560 13328 5452 5527 131 1681 11951 4680 9490 12119 </steps_updated>
+    <steps_updated num="5">9179 11951 13204 8016 7781 13817 10968 13948 </steps_updated>
+    <steps_updated num="6">10936 5994 13908 4160 11951 4680 4819 11770 11951 14630 6701 </steps_updated>
+    <steps_updated num="7">11942 11951 10860 573 1391 11951 13352 371 11951 5038 6130 6672 14254 </steps_updated>
+    <steps_updated num="8">2257 10763 4255 3802 12 560 9892 </steps_updated>
+    <steps_updated num="9">10936 5994 9410 8449 5895 14361 5301 8210 3755 1391 11951 487 11889 6495 12169 6574 5339 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

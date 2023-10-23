@@ -1,0 +1,63 @@
+<recipe>
+  <title>Tomato Basil Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tomato-basil-soup</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-healthy-hearty-fall-soups</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 5766 </ingredient>
+    <ingredient num="1">3917 13278 12384 3962 </ingredient>
+    <ingredient num="2">3917 13289 13278 4587 3962 </ingredient>
+    <ingredient num="3">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">3917 8071 13278 82 </ingredient>
+    <ingredient num="5">12791 8071 13278 7845 </ingredient>
+    <ingredient num="6">8580 9486 13278 9668 30 </ingredient>
+    <ingredient num="7">12791 2605 13278 6209 6250 13278 12237 5981 </ingredient>
+    <ingredient num="8">13347 643 13278 5614 9491 8580 10988 13278 4126 5981 </ingredient>
+    <ingredient num="9">11061 9517 13278 4168 547 13278 10187 1580 1767 </ingredient>
+    <ingredient num="10">1580 8071 13278 10765 3294 </ingredient>
+    <ingredient num="11">8580 7033 13278 6209 9211 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Dinner</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58030/low_1508864010.m3u8</low>
+    <high>https://vid.tasty.co/output/58030/mp4_720x1280/1508864010</high>
+  </video>
+  <duration>
+    <start_time>1.21</start_time>
+    <end_time>41.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 7632 12384 4587 13817 11384 11770 13757 7855 210 5994 2597 4771 13888 7990 13086 8927 1681 11453 12573 6470 </step>
+    <step num="1">9179 12610 10986 9668 5337 749 5614 7042 42 10765 2101 13817 9019 8785 560 5994 11714 </step>
+    <step num="2">1595 7855 13817 510 693 7990 13133 12689 </step>
+    <step num="3">10007 13817 5103 9019 </step>
+    <step num="4">8431 2237 3432 5895 4565 12027 560 1279 11951 1171 1681 12119 </step>
+    <step num="5">12251 560 10694 8580 8927 13817 1966 10366 1391 13952 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 7632 12384 4587 13817 11384 11770 13757 7855 210 5994 2597 4771 </steps_updated>
+    <steps_updated num="1">13888 7990 13086 8927 1681 11453 12573 6470 </steps_updated>
+    <steps_updated num="2">9179 12610 10986 9668 5337 749 5614 7042 42 10765 2101 13817 9019 </steps_updated>
+    <steps_updated num="3">8785 560 5994 11714 </steps_updated>
+    <steps_updated num="4">1595 7855 13817 510 693 7990 13133 12689 </steps_updated>
+    <steps_updated num="5">10007 13817 5103 9019 </steps_updated>
+    <steps_updated num="6">8431 2237 3432 5895 4565 12027 560 1279 11951 1171 1681 12119 </steps_updated>
+    <steps_updated num="7">12251 560 10694 8580 8927 13817 1966 10366 1391 13952 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00087</start_time>
+    <end_time>01505</end_time>
+  </duration_human>
+</recipe>

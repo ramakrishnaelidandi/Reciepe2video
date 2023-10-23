@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pesto Turkey Pinwheels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pesto-turkey-pinwheels</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/party-platters-for-your-housewarming-party</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; large flour tortillas </ingredient>
+    <ingredient num="1">¼ cup ; pesto, divided ; (55 g) </ingredient>
+    <ingredient num="2">1 cup ; cherry tomato, halved, divided ; (200 g) </ingredient>
+    <ingredient num="3">½ lb ; turkey, sliced, divided ; (225 g) </ingredient>
+    <ingredient num="4">2 oz ; baby spinach, divided ; (55 g) </ingredient>
+    <ingredient num="5">4 slices ; provolone cheese, halved </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/98981/hls24_1529341389.m3u8</low>
+    <high>https://vid.tasty.co/output/98981/landscape_720/1529341389</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>132.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Warm the tortillas in the microwave in 30-second intervals, until flexible. Transfer to a clean work surface. </step>
+    <step num="1">Spread on half the pesto on each tortilla. </step>
+    <step num="2">Divide the tomatoes, turkey, spinach, and provolone between the tortillas. </step>
+    <step num="3">Wrap the tortillas tightly in plastic wrap and rest for 30 minutes. </step>
+    <step num="4">Stick 6 toothpicks 1-inch (2 cm) apart into the wraps along the seam. </step>
+    <step num="5">Slice between the toothpicks and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Warm the tortillas in the microwave in 30-second intervals, until flexible. </steps_updated>
+    <steps_updated num="1">Transfer to a clean work surface. </steps_updated>
+    <steps_updated num="2">Spread on half the pesto on each tortilla. </steps_updated>
+    <steps_updated num="3">Divide the tomatoes, turkey, spinach, and provolone between the tortillas. </steps_updated>
+    <steps_updated num="4">Wrap the tortillas tightly in plastic wrap and rest for 30 minutes. </steps_updated>
+    <steps_updated num="5">Stick 6 toothpicks 1-inch (2 cm) apart into the wraps along the seam. </steps_updated>
+    <steps_updated num="6">Slice between the toothpicks and serve. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

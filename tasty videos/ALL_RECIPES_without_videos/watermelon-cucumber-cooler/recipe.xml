@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Watermelon Cucumber Cooler Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/watermelon-cucumber-cooler</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="1">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="2">1 ; cucumber, sliced </ingredient>
+    <ingredient num="3">ice </ingredient>
+    <ingredient num="4">2 oz ; gin ; (60 mL) </ingredient>
+    <ingredient num="5">1 ½ oz ; watermelon, juiced ; (45 mL) </ingredient>
+    <ingredient num="6">½ oz ; lime juice ; (15 mL) </ingredient>
+    <ingredient num="7">1 oz ; cucumber simple syrup ; (30 mL) </ingredient>
+    <ingredient num="8">club soda, to taste </ingredient>
+    <ingredient num="9">1 slice ; cucumber, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+    <category num="1">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130181/hls24_1555522016.m3u8</low>
+    <high>https://vid.tasty.co/output/130181/landscape_720/1555522016</high>
+  </video>
+  <steps>
+    <step num="0">In a small pot over medium heat, combine the sugar and water. Bring to a boil, stirring to dissolve the sugar completely. </step>
+    <step num="1">Remove the pot from the heat and stir in the cucumber. Let steep, covered, for at least 4 hours or up to overnight. </step>
+    <step num="2">Strain the syrup through a fine-mesh sieve or cheesecloth, pushing to extract as much syrup as possible. Store in an airtight container in the refrigerator for up to 1 month. </step>
+    <step num="3">In a cocktail shaker filled with ice, combine the gin, watermelon juice, lime juice, and simple syrup. Shake vigorously for 20 seconds. </step>
+    <step num="4">Strain into a glass filled with ice and top with club soda. </step>
+    <step num="5">Garnish with the cucumber slice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small pot over medium heat, combine the sugar and water. </steps_updated>
+    <steps_updated num="1">Bring to a boil, stirring to dissolve the sugar completely. </steps_updated>
+    <steps_updated num="2">Remove the pot from the heat and stir in the cucumber. </steps_updated>
+    <steps_updated num="3">Let steep, covered, for at least 4 hours or up to overnight. </steps_updated>
+    <steps_updated num="4">Strain the syrup through a fine-mesh sieve or cheesecloth, pushing to extract as much syrup as possible. </steps_updated>
+    <steps_updated num="5">Store in an airtight container in the refrigerator for up to 1 month. </steps_updated>
+    <steps_updated num="6">In a cocktail shaker filled with ice, combine the gin, watermelon juice, lime juice, and simple syrup. </steps_updated>
+    <steps_updated num="7">Shake vigorously for 20 seconds. </steps_updated>
+    <steps_updated num="8">Strain into a glass filled with ice and top with club soda. </steps_updated>
+    <steps_updated num="9">Garnish with the cucumber slice. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

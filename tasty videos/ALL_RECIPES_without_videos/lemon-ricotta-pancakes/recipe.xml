@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lemon Ricotta Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lemon-ricotta-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; pancake </ingredient>
+    <ingredient num="1">1 cup ; ricotta cheese ; (250 g) </ingredient>
+    <ingredient num="2">1 ; egg yolk </ingredient>
+    <ingredient num="3">¾ cup ; milk ; (180 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">2 tablespoons ; lemon zest </ingredient>
+    <ingredient num="6">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="7">1 ½ teaspoons ; baking powder </ingredient>
+    <ingredient num="8">blueberry compote </ingredient>
+    <ingredient num="9">2 cups ; blueberry ; (200 g) </ingredient>
+    <ingredient num="10">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="11">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="12">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="13">2 ; egg whites </ingredient>
+    <ingredient num="14">2 tablespoons ; sugar </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27748/low_1490722820.m3u8</low>
+    <high>https://vid.tasty.co/output/27748/mp4_720x1280/1490722820</high>
+  </video>
+  <steps>
+    <step num="0">In a large mixing bowl, whisk together ricotta cheese, egg yolk, milk, vanilla extract, and lemon zest. Whisk until smooth, then add flour and baking powder. Mix this until fully combined. </step>
+    <step num="1">In a separate mixing bowl, beat the egg whites on high speed with an electric mixer until very white and foamy, then gradually add sugar. Continue beating on high speed until hard peaks form. </step>
+    <step num="2">Gently fold ¼ of the egg whites into the lemon ricotta mixture. Gently fold in the remaining egg whites. Be careful not to deflate the eggs! </step>
+    <step num="3">Butter up a nonstick pan and pour in about ¼ cup (25g) worth of batter for each pancake. </step>
+    <step num="4">Cook for 2-3 minutes on each side or until golden brown on the edges. </step>
+    <step num="5">In a pot or pan, cook blueberries, sugar, water, and lemon juice. Stir occasionally to prevent sticking and cook for about 8-10 minutes or until the compote reaches a thick consistency. (Compote will thicken once it cools, so to loosen it up just add a touch of hot water.) </step>
+    <step num="6">Serve hot compote over stack of pancakes and dust with powdered sugar. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mixing bowl, whisk together ricotta cheese, egg yolk, milk, vanilla extract, and lemon zest. </steps_updated>
+    <steps_updated num="1">Whisk until smooth, then add flour and baking powder. </steps_updated>
+    <steps_updated num="2">Mix this until fully combined. </steps_updated>
+    <steps_updated num="3">In a separate mixing bowl, beat the egg whites on high speed with an electric mixer until very white and foamy, then gradually add sugar. </steps_updated>
+    <steps_updated num="4">Continue beating on high speed until hard peaks form. </steps_updated>
+    <steps_updated num="5">Gently fold ¼ of the egg whites into the lemon ricotta mixture. </steps_updated>
+    <steps_updated num="6">Gently fold in the remaining egg whites. </steps_updated>
+    <steps_updated num="7">Be careful not to deflate the eggs! </steps_updated>
+    <steps_updated num="8">Butter up a nonstick pan and pour in about ¼ cup (25g) worth of batter for each pancake. </steps_updated>
+    <steps_updated num="9">Cook for 2-3 minutes on each side or until golden brown on the edges. </steps_updated>
+    <steps_updated num="10">In a pot or pan, cook blueberries, sugar, water, and lemon juice. </steps_updated>
+    <steps_updated num="11">Stir occasionally to prevent sticking and cook for about 8-10 minutes or until the compote reaches a thick consistency. </steps_updated>
+    <steps_updated num="12">(Compote will thicken once it cools, so to loosen it up just add a touch of hot water.) </steps_updated>
+    <steps_updated num="13">Serve hot compote over stack of pancakes and dust with powdered sugar. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

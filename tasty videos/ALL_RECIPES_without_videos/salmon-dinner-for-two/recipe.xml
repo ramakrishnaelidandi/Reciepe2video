@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Salmon Dinner For Two Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/salmon-dinner-for-two</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 ; baby gold potatoes </ingredient>
+    <ingredient num="1">2 tablespoons ; butter </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">3 cloves ; garlic </ingredient>
+    <ingredient num="5">2 ; salmon fillets </ingredient>
+    <ingredient num="6">5 cloves ; garlic </ingredient>
+    <ingredient num="7">1 cup ; fresh parsley ; (10 g) </ingredient>
+    <ingredient num="8">2 tablespoons ; fresh chives </ingredient>
+    <ingredient num="9">2 tablespoons ; fresh dill </ingredient>
+    <ingredient num="10">½ teaspoon ; salt </ingredient>
+    <ingredient num="11">½ teaspoon ; pepper </ingredient>
+    <ingredient num="12">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="13">¼ cup ; lemon juice ; (60 mL) </ingredient>
+    <ingredient num="14">1 bunch ; asparagus </ingredient>
+    <ingredient num="15">parmesan cheese, optional, to taste </ingredient>
+    <ingredient num="16">¾ cup ; brownie mix, prepared ; (95 g) </ingredient>
+    <ingredient num="17">2 tablespoons ; vegetable oil </ingredient>
+    <ingredient num="18">1 ; egg </ingredient>
+    <ingredient num="19">1 tablespoon ; water </ingredient>
+    <ingredient num="20">⅓ cup ; peanut butter ; (80 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26271/low_1489184790.m3u8</low>
+    <high>https://vid.tasty.co/output/26271/mp4_720x1280/1489184790</high>
+  </video>
+  <steps>
+    <step num="0">For the Garlic Smashed Potatoes </step>
+    <step num="1">Boil potatoes in a medium pot for 15-20 minutes or until tender. </step>
+    <step num="2">Place boiled potatoes on a parchment covered oven tray and smash each potato down leaving the skin intact. </step>
+    <step num="3">Mix melted butter, garlic, salt and pepper and brush mixture onto potatoes. </step>
+    <step num="4">Bake at 425˚F (220˚C) for 15-20 minutes or until crispy. </step>
+    <step num="5">Garnish with thyme. </step>
+    <step num="6">For the Herb Crusted Salmon </step>
+    <step num="7">In a small bowl combine parsley, chives, dill, olive oil, garlic, salt, pepper and lemon juice. </step>
+    <step num="8">Place salmon and asparagus on parchment covered oven tray. </step>
+    <step num="9">Drizzle with olive oil and garnish with salt and pepper. </step>
+    <step num="10">Spoon herb mix onto salmon fillets and coat evenly. </step>
+    <step num="11">Bake at 425˚F (220˚C) for 12-14 minutes. </step>
+    <step num="12">For the Chocolate Peanut Butter Skillet Brownie </step>
+    <step num="13">In a medium mixing bowl, combine brownie mix, oil, water, and an egg and stir until evenly mixed. </step>
+    <step num="14">Transfer mix into skillet. </step>
+    <step num="15">Spoon softened peanut butter into skillet and mix in using a knife. </step>
+    <step num="16">Bake at 350˚F (180˚C) for 10-15 minutes or until toothpick comes out of the brownie clear. </step>
+    <step num="17">If desired, garnish with ice cream. </step>
+    <step num="18">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the Garlic Smashed Potatoes </steps_updated>
+    <steps_updated num="1">Boil potatoes in a medium pot for 15-20 minutes or until tender. </steps_updated>
+    <steps_updated num="2">Place boiled potatoes on a parchment covered oven tray and smash each potato down leaving the skin intact. </steps_updated>
+    <steps_updated num="3">Mix melted butter, garlic, salt and pepper and brush mixture onto potatoes. </steps_updated>
+    <steps_updated num="4">Bake at 425˚F (220˚C) for 15-20 minutes or until crispy. </steps_updated>
+    <steps_updated num="5">Garnish with thyme. </steps_updated>
+    <steps_updated num="6">For the Herb Crusted Salmon </steps_updated>
+    <steps_updated num="7">In a small bowl combine parsley, chives, dill, olive oil, garlic, salt, pepper and lemon juice. </steps_updated>
+    <steps_updated num="8">Place salmon and asparagus on parchment covered oven tray. </steps_updated>
+    <steps_updated num="9">Drizzle with olive oil and garnish with salt and pepper. </steps_updated>
+    <steps_updated num="10">Spoon herb mix onto salmon fillets and coat evenly. </steps_updated>
+    <steps_updated num="11">Bake at 425˚F (220˚C) for 12-14 minutes. </steps_updated>
+    <steps_updated num="12">For the Chocolate Peanut Butter Skillet Brownie </steps_updated>
+    <steps_updated num="13">In a medium mixing bowl, combine brownie mix, oil, water, and an egg and stir until evenly mixed. </steps_updated>
+    <steps_updated num="14">Transfer mix into skillet. </steps_updated>
+    <steps_updated num="15">Spoon softened peanut butter into skillet and mix in using a knife. </steps_updated>
+    <steps_updated num="16">Bake at 350˚F (180˚C) for 10-15 minutes or until toothpick comes out of the brownie clear. </steps_updated>
+    <steps_updated num="17">If desired, garnish with ice cream. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

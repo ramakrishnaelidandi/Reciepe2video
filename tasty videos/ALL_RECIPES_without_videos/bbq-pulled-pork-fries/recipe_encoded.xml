@@ -1,0 +1,60 @@
+<recipe>
+  <title>BBQ Pulled Pork Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-pulled-pork-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6735 13278 13757 9780 13233 </ingredient>
+    <ingredient num="1">8580 715 13278 5234 10196 13278 6730 5981 </ingredient>
+    <ingredient num="2">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="3">3917 14014 13278 82 </ingredient>
+    <ingredient num="4">3917 14014 13278 7845 </ingredient>
+    <ingredient num="5">8580 9517 13278 4716 2260 13278 234 5981 </ingredient>
+    <ingredient num="6">1580 13278 8083 12384 976 </ingredient>
+    <ingredient num="7">3917 2605 13278 7845 8572 13810 3333 13278 11953 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 6293 976 13278 2264 5981 </ingredient>
+    <ingredient num="9">3917 2605 13278 3333 9784 14538 13278 11953 5981 </ingredient>
+    <ingredient num="10">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Snacks</category>
+    <category num="6">Game Day</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31949/low_1495124941.m3u8</low>
+    <high>https://vid.tasty.co/output/31949/mp4_720x1280/1495124941</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">3235 11951 13233 669 10894 9984 4743 415 7777 11951 8535 669 10894 9984 13773 </step>
+    <step num="2">5570 11951 976 13233 4255 5994 10765 213 14473 1391 11951 5234 8144 6823 11901 5312 11951 13233 12573 11155 3443 11951 1643 </step>
+    <step num="3">1594 11951 8244 5766 11770 11951 2274 415 1678 11951 5234 13817 11951 13233 1391 11951 82 13817 10986 1506 3755 210 5833 5312 6665 12573 8554 7670 7317 4660 11951 5234 1391 797 2605 3328 371 11951 8961 7280 415 7094 3557 3584 4255 8554 6701 7831 7990 7759 12689 </step>
+    <step num="4">6054 11951 3184 415 3345 11951 5234 210 11951 937 371 11951 8141 7831 7990 6646 4817 12721 7811 12738 6866 </step>
+    <step num="5">12785 11951 5234 560 5994 2597 14511 13817 10104 4817 6288 3781 11951 1643 10895 11951 10448 5234 1391 11951 374 797 2605 3328 371 8961 9286 </step>
+    <step num="6">10950 5994 10060 5895 5994 10765 4577 11826 2532 371 11951 3184 2532 371 11951 179 10720 2532 371 11951 8083 12384 11951 7845 8706 2532 371 11951 10286 415 6190 1391 11951 374 3184 10720 8083 12384 9631 13817 8278 7831 7990 13133 11004 1681 14538 9490 1311 </step>
+    <step num="7">12774 1391 1484 5808 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">3235 11951 13233 669 10894 9984 4743 415 7777 11951 8535 669 10894 9984 13773 </steps_updated>
+    <steps_updated num="2">5570 11951 976 13233 4255 5994 10765 213 14473 1391 11951 5234 8144 </steps_updated>
+    <steps_updated num="3">6823 11901 5312 11951 13233 12573 11155 3443 11951 1643 </steps_updated>
+    <steps_updated num="4">1594 11951 8244 5766 11770 11951 2274 415 1678 11951 5234 13817 11951 13233 1391 11951 82 13817 10986 1506 3755 210 5833 5312 6665 12573 8554 7670 7317 </steps_updated>
+    <steps_updated num="5">4660 11951 5234 1391 797 2605 3328 371 11951 8961 7280 415 7094 3557 3584 4255 8554 6701 </steps_updated>
+    <steps_updated num="6">7831 7990 7759 12689 </steps_updated>
+    <steps_updated num="7">6054 11951 3184 415 3345 11951 5234 210 11951 937 371 11951 8141 </steps_updated>
+    <steps_updated num="8">7831 7990 6646 4817 12721 7811 12738 6866 </steps_updated>
+    <steps_updated num="9">12785 11951 5234 560 5994 2597 14511 13817 10104 4817 6288 3781 11951 1643 </steps_updated>
+    <steps_updated num="10">10895 11951 10448 5234 1391 11951 374 797 2605 3328 371 8961 9286 </steps_updated>
+    <steps_updated num="11">10950 5994 10060 5895 5994 10765 4577 11826 2532 371 11951 3184 2532 371 11951 179 10720 2532 371 11951 8083 12384 11951 7845 8706 2532 371 11951 10286 415 6190 1391 11951 374 3184 10720 8083 12384 9631 13817 8278 </steps_updated>
+    <steps_updated num="12">7831 7990 13133 11004 1681 14538 9490 1311 </steps_updated>
+    <steps_updated num="13">12774 1391 1484 5808 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

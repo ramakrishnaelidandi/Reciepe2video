@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-recipes-you-should-know-how-to-make-in-your-20-s</comp_url>
+  <ingredients>
+    <ingredient num="0">2 pieces ; sourdough bread </ingredient>
+    <ingredient num="1">1 ½ tablespoons ; unsalted butter </ingredient>
+    <ingredient num="2">1 ½ tablespoons ; mayonnaise </ingredient>
+    <ingredient num="3">3 slices ; cheddar cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/97925/hls24_1528493552.m3u8</low>
+    <high>https://vid.tasty.co/output/97925/landscape_720/1528493552</high>
+  </video>
+  <duration>
+    <start_time>8.0</start_time>
+    <end_time>46.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">On a cutting board, butter each piece of bread with butter on one side. </step>
+    <step num="1">Flip the bread over and spread each piece of bread with mayonnaise. </step>
+    <step num="2">Place the cheese on the buttered side of one piece of bread. Top it with the second piece of bread, mayonnaise side out. </step>
+    <step num="3">Heat a nonstick pan over medium low heat. </step>
+    <step num="4">Place the sandwich on the pan, mayonnaise side down. </step>
+    <step num="5">Cook for 3-4 minutes, until golden brown. </step>
+    <step num="6">Using a spatula, flip the sandwich over and continue cooking until golden brown, about 2-3 minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, butter each piece of bread with butter on one side. </steps_updated>
+    <steps_updated num="1">Flip the bread over and spread each piece of bread with mayonnaise. </steps_updated>
+    <steps_updated num="2">Place the cheese on the buttered side of one piece of bread. </steps_updated>
+    <steps_updated num="3">Top it with the second piece of bread, mayonnaise side out. </steps_updated>
+    <steps_updated num="4">Heat a nonstick pan over medium low heat. </steps_updated>
+    <steps_updated num="5">Place the sandwich on the pan, mayonnaise side down. </steps_updated>
+    <steps_updated num="6">Cook for 3-4 minutes, until golden brown. </steps_updated>
+    <steps_updated num="7">Using a spatula, flip the sandwich over and continue cooking until golden brown, about 2-3 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Frozen Margaritas Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-frozen-margaritas</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">25 oz ; tequila ; (750 mL) </ingredient>
+    <ingredient num="1">34 oz ; limeade, lemonade can also work in a pinch ; (1 L) </ingredient>
+    <ingredient num="2">2 cups ; orange juice ; (470 mL) </ingredient>
+    <ingredient num="3">3 qt ; baking dish, or similar container ; (3 L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31835/low_1495124734.m3u8</low>
+    <high>https://vid.tasty.co/output/31835/mp4_720x1280/1495124734</high>
+  </video>
+  <steps>
+    <step num="0">Combine the tequila, limeade (or lemonade), and orange juice in your dish, give it a stir. </step>
+    <step num="1">Pop it in the freezer for at least five hours. Once it’s frozen into a solid, you’re ready to serve </step>
+    <step num="2">Take it out of the freezer and, using a spoon, scrape along the surface to pull up beautiful shards of frozen margarita (the motion is somewhere between scooping up ice cream and scraping off a car windshield in winter). </step>
+    <step num="3">Feel free to play around with the ratio on this — it’ll work with a bit less tequila and more juice, or a bit more tequila and less juice (whatever kind of party you’re looking for). Salted rim totally optional. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the tequila, limeade (or lemonade), and orange juice in your dish, give it a stir. </steps_updated>
+    <steps_updated num="1">Pop it in the freezer for at least five hours. </steps_updated>
+    <steps_updated num="2">Once it’s frozen into a solid, you’re ready to serve </steps_updated>
+    <steps_updated num="3">Take it out of the freezer and, using a spoon, scrape along the surface to pull up beautiful shards of frozen margarita (the motion is somewhere between scooping up ice cream and scraping off a car windshield in winter). </steps_updated>
+    <steps_updated num="4">Feel free to play around with the ratio on this — it’ll work with a bit less tequila and more juice, or a bit more tequila and less juice (whatever kind of party you’re looking for). </steps_updated>
+    <steps_updated num="5">Salted rim totally optional. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

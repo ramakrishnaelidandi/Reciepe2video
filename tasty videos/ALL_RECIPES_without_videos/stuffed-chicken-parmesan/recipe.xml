@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Stuffed Chicken Parmesan Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-chicken-parmesan</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; chicken breasts, boneless and skinless </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">1 cup ; mozzarella cheese ; (100 g) </ingredient>
+    <ingredient num="3">2 cups ; flour ; (250 g) </ingredient>
+    <ingredient num="4">6 ; eggs, beaten </ingredient>
+    <ingredient num="5">2 cups ; bread crumbs ; (230 g) </ingredient>
+    <ingredient num="6">1 cup ; oil, for frying ; (240 g) </ingredient>
+    <ingredient num="7">3 cups ; tomato sauce ; (780 g) </ingredient>
+    <ingredient num="8">½ cup ; grated parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="9">2 tablespoons ; fresh basil </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8411/low_1472568925.m3u8</low>
+    <high>https://vid.tasty.co/output/8411/mp4_720x1280/1472568925</high>
+  </video>
+  <steps>
+    <step num="0">Season chicken with salt. </step>
+    <step num="1">Cut a pocket into each chicken breast. </step>
+    <step num="2">Stuff the pockets evenly with the mozzarella cheese. </step>
+    <step num="3">Press the edges of the chicken together to seal the pocket. </step>
+    <step num="4">Separate the flour, eggs, and bread crumbs into 3 separate bowls. </step>
+    <step num="5">Being careful to keep the chicken from opening, dip the stuffed chicken in the flour, shaking off the excess. </step>
+    <step num="6">Dip the floured chicken into the egg, then the bread crumbs, coating it evenly. </step>
+    <step num="7">Heat the oil in a large pan over medium heat. Preheat oven to 180°C. </step>
+    <step num="8">Fry the chicken until golden brown on both sides. </step>
+    <step num="9">Place ⅔ of the tomato sauce evenly on the bottom of a baking dish. Place the chicken on top. </step>
+    <step num="10">Top with the rest of the tomato sauce, then sprinkle the parmesan and basil on top. </step>
+    <step num="11">Bake for 20 minutes. </step>
+    <step num="12">Serve! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season chicken with salt. </steps_updated>
+    <steps_updated num="1">Cut a pocket into each chicken breast. </steps_updated>
+    <steps_updated num="2">Stuff the pockets evenly with the mozzarella cheese. </steps_updated>
+    <steps_updated num="3">Press the edges of the chicken together to seal the pocket. </steps_updated>
+    <steps_updated num="4">Separate the flour, eggs, and bread crumbs into 3 separate bowls. </steps_updated>
+    <steps_updated num="5">Being careful to keep the chicken from opening, dip the stuffed chicken in the flour, shaking off the excess. </steps_updated>
+    <steps_updated num="6">Dip the floured chicken into the egg, then the bread crumbs, coating it evenly. </steps_updated>
+    <steps_updated num="7">Heat the oil in a large pan over medium heat. </steps_updated>
+    <steps_updated num="8">Preheat oven to 180°C. </steps_updated>
+    <steps_updated num="9">Fry the chicken until golden brown on both sides. </steps_updated>
+    <steps_updated num="10">Place ⅔ of the tomato sauce evenly on the bottom of a baking dish. </steps_updated>
+    <steps_updated num="11">Place the chicken on top. </steps_updated>
+    <steps_updated num="12">Top with the rest of the tomato sauce, then sprinkle the parmesan and basil on top. </steps_updated>
+    <steps_updated num="13">Bake for 20 minutes. </steps_updated>
+    <steps_updated num="14">Serve! </steps_updated>
+  </steps_updated>
+</recipe>

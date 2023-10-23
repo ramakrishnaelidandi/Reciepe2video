@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Salami Tortellini Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/salami-tortellini-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; pesto </ingredient>
+    <ingredient num="1">½ cup ; cheese tortellini, cooked ; (75 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; salami, chopped </ingredient>
+    <ingredient num="3">½ ; small tomato, chopped </ingredient>
+    <ingredient num="4">½ cup ; fresh basil, chopped ; (20 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; shredded parmesan cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102953/hls24_1532454040.m3u8</low>
+    <high>https://vid.tasty.co/output/102953/landscape_720/1532454040</high>
+  </video>
+  <duration>
+    <start_time>27.333</start_time>
+    <end_time>45.266</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the pesto to the bottom of a 16-ounce (480 ml) mason jar. </step>
+    <step num="1">Add the tortellini, salami, tomato, basil, and Parmesan. </step>
+    <step num="2">Store in the refrigerator for 2-3 days. </step>
+    <step num="3">When ready to eat, shake well to combine. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the pesto to the bottom of a 16-ounce (480 ml) mason jar. </steps_updated>
+    <steps_updated num="1">Add the tortellini, salami, tomato, basil, and Parmesan. </steps_updated>
+    <steps_updated num="2">Store in the refrigerator for 2-3 days. </steps_updated>
+    <steps_updated num="3">When ready to eat, shake well to combine. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

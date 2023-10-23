@@ -1,0 +1,65 @@
+<recipe>
+  <title>Granola Spoons Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/granola-spoons</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/edible-spoons</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 5359 13278 2935 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 7974 10907 10302 2281 </ingredient>
+    <ingredient num="2">3917 14014 13278 9586 </ingredient>
+    <ingredient num="3">8580 9486 13278 6949 1368 4834 </ingredient>
+    <ingredient num="4">2694 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/91620/hls24_1524854113.m3u8</low>
+    <high>https://vid.tasty.co/output/91620/landscape_720/1524854113</high>
+  </video>
+  <duration>
+    <start_time>70.333</start_time>
+    <end_time>130.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">1083 11951 5359 669 5994 8016 41 5797 1681 11951 5359 9490 14339 669 2192 13637 2257 5292 </step>
+    <step num="1">10950 5994 2192 7110 10968 3626 11951 10907 14240 13817 1368 4834 11770 4531 2082 12473 1681 11951 9924 9490 4318 11951 4834 9490 9947 13817 11951 2373 10586 560 8565 6285 2933 12689 </step>
+    <step num="2">6054 11951 5687 6781 11951 7855 13817 740 1580 2605 9460 371 11951 5614 11324 4429 2373 9490 8161 13700 6118 560 1003 740 3954 11324 </step>
+    <step num="3">5791 4061 4352 13528 210 6385 11426 6985 1733 1391 9637 8224 8226 13817 817 4255 5994 8372 10765 8800 </step>
+    <step num="4">11233 11951 5359 2373 9490 10694 9815 560 2554 14426 1802 11951 8481 371 10763 3513 1818 </step>
+    <step num="5">13855 7990 238 12689 </step>
+    <step num="6">3915 11951 10439 560 9988 8999 </step>
+    <step num="7">5570 6646 9152 371 6385 3615 1896 11951 2245 12595 3557 3386 5412 11951 5832 371 10763 1798 5833 11951 5359 14426 9490 700 1410 </step>
+    <step num="8">7831 7990 13767 12689 </step>
+    <step num="9">13434 11951 4352 7990 13767 11004 415 5103 11951 5359 4352 6781 11951 5770 </step>
+    <step num="10">4080 210 11951 7111 7990 5527 12689 </step>
+    <step num="11">12774 1391 2694 5358 13 </step>
+    <step num="12">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">1083 11951 5359 669 5994 8016 41 </steps_updated>
+    <steps_updated num="1">5797 1681 11951 5359 9490 14339 669 2192 13637 </steps_updated>
+    <steps_updated num="2">2257 5292 </steps_updated>
+    <steps_updated num="3">10950 5994 2192 7110 10968 3626 11951 10907 14240 13817 1368 4834 11770 4531 2082 </steps_updated>
+    <steps_updated num="4">12473 1681 11951 9924 9490 4318 11951 4834 9490 9947 13817 11951 2373 10586 560 8565 6285 2933 12689 </steps_updated>
+    <steps_updated num="5">6054 11951 5687 6781 11951 7855 13817 740 1580 2605 9460 371 11951 5614 11324 </steps_updated>
+    <steps_updated num="6">4429 2373 9490 8161 13700 6118 560 1003 740 3954 11324 </steps_updated>
+    <steps_updated num="7">5791 4061 4352 13528 210 6385 11426 </steps_updated>
+    <steps_updated num="8">6985 1733 1391 9637 8224 8226 13817 817 4255 5994 8372 10765 8800 </steps_updated>
+    <steps_updated num="9">11233 11951 5359 2373 9490 10694 9815 560 2554 14426 1802 11951 8481 371 10763 3513 1818 </steps_updated>
+    <steps_updated num="10">13855 7990 238 12689 </steps_updated>
+    <steps_updated num="11">3915 11951 10439 560 9988 8999 </steps_updated>
+    <steps_updated num="12">5570 6646 9152 371 6385 3615 1896 11951 2245 </steps_updated>
+    <steps_updated num="13">12595 3557 3386 5412 11951 5832 371 10763 1798 5833 11951 5359 14426 9490 700 1410 </steps_updated>
+    <steps_updated num="14">7831 7990 13767 12689 </steps_updated>
+    <steps_updated num="15">13434 11951 4352 7990 13767 11004 415 5103 11951 5359 4352 6781 11951 5770 </steps_updated>
+    <steps_updated num="16">4080 210 11951 7111 7990 5527 12689 </steps_updated>
+    <steps_updated num="17">12774 1391 2694 5358 13 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

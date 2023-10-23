@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pico De Gallo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pico-de-gallo</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-meals-1-snack-10-7-day-make-ahead-meal-plan-day-3</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; roma tomatoes, diced </ingredient>
+    <ingredient num="1">½ ; red onion, diced </ingredient>
+    <ingredient num="2">1 ; jalapeño, seeded and minced </ingredient>
+    <ingredient num="3">1 clove ; garlic, minced </ingredient>
+    <ingredient num="4">3 tablespoons ; fresh cilantro, chopped </ingredient>
+    <ingredient num="5">½ teaspoon ; kosher salt </ingredient>
+    <ingredient num="6">¼ teaspoon ; ground black pepper </ingredient>
+    <ingredient num="7">½ ; lime, juiced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94177/hls24_1526421103.m3u8</low>
+    <high>https://vid.tasty.co/output/94177/landscape_720/1526421103</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine tomatoes, onion, jalapeño, garlic, cilantro, salt, pepper, and lime juice in a small bowl and stir. </step>
+    <step num="1">Transfer to an airtight container and store in the fridge up to 6 days. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine tomatoes, onion, jalapeño, garlic, cilantro, salt, pepper, and lime juice in a small bowl and stir. </steps_updated>
+    <steps_updated num="1">Transfer to an airtight container and store in the fridge up to 6 days. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00696</start_time>
+    <end_time>01106</end_time>
+  </duration_human>
+</recipe>

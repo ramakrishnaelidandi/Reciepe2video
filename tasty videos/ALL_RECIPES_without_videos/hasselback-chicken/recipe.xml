@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hasselback Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hasselback-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; fresh spinach ; (50 g) </ingredient>
+    <ingredient num="1">¼ cup ; ricotta cheese ; (50 g) </ingredient>
+    <ingredient num="2">2 ; chicken breasts </ingredient>
+    <ingredient num="3">¼ cup ; cheddar cheese ; (20 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; paprika </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32091/low_1495125317.m3u8</low>
+    <high>https://vid.tasty.co/output/32091/mp4_720x1280/1495125317</high>
+  </video>
+  <steps>
+    <step num="0">Cook the spinach on a medium heat in a splash of oil for 3-5 minutes until it is slightly wilted. </step>
+    <step num="1">Stir in the ricotta and cook for a further 30-60 seconds. Allow to cool. </step>
+    <step num="2">Cut slits into the chicken breasts about 1cm (½ inch) apart but don’t cut all the way through - about 75% of the way down is what you should aim for. </step>
+    <step num="3">Stuff all of the spinach and ricotta mixture into the slits. </step>
+    <step num="4">Season the chicken with salt and pepper. </step>
+    <step num="5">Grate the cheddar and sprinkle it generously on top. </step>
+    <step num="6">Shake the ground paprika over the chicken to add some colour and flavour. </step>
+    <step num="7">Bake in the centre of a pre-heated oven for 20-25 minutes 200°C (400°F, Gas Mark 6) until the cheese has melted and the juices are clear. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cook the spinach on a medium heat in a splash of oil for 3-5 minutes until it is slightly wilted. </steps_updated>
+    <steps_updated num="1">Stir in the ricotta and cook for a further 30-60 seconds. </steps_updated>
+    <steps_updated num="2">Allow to cool. </steps_updated>
+    <steps_updated num="3">Cut slits into the chicken breasts about 1cm (½ inch) apart but don’t cut all the way through - about 75% of the way down is what you should aim for. </steps_updated>
+    <steps_updated num="4">Stuff all of the spinach and ricotta mixture into the slits. </steps_updated>
+    <steps_updated num="5">Season the chicken with salt and pepper. </steps_updated>
+    <steps_updated num="6">Grate the cheddar and sprinkle it generously on top. </steps_updated>
+    <steps_updated num="7">Shake the ground paprika over the chicken to add some colour and flavour. </steps_updated>
+    <steps_updated num="8">Bake in the centre of a pre-heated oven for 20-25 minutes 200°C (400°F, Gas Mark 6) until the cheese has melted and the juices are clear. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

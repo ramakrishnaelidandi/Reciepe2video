@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Tomato Coconut Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-tomato-coconut-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 lb ; chicken, quartered ; (1 ½ kg) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="4">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="5">1 tablespoon ; ginger </ingredient>
+    <ingredient num="6">3 ; jalapeñoes, deseeded and diced </ingredient>
+    <ingredient num="7">1 ; onion, chopped </ingredient>
+    <ingredient num="8">1 ¼ cups ; tomato puree ; (280 g) </ingredient>
+    <ingredient num="9">1 cup ; coconut milk, unsweetened ; (240 mL) </ingredient>
+    <ingredient num="10">1 cup ; chicken stock ; (240 mL) </ingredient>
+    <ingredient num="11">fresh cilantro, or parsley, for garnish, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Thai</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Healthy</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32188/low_1495125442.m3u8</low>
+    <high>https://vid.tasty.co/output/32188/mp4_720x1280/1495125442</high>
+  </video>
+  <steps>
+    <step num="0">Salt and pepper chicken. </step>
+    <step num="1">In a large pot, brown chicken in olive oil. Remove chicken and set aside. </step>
+    <step num="2">In the same pot, add garlic, ginger, jalapeños and onions. Cook until translucent. </step>
+    <step num="3">Pour in the tomato puree, unsweetened coconut milk and chicken broth. </step>
+    <step num="4">Add the chicken back to the pot. Bring to a simmer. Cover and cook for 45 - 60 minutes. </step>
+    <step num="5">Serve with rice. Garnish with cilantro or parsley. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Salt and pepper chicken. </steps_updated>
+    <steps_updated num="1">In a large pot, brown chicken in olive oil. </steps_updated>
+    <steps_updated num="2">Remove chicken and set aside. </steps_updated>
+    <steps_updated num="3">In the same pot, add garlic, ginger, jalapeños and onions. </steps_updated>
+    <steps_updated num="4">Cook until translucent. </steps_updated>
+    <steps_updated num="5">Pour in the tomato puree, unsweetened coconut milk and chicken broth. </steps_updated>
+    <steps_updated num="6">Add the chicken back to the pot. </steps_updated>
+    <steps_updated num="7">Bring to a simmer. </steps_updated>
+    <steps_updated num="8">Cover and cook for 45 - 60 minutes. </steps_updated>
+    <steps_updated num="9">Serve with rice. </steps_updated>
+    <steps_updated num="10">Garnish with cilantro or parsley. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

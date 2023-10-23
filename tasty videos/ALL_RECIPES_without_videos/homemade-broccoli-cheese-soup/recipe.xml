@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Broccoli Cheese Soup Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-broccoli-cheese-soup</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ½ cups ; shredded cheddar cheese ; (350 g) </ingredient>
+    <ingredient num="1">1 cup ; shredded parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="3">¼ teaspoon ; cayenne pepper </ingredient>
+    <ingredient num="4">½ clove ; garlic </ingredient>
+    <ingredient num="5">3 cups ; milk ; (710 mL) </ingredient>
+    <ingredient num="6">1 cup ; chicken stock ; (235 mL) </ingredient>
+    <ingredient num="7">1 cup ; broccoli, finely chopped ; (250 g) </ingredient>
+    <ingredient num="8">1 ; baguette </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28296/low_1491256883.m3u8</low>
+    <high>https://vid.tasty.co/output/28296/mp4_720x1280/1491256883</high>
+  </video>
+  <steps>
+    <step num="0">Over medium heat, combine cheese with cornstarch and cayenne pepper. </step>
+    <step num="1">Once melted, slowly add garlic, milk, and chicken stock. </step>
+    <step num="2">Add finely chopped broccoli and allow to simmer about 5 minutes while making cheese toasts. </step>
+    <step num="3">Cover slices of baguette bread with shredded cheddar and broil for 3 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Over medium heat, combine cheese with cornstarch and cayenne pepper. </steps_updated>
+    <steps_updated num="1">Once melted, slowly add garlic, milk, and chicken stock. </steps_updated>
+    <steps_updated num="2">Add finely chopped broccoli and allow to simmer about 5 minutes while making cheese toasts. </steps_updated>
+    <steps_updated num="3">Cover slices of baguette bread with shredded cheddar and broil for 3 minutes. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Egg Toast Perfect For Breakfast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-egg-toast-perfect-for-breakfast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 slice ; bread </ingredient>
+    <ingredient num="1">½ tablespoon ; butter </ingredient>
+    <ingredient num="2">1 ; egg </ingredient>
+    <ingredient num="3">3 tablespoons ; shredded cheese </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31909/low_1495124904.m3u8</low>
+    <high>https://vid.tasty.co/output/31909/mp4_720x1280/1495124904</high>
+  </video>
+  <steps>
+    <step num="0">With a spoon, press down on the center of the bread to form a pocket. </step>
+    <step num="1">Line the edges of the bread with butter, and crack an egg into the pocket. </step>
+    <step num="2">Line the edges of the bread with shredded cheese. </step>
+    <step num="3">Sprinkle on salt and pepper, and bake at 400°F (204°C) for 10-15 min. 10 min will have a runny yolk whereas 15 min will have a firmer yolk. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">With a spoon, press down on the center of the bread to form a pocket. </steps_updated>
+    <steps_updated num="1">Line the edges of the bread with butter, and crack an egg into the pocket. </steps_updated>
+    <steps_updated num="2">Line the edges of the bread with shredded cheese. </steps_updated>
+    <steps_updated num="3">Sprinkle on salt and pepper, and bake at 400°F (204°C) for 10-15 min. </steps_updated>
+    <steps_updated num="4">10 min will have a runny yolk whereas 15 min will have a firmer yolk. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

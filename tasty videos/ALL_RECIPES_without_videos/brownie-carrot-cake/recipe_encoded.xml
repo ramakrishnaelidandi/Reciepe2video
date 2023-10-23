@@ -1,0 +1,73 @@
+<recipe>
+  <title>Brownie Carrot Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/brownie-carrot-cake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-mesmerizing-brazilian-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">3591 2605 13278 10907 5335 13278 8178 5981 </ingredient>
+    <ingredient num="1">3917 12791 9517 13278 4834 13278 10339 5981 </ingredient>
+    <ingredient num="2">13086 9486 13278 9053 11703 </ingredient>
+    <ingredient num="3">8580 13278 12708 </ingredient>
+    <ingredient num="4">3917 2605 13278 13521 890 13278 9373 5981 </ingredient>
+    <ingredient num="5">3917 8071 13278 10765 3294 </ingredient>
+    <ingredient num="6">8580 13278 13757 8445 3962 </ingredient>
+    <ingredient num="7">1580 2605 13278 4168 5766 13278 2935 8007 </ingredient>
+    <ingredient num="8">8580 13278 12708 </ingredient>
+    <ingredient num="9">3917 12791 9517 13278 4834 13278 10339 5981 </ingredient>
+    <ingredient num="10">3917 2605 13278 8554 5735 890 13278 9373 5981 </ingredient>
+    <ingredient num="11">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="12">3917 1580 9517 13278 7595 4680 13278 10339 5981 </ingredient>
+    <ingredient num="13">3917 12791 9517 13278 13033 12658 13278 1513 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Brazilian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96310/hls24_1527632108.m3u8</low>
+    <high>https://vid.tasty.co/output/96310/landscape_720/1527632108</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 12738 1610 </step>
+    <step num="1">2715 11951 2332 210 5994 14511 10968 10907 6145 9053 13817 12708 1681 13764 9179 6467 10765 3294 13817 10968 3631 13066 </step>
+    <step num="2">12785 4428 560 5994 2362 13817 13004 6453 121 1645 11252 5687 13817 11434 7317 </step>
+    <step num="3">7831 7990 2800 12689 2257 5292 </step>
+    <step num="4">2715 11951 11021 625 210 5994 12027 10968 8445 7632 14463 4834 1681 3145 4309 9179 6467 10765 11703 13817 1279 560 4120 13817 12119 </step>
+    <step num="5">1083 11951 11021 14124 4428 11770 11951 2755 6710 </step>
+    <step num="6">7831 7990 2081 11004 5895 1681 5994 7462 4150 2696 7179 2257 10261 7990 13767 8927 560 10694 432 12341 5943 </step>
+    <step num="7">2715 11951 4680 7280 10968 4680 13817 13033 210 5994 2192 12377 13817 10503 4255 13757 9081 7990 3917 12110 13817 238 6659 13328 7811 10763 238 773 </step>
+    <step num="8">1083 11951 4680 2260 11770 11951 8265 </step>
+    <step num="9">12774 1391 3954 9286 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">2715 11951 2332 210 5994 14511 10968 10907 6145 9053 13817 12708 1681 13764 </steps_updated>
+    <steps_updated num="2">9179 6467 10765 3294 13817 10968 3631 </steps_updated>
+    <steps_updated num="3">13066 </steps_updated>
+    <steps_updated num="4">12785 4428 560 5994 2362 13817 13004 6453 121 1645 11252 5687 13817 11434 7317 </steps_updated>
+    <steps_updated num="5">7831 7990 2800 12689 </steps_updated>
+    <steps_updated num="6">2257 5292 </steps_updated>
+    <steps_updated num="7">2715 11951 11021 625 210 5994 12027 10968 8445 7632 14463 4834 1681 3145 4309 </steps_updated>
+    <steps_updated num="8">9179 6467 10765 11703 13817 1279 560 4120 13817 12119 </steps_updated>
+    <steps_updated num="9">1083 11951 11021 14124 4428 11770 11951 2755 6710 </steps_updated>
+    <steps_updated num="10">7831 7990 2081 11004 5895 1681 5994 7462 4150 2696 7179 </steps_updated>
+    <steps_updated num="11">2257 10261 7990 13767 8927 560 10694 432 12341 5943 </steps_updated>
+    <steps_updated num="12">2715 11951 4680 7280 10968 4680 13817 13033 210 5994 2192 12377 13817 10503 4255 13757 9081 7990 3917 12110 13817 238 6659 13328 7811 10763 238 773 </steps_updated>
+    <steps_updated num="13">1083 11951 4680 2260 11770 11951 8265 </steps_updated>
+    <steps_updated num="14">12774 1391 3954 9286 </steps_updated>
+    <steps_updated num="15">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01572</start_time>
+    <end_time>03165</end_time>
+  </duration_human>
+</recipe>

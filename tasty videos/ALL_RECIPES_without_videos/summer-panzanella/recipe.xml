@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Summer Panzanella Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/summer-panzanella</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 cups ; country bread, cubed ; (175 g) </ingredient>
+    <ingredient num="1">¼ cup ; extra virgin olive oil, divided, plus 3 tablespoons ; (60 mL) </ingredient>
+    <ingredient num="2">2 teaspoons ; kosher salt, divided </ingredient>
+    <ingredient num="3">1 ½ teaspoons ; freshly ground black pepper, divided </ingredient>
+    <ingredient num="4">1 ; small shallot, minced </ingredient>
+    <ingredient num="5">1 ; garlic, minced </ingredient>
+    <ingredient num="6">1 teaspoon ; dijon mustard </ingredient>
+    <ingredient num="7">¼ cup ; sherry vinegar ; (60 mL) </ingredient>
+    <ingredient num="8">2 cups ; corn kernals ; (350 g) </ingredient>
+    <ingredient num="9">4 ; medium heirloom tomatoes, cut into 1-inch (2.5 cm) pieces </ingredient>
+    <ingredient num="10">½ lb ; fresh mozzarella cheese, torn into pieces ; (225 g) </ingredient>
+    <ingredient num="11">1 cup ; fresh basil leaves, loosely packed ; (40 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/136278/hls24_1560803231.m3u8</low>
+    <high>https://vid.tasty.co/output/136278/landscape_720/1560803231</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 350˚F (180˚C). </step>
+    <step num="1">Add the bread cubes to a medium bowl and toss with 2 tablespoons of olive oil, ½ teaspoon salt, and ½ teaspoon black pepper until well coated. </step>
+    <step num="2">Spread the bread cubes in an even layer on a baking sheet. Toast for 15 minutes, until golden brown. </step>
+    <step num="3">In a liquid measuring cup or small bowl, whisk together the shallot, garlic, mustard, vinegar, remaining teaspoon of pepper, and 1 teaspoon salt. Slowly drizzle in ¼ cup olive oil, whisking constantly, until the dressing is emulsified. Set aside. </step>
+    <step num="4">Heat the remaining tablespoon of olive oil in a medium skillet over medium-high heat. Once the oil is shimmering, add the corn and cook, stirring, until charred in spots, about 5 minutes. Season with the remaining ½ teaspoon salt. </step>
+    <step num="5">Transfer the corn to a large bowl and add the toasted bread cubes, tomatoes, mozzarella, and dressing. Toss well. Add the basil and toss again to incorporate. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Add the bread cubes to a medium bowl and toss with 2 tablespoons of olive oil, ½ teaspoon salt, and ½ teaspoon black pepper until well coated. </steps_updated>
+    <steps_updated num="2">Spread the bread cubes in an even layer on a baking sheet. </steps_updated>
+    <steps_updated num="3">Toast for 15 minutes, until golden brown. </steps_updated>
+    <steps_updated num="4">In a liquid measuring cup or small bowl, whisk together the shallot, garlic, mustard, vinegar, remaining teaspoon of pepper, and 1 teaspoon salt. </steps_updated>
+    <steps_updated num="5">Slowly drizzle in ¼ cup olive oil, whisking constantly, until the dressing is emulsified. </steps_updated>
+    <steps_updated num="6">Set aside. </steps_updated>
+    <steps_updated num="7">Heat the remaining tablespoon of olive oil in a medium skillet over medium-high heat. </steps_updated>
+    <steps_updated num="8">Once the oil is shimmering, add the corn and cook, stirring, until charred in spots, about 5 minutes. </steps_updated>
+    <steps_updated num="9">Season with the remaining ½ teaspoon salt. </steps_updated>
+    <steps_updated num="10">Transfer the corn to a large bowl and add the toasted bread cubes, tomatoes, mozzarella, and dressing. </steps_updated>
+    <steps_updated num="11">Toss well. </steps_updated>
+    <steps_updated num="12">Add the basil and toss again to incorporate. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

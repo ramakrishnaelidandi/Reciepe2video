@@ -1,0 +1,62 @@
+<recipe>
+  <title>Cookie Dough Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookie-dough-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-ice-cream-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 890 13278 9373 5981 </ingredient>
+    <ingredient num="1">1580 2605 13278 9924 13278 7289 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 1368 4834 13278 7289 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 5802 13278 13125 8007 </ingredient>
+    <ingredient num="4">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="5">3917 2605 13278 1459 4680 11318 13278 7642 5981 </ingredient>
+    <ingredient num="6">8580 9517 13278 8640 13033 13278 5610 8007 </ingredient>
+    <ingredient num="7">8883 643 13278 3063 9889 3917 14138 13278 7 8007 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32829/low_1495728240.m3u8</low>
+    <high>https://vid.tasty.co/output/32829/mp4_720x1280/1495728240</high>
+  </video>
+  <duration>
+    <start_time>75.38</start_time>
+    <end_time>104.899</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 9988 11323 </step>
+    <step num="1">7427 11434 11951 890 2696 4255 5994 213 11745 13817 10903 7990 2933 8927 560 13872 14279 </step>
+    <step num="2">10950 5994 2597 14511 13033 11951 9924 13817 8525 9179 11951 5802 13817 308 13817 10968 1681 4386 9456 </step>
+    <step num="3">9179 11951 13828 890 13817 3446 13817 6183 7475 210 4680 4668 </step>
+    <step num="4">5209 5994 2192 13908 1374 2696 1865 13073 371 11951 8337 13817 10231 560 5994 213 10590 13855 7990 5994 14612 371 2237 5664 </step>
+    <step num="5">10950 5994 2597 14511 740 11951 13033 13817 3063 9889 415 12073 1681 12386 5464 5563 </step>
+    <step num="6">12595 210 11951 11579 7155 12687 415 10231 560 5994 10765 10590 13494 1391 3274 7155 8337 7306 5358 13 </step>
+    <step num="7">13855 7990 199 14329 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 9988 11323 </steps_updated>
+    <steps_updated num="1">7427 11434 11951 890 2696 4255 5994 213 11745 13817 10903 7990 2933 8927 560 13872 14279 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 14511 13033 11951 9924 13817 8525 </steps_updated>
+    <steps_updated num="3">9179 11951 5802 13817 308 13817 10968 1681 4386 9456 </steps_updated>
+    <steps_updated num="4">9179 11951 13828 890 13817 3446 13817 6183 7475 210 4680 4668 </steps_updated>
+    <steps_updated num="5">5209 5994 2192 13908 1374 2696 1865 13073 371 11951 8337 13817 10231 560 5994 213 10590 </steps_updated>
+    <steps_updated num="6">13855 7990 5994 14612 371 2237 5664 </steps_updated>
+    <steps_updated num="7">10950 5994 2597 14511 740 11951 13033 13817 3063 9889 415 12073 1681 12386 5464 5563 </steps_updated>
+    <steps_updated num="8">12595 210 11951 11579 7155 12687 415 10231 560 5994 10765 10590 </steps_updated>
+    <steps_updated num="9">13494 1391 3274 7155 8337 7306 5358 13 </steps_updated>
+    <steps_updated num="10">13855 7990 199 14329 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02325</start_time>
+    <end_time>03684</end_time>
+  </duration_human>
+</recipe>

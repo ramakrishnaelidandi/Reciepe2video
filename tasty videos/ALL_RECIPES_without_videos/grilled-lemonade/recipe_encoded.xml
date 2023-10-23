@@ -1,0 +1,45 @@
+<recipe>
+  <title>Grilled Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-lemonade</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2933 13278 13757 5492 </ingredient>
+    <ingredient num="1">3917 13278 5516 976 669 3571 </ingredient>
+    <ingredient num="2">3917 2605 13278 4617 6145 7789 3274 7990 13715 13278 6898 5981 </ingredient>
+    <ingredient num="3">4061 9517 13278 12282 13278 5564 8007 </ingredient>
+    <ingredient num="4">4061 9517 13278 2439 13278 5017 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33735/low_1497033819.m3u8</low>
+    <high>https://vid.tasty.co/output/33735/mp4_720x1280/1497033819</high>
+  </video>
+  <steps>
+    <step num="0">12474 5994 4669 8667 12801 11951 5492 13817 6798 11951 7777 10860 1391 5994 7497 11826 371 8525 </step>
+    <step num="1">5570 11951 5492 4255 2237 13337 12352 5687 7777 11801 573 13817 2550 3755 11770 3996 7855 7990 14115 11004 1681 9687 </step>
+    <step num="2">6054 5492 6781 11951 12352 13817 12886 3755 7990 5966 12689 </step>
+    <step num="3">8725 5492 11770 5994 11042 10859 1497 669 5994 2532 949 8891 12430 7338 </step>
+    <step num="4">9956 8554 11951 5492 12573 6827 740 11951 4617 6145 597 1359 13384 13817 2439 3569 4787 12473 1681 11951 4834 9490 10033 </step>
+    <step num="5">10917 123 11155 740 11951 2439 5358 10613 2682 371 13312 9179 11951 2439 6908 432 3044 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 12801 11951 5492 13817 6798 11951 7777 10860 1391 5994 7497 11826 371 8525 </steps_updated>
+    <steps_updated num="1">5570 11951 5492 4255 2237 13337 12352 5687 7777 11801 573 13817 2550 3755 11770 3996 7855 7990 14115 11004 1681 9687 </steps_updated>
+    <steps_updated num="2">6054 5492 6781 11951 12352 13817 12886 3755 7990 5966 12689 </steps_updated>
+    <steps_updated num="3">8725 5492 11770 5994 11042 10859 1497 669 5994 2532 949 8891 12430 7338 </steps_updated>
+    <steps_updated num="4">9956 8554 11951 5492 12573 6827 740 11951 4617 6145 597 1359 13384 13817 2439 3569 4787 </steps_updated>
+    <steps_updated num="5">12473 1681 11951 4834 9490 10033 </steps_updated>
+    <steps_updated num="6">10917 123 11155 740 11951 2439 5358 10613 2682 371 13312 </steps_updated>
+    <steps_updated num="7">9179 11951 2439 6908 432 3044 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

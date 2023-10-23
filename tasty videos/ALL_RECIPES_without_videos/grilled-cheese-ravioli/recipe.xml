@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Cheese “Ravioli” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-cheese-ravioli</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 slices ; sandwich bread </ingredient>
+    <ingredient num="1">2 slices ; cheddar cheese </ingredient>
+    <ingredient num="2">2 slices ; swiss cheese </ingredient>
+    <ingredient num="3">4 slices ; ham </ingredient>
+    <ingredient num="4">egg wash </ingredient>
+    <ingredient num="5">½ cup ; butter ; (115 g) </ingredient>
+    <ingredient num="6">tomato soup, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Lunch</category>
+    <category num="3">Game Day</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/66604/hls24_1512686331.m3u8</low>
+    <high>https://vid.tasty.co/output/66604/landscape_720/1512686331</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, cut the crusts off of the bread. Press bread flat with hands or a rolling pin. </step>
+    <step num="1">Take one slice of cheddar cheese and cut it into 4 equal squares. Repeat with the Swiss cheese. </step>
+    <step num="2">Cut the slices of ham into a square. </step>
+    <step num="3">Place one piece of flattened bread on a surface. Place 2 squares of cheddar so they are overlapping. Place the ham on top of the cheddar. Place 2 squares of the Swiss on top of the ham so the are overlapping. </step>
+    <step num="4">Brush the edges of the bread with egg wash. </step>
+    <step num="5">Take the other flattened piece of bread and place it on top. Press down the edges. Using a fork press along the edges of the “ravioli” until the edges are sealed. </step>
+    <step num="6">In a pan heat 1 tablespoon of butter until melted on medium heat. Place the “ravioli” in the pan. Cook for about 3 minutes on each side until golden and crispy. Remove from heat. </step>
+    <step num="7">Serve immediately with hot tomato soup. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, cut the crusts off of the bread. </steps_updated>
+    <steps_updated num="1">Press bread flat with hands or a rolling pin. </steps_updated>
+    <steps_updated num="2">Take one slice of cheddar cheese and cut it into 4 equal squares. </steps_updated>
+    <steps_updated num="3">Repeat with the Swiss cheese. </steps_updated>
+    <steps_updated num="4">Cut the slices of ham into a square. </steps_updated>
+    <steps_updated num="5">Place one piece of flattened bread on a surface. </steps_updated>
+    <steps_updated num="6">Place 2 squares of cheddar so they are overlapping. </steps_updated>
+    <steps_updated num="7">Place the ham on top of the cheddar. </steps_updated>
+    <steps_updated num="8">Place 2 squares of the Swiss on top of the ham so the are overlapping. </steps_updated>
+    <steps_updated num="9">Brush the edges of the bread with egg wash. </steps_updated>
+    <steps_updated num="10">Take the other flattened piece of bread and place it on top. </steps_updated>
+    <steps_updated num="11">Press down the edges. </steps_updated>
+    <steps_updated num="12">Using a fork press along the edges of the “ravioli” until the edges are sealed. </steps_updated>
+    <steps_updated num="13">In a pan heat 1 tablespoon of butter until melted on medium heat. </steps_updated>
+    <steps_updated num="14">Place the “ravioli” in the pan. </steps_updated>
+    <steps_updated num="15">Cook for about 3 minutes on each side until golden and crispy. </steps_updated>
+    <steps_updated num="16">Remove from heat. </steps_updated>
+    <steps_updated num="17">Serve immediately with hot tomato soup. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

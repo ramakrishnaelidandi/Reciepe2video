@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Truffle Mac ‘n’ Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/truffle-mac-n-cheese</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-course-decadent-dinner-for-one</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; butter, divided </ingredient>
+    <ingredient num="1">1 cup ; mushroom, sliced ; (75 g) </ingredient>
+    <ingredient num="2">1 pinch ; salt </ingredient>
+    <ingredient num="3">1 pinch ; pepper </ingredient>
+    <ingredient num="4">2 tablespoons ; flour </ingredient>
+    <ingredient num="5">1 cup ; milk ; (240 mL) </ingredient>
+    <ingredient num="6">1 cup ; shredded parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="7">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="8">2 cups ; shell pasta, cooked ; (400 g) </ingredient>
+    <ingredient num="9">truffle oil </ingredient>
+    <ingredient num="10">chopped fresh chives </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23601/low_1486685439.m3u8</low>
+    <high>https://vid.tasty.co/output/23601/mp4_720x1280/1486685439</high>
+  </video>
+  <duration>
+    <start_time>59.0</start_time>
+    <end_time>98.15</end_time>
+  </duration>
+  <steps>
+    <step num="0">Melt 1 tablespoon of butter in a medium pot over medium heat. Add the mushrooms, salt, and pepper and cook until the mushrooms are softened. Remove from the pot. </step>
+    <step num="1">Add the remaining 2 tablespoons of butter and the flour to the pot. Whisk until the flour is toasted, approximately 2 minutes. </step>
+    <step num="2">Add the milk while whisking continuously to avoid lumps. Cook until the sauce is thickened. </step>
+    <step num="3">Whisk in the Parmesan and cheddar cheeses and season with salt and pepper. </step>
+    <step num="4">Add the cooked pasta and mushrooms. Mix until the sauce coats the pasta well. </step>
+    <step num="5">Top with truffle oil and chives. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium pot, melt butter and cook mushrooms until soft. </steps_updated>
+    <steps_updated num="1">Remove from pot. </steps_updated>
+    <steps_updated num="2">In the same pot, add 2 tablespoons of butter and flour. </steps_updated>
+    <steps_updated num="3">Mix with a whisk until flour is cooked, approximately 2 minutes. </steps_updated>
+    <steps_updated num="4">Add milk and continue to whisk avoiding lumps to form. </steps_updated>
+    <steps_updated num="5">Mix in cheese and mix until the sauce thickens to desired thickness. </steps_updated>
+    <steps_updated num="6">Add in cooked pasta and mushrooms. </steps_updated>
+    <steps_updated num="7">Mix until sauce fully coats the pasta. </steps_updated>
+    <steps_updated num="8">Top it off with chives and truffle oil. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01624</start_time>
+    <end_time>03298</end_time>
+  </duration_human>
+</recipe>

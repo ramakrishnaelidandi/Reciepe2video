@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Chilli Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-chilli-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 ; egg, beaten </ingredient>
+    <ingredient num="4">¾ cup ; flour ; (100 g) </ingredient>
+    <ingredient num="5">1 ; green pepper, sliced </ingredient>
+    <ingredient num="6">1 ; red pepper, sliced </ingredient>
+    <ingredient num="7">rice, to serve </ingredient>
+    <ingredient num="8">3 cloves ; garlic cloves, crushed </ingredient>
+    <ingredient num="9">1 ; red chilli, chopped </ingredient>
+    <ingredient num="10">3 tablespoons ; soy sauce </ingredient>
+    <ingredient num="11">2 tablespoons ; tomato puree </ingredient>
+    <ingredient num="12">½ cup ; water ; (100 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13857/low_1478280768.m3u8</low>
+    <high>https://vid.tasty.co/output/13857/mp4_720x1280/1478280768</high>
+  </video>
+  <steps>
+    <step num="0">Season the chicken with salt and pepper. </step>
+    <step num="1">Cut the chicken into thin strips then coat in the egg wash and flour. </step>
+    <step num="2">Shallow fry for a few minutes on each side, until golden brown. </step>
+    <step num="3">Add the peppers and fry for another couple of minutes. Remove the chicken and peppers and set aside. </step>
+    <step num="4">In the same pan, add the garlic, red chilli, soy sauce, tomato purée, and water. Stir and simmer the mixture reduces and is thick and syrupy. </step>
+    <step num="5">Add back in the chicken and peppers and stir well in the sauce. </step>
+    <step num="6">Serve with rice. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season the chicken with salt and pepper. </steps_updated>
+    <steps_updated num="1">Cut the chicken into thin strips then coat in the egg wash and flour. </steps_updated>
+    <steps_updated num="2">Shallow fry for a few minutes on each side, until golden brown. </steps_updated>
+    <steps_updated num="3">Add the peppers and fry for another couple of minutes. </steps_updated>
+    <steps_updated num="4">Remove the chicken and peppers and set aside. </steps_updated>
+    <steps_updated num="5">In the same pan, add the garlic, red chilli, soy sauce, tomato purée, and water. </steps_updated>
+    <steps_updated num="6">Stir and simmer the mixture reduces and is thick and syrupy. </steps_updated>
+    <steps_updated num="7">Add back in the chicken and peppers and stir well in the sauce. </steps_updated>
+    <steps_updated num="8">Serve with rice. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

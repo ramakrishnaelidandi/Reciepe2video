@@ -1,0 +1,42 @@
+<recipe>
+  <title>Easy Grilled Whole Fish Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-grilled-whole-fish</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 3305 6319 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">5516 560 11567 </ingredient>
+    <ingredient num="4">11911 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31852/low_1495124854.m3u8</low>
+    <high>https://vid.tasty.co/output/31852/mp4_720x1280/1495124854</high>
+  </video>
+  <steps>
+    <step num="0">7069 6319 1864 13817 2696 1391 278 13384 14548 5316 1391 12 671 </step>
+    <step num="1">4102 9756 1391 12610 10986 5516 11911 5895 7115 226 656 5895 523 </step>
+    <step num="2">1594 930 1391 8244 14158 5570 210 5994 2589 5645 371 8640 9617 6385 3615 13817 7463 1391 4617 13493 7692 11951 3615 6371 5833 5312 881 5895 5910 2444 8946 9801 1752 5994 1653 8830 11951 10707 371 11951 6319 13817 11951 10707 371 11951 3615 2321 </step>
+    <step num="3">264 4255 3996 9937 7990 11551 8927 10013 4255 5285 371 11951 3373 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">7069 6319 1864 13817 2696 1391 278 13384 14548 5316 1391 12 671 </steps_updated>
+    <steps_updated num="1">4102 9756 1391 12610 10986 5516 11911 5895 7115 226 656 5895 523 </steps_updated>
+    <steps_updated num="2">1594 930 1391 8244 14158 </steps_updated>
+    <steps_updated num="3">5570 210 5994 2589 5645 371 8640 9617 6385 3615 13817 7463 1391 4617 13493 </steps_updated>
+    <steps_updated num="4">7692 11951 3615 6371 5833 5312 881 5895 5910 2444 8946 9801 1752 5994 1653 8830 11951 10707 371 11951 6319 13817 11951 10707 371 11951 3615 2321 </steps_updated>
+    <steps_updated num="5">264 4255 3996 9937 7990 11551 8927 10013 4255 5285 371 11951 3373 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

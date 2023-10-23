@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado &amp; Yogurt Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-yogurt-chicken-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-healthier-food-substitutions</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; cooked chicken, chopped or shredded ; (125 g) </ingredient>
+    <ingredient num="1">¼ cup ; celery, chopped ; (55 g) </ingredient>
+    <ingredient num="2">¼ cup ; red onion, diced ; (35 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="4">1 ; lime, juiced </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">1 ; ripe avocado, mashed </ingredient>
+    <ingredient num="8">¾ cup ; nonfat greek yogurt ; (215 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Sides</category>
+    <category num="5">Snacks</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46809/low_1502320486.m3u8</low>
+    <high>https://vid.tasty.co/output/46809/mp4_720x1280/1502320486</high>
+  </video>
+  <duration>
+    <start_time>180.05</start_time>
+    <end_time>198.67</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add mashed avocado (or non-fat Greek yogurt), cooked chicken, celery, red onion, parsley, lime juice, salt, and pepper. </step>
+    <step num="1">Stir until well combined. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add mashed avocado (or non-fat Greek yogurt), cooked chicken, celery, red onion, parsley, lime juice, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Stir until well combined. </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05308</start_time>
+    <end_time>05993</end_time>
+  </duration_human>
+</recipe>

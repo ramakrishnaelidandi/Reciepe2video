@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Gluten-free Doughnuts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/gluten-free-doughnuts</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-doughnut-recipes-you-need-to-try</comp_url>
+  <ingredients>
+    <ingredient num="0">⅔ cup ; dark chocolate ; (100 g) </ingredient>
+    <ingredient num="1">⅔ cup ; butter ; (150 g) </ingredient>
+    <ingredient num="2">½ cup ; cocoa powder ; (50 g) </ingredient>
+    <ingredient num="3">⅔ cup ; sugar ; (150 g) </ingredient>
+    <ingredient num="4">1 tablespoon ; vanilla extract </ingredient>
+    <ingredient num="5">5 ; eggs </ingredient>
+    <ingredient num="6">⅔ cup ; chocolate, melted ; (100 g) </ingredient>
+    <ingredient num="7">⅓ cup ; sprinkles ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/59008/low_1509389289.m3u8</low>
+    <high>https://vid.tasty.co/output/59008/mp4_720x1280/1509389289</high>
+  </video>
+  <duration>
+    <start_time>104.4</start_time>
+    <end_time>162.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">Pre-heat the oven to 180°C (350°F). </step>
+    <step num="1">Melt the chocolate and butter together in a saucepan over a medium heat. </step>
+    <step num="2">Stir in the cocoa powder, sugar and vanilla extract. </step>
+    <step num="3">Take off the heat and whisk in the eggs one at a time. </step>
+    <step num="4">Tear off a piece of greaseproof paper and scrunch into a small ball. </step>
+    <step num="5">Place the the paper balls in the centre of each hole in a muffin tin. </step>
+    <step num="6">Pour the chocolate doughnut mixture in the muffin tin holes, circling around the paper balls and being careful not to cover them. </step>
+    <step num="7">Bake in the oven for 8-10 minutes. </step>
+    <step num="8">Carefully take the doughnuts out of the muffin tin. Take out the paper balls with your fingers. You should have a circle-shaped hole in each doughnut. </step>
+    <step num="9">Dip in some melted chocolate, followed by some sprinkles. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pre-heat the oven to 180°C (350°F). </steps_updated>
+    <steps_updated num="1">Melt the chocolate and butter together in a saucepan over a medium heat. </steps_updated>
+    <steps_updated num="2">Stir in the cocoa powder, sugar and vanilla extract. </steps_updated>
+    <steps_updated num="3">Take off the heat and whisk in the eggs one at a time. </steps_updated>
+    <steps_updated num="4">Tear off a piece of greaseproof paper and scrunch into a small ball. </steps_updated>
+    <steps_updated num="5">Place the the paper balls in the centre of each hole in a muffin tin. </steps_updated>
+    <steps_updated num="6">Pour the chocolate doughnut mixture in the muffin tin holes, circling around the paper balls and being careful not to cover them. </steps_updated>
+    <steps_updated num="7">Bake in the oven for 8-10 minutes. </steps_updated>
+    <steps_updated num="8">Carefully take the doughnuts out of the muffin tin. </steps_updated>
+    <steps_updated num="9">Take out the paper balls with your fingers. </steps_updated>
+    <steps_updated num="10">You should have a circle-shaped hole in each doughnut. </steps_updated>
+    <steps_updated num="11">Dip in some melted chocolate, followed by some sprinkles. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03188</start_time>
+    <end_time>04890</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>No-Bake Nutella Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/no-bake-nutella-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">24 ; oreo cookies </ingredient>
+    <ingredient num="1">⅓ cup ; butter, melted ; (115 g) </ingredient>
+    <ingredient num="2">13 oz ; chocolate hazelnut spread, 1 jar ; (370 g) </ingredient>
+    <ingredient num="3">8 oz ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="4">8 oz ; whipped topping, or whipped cream ; (225 g) </ingredient>
+    <ingredient num="5">whipped cream </ingredient>
+    <ingredient num="6">chocolate shaving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32212/low_1495125490.m3u8</low>
+    <high>https://vid.tasty.co/output/32212/mp4_720x1280/1495125490</high>
+  </video>
+  <steps>
+    <step num="0">Crush cookies and mix with melted butter. </step>
+    <step num="1">Spread mixture over pie pan. </step>
+    <step num="2">Refrigerate crust while making filling. </step>
+    <step num="3">Mix Nutella, cream cheese, and whipped topping until smooth. </step>
+    <step num="4">Spread mixture over pie crust. </step>
+    <step num="5">Decorate the pie then refrigerate for at least 4 hours or overnight. The pie can also be served frozen. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Crush cookies and mix with melted butter. </steps_updated>
+    <steps_updated num="1">Spread mixture over pie pan. </steps_updated>
+    <steps_updated num="2">Refrigerate crust while making filling. </steps_updated>
+    <steps_updated num="3">Mix Nutella, cream cheese, and whipped topping until smooth. </steps_updated>
+    <steps_updated num="4">Spread mixture over pie crust. </steps_updated>
+    <steps_updated num="5">Decorate the pie then refrigerate for at least 4 hours or overnight. </steps_updated>
+    <steps_updated num="6">The pie can also be served frozen. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

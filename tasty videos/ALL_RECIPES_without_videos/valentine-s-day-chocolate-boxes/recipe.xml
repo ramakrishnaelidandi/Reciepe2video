@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Valentine's Day Chocolate Boxes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/valentine-s-day-chocolate-boxes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; whipped cream ; (235 mL) </ingredient>
+    <ingredient num="1">1 tablespoon ; espresso powder </ingredient>
+    <ingredient num="2">2 tablespoons ; powdered sugar </ingredient>
+    <ingredient num="3">chocolate square, 6 squares per box </ingredient>
+    <ingredient num="4">dark chocolate, melted </ingredient>
+    <ingredient num="5">white chocolate, melted </ingredient>
+    <ingredient num="6">strawberry </ingredient>
+    <ingredient num="7">whipped cream </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Date Night</category>
+    <category num="7">Indulgent Sweets</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32102/low_1495125323.m3u8</low>
+    <high>https://vid.tasty.co/output/32102/mp4_720x1280/1495125323</high>
+  </video>
+  <steps>
+    <step num="0">In a large mixing bowl, whip together the heavy cream, espresso powder. </step>
+    <step num="1">Add powdered sugar until you have stiff peaks. </step>
+    <step num="2">Cover and refrigerate so it can stiffen more before you add it to the chocolate box. </step>
+    <step num="3">To form the chocolate box: Use melted chocolate to “glue” the pieces together; leave the top off. Feel free to decorate the top. Set chocolate. </step>
+    <step num="4">Add the refrigerated whipped coffee cream, top with some whipped cream, add the strawberry, and place on the top piece of chocolate. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mixing bowl, whip together the heavy cream, espresso powder. </steps_updated>
+    <steps_updated num="1">Add powdered sugar until you have stiff peaks. </steps_updated>
+    <steps_updated num="2">Cover and refrigerate so it can stiffen more before you add it to the chocolate box. </steps_updated>
+    <steps_updated num="3">To form the chocolate box: Use melted chocolate to “glue” the pieces together; leave the top off. </steps_updated>
+    <steps_updated num="4">Feel free to decorate the top. </steps_updated>
+    <steps_updated num="5">Set chocolate. </steps_updated>
+    <steps_updated num="6">Add the refrigerated whipped coffee cream, top with some whipped cream, add the strawberry, and place on the top piece of chocolate. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,60 @@
+<recipe>
+  <title>Chicken Parm Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parm-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 13278 7983 7678 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">3917 2605 13278 13521 890 13278 9373 5981 </ingredient>
+    <ingredient num="4">2933 13278 14463 3247 </ingredient>
+    <ingredient num="5">8580 9517 13278 11239 4465 9031 13278 2583 5981 </ingredient>
+    <ingredient num="6">4168 7632 7990 5291 </ingredient>
+    <ingredient num="7">8580 9517 13278 12426 14538 </ingredient>
+    <ingredient num="8">11598 643 13278 9122 2260 13278 5800 5981 </ingredient>
+    <ingredient num="9">6735 13278 8920 13633 </ingredient>
+    <ingredient num="10">3917 1580 9517 13278 3333 10865 14538 </ingredient>
+    <ingredient num="11">3917 1580 9517 13278 3333 109 14538 </ingredient>
+    <ingredient num="12">6209 749 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/13401/low_1477934557.m3u8</low>
+    <high>https://vid.tasty.co/output/13401/mp4_720x1280/1477934557</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">14100 7983 7678 210 2532 2317 4176 7497 5358 2611 13817 12616 1391 82 13817 12375 </step>
+    <step num="2">309 11951 7983 210 6467 4036 13817 2839 210 4465 10745 </step>
+    <step num="3">8889 5766 210 5994 6541 4782 10060 13817 7256 11951 7983 4255 6697 10860 1681 1368 12363 4061 8927 10763 2756 2257 5292 </step>
+    <step num="4">10950 5994 14511 8341 797 6216 669 11951 2254 415 817 5292 </step>
+    <step num="5">10950 5994 7112 5435 11434 1813 371 11951 7051 371 9122 4255 11951 5239 10707 1391 8920 5777 10407 1391 10763 4114 </step>
+    <step num="6">2988 2532 371 11951 12426 2373 4255 10707 371 11951 13633 13817 11826 1391 9104 </step>
+    <step num="7">13494 11951 7983 1391 1580 2605 2264 8882 371 10865 13817 5994 1580 2605 2264 8882 371 8924 </step>
+    <step num="8">8697 7573 210 11951 5540 3191 13817 10707 1391 374 13795 </step>
+    <step num="9">4660 1391 3615 13817 10903 7990 10833 8927 2950 11951 8920 7990 11951 10465 13767 8927 371 3685 </step>
+    <step num="10">12774 1391 5994 1678 371 6209 13952 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">14100 7983 7678 210 2532 2317 4176 7497 5358 2611 13817 12616 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="2">309 11951 7983 210 6467 4036 13817 2839 210 4465 10745 </steps_updated>
+    <steps_updated num="3">8889 5766 210 5994 6541 4782 10060 13817 7256 11951 7983 4255 6697 10860 1681 1368 12363 4061 8927 10763 2756 </steps_updated>
+    <steps_updated num="4">2257 5292 </steps_updated>
+    <steps_updated num="5">10950 5994 14511 8341 797 6216 669 11951 2254 415 817 5292 </steps_updated>
+    <steps_updated num="6">10950 5994 7112 5435 11434 1813 371 11951 7051 371 9122 4255 11951 5239 10707 1391 8920 5777 10407 1391 10763 4114 </steps_updated>
+    <steps_updated num="7">2988 2532 371 11951 12426 2373 4255 10707 371 11951 13633 13817 11826 1391 9104 </steps_updated>
+    <steps_updated num="8">13494 11951 7983 1391 1580 2605 2264 8882 371 10865 13817 5994 1580 2605 2264 8882 371 8924 </steps_updated>
+    <steps_updated num="9">8697 7573 210 11951 5540 3191 13817 10707 1391 374 13795 </steps_updated>
+    <steps_updated num="10">4660 1391 3615 13817 10903 7990 10833 8927 2950 11951 8920 7990 11951 10465 13767 8927 371 3685 </steps_updated>
+    <steps_updated num="11">12774 1391 5994 1678 371 6209 13952 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

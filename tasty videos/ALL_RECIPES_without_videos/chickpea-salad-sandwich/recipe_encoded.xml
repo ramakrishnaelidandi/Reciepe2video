@@ -1,0 +1,53 @@
+<recipe>
+  <title>Chickpea Salad Sandwich Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chickpea-salad-sandwich</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/easy-to-pack-vegan-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">13133 643 13278 2955 3917 9067 6124 13817 4980 13278 13345 5981 </ingredient>
+    <ingredient num="1">12791 2605 13278 8083 12384 341 13278 336 5981 </ingredient>
+    <ingredient num="2">1580 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="3">13086 9486 13278 2991 13051 </ingredient>
+    <ingredient num="4">1580 8071 13278 9260 6422 </ingredient>
+    <ingredient num="5">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="6">1580 8071 13278 6334 11703 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+    <ingredient num="8">10986 560 11567 </ingredient>
+    <ingredient num="9">3917 14014 13278 6209 4564 3962 </ingredient>
+    <ingredient num="10">5433 6249 560 1966 </ingredient>
+    <ingredient num="11">2071 516 560 1966 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76566/hls24_1517619562.m3u8</low>
+    <high>https://vid.tasty.co/output/76566/landscape_720/1517619562</high>
+  </video>
+  <duration>
+    <start_time>79.0</start_time>
+    <end_time>130.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 3624 14511 740 6940 13817 12833 1391 2868 6211 1681 5994 5953 11648 9490 888 </step>
+    <step num="1">9179 11951 8083 12384 8083 10986 2991 1392 7997 5920 11384 8117 6334 8117 12610 10986 13817 4564 13817 6142 1681 3145 4309 </step>
+    <step num="2">10434 10795 11812 210 7111 7990 3386 560 7460 2497 10450 13746 12652 11434 2373 1802 4465 13817 10707 1391 5433 3117 371 13316 </step>
+    <step num="3">5791 210 3550 12 13817 1028 1391 10258 2945 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 3624 14511 740 6940 13817 12833 1391 2868 6211 1681 5994 5953 11648 9490 888 </steps_updated>
+    <steps_updated num="1">9179 11951 8083 12384 8083 10986 2991 1392 7997 5920 11384 8117 6334 8117 12610 10986 13817 4564 13817 6142 1681 3145 4309 </steps_updated>
+    <steps_updated num="2">10434 10795 11812 210 7111 7990 3386 560 7460 2497 </steps_updated>
+    <steps_updated num="3">10450 13746 12652 11434 2373 1802 4465 13817 10707 1391 5433 3117 371 13316 </steps_updated>
+    <steps_updated num="4">5791 210 3550 12 13817 1028 1391 10258 2945 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01928</start_time>
+    <end_time>03131</end_time>
+  </duration_human>
+</recipe>

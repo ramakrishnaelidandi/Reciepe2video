@@ -1,0 +1,43 @@
+<recipe>
+  <title>Peanut Butter, Strawberry, And Banana Quesadilla Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peanut-butter-strawberry-and-banana-quesadilla</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 2834 13798 9924 13278 2935 5981 </ingredient>
+    <ingredient num="1">3917 14014 13278 9586 </ingredient>
+    <ingredient num="2">1580 8071 13278 7079 236 </ingredient>
+    <ingredient num="3">12791 8071 13278 1319 10937 </ingredient>
+    <ingredient num="4">4061 13278 7234 7693 3716 13817 1088 976 </ingredient>
+    <ingredient num="5">3917 13278 76 976 669 13073 </ingredient>
+    <ingredient num="6">8580 13278 3305 2168 5149 13767 2985 1936 1645 </ingredient>
+    <ingredient num="7">3917 14014 13278 7974 10907 3247 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/125708/hls24_1551220568.m3u8</low>
+    <high>https://vid.tasty.co/output/125708/landscape_720/1551220568</high>
+  </video>
+  <steps>
+    <step num="0">10950 5994 13757 14511 8341 3626 11951 13798 10907 14240 4654 13817 12048 </step>
+    <step num="1">14100 3482 11951 856 6781 11951 11951 7234 415 2519 3235 11951 7956 </step>
+    <step num="2">12474 5994 4669 8667 7454 2696 11951 11237 13817 11434 1580 371 11951 13798 9924 2373 13876 11951 10707 1580 371 11951 328 6695 6114 13817 959 8535 11770 11951 13798 10907 415 7475 11951 11649 11801 371 11951 11237 11770 11951 11682 5362 1391 11951 374 11907 </step>
+    <step num="3">10950 5994 2597 5687 11770 13757 14307 6983 1580 14014 14057 5570 11951 5434 210 11951 6222 5687 13817 2550 1681 2357 6285 8580 12689 11423 13817 4861 8224 1681 10963 4255 11951 11649 7780 8638 8927 3347 6054 6781 11951 7855 13817 6190 1391 11951 11649 5509 </step>
+    <step num="4">14100 10763 5434 669 4061 14243 415 8956 9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 8341 3626 11951 13798 10907 14240 4654 13817 12048 </steps_updated>
+    <steps_updated num="1">14100 3482 11951 856 6781 11951 11951 7234 415 2519 </steps_updated>
+    <steps_updated num="2">3235 11951 7956 </steps_updated>
+    <steps_updated num="3">12474 5994 4669 8667 7454 2696 11951 11237 13817 11434 1580 371 11951 13798 9924 2373 13876 11951 10707 1580 371 11951 328 </steps_updated>
+    <steps_updated num="4">6695 6114 13817 959 8535 11770 11951 13798 10907 415 7475 11951 11649 11801 371 11951 11237 11770 11951 11682 </steps_updated>
+    <steps_updated num="5">5362 1391 11951 374 11907 </steps_updated>
+    <steps_updated num="6">10950 5994 2597 5687 11770 13757 14307 6983 1580 14014 14057 </steps_updated>
+    <steps_updated num="7">5570 11951 5434 210 11951 6222 5687 13817 2550 1681 2357 6285 8580 12689 </steps_updated>
+    <steps_updated num="8">11423 13817 4861 8224 1681 10963 4255 11951 11649 7780 8638 8927 3347 </steps_updated>
+    <steps_updated num="9">6054 6781 11951 7855 13817 6190 1391 11951 11649 5509 </steps_updated>
+    <steps_updated num="10">14100 10763 5434 669 4061 14243 415 8956 </steps_updated>
+    <steps_updated num="11">9092 </steps_updated>
+  </steps_updated>
+</recipe>

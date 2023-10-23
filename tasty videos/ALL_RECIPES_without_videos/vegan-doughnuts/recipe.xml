@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Doughnuts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-doughnuts</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; vegan margarine ; (50 g) </ingredient>
+    <ingredient num="1">½ cup ; soy milk ; (120 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; sunflower oil, plus extra for frying </ingredient>
+    <ingredient num="3">2 cups ; plain flour ; (250 g) </ingredient>
+    <ingredient num="4">½ cup ; caster sugar ; (100 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegan</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32268/low_1495125535.m3u8</low>
+    <high>https://vid.tasty.co/output/32268/mp4_720x1280/1495125535</high>
+  </video>
+  <steps>
+    <step num="0">Gently melt the butter over a low-medium heat. Add milk and 2 tablespoons of sunflower oil and mix together. </step>
+    <step num="1">Once combined, take off the heat and set aside. </step>
+    <step num="2">In a separate bowl, combine the flour, half of the sugar, baking powder and salt with a fork. </step>
+    <step num="3">Make a well in the center and pour in the butter mixture. Combine gradually until a thick dough forms. </step>
+    <step num="4">Using your hands, roll dough into little flat balls and with your thumb, press a hole in the center of each doughnut. (You may need to flour your hands for this part to avoid getting sticky!) </step>
+    <step num="5">Heat up oil in a pan. To know when it's hot enough, fry a little bit of bread in the oil. If it goes brown and floats to the top, in 45-50 seconds the oil will be ready! </step>
+    <step num="6">Gently lay the doughnuts into the oil using a spatula. Fry for about 3-5 minutes on each side, until golden brown. </step>
+    <step num="7">Transfer the doughnuts onto some tissue paper to soak up any excess oil. </step>
+    <step num="8">Roll the doughnut into a bowl of the remaining half of sugar. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Gently melt the butter over a low-medium heat. </steps_updated>
+    <steps_updated num="1">Add milk and 2 tablespoons of sunflower oil and mix together. </steps_updated>
+    <steps_updated num="2">Once combined, take off the heat and set aside. </steps_updated>
+    <steps_updated num="3">In a separate bowl, combine the flour, half of the sugar, baking powder and salt with a fork. </steps_updated>
+    <steps_updated num="4">Make a well in the center and pour in the butter mixture. </steps_updated>
+    <steps_updated num="5">Combine gradually until a thick dough forms. </steps_updated>
+    <steps_updated num="6">Using your hands, roll dough into little flat balls and with your thumb, press a hole in the center of each doughnut. </steps_updated>
+    <steps_updated num="7">(You may need to flour your hands for this part to avoid getting sticky!) </steps_updated>
+    <steps_updated num="8">Heat up oil in a pan. </steps_updated>
+    <steps_updated num="9">To know when it's hot enough, fry a little bit of bread in the oil. </steps_updated>
+    <steps_updated num="10">If it goes brown and floats to the top, in 45-50 seconds the oil will be ready! </steps_updated>
+    <steps_updated num="11">Gently lay the doughnuts into the oil using a spatula. </steps_updated>
+    <steps_updated num="12">Fry for about 3-5 minutes on each side, until golden brown. </steps_updated>
+    <steps_updated num="13">Transfer the doughnuts onto some tissue paper to soak up any excess oil. </steps_updated>
+    <steps_updated num="14">Roll the doughnut into a bowl of the remaining half of sugar. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

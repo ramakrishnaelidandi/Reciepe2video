@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pan-Fried Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pan-fried-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-cook-salmon</comp_url>
+  <ingredients>
+    <ingredient num="0">6 oz ; skinless salmon fillet ; (170 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">olive oil, for cooking </ingredient>
+    <ingredient num="4">1 ; lemon, sliced </ingredient>
+    <ingredient num="5">fresh thyme, as needed </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Healthy</category>
+    <category num="2">Lunch</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24516/low_1487727857.m3u8</low>
+    <high>https://vid.tasty.co/output/24516/mp4_720x1280/1487727857</high>
+  </video>
+  <duration>
+    <start_time>20.3</start_time>
+    <end_time>44.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat oil in a nonstick skillet. </step>
+    <step num="1">Season salmon with salt and pepper. </step>
+    <step num="2">Lay the salmon on the skillet and watch the color rise to about two-thirds of the way up the salmon. Flip the salmon once and cook until done to taste, roughly 2-4 minutes longer. </step>
+    <step num="3">Serve with lemon and thyme (optional). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil in a nonstick skillet. </steps_updated>
+    <steps_updated num="1">Season salmon with salt and pepper. </steps_updated>
+    <steps_updated num="2">Lay the salmon on the skillet and watch the color rise to about two-thirds of the way up the salmon. </steps_updated>
+    <steps_updated num="3">Flip the salmon once and cook until done to taste, roughly 2-4 minutes longer. </steps_updated>
+    <steps_updated num="4">Serve with lemon and thyme (optional). </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00669</start_time>
+    <end_time>01325</end_time>
+  </duration_human>
+</recipe>

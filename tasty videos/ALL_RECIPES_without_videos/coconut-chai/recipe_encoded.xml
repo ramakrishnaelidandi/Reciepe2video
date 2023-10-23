@@ -1,0 +1,49 @@
+<recipe>
+  <title>Coconut Chai Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/coconut-chai</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/winter-warmers-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">9465 13695 643 13278 6742 9889 3917 2141 13278 5348 5981 </ingredient>
+    <ingredient num="1">3917 3591 9517 13278 12282 13278 5348 8007 </ingredient>
+    <ingredient num="2">8580 9486 13278 4834 </ingredient>
+    <ingredient num="3">8580 12389 13278 9026 13796 </ingredient>
+    <ingredient num="4">3917 13278 12425 1297 </ingredient>
+    <ingredient num="5">8580 9832 13278 5475 6160 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Date Night</category>
+    <category num="4">Happy Hour</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18211/low_1481910340.m3u8</low>
+    <high>https://vid.tasty.co/output/18211/mp4_720x1280/1481910340</high>
+  </video>
+  <duration>
+    <start_time>41.29</start_time>
+    <end_time>64.28</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 11951 6742 9889 13384 13817 4834 560 5994 4771 7794 13817 14238 560 11714 </step>
+    <step num="1">426 573 11951 7855 13817 740 11951 9026 13796 12389 13817 12425 9716 1575 7990 2933 8927 7811 5994 9721 2082 </step>
+    <step num="2">9179 4817 9832 371 6160 13817 11779 7990 5994 4689 6865 12689 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 11951 6742 9889 13384 13817 4834 560 5994 4771 </steps_updated>
+    <steps_updated num="1">7794 13817 14238 560 11714 </steps_updated>
+    <steps_updated num="2">426 573 11951 7855 13817 740 11951 9026 13796 12389 13817 12425 9716 </steps_updated>
+    <steps_updated num="3">1575 7990 2933 8927 7811 5994 9721 2082 </steps_updated>
+    <steps_updated num="4">9179 4817 9832 371 6160 13817 11779 7990 5994 4689 6865 12689 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01296</start_time>
+    <end_time>01939</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Cinnamon Roll Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-cinnamon-roll-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; refrigerated pie crust </ingredient>
+    <ingredient num="1">butter, melted, to taste </ingredient>
+    <ingredient num="2">sugar, to taste </ingredient>
+    <ingredient num="3">cinnamon, to taste </ingredient>
+    <ingredient num="4">1 cup ; powdered sugar ; (160 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Desserts</category>
+    <category num="4">Snacks</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32063/low_1495125045.m3u8</low>
+    <high>https://vid.tasty.co/output/32063/mp4_720x1280/1495125045</high>
+  </video>
+  <steps>
+    <step num="0">Roll out the pie crust and cut to a rectangle shape. </step>
+    <step num="1">Cover with your desired amount of melted butter, sugar, and cinnamon. </step>
+    <step num="2">Roll the crust up. </step>
+    <step num="3">Cut into little discs. Bake at 350°F (180°C) for 10-15 minutes, depending on how thick you cut them. </step>
+    <step num="4">In a bowl, mix powdered sugar with milk until it becomes a glaze. Add milk if you want a thinner consistency. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Roll out the pie crust and cut to a rectangle shape. </steps_updated>
+    <steps_updated num="1">Cover with your desired amount of melted butter, sugar, and cinnamon. </steps_updated>
+    <steps_updated num="2">Roll the crust up. </steps_updated>
+    <steps_updated num="3">Cut into little discs. </steps_updated>
+    <steps_updated num="4">Bake at 350°F (180°C) for 10-15 minutes, depending on how thick you cut them. </steps_updated>
+    <steps_updated num="5">In a bowl, mix powdered sugar with milk until it becomes a glaze. </steps_updated>
+    <steps_updated num="6">Add milk if you want a thinner consistency. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

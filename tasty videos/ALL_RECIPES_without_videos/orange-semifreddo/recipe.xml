@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Orange Semifreddo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/orange-semifreddo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ¾ cups ; icing sugar ; (300 g) </ingredient>
+    <ingredient num="1">2 cups ; mascarpone cheese ; (500 g) </ingredient>
+    <ingredient num="2">6 ; egg yolks </ingredient>
+    <ingredient num="3">1 ¼ cups ; single cream ; (300 mL) </ingredient>
+    <ingredient num="4">2 ; orange zests, 2 oranges </ingredient>
+    <ingredient num="5">⅓ cup ; orange liqueur ; (75 mL) </ingredient>
+    <ingredient num="6">3 ½ teaspoons ; vanilla extract </ingredient>
+    <ingredient num="7">4 ; oranges </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Date Night</category>
+    <category num="5">Happy Hour</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/27580/low_1490402864.m3u8</low>
+    <high>https://vid.tasty.co/output/27580/mp4_720x1280/1490402864</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, whisk together all of the filling ingredients until smooth. </step>
+    <step num="1">Cut the oranges in half and squeeze the juice out while keeping the skin intact as much as you can. </step>
+    <step num="2">Fill each orange half with the filling and then freeze for at least one hour. (Placing them in small dishes on a baking tray will help keep their shape, but they will probably be fine if you don’t have enough little dishes). </step>
+    <step num="3">Soften for 15-30 minutes at room temperature before serving. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, whisk together all of the filling ingredients until smooth. </steps_updated>
+    <steps_updated num="1">Cut the oranges in half and squeeze the juice out while keeping the skin intact as much as you can. </steps_updated>
+    <steps_updated num="2">Fill each orange half with the filling and then freeze for at least one hour. </steps_updated>
+    <steps_updated num="3">(Placing them in small dishes on a baking tray will help keep their shape, but they will probably be fine if you don’t have enough little dishes). </steps_updated>
+    <steps_updated num="4">Soften for 15-30 minutes at room temperature before serving. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

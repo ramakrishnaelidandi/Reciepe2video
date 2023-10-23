@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pie Crust Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pie-crust</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/the-perfect-pie</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; all-purpose flour, plus more for dusting ; (250 g) </ingredient>
+    <ingredient num="1">1 pinch ; kosher salt </ingredient>
+    <ingredient num="2">10 tablespoons ; unsalted butter, 1 1/4 sticks, diced and chilled </ingredient>
+    <ingredient num="3">2 ; large egg yolks </ingredient>
+    <ingredient num="4">4 tablespoons ; ice water </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Bakery Goods</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114207/hls24_1541199334.m3u8</low>
+    <high>https://vid.tasty.co/output/114207/landscape_720/1541199334</high>
+  </video>
+  <duration>
+    <start_time>116.0</start_time>
+    <end_time>212.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">Sift the flour and salt together into a large bowl. </step>
+    <step num="1">Using only your fingertips, pinch the cubes of butter into the flour, breaking up the butter as you go, until no large lumps remain. Shake the bowl to force the large chunks of butter to the surface. If you have warm hands or this is taking too long, you can chill the bowl into the refrigerator for 20 minutes to cool back down--you don’t want this to be greasy at all! </step>
+    <step num="2">Mix the egg yolks and ice water together in a small bowl with a fork until evenly combined. </step>
+    <step num="3">Add the liquid to the flour mixture, reserving ¼ or so in case you don’t need all of it--you don’t want the pastry to be too wet. Quickly mix everything together with a dinner fork until the dough just starts to come together. Add more liquid to the driest parts of the dough if needed. The dough is ready when it holds together in a ball when squeezed in your palm. </step>
+    <step num="4">Transfer the dough to a clean work surface and bring the dough together. You don’t want to overwork the dough, but you need to work it enough that it is a cohesive disc with no real cracks or very dry bits. </step>
+    <step num="5">Wrap the dough disc in plastic wrap and chill for 30 minutes. The dough can sit in the fridge for up to 4 days, otherwise double wrap in plastic or in a zip top bag and store in the freezer for up to 3 months. </step>
+    <step num="6">Lightly flour your work surface and unwrap a disc of chilled dough. Flour the top of the dough. Using a rolling pin, push down on the dough, giving it a quarter turn every few smushes, to spread the dough evenly and ensure it doesn’t stick to the surface. </step>
+    <step num="7">Start to roll out the dough, continuing to turn. If any cracks form, smush them back together. Roll out the dough to a circle about ⅛-inch (3 mm) thick. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Sift the flour and salt together into a large bowl. </steps_updated>
+    <steps_updated num="1">Using only your fingertips, pinch the cubes of butter into the flour, breaking up the butter as you go, until no large lumps remain. </steps_updated>
+    <steps_updated num="2">Shake the bowl to force the large chunks of butter to the surface. </steps_updated>
+    <steps_updated num="3">If you have warm hands or this is taking too long, you can chill the bowl into the refrigerator for 20 minutes to cool back down--you don’t want this to be greasy at all! </steps_updated>
+    <steps_updated num="4">Mix the egg yolks and ice water together in a small bowl with a fork until evenly combined. </steps_updated>
+    <steps_updated num="5">Add the liquid to the flour mixture, reserving ¼ or so in case you don’t need all of it--you don’t want the pastry to be too wet. </steps_updated>
+    <steps_updated num="6">Quickly mix everything together with a dinner fork until the dough just starts to come together. </steps_updated>
+    <steps_updated num="7">Add more liquid to the driest parts of the dough if needed. </steps_updated>
+    <steps_updated num="8">The dough is ready when it holds together in a ball when squeezed in your palm. </steps_updated>
+    <steps_updated num="9">Transfer the dough to a clean work surface and bring the dough together. </steps_updated>
+    <steps_updated num="10">You don’t want to overwork the dough, but you need to work it enough that it is a cohesive disc with no real cracks or very dry bits. </steps_updated>
+    <steps_updated num="11">Wrap the dough disc in plastic wrap and chill for 30 minutes. </steps_updated>
+    <steps_updated num="12">The dough can sit in the fridge for up to 4 days, otherwise double wrap in plastic or in a zip top bag and store in the freezer for up to 3 months. </steps_updated>
+    <steps_updated num="13">Lightly flour your work surface and unwrap a disc of chilled dough. </steps_updated>
+    <steps_updated num="14">Flour the top of the dough. </steps_updated>
+    <steps_updated num="15">Using a rolling pin, push down on the dough, giving it a quarter turn every few smushes, to spread the dough evenly and ensure it doesn’t stick to the surface. </steps_updated>
+    <steps_updated num="16">Start to roll out the dough, continuing to turn. </steps_updated>
+    <steps_updated num="17">If any cracks form, smush them back together. </steps_updated>
+    <steps_updated num="18">Roll out the dough to a circle about ⅛-inch (3 mm) thick. </steps_updated>
+    <steps_updated num="19">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

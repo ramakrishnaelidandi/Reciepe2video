@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Lobster Roll Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lobster-roll</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-summer-seafood-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">2 small stalks ; celery, chopped </ingredient>
+    <ingredient num="1">⅓ cup ; mayonnaise, plus 2 tablespoons, divided ; (80 g) </ingredient>
+    <ingredient num="2">2 ; lemons, juiced </ingredient>
+    <ingredient num="3">1 teaspoon ; lemon zest </ingredient>
+    <ingredient num="4">2 tablespoons ; fresh chives, finely chopped </ingredient>
+    <ingredient num="5">fine sea salt </ingredient>
+    <ingredient num="6">freshly ground black pepper </ingredient>
+    <ingredient num="7">1 ¼ lb ; lobster meat, 4-5 large cooked lobster tails, coarsely chopped ; (565 g) </ingredient>
+    <ingredient num="8">4 ; hot dog buns </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99245/hls24_1529441653.m3u8</low>
+    <high>https://vid.tasty.co/output/99245/landscape_720/1529441653</high>
+  </video>
+  <duration>
+    <start_time>75.0</start_time>
+    <end_time>114.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, combine the celery, ⅓ cup (80 g) of the mayonnaise, lemon zest, lemon juice, and chives. </step>
+    <step num="1">Season with salt and pepper. </step>
+    <step num="2">Stir in the lobster meat just to combine. </step>
+    <step num="3">Brush the inside of the hotdog buns with the remaining 2 tablespoons mayonnaise. </step>
+    <step num="4">Toast in a large skillet set over medium heat. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the celery, ⅓ cup (80 g) of the mayonnaise, lemon zest, lemon juice, and chives. </steps_updated>
+    <steps_updated num="1">Season with salt and pepper. </steps_updated>
+    <steps_updated num="2">Stir in the lobster meat just to combine. </steps_updated>
+    <steps_updated num="3">Brush the inside of the hotdog buns with the remaining 2 tablespoons mayonnaise. </steps_updated>
+    <steps_updated num="4">Toast in a large skillet set over medium heat. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

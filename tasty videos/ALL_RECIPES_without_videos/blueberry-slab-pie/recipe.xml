@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Slab Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-slab-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; refrigerated pie crusts, 8 inch (20 cm) </ingredient>
+    <ingredient num="1">5 cups ; blueberry ; (500 g) </ingredient>
+    <ingredient num="2">¾ cup ; sugar ; (150 g) </ingredient>
+    <ingredient num="3">3 tablespoons ; cornstarch </ingredient>
+    <ingredient num="4">½ teaspoon ; cinnamon </ingredient>
+    <ingredient num="5">1 pinch ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; lemon zest </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8625/low_1472752255.m3u8</low>
+    <high>https://vid.tasty.co/output/8625/mp4_720x1280/1472752255</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F/200˚C. </step>
+    <step num="1">In a bowl, mix the blueberries, sugar, cornstarch, cinnamon, salt, and lemon zest. Set aside. </step>
+    <step num="2">On parchment paper, stack 2 pie crusts on top of each other. Roll out to 17 inches by 12 inches (43 cm by 30 cm). Cut diagonally into strips. </step>
+    <step num="3">Roll out another 2 pie crusts. Place in a 15x10x1 inch (38x25x2.5 cm) baking sheet. </step>
+    <step num="4">Spread out blueberry mixture into the crust, then form a lattice top with the pie crust strips.  Tuck the crust inward around the edges, and bake for 35 minutes. </step>
+    <step num="5">Serve warm with ice cream. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F/200˚C. </steps_updated>
+    <steps_updated num="1">In a bowl, mix the blueberries, sugar, cornstarch, cinnamon, salt, and lemon zest. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">On parchment paper, stack 2 pie crusts on top of each other. </steps_updated>
+    <steps_updated num="4">Roll out to 17 inches by 12 inches (43 cm by 30 cm). </steps_updated>
+    <steps_updated num="5">Cut diagonally into strips. </steps_updated>
+    <steps_updated num="6">Roll out another 2 pie crusts. </steps_updated>
+    <steps_updated num="7">Place in a 15x10x1 inch (38x25x2.5 cm) baking sheet. </steps_updated>
+    <steps_updated num="8">Spread out blueberry mixture into the crust, then form a lattice top with the pie crust strips. </steps_updated>
+    <steps_updated num="9">Tuck the crust inward around the edges, and bake for 35 minutes. </steps_updated>
+    <steps_updated num="10">Serve warm with ice cream. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

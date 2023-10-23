@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>2-Ingredient Soda Pop Cakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-ingredient-soda-pop-cakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 box ; cake mix </ingredient>
+    <ingredient num="1">1 can ; soda </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Date Night</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32219/low_1495125466.m3u8</low>
+    <high>https://vid.tasty.co/output/32219/mp4_720x1280/1495125466</high>
+  </video>
+  <steps>
+    <step num="0">Mix one box of cake mix with one 12 oz (255 ml) can of soda. </step>
+    <step num="1">Pour into a greased glass baking dish. </step>
+    <step num="2">Bake at 350°F (180°C) for 30-40 minutes (depends on the cake mix/soda combination). Make sure not to touch it until it’s cool. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix one box of cake mix with one 12 oz (255 ml) can of soda. </steps_updated>
+    <steps_updated num="1">Pour into a greased glass baking dish. </steps_updated>
+    <steps_updated num="2">Bake at 350°F (180°C) for 30-40 minutes (depends on the cake mix/soda combination). </steps_updated>
+    <steps_updated num="3">Make sure not to touch it until it’s cool. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

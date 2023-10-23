@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic Shrimp Scampi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-shrimp-scampi</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/spaghetti-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; butter </ingredient>
+    <ingredient num="1">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="2">1 lb ; shrimp, peeled and deveined ; (450 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">1 teaspoon ; pepper </ingredient>
+    <ingredient num="5">½ ; lemon, juiced </ingredient>
+    <ingredient num="6">1 teaspoon ; red chili flake </ingredient>
+    <ingredient num="7">¼ cup ; fresh parsley, chopped ; (10 g) </ingredient>
+    <ingredient num="8">½ lb ; spaghetti, cooked ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Seafood</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51258/low_1504721585.m3u8</low>
+    <high>https://vid.tasty.co/output/51258/mp4_720x1280/1504721585</high>
+  </video>
+  <duration>
+    <start_time>21.419</start_time>
+    <end_time>47.98</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the pot over medium heat. </step>
+    <step num="1">Melt the butter in the pot. </step>
+    <step num="2">Cook the garlic until it starts to brown. </step>
+    <step num="3">Add the shrimp, salt, and pepper, cooking until shrimp is pink all the way through. </step>
+    <step num="4">Add the lemon juice, chili flakes, and parsley. </step>
+    <step num="5">Add the spaghetti, and toss until evenly coated. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt the butter in a pot over medium heat. </steps_updated>
+    <steps_updated num="1">Cook the garlic until it starts to brown. </steps_updated>
+    <steps_updated num="2">Add the shrimp, salt, and pepper, cooking until shrimp is pink all the way through. </steps_updated>
+    <steps_updated num="3">Add the lemon juice, chili flakes, and parsley. </steps_updated>
+    <steps_updated num="4">Add the spaghetti, and toss until evenly coated. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00700</start_time>
+    <end_time>01461</end_time>
+  </duration_human>
+</recipe>

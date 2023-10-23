@@ -1,0 +1,47 @@
+<recipe>
+  <title>Street-Style Butta (India) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/street-style-butta-india</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/corn-on-the-cob-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 2492 13278 12655 6843 </ingredient>
+    <ingredient num="1">3917 14014 13278 615 </ingredient>
+    <ingredient num="2">3917 13278 7695 10844 1419 </ingredient>
+    <ingredient num="3">3917 8071 13278 13389 11703 </ingredient>
+    <ingredient num="4">12791 8071 13278 11088 3170 </ingredient>
+    <ingredient num="5">12791 8071 13278 499 </ingredient>
+    <ingredient num="6">12791 8071 13278 12490 1032 </ingredient>
+    <ingredient num="7">3917 1580 2031 13278 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108480/hls24_1536599550.m3u8</low>
+    <high>https://vid.tasty.co/output/108480/landscape_720/1536599550</high>
+  </video>
+  <duration>
+    <start_time>44.0</start_time>
+    <end_time>73.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 6054 11951 3183 6781 11951 4771 </step>
+    <step num="1">8889 11951 615 210 5994 13757 5687 11770 3996 2082 9179 11951 3183 13817 12484 12341 6601 1681 9861 870 4255 8554 6701 12785 560 5994 7818 9086 </step>
+    <step num="2">13886 11951 9712 10522 8554 11770 11951 9551 </step>
+    <step num="3">10950 5994 2192 14511 4120 11951 13389 8117 2670 6110 12490 11137 13817 12051 6252 8554 11770 11951 9551 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">764 11951 3183 210 5994 2597 10083 371 2032 12282 7990 13086 12689 </steps_updated>
+    <steps_updated num="1">6054 11951 3183 6781 11951 4771 </steps_updated>
+    <steps_updated num="2">8889 11951 615 210 5994 13757 5687 11770 3996 2082 </steps_updated>
+    <steps_updated num="3">9179 11951 3183 13817 12484 12341 6601 1681 9861 870 4255 8554 6701 </steps_updated>
+    <steps_updated num="4">12785 560 5994 7818 9086 </steps_updated>
+    <steps_updated num="5">13886 11951 9712 10522 8554 11770 11951 9551 </steps_updated>
+    <steps_updated num="6">10950 5994 2192 14511 4120 11951 13389 8117 2670 6110 12490 11137 13817 12051 </steps_updated>
+    <steps_updated num="7">6252 8554 11770 11951 9551 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

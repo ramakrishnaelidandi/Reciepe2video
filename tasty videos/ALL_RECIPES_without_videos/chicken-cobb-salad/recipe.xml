@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Cobb Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-cobb-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/mason-jar-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; blue cheese dressing </ingredient>
+    <ingredient num="1">⅛ teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">½ ; small tomato, chopped </ingredient>
+    <ingredient num="4">½ cup ; shredded rotisserie chicken ; (60 g) </ingredient>
+    <ingredient num="5">½ tablespoon ; bacon bits </ingredient>
+    <ingredient num="6">1 ; hard-boiled egg, chopped </ingredient>
+    <ingredient num="7">½ cup ; romaine lettuce ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102953/hls24_1532454040.m3u8</low>
+    <high>https://vid.tasty.co/output/102953/landscape_720/1532454040</high>
+  </video>
+  <duration>
+    <start_time>43.666</start_time>
+    <end_time>64.083</end_time>
+  </duration>
+  <steps>
+    <step num="0">Make the dressing: Combine blue cheese dressing, salt, and pepper in a 16-ounce (480 ml) mason jar. Stir with a fork until well-combined. </step>
+    <step num="1">Add the tomato, chicken, bacon bits, hard boiled egg, and lettuce. </step>
+    <step num="2">Store in the refrigerator for 2-3 days. </step>
+    <step num="3">When ready to eat, shake well to combine. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the dressing: Combine blue cheese dressing, salt, and pepper in a 16-ounce (480 ml) mason jar. </steps_updated>
+    <steps_updated num="1">Stir with a fork until well-combined. </steps_updated>
+    <steps_updated num="2">Add the tomato, chicken, bacon bits, hard boiled egg, and lettuce. </steps_updated>
+    <steps_updated num="3">Store in the refrigerator for 2-3 days. </steps_updated>
+    <steps_updated num="4">When ready to eat, shake well to combine. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

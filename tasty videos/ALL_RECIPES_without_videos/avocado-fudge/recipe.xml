@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Fudge Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-fudge</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-desserts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ; medium avocados, cubed </ingredient>
+    <ingredient num="1">1 ; ripe banana </ingredient>
+    <ingredient num="2">¼ cup ; honey ; (85 g) </ingredient>
+    <ingredient num="3">⅔ cup ; coconut oil, melted ; (130 g) </ingredient>
+    <ingredient num="4">1 squeeze ; fresh lemon juice </ingredient>
+    <ingredient num="5">1 pinch ; salt </ingredient>
+    <ingredient num="6">walnuts, chopped, to taste </ingredient>
+    <ingredient num="7">coconut flakes, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33854/low_1497288234.m3u8</low>
+    <high>https://vid.tasty.co/output/33854/mp4_720x1280/1497288234</high>
+  </video>
+  <duration>
+    <start_time>51.39</start_time>
+    <end_time>96.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a blender of food processor, combine avocado, banana, honey, coconut oil, lemon juice, and salt. </step>
+    <step num="1">Blend until smooth, scraping down sides as necessary. </step>
+    <step num="2">Pour mixture into a parchment lined 8x8 inch (20x20 cm) freezer-safe dish and top with chopped walnuts and coconut flakes, or your favorite toppings! </step>
+    <step num="3">Freeze for at least 3 hours. </step>
+    <step num="4">Remove from freezer and cut into squares. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a blender of food processor, combine avocado, banana, honey, coconut oil, lemon juice, and salt. </steps_updated>
+    <steps_updated num="1">Blend until smooth, scraping down sides as necessary. </steps_updated>
+    <steps_updated num="2">Pour mixture into a parchment lined 8x8 inch (20x20 cm) freezer-safe dish and top with chopped walnuts and coconut flakes, or your favorite toppings! </steps_updated>
+    <steps_updated num="3">Freeze for at least 3 hours. </steps_updated>
+    <steps_updated num="4">Remove from freezer and cut into squares. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01601</start_time>
+    <end_time>02958</end_time>
+  </duration_human>
+</recipe>

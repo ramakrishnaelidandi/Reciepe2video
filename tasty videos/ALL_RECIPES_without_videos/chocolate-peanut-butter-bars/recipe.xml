@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Peanut Butter Bars Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peanut-butter-bars</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cereal-bars-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; peanut butter ; (240 g) </ingredient>
+    <ingredient num="1">½ cup ; honey ; (170 g) </ingredient>
+    <ingredient num="2">3 cups ; crispy rice cereal ; (90 g) </ingredient>
+    <ingredient num="3">⅓ cup ; mini chocolate chips, plus more for topping ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Kid-Friendly</category>
+    <category num="1">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43413/low_1499893442.m3u8</low>
+    <high>https://vid.tasty.co/output/43413/mp4_720x1280/1499893442</high>
+  </video>
+  <duration>
+    <start_time>27.29</start_time>
+    <end_time>55.79</end_time>
+  </duration>
+  <steps>
+    <step num="0">Melt peanut butter and honey together in the microwave, stirring every 15 seconds. </step>
+    <step num="1">Add cereal into the bowl and mix until fully coated. Let the mixture cool to room temperature. </step>
+    <step num="2">Add mini chocolate chips and mix just until combined. </step>
+    <step num="3">Line a baking dish with parchment paper and pour the cooled mixture into the pan. </step>
+    <step num="4">Press into the edges of the pan and top with more mini chocolate chips. </step>
+    <step num="5">Cool in the refrigerator for at least 2 hours. Cut and serve. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Melt peanut butter and honey together in the microwave, stirring every 15 seconds. </steps_updated>
+    <steps_updated num="1">Add cereal into the bowl and mix until fully coated. </steps_updated>
+    <steps_updated num="2">Let the mixture cool to room temperature. </steps_updated>
+    <steps_updated num="3">Add mini chocolate chips and mix just until combined. </steps_updated>
+    <steps_updated num="4">Line a baking dish with parchment paper and pour the cooled mixture into the pan. </steps_updated>
+    <steps_updated num="5">Press into the edges of the pan and top with more mini chocolate chips. </steps_updated>
+    <steps_updated num="6">Cool in the refrigerator for at least 2 hours. </steps_updated>
+    <steps_updated num="7">Cut and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00877</start_time>
+    <end_time>01687</end_time>
+  </duration_human>
+</recipe>

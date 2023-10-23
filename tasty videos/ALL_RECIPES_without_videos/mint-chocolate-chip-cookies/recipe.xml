@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mint Chocolate Chip Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mint-chocolate-chip-cookies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-cookie-dough-upgrades</comp_url>
+  <ingredients>
+    <ingredient num="0">16 ½ oz ; cookie dough ; (465 g) </ingredient>
+    <ingredient num="1">¼ cup ; cocoa powder ; (30 g) </ingredient>
+    <ingredient num="2">4 ½ oz ; chocolate mint thin, chopped, 1 box ; (125 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46467/low_1502147966.m3u8</low>
+    <high>https://vid.tasty.co/output/46467/mp4_720x1280/1502147966</high>
+  </video>
+  <duration>
+    <start_time>32.0</start_time>
+    <end_time>47.54</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 325°F (160°C). </step>
+    <step num="1">Combine the cookie dough, cocoa powder, and mint chocolate chunks until evenly distributed. </step>
+    <step num="2">Using an ice cream scoop, place 6 scoops of dough on a parchment paper-lined baking sheet. </step>
+    <step num="3">Bake for 14 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 325°F (160°C). </steps_updated>
+    <steps_updated num="1">Combine the cookie dough, cocoa powder, and mint chocolate chunks until evenly distributed. </steps_updated>
+    <steps_updated num="2">Using an ice cream scoop, place 6 scoops of dough on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="3">Bake for 14 minutes. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01021</start_time>
+    <end_time>01464</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,45 @@
+<recipe>
+  <title>Whole Wheat Pita Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/whole-wheat-pita-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/slow-cooker-dual-dips</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 13278 3305 2168 5258 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">1580 8071 13278 82 </ingredient>
+    <ingredient num="3">1580 8071 13278 7845 </ingredient>
+    <ingredient num="4">1580 8071 13278 11384 11703 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57253/low_1508451314.m3u8</low>
+    <high>https://vid.tasty.co/output/57253/mp4_720x1280/1508451314</high>
+  </video>
+  <duration>
+    <start_time>39.81</start_time>
+    <end_time>73.24</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 5651 8614 </step>
+    <step num="1">3235 10995 4465 669 13523 13817 11434 11318 2696 4255 5994 3550 8797 10765 8800 </step>
+    <step num="2">10950 5994 2192 14511 4120 11951 8244 7632 12610 10986 13817 11384 11703 13817 10654 1802 6697 10860 371 11951 4668 </step>
+    <step num="3">7831 7990 9810 11004 1681 10963 13817 2111 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 5651 8614 </steps_updated>
+    <steps_updated num="1">3235 10995 4465 669 13523 13817 11434 11318 2696 4255 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="2">10950 5994 2192 14511 4120 11951 8244 7632 12610 10986 13817 11384 11703 13817 10654 1802 6697 10860 371 11951 4668 </steps_updated>
+    <steps_updated num="3">7831 7990 9810 11004 1681 10963 13817 2111 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

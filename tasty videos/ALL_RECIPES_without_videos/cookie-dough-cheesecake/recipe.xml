@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cookie Dough Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookie-dough-cheesecake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 package ; pre-made cookie dough, optional, extra for topping </ingredient>
+    <ingredient num="1">24 oz ; cream cheese, softened ; (675 g) </ingredient>
+    <ingredient num="2">1 cup ; granulated sugar ; (200 g) </ingredient>
+    <ingredient num="3">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">3 ; eggs </ingredient>
+    <ingredient num="6">chocolate syrup, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32132/low_1495125398.m3u8</low>
+    <high>https://vid.tasty.co/output/32132/mp4_720x1280/1495125398</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">In a bowl, mix the cream cheese and sugar until fluffy. </step>
+    <step num="2">Add sour cream and vanilla. Mix thoroughly. </step>
+    <step num="3">Add the eggs, one at a time, mixing thoroughly after each one. </step>
+    <step num="4">Press a package of pre-made cookie dough into a springform pan. </step>
+    <step num="5">Pour the cheesecake mixture in. </step>
+    <step num="6">Optional, drop half teaspoonfuls of cookie dough on top of the cheesecake batter. </step>
+    <step num="7">Bake for one hour, cool completely, then refrigerate overnight. </step>
+    <step num="8">Serve with chocolate syrup. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">In a bowl, mix the cream cheese and sugar until fluffy. </steps_updated>
+    <steps_updated num="2">Add sour cream and vanilla. </steps_updated>
+    <steps_updated num="3">Mix thoroughly. </steps_updated>
+    <steps_updated num="4">Add the eggs, one at a time, mixing thoroughly after each one. </steps_updated>
+    <steps_updated num="5">Press a package of pre-made cookie dough into a springform pan. </steps_updated>
+    <steps_updated num="6">Pour the cheesecake mixture in. </steps_updated>
+    <steps_updated num="7">Optional, drop half teaspoonfuls of cookie dough on top of the cheesecake batter. </steps_updated>
+    <steps_updated num="8">Bake for one hour, cool completely, then refrigerate overnight. </steps_updated>
+    <steps_updated num="9">Serve with chocolate syrup. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,69 @@
+<recipe>
+  <title>Focaccia Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/focaccia</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-epic-ways-to-transform-homemade-bread</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 10383 12282 13278 12462 8007 </ingredient>
+    <ingredient num="1">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">8580 9486 13278 9586 </ingredient>
+    <ingredient num="3">8580 2031 13278 82 </ingredient>
+    <ingredient num="4">13086 1813 9517 13278 890 13278 7 5981 </ingredient>
+    <ingredient num="5">3917 1580 2031 13278 10026 </ingredient>
+    <ingredient num="6">8580 9486 13278 3141 7549 8244 5766 </ingredient>
+    <ingredient num="7">8580 7033 13278 6209 5984 2526 3716 </ingredient>
+    <ingredient num="8">12610 560 11567 </ingredient>
+    <ingredient num="9">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Bakery Goods</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/71629/hls24_1515433243.m3u8</low>
+    <high>https://vid.tasty.co/output/71629/landscape_720/1515433243</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">10895 13384 8244 7632 14240 12610 6467 13817 10026 210 5994 2597 7616 </step>
+    <step num="1">9393 3145 13817 3039 7990 8489 8927 1681 11951 8337 9490 10686 </step>
+    <step num="2">12785 11951 8337 669 5994 410 7616 </step>
+    <step num="3">4660 1391 5994 1811 5895 8438 7558 13817 3945 11402 1956 7990 3917 7739 210 5994 10383 7626 1681 11951 8337 7312 6578 </step>
+    <step num="4">3915 10439 560 3963 12013 </step>
+    <step num="5">6054 11951 8337 6781 11951 12377 13817 11508 11951 8337 669 6453 8387 1645 10783 </step>
+    <step num="6">5570 11951 8337 669 3145 2362 14541 1936 1645 6541 4782 10590 4660 1391 1811 5895 8438 7558 13817 12886 7990 238 12689 </step>
+    <step num="7">2433 11951 10707 1391 12313 1998 </step>
+    <step num="8">1594 1391 8244 5766 13817 1678 1391 5984 12610 13817 12375 </step>
+    <step num="9">7831 210 11951 10439 7990 1491 12689 </step>
+    <step num="10">3235 13817 8956 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 13384 8244 7632 14240 12610 6467 13817 10026 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="1">9393 3145 13817 3039 7990 8489 8927 1681 11951 8337 9490 10686 </steps_updated>
+    <steps_updated num="2">12785 11951 8337 669 5994 410 7616 </steps_updated>
+    <steps_updated num="3">4660 1391 5994 1811 5895 8438 7558 13817 3945 11402 1956 7990 3917 7739 210 5994 10383 7626 1681 11951 8337 7312 6578 </steps_updated>
+    <steps_updated num="4">3915 10439 560 3963 12013 </steps_updated>
+    <steps_updated num="5">6054 11951 8337 6781 11951 12377 13817 11508 11951 8337 669 6453 8387 1645 10783 </steps_updated>
+    <steps_updated num="6">5570 11951 8337 669 3145 2362 14541 1936 1645 6541 4782 10590 </steps_updated>
+    <steps_updated num="7">4660 1391 1811 5895 8438 7558 13817 12886 7990 238 12689 </steps_updated>
+    <steps_updated num="8">2433 11951 10707 1391 12313 1998 </steps_updated>
+    <steps_updated num="9">1594 1391 8244 5766 13817 1678 1391 5984 12610 13817 12375 </steps_updated>
+    <steps_updated num="10">7831 210 11951 10439 7990 1491 12689 </steps_updated>
+    <steps_updated num="11">3235 13817 8956 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-02396</start_time>
+    <end_time>03441</end_time>
+  </duration_human>
+</recipe>

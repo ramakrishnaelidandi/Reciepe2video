@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Chicken And Broccoli Pasta Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-chicken-and-broccoli-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">2 ; chicken breasts, cut into 1 inch (2cm) pieces </ingredient>
+    <ingredient num="2">salt, to taste </ingredient>
+    <ingredient num="3">pepper, to taste </ingredient>
+    <ingredient num="4">½ cup ; yellow onion, about half an onion, diced ; (75 g) </ingredient>
+    <ingredient num="5">2 cloves ; garlic, about 1 tablespoon, minced </ingredient>
+    <ingredient num="6">2 cups ; chicken broth ; (470 mL) </ingredient>
+    <ingredient num="7">3 cups ; water ; (710 mL) </ingredient>
+    <ingredient num="8">16 oz ; pasta shells ; (455 g) </ingredient>
+    <ingredient num="9">4 cups ; broccoli, or one head of broccoli ; (1 kg) </ingredient>
+    <ingredient num="10">½ teaspoon ; cayenne powder </ingredient>
+    <ingredient num="11">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="12">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="13">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32155/low_1495125408.m3u8</low>
+    <high>https://vid.tasty.co/output/32155/mp4_720x1280/1495125408</high>
+  </video>
+  <steps>
+    <step num="0">Heat olive oil on medium heat in a large pot. Add chicken breasts, season with salt and pepper, and allow the chicken to brown on one side. </step>
+    <step num="1">Flip chicken, then add onions and garlic as the second side browns. </step>
+    <step num="2">Once the chicken has browned on both sides, add chicken broth, water, and pasta to the pot. </step>
+    <step num="3">Stir all ingredients, cover the pot with a lid, and bring to a boil. When it begins to boil, uncover and stir. Bring the heat to low, stir, then cover and let simmer for 20 minutes. </step>
+    <step num="4">After 20 minutes has passed, uncover and add in the broccoli. Stir continually as the broccoli steams until the rest of the liquid evaporates. </step>
+    <step num="5">Add milk and cheddar cheese and stir until the cheese melts and you have a smooth cheese sauce. </step>
+    <step num="6">Add salt and pepper (to taste), cayenne, and nutmeg. Stir once more, then you’re ready to serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil on medium heat in a large pot. </steps_updated>
+    <steps_updated num="1">Add chicken breasts, season with salt and pepper, and allow the chicken to brown on one side. </steps_updated>
+    <steps_updated num="2">Flip chicken, then add onions and garlic as the second side browns. </steps_updated>
+    <steps_updated num="3">Once the chicken has browned on both sides, add chicken broth, water, and pasta to the pot. </steps_updated>
+    <steps_updated num="4">Stir all ingredients, cover the pot with a lid, and bring to a boil. </steps_updated>
+    <steps_updated num="5">When it begins to boil, uncover and stir. </steps_updated>
+    <steps_updated num="6">Bring the heat to low, stir, then cover and let simmer for 20 minutes. </steps_updated>
+    <steps_updated num="7">After 20 minutes has passed, uncover and add in the broccoli. </steps_updated>
+    <steps_updated num="8">Stir continually as the broccoli steams until the rest of the liquid evaporates. </steps_updated>
+    <steps_updated num="9">Add milk and cheddar cheese and stir until the cheese melts and you have a smooth cheese sauce. </steps_updated>
+    <steps_updated num="10">Add salt and pepper (to taste), cayenne, and nutmeg. </steps_updated>
+    <steps_updated num="11">Stir once more, then you’re ready to serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Eggplant &amp; Hummus Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-hummus-burger</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-bbq-recipes-for-your-vegetarian-friends</comp_url>
+  <ingredients>
+    <ingredient num="0">15 oz ; chickpeas, 2 cans, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="1">3 cloves ; garlic </ingredient>
+    <ingredient num="2">¼ cup ; olive oil, plus more for serving ; (60 mL) </ingredient>
+    <ingredient num="3">1 ; lemon, juiced </ingredient>
+    <ingredient num="4">2 tablespoons ; tahini sauce </ingredient>
+    <ingredient num="5">1 teaspoon ; ground cumin </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">1 ; eggplant </ingredient>
+    <ingredient num="8">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="9">1 teaspoon ; paprika </ingredient>
+    <ingredient num="10">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="11">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="12">½ teaspoon ; salt </ingredient>
+    <ingredient num="13">½ teaspoon ; pepper </ingredient>
+    <ingredient num="14">2 ; hamburger buns </ingredient>
+    <ingredient num="15">lettuce, to serve </ingredient>
+    <ingredient num="16">red onion, sliced, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">BBQ</category>
+    <category num="8">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/48344/low_1503335590.m3u8</low>
+    <high>https://vid.tasty.co/output/48344/mp4_720x1280/1503335590</high>
+  </video>
+  <duration>
+    <start_time>125.44</start_time>
+    <end_time>175.92</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine chickpeas, garlic, lemon juice, tahini, cumin, and salt in a blender and blend until smooth. </step>
+    <step num="1">Slice eggplants into four 1-inch (2 ½ cm) slices. Sprinkle eggplant slices with salt and let sit for 20-30 minutes, then pat dry. </step>
+    <step num="2">In a small bowl, stir together oil, paprika, garlic powder, red pepper flakes, salt, and pepper. </step>
+    <step num="3">Brush each side of the eggplant slices with the oil and spice mixture. </step>
+    <step num="4">Heat a pan or grill on medium-high heat and cook each eggplant slice for 3-4 minutes per side. </step>
+    <step num="5">Build your burger with the hummus sandwiched between two eggplant slices. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine chickpeas, garlic, lemon juice, tahini, cumin, and salt in a blender and blend until smooth. </steps_updated>
+    <steps_updated num="1">Slice eggplants into four 1-inch (2 ½ cm) slices. </steps_updated>
+    <steps_updated num="2">Sprinkle eggplant slices with salt and let sit for 20-30 minutes, then pat dry. </steps_updated>
+    <steps_updated num="3">In a small bowl, stir together oil, paprika, garlic powder, red pepper flakes, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Brush each side of the eggplant slices with the oil and spice mixture. </steps_updated>
+    <steps_updated num="5">Heat a pan or grill on medium-high heat and cook each eggplant slice for 3-4 minutes per side. </steps_updated>
+    <steps_updated num="6">Build your burger with the hummus sandwiched between two eggplant slices. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03816</start_time>
+    <end_time>05302</end_time>
+  </duration_human>
+</recipe>

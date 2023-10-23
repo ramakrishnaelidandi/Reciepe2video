@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Orange Chocolate Cupcake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/orange-chocolate-cupcake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-cupcakes-to-satisfy-your-sweet-tooth</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; oranges </ingredient>
+    <ingredient num="1">chocolate cake mix </ingredient>
+    <ingredient num="2">3 ; eggs </ingredient>
+    <ingredient num="3">½ cup ; oil ; (120 mL) </ingredient>
+    <ingredient num="4">1 cup ; orange juice ; (240 mL) </ingredient>
+    <ingredient num="5">4 oz ; cream cheese, room temperature ; (110 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">¼ teaspoon ; orange zest, plus more for garnish </ingredient>
+    <ingredient num="8">8 tablespoons ; butter, room temperature </ingredient>
+    <ingredient num="9">1 ¼ cups ; powdered sugar ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">nan</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/122985/hls24_1547757716.m3u8</low>
+    <high>https://vid.tasty.co/output/122985/landscape_720/1547757716</high>
+  </video>
+  <duration>
+    <start_time>82.0</start_time>
+    <end_time>146.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut orange in half. With a paring knife, carefully cut along the entire edge. With a spoon, scoop out the "meat" and set aside in a bowl. Repeat for all oranges. This will yield 6 empty orange halves. </step>
+    <step num="1">Juice the orange, reserve for the cake mix. </step>
+    <step num="2">Pre heat oven to 350°F (175°C). In a medium bowl, combine cake mix, eggs, oil and freshly squeezed orange juice. Mix until the batter has no lumps. </step>
+    <step num="3">Place the orange cups into a muffin tin and fill with ¼ cup (60 g) of the chocolate batter. </step>
+    <step num="4">Bake 25 minutes. </step>
+    <step num="5">In a medium bowl, blend cream cheese, vanilla extract and orange zest until nice and smooth. Add butter and mix on medium high for a couple of minutes. Add powdered sugar and mix until the frosting is uniformly smooth. Put icing into a piping bag. </step>
+    <step num="6">Let cup cakes cool down. Top the cakes with icing. Sprinkle extra orange zest on top for garnish. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut orange in half. </steps_updated>
+    <steps_updated num="1">With a paring knife, carefully cut along the entire edge. </steps_updated>
+    <steps_updated num="2">With a spoon, scoop out the "meat" and set aside in a bowl. </steps_updated>
+    <steps_updated num="3">Repeat for all oranges. </steps_updated>
+    <steps_updated num="4">This will yield 6 empty orange halves. </steps_updated>
+    <steps_updated num="5">Juice the orange, reserve for the cake mix. </steps_updated>
+    <steps_updated num="6">Pre heat oven to 350°F (175°C). </steps_updated>
+    <steps_updated num="7">In a medium bowl, combine cake mix, eggs, oil and freshly squeezed orange juice. </steps_updated>
+    <steps_updated num="8">Mix until the batter has no lumps. </steps_updated>
+    <steps_updated num="9">Place the orange cups into a muffin tin and fill with ¼ cup (60 g) of the chocolate batter. </steps_updated>
+    <steps_updated num="10">Bake 25 minutes. </steps_updated>
+    <steps_updated num="11">In a medium bowl, blend cream cheese, vanilla extract and orange zest until nice and smooth. </steps_updated>
+    <steps_updated num="12">Add butter and mix on medium high for a couple of minutes. </steps_updated>
+    <steps_updated num="13">Add powdered sugar and mix until the frosting is uniformly smooth. </steps_updated>
+    <steps_updated num="14">Put icing into a piping bag. </steps_updated>
+    <steps_updated num="15">Let cup cakes cool down. </steps_updated>
+    <steps_updated num="16">Top the cakes with icing. </steps_updated>
+    <steps_updated num="17">Sprinkle extra orange zest on top for garnish. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

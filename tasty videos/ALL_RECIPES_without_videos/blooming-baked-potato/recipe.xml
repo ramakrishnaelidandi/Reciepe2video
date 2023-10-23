@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blooming Baked Potato Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blooming-baked-potato</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; russet potato </ingredient>
+    <ingredient num="1">1 tablespoon ; fresh parsley, chopped </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="4">¼ teaspoon ; salt </ingredient>
+    <ingredient num="5">1 pinch ; black pepper </ingredient>
+    <ingredient num="6">2 tablespoons ; shredded mozzarella cheese </ingredient>
+    <ingredient num="7">1 tablespoon ; shredded parmesan cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8223/low_1472568825.m3u8</low>
+    <high>https://vid.tasty.co/output/8223/mp4_720x1280/1472568825</high>
+  </video>
+  <steps>
+    <step num="0">Slice the top ¼ off of the potato. Carefully cut a border ½ inch (12 mm) away from the skin making sure not to cut through the bottom of the potato. </step>
+    <step num="1">Continue cutting smaller and smaller circles, never going through the bottom, until you have 3 circles about ½ inch (12 mm) inside one another. </step>
+    <step num="2">Flip the potato over onto the flat side, and cut “petals” all around and all the way through, leaving an oval in the middle intact. It is important to cut through the potato so each layer can blossom once baked. </step>
+    <step num="3">Bake for 30 minutes at 425°F/220°C. </step>
+    <step num="4">In a medium bowl combine parsley, garlic, butter, salt, and pepper. Coat the potato and get as much as possible in between each layer. </step>
+    <step num="5">Bake for another 30 minutes. </step>
+    <step num="6">Add mozzarella and parmesan cheese on top and in between the nooks and crannies and bake for another 5 minutes or until cheese is light brown. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the top ¼ off of the potato. </steps_updated>
+    <steps_updated num="1">Carefully cut a border ½ inch (12 mm) away from the skin making sure not to cut through the bottom of the potato. </steps_updated>
+    <steps_updated num="2">Continue cutting smaller and smaller circles, never going through the bottom, until you have 3 circles about ½ inch (12 mm) inside one another. </steps_updated>
+    <steps_updated num="3">Flip the potato over onto the flat side, and cut “petals” all around and all the way through, leaving an oval in the middle intact. </steps_updated>
+    <steps_updated num="4">It is important to cut through the potato so each layer can blossom once baked. </steps_updated>
+    <steps_updated num="5">Bake for 30 minutes at 425°F/220°C. </steps_updated>
+    <steps_updated num="6">In a medium bowl combine parsley, garlic, butter, salt, and pepper. </steps_updated>
+    <steps_updated num="7">Coat the potato and get as much as possible in between each layer. </steps_updated>
+    <steps_updated num="8">Bake for another 30 minutes. </steps_updated>
+    <steps_updated num="9">Add mozzarella and parmesan cheese on top and in between the nooks and crannies and bake for another 5 minutes or until cheese is light brown. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

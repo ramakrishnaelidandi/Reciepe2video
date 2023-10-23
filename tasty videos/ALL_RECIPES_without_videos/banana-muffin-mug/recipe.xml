@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Muffin Mug Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-muffin-mug</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/muffin-mug-cakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">¼ cup ; oat flour ; (20 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; baking powder </ingredient>
+    <ingredient num="3">2 tablespoons ; honey </ingredient>
+    <ingredient num="4">1 ; egg white </ingredient>
+    <ingredient num="5">½ teaspoon ; cinnamon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25425/low_1488497369.m3u8</low>
+    <high>https://vid.tasty.co/output/25425/mp4_720x1280/1488497369</high>
+  </video>
+  <duration>
+    <start_time>46.0</start_time>
+    <end_time>62.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix together egg white and honey in a greased coffee mug. </step>
+    <step num="1">Add oat flour, baking powder, and cinnamon, and mix until combined. </step>
+    <step num="2">Add in fresh bananas. </step>
+    <step num="3">Microwave on high for 90 seconds (times may vary). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together egg white and honey in a greased coffee mug. </steps_updated>
+    <steps_updated num="1">Add oat flour, baking powder, and cinnamon, and mix until combined. </steps_updated>
+    <steps_updated num="2">Add in fresh bananas. </steps_updated>
+    <steps_updated num="3">Microwave on high for 90 seconds (times may vary). </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

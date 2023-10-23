@@ -1,0 +1,60 @@
+<recipe>
+  <title>2&#189; Hour Tomato Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/2-1-2-hour-tomato-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/homemade-vs-store-bought-tomato-sauce</comp_url>
+  <ingredients>
+    <ingredient num="0">12791 2605 13278 8244 5766 13278 13125 8007 </ingredient>
+    <ingredient num="1">8580 13667 13278 4155 5614 </ingredient>
+    <ingredient num="2">3917 13278 2192 12384 10844 </ingredient>
+    <ingredient num="3">13433 643 13278 9491 3305 5450 13278 6766 10482 </ingredient>
+    <ingredient num="4">8580 2031 13278 12610 7789 3954 560 11567 </ingredient>
+    <ingredient num="5">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="6">3917 13278 796 6250 </ingredient>
+    <ingredient num="7">3917 13278 13063 14252 </ingredient>
+    <ingredient num="8">12791 2605 13278 6209 749 3962 13278 12237 5981 </ingredient>
+    <ingredient num="9">10986 560 11567 </ingredient>
+    <ingredient num="10">6145 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+    <category num="4">Date Night</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/74197/hls24_1516670926.m3u8</low>
+    <high>https://vid.tasty.co/output/74197/landscape_720/1516670926</high>
+  </video>
+  <duration>
+    <start_time>105.0</start_time>
+    <end_time>194.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 10083 11770 13757 14307 740 11951 8244 5766 13817 1937 264 7990 6285 8580 8927 5895 1681 94 9801 11155 506 </step>
+    <step num="1">9179 11951 717 1391 2349 7654 13817 4455 1391 11951 13352 371 5994 1818 </step>
+    <step num="2">9179 11951 6334 13817 12610 13817 6142 13377 8785 560 5994 8288 415 2864 560 5994 11779 7990 2237 5664 </step>
+    <step num="3">13841 11951 11384 13817 12384 415 5042 560 11951 13218 7968 1391 5994 8016 1305 5895 3432 12095 </step>
+    <step num="4">12785 11951 2260 13352 560 5994 10083 13817 740 11951 13063 6638 796 11227 13817 796 13952 8785 560 5994 11779 7990 6285 5838 8927 5895 1681 11951 13218 14602 </step>
+    <step num="5">13841 11951 13063 6638 740 11951 6209 6250 812 560 13772 12610 10986 13817 8525 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 10083 11770 13757 14307 740 11951 8244 5766 13817 1937 </steps_updated>
+    <steps_updated num="1">264 7990 6285 8580 8927 5895 1681 94 9801 11155 506 </steps_updated>
+    <steps_updated num="2">9179 11951 717 1391 2349 7654 13817 4455 1391 11951 13352 371 5994 1818 </steps_updated>
+    <steps_updated num="3">9179 11951 6334 13817 12610 13817 6142 13377 </steps_updated>
+    <steps_updated num="4">8785 560 5994 8288 415 2864 560 5994 11779 7990 2237 5664 </steps_updated>
+    <steps_updated num="5">13841 11951 11384 13817 12384 415 5042 560 11951 13218 7968 1391 5994 8016 1305 5895 3432 12095 </steps_updated>
+    <steps_updated num="6">12785 11951 2260 13352 560 5994 10083 13817 740 11951 13063 6638 796 11227 13817 796 13952 </steps_updated>
+    <steps_updated num="7">8785 560 5994 11779 7990 6285 5838 8927 5895 1681 11951 13218 14602 </steps_updated>
+    <steps_updated num="8">13841 11951 13063 6638 740 11951 6209 6250 812 560 13772 12610 10986 13817 8525 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02556</start_time>
+    <end_time>04643</end_time>
+  </duration_human>
+</recipe>

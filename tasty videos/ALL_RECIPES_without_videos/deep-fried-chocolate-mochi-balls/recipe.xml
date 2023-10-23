@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Deep-Fried Chocolate Mochi Balls Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/deep-fried-chocolate-mochi-balls</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ cup ; sweet rice flour ; (120 g) </ingredient>
+    <ingredient num="1">½ tablespoon ; cornstarch </ingredient>
+    <ingredient num="2">½ cup ; water ; (120 g) </ingredient>
+    <ingredient num="3">chocolate chips </ingredient>
+    <ingredient num="4">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Desserts</category>
+    <category num="7">Kid-Friendly</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Fusion</category>
+    <category num="10">Indulgent Sweets</category>
+    <category num="11">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32182/low_1495125421.m3u8</low>
+    <high>https://vid.tasty.co/output/32182/mp4_720x1280/1495125421</high>
+  </video>
+  <steps>
+    <step num="0">Combine the sweet rice flour, cornstarch, and water in a mixing bowl. </step>
+    <step num="1">Turn out on table and knead to form a ball of dough. </step>
+    <step num="2">Grab a ping pong size of dough, create a well and fill with chocolate chips. </step>
+    <step num="3">Wrap the dough around the chocolate chips and form into a ball. Make sure to seal well and push out any air pockets. If you don’t push out air pockets, they will pop and burst while frying. </step>
+    <step num="4">Deep fry until the outside is crispy and the mochi balls start floating. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the sweet rice flour, cornstarch, and water in a mixing bowl. </steps_updated>
+    <steps_updated num="1">Turn out on table and knead to form a ball of dough. </steps_updated>
+    <steps_updated num="2">Grab a ping pong size of dough, create a well and fill with chocolate chips. </steps_updated>
+    <steps_updated num="3">Wrap the dough around the chocolate chips and form into a ball. </steps_updated>
+    <steps_updated num="4">Make sure to seal well and push out any air pockets. </steps_updated>
+    <steps_updated num="5">If you don’t push out air pockets, they will pop and burst while frying. </steps_updated>
+    <steps_updated num="6">Deep fry until the outside is crispy and the mochi balls start floating. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

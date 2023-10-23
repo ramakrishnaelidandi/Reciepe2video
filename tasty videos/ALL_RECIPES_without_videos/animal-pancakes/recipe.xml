@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Animal Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/animal-pancakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 cups ; pancake mix, prepared ; (720 g) </ingredient>
+    <ingredient num="1">strawberry, for decoration </ingredient>
+    <ingredient num="2">blueberry, for decoration </ingredient>
+    <ingredient num="3">banana, for decoration </ingredient>
+    <ingredient num="4">chocolate chips, for decoration </ingredient>
+    <ingredient num="5">maple syrup, to top, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30269/low_1493315613.m3u8</low>
+    <high>https://vid.tasty.co/output/30269/mp4_720x1280/1493315613</high>
+  </video>
+  <steps>
+    <step num="0">Prepare pancake mix per box instructions. </step>
+    <step num="1">Heat a nonstick pan or pancake griddle on medium heat. For large pancakes, pour 1 cup (235 ml) of batter onto the pan. For small pancakes, pour a little less than ¼ cup (60 ml) of batter onto the pan. For medium pancakes, pour ⅓ cup (80 ml) of batter onto the pan. </step>
+    <step num="2">Allow to cook until bubbles form and begin to pop all around the pancake. The pancake will also lose its shiny sheen and begin to look more matte. Flip and cook on the other side for 2-3 minutes, or until the bottom is lightly browned. </step>
+    <step num="3">For the lion pancake, you’ll need 1 large pancake, 1 small pancake, sliced strawberries for the mane and nose, blueberries for the eyes, and chocolate chips for the mouth. </step>
+    <step num="4">For the monkey pancake, you’ll need 1 large pancake, 2 small pancakes, 1 medium pancake, blueberries for the eyes and nose, and chocolate chips for the mouth. </step>
+    <step num="5">For the owl pancake, you’ll need 1 large pancake, sliced bananas for the eyes and feathers, blueberries for the eyes, and sliced strawberries for the beak and wings. </step>
+    <step num="6">For the pig pancake, you’ll need 1 large pancake, 1 small pancake, chocolate chips for the snout, blueberries for the eyes, and sliced strawberries for the ears. </step>
+    <step num="7">Make your favorite animal pancakes and top with syrup, or another favorite pancake topping. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare pancake mix per box instructions. </steps_updated>
+    <steps_updated num="1">Heat a nonstick pan or pancake griddle on medium heat. </steps_updated>
+    <steps_updated num="2">For large pancakes, pour 1 cup (235 ml) of batter onto the pan. </steps_updated>
+    <steps_updated num="3">For small pancakes, pour a little less than ¼ cup (60 ml) of batter onto the pan. </steps_updated>
+    <steps_updated num="4">For medium pancakes, pour ⅓ cup (80 ml) of batter onto the pan. </steps_updated>
+    <steps_updated num="5">Allow to cook until bubbles form and begin to pop all around the pancake. </steps_updated>
+    <steps_updated num="6">The pancake will also lose its shiny sheen and begin to look more matte. </steps_updated>
+    <steps_updated num="7">Flip and cook on the other side for 2-3 minutes, or until the bottom is lightly browned. </steps_updated>
+    <steps_updated num="8">For the lion pancake, you’ll need 1 large pancake, 1 small pancake, sliced strawberries for the mane and nose, blueberries for the eyes, and chocolate chips for the mouth. </steps_updated>
+    <steps_updated num="9">For the monkey pancake, you’ll need 1 large pancake, 2 small pancakes, 1 medium pancake, blueberries for the eyes and nose, and chocolate chips for the mouth. </steps_updated>
+    <steps_updated num="10">For the owl pancake, you’ll need 1 large pancake, sliced bananas for the eyes and feathers, blueberries for the eyes, and sliced strawberries for the beak and wings. </steps_updated>
+    <steps_updated num="11">For the pig pancake, you’ll need 1 large pancake, 1 small pancake, chocolate chips for the snout, blueberries for the eyes, and sliced strawberries for the ears. </steps_updated>
+    <steps_updated num="12">Make your favorite animal pancakes and top with syrup, or another favorite pancake topping. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

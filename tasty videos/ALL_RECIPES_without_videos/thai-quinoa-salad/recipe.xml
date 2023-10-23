@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Thai Quinoa Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/thai-quinoa-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/quinoa-salad-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; water ; (235 mL) </ingredient>
+    <ingredient num="1">1 cup ; vegetable stock ; (235 mL) </ingredient>
+    <ingredient num="2">1 cup ; quinoa ; (170 g) </ingredient>
+    <ingredient num="3">2 ; carrots, shredded </ingredient>
+    <ingredient num="4">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="5">1 ; cucumber, quartered </ingredient>
+    <ingredient num="6">1 cup ; red cabbage, shredded ; (100 g) </ingredient>
+    <ingredient num="7">½ ; small red onion, diced </ingredient>
+    <ingredient num="8">½ cup ; edamame ; (75 g) </ingredient>
+    <ingredient num="9">green onion, to serve </ingredient>
+    <ingredient num="10">crushed peanut, to serve </ingredient>
+    <ingredient num="11">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="12">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="13">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="14">1 tablespoon ; ginger, grated </ingredient>
+    <ingredient num="15">2 teaspoons ; olive oil </ingredient>
+    <ingredient num="16">1 tablespoon ; honey </ingredient>
+    <ingredient num="17">¼ cup ; peanut butter ; (60 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/50638/low_1504219940.m3u8</low>
+    <high>https://vid.tasty.co/output/50638/mp4_720x1280/1504219940</high>
+  </video>
+  <duration>
+    <start_time>1.0</start_time>
+    <end_time>36.4</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small saucepan, bring water and vegetable stock to a boil, then add quinoa. Cover and simmer for 12-15 minutes. </step>
+    <step num="1">In a bowl, combine quinoa, carrots, red pepper, cucumber, purple cabbage, and edamame. </step>
+    <step num="2">In a small bowl, mix water, sesame oil, soy sauce, ginger, olive oil, honey, and peanut butter. Drizzle dressing over the quinoa. </step>
+    <step num="3">Top with green onions and crushed peanuts. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small saucepan, bring water and vegetable stock to a boil, then add quinoa. </steps_updated>
+    <steps_updated num="1">Cover and simmer for 12-15 minutes. </steps_updated>
+    <steps_updated num="2">In a bowl, combine quinoa, carrots, red pepper, cucumber, purple cabbage, and edamame. </steps_updated>
+    <steps_updated num="3">In a small bowl, mix water, sesame oil, soy sauce, ginger, olive oil, honey, and peanut butter. </steps_updated>
+    <steps_updated num="4">Drizzle dressing over the quinoa. </steps_updated>
+    <steps_updated num="5">Top with green onions and crushed peanuts. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00081</start_time>
+    <end_time>01117</end_time>
+  </duration_human>
+</recipe>

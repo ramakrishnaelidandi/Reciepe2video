@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Tamagoyaki (Japanese Egg Omelet) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/tamagoyaki-japanese-egg-omelet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/japanese-lunch</comp_url>
+  <ingredients>
+    <ingredient num="0">⅛ teaspoon ; dashi powder </ingredient>
+    <ingredient num="1">⅛ teaspoon ; salt </ingredient>
+    <ingredient num="2">¼ teaspoon ; soy sauce </ingredient>
+    <ingredient num="3">½ tablespoon ; sugar </ingredient>
+    <ingredient num="4">¼ cup ; water ; (60 mL) </ingredient>
+    <ingredient num="5">2 ; eggs </ingredient>
+    <ingredient num="6">oil, for brushing </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/93823/hls24_1526073991.m3u8</low>
+    <high>https://vid.tasty.co/output/93823/landscape_720/1526073991</high>
+  </video>
+  <duration>
+    <start_time>7.666</start_time>
+    <end_time>70.8</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a small bowl, combine the dashi, salt, soy sauce, sugar, and water. Mix until everything is dissolved. </step>
+    <step num="1">In a medium bowl, beat the eggs and add the seasoning mixture. Mix until well-combined. </step>
+    <step num="2">Heat a tamagoyaki pan over medium-high heat. Brush a thin layer of oil on the pan. </step>
+    <step num="3">Pour a third of the egg mixture into pan and quickly swirl to cover the entire pan. When the egg is half-set, gently roll the egg. </step>
+    <step num="4">With the rolled egg still in the pan, pour in another third of the egg mixture. Lift up the rolled egg and let the mixture to flow under it. When the egg is half-set, roll the omelette toward you. Repeat with the rest of the egg mixture. </step>
+    <step num="5">Slice into bite-sized pieces. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, combine the dashi, salt, soy sauce, sugar, and water. </steps_updated>
+    <steps_updated num="1">Mix until everything is dissolved. </steps_updated>
+    <steps_updated num="2">In a medium bowl, beat the eggs and add the seasoning mixture. </steps_updated>
+    <steps_updated num="3">Mix until well-combined. </steps_updated>
+    <steps_updated num="4">Heat a tamagoyaki pan over medium-high heat. </steps_updated>
+    <steps_updated num="5">Brush a thin layer of oil on the pan. </steps_updated>
+    <steps_updated num="6">Pour a third of the egg mixture into pan and quickly swirl to cover the entire pan. </steps_updated>
+    <steps_updated num="7">When the egg is half-set, gently roll the egg. </steps_updated>
+    <steps_updated num="8">With the rolled egg still in the pan, pour in another third of the egg mixture. </steps_updated>
+    <steps_updated num="9">Lift up the rolled egg and let the mixture to flow under it. </steps_updated>
+    <steps_updated num="10">When the egg is half-set, roll the omelette toward you. </steps_updated>
+    <steps_updated num="11">Repeat with the rest of the egg mixture. </steps_updated>
+    <steps_updated num="12">Slice into bite-sized pieces. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>“Spaghetti And Meatballs” Sundae Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-and-meatballs-sundae</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-savory-tricks</comp_url>
+  <ingredients>
+    <ingredient num="0">½ gal ; vanilla ice cream ; (2 L) </ingredient>
+    <ingredient num="1">1 cup ; strawberry sundae topping ; (335 g) </ingredient>
+    <ingredient num="2">brownie bite, rolled into "meatballs", optional </ingredient>
+    <ingredient num="3">white chocolate, for topping </ingredient>
+    <ingredient num="4">potato ricer, for spaghetti noodles </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">German</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+    <category num="8">Indulgent Sweets</category>
+    <category num="9">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107992/hls24_1536166116.m3u8</low>
+    <high>https://vid.tasty.co/output/107992/landscape_720/1536166116</high>
+  </video>
+  <duration>
+    <start_time>134.0</start_time>
+    <end_time>164.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Thaw the ice cream at room temperature until it is soft to the touch, about 20 minutes, so it will pass through the ricer easily. </step>
+    <step num="1">Over a baking sheet lined with parchment paper, fill the potato ricer with ice cream and press it through, so the ice cream forms “spaghetti”-like noodle piles. Freeze until firm, at least 45 minutes. </step>
+    <step num="2">Transfer the “spaghetti” to a serving plate. </step>
+    <step num="3">Carefully spoon over the strawberry sundae topping to mimic marinara sauce, and top with the brownie bite “meatballs,” if using. Grate white chocolate over the top to mimic Parmesan cheese. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Thaw the ice cream at room temperature until it is soft to the touch, about 20 minutes, so it will pass through the ricer easily. </steps_updated>
+    <steps_updated num="1">Over a baking sheet lined with parchment paper, fill the potato ricer with ice cream and press it through, so the ice cream forms “spaghetti”-like noodle piles. </steps_updated>
+    <steps_updated num="2">Freeze until firm, at least 45 minutes. </steps_updated>
+    <steps_updated num="3">Transfer the “spaghetti” to a serving plate. </steps_updated>
+    <steps_updated num="4">Carefully spoon over the strawberry sundae topping to mimic marinara sauce, and top with the brownie bite “meatballs,” if using. </steps_updated>
+    <steps_updated num="5">Grate white chocolate over the top to mimic Parmesan cheese. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

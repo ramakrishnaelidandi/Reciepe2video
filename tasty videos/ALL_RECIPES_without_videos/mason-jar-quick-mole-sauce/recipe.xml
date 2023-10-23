@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mason Jar Quick Mole Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mason-jar-quick-mole-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-simple-mason-jar-sauces</comp_url>
+  <ingredients>
+    <ingredient num="0">6 oz ; tomato paste ; (170 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">1 tablespoon ; garlic powder </ingredient>
+    <ingredient num="3">1 tablespoon ; onion powder </ingredient>
+    <ingredient num="4">1 tablespoon ; cumin </ingredient>
+    <ingredient num="5">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="6">2 ; chipotle peppers, chopped </ingredient>
+    <ingredient num="7">2 tablespoons ; masa harina </ingredient>
+    <ingredient num="8">1 tablespoon ; dark cocoa powder </ingredient>
+    <ingredient num="9">1 tablespoon ; almond butter </ingredient>
+    <ingredient num="10">1 cup ; chicken broth ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94047/hls24_1526342726.m3u8</low>
+    <high>https://vid.tasty.co/output/94047/landscape_720/1526342726</high>
+  </video>
+  <duration>
+    <start_time>193.166</start_time>
+    <end_time>220.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large mason jar, combine the tomato paste, salt, garlic powder, onion powder, cumin, chile powder, chipotle peppers, masa harina, dark cocoa powder, almond butter, and chicken broth. Shake to combine. </step>
+    <step num="1">Store in the fridge for up to a week. </step>
+    <step num="2">Add to a hot pan with food as you wish! </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large mason jar, combine the tomato paste, salt, garlic powder, onion powder, cumin, chile powder, chipotle peppers, masa harina, dark cocoa powder, almond butter, and chicken broth. </steps_updated>
+    <steps_updated num="1">Shake to combine. </steps_updated>
+    <steps_updated num="2">Store in the fridge for up to a week </steps_updated>
+    <steps_updated num="3">Add to a hot pan with food as you wish! </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

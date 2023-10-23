@@ -1,0 +1,36 @@
+<recipe>
+  <title>Salmon Rice Ball (Onigiri) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/salmon-rice-ball-onigiri</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-make-homemade-japanese-food</comp_url>
+  <ingredients>
+    <ingredient num="0">3591 2605 13278 11948 3745 13278 757 5981 </ingredient>
+    <ingredient num="1">8580 9486 13278 3745 7989 10876 </ingredient>
+    <ingredient num="2">8580 13278 1670 4052 4926 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Seafood</category>
+    <category num="2">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94212/hls24_1526432451.m3u8</low>
+    <high>https://vid.tasty.co/output/94212/landscape_720/1526432451</high>
+  </video>
+  <duration>
+    <start_time>217.5</start_time>
+    <end_time>240.066</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 4120 11948 7989 8302 13817 4559 </step>
+    <step num="1">5067 12313 13676 1391 12282 13817 13935 7706 669 5994 10783 </step>
+    <step num="2">5570 669 11951 6318 14139 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 4120 11948 7989 8302 13817 4559 </steps_updated>
+    <steps_updated num="1">5067 12313 13676 1391 12282 13817 13935 7706 669 5994 10783 </steps_updated>
+    <steps_updated num="2">5570 669 11951 6318 14139 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

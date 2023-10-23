@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>American Burger “Juicy Lucy” Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/american-burger-juicy-lucy</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-burgers-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">1 lb ; ground beef, 80% lean ; (455 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="4">1 tablespoon ; oil </ingredient>
+    <ingredient num="5">2 oz ; cheddar cheese, sliced into 3 square chunks ; (55 g) </ingredient>
+    <ingredient num="6">3 ; hamburger buns </ingredient>
+    <ingredient num="7">3 strips ; bacon, cooked, sliced in half </ingredient>
+    <ingredient num="8">3 slices ; tomato </ingredient>
+    <ingredient num="9">3 pieces ; lettuce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10187/low_1473975104.m3u8</low>
+    <high>https://vid.tasty.co/output/10187/mp4_720x1280/1473975104</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>27.95</end_time>
+  </duration>
+  <steps>
+    <step num="0">Mix together the patty ingredients until evenly combined. </step>
+    <step num="1">Flatten the beef into a thin layer, then place a chunk of cheddar inside, wrapping the beef completely around the cheddar. Form a patty with your hands. </step>
+    <step num="2">Repeat with the remaining beef and cheese. </step>
+    <step num="3">Heat oil in a pan over medium heat. </step>
+    <step num="4">Cook the burgers for 3 minutes on the first side, flip, then cook for 6 more minutes. </step>
+    <step num="5">Assemble the burgers with the bun, bacon, tomato, and lettuce. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Mix together the patty ingredients until evenly combined. </steps_updated>
+    <steps_updated num="1">Flatten the beef into a thin layer, then place a chunk of cheddar inside, wrapping the beef completely around the cheddar. </steps_updated>
+    <steps_updated num="2">Form a patty with your hands. </steps_updated>
+    <steps_updated num="3">Repeat with the remaining beef and cheese. </steps_updated>
+    <steps_updated num="4">Heat oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="5">Cook the burgers for 3 minutes on the first side, flip, then cook for 6 more minutes. </steps_updated>
+    <steps_updated num="6">Assemble the burgers with the bun, bacon, tomato, and lettuce. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00861</end_time>
+  </duration_human>
+</recipe>

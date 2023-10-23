@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hasselback Pizza Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hasselback-pizza-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; chicken breast </ingredient>
+    <ingredient num="1">7 teaspoons ; tomato puree </ingredient>
+    <ingredient num="2">7 slices ; mozzarella cheese </ingredient>
+    <ingredient num="3">7 slices ; salami </ingredient>
+    <ingredient num="4">1 tablespoon ; grated cheddar cheese </ingredient>
+    <ingredient num="5">1 teaspoon ; dried oregano </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32261/low_1495125525.m3u8</low>
+    <high>https://vid.tasty.co/output/32261/mp4_720x1280/1495125525</high>
+  </video>
+  <steps>
+    <step num="0">Cut seven slits on the top of the chicken breast. </step>
+    <step num="1">In each slit, spread 1 teaspoon of tomato puree, 1 mozzarella slice, and 1 salami slice. </step>
+    <step num="2">Sprinkle on the cheddar cheese and oregano. </step>
+    <step num="3">Bake for 20 minutes or until chicken is cooked through. It should have an internal temperature of 165˚F (75˚C). </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut seven slits on the top of the chicken breast. </steps_updated>
+    <steps_updated num="1">In each slit, spread 1 teaspoon of tomato puree, 1 mozzarella slice, and 1 salami slice. </steps_updated>
+    <steps_updated num="2">Sprinkle on the cheddar cheese and oregano. </steps_updated>
+    <steps_updated num="3">Bake for 20 minutes or until chicken is cooked through. </steps_updated>
+    <steps_updated num="4">It should have an internal temperature of 165˚F (75˚C). </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

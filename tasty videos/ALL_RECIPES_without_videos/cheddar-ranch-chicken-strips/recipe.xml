@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheddar Ranch Chicken Strips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheddar-ranch-chicken-strips</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; chicken breasts </ingredient>
+    <ingredient num="1">2 ½ cups ; buttermilk ; (590 mL) </ingredient>
+    <ingredient num="2">1 packet ; ranch dressing mix </ingredient>
+    <ingredient num="3">3 cups ; cheese cracker ; (185 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33926/low_1497312217.m3u8</low>
+    <high>https://vid.tasty.co/output/33926/mp4_720x1280/1497312217</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425˚F (225˚C). </step>
+    <step num="1">On a cutting board, slice chicken breasts against the grain into strips. </step>
+    <step num="2">Place the chicken strips in a bowl and add in buttermilk and ranch packet. Stir until well-coated. </step>
+    <step num="3">Cover the bowl with plastic wrap and place in the refrigerator for at least an hour. </step>
+    <step num="4">Pour cheese crackers into a resealable bag and crush with a rolling pin until they become finely ground. </step>
+    <step num="5">Open the bag and place a marinated piece of chicken in the cracker crumbs. Coat the chicken with the crumbs and place on a parchment paper-lined baking sheet. </step>
+    <step num="6">Bake for 20 minutes, flipping halfway. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425˚F (225˚C). </steps_updated>
+    <steps_updated num="1">On a cutting board, slice chicken breasts against the grain into strips. </steps_updated>
+    <steps_updated num="2">Place the chicken strips in a bowl and add in buttermilk and ranch packet. </steps_updated>
+    <steps_updated num="3">Stir until well-coated. </steps_updated>
+    <steps_updated num="4">Cover the bowl with plastic wrap and place in the refrigerator for at least an hour. </steps_updated>
+    <steps_updated num="5">Pour cheese crackers into a resealable bag and crush with a rolling pin until they become finely ground. </steps_updated>
+    <steps_updated num="6">Open the bag and place a marinated piece of chicken in the cracker crumbs. </steps_updated>
+    <steps_updated num="7">Coat the chicken with the crumbs and place on a parchment paper-lined baking sheet. </steps_updated>
+    <steps_updated num="8">Bake for 20 minutes, flipping halfway. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

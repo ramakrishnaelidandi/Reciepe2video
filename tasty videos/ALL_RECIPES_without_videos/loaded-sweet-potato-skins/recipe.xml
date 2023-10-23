@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Sweet Potato Skins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-sweet-potato-skins</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; sweet potatoes </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">¼ cup ; whole milk ; (60 mL) </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">½ cup ; shredded mozzarella cheese ; (50 g) </ingredient>
+    <ingredient num="6">½ cup ; shredded cheddar cheese ; (50 g) </ingredient>
+    <ingredient num="7">4 strips ; bacon, cooked until crispy, and crumbled </ingredient>
+    <ingredient num="8">sour cream, for serving </ingredient>
+    <ingredient num="9">fresh chives, chopped, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32059/low_1495125001.m3u8</low>
+    <high>https://vid.tasty.co/output/32059/mp4_720x1280/1495125001</high>
+  </video>
+  <steps>
+    <step num="0">Pierce each sweet potato a few times and bake at 400˚F (200˚C) for 50 minutes, or until soft. </step>
+    <step num="1">Let potatoes cool then cut in half lengthwise. </step>
+    <step num="2">Scoop out potato flesh leaving a thin layer of sweet potato inside, and add flesh to a medium bowl. </step>
+    <step num="3">Place skins back on baking sheet, drizzle with olive oil and bake at 400˚F (200˚C) for 10 minutes. </step>
+    <step num="4">Mash sweet potato flesh with milk, salt, and pepper until smooth and creamy. </step>
+    <step num="5">Remove sweet potato skins from oven, fill each with an equal amount of potato mixture and top with cheese. Bake at 400˚F (200˚C) for 15 minutes until the cheese is melted. </step>
+    <step num="6">Remove skins from oven and top with crumbled bacon. Serve with sour cream and chives. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Pierce each sweet potato a few times and bake at 400˚F (200˚C) for 50 minutes, or until soft. </steps_updated>
+    <steps_updated num="1">Let potatoes cool then cut in half lengthwise. </steps_updated>
+    <steps_updated num="2">Scoop out potato flesh leaving a thin layer of sweet potato inside, and add flesh to a medium bowl. </steps_updated>
+    <steps_updated num="3">Place skins back on baking sheet, drizzle with olive oil and bake at 400˚F (200˚C) for 10 minutes. </steps_updated>
+    <steps_updated num="4">Mash sweet potato flesh with milk, salt, and pepper until smooth and creamy. </steps_updated>
+    <steps_updated num="5">Remove sweet potato skins from oven, fill each with an equal amount of potato mixture and top with cheese. </steps_updated>
+    <steps_updated num="6">Bake at 400˚F (200˚C) for 15 minutes until the cheese is melted. </steps_updated>
+    <steps_updated num="7">Remove skins from oven and top with crumbled bacon. </steps_updated>
+    <steps_updated num="8">Serve with sour cream and chives. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

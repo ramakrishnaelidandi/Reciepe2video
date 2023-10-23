@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Grilled Cheese Roll-ups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-cheese-roll-ups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 slices ; bread </ingredient>
+    <ingredient num="1">3 slices ; cheddar cheese </ingredient>
+    <ingredient num="2">1 tablespoon ; butter </ingredient>
+    <ingredient num="3">tomato soup, to taste, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/25830/low_1488916105.m3u8</low>
+    <high>https://vid.tasty.co/output/25830/mp4_720x1280/1488916105</high>
+  </video>
+  <steps>
+    <step num="0">Cut crust off the slices of bread. This makes the bread easier to roll and will hold the shape better. </step>
+    <step num="1">Flatten slices of bread with a rolling pin. </step>
+    <step num="2">Layer the slices of cheese on top of each slice of bread so that the cheese is offset from the bread by about 1 inch (2 ½ cm) vertically. Other fillings can be added here if desired. </step>
+    <step num="3">Roll each slice of bread with cheese vertically as tightly as possible without cracking the bread. Gently squeeze each roll to maintain its shape and set down on its seam. </step>
+    <step num="4">Melt the butter in a pan. Grill each roll starting with the seam side down on the hot pan. </step>
+    <step num="5">Rotate so that all sides are evenly golden brown. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut crust off the slices of bread. </steps_updated>
+    <steps_updated num="1">This makes the bread easier to roll and will hold the shape better. </steps_updated>
+    <steps_updated num="2">Flatten slices of bread with a rolling pin. </steps_updated>
+    <steps_updated num="3">Layer the slices of cheese on top of each slice of bread so that the cheese is offset from the bread by about 1 inch (2 ½ cm) vertically. </steps_updated>
+    <steps_updated num="4">Other fillings can be added here if desired. </steps_updated>
+    <steps_updated num="5">Roll each slice of bread with cheese vertically as tightly as possible without cracking the bread. </steps_updated>
+    <steps_updated num="6">Gently squeeze each roll to maintain its shape and set down on its seam. </steps_updated>
+    <steps_updated num="7">Melt the butter in a pan. </steps_updated>
+    <steps_updated num="8">Grill each roll starting with the seam side down on the hot pan. </steps_updated>
+    <steps_updated num="9">Rotate so that all sides are evenly golden brown. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

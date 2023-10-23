@@ -1,0 +1,43 @@
+<recipe>
+  <title>Chicken Ranch Wrap Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-ranch-wrap</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 3305 2168 5817 </ingredient>
+    <ingredient num="1">8580 8535 13278 3538 14538 </ingredient>
+    <ingredient num="2">3917 14252 13278 2080 9227 </ingredient>
+    <ingredient num="3">1580 2605 13278 3333 7983 13278 9373 5981 </ingredient>
+    <ingredient num="4">11061 13278 8602 7042 976 210 2532 </ingredient>
+    <ingredient num="5">8580 9486 13278 13076 11708 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>5.0</start_time>
+    <end_time>29.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 4817 8535 371 3538 4255 5994 3305 2168 6640 6960 5569 7334 3333 12816 976 717 13817 13076 5342 </step>
+    <step num="1">7692 669 5994 7558 13817 3345 210 5994 6661 3801 1391 6744 13817 4068 7990 6701 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 4817 8535 371 3538 4255 5994 3305 2168 6640 6960 5569 7334 3333 12816 976 717 13817 13076 5342 </steps_updated>
+    <steps_updated num="1">7692 669 5994 7558 13817 3345 210 5994 6661 3801 1391 6744 13817 4068 7990 6701 </steps_updated>
+    <steps_updated num="2">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00923</end_time>
+  </duration_human>
+</recipe>

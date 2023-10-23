@@ -1,0 +1,61 @@
+<recipe>
+  <title>English Scones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/english-scones</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/afternoon-tea-party-for-4</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 1580 9517 13278 4784 890 13278 14577 5981 </ingredient>
+    <ingredient num="1">4061 9486 13278 10907 7777 669 4530 </ingredient>
+    <ingredient num="2">8580 9486 13278 4834 </ingredient>
+    <ingredient num="3">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="4">12791 8071 13278 82 </ingredient>
+    <ingredient num="5">3917 12791 9517 13278 5802 13278 10339 8007 </ingredient>
+    <ingredient num="6">3917 13278 6216 5031 </ingredient>
+    <ingredient num="7">379 2658 13615 </ingredient>
+    <ingredient num="8">8428 1123 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26109/low_1489096735.m3u8</low>
+    <high>https://vid.tasty.co/output/26109/mp4_720x1280/1489096735</high>
+  </video>
+  <duration>
+    <start_time>49.0</start_time>
+    <end_time>88.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 13194 13180 </step>
+    <step num="1">10950 5994 2597 14511 7094 3626 11951 4784 890 13817 472 9924 1681 1762 1978 11042 10745 </step>
+    <step num="2">9393 210 11951 6145 10765 8117 13817 12610 13817 772 5994 3145 210 11951 2336 </step>
+    <step num="3">1083 210 11951 5802 13817 6183 10968 3626 1681 644 4309 </step>
+    <step num="4">10404 11951 8337 1802 5994 13004 12605 13817 3039 7990 6285 5994 6513 4872 148 11155 560 390 11951 9453 </step>
+    <step num="5">5209 5994 14032 7155 8508 5895 11951 2567 371 5994 1278 7777 3988 669 11951 8337 5312 12573 6285 6620 4735 13025 </step>
+    <step num="6">5570 1802 5994 10765 7238 10926 1391 3550 12 13817 6798 11951 4091 371 11951 11780 1391 11951 6216 3621 </step>
+    <step num="7">7831 7990 409 12689 </step>
+    <step num="8">12774 1391 8428 13033 13817 8153 </step>
+    <step num="9">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 13194 13180 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 7094 3626 11951 4784 890 13817 472 9924 1681 1762 1978 11042 10745 </steps_updated>
+    <steps_updated num="2">9393 210 11951 6145 10765 8117 13817 12610 13817 772 5994 3145 210 11951 2336 </steps_updated>
+    <steps_updated num="3">1083 210 11951 5802 13817 6183 10968 3626 1681 644 4309 </steps_updated>
+    <steps_updated num="4">10404 11951 8337 1802 5994 13004 12605 13817 3039 7990 6285 5994 6513 </steps_updated>
+    <steps_updated num="5">4872 148 11155 560 390 11951 9453 </steps_updated>
+    <steps_updated num="6">5209 5994 14032 7155 8508 5895 11951 2567 371 5994 1278 7777 3988 669 11951 8337 5312 12573 6285 6620 4735 13025 </steps_updated>
+    <steps_updated num="7">5570 1802 5994 10765 7238 10926 1391 3550 12 13817 6798 11951 4091 371 11951 11780 1391 11951 6216 3621 </steps_updated>
+    <steps_updated num="8">7831 7990 409 12689 </steps_updated>
+    <steps_updated num="9">12774 1391 8428 13033 13817 8153 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01508</start_time>
+    <end_time>02750</end_time>
+  </duration_human>
+</recipe>

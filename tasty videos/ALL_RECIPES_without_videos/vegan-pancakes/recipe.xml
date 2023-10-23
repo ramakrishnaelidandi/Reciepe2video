@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-pancakes</url>
+  <type>single</type>
+  <ingredients>  
+    <ingredient num="0">100 g ; sugar ; (½ cup) </ingredient>
+    <ingredient num="1">120 mL ; water ; (½ cup) </ingredient>
+    <ingredient num="2">150 g ; blueberry ; (1 cup) </ingredient>
+    <ingredient num="3">180 g ; flour ; (1 ½ cups) </ingredient>
+    <ingredient num="4">1 tablespoon ; sugar </ingredient>
+    <ingredient num="5">2 tablespoons ; baking powder </ingredient>
+    <ingredient num="6">1 ; salt, pinch </ingredient>
+    <ingredient num="7">300 mL ; soy milk ; (1 ¼ cups) </ingredient>
+    <ingredient num="8">2 tablespoons ; oil </ingredient>
+    <ingredient num="9">oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+    <category num="6">Vegan</category>
+    <category num="7">American</category>
+  </categories>
+  <video>
+    <low>https://vid.buzzfeed.com/output/23702/low_1486765522.m3u8</low>
+    <high>https://vid.buzzfeed.com/output/23702/mp4_720x1280/1486765522</high>
+  </video>
+  <steps>
+    <step num="0">Prepare the blueberry syrup by combining the sugar, water, and blueberries in a small saucepan over medium heat. </step>
+    <step num="1">Bring to a boil and then reduce until you have a deep blue, syrup-like consistency. Set aside. </step>
+    <step num="2">For the pancakes, mix together the flour, sugar, baking powder, and salt. </step>
+    <step num="3">Whisk in the soy milk and oil until you have a smooth, creamy batter. </step>
+    <step num="4">Heat some extra oil in a frying pan and pour the batter into the frying pan. </step>
+    <step num="5">Fry for a few minutes on each side until golden brown. </step>
+    <step num="6">Serve with the blueberry syrup. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Prepare the blueberry syrup by combining the sugar, water, and blueberries in a small saucepan over medium heat. </steps_updated>
+    <steps_updated num="1">Bring to a boil and then reduce until you have a deep blue, syrup-like consistency. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">For the pancakes, mix together the flour, sugar, baking powder, and salt. </steps_updated>
+    <steps_updated num="4">Whisk in the soy milk and oil until you have a smooth, creamy batter. </steps_updated>
+    <steps_updated num="5">Heat some extra oil in a frying pan and pour the batter into the frying pan. </steps_updated>
+    <steps_updated num="6">Fry for a few minutes on each side until golden brown. </steps_updated>
+    <steps_updated num="7">Serve with the blueberry syrup. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

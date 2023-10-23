@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Protein-Packed Quesarito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/protein-packed-quesarito</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; avocado </ingredient>
+    <ingredient num="1">1 ; lime, juiced </ingredient>
+    <ingredient num="2">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="3">3 cloves ; garlic </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">½ teaspoon ; salt </ingredient>
+    <ingredient num="6">2 tablespoons ; water </ingredient>
+    <ingredient num="7">1 tablespoon ; olive oil, plus more as needed </ingredient>
+    <ingredient num="8">½ cup ; white onion ; (75 g) </ingredient>
+    <ingredient num="9">2 cloves ; garlic </ingredient>
+    <ingredient num="10">7 oz ; extra firm tofu, crumbled ; (200 g) </ingredient>
+    <ingredient num="11">¼ teaspoon ; smoked paprika </ingredient>
+    <ingredient num="12">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="13">½ teaspoon ; cumin </ingredient>
+    <ingredient num="14">2 teaspoons ; soy sauce </ingredient>
+    <ingredient num="15">1 ; medium sweet potato, peeled and diced </ingredient>
+    <ingredient num="16">¾ teaspoon ; salt, divided </ingredient>
+    <ingredient num="17">¾ teaspoon ; pepper, divided </ingredient>
+    <ingredient num="18">15 oz ; chickpeas, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="19">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="20">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="21">8 ; large flour tortillas </ingredient>
+    <ingredient num="22">2 cups ; shredded cheese blend ; (200 g) </ingredient>
+    <ingredient num="23">2 cups ; fresh spinach ; (60 g) </ingredient>
+    <ingredient num="24">1 cup ; diced tomato ; (200 g) </ingredient>
+    <ingredient num="25">1 cup ; black beans ; (60 g) </ingredient>
+    <ingredient num="26">1 cup ; corn ; (165 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96042/hls24_1527281279.m3u8</low>
+    <high>https://vid.tasty.co/output/96042/landscape_720/1527281279</high>
+  </video>
+  <steps>
+    <step num="0">Make the avocado dressing: in a blender, combine the avocado, lime juice, olive oil, garlic, pepper, salt, and water, and blend until smooth. </step>
+    <step num="1">Heat the olive oil in a large skillet over medium-high heat. Add the onion and sauté until translucent, 3 minutes. </step>
+    <step num="2">Add the garlic, tofu, paprika, cumin, and chili powder, and stir to combine. Add the soy sauce, stir, and cook for 3 minutes more, until tofu mixture is evenly heated. </step>
+    <step num="3">Transfer the tofu to a medium bowl and set aside. </step>
+    <step num="4">Add more oil to the pan if needed, then add the sweet potatoes, ½ teaspoon salt, and ½ teaspoon pepper. Stir, cover, and cook for about 5 minutes, until sweet potatoes are tender. </step>
+    <step num="5">Remove the sweet potato from the pan and set aside. </step>
+    <step num="6">Add the chickpeas, garlic powder, chili powder, remaining ¼ teaspoon salt, and remaining ¼ teaspoon pepper. Stir and cook for about 5 minutes, until the chickpeas are crispy. </step>
+    <step num="7">Remove chickpeas and set aside. </step>
+    <step num="8">Reduce the heat to medium-low, add a tortilla to the pan and sprinkle with ½ cup cheese, then cover with another tortilla. Cook until the cheese melts, about 3 minutes, flipping once halfway through. Repeat with the remaining tortillas and cheese. </step>
+    <step num="9">Transfer the tortillas to plates and fill with with spinach, tofu, tomatoes, black beans, corn, sweet potatoes, and chickpeas. Drizzle with avocado dressing. </step>
+    <step num="10">Fold in the left and right sides of the tortillas and roll up from the bottom, tucking the bottom edges under the filling. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the avocado dressing: in a blender, combine the avocado, lime juice, olive oil, garlic, pepper, salt, and water, and blend until smooth. </steps_updated>
+    <steps_updated num="1">Heat the olive oil in a large skillet over medium-high heat. </steps_updated>
+    <steps_updated num="2">Add the onion and sauté until translucent, 3 minutes. </steps_updated>
+    <steps_updated num="3">Add the garlic, tofu, paprika, cumin, and chili powder, and stir to combine. </steps_updated>
+    <steps_updated num="4">Add the soy sauce, stir, and cook for 3 minutes more, until tofu mixture is evenly heated. </steps_updated>
+    <steps_updated num="5">Transfer the tofu to a medium bowl and set aside. </steps_updated>
+    <steps_updated num="6">Add more oil to the pan if needed, then add the sweet potatoes, ½ teaspoon salt, and ½ teaspoon pepper. </steps_updated>
+    <steps_updated num="7">Stir, cover, and cook for about 5 minutes, until sweet potatoes are tender. </steps_updated>
+    <steps_updated num="8">Remove the sweet potato from the pan and set aside. </steps_updated>
+    <steps_updated num="9">Add the chickpeas, garlic powder, chili powder, remaining ¼ teaspoon salt, and remaining ¼ teaspoon pepper. </steps_updated>
+    <steps_updated num="10">Stir and cook for about 5 minutes, until the chickpeas are crispy. </steps_updated>
+    <steps_updated num="11">Remove chickpeas and set aside. </steps_updated>
+    <steps_updated num="12">Reduce the heat to medium-low, add a tortilla to the pan and sprinkle with ½ cup cheese, then cover with another tortilla. </steps_updated>
+    <steps_updated num="13">Cook until the cheese melts, about 3 minutes, flipping once halfway through. </steps_updated>
+    <steps_updated num="14">Repeat with the remaining tortillas and cheese. </steps_updated>
+    <steps_updated num="15">Transfer the tortillas to plates and fill with with spinach, tofu, tomatoes, black beans, corn, sweet potatoes, and chickpeas. </steps_updated>
+    <steps_updated num="16">Drizzle with avocado dressing. </steps_updated>
+    <steps_updated num="17">Fold in the left and right sides of the tortillas and roll up from the bottom, tucking the bottom edges under the filling. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

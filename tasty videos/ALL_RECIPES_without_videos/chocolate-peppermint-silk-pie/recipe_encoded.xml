@@ -1,0 +1,68 @@
+<recipe>
+  <title>Chocolate Peppermint Silk Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peppermint-silk-pie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/5-pies-for-your-holiday-season</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 12708 </ingredient>
+    <ingredient num="1">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 12282 13278 1536 8007 </ingredient>
+    <ingredient num="3">3917 13278 4844 14321 9864 </ingredient>
+    <ingredient num="4">3917 8071 13278 13934 10937 </ingredient>
+    <ingredient num="5">6735 643 13278 13826 5335 13278 9473 5981 </ingredient>
+    <ingredient num="6">6735 9486 13278 10907 472 </ingredient>
+    <ingredient num="7">1580 2605 13278 279 1123 7789 3954 7990 4711 13278 2935 8007 </ingredient>
+    <ingredient num="8">1948 13826 7990 4711 </ingredient>
+    <ingredient num="9">5614 13934 2224 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Desserts</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65084/hls24_1512082348.m3u8</low>
+    <high>https://vid.tasty.co/output/65084/landscape_720/1512082348</high>
+  </video>
+  <duration>
+    <start_time>106.0</start_time>
+    <end_time>176.47</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 13194 13180 </step>
+    <step num="1">10950 5994 13757 14401 14511 3930 11951 12708 13817 4834 1391 2237 4918 5768 9091 1681 4309 </step>
+    <step num="2">9179 11951 12282 560 5994 2192 10083 11770 9721 7855 13817 12886 11951 12377 4255 143 3107 3930 11951 6216 2373 4255 9721 12398 1681 3557 13751 7032 13517 6054 11951 12377 6781 11951 7855 13817 6142 2658 3557 11248 </step>
+    <step num="3">4124 5994 9864 4844 1547 210 5994 6453 8387 1645 4844 6325 4124 5994 213 371 3550 12 11770 1547 13817 3345 4061 4352 5895 796 6143 210 11951 5543 8032 573 11951 13207 </step>
+    <step num="4">7831 7990 13133 11004 1681 10963 2147 1828 435 </step>
+    <step num="5">9179 11951 13934 10937 13817 5335 4680 560 11951 6216 10665 12473 1681 4309 </step>
+    <step num="6">12633 3930 210 11951 9924 1681 3145 4309 </step>
+    <step num="7">12633 7475 210 11951 279 13033 1681 644 9456 </step>
+    <step num="8">12775 1798 11951 11539 669 11951 9864 4844 1547 13817 1780 7990 7811 767 8580 14329 </step>
+    <step num="9">13688 1391 279 1123 1948 13826 13817 5614 13934 2918 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 13194 5578 </steps_updated>
+    <steps_updated num="1">5570 5994 9864 4844 1547 669 5994 6453 8387 1645 4844 10590 </steps_updated>
+    <steps_updated num="2">9207 5994 213 371 3550 12 11770 1547 13817 3345 4061 4352 210 5687 5895 796 6143 210 4255 11951 470 8032 573 11951 13207 </steps_updated>
+    <steps_updated num="3">7831 7990 13133 12689 </steps_updated>
+    <steps_updated num="4">10950 5994 13757 6043 578 3624 14511 10968 12708 13817 4834 1681 4309 </steps_updated>
+    <steps_updated num="5">8785 12377 11770 10083 7860 1391 12282 4255 9721 7855 13817 12886 4255 143 </steps_updated>
+    <steps_updated num="6">3107 3930 6216 2373 4255 9721 12398 3821 3557 13751 7032 8566 </steps_updated>
+    <steps_updated num="7">6054 11951 12377 6781 11951 7855 13817 6142 2658 3557 11248 </steps_updated>
+    <steps_updated num="8">9179 13934 10937 13817 5335 9769 </steps_updated>
+    <steps_updated num="9">12473 1681 4309 </steps_updated>
+    <steps_updated num="10">12633 3930 210 4530 371 10907 13328 1681 4309 </steps_updated>
+    <steps_updated num="11">12633 7475 210 279 13033 13817 10968 1681 644 9456 </steps_updated>
+    <steps_updated num="12">12775 1798 11539 669 9864 4844 1547 13817 1780 7990 7811 767 8580 14329 </steps_updated>
+    <steps_updated num="13">13688 1391 279 1123 1948 13826 13817 5614 5449 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02585</start_time>
+    <end_time>04243</end_time>
+  </duration_human>
+</recipe>

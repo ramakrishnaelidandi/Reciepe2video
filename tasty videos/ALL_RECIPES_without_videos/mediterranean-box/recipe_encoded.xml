@@ -1,0 +1,42 @@
+<recipe>
+  <title>Mediterranean Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mediterranean-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 10837 976 </ingredient>
+    <ingredient num="1">1580 2605 13278 8602 9668 13278 11953 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 5071 13278 8118 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 10995 8086 13278 2264 5981 </ingredient>
+    <ingredient num="4">8580 9486 13278 840 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>12.63</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 6367 7042 13817 221 669 14139 </step>
+    <step num="1">5570 10995 11318 669 5228 14473 1391 5994 1374 371 4724 </step>
+    <step num="2">2356 1681 12550 560 10215 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 6367 7042 13817 221 669 14139 </steps_updated>
+    <steps_updated num="1">5570 10995 11318 669 5228 14473 1391 5994 1374 371 4724 </steps_updated>
+    <steps_updated num="2">2356 1681 12550 560 10215 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00037</start_time>
+    <end_time>00400</end_time>
+  </duration_human>
+</recipe>

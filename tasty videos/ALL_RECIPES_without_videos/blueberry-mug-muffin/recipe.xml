@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Blueberry Mug Muffin Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-mug-muffin</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/portable-breakfasts</comp_url>
+  <ingredients>
+    <ingredient num="0">⅓ cup ; all-purpose flour ; (40 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; sugar </ingredient>
+    <ingredient num="2">¼ teaspoon ; baking powder </ingredient>
+    <ingredient num="3">¼ teaspoon ; kosher salt </ingredient>
+    <ingredient num="4">¼ cup ; milk ; (60 mL) </ingredient>
+    <ingredient num="5">2 tablespoons ; unsalted butter, melted and cooled </ingredient>
+    <ingredient num="6">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="7">1 tablespoon ; lemon zest </ingredient>
+    <ingredient num="8">¼ cup ; fresh blueberry ; (25 g) </ingredient>
+    <ingredient num="9">sparkling sugar, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/102123/hls24_1531775108.m3u8</low>
+    <high>https://vid.tasty.co/output/102123/landscape_720/1531775108</high>
+  </video>
+  <duration>
+    <start_time>87.0</start_time>
+    <end_time>129.666</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a mug, whisk together flour, sugar, baking powder, and kosher salt. </step>
+    <step num="1">Add milk, butter, and vanilla. Mix until smooth. </step>
+    <step num="2">Stir in lemon zest and blueberries. </step>
+    <step num="3">Microwave for 1½-2 minutes, or until cake appears puffy and cooked through. </step>
+    <step num="4">Cool 2 minutes. Top with sparkling sugar (optional). </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a mug, whisk together flour, sugar, baking powder, and kosher salt. </steps_updated>
+    <steps_updated num="1">Add milk, butter, and vanilla. </steps_updated>
+    <steps_updated num="2">Mix until smooth. </steps_updated>
+    <steps_updated num="3">Stir in lemon zest and blueberries. </steps_updated>
+    <steps_updated num="4">Microwave for 1½-2 minutes, or until cake appears puffy and cooked through. </steps_updated>
+    <steps_updated num="5">Cool 2 minutes. </steps_updated>
+    <steps_updated num="6">Top with sparkling sugar (optional). </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

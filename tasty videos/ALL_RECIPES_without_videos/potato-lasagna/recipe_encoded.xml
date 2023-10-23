@@ -1,0 +1,58 @@
+<recipe>
+  <title>Potato Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/potato-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2933 13278 2274 4125 </ingredient>
+    <ingredient num="1">8580 2031 13278 82 </ingredient>
+    <ingredient num="2">3917 8071 13278 7845 </ingredient>
+    <ingredient num="3">6735 8535 13278 12868 </ingredient>
+    <ingredient num="4">14058 8535 13278 10865 14538 </ingredient>
+    <ingredient num="5">2933 8535 13278 7035 3745 13817 885 </ingredient>
+    <ingredient num="6">12791 2605 13278 6209 11911 3962 13278 12237 5981 </ingredient>
+    <ingredient num="7">8580 9517 13278 3333 10865 14538 13278 6898 5981 </ingredient>
+    <ingredient num="8">3917 2605 13278 8640 13033 13278 7503 8007 </ingredient>
+    <ingredient num="9">8580 13278 12708 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/11459/low_1475696397.m3u8</low>
+    <high>https://vid.tasty.co/output/11459/mp4_720x1280/1475696397</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 12738 1610 </step>
+    <step num="1">3235 11951 4125 13233 669 1580 9735 2367 636 10832 </step>
+    <step num="2">10242 11951 13233 1391 82 13817 10986 10390 3755 560 772 11901 1179 7670 7317 </step>
+    <step num="3">8724 5994 11826 371 13233 3584 669 11951 551 371 5994 4854 10459 10765 10590 </step>
+    <step num="4">5570 2532 371 11951 12868 8535 3584 4255 10707 371 11951 2274 6960 5569 2532 371 11951 976 4496 </step>
+    <step num="5">12453 1391 6646 11826 371 2274 415 11951 374 12868 13817 976 4496 </step>
+    <step num="6">6252 11951 8932 13817 2768 3584 4255 10707 371 11951 976 13810 13817 3345 797 11757 11826 371 13233 4255 143 </step>
+    <step num="7">6252 11951 3333 14538 4255 10707 371 11951 2274 415 14484 3557 669 2237 5422 14614 </step>
+    <step num="8">10950 5994 2192 14511 10968 11951 8640 13033 13817 8536 1083 4255 10707 371 11951 3333 4496 </step>
+    <step num="9">7831 7990 6285 11203 11004 1681 11951 14538 9490 5994 11358 10963 2147 </step>
+    <step num="10">13434 10622 6138 415 7329 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 1610 </steps_updated>
+    <steps_updated num="1">3235 11951 4125 13233 669 1580 9735 2367 636 10832 </steps_updated>
+    <steps_updated num="2">10242 11951 13233 1391 82 13817 10986 10390 3755 560 772 11901 1179 7670 7317 </steps_updated>
+    <steps_updated num="3">8724 5994 11826 371 13233 3584 669 11951 551 371 5994 4854 10459 10765 10590 </steps_updated>
+    <steps_updated num="4">5570 2532 371 11951 12868 8535 3584 4255 10707 371 11951 2274 6960 5569 2532 371 11951 976 4496 </steps_updated>
+    <steps_updated num="5">12453 1391 6646 11826 371 2274 415 11951 374 12868 13817 976 4496 </steps_updated>
+    <steps_updated num="6">6252 11951 8932 13817 2768 3584 4255 10707 371 11951 976 13810 13817 3345 797 11757 11826 371 13233 4255 143 </steps_updated>
+    <steps_updated num="7">6252 11951 3333 14538 4255 10707 371 11951 2274 415 14484 3557 669 2237 5422 14614 </steps_updated>
+    <steps_updated num="8">10950 5994 2192 14511 10968 11951 8640 13033 13817 8536 </steps_updated>
+    <steps_updated num="9">1083 4255 10707 371 11951 3333 4496 </steps_updated>
+    <steps_updated num="10">7831 7990 6285 11203 11004 1681 11951 14538 9490 5994 11358 10963 2147 </steps_updated>
+    <steps_updated num="11">13434 10622 6138 415 7329 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

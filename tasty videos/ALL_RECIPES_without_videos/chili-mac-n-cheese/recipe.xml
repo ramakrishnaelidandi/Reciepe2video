@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chili Mac 'n' Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-mac-n-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; lean ground beef ; (455 g) </ingredient>
+    <ingredient num="1">1 ; small white onion, diced </ingredient>
+    <ingredient num="2">2 tablespoons ; garlic, minced </ingredient>
+    <ingredient num="3">14.5 oz ; diced tomato ; (400 g) </ingredient>
+    <ingredient num="4">7 oz ; kidney bean ; (200 g) </ingredient>
+    <ingredient num="5">7 oz ; black beans, half of a can ; (200 g) </ingredient>
+    <ingredient num="6">1 ½ tablespoons ; chili powder </ingredient>
+    <ingredient num="7">1 ½ teaspoons ; cumin </ingredient>
+    <ingredient num="8">1 teaspoon ; seasoned salt </ingredient>
+    <ingredient num="9">3 ½ cups ; chicken broth ; (840 mL) </ingredient>
+    <ingredient num="10">10 oz ; cavatappi pasta, or any other pasta ; (285 g) </ingredient>
+    <ingredient num="11">3 cups ; sharp cheddar cheese, shredded ; (300 g) </ingredient>
+    <ingredient num="12">shredded sharp cheddar cheese </ingredient>
+    <ingredient num="13">sour cream </ingredient>
+    <ingredient num="14">fresh cilantro </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32164/low_1495125408.m3u8</low>
+    <high>https://vid.tasty.co/output/32164/mp4_720x1280/1495125408</high>
+  </video>
+  <steps>
+    <step num="0">In a large pot, cook ground beef and onions over medium high heat until browned. </step>
+    <step num="1">Add minced garlic and cook for an additional two to three minutes. Carefully drain any excess fat. </step>
+    <step num="2">Add the diced tomatoes, kidney beans, black beans, chili powder, cumin, seasoned salt, and chicken broth. Stir, and bring to a boil. </step>
+    <step num="3">Add the pasta, and cook according to package instructions. </step>
+    <step num="4">Stir in the cheese, and cook for an additional five minutes, or until thickened. </step>
+    <step num="5">Serve with your favorite toppings. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot, cook ground beef and onions over medium high heat until browned. </steps_updated>
+    <steps_updated num="1">Add minced garlic and cook for an additional two to three minutes. </steps_updated>
+    <steps_updated num="2">Carefully drain any excess fat. </steps_updated>
+    <steps_updated num="3">Add the diced tomatoes, kidney beans, black beans, chili powder, cumin, seasoned salt, and chicken broth. </steps_updated>
+    <steps_updated num="4">Stir, and bring to a boil. </steps_updated>
+    <steps_updated num="5">Add the pasta, and cook according to package instructions. </steps_updated>
+    <steps_updated num="6">Stir in the cheese, and cook for an additional five minutes, or until thickened. </steps_updated>
+    <steps_updated num="7">Serve with your favorite toppings. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

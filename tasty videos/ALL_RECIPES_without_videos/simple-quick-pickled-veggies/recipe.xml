@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Simple Quick-Pickled Veggies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/simple-quick-pickled-veggies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 cups ; fresh vegetables, such as cucumber onion carrot and beet ; (360 g) </ingredient>
+    <ingredient num="1">spice blend, such as mustard seeds black peppercorns fennel seeds and sliced fresh ginger to taste </ingredient>
+    <ingredient num="2">4 cups ; water ; (960 mL) </ingredient>
+    <ingredient num="3">4 cups ; white distilled vinegar, 5% acidity ; (960 mL) </ingredient>
+    <ingredient num="4">6 tablespoons ; sugar </ingredient>
+    <ingredient num="5">4 tablespoons ; salt </ingredient>
+    <ingredient num="6">8 oz ; canning jar, 4 jars ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/111652/hls24_1539032419.m3u8</low>
+    <high>https://vid.tasty.co/output/111652/landscape_720/1539032419</high>
+  </video>
+  <steps>
+    <step num="0">Cut the vegetables into the shapes of your choosing. </step>
+    <step num="1">Fill the jars with vegetables, leaving ½ inch (1 cm) of space at the top. </step>
+    <step num="2">Add spices of choice to the jars with the vegetables. We like plain beets, cucumbers with mustard seeds and peppercorns, carrots with ginger and fennel seeds, and red onion with peppercorns. </step>
+    <step num="3">In a medium pot over high heat, combine the water, vinegar, sugar, and salt. Stir until the sugar and salt dissolve. Bring to a boil. </step>
+    <step num="4">Once boiling, remove the brine from the heat and pour into the jars. Tap the jars against the counter to release any bubbles. </step>
+    <step num="5">Close the jars and allow to cool completely at room temperature. </step>
+    <step num="6">Refrigerate the jars for 48 hours before eating the pickles. Store for up to 1 week in a refrigerator. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the vegetables into the shapes of your choosing. </steps_updated>
+    <steps_updated num="1">Fill the jars with vegetables, leaving ½ inch (1 cm) of space at the top. </steps_updated>
+    <steps_updated num="2">Add spices of choice to the jars with the vegetables. </steps_updated>
+    <steps_updated num="3">We like plain beets, cucumbers with mustard seeds and peppercorns, carrots with ginger and fennel seeds, and red onion with peppercorns. </steps_updated>
+    <steps_updated num="4">In a medium pot over high heat, combine the water, vinegar, sugar, and salt. </steps_updated>
+    <steps_updated num="5">Stir until the sugar and salt dissolve. </steps_updated>
+    <steps_updated num="6">Bring to a boil. </steps_updated>
+    <steps_updated num="7">Once boiling, remove the brine from the heat and pour into the jars. </steps_updated>
+    <steps_updated num="8">Tap the jars against the counter to release any bubbles. </steps_updated>
+    <steps_updated num="9">Close the jars and allow to cool completely at room temperature. </steps_updated>
+    <steps_updated num="10">Refrigerate the jars for 48 hours before eating the pickles. </steps_updated>
+    <steps_updated num="11">Store for up to 1 week in a refrigerator. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

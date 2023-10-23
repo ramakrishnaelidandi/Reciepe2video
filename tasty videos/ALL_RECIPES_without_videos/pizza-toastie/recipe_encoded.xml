@@ -1,0 +1,37 @@
+<recipe>
+  <title>Pizza Toastie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-toastie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 8535 13278 4617 4465 </ingredient>
+    <ingredient num="1">8580 9486 13278 9122 2260 </ingredient>
+    <ingredient num="2">1580 2605 13278 10865 14538 13278 2264 5981 </ingredient>
+    <ingredient num="3">11061 13009 13278 5243 </ingredient>
+    <ingredient num="4">10907 2658 13615 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31907/low_1495124909.m3u8</low>
+    <high>https://vid.tasty.co/output/31907/mp4_720x1280/1495124909</high>
+  </video>
+  <steps>
+    <step num="0">13494 797 9152 371 4465 1391 9122 7280 10865 13810 13817 7068 </step>
+    <step num="1">4660 1391 5994 437 9152 371 4465 13817 9924 6697 8535 371 4465 6781 12872 560 2001 </step>
+    <step num="2">5570 210 11853 11932 4030 13817 2550 1681 4465 9490 10963 2147 7737 11951 11932 9490 11155 9252 12811 10954 2532 10772 10706 </step>
+    <step num="3">6054 6781 11932 13817 12205 210 8467 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">13494 797 9152 371 4465 1391 9122 7280 10865 13810 13817 7068 </steps_updated>
+    <steps_updated num="1">4660 1391 5994 437 9152 371 4465 13817 9924 6697 8535 371 4465 6781 12872 560 2001 </steps_updated>
+    <steps_updated num="2">5570 210 11853 11932 4030 13817 2550 1681 4465 9490 10963 2147 </steps_updated>
+    <steps_updated num="3">7737 11951 11932 9490 11155 9252 12811 10954 2532 10772 10706 </steps_updated>
+    <steps_updated num="4">6054 6781 11932 13817 12205 210 8467 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

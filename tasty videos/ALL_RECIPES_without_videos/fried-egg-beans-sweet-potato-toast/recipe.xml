@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Fried Egg &amp; Beans Sweet Potato Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/fried-egg-beans-sweet-potato-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-potato-toast-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; sweet potato </ingredient>
+    <ingredient num="1">refried black bean </ingredient>
+    <ingredient num="2">salsa, to taste </ingredient>
+    <ingredient num="3">1 ; egg, fried </ingredient>
+    <ingredient num="4">fresh cilantro, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Healthy</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Sides</category>
+    <category num="3">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33861/low_1497289731.m3u8</low>
+    <high>https://vid.tasty.co/output/33861/mp4_720x1280/1497289731</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Cut sweet potato into thin slices, about ¼ inch (6 mm) thick. </step>
+    <step num="1">Place in toaster and set it to the maximum cook time. When it pops, flip the sweet potato slices over and toast 1 more time. Depending on the strength of your toaster and your preferences, you may need to toast it 1 more time after that. </step>
+    <step num="2">Remove from toaster and let cool enough to handle. </step>
+    <step num="3">Heat refried black beans. </step>
+    <step num="4">Spread the beans evenly across sweet potato toast, followed by the salsa. </step>
+    <step num="5">Top with a fried egg. Garnish with cilantro. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut sweet potato into thin slices, about ¼ inch (6 mm) thick. </steps_updated>
+    <steps_updated num="1">Place in toaster and set it to the maximum cook time. </steps_updated>
+    <steps_updated num="2">When it pops, flip the sweet potato slices over and toast 1 more time. </steps_updated>
+    <steps_updated num="3">Depending on the strength of your toaster and your preferences, you may need to toast it 1 more time after that. </steps_updated>
+    <steps_updated num="4">Remove from toaster and let cool enough to handle. </steps_updated>
+    <steps_updated num="5">Heat refried black beans. </steps_updated>
+    <steps_updated num="6">Spread the beans evenly across sweet potato toast, followed by the salsa. </steps_updated>
+    <steps_updated num="7">Top with a fried egg. </steps_updated>
+    <steps_updated num="8">Garnish with cilantro. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-01122</start_time>
+    <end_time>01412</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Almond Coconut Protein Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-almond-coconut-protein-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/protein-smoothies-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; coconut milk ; (350 mL) </ingredient>
+    <ingredient num="1">60 ; ¼ cup ; almond butters </ingredient>
+    <ingredient num="2">1 scoop ; chocolate protein powder </ingredient>
+    <ingredient num="3">1 cup ; ice ; (140 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33117/low_1496253209.m3u8</low>
+    <high>https://vid.tasty.co/output/33117/mp4_720x1280/1496253209</high>
+  </video>
+  <duration>
+    <start_time>54.0</start_time>
+    <end_time>68.78</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put all ingredients into a blender and mix until smooth. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put all ingredients into a blender and mix until smooth. </steps_updated>
+    <steps_updated num="1">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01681</start_time>
+    <end_time>02083</end_time>
+  </duration_human>
+</recipe>

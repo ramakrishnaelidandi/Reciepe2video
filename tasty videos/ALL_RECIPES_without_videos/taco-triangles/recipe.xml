@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco Triangles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-triangles</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">1 ; yellow onion, sliced </ingredient>
+    <ingredient num="2">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="3">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; paprika </ingredient>
+    <ingredient num="7">1 teaspoon ; chili powder </ingredient>
+    <ingredient num="8">1 teaspoon ; cumin </ingredient>
+    <ingredient num="9">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="10">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="11">1 ; lime, juiced </ingredient>
+    <ingredient num="12">1 cup ; shredded chicken ; (125 g) </ingredient>
+    <ingredient num="13">1 can ; black beans, drained and rinsed </ingredient>
+    <ingredient num="14">1 cup ; ground beef, cooked ; (200 g) </ingredient>
+    <ingredient num="15">10 ; flour tortillas </ingredient>
+    <ingredient num="16">2 cups ; cheese blend ; (200 g) </ingredient>
+    <ingredient num="17">1 ; large egg, beaten </ingredient>
+    <ingredient num="18">oil, for frying </ingredient>
+    <ingredient num="19">fresh cilantro, for serving </ingredient>
+    <ingredient num="20">sour cream, for serving </ingredient>
+    <ingredient num="21">guacamole, for serving </ingredient>
+    <ingredient num="22">salsa, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Mexican</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Sides</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/84344/hls24_1520961839.m3u8</low>
+    <high>https://vid.tasty.co/output/84344/landscape_720/1520961839</high>
+  </video>
+  <steps>
+    <step num="0">In a large pan over medium heat, add the olive oil, onion, red and green bell pepper, salt, pepper, paprika, chili powder, cumin, garlic powder, and dried oregano. Mix to combine. </step>
+    <step num="1">Add the lime juice and cook the vegetables until soft, about 5 minutes. </step>
+    <step num="2">Seperate the vegetables in three medium bowls. </step>
+    <step num="3">To one bowl, add the shredded chicken. To another bowl, add the black beans. To the last bowl, add the ground beef. </step>
+    <step num="4">Stir each bowl until everything is incorporated. </step>
+    <step num="5">Cut a tortilla in half with a pizza cutter or knife. </step>
+    <step num="6">Put a spoonful of one of the fillings in the center of the tortilla half and sprinkle with cheese. </step>
+    <step num="7">Fold each corner over the middle, forming a triangle. </step>
+    <step num="8">Flip the tortilla triangle over so the seam is down. </step>
+    <step num="9">Brush the edge of the tortilla with egg wash and press with a fork to seal. </step>
+    <step num="10">Repeat with the remaining tortillas and fillings. </step>
+    <step num="11">In a deep pan, heat two inches of oil to 350°F (180°C). </step>
+    <step num="12">Once the oil is hot, place 2-3 tortilla triangles in the pan and cook on each side for 3 minutes, or until golden brown. </step>
+    <step num="13">Drain the triangles on a rack </step>
+    <step num="14">Serve with cilantro, sour cream, guacamole, and salsa. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pan over medium heat, add the olive oil, onion, red and green bell pepper, salt, pepper, paprika, chili powder, cumin, garlic powder, and dried oregano. </steps_updated>
+    <steps_updated num="1">Mix to combine. </steps_updated>
+    <steps_updated num="2">Add the lime juice and cook the vegetables until soft, about 5 minutes. </steps_updated>
+    <steps_updated num="3">Seperate the vegetables in three medium bowls. </steps_updated>
+    <steps_updated num="4">To one bowl, add the shredded chicken. </steps_updated>
+    <steps_updated num="5">To another bowl, add the black beans. </steps_updated>
+    <steps_updated num="6">To the last bowl, add the ground beef. </steps_updated>
+    <steps_updated num="7">Stir each bowl until everything is incorporated. </steps_updated>
+    <steps_updated num="8">Cut a tortilla in half with a pizza cutter or knife. </steps_updated>
+    <steps_updated num="9">Put a spoonful of one of the fillings in the center of the tortilla half and sprinkle with cheese. </steps_updated>
+    <steps_updated num="10">Fold each corner over the middle, forming a triangle. </steps_updated>
+    <steps_updated num="11">Flip the tortilla triangle over so the seam is down. </steps_updated>
+    <steps_updated num="12">Brush the edge of the tortilla with egg wash and press with a fork to seal. </steps_updated>
+    <steps_updated num="13">Repeat with the remaining tortillas and fillings. </steps_updated>
+    <steps_updated num="14">In a deep pan, heat two inches of oil to 350°F (180°C). </steps_updated>
+    <steps_updated num="15">Once the oil is hot, place 2-3 tortilla triangles in the pan and cook on each side for 3 minutes, or until golden brown. </steps_updated>
+    <steps_updated num="16">Drain the triangles on a rack </steps_updated>
+    <steps_updated num="17">Serve with cilantro, sour cream, guacamole, and salsa. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Southwestern Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-salad</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/make-ahead-mason-jar-salads-for-the-week</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; avocado </ingredient>
+    <ingredient num="1">1 ; lime, juiced </ingredient>
+    <ingredient num="2">2 cloves ; garlic </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="5">½ ; green bell pepper, chopped </ingredient>
+    <ingredient num="6">½ cup ; corn ; (85 g) </ingredient>
+    <ingredient num="7">½ cup ; cherry tomato, halved ; (100 g) </ingredient>
+    <ingredient num="8">¼ cup ; quinoa, cooked ; (40 g) </ingredient>
+    <ingredient num="9">½ cup ; black beans ; (85 g) </ingredient>
+    <ingredient num="10">1 cup ; spinach ; (40 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Dinner</category>
+    <category num="6">Lunch</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/82490/hls24_1520285439.m3u8</low>
+    <high>https://vid.tasty.co/output/82490/landscape_720/1520285439</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>26.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a food processor, combine the avocado, lime juice, garlic, salt, and water. Pulse until smooth, then transfer to a large mason jar. </step>
+    <step num="1">Add the bell pepper, corn, cherry tomatoes, quinoa, black beans, and spinach and screw on the lid. </step>
+    <step num="2">Store in the refrigerator until ready to eat, up to 5 days. </step>
+    <step num="3">Give the mason jar a good shake to mix and use a fork or spoon to stir as needed. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a food processor, combine the avocado, lime juice, garlic, salt, and water. </steps_updated>
+    <steps_updated num="1">Pulse until smooth, then transfer to a large mason jar. </steps_updated>
+    <steps_updated num="2">Add the bell pepper, corn, cherry tomatoes, quinoa, black beans, and spinach and screw on the lid. </steps_updated>
+    <steps_updated num="3">Store in the refrigerator until ready to eat, up to 5 days. </steps_updated>
+    <steps_updated num="4">Give the mason jar a good shake to mix and use a fork or spoon to stir as needed. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00020</start_time>
+    <end_time>00686</end_time>
+  </duration_human>
+</recipe>

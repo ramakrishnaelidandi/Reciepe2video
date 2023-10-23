@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mini Peanut Butter Cheesecakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-peanut-butter-cheesecakes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">24 ; ritz crackers </ingredient>
+    <ingredient num="1">16 oz ; cream cheese ; (450 g) </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">½ cup ; peanut butter ; (120 g) </ingredient>
+    <ingredient num="4">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; vanilla </ingredient>
+    <ingredient num="6">2 ; eggs </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32021/low_1495125060.m3u8</low>
+    <high>https://vid.tasty.co/output/32021/mp4_720x1280/1495125060</high>
+  </video>
+  <steps>
+    <step num="0">Form peanut butter sandwiches with Ritz crackers. </step>
+    <step num="1">Place them in the bottom of each cup of a muffin tin. </step>
+    <step num="2">In a large bowl beat together cream cheese and sugar. </step>
+    <step num="3">Then add peanut butter, sour cream, vanilla, 2 eggs, and beat again. </step>
+    <step num="4">Pour mixture over each peanut butter sandwich until each cup is ¾ full. </step>
+    <step num="5">Top with crushed Ritz cracker. </step>
+    <step num="6">Bake for 22 minutes at 275°F (135°C). Let cool completely and then refrigerate 2 hours. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Form peanut butter sandwiches with Ritz crackers. </steps_updated>
+    <steps_updated num="1">Place them in the bottom of each cup of a muffin tin. </steps_updated>
+    <steps_updated num="2">In a large bowl beat together cream cheese and sugar. </steps_updated>
+    <steps_updated num="3">Then add peanut butter, sour cream, vanilla, 2 eggs, and beat again. </steps_updated>
+    <steps_updated num="4">Pour mixture over each peanut butter sandwich until each cup is ¾ full. </steps_updated>
+    <steps_updated num="5">Top with crushed Ritz cracker. </steps_updated>
+    <steps_updated num="6">Bake for 22 minutes at 275°F (135°C). </steps_updated>
+    <steps_updated num="7">Let cool completely and then refrigerate 2 hours. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

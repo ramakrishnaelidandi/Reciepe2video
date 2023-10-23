@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Shrimp Spinach Bacon Alfredo Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shrimp-bacon-spinach-alfredo</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; oil </ingredient>
+    <ingredient num="1">4 cloves ; garlic cloves, chopped </ingredient>
+    <ingredient num="2">2 lb ; shrimp ; (910 g) </ingredient>
+    <ingredient num="3">3 cups ; spinach ; (120 g) </ingredient>
+    <ingredient num="4">½ ; onion, chopped </ingredient>
+    <ingredient num="5">2 teaspoons ; salt </ingredient>
+    <ingredient num="6">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="7">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="8">1 lb ; fettuccine pasta, cooked ; (455 g) </ingredient>
+    <ingredient num="9">6 slices ; bacon, cooked and chopped </ingredient>
+    <ingredient num="10">1 cup ; parmesan cheese ; (110 g) </ingredient>
+    <ingredient num="11">½ cup ; fresh parsley, chopped ; (20 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Dinner</category>
+    <category num="2">Date Night</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10734/low_1474908002.m3u8</low>
+    <high>https://vid.tasty.co/output/10734/mp4_720x1280/1474908002</high>
+  </video>
+  <steps>
+    <step num="0">Heat oil over medium heat in a large pot. </step>
+    <step num="1">Cook the garlic and the shrimp until the shrimp is pink, then remove the shrimp. </step>
+    <step num="2">Add the spinach, onions, salt, and pepper, cooking until the onions are translucent. </step>
+    <step num="3">Pour in the cream and bring to a boil. </step>
+    <step num="4">Add the fettuccine, stir until the pasta is evenly cooked. </step>
+    <step num="5">Mix in the cooked shrimp, bacon, parmesan, and parsley until the cheese is melted. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat oil over medium heat in a large pot. </steps_updated>
+    <steps_updated num="1">Cook the garlic and the shrimp until the shrimp is pink, then remove the shrimp. </steps_updated>
+    <steps_updated num="2">Add the spinach, onions, salt, and pepper, cooking until the onions are translucent. </steps_updated>
+    <steps_updated num="3">Pour in the cream and bring to a boil. </steps_updated>
+    <steps_updated num="4">Add the fettuccine, stir until the pasta is evenly cooked. </steps_updated>
+    <steps_updated num="5">Mix in the cooked shrimp, bacon, parmesan, and parsley until the cheese is melted. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

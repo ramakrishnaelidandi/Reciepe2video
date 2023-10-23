@@ -1,0 +1,42 @@
+<recipe>
+  <title>Avocado Chicken Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-chicken-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 468 472 </ingredient>
+    <ingredient num="1">12791 2605 13278 12347 3713 13278 13125 5981 </ingredient>
+    <ingredient num="2">3917 14014 13278 9712 10522 </ingredient>
+    <ingredient num="3">1580 8071 13278 11384 11703 </ingredient>
+    <ingredient num="4">1580 8071 13278 13584 7845 </ingredient>
+    <ingredient num="5">3917 8071 13278 82 </ingredient>
+    <ingredient num="6">12791 2605 13278 8083 12384 341 13278 4239 5981 </ingredient>
+    <ingredient num="7">12791 2605 13278 4587 341 13278 13412 5981 </ingredient>
+    <ingredient num="8">3917 14014 13278 3579 341 </ingredient>
+    <ingredient num="9">8580 9517 13278 3745 12816 3962 13278 10339 5981 </ingredient>
+    <ingredient num="10">11114 7280 560 386 2517 </ingredient>
+    <ingredient num="11">6209 6712 560 386 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8855/low_1472768948.m3u8</low>
+    <high>https://vid.tasty.co/output/8855/mp4_720x1280/1472768948</high>
+  </video>
+  <steps>
+    <step num="0">10895 468 2694 7695 11384 8117 13584 10986 13817 82 210 5994 13757 7616 10641 11951 4485 560 13218 7799 </step>
+    <step num="1">9179 12384 4587 3579 13817 7983 669 11951 4485 2373 13817 6142 560 6798 7317 </step>
+    <step num="2">12774 4255 4870 1391 2517 3297 371 11114 13817 1117 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 468 2694 7695 11384 8117 13584 10986 13817 82 210 5994 13757 7616 </steps_updated>
+    <steps_updated num="1">10641 11951 4485 560 13218 7799 </steps_updated>
+    <steps_updated num="2">9179 12384 4587 3579 13817 7983 669 11951 4485 2373 13817 6142 560 6798 7317 </steps_updated>
+    <steps_updated num="3">12774 4255 4870 1391 2517 3297 371 11114 13817 1117 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

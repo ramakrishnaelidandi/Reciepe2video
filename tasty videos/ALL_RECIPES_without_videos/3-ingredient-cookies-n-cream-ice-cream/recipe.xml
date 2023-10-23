@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-Ingredient Cookies ‘n’ Cream Ice Cream Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-cookies-n-cream-ice-cream</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-chocolate-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="1">1 can ; condensed milk </ingredient>
+    <ingredient num="2">40 ; chocolate sandwich cookies </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Snacks</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10854/low_1474994977.m3u8</low>
+    <high>https://vid.tasty.co/output/10854/mp4_720x1280/1474994977</high>
+  </video>
+  <duration>
+    <start_time>2.0</start_time>
+    <end_time>45.4</end_time>
+  </duration>
+  <steps>
+    <step num="0">Separate cookies and cream filling into two different bowls. </step>
+    <step num="1">Pour the cookies into a plastic bag and smash with a rolling pin until they are crumbs. </step>
+    <step num="2">Combine crumbs and condensed milk in a bowl, mix together and set aside. </step>
+    <step num="3">In a large bowl, whip your heavy cream with a hand mixer until stiff peaks form. </step>
+    <step num="4">Fold the cookie mix into the whipped cream and transfer to a deep baking dish. Top with additional cookie crumbs and cream. </step>
+    <step num="5">Freeze for 4 hours. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Separate cookies and cream filling into two different bowls. </steps_updated>
+    <steps_updated num="1">Pour the cookies into a plastic bag and smash with a rolling pin until they are crumbs. </steps_updated>
+    <steps_updated num="2">Combine crumbs and condensed milk in a bowl, mix together and set aside. </steps_updated>
+    <steps_updated num="3">In a large bowl, whip your heavy cream with a hand mixer until stiff peaks form. </steps_updated>
+    <steps_updated num="4">Fold the cookie mix into the whipped cream and transfer to a deep baking dish. </steps_updated>
+    <steps_updated num="5">Top with additional cookie crumbs and cream. </steps_updated>
+    <steps_updated num="6">Freeze for 4 hours. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>01379</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,57 @@
+<recipe>
+  <title>Color-Changing Frozen Mojito Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/color-changing-mojito</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 12282 13278 4492 8007 </ingredient>
+    <ingredient num="1">13086 643 13278 8083 747 4926 13278 7005 5981 </ingredient>
+    <ingredient num="2">3917 2605 13278 4834 13278 6898 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 9712 10522 13278 2935 8007 </ingredient>
+    <ingredient num="4">3917 1580 9517 13278 12282 13278 12067 8007 </ingredient>
+    <ingredient num="5">13767 13278 3878 2526 </ingredient>
+    <ingredient num="6">8580 9486 13278 4617 6160 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+    <category num="4">Happy Hour</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43204/low_1499729472.m3u8</low>
+    <high>https://vid.tasty.co/output/43204/mp4_720x1280/1499729472</high>
+  </video>
+  <steps>
+    <step num="0">9179 12282 13817 8083 2048 560 5994 11435 4771 8785 11951 12282 560 5994 8288 415 1746 11951 2048 210 5994 14546 11770 5994 12377 560 10480 11951 13204 4725 </step>
+    <step num="1">1083 11951 14089 13204 12282 669 2237 2439 8141 1801 217 11484 4709 1391 3917 2605 12462 9443 371 13204 2019 8583 11951 12282 13817 13351 11951 2439 7238 7990 11061 13199 5895 14142 </step>
+    <step num="2">9179 11951 8276 13204 12282 560 5994 10083 1391 11951 4834 13817 14238 560 5994 1002 1681 11951 4834 7312 10033 2257 5292 </step>
+    <step num="3">10895 11951 9712 10522 1391 5965 12067 9443 9517 371 12282 13817 6142 560 1011 1083 11951 9712 2373 669 2237 2439 7238 13817 13351 7990 11061 13199 3386 560 14142 </step>
+    <step num="4">9179 11951 13204 2439 4530 560 5994 12027 13817 1279 1681 11588 4999 10838 11951 5614 13204 2439 210 5994 6369 </step>
+    <step num="5">5104 11951 12027 3631 </step>
+    <step num="6">9179 11951 9712 2439 4530 13817 6735 3878 1550 3262 1681 11588 4999 10838 11951 5614 9712 13817 3878 2439 4255 10707 371 11951 13204 13710 </step>
+    <step num="7">269 5406 11951 4617 6160 13817 13204 3575 12911 13494 1391 5994 1113 371 7807 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 12282 13817 8083 2048 560 5994 11435 4771 </steps_updated>
+    <steps_updated num="1">8785 11951 12282 560 5994 8288 415 1746 11951 2048 210 5994 14546 11770 5994 12377 560 10480 11951 13204 4725 </steps_updated>
+    <steps_updated num="2">1083 11951 14089 13204 12282 669 2237 2439 8141 </steps_updated>
+    <steps_updated num="3">1801 217 11484 4709 1391 3917 2605 12462 9443 371 13204 2019 </steps_updated>
+    <steps_updated num="4">8583 11951 12282 13817 13351 11951 2439 7238 7990 11061 13199 5895 14142 </steps_updated>
+    <steps_updated num="5">9179 11951 8276 13204 12282 560 5994 10083 1391 11951 4834 13817 14238 560 5994 1002 1681 11951 4834 7312 10033 </steps_updated>
+    <steps_updated num="6">2257 5292 </steps_updated>
+    <steps_updated num="7">10895 11951 9712 10522 1391 5965 12067 9443 9517 371 12282 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="8">1083 11951 9712 2373 669 2237 2439 7238 13817 13351 7990 11061 13199 3386 560 14142 </steps_updated>
+    <steps_updated num="9">9179 11951 13204 2439 4530 560 5994 12027 13817 1279 1681 11588 4999 </steps_updated>
+    <steps_updated num="10">10838 11951 5614 13204 2439 210 5994 6369 </steps_updated>
+    <steps_updated num="11">5104 11951 12027 3631 </steps_updated>
+    <steps_updated num="12">9179 11951 9712 2439 4530 13817 6735 3878 1550 </steps_updated>
+    <steps_updated num="13">3262 1681 11588 4999 </steps_updated>
+    <steps_updated num="14">10838 11951 5614 9712 13817 3878 2439 4255 10707 371 11951 13204 13710 </steps_updated>
+    <steps_updated num="15">269 5406 11951 4617 6160 13817 13204 3575 12911 </steps_updated>
+    <steps_updated num="16">13494 1391 5994 1113 371 7807 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

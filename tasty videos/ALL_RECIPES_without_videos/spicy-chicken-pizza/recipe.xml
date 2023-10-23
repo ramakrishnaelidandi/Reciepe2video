@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spicy Chicken Pizza Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spicy-chicken-pizza</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¾ cup ; pizza sauce ; (180 mL) </ingredient>
+    <ingredient num="1">1 ½ tablespoons ; Frank's Red Hot Original, plus more for drizzling </ingredient>
+    <ingredient num="2">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="3">1 ½ teaspoons ; cornmeal </ingredient>
+    <ingredient num="4">1 lb ; pizza dough ; (455 g) </ingredient>
+    <ingredient num="5">1 ½ cups ; shredded mozzarella cheese ; (150 g) </ingredient>
+    <ingredient num="6">1 ½ cups ; shredded chicken ; (190 g) </ingredient>
+    <ingredient num="7">3 pieces ; bacon, torn into ½-inch (1 1/4 cm) pieces </ingredient>
+    <ingredient num="8">1 small handful ; fresh baby spinach </ingredient>
+    <ingredient num="9">¾ cup ; cherry tomato, halved ; (150 g) </ingredient>
+    <ingredient num="10">2 tablespoons ; red onion, minced </ingredient>
+    <ingredient num="11">ranch dressing, for drizzling </ingredient>
+  </ingredients>
+  <video>
+    <low>https://vid.tasty.co/output/132661/hls24_1557802187.m3u8</low>
+    <high>https://vid.tasty.co/output/132661/landscape_720/1557802187</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 450ºF (230ºC). </step>
+    <step num="1">In a small bowl, whisk together pizza sauce with Frank’s Red Hot Original. Set aside. </step>
+    <step num="2">Drizzle a 12-inch (30 ½ cm) cast iron skillet with olive oil. Use your hand or a paper towel to evenly coat the pan with oil. Sprinkle pan with cornmeal. </step>
+    <step num="3">Press pizza dough into the pan so that it covers the whole surface evenly. </step>
+    <step num="4">Spread spicy pizza sauce on the dough. Top with mozzarella, chicken, and bacon. Scatter spinach, cherry tomatoes, and red onion on top. </step>
+    <step num="5">Bake pizza for 14–16 minutes until edges are browned and crisp. </step>
+    <step num="6">Remove from oven and let cool for 5 minutes, then drizzle with Frank’s Red Hot Original and ranch dressing. Slice and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 450ºF (230ºC). </steps_updated>
+    <steps_updated num="1">In a small bowl, whisk together pizza sauce with Frank’s Red Hot Original. </steps_updated>
+    <steps_updated num="2">Set aside. </steps_updated>
+    <steps_updated num="3">Drizzle a 12-inch (30 ½ cm) cast iron skillet with olive oil. </steps_updated>
+    <steps_updated num="4">Use your hand or a paper towel to evenly coat the pan with oil. </steps_updated>
+    <steps_updated num="5">Sprinkle pan with cornmeal. </steps_updated>
+    <steps_updated num="6">Press pizza dough into the pan so that it covers the whole surface evenly. </steps_updated>
+    <steps_updated num="7">Spread spicy pizza sauce on the dough. </steps_updated>
+    <steps_updated num="8">Top with mozzarella, chicken, and bacon. </steps_updated>
+    <steps_updated num="9">Scatter spinach, cherry tomatoes, and red onion on top. </steps_updated>
+    <steps_updated num="10">Bake pizza for 14–16 minutes until edges are browned and crisp. </steps_updated>
+    <steps_updated num="11">Remove from oven and let cool for 5 minutes, then drizzle with Frank’s Red Hot Original and ranch dressing. </steps_updated>
+    <steps_updated num="12">Slice and serve. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

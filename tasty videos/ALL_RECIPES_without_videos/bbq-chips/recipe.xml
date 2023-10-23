@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>BBQ Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bbq-chips</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/baked-potato-chips-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3 ; gold potatoes </ingredient>
+    <ingredient num="1">1 tablespoon ; cooking oil </ingredient>
+    <ingredient num="2">1 tablespoon ; paprika </ingredient>
+    <ingredient num="3">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="4">2 tablespoons ; brown sugar </ingredient>
+    <ingredient num="5">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">1 tablespoon ; pepper </ingredient>
+    <ingredient num="7">1 tablespoon ; salt </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">BBQ</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12485/low_1476915695.m3u8</low>
+    <high>https://vid.tasty.co/output/12485/mp4_720x1280/1476915695</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>44.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350ºF (175ºC). </step>
+    <step num="1">Carefully slice 3 gold potatoes into ⅛-inch (3-mm) slices using a knife or mandoline. </step>
+    <step num="2">In a large bowl, mix the potato chips with ingredients. </step>
+    <step num="3">Arrange chips on greased baking sheet. </step>
+    <step num="4">Bake for 30-35 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350ºF (175ºC). </steps_updated>
+    <steps_updated num="1">Carefully slice 3 gold potatoes into ⅛-inch (3-mm) slices using a knife or mandoline. </steps_updated>
+    <steps_updated num="2">In a large bowl, mix the potato chips with ingredients. </steps_updated>
+    <steps_updated num="3">Arrange chips on greased baking sheet. </steps_updated>
+    <steps_updated num="4">Bake for 30-35 minutes. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Alfredo Lasagna Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-alfredo-lasagna</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">4 teaspoons ; salt </ingredient>
+    <ingredient num="2">4 teaspoons ; pepper </ingredient>
+    <ingredient num="3">4 teaspoons ; garlic powder </ingredient>
+    <ingredient num="4">4 tablespoons ; canola oil </ingredient>
+    <ingredient num="5">3 cloves ; garlic, minced </ingredient>
+    <ingredient num="6">½ ; medium white onion, finely chopped </ingredient>
+    <ingredient num="7">2 cups ; heavy cream ; (480 mL) </ingredient>
+    <ingredient num="8">½ cup ; shredded parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="9">1 cup ; fresh parsley, chopped ; (35 g) </ingredient>
+    <ingredient num="10">10 ; lasagna noodles, cooked </ingredient>
+    <ingredient num="11">2 cups ; shredded mozzarella cheese ; (200 g) </ingredient>
+    <ingredient num="12">6 strips ; bacon, cooked and crumbled </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/18737/low_1482260634.m3u8</low>
+    <high>https://vid.tasty.co/output/18737/mp4_720x1280/1482260634</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (180°C). </step>
+    <step num="1">Slice each chicken breasts in half lengthwise and sprinkle 1 teaspoon of salt, pepper, and garlic powder evenly on both sides of each chicken breast. </step>
+    <step num="2">Heat oil in a large pan over high heat, then sear the chicken for about 1 minute per side. They will continue to cook through in the oven later on. </step>
+    <step num="3">In the residual oil (drain some if necessary), toss in the garlic and onions, stirring constantly until the mixture has started to brown. </step>
+    <step num="4">Pour in the cream, stirring until it starts to boil, then add the parmesan and parsley. </step>
+    <step num="5">Cook for 1 additional minute, then remove from heat. </step>
+    <step num="6">In a 9" x 13" (23cm x 33cm) rectangular baking pan, spread about ¼ of the cream mixture on the bottom. </step>
+    <step num="7">Lay enough lasagna noodles to cover the sauce, then spread about ½ of the remaining cream mixture on top. </step>
+    <step num="8">Place enough chicken breasts to cover the sauce, then sprinkle with half of the mozzarella, followed by half of the bacon and half of the parsley. </step>
+    <step num="9">Repeat the layers once more, starting with noodles, sauce, chicken, bacon, parsley, and mozzarella. </step>
+    <step num="10">Bake for about 25 minutes, until the cheese is golden brown. </step>
+    <step num="11">Cool for about 15 minutes, slice, and serve! </step>
+    <step num="12">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Slice each chicken breasts in half lengthwise and sprinkle 1 teaspoon of salt, pepper, and garlic powder evenly on both sides of each chicken breast. </steps_updated>
+    <steps_updated num="2">Heat oil in a large pan over high heat, then sear the chicken for about 1 minute per side. </steps_updated>
+    <steps_updated num="3">They will continue to cook through in the oven later on. </steps_updated>
+    <steps_updated num="4">In the residual oil (drain some if necessary), toss in the garlic and onions, stirring constantly until the mixture has started to brown. </steps_updated>
+    <steps_updated num="5">Pour in the cream, stirring until it starts to boil, then add the parmesan and parsley. </steps_updated>
+    <steps_updated num="6">Cook for 1 additional minute, then remove from heat. </steps_updated>
+    <steps_updated num="7">In a 9" x 13" (23cm x 33cm) rectangular baking pan, spread about ¼ of the cream mixture on the bottom. </steps_updated>
+    <steps_updated num="8">Lay enough lasagna noodles to cover the sauce, then spread about ½ of the remaining cream mixture on top. </steps_updated>
+    <steps_updated num="9">Place enough chicken breasts to cover the sauce, then sprinkle with half of the mozzarella, followed by half of the bacon and half of the parsley. </steps_updated>
+    <steps_updated num="10">Repeat the layers once more, starting with noodles, sauce, chicken, bacon, parsley, and mozzarella. </steps_updated>
+    <steps_updated num="11">Bake for about 25 minutes, until the cheese is golden brown. </steps_updated>
+    <steps_updated num="12">Cool for about 15 minutes, slice, and serve! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

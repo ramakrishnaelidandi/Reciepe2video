@@ -1,0 +1,52 @@
+<recipe>
+  <title>Garlic Mashed Potatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-mashed-potatoes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/thanksgiving-staples-if-you-only-have-a-microwave</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 13278 8083 2274 341 </ingredient>
+    <ingredient num="1">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="2">1580 2605 13278 5802 13278 2935 8007 </ingredient>
+    <ingredient num="3">3917 8071 13278 3855 82 </ingredient>
+    <ingredient num="4">3917 14014 13278 9924 </ingredient>
+    <ingredient num="5">10986 560 11567 </ingredient>
+    <ingredient num="6">6209 11292 1404 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Sides</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/114497/hls24_1541542908.m3u8</low>
+    <high>https://vid.tasty.co/output/114497/landscape_720/1541542908</high>
+  </video>
+  <duration>
+    <start_time>139.0</start_time>
+    <end_time>169.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 740 11951 13233 13817 11384 13817 6142 1681 3584 4309 </step>
+    <step num="1">6688 7990 1797 12689 6054 6781 11951 12377 6781 11951 8400 </step>
+    <step num="2">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 9889 12610 13817 9924 13817 6142 560 1011 </step>
+    <step num="3">1083 11951 5802 2373 11770 11951 13950 </step>
+    <step num="4">6688 7990 8580 12689 </step>
+    <step num="5">6054 6781 11951 10503 13817 12833 11951 13233 1391 5994 11206 </step>
+    <step num="6">9179 11951 7845 13817 6142 560 502 </step>
+    <step num="7">13688 1391 7532 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 740 11951 13233 13817 11384 13817 6142 1681 3584 4309 </steps_updated>
+    <steps_updated num="1">6688 7990 1797 12689 </steps_updated>
+    <steps_updated num="2">6054 6781 11951 12377 6781 11951 8400 </steps_updated>
+    <steps_updated num="3">10950 5994 881 8266 2605 5895 2192 14511 4120 11951 9889 12610 13817 9924 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="4">1083 11951 5802 2373 11770 11951 13950 </steps_updated>
+    <steps_updated num="5">6688 7990 8580 12689 </steps_updated>
+    <steps_updated num="6">6054 6781 11951 10503 13817 12833 11951 13233 1391 5994 11206 </steps_updated>
+    <steps_updated num="7">9179 11951 7845 13817 6142 560 502 </steps_updated>
+    <steps_updated num="8">13688 1391 7532 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

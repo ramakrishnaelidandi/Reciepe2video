@@ -1,0 +1,46 @@
+<recipe>
+  <title>Kiwi Strawberry Popsicles Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/kiwi-strawberry-popsicles</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fruit-popsicles-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 6114 13278 757 5981 </ingredient>
+    <ingredient num="1">3917 2605 13278 2585 13278 10475 5981 </ingredient>
+    <ingredient num="2">3917 1580 9517 13278 12282 13278 1536 8007 </ingredient>
+    <ingredient num="3">5298 4818 1391 11061 8203 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Desserts</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Snacks</category>
+    <category num="8">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31130/low_1494260052.m3u8</low>
+    <high>https://vid.tasty.co/output/31130/mp4_720x1280/1494260052</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>22.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">14100 2581 13817 13873 669 7497 10832 6054 2585 14247 13817 7346 6114 9277 </step>
+    <step num="1">1349 11951 5298 14426 1391 11951 11682 </step>
+    <step num="2">1349 210 11951 1618 371 5910 1391 2019 </step>
+    <step num="3">13855 11951 4327 7990 7811 767 2933 14329 </step>
+    <step num="4">12946 11951 11579 4327 2696 371 11951 2439 8100 13817 8497 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 2581 13817 13873 669 7497 10832 </steps_updated>
+    <steps_updated num="1">6054 2585 14247 13817 7346 6114 9277 </steps_updated>
+    <steps_updated num="2">1349 11951 5298 14426 1391 11951 11682 </steps_updated>
+    <steps_updated num="3">1349 210 11951 1618 371 5910 1391 2019 </steps_updated>
+    <steps_updated num="4">13855 11951 4327 7990 7811 767 2933 14329 </steps_updated>
+    <steps_updated num="5">12946 11951 11579 4327 2696 371 11951 2439 8100 13817 8497 </steps_updated>
+  </steps_updated>
+</recipe>

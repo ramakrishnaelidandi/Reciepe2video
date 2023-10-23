@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vegan Pad Thai Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vegan-pad-thai</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; rice vinegar ; (60 mL) </ingredient>
+    <ingredient num="1">⅓ cup ; soy sauce ; (80 mL) </ingredient>
+    <ingredient num="2">⅓ cup ; brown sugar ; (75 g) </ingredient>
+    <ingredient num="3">¼ cup ; vegan worcestershire ; (60 mL) </ingredient>
+    <ingredient num="4">¼ cup ; tamarind paste ; (55 g) </ingredient>
+    <ingredient num="5">8 oz ; dried rice noodles ; (225 g) </ingredient>
+    <ingredient num="6">2 tablespoons ; peanut oil </ingredient>
+    <ingredient num="7">½ bunch ; green onion, or chinese chives. sliced plus more for serving </ingredient>
+    <ingredient num="8">2 ; red thai chiles, sliced, plus more for serving </ingredient>
+    <ingredient num="9">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="10">2 ; carrots, peeled into ribbons </ingredient>
+    <ingredient num="11">½ cup ; bean sprout ; (50 g) </ingredient>
+    <ingredient num="12">¼ cup ; roasted unsalted peanut ; (30 g) </ingredient>
+    <ingredient num="13">8 oz ; tofu, cooked, cubed ; (110 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Thai</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88494/hls24_1523053998.m3u8</low>
+    <high>https://vid.tasty.co/output/88494/landscape_720/1523053998</high>
+  </video>
+  <steps>
+    <step num="0">Soak the rice noodles in room-temperature water for 30 minutes prior to cooking. </step>
+    <step num="1">Make the sauce: in a small saucepan over medium-high heat, whisk together the rice vinegar, soy sauce, brown sugar, Worcestershire sauce, and tamarind paste. </step>
+    <step num="2">Bring to a boil, then reduce the heat to low. Simmer for 5 minutes, stirring constantly, until the sauce thickens and coats the back of a wooden spoon. Remove the sauce from the heat and set aside. </step>
+    <step num="3">Heat a large cast-iron pan or wok over high heat. Add the peanut oil, scallions, chiles, and garlic. Stir, and cook for about 2 minutes until scallions soften. </step>
+    <step num="4">Add the carrots, stir to incorporate, and cook for about 1 minute. Add the bean sprouts and stir to incorporate. </step>
+    <step num="5">Add soaked rice noodles and stir to evenly distribute all ingredients, then stir for 1-2 minutes to heat the noodles through. </step>
+    <step num="6">Add the sauce and stir to combine. </step>
+    <step num="7">Add the tofu, stir to incorporate, and remove the pan from the heat. </step>
+    <step num="8">Serve immediately with peanuts, bean sprouts, scallions, and red chiles, if desired. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak the rice noodles in room-temperature water for 30 minutes prior to cooking. </steps_updated>
+    <steps_updated num="1">Make the sauce: in a small saucepan over medium-high heat, whisk together the rice vinegar, soy sauce, brown sugar, Worcestershire sauce, and tamarind paste. </steps_updated>
+    <steps_updated num="2">Bring to a boil, then reduce the heat to low. </steps_updated>
+    <steps_updated num="3">Simmer for 5 minutes, stirring constantly, until the sauce thickens and coats the back of a wooden spoon. </steps_updated>
+    <steps_updated num="4">Remove the sauce from the heat and set aside. </steps_updated>
+    <steps_updated num="5">Heat a large cast-iron pan or wok over high heat. </steps_updated>
+    <steps_updated num="6">Add the peanut oil, scallions, chiles, and garlic. </steps_updated>
+    <steps_updated num="7">Stir, and cook for about 2 minutes until scallions soften. </steps_updated>
+    <steps_updated num="8">Add the carrots, stir to incorporate, and cook for about 1 minute. </steps_updated>
+    <steps_updated num="9">Add the bean sprouts and stir to incorporate. </steps_updated>
+    <steps_updated num="10">Add soaked rice noodles and stir to evenly distribute all ingredients, then stir for 1-2 minutes to heat the noodles through. </steps_updated>
+    <steps_updated num="11">Add the sauce and stir to combine. </steps_updated>
+    <steps_updated num="12">Add the tofu, stir to incorporate, and remove the pan from the heat. </steps_updated>
+    <steps_updated num="13">Serve immediately with peanuts, bean sprouts, scallions, and red chiles, if desired. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

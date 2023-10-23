@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>American Chili Cheese Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/american-chili-cheese-fries</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fries-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; oil </ingredient>
+    <ingredient num="1">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; kosher salt, plus more to taste </ingredient>
+    <ingredient num="3">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="4">1 tablespoon ; ground cumin </ingredient>
+    <ingredient num="5">1 tablespoon ; chili powder </ingredient>
+    <ingredient num="6">1 tablespoon ; smoked paprika </ingredient>
+    <ingredient num="7">1 teaspoon ; cayenne </ingredient>
+    <ingredient num="8">1 ; large yellow onion, chopped </ingredient>
+    <ingredient num="9">1 ; red bell pepper, seeded and chopped </ingredient>
+    <ingredient num="10">6 cloves ; garlic, minced </ingredient>
+    <ingredient num="11">2 ; chipotle peppers in adobo sauce, chopped </ingredient>
+    <ingredient num="12">12 oz ; tomato paste ; (340 g) </ingredient>
+    <ingredient num="13">12 oz ; chopped tomato, 1 can ; (340 g) </ingredient>
+    <ingredient num="14">2 cups ; beef broth ; (480 mL) </ingredient>
+    <ingredient num="15">15 oz ; black beans, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="16">15 oz ; red kidney bean, 1 can, drained and rinsed ; (425 g) </ingredient>
+    <ingredient num="17">1 lb ; french fries, cooked, hot ; (455 g) </ingredient>
+    <ingredient num="18">shredded cheddar cheese, for serving </ingredient>
+    <ingredient num="19">sour cream, for serving </ingredient>
+    <ingredient num="20">green onion, sliced, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Sides</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/106044/hls24_1534872643.m3u8</low>
+    <high>https://vid.tasty.co/output/106044/landscape_720/1534872643</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the oil in a large pot over medium-high heat. Add the beef and stir to break up. Season with the salt, pepper, cumin, chili powder, paprika, and cayenne. Stir and cook until deep brown in color, 10-15 minutes. </step>
+    <step num="1">Add the onion, bell pepper, garlic, chipotles, and a pinch of salt. Cook until the vegetables are softened, about 10 minutes. </step>
+    <step num="2">Add the tomato paste and cook until it darkens, becomes aromatic, and starts sticking to the bottom of the pan, 10 minutes. </step>
+    <step num="3">Add the chopped tomatoes, beef broth, black beans, and kidney beans. Stir to incorporate, then bring to a boil. Cover, reduce the heat to low, and simmer for at least 30 minutes or up to 2 hours. </step>
+    <step num="4">Ladle the chili over the fries and top with cheddar cheese, sour cream, and green onions. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the oil in a large pot over medium-high heat. </steps_updated>
+    <steps_updated num="1">Add the beef and stir to break up. </steps_updated>
+    <steps_updated num="2">Season with the salt, pepper, cumin, chili powder, paprika, and cayenne. </steps_updated>
+    <steps_updated num="3">Stir and cook until deep brown in color, 10-15 minutes. </steps_updated>
+    <steps_updated num="4">Add the onion, bell pepper, garlic, chipotles, and a pinch of salt. </steps_updated>
+    <steps_updated num="5">Cook until the vegetables are softened, about 10 minutes. </steps_updated>
+    <steps_updated num="6">Add the tomato paste and cook until it darkens, becomes aromatic, and starts sticking to the bottom of the pan, 10 minutes. </steps_updated>
+    <steps_updated num="7">Add the chopped tomatoes, beef broth, black beans, and kidney beans. </steps_updated>
+    <steps_updated num="8">Stir to incorporate, then bring to a boil. </steps_updated>
+    <steps_updated num="9">Cover, reduce the heat to low, and simmer for at least 30 minutes or up to 2 hours. </steps_updated>
+    <steps_updated num="10">Ladle the chili over the fries and top with cheddar cheese, sour cream, and green onions. </steps_updated>
+    <steps_updated num="11">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05649</start_time>
+    <end_time>07151</end_time>
+  </duration_human>
+</recipe>

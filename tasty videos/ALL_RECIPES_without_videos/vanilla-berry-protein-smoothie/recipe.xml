@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Vanilla Berry Protein Smoothie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/vanilla-berry-protein-smoothie</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/protein-smoothies-5-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; water, or yogurt or milk of choice ; (350 mL) </ingredient>
+    <ingredient num="1">1 scoop ; vanilla protein powder </ingredient>
+    <ingredient num="2">1 cup ; strawberry, frozen ; (150 g) </ingredient>
+    <ingredient num="3">1 cup ; blueberry, frozen ; (100 g) </ingredient>
+    <ingredient num="4">½ cup ; raspberry, frozen ; (60 g) </ingredient>
+    <ingredient num="5">½ cup ; blackberry, frozen ; (75 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33117/low_1496253209.m3u8</low>
+    <high>https://vid.tasty.co/output/33117/mp4_720x1280/1496253209</high>
+  </video>
+  <duration>
+    <start_time>13.25</start_time>
+    <end_time>28.14</end_time>
+  </duration>
+  <steps>
+    <step num="0">Put all ingredients into a blender and mix until smooth. </step>
+    <step num="1">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Put all ingredients into a blender and mix until smooth. </steps_updated>
+    <steps_updated num="1">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00458</start_time>
+    <end_time>00865</end_time>
+  </duration_human>
+</recipe>

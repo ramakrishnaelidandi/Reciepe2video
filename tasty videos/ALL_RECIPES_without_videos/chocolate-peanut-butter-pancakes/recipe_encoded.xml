@@ -1,0 +1,46 @@
+<recipe>
+  <title>Chocolate Peanut Butter Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-peanut-butter-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/nutritious-pancakes-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 2605 13278 5802 13278 12462 8007 </ingredient>
+    <ingredient num="1">3917 13278 6216 </ingredient>
+    <ingredient num="2">12791 2605 13278 13798 9924 13278 13125 5981 </ingredient>
+    <ingredient num="3">3917 2605 13278 2168 890 13278 6518 5981 </ingredient>
+    <ingredient num="4">12791 8071 13278 82 </ingredient>
+    <ingredient num="5">8580 2031 13278 10765 11703 </ingredient>
+    <ingredient num="6">1580 2605 13278 5475 4680 8086 13278 585 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/19445/low_1482864702.m3u8</low>
+    <high>https://vid.tasty.co/output/19445/mp4_720x1280/1482864702</high>
+  </video>
+  <duration>
+    <start_time>92.0</start_time>
+    <end_time>130.6</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 14511 10968 11951 9889 4036 13817 13798 14057 2257 5292 </step>
+    <step num="1">10950 5994 10909 14511 4120 6467 12610 13817 10765 785 1083 6118 2373 669 2068 740 13826 13817 10968 13948 </step>
+    <step num="2">1083 2650 4428 210 12791 2605 13125 9443 1730 4255 5994 12352 5895 10060 11770 3996 2082 </step>
+    <step num="3">264 1681 8693 260 4255 11951 12605 371 11951 6576 415 10954 13817 2550 11951 11649 145 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 14511 10968 11951 9889 4036 13817 13798 14057 </steps_updated>
+    <steps_updated num="1">2257 5292 </steps_updated>
+    <steps_updated num="2">10950 5994 10909 14511 4120 6467 12610 13817 10765 785 </steps_updated>
+    <steps_updated num="3">1083 6118 2373 669 2068 740 13826 13817 10968 13948 </steps_updated>
+    <steps_updated num="4">1083 2650 4428 210 12791 2605 13125 9443 1730 4255 5994 12352 5895 10060 11770 3996 2082 </steps_updated>
+    <steps_updated num="5">264 1681 8693 260 4255 11951 12605 371 11951 6576 415 10954 13817 2550 11951 11649 145 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Homemade Apple Cider Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/homemade-apple-cider</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; granny smith apples, sliced </ingredient>
+    <ingredient num="1">4 ; red delicious apples, sliced </ingredient>
+    <ingredient num="2">1 ; orange, sliced </ingredient>
+    <ingredient num="3">1 ½ tablespoons ; whole allspice </ingredient>
+    <ingredient num="4">1 ½ tablespoons ; whole clove </ingredient>
+    <ingredient num="5">3 ; cinnamon sticks </ingredient>
+    <ingredient num="6">8 cups ; water ; (1.9 L) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Drinks</category>
+    <category num="6">Kid-Friendly</category>
+    <category num="7">Casual Party</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57947/low_1508804266.m3u8</low>
+    <high>https://vid.tasty.co/output/57947/mp4_720x1280/1508804266</high>
+  </video>
+  <steps>
+    <step num="0">Place fruit and spices into a slow cooker. </step>
+    <step num="1">Add 8 cups of water. </step>
+    <step num="2">Cook on high heat for 3-4 hours. </step>
+    <step num="3">Uncover the slow cooker, and mash the softened fruit with a potato masher. </step>
+    <step num="4">Cover again and cook on low for 1-2 hours. </step>
+    <step num="5">Strain out fruit and spices from the slow cooker into a cheesecloth in a bowl. </step>
+    <step num="6">Wait about 20-30 minutes for the cheesecloth to cool. Squeeze out cider from cheesecloth into the bowl. Pour the cider back into the slow cooker. </step>
+    <step num="7">Serve warm. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place fruit and spices into a slow cooker. </steps_updated>
+    <steps_updated num="1">Add 8 cups of water. </steps_updated>
+    <steps_updated num="2">Cook on high heat for 3-4 hours. </steps_updated>
+    <steps_updated num="3">Uncover the slow cooker, and mash the softened fruit with a potato masher. </steps_updated>
+    <steps_updated num="4">Cover again and cook on low for 1-2 hours. </steps_updated>
+    <steps_updated num="5">Strain out fruit and spices from the slow cooker into a cheesecloth in a bowl. </steps_updated>
+    <steps_updated num="6">Wait about 20-30 minutes for the cheesecloth to cool. </steps_updated>
+    <steps_updated num="7">Squeeze out cider from cheesecloth into the bowl. </steps_updated>
+    <steps_updated num="8">Pour the cider back into the slow cooker. </steps_updated>
+    <steps_updated num="9">Serve warm. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

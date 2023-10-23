@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buffalo Chicken Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-chicken-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; cooked chicken ; (905 g) </ingredient>
+    <ingredient num="1">1 cup ; hot sauce ; (260 g) </ingredient>
+    <ingredient num="2">½ cup ; ranch dressing ; (122 g) </ingredient>
+    <ingredient num="3">9 oz ; tortilla chips ; (255 g) </ingredient>
+    <ingredient num="4">2 cups ; monterey jack cheese ; (220 g) </ingredient>
+    <ingredient num="5">½ ; tomato, diced </ingredient>
+    <ingredient num="6">½ cup ; green onions, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43246/low_1499795807.m3u8</low>
+    <high>https://vid.tasty.co/output/43246/mp4_720x1280/1499795807</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F/175°C. </step>
+    <step num="1">In a bowl, mix the chicken with the hot sauce and the ranch. </step>
+    <step num="2">In a large pan or skillet, lay down half of the tortilla chips, followed by half of the buffalo chicken, Monterey Jack, tomato, and green onions. Repeat with the remaining half of the ingredients. </step>
+    <step num="3">Bake for 15 minutes, until cheese is melted. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F/175°C. </steps_updated>
+    <steps_updated num="1">In a bowl, mix the chicken with the hot sauce and the ranch. </steps_updated>
+    <steps_updated num="2">In a large pan or skillet, lay down half of the tortilla chips, followed by half of the buffalo chicken, Monterey Jack, tomato, and green onions. </steps_updated>
+    <steps_updated num="3">Repeat with the remaining half of the ingredients. </steps_updated>
+    <steps_updated num="4">Bake for 15 minutes, until cheese is melted. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

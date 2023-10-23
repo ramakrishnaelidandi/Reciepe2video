@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Southwestern Salad With Avocado Dressing Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/southwestern-salad-with-avocado-dressing</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; avocado, halved </ingredient>
+    <ingredient num="1">1 clove ; garlic </ingredient>
+    <ingredient num="2">½ teaspoon ; salt </ingredient>
+    <ingredient num="3">½ teaspoon ; pepper </ingredient>
+    <ingredient num="4">¼ cup ; olive oil ; (60 mL) </ingredient>
+    <ingredient num="5">1 tablespoon ; fresh cilantro </ingredient>
+    <ingredient num="6">1 ; lime, juiced </ingredient>
+    <ingredient num="7">1 head ; lettuce, chopped </ingredient>
+    <ingredient num="8">1 cup ; bell pepper, chopped ; (100 g) </ingredient>
+    <ingredient num="9">¼ cup ; fresh cilantro ; (10 g) </ingredient>
+    <ingredient num="10">15 oz ; black beans, 1 can ; (425 g) </ingredient>
+    <ingredient num="11">½ cup ; red onion, chopped ; (75 g) </ingredient>
+    <ingredient num="12">15 oz ; corn, 1 can ; (425 g) </ingredient>
+    <ingredient num="13">¼ cup ; scallion ; (35 g) </ingredient>
+    <ingredient num="14">¾ cup ; tomato, chopped ; (150 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14075/low_1478559553.m3u8</low>
+    <high>https://vid.tasty.co/output/14075/mp4_720x1280/1478559553</high>
+  </video>
+  <steps>
+    <step num="0">Add all dressing ingredients to a blender, blend until smooth. </step>
+    <step num="1">In a large bowl add lettuce, peppers, cilantro, beans, onion, corn, green onion, and tomatoes. </step>
+    <step num="2">Top with prepared dressing; toss to coat. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add all dressing ingredients to a blender, blend until smooth. </steps_updated>
+    <steps_updated num="1">In a large bowl add lettuce, peppers, cilantro, beans, onion, corn, green onion, and tomatoes. </steps_updated>
+    <steps_updated num="2">Top with prepared dressing; toss to coat. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

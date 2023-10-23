@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Meatball Sub Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/meatball-sub-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tube ; refrigerated biscuit </ingredient>
+    <ingredient num="1">1 jar ; marinara sauce </ingredient>
+    <ingredient num="2">24 ; frozen mini meatballs </ingredient>
+    <ingredient num="3">2 cups ; shredded mozzarella cheese ; (200 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Lunch</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32066/low_1495125014.m3u8</low>
+    <high>https://vid.tasty.co/output/32066/mp4_720x1280/1495125014</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">Cut each refrigerated biscuit into 8 pieces. Place in a greased 9x13 inch (23x33 cm) baking dish. </step>
+    <step num="2">Pour on the sauce, and stir to coat all sides of the biscuits. </step>
+    <step num="3">Place the meatballs on top of the mixture. </step>
+    <step num="4">Top with the shredded cheese, and bake for 35 minutes. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">Cut each refrigerated biscuit into 8 pieces. </steps_updated>
+    <steps_updated num="2">Place in a greased 9x13 inch (23x33 cm) baking dish. </steps_updated>
+    <steps_updated num="3">Pour on the sauce, and stir to coat all sides of the biscuits. </steps_updated>
+    <steps_updated num="4">Place the meatballs on top of the mixture. </steps_updated>
+    <steps_updated num="5">Top with the shredded cheese, and bake for 35 minutes. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

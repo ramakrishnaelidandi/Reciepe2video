@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Rainbow Veggie Pinwheels Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/rainbow-veggie-pinwheels</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-yummy-snacks-for-a-boozy-night-in</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; chickpeas, drained and rinsed ; (330 g) </ingredient>
+    <ingredient num="1">1 ½ teaspoons ; salt </ingredient>
+    <ingredient num="2">½ teaspoon ; pepper </ingredient>
+    <ingredient num="3">½ teaspoon ; cumin </ingredient>
+    <ingredient num="4">¼ cup ; tahini paste ; (60 g) </ingredient>
+    <ingredient num="5">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="6">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="7">1 package ; whole wheat tortillas </ingredient>
+    <ingredient num="8">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="9">2 ; carrots, sliced </ingredient>
+    <ingredient num="10">1 ; yellow bell pepper, sliced </ingredient>
+    <ingredient num="11">1 ; cucumber, sliced </ingredient>
+    <ingredient num="12">¼ ; shredded purple cabbage </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Snacks</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/55365/low_1507329411.m3u8</low>
+    <high>https://vid.tasty.co/output/55365/mp4_720x1280/1507329411</high>
+  </video>
+  <duration>
+    <start_time>47.85</start_time>
+    <end_time>68.85</end_time>
+  </duration>
+  <steps>
+    <step num="0">In the bowl of a food processor, add the drained chickpeas, salt, pepper, cumin, tahini paste, lemon juice, and olive oil and pureé until smooth. </step>
+    <step num="1">On a whole wheat tortilla, spoon on some hummus and add slices of red pepper, carrot, yellow pepper, cucumber, and purple cabbage. </step>
+    <step num="2">Wrap up the tortilla, and cut into slices to make the pinwheels. Repeat with remaining ingredients. </step>
+    <step num="3">Slice and serve. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In the bowl of a food processor, add the drained chickpeas, salt, pepper, cumin, tahini paste, lemon juice, and olive oil and pureé until smooth. </steps_updated>
+    <steps_updated num="1">On a whole wheat tortilla, spoon on some hummus and add slices of red pepper, carrot, yellow pepper, cucumber, and purple cabbage. </steps_updated>
+    <steps_updated num="2">Wrap up the tortilla, and cut into slices to make the pinwheels. </steps_updated>
+    <steps_updated num="3">Repeat with remaining ingredients. </steps_updated>
+    <steps_updated num="4">Slice and serve. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01492</start_time>
+    <end_time>02077</end_time>
+  </duration_human>
+</recipe>

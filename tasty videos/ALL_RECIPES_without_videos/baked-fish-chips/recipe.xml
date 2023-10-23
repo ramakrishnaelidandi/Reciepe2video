@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Baked Fish &amp; Chips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/baked-fish-chips</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; cod fillets </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 cup ; whole wheat flour ; (115 g) </ingredient>
+    <ingredient num="4">2 tablespoons ; paprika </ingredient>
+    <ingredient num="5">2 tablespoons ; garlic powder </ingredient>
+    <ingredient num="6">2 ; eggs </ingredient>
+    <ingredient num="7">2 cups ; panko breadcrumbs ; (100 g) </ingredient>
+    <ingredient num="8">3 ; russet potatoes, sliced 1/4-inch/6 mm thick </ingredient>
+    <ingredient num="9">olive oil, to taste </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+    <ingredient num="12">¼ teaspoon ; paprika </ingredient>
+    <ingredient num="13">¼ teaspoon ; garlic powder </ingredient>
+    <ingredient num="14">1 cup ; greek yogurt, plain ; (285 g) </ingredient>
+    <ingredient num="15">salt, to taste </ingredient>
+    <ingredient num="16">pepper, to taste </ingredient>
+    <ingredient num="17">¼ tablespoon ; onion powder </ingredient>
+    <ingredient num="18">2 tablespoons ; pickle relish </ingredient>
+    <ingredient num="19">2 tablespoons ; parsley, chopped </ingredient>
+    <ingredient num="20">½ ; lemon, juiced </ingredient>
+    <ingredient num="21">baking sheet </ingredient>
+    <ingredient num="22">parchment paper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30001/low_1493138454.m3u8</low>
+    <high>https://vid.tasty.co/output/30001/mp4_720x1280/1493138454</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F/220°C. </step>
+    <step num="1">Cut ends and sides off of potatoes and cut into ¼-inch/6-mm sticks. </step>
+    <step num="2">Place potatoes into a bowl of cold water and let it soak for 30 minutes. </step>
+    <step num="3">Dry potatoes thoroughly, then add olive oil, salt, pepper, paprika, and garlic powder. </step>
+    <step num="4">Bake the fries for 30 minutes. Flip halfway. </step>
+    <step num="5">For the fish, pat dry with paper towels. Season with salt and pepper. </step>
+    <step num="6">In a mixing bowl, combine flour, garlic powder, and paprika. </step>
+    <step num="7">In another bowl, whisk two eggs together. </step>
+    <step num="8">In another mixing bowl, add panko bread crumbs. </step>
+    <step num="9">Dip the fish into the flour mixture, then the eggs, then the bread crumbs. </step>
+    <step num="10">Drizzle olive oil on top of fish for more crispiness. </step>
+    <step num="11">Grease the pan, then bake fish for 15 minutes. </step>
+    <step num="12">For the tartar sauce, combine greek yogurt, salt, pepper, onion powder, pickle relish, fresh parsley, and lemon juice. Mix until well combined. </step>
+    <step num="13">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F/220°C. </steps_updated>
+    <steps_updated num="1">Cut ends and sides off of potatoes and cut into ¼-inch/6-mm sticks. </steps_updated>
+    <steps_updated num="2">Place potatoes into a bowl of cold water and let it soak for 30 minutes. </steps_updated>
+    <steps_updated num="3">Dry potatoes thoroughly, then add olive oil, salt, pepper, paprika, and garlic powder. </steps_updated>
+    <steps_updated num="4">Bake the fries for 30 minutes. </steps_updated>
+    <steps_updated num="5">Flip halfway. </steps_updated>
+    <steps_updated num="6">For the fish, pat dry with paper towels. </steps_updated>
+    <steps_updated num="7">Season with salt and pepper. </steps_updated>
+    <steps_updated num="8">In a mixing bowl, combine flour, garlic powder, and paprika. </steps_updated>
+    <steps_updated num="9">In another bowl, whisk two eggs together. </steps_updated>
+    <steps_updated num="10">In another mixing bowl, add panko bread crumbs. </steps_updated>
+    <steps_updated num="11">Dip the fish into the flour mixture, then the eggs, then the bread crumbs. </steps_updated>
+    <steps_updated num="12">Drizzle olive oil on top of fish for more crispiness. </steps_updated>
+    <steps_updated num="13">Grease the pan, then bake fish for 15 minutes. </steps_updated>
+    <steps_updated num="14">For the tartar sauce, combine greek yogurt, salt, pepper, onion powder, pickle relish, fresh parsley, and lemon juice. </steps_updated>
+    <steps_updated num="15">Mix until well combined. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

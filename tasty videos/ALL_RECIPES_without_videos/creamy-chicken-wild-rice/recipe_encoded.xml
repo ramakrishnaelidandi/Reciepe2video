@@ -1,0 +1,68 @@
+<recipe>
+  <title>Creamy Chicken Wild Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-chicken-wild-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-creative-one-pot-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">11061 13278 8355 2144 7983 8309 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">3917 14014 13278 11384 11703 </ingredient>
+    <ingredient num="4">3917 14014 13278 796 9211 </ingredient>
+    <ingredient num="5">3917 14014 13278 796 2768 </ingredient>
+    <ingredient num="6">8580 9486 13278 9924 </ingredient>
+    <ingredient num="7">4061 13278 8445 2192 341 </ingredient>
+    <ingredient num="8">3917 13278 11091 12384 2192 341 </ingredient>
+    <ingredient num="9">4061 12669 13278 4587 2192 341 </ingredient>
+    <ingredient num="10">1580 715 13278 5379 9325 976 13278 9473 5981 </ingredient>
+    <ingredient num="11">2933 13667 13278 4155 10015 </ingredient>
+    <ingredient num="12">8580 9517 13278 11712 7706 13278 5348 5981 </ingredient>
+    <ingredient num="13">6735 9517 13278 7983 547 13278 8891 1767 </ingredient>
+    <ingredient num="14">8580 9517 13278 2431 109 13810 7789 3954 7990 4711 13278 6952 5981 </ingredient>
+    <ingredient num="15">3917 2605 13278 8640 13033 13278 7503 8007 </ingredient>
+    <ingredient num="16">3917 14014 13278 6209 9211 </ingredient>
+    <ingredient num="17">1580 2605 13278 1484 13033 13278 6518 5981 </ingredient>
+    <ingredient num="18">6209 11911 7990 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92227/hls24_1525286591.m3u8</low>
+    <high>https://vid.tasty.co/output/92227/landscape_720/1525286591</high>
+  </video>
+  <duration>
+    <start_time>72.0</start_time>
+    <end_time>159.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 4120 11951 7983 8309 1391 11951 12610 10986 11384 8117 796 5040 796 11911 13817 8244 14158 7643 1681 3145 229 </step>
+    <step num="1">10950 5994 12010 10439 11770 3996 14307 740 11951 7983 13817 2550 1681 10719 10963 1368 4255 797 7780 415 542 13817 2550 11951 11649 7780 6039 8927 4360 6054 11951 7983 13817 817 5292 </step>
+    <step num="2">10450 11951 11745 740 11951 10907 8445 7272 4587 9806 13817 1937 10242 1391 82 13817 10986 6991 13817 2550 1681 11951 4068 12573 2021 9679 2696 13817 817 5292 </step>
+    <step num="3">9179 11951 11712 7706 13817 11951 7983 547 560 11951 4771 8785 560 5994 8288 2864 560 5994 9609 13817 2550 11951 7706 7990 7759 11004 5895 1681 14371 </step>
+    <step num="4">9956 11951 7706 9490 8421 6142 210 11951 6696 14303 8640 1123 13817 6209 9019 8785 560 5994 11714 12473 210 11951 1484 5808 </step>
+    <step num="5">9179 11951 7983 13352 560 11951 10590 </step>
+    <step num="6">12774 11951 7983 11770 11951 7706 13817 4711 1391 2431 3220 13817 6209 13012 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 4120 11951 7983 8309 1391 11951 12610 10986 11384 8117 796 5040 796 11911 13817 8244 14158 </steps_updated>
+    <steps_updated num="1">7643 1681 3145 229 </steps_updated>
+    <steps_updated num="2">10950 5994 12010 10439 11770 3996 14307 740 11951 7983 13817 2550 1681 10719 10963 1368 4255 797 7780 415 542 13817 2550 11951 11649 7780 6039 8927 4360 </steps_updated>
+    <steps_updated num="3">6054 11951 7983 13817 817 5292 </steps_updated>
+    <steps_updated num="4">10450 11951 11745 740 11951 10907 8445 7272 4587 9806 13817 1937 </steps_updated>
+    <steps_updated num="5">10242 1391 82 13817 10986 6991 13817 2550 1681 11951 4068 12573 2021 </steps_updated>
+    <steps_updated num="6">9679 2696 13817 817 5292 </steps_updated>
+    <steps_updated num="7">9179 11951 11712 7706 13817 11951 7983 547 560 11951 4771 </steps_updated>
+    <steps_updated num="8">8785 560 5994 8288 2864 560 5994 9609 13817 2550 11951 7706 7990 7759 11004 5895 1681 14371 </steps_updated>
+    <steps_updated num="9">9956 11951 7706 9490 8421 6142 210 11951 6696 14303 8640 1123 13817 6209 9019 </steps_updated>
+    <steps_updated num="10">8785 560 5994 11714 </steps_updated>
+    <steps_updated num="11">12473 210 11951 1484 5808 </steps_updated>
+    <steps_updated num="12">9179 11951 7983 13352 560 11951 10590 </steps_updated>
+    <steps_updated num="13">12774 11951 7983 11770 11951 7706 13817 4711 1391 2431 3220 13817 6209 13012 </steps_updated>
+    <steps_updated num="14">9092 </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Make-Ahead Chicken &amp; Rice Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/make-ahead-chicken-rice-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; butter </ingredient>
+    <ingredient num="1">1 ; medium onion, diced </ingredient>
+    <ingredient num="2">1 clove ; garlic, minced </ingredient>
+    <ingredient num="3">4 ; carrots, finely diced </ingredient>
+    <ingredient num="4">4 stalks ; celery, sliced </ingredient>
+    <ingredient num="5">1 ; rotisserie chicken, shredded </ingredient>
+    <ingredient num="6">1 cup ; white long grain rice, uncooked ; (200 g) </ingredient>
+    <ingredient num="7">1 can ; cream of chicken soup </ingredient>
+    <ingredient num="8">3 cups ; chicken stock ; (710 mL) </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">pepper, to taste </ingredient>
+    <ingredient num="11">breadcrumb, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/29830/low_1492798690.m3u8</low>
+    <high>https://vid.tasty.co/output/29830/mp4_720x1280/1492798690</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 425°F (220°C). </step>
+    <step num="1">In a skillet, melt butter, and cook onion, garlic, carrots, and celery until tender. </step>
+    <step num="2">Transfer to a 9" x 13" (23 cm x 33 cm) disposable casserole dish, or split among 2 smaller dishes. </step>
+    <step num="3">Add chicken, rice, soup, stock, salt, and pepper. Mix thoroughly, and cover with foil. </step>
+    <step num="4">Bake for 30 minutes. Remove foil, top with bread crumbs if desired, and bake an additional 10 minutes. Or, bake for 30 minutes, let cool completely, cover, and freeze up to 2 months. </step>
+    <step num="5">To reheat, let thaw in the refrigerator during the day. Bake as directed above. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">In a skillet, melt butter, and cook onion, garlic, carrots, and celery until tender. </steps_updated>
+    <steps_updated num="2">Transfer to a 9" x 13" (23 cm x 33 cm) disposable casserole dish, or split among 2 smaller dishes. </steps_updated>
+    <steps_updated num="3">Add chicken, rice, soup, stock, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Mix thoroughly, and cover with foil. </steps_updated>
+    <steps_updated num="5">Bake for 30 minutes. </steps_updated>
+    <steps_updated num="6">Remove foil, top with bread crumbs if desired, and bake an additional 10 minutes. </steps_updated>
+    <steps_updated num="7">Or, bake for 30 minutes, let cool completely, cover, and freeze up to 2 months. </steps_updated>
+    <steps_updated num="8">To reheat, let thaw in the refrigerator during the day. </steps_updated>
+    <steps_updated num="9">Bake as directed above. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Honey Mustard Popcorn Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/honey-mustard-popcorn</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 teaspoon ; onion powder </ingredient>
+    <ingredient num="1">1 teaspoon ; kosher salt </ingredient>
+    <ingredient num="2">2 tablespoons ; yellow mustard </ingredient>
+    <ingredient num="3">1 teaspoon ; white vinegar </ingredient>
+    <ingredient num="4">2 tablespoons ; honey </ingredient>
+    <ingredient num="5">1 ½ tablespoons ; coconut oil </ingredient>
+    <ingredient num="6">⅓ cup ; yellow popcorn kernals ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Snacks</category>
+    <category num="2">Game Day</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/126955/hls24_1552343214.m3u8</low>
+    <high>https://vid.tasty.co/output/126955/landscape_720/1552343214</high>
+  </video>
+  <steps>
+    <step num="0">In a small bowl, mix together the onion powder and salt. Set aside. </step>
+    <step num="1">In a separate small bowl, mix together the mustard, vinegar, and honey. Set aside. </step>
+    <step num="2">Melt the coconut oil in a large pot over medium heat. Add 3-4 popcorn kernels and cover with the lid. Once they pop, add the rest of the kernels and cover, shaking every 10 seconds, until they begin pop. Once the pops are more than 3 seconds apart, turn off the heat and let sit for 15 seconds to allow any final kernels to pop. </step>
+    <step num="3">Uncover and drizzle the honey mustard mixture over the popcorn. Carefully toss to coat. </step>
+    <step num="4">Sprinkle the salt and onion powder mixture over the popcorn and stir to coat evenly. </step>
+    <step num="5">Transfer to a bowl and eat immediately, or spread in a single layer on a baking sheet and let cool completely before storing in a sealed container for up to 2 days. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a small bowl, mix together the onion powder and salt. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">In a separate small bowl, mix together the mustard, vinegar, and honey. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">Melt the coconut oil in a large pot over medium heat. </steps_updated>
+    <steps_updated num="5">Add 3-4 popcorn kernels and cover with the lid. </steps_updated>
+    <steps_updated num="6">Once they pop, add the rest of the kernels and cover, shaking every 10 seconds, until they begin pop. </steps_updated>
+    <steps_updated num="7">Once the pops are more than 3 seconds apart, turn off the heat and let sit for 15 seconds to allow any final kernels to pop. </steps_updated>
+    <steps_updated num="8">Uncover and drizzle the honey mustard mixture over the popcorn. </steps_updated>
+    <steps_updated num="9">Carefully toss to coat. </steps_updated>
+    <steps_updated num="10">Sprinkle the salt and onion powder mixture over the popcorn and stir to coat evenly. </steps_updated>
+    <steps_updated num="11">Transfer to a bowl and eat immediately, or spread in a single layer on a baking sheet and let cool completely before storing in a sealed container for up to 2 days. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

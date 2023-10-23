@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One-Pot Lemon Garlic Shrimp Pasta</title>
+  <url>https://tasty.co/recipe/one-pot-lemon-garlic-shrimp-pasta</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; linguine ; (225 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">8 tablespoons ; unsalted butter, 1 stick </ingredient>
+    <ingredient num="3">4 cloves ; garlic, minced </ingredient>
+    <ingredient num="4">1 teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="5">1 ¼ lb ; shrimp ; (565 g) </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">pepper, to taste </ingredient>
+    <ingredient num="8">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="9">4 cups ; baby spinach ; (160 g) </ingredient>
+    <ingredient num="10">¼ cup ; parmesan cheese, grated ; (25 g) </ingredient>
+    <ingredient num="11">2 tablespoons ; fresh parsley, chopped </ingredient>
+    <ingredient num="12">1 tablespoon ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Seafood</category>
+    <category num="3">Healthy</category>
+    <category num="4">Dinner</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/9060/low_1472567601.m3u8</low>
+    <high>https://vid.tasty.co/output/9060/mp4_720x1280/1472567601</high>
+  </video>
+  <steps>
+    <step num="0">In a large pot, boil water and add pasta. Cook (stirring frequently) until al dente. </step>
+    <step num="1">Drain and set pasta aside. </step>
+    <step num="2">In the same pan, heat olive oil and 2 tablespoons of butter. Add garlic and crushed red pepper, cook until fragrant. </step>
+    <step num="3">Toss in shrimp, salt and pepper to taste, and stir until shrimp start to turn pink, but are not fully cooked. </step>
+    <step num="4">Add oregano and spinach, cook until wilted. </step>
+    <step num="5">Return cooked pasta to the pot, add remaining butter, parmesan, and parsley. Stir until well mixed and the butter is melted. </step>
+    <step num="6">When the shrimp are cooked, add lemon juice, mix once more, then serve while hot. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pot, boil water and add pasta. </steps_updated>
+    <steps_updated num="1">Cook (stirring frequently) until al dente. </steps_updated>
+    <steps_updated num="2">Drain and set pasta aside. </steps_updated>
+    <steps_updated num="3">In the same pan, heat olive oil and 2 tablespoons of butter. </steps_updated>
+    <steps_updated num="4">Add garlic and crushed red pepper, cook until fragrant. </steps_updated>
+    <steps_updated num="5">Toss in shrimp, salt and pepper to taste, and stir until shrimp start to turn pink, but are not fully cooked. </steps_updated>
+    <steps_updated num="6">Add oregano and spinach, cook until wilted. </steps_updated>
+    <steps_updated num="7">Return cooked pasta to the pot, add remaining butter, parmesan, and parsley. </steps_updated>
+    <steps_updated num="8">Stir until well mixed and the butter is melted. </steps_updated>
+    <steps_updated num="9">When the shrimp are cooked, add lemon juice, mix once more, then serve while hot. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

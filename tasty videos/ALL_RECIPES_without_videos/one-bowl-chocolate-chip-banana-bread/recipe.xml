@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>One Bowl Chocolate Chip Banana Bread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/one-bowl-chocolate-chip-banana-bread</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; ripe bananas </ingredient>
+    <ingredient num="1">⅓ cup ; butter, melted ; (75 g) </ingredient>
+    <ingredient num="2">½ cup ; sugar ; (100 g) </ingredient>
+    <ingredient num="3">1 ; egg, beaten </ingredient>
+    <ingredient num="4">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="6">salt, to taste </ingredient>
+    <ingredient num="7">1 ½ cups ; all-purpose flour ; (185 g) </ingredient>
+    <ingredient num="8">½ cup ; mini chocolate chips ; (85 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Weeknight</category>
+    <category num="5">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57833/low_1508784602.m3u8</low>
+    <high>https://vid.tasty.co/output/57833/mp4_720x1280/1508784602</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚F). </step>
+    <step num="1">In a bowl, add the bananas and mash until smooth. Add in the melted butter and stir until well combined. </step>
+    <step num="2">Add the sugar, egg, vanilla, baking soda, salt, and flour, and stir until the batter is smooth. </step>
+    <step num="3">Add in the chocolate chips and pour the batter into a greased loaf pan. Top with additional chocolate chips. </step>
+    <step num="4">Bake for 50 minutes to an hour, or until a toothpick comes out clean. </step>
+    <step num="5">Cool completely before serving. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚F). </steps_updated>
+    <steps_updated num="1">In a bowl, add the bananas and mash until smooth. </steps_updated>
+    <steps_updated num="2">Add in the melted butter and stir until well combined. </steps_updated>
+    <steps_updated num="3">Add the sugar, egg, vanilla, baking soda, salt, and flour, and stir until the batter is smooth. </steps_updated>
+    <steps_updated num="4">Add in the chocolate chips and pour the batter into a greased loaf pan. </steps_updated>
+    <steps_updated num="5">Top with additional chocolate chips. </steps_updated>
+    <steps_updated num="6">Bake for 50 minutes to an hour, or until a toothpick comes out clean. </steps_updated>
+    <steps_updated num="7">Cool completely before serving. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

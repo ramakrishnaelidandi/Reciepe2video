@@ -1,0 +1,65 @@
+<recipe>
+  <title>Crab Cakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/crab-cakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-summer-seafood-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 13278 2192 7266 11588 3962 </ingredient>
+    <ingredient num="1">8580 9486 13278 6209 11911 11588 3962 </ingredient>
+    <ingredient num="2">3917 14014 13278 6209 11292 11588 3962 </ingredient>
+    <ingredient num="3">3917 13278 6216 </ingredient>
+    <ingredient num="4">8580 9486 13278 13051 </ingredient>
+    <ingredient num="5">8580 2031 13278 9260 6422 </ingredient>
+    <ingredient num="6">8580 2031 13278 6209 597 10522 </ingredient>
+    <ingredient num="7">1580 8071 13278 10646 2260 </ingredient>
+    <ingredient num="8">3917 2157 13278 499 10986 2517 </ingredient>
+    <ingredient num="9">3917 715 13278 6209 11476 7084 834 287 11770 13278 4563 5981 </ingredient>
+    <ingredient num="10">11042 13510 82 </ingredient>
+    <ingredient num="11">14585 11088 13584 7845 </ingredient>
+    <ingredient num="12">3917 2605 13278 12956 1230 13278 2264 5981 </ingredient>
+    <ingredient num="13">8554 5735 6467 7990 6471 </ingredient>
+    <ingredient num="14">8580 9486 13278 7974 9924 </ingredient>
+    <ingredient num="15">1613 7280 5143 10220 </ingredient>
+    <ingredient num="16">597 9868 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/99245/hls24_1529441653.m3u8</low>
+    <high>https://vid.tasty.co/output/99245/landscape_720/1529441653</high>
+  </video>
+  <duration>
+    <start_time>5.999</start_time>
+    <end_time>76.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 8341 3626 11951 7266 11911 11292 4036 11796 7997 5920 597 7654 5050 7280 13817 499 5358 936 </step>
+    <step num="1">9179 11951 3702 12616 1391 82 13817 7845 13817 6142 560 1011 </step>
+    <step num="2">9179 11951 1230 13817 10968 644 560 1011 </step>
+    <step num="3">745 669 11061 14311 1010 13817 3345 4255 5994 9086 4080 210 11951 7111 7990 7811 767 13133 11004 3386 560 3917 5664 </step>
+    <step num="4">309 11951 12618 8574 1391 6467 13817 7934 3482 7115 14254 </step>
+    <step num="5">10950 5994 2597 10060 817 11770 13757 14307 6983 11951 14057 </step>
+    <step num="6">8916 11951 7084 12618 1681 10963 13817 3365 199 8927 4884 145 12785 560 5994 12 14550 4157 560 3499 12624 </step>
+    <step num="7">12774 10383 1391 1613 2260 13817 597 14160 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 8341 3626 11951 7266 11911 11292 4036 11796 7997 5920 597 7654 5050 7280 13817 499 5358 936 </steps_updated>
+    <steps_updated num="1">9179 11951 3702 12616 1391 82 13817 7845 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="2">9179 11951 1230 13817 10968 644 560 1011 </steps_updated>
+    <steps_updated num="3">745 669 11061 14311 1010 13817 3345 4255 5994 9086 </steps_updated>
+    <steps_updated num="4">4080 210 11951 7111 7990 7811 767 13133 11004 3386 560 3917 5664 </steps_updated>
+    <steps_updated num="5">309 11951 12618 8574 1391 6467 13817 7934 3482 7115 14254 </steps_updated>
+    <steps_updated num="6">10950 5994 2597 10060 817 11770 13757 14307 6983 11951 14057 </steps_updated>
+    <steps_updated num="7">8916 11951 7084 12618 1681 10963 13817 3365 199 8927 4884 145 </steps_updated>
+    <steps_updated num="8">12785 560 5994 12 14550 4157 560 3499 4721 </steps_updated>
+    <steps_updated num="9">12774 10383 1391 1613 2260 13817 597 14160 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

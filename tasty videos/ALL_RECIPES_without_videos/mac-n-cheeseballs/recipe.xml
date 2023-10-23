@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mac ‘N’ Cheeseballs Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mac-n-cheeseballs</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">12 oz ; cheese puff ; (340 g) </ingredient>
+    <ingredient num="1">¼ cup ; butter ; (60 g) </ingredient>
+    <ingredient num="2">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="3">2 cups ; shredded cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="4">2 cups ; shredded mozzarella cheese ; (200 g) </ingredient>
+    <ingredient num="5">8 oz ; cream cheese, 1 block ; (225 g) </ingredient>
+    <ingredient num="6">1 lb ; elbow macaroni, cooked ; (455 g) </ingredient>
+    <ingredient num="7">1 ½ cups ; flour ; (190 g) </ingredient>
+    <ingredient num="8">3 ; eggs, beaten </ingredient>
+    <ingredient num="9">oil, for frying </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+    <category num="6">Game Day</category>
+    <category num="7">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/42533/low_1499277669.m3u8</low>
+    <high>https://vid.tasty.co/output/42533/mp4_720x1280/1499277669</high>
+  </video>
+  <steps>
+    <step num="0">Crush cheese puffs into a fine powder and set aside. </step>
+    <step num="1">In a saucepan over medium heat, add the butter. Once the butter is melted, add milk, cheddar, mozzarella, and cream cheese. Whisk until all the cheese has melted and sauce is smooth. </step>
+    <step num="2">Pour cheese sauce over cooked pasta, stirring to ensure thorough coverage of the noodles. </step>
+    <step num="3">Cover and refrigerate the cheese-coated pasta for at least 2 hours, allowing for it to cool completely and for the cheese sauce to bind the pasta together. This recipe also works well with leftover mac ‘n’ cheese. </step>
+    <step num="4">Using your hands, take the chilled mac ‘n’ cheese and form it into 1-inch (2 ½ cm) balls. </step>
+    <step num="5">Dredge the balls in flour, followed by egg before finally coating them in the powdered cheese puffs. </step>
+    <step num="6">Heat the oil to 350˚F (180˚C) and fry the mac ‘n’ cheese balls until the outside is crispy, about 2 minutes. Once done frying, transfer to a wire rack to drain. Lightly sprinkle with salt before serving. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Crush cheese puffs into a fine powder and set aside. </steps_updated>
+    <steps_updated num="1">In a saucepan over medium heat, add the butter. </steps_updated>
+    <steps_updated num="2">Once the butter is melted, add milk, cheddar, mozzarella, and cream cheese. </steps_updated>
+    <steps_updated num="3">Whisk until all the cheese has melted and sauce is smooth. </steps_updated>
+    <steps_updated num="4">Pour cheese sauce over cooked pasta, stirring to ensure thorough coverage of the noodles. </steps_updated>
+    <steps_updated num="5">Cover and refrigerate the cheese-coated pasta for at least 2 hours, allowing for it to cool completely and for the cheese sauce to bind the pasta together. </steps_updated>
+    <steps_updated num="6">This recipe also works well with leftover mac ‘n’ cheese. </steps_updated>
+    <steps_updated num="7">Using your hands, take the chilled mac ‘n’ cheese and form it into 1-inch (2 ½ cm) balls. </steps_updated>
+    <steps_updated num="8">Dredge the balls in flour, followed by egg before finally coating them in the powdered cheese puffs. </steps_updated>
+    <steps_updated num="9">Heat the oil to 350˚F (180˚C) and fry the mac ‘n’ cheese balls until the outside is crispy, about 2 minutes. </steps_updated>
+    <steps_updated num="10">Once done frying, transfer to a wire rack to drain. </steps_updated>
+    <steps_updated num="11">Lightly sprinkle with salt before serving. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

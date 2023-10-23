@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chocolate Almond Braid Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chocolate-almond-braid</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">puff pastry </ingredient>
+    <ingredient num="1">1 bar ; chocolate, your favorite </ingredient>
+    <ingredient num="2">egg wash </ingredient>
+    <ingredient num="3">crushed nuts, we used almonds </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Brunch</category>
+    <category num="3">Desserts</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32031/low_1495124995.m3u8</low>
+    <high>https://vid.tasty.co/output/32031/mp4_720x1280/1495124995</high>
+  </video>
+  <steps>
+    <step num="0">Lay out your puff pastry. Place your chocolate bar in the center, cut diagonal lines along the left and right side of the chocolate bar about an inch apart. </step>
+    <step num="1">Remove the corner pieces. Starting from the top, fold down the flap then alternate right and left until you are close to the bottom. Fold the bottom flap up and finish alternating between right and left. Tuck any extra puff pastry underneath. </step>
+    <step num="2">Place the braided puff pastry on parchment paper lined baking tray. Brush with egg wash and sprinkle crushed nuts over. </step>
+    <step num="3">Bake at 415°F (213°C) for 25 minutes or until golden brown. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Lay out your puff pastry. </steps_updated>
+    <steps_updated num="1">Place your chocolate bar in the center, cut diagonal lines along the left and right side of the chocolate bar about an inch apart. </steps_updated>
+    <steps_updated num="2">Remove the corner pieces. </steps_updated>
+    <steps_updated num="3">Starting from the top, fold down the flap then alternate right and left until you are close to the bottom. </steps_updated>
+    <steps_updated num="4">Fold the bottom flap up and finish alternating between right and left. </steps_updated>
+    <steps_updated num="5">Tuck any extra puff pastry underneath. </steps_updated>
+    <steps_updated num="6">Place the braided puff pastry on parchment paper lined baking tray. </steps_updated>
+    <steps_updated num="7">Brush with egg wash and sprinkle crushed nuts over. </steps_updated>
+    <steps_updated num="8">Bake at 415°F (213°C) for 25 minutes or until golden brown. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

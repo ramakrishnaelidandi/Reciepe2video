@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Egg Roll Mozzarella Sticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/egg-roll-mozzarella-sticks</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-appetizers</comp_url>
+  <ingredients>
+    <ingredient num="0">5 ; egg roll wrappers </ingredient>
+    <ingredient num="1">10 sticks ; string cheese </ingredient>
+    <ingredient num="2">water </ingredient>
+    <ingredient num="3">oil, for frying </ingredient>
+    <ingredient num="4">marinara sauce </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7967/low_1472163621.m3u8</low>
+    <high>https://vid.tasty.co/output/7967/mp4_720x1280/1472163621</high>
+  </video>
+  <duration>
+    <start_time>80.35</start_time>
+    <end_time>98.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">Slice the egg roll wrappers in half. </step>
+    <step num="1">Place a stick of string cheese on the edge of the egg roll wrapper, then fold the sides of the wrapper over the ends of the cheese. </step>
+    <step num="2">Wet the other edge of the wrapper with water, then roll it up tightly, pressing the edge to make sure it’s sealed. </step>
+    <step num="3">Repeat with the remaining wrappers and cheese. </step>
+    <step num="4">Heat oil in a pot. </step>
+    <step num="5">Fry the sticks until golden brown, then drain on a paper towel. </step>
+    <step num="6">Serve with marinara. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the egg roll wrappers in half. </steps_updated>
+    <steps_updated num="1">Place a stick of string cheese on the edge of the egg roll wrapper, then fold the sides of the wrapper over the ends of the cheese. </steps_updated>
+    <steps_updated num="2">Wet the other edge of the wrapper with water, then roll it up tightly, pressing the edge to make sure it’s sealed. </steps_updated>
+    <steps_updated num="3">Repeat with the remaining wrappers and cheese. </steps_updated>
+    <steps_updated num="4">Heat oil in a pot. </steps_updated>
+    <steps_updated num="5">Fry the sticks until golden brown, then drain on a paper towel. </steps_updated>
+    <steps_updated num="6">Serve with marinara. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02304</start_time>
+    <end_time>03037</end_time>
+  </duration_human>
+</recipe>

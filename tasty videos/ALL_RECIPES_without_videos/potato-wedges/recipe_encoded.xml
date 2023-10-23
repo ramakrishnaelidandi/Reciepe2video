@@ -1,0 +1,51 @@
+<recipe>
+  <title>Potato Wedges Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/potato-wedges</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/veggie-wedges-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 2597 9780 13233 </ingredient>
+    <ingredient num="1">1813 2605 13278 8244 5766 13278 12158 8007 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">1580 8071 13278 7845 </ingredient>
+    <ingredient num="4">3917 14014 13278 11384 11703 </ingredient>
+    <ingredient num="5">3917 14014 13278 796 5616 </ingredient>
+    <ingredient num="6">3917 14014 13278 9496 </ingredient>
+    <ingredient num="7">1580 2605 13278 8597 109 14538 13278 13412 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28129/low_1490984630.m3u8</low>
+    <high>https://vid.tasty.co/output/28129/mp4_720x1280/1490984630</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>30.3</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 312 1867 </step>
+    <step num="1">3708 10086 2274 7777 210 1991 13817 12205 669 14160 </step>
+    <step num="2">7643 9868 210 8244 5766 13817 14620 </step>
+    <step num="3">5570 4255 5994 10765 11020 930 11801 7584 </step>
+    <step num="4">7831 9489 12689 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 312 1867 </steps_updated>
+    <steps_updated num="1">3708 10086 2274 7777 210 1991 13817 12205 669 14160 </steps_updated>
+    <steps_updated num="2">7643 9868 210 8244 5766 13817 14620 </steps_updated>
+    <steps_updated num="3">5570 4255 5994 10765 11020 930 11801 7584 </steps_updated>
+    <steps_updated num="4">7831 9489 12689 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00931</end_time>
+  </duration_human>
+</recipe>

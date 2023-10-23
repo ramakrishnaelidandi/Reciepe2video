@@ -1,0 +1,51 @@
+<recipe>
+  <title>Classic Omelette Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-omelette</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/9-crazy-easy-ways-to-cook-eggs</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 13278 12708 </ingredient>
+    <ingredient num="1">3917 14014 13278 9924 </ingredient>
+    <ingredient num="2">2602 8421 2517 </ingredient>
+    <ingredient num="3">9491 1404 2517 </ingredient>
+    <ingredient num="4">9325 976 13817 4290 2517 </ingredient>
+    <ingredient num="5">13810 2517 </ingredient>
+    <ingredient num="6">5615 11292 1404 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/103217/hls24_1532627187.m3u8</low>
+    <high>https://vid.tasty.co/output/103217/landscape_720/1532627187</high>
+  </video>
+  <duration>
+    <start_time>0.0</start_time>
+    <end_time>28.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 3930 11951 8536 </step>
+    <step num="1">12305 11951 9924 210 5994 13757 5291 5687 11770 13757 2082 </step>
+    <step num="2">1083 210 11951 9917 8536 12473 13817 7934 11951 11745 13532 11951 12708 5412 1681 5994 8631 805 5563 10211 11951 7855 560 11286 415 2890 11951 12708 1681 11951 4456 6216 6113 11951 887 551 371 11951 10590 9179 7115 7105 5312 1762 1608 7156 </step>
+    <step num="3">1828 11951 9604 2550 1681 11951 12708 12573 7568 6346 6620 11004 415 6183 4536 11951 9604 13817 10231 560 5994 9086 12450 12605 5376 11484 6873 1391 6728 3784 </step>
+    <step num="4">6252 1391 11292 5358 13 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 3930 11951 8536 </steps_updated>
+    <steps_updated num="1">12305 11951 9924 210 5994 13757 5291 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="2">1083 210 11951 9917 8536 </steps_updated>
+    <steps_updated num="3">12473 13817 7934 11951 11745 13532 11951 12708 5412 1681 5994 8631 805 5563 </steps_updated>
+    <steps_updated num="4">10211 11951 7855 560 11286 415 2890 11951 12708 1681 11951 4456 6216 6113 11951 887 551 371 11951 10590 </steps_updated>
+    <steps_updated num="5">9179 7115 7105 5312 1762 1608 7156 </steps_updated>
+    <steps_updated num="6">1828 11951 9604 2550 1681 11951 12708 12573 7568 6346 6620 11004 415 6183 4536 11951 9604 13817 10231 560 5994 9086 </steps_updated>
+    <steps_updated num="7">12450 12605 5376 11484 6873 1391 6728 3784 </steps_updated>
+    <steps_updated num="8">6252 1391 11292 5358 13 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

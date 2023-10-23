@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buffalo Cauliflower Nachos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-cauliflower-nachos</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower, cut into florets </ingredient>
+    <ingredient num="1">3 teaspoons ; olive oil </ingredient>
+    <ingredient num="2">1 tablespoon ; smoked paprika </ingredient>
+    <ingredient num="3">fine sea salt, to taste </ingredient>
+    <ingredient num="4">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="5">2 tablespoons ; hot sauce </ingredient>
+    <ingredient num="6">2 tablespoons ; siracha </ingredient>
+    <ingredient num="7">1 tablespoon ; butter, melted </ingredient>
+    <ingredient num="8">1 ; lime, juiced </ingredient>
+    <ingredient num="9">8 cups ; tortilla chips ; (800 g) </ingredient>
+    <ingredient num="10">1 cup ; monterey jack cheese, grated ; (110 g) </ingredient>
+    <ingredient num="11">1 cup ; cheddar cheese, grated ; (110 g) </ingredient>
+    <ingredient num="12">1 ; avocado, chopped </ingredient>
+    <ingredient num="13">3 ; radishes, thinly sliced </ingredient>
+    <ingredient num="14">2 ; celery stems, thinly sliced </ingredient>
+    <ingredient num="15">sour cream, to serve </ingredient>
+    <ingredient num="16">fresh cilantro, chopped, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Appetizers</category>
+    <category num="6">Game Day</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/76222/hls24_1517521741.m3u8</low>
+    <high>https://vid.tasty.co/output/76222/landscape_720/1517521741</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200˚C). </step>
+    <step num="1">On a large baking sheet, toss together the cauliflower florets, olive oil, paprika, salt, and pepper. Roast until tender, 20-25 minutes. </step>
+    <step num="2">In a large bowl, whisk together the hot sauce, sriracha, melted butter, and lime juice. </step>
+    <step num="3">Add the roasted cauliflower to the bowl and mix to coat. </step>
+    <step num="4">Scatter the tortilla chips over the baking sheet. Top with the cauliflower, Monterey Jack cheese, and cheddar cheese. </step>
+    <step num="5">Return the baking sheet to the oven and bake until cheese is melted and bubbling, about 5 minutes. </step>
+    <step num="6">Top with avocado, radishes, celery, sour cream, and cilantro. Serve warm. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200˚C). </steps_updated>
+    <steps_updated num="1">On a large baking sheet, toss together the cauliflower florets, olive oil, paprika, salt, and pepper. </steps_updated>
+    <steps_updated num="2">Roast until tender, 20-25 minutes. </steps_updated>
+    <steps_updated num="3">In a large bowl, whisk together the hot sauce, sriracha, melted butter, and lime juice. </steps_updated>
+    <steps_updated num="4">Add the roasted cauliflower to the bowl and mix to coat. </steps_updated>
+    <steps_updated num="5">Scatter the tortilla chips over the baking sheet. </steps_updated>
+    <steps_updated num="6">Top with the cauliflower, Monterey Jack cheese, and cheddar cheese. </steps_updated>
+    <steps_updated num="7">Return the baking sheet to the oven and bake until cheese is melted and bubbling, about 5 minutes. </steps_updated>
+    <steps_updated num="8">Top with avocado, radishes, celery, sour cream, and cilantro. </steps_updated>
+    <steps_updated num="9">Serve warm. </steps_updated>
+    <steps_updated num="10">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

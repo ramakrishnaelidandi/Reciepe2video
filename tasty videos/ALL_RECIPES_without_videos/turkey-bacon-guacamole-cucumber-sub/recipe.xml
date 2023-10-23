@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Turkey Bacon Guacamole Cucumber Sub Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/turkey-bacon-guacamole-cucumber-sub</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/cucumber-subs-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; cucumbers </ingredient>
+    <ingredient num="1">½ cup ; guacamole ; (235 g) </ingredient>
+    <ingredient num="2">4 slices ; turkey </ingredient>
+    <ingredient num="3">8 slices ; bacon </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Snacks</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51392/low_1504802973.m3u8</low>
+    <high>https://vid.tasty.co/output/51392/mp4_720x1280/1504802973</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">Use a vegetable peeler to peel the cucumbers. </step>
+    <step num="1">On a cutting board, cut off the ends and cut the cucumbers in half. Scoop out the seeds and discard. </step>
+    <step num="2">Spread guacamole on both sides of the prepared cucumber. </step>
+    <step num="3">Layer the turkey on one half of the cucumber and bacon on the other half, and close the sandwich. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Use a vegetable peeler to peel the cucumbers. </steps_updated>
+    <steps_updated num="1">On a cutting board, cut off the ends and cut the cucumbers in half. </steps_updated>
+    <steps_updated num="2">Scoop out the seeds and discard. </steps_updated>
+    <steps_updated num="3">Spread guacamole on both sides of the prepared cucumber. </steps_updated>
+    <steps_updated num="4">Layer the turkey on one half of the cucumber and bacon on the other half, and close the sandwich. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>-02237</start_time>
+    <end_time>02758</end_time>
+  </duration_human>
+</recipe>

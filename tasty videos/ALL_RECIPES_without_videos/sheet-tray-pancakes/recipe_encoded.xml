@@ -1,0 +1,60 @@
+<recipe>
+  <title>Sheet Tray Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-tray-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-meal-prep-for-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 1580 9517 13278 3305 2168 890 13278 6871 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 10765 11703 </ingredient>
+    <ingredient num="2">3591 2605 13278 638 5802 13278 8178 8007 </ingredient>
+    <ingredient num="3">3917 12791 9517 13278 4384 1879 13278 12922 5981 </ingredient>
+    <ingredient num="4">8580 13278 12708 </ingredient>
+    <ingredient num="5">3917 8071 13278 1319 10937 </ingredient>
+    <ingredient num="6">8455 560 11567 </ingredient>
+    <ingredient num="7">13098 560 11567 </ingredient>
+    <ingredient num="8">5475 4680 4832 560 11567 </ingredient>
+    <ingredient num="9">76 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57232/low_1508449017.m3u8</low>
+    <high>https://vid.tasty.co/output/57232/mp4_720x1280/1508449017</high>
+  </video>
+  <duration>
+    <start_time>3.4299999999999997</start_time>
+    <end_time>68.75</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">10950 5994 14511 10968 3305 2168 890 13817 10765 785 </step>
+    <step num="2">9179 210 9889 7268 4036 13817 1319 6708 9393 1681 3145 4309 </step>
+    <step num="3">1083 2650 10968 4255 5994 2362 10765 213 13817 3584 11434 5943 </step>
+    <step num="4">9179 13218 5677 1802 11951 3305 5687 5895 3345 210 10263 12503 7990 5994 8506 </step>
+    <step num="5">7831 7990 13133 12689 </step>
+    <step num="6">14100 669 13332 12774 11007 5895 13351 7990 3386 560 5994 8043 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">10950 5994 14511 10968 3305 2168 890 13817 10765 785 </steps_updated>
+    <steps_updated num="2">9179 210 9889 7268 4036 13817 1319 6708 </steps_updated>
+    <steps_updated num="3">9393 1681 3145 4309 </steps_updated>
+    <steps_updated num="4">1083 2650 10968 4255 5994 2362 10765 213 13817 3584 11434 5943 </steps_updated>
+    <steps_updated num="5">9179 13218 5677 1802 11951 3305 5687 5895 3345 210 10263 12503 7990 5994 8506 </steps_updated>
+    <steps_updated num="6">7831 7990 13133 12689 </steps_updated>
+    <steps_updated num="7">14100 669 13332 </steps_updated>
+    <steps_updated num="8">12774 11007 5895 13351 7990 3386 560 5994 8043 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00154</start_time>
+    <end_time>02081</end_time>
+  </duration_human>
+</recipe>

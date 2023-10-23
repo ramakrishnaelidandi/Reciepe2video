@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pizza Bread Bowl Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-bread-bowl</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; bread boule </ingredient>
+    <ingredient num="1">1 cup ; marinara sauce ; (260 g) </ingredient>
+    <ingredient num="2">8 oz ; fresh mozzarella cheese ; (225 g) </ingredient>
+    <ingredient num="3">6 oz ; pepperoni ; (170 g) </ingredient>
+    <ingredient num="4">½ ; onion, sliced </ingredient>
+    <ingredient num="5">½ cup ; fresh basil ; (20 g) </ingredient>
+    <ingredient num="6">1 cup ; sausage, cooked ; (140 g) </ingredient>
+    <ingredient num="7">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="8">1 cup ; white cheddar cheese, shredded ; (100 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Game Day</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31946/low_1495124906.m3u8</low>
+    <high>https://vid.tasty.co/output/31946/mp4_720x1280/1495124906</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350°F (175˚C). </step>
+    <step num="1">Slice the top of the bread boule off and remove the insides. </step>
+    <step num="2">Spread ½ cup of the marinara on the bottom of the boule, then layer with half of the mozzarella, 5 ounces of the pepperoni, onions, basil, sausage, peppers, the other ½ cup of marinara, the remaining mozzarella, and half of the white cheddar, and place the cap of the bread boule on top. </step>
+    <step num="3">Wrap the bread bowl in foil, then press with a heavy object for 30 minutes. </step>
+    <step num="4">Remove the foil and sprinkle the remaining cheddar and pepperoni on top. Bake for 30 minutes, until cheese is golden brown. </step>
+    <step num="5">Cool for 10 minutes and slice. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350°F (175˚C). </steps_updated>
+    <steps_updated num="1">Slice the top of the bread boule off and remove the insides. </steps_updated>
+    <steps_updated num="2">Spread ½ cup of the marinara on the bottom of the boule, then layer with half of the mozzarella, 5 ounces of the pepperoni, onions, basil, sausage, peppers, the other ½ cup of marinara, the remaining mozzarella, and half of the white cheddar, and place the cap of the bread boule on top. </steps_updated>
+    <steps_updated num="3">Wrap the bread bowl in foil, then press with a heavy object for 30 minutes. </steps_updated>
+    <steps_updated num="4">Remove the foil and sprinkle the remaining cheddar and pepperoni on top. </steps_updated>
+    <steps_updated num="5">Bake for 30 minutes, until cheese is golden brown. </steps_updated>
+    <steps_updated num="6">Cool for 10 minutes and slice. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

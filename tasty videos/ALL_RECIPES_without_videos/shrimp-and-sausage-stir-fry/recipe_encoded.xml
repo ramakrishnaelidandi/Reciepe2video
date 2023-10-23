@@ -1,0 +1,75 @@
+<recipe>
+  <title>Shrimp And Sausage Stir-fry Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/shrimp-and-sausage-stir-fry</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9486 13278 7632 3247 </ingredient>
+    <ingredient num="1">3917 715 13278 12188 3876 4125 13817 12692 13278 4563 5981 </ingredient>
+    <ingredient num="2">8580 2031 13278 10107 13063 2634 </ingredient>
+    <ingredient num="3">11061 643 13278 13280 13278 8118 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 12282 13278 2935 8007 </ingredient>
+    <ingredient num="5">1580 13278 11091 12384 341 </ingredient>
+    <ingredient num="6">3917 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="7">3917 13278 4985 1466 10986 341 </ingredient>
+    <ingredient num="8">3917 13278 6753 3962 </ingredient>
+    <ingredient num="9">1580 2605 13278 3183 13278 7005 5981 </ingredient>
+    <ingredient num="10">3917 13278 5425 341 </ingredient>
+    <ingredient num="11">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="12">12791 2605 13278 7983 547 13278 13125 8007 </ingredient>
+    <ingredient num="13">1580 8071 13278 82 </ingredient>
+    <ingredient num="14">12791 8071 13278 7845 </ingredient>
+    <ingredient num="15">6209 11911 1404 7990 7818 </ingredient>
+    <ingredient num="16">11948 8421 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Healthy</category>
+    <category num="4">Dinner</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/62511/low_1510856213.m3u8</low>
+    <high>https://vid.tasty.co/output/62511/mp4_720x1280/1510856213</high>
+  </video>
+  <steps>
+    <step num="0">8889 5766 210 5994 2597 10060 11770 3996 2082 </step>
+    <step num="1">9179 11084 560 10060 13817 12616 1391 1970 9330 1869 </step>
+    <step num="2">264 11084 199 11004 5895 1681 5400 6054 6781 10060 13817 817 5292 </step>
+    <step num="3">8889 5766 210 5994 2597 10060 11770 3996 2082 </step>
+    <step num="4">9179 13280 560 2641 </step>
+    <step num="5">264 1681 7340 12341 11753 2717 </step>
+    <step num="6">10211 7855 560 4531 13817 740 12282 560 2641 </step>
+    <step num="7">4660 13817 11779 7990 409 12689 6054 6781 10060 13817 817 5292 </step>
+    <step num="8">9179 11453 13817 1466 2986 560 11951 5540 10060 13817 2550 7990 8580 12689 </step>
+    <step num="9">9179 3962 4437 6753 12655 13817 11021 13817 2550 7990 3274 8580 12689 </step>
+    <step num="10">12473 210 11084 13817 1937 </step>
+    <step num="11">1083 7983 220 669 5687 13817 6142 1681 13544 </step>
+    <step num="12">9179 82 13817 12375 </step>
+    <step num="13">6054 6781 2082 </step>
+    <step num="14">13494 1391 2768 13817 1966 11770 7706 5358 13 </step>
+    <step num="15">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8889 5766 210 5994 2597 10060 11770 3996 2082 </steps_updated>
+    <steps_updated num="1">9179 11084 560 10060 13817 12616 1391 1970 9330 1869 </steps_updated>
+    <steps_updated num="2">264 11084 199 11004 5895 1681 5400 </steps_updated>
+    <steps_updated num="3">6054 6781 10060 13817 817 5292 </steps_updated>
+    <steps_updated num="4">8889 5766 210 5994 2597 10060 11770 3996 2082 </steps_updated>
+    <steps_updated num="5">9179 13280 560 2641 </steps_updated>
+    <steps_updated num="6">264 1681 7340 12341 11753 2717 </steps_updated>
+    <steps_updated num="7">10211 7855 560 4531 13817 740 12282 560 2641 </steps_updated>
+    <steps_updated num="8">4660 13817 11779 7990 409 12689 </steps_updated>
+    <steps_updated num="9">6054 6781 10060 13817 817 5292 </steps_updated>
+    <steps_updated num="10">9179 11453 13817 1466 2986 560 11951 5540 10060 13817 2550 7990 8580 12689 </steps_updated>
+    <steps_updated num="11">9179 3962 4437 6753 12655 13817 11021 13817 2550 7990 3274 8580 12689 </steps_updated>
+    <steps_updated num="12">12473 210 11084 13817 1937 </steps_updated>
+    <steps_updated num="13">1083 7983 220 669 5687 13817 6142 1681 13544 </steps_updated>
+    <steps_updated num="14">9179 82 13817 12375 </steps_updated>
+    <steps_updated num="15">6054 6781 2082 </steps_updated>
+    <steps_updated num="16">13494 1391 2768 13817 1966 11770 7706 5358 13 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

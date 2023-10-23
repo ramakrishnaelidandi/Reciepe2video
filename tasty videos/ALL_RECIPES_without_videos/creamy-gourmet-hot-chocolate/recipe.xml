@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Gourmet Hot Chocolate Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-gourmet-hot-chocolate</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ cups ; whole milk ; (350 mL) </ingredient>
+    <ingredient num="1">½ cup ; heavy cream ; (120 mL) </ingredient>
+    <ingredient num="2">2 tablespoons ; powdered sugar, or to taste </ingredient>
+    <ingredient num="3">½ teaspoon ; espresso powder </ingredient>
+    <ingredient num="4">8 oz ; 72% dark chocolate ; (20 g) </ingredient>
+    <ingredient num="5">whipped cream, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31898/low_1495124913.m3u8</low>
+    <high>https://vid.tasty.co/output/31898/mp4_720x1280/1495124913</high>
+  </video>
+  <steps>
+    <step num="0">In a 1.5-quart saucepan over medium heat, whisk together whole milk, heavy cream, powdered sugar, and espresso powder until hot. </step>
+    <step num="1">Small bubbles will appear around the edges and the mixture may start to steam. Do not allow the mixture to boil. </step>
+    <step num="2">Turn heat to low and stir in chopped chocolate until melted completely. </step>
+    <step num="3">Serve warm, topped with whipped cream. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a 1.5-quart saucepan over medium heat, whisk together whole milk, heavy cream, powdered sugar, and espresso powder until hot. </steps_updated>
+    <steps_updated num="1">Small bubbles will appear around the edges and the mixture may start to steam. </steps_updated>
+    <steps_updated num="2">Do not allow the mixture to boil. </steps_updated>
+    <steps_updated num="3">Turn heat to low and stir in chopped chocolate until melted completely. </steps_updated>
+    <steps_updated num="4">Serve warm, topped with whipped cream. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

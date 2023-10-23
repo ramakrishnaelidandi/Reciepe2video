@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Mediterranean Meal Prep Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mediterranean-meal-prep</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">15 oz ; chickpeas, 1 can, drained and rinsed ; (420 g) </ingredient>
+    <ingredient num="1">1 clove ; garlic, minced </ingredient>
+    <ingredient num="2">¼ teaspoon ; paprika </ingredient>
+    <ingredient num="3">sea salt, to taste </ingredient>
+    <ingredient num="4">¼ teaspoon ; cumin </ingredient>
+    <ingredient num="5">½ ; lemon, juiced </ingredient>
+    <ingredient num="6">3 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="7">2 tablespoons ; water </ingredient>
+    <ingredient num="8">red pepper flakes, to taste </ingredient>
+    <ingredient num="9">2 tablespoons ; olive oil, divided </ingredient>
+    <ingredient num="10">1 cup ; quinoa, uncooked, rinsed and drained ; (170 g) </ingredient>
+    <ingredient num="11">2 cups ; vegetable broth ; (480 mL) </ingredient>
+    <ingredient num="12">¼ teaspoon ; dried thyme </ingredient>
+    <ingredient num="13">¼ teaspoon ; dried tarragon </ingredient>
+    <ingredient num="14">¼ teaspoon ; dried parsley </ingredient>
+    <ingredient num="15">2 ; lemons, juiced, divided </ingredient>
+    <ingredient num="16">salt, to taste </ingredient>
+    <ingredient num="17">2 ; persian cucumbers </ingredient>
+    <ingredient num="18">½ cup ; grape tomato ; (100 g) </ingredient>
+    <ingredient num="19">kalamata olive, to taste </ingredient>
+    <ingredient num="20">½ ; red onion </ingredient>
+    <ingredient num="21">fresh parsley leaves, to taste </ingredient>
+    <ingredient num="22">pepper, to taste </ingredient>
+    <ingredient num="23">feta cheese, crumbled, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Greek</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105953/hls24_1534797540.m3u8</low>
+    <high>https://vid.tasty.co/output/105953/landscape_720/1534797540</high>
+  </video>
+  <steps>
+    <step num="0">Make the hummus: Add the chickpeas to a food processor with the garlic, paprika, salt, cumin, lemon juice, 2 tablespoons of olive oil, and the water. Pulse until creamy. </step>
+    <step num="1">Transfer the hummus to a container and top with more olive oil and red pepper flakes. The hummus will keep in the refrigerator for up to 4 days. </step>
+    <step num="2">Make the Mediterranean bowl: Heat a large skillet over medium heat. Once hot, add 1 tablespoon of olive oil. Pour the quinoa into the skillet and toast for 3-4 minutes, or until light golden brown. </step>
+    <step num="3">Add the vegetable broth, thyme, tarragon, parsley, juice of 1 lemon, and salt and stir to combine. Bring to a boil, then cover, reduce the heat to low, and simmer for 15-20 minutes, or until the liquid is absorbed and the quinoa is fluffy. Remove the pan from the heat. </step>
+    <step num="4">Slice the cucumbers, halve the tomatoes, chop the olives, and dice the onion. </step>
+    <step num="5">Place all of the vegetables in a medium bowl. Add the parsley, remaining tablespoon of olive oil, lemon juice, salt, and pepper. Stir to combine. </step>
+    <step num="6">To assemble a bowl, add ¼ of the quinoa, ¼ of the vegetables, and ¼ of the hummus to a resealable container. Top the vegetables with crumbled feta. </step>
+    <step num="7">Store the bowls in the refrigerator for up to 3 days. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Make the hummus: Add the chickpeas to a food processor with the garlic, paprika, salt, cumin, lemon juice, 2 tablespoons of olive oil, and the water. </steps_updated>
+    <steps_updated num="1">Pulse until creamy. </steps_updated>
+    <steps_updated num="2">Transfer the hummus to a container and top with more olive oil and red pepper flakes. </steps_updated>
+    <steps_updated num="3">The hummus will keep in the refrigerator for up to 4 days. </steps_updated>
+    <steps_updated num="4">Make the Mediterranean bowl: Heat a large skillet over medium heat. </steps_updated>
+    <steps_updated num="5">Once hot, add 1 tablespoon of olive oil. </steps_updated>
+    <steps_updated num="6">Pour the quinoa into the skillet and toast for 3-4 minutes, or until light golden brown. </steps_updated>
+    <steps_updated num="7">Add the vegetable broth, thyme, tarragon, parsley, juice of 1 lemon, and salt and stir to combine. </steps_updated>
+    <steps_updated num="8">Bring to a boil, then cover, reduce the heat to low, and simmer for 15-20 minutes, or until the liquid is absorbed and the quinoa is fluffy. </steps_updated>
+    <steps_updated num="9">Remove the pan from the heat. </steps_updated>
+    <steps_updated num="10">Slice the cucumbers, halve the tomatoes, chop the olives, and dice the onion. </steps_updated>
+    <steps_updated num="11">Place all of the vegetables in a medium bowl. </steps_updated>
+    <steps_updated num="12">Add the parsley, remaining tablespoon of olive oil, lemon juice, salt, and pepper. </steps_updated>
+    <steps_updated num="13">Stir to combine. </steps_updated>
+    <steps_updated num="14">To assemble a bowl, add ¼ of the quinoa, ¼ of the vegetables, and ¼ of the hummus to a resealable container. </steps_updated>
+    <steps_updated num="15">Top the vegetables with crumbled feta. </steps_updated>
+    <steps_updated num="16">Store the bowls in the refrigerator for up to 3 days. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

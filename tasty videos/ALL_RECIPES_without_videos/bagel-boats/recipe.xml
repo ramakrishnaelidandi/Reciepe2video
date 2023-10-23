@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Bagel Boats Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bagel-boats</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ; bagel </ingredient>
+    <ingredient num="1">2 ; eggs </ingredient>
+    <ingredient num="2">2 tablespoons ; cheddar cheese </ingredient>
+    <ingredient num="3">2 strips ; bacon, chopped </ingredient>
+    <ingredient num="4">1 tablespoon ; green onion </ingredient>
+    <ingredient num="5">1 tablespoon ; milk </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10490/low_1474498160.m3u8</low>
+    <high>https://vid.tasty.co/output/10490/mp4_720x1280/1474498160</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 375°F (190°C). </step>
+    <step num="1">In a small bowl, mix cheese, bacon, and green onion. </step>
+    <step num="2">In a small bowl, whip 2 eggs with milk. </step>
+    <step num="3">Carefully hollow out 1 bagel with a small silver spoon. Place both bagel halves on a baking sheet. </step>
+    <step num="4">Fill both bagel halves with cheese and egg mixtures. Bake in the oven for 25 mins, or until the egg is cooked. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 375°F (190°C). </steps_updated>
+    <steps_updated num="1">In a small bowl, mix cheese, bacon, and green onion. </steps_updated>
+    <steps_updated num="2">In a small bowl, whip 2 eggs with milk. </steps_updated>
+    <steps_updated num="3">Carefully hollow out 1 bagel with a small silver spoon. </steps_updated>
+    <steps_updated num="4">Place both bagel halves on a baking sheet. </steps_updated>
+    <steps_updated num="5">Fill both bagel halves with cheese and egg mixtures. </steps_updated>
+    <steps_updated num="6">Bake in the oven for 25 mins, or until the egg is cooked. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

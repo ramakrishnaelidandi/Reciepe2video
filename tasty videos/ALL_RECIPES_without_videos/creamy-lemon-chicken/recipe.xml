@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Creamy Lemon Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/creamy-lemon-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="4">1 ½ tablespoons ; butter </ingredient>
+    <ingredient num="5">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="6">1 ¼ cups ; chicken stock ; (295 mL) </ingredient>
+    <ingredient num="7">1 cup ; heavy cream ; (235 mL) </ingredient>
+    <ingredient num="8">1 teaspoon ; salt </ingredient>
+    <ingredient num="9">1 teaspoon ; pepper </ingredient>
+    <ingredient num="10">1 ; lemon, juiced </ingredient>
+    <ingredient num="11">1 ; lemon, sliced </ingredient>
+    <ingredient num="12">fresh parsley, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Date Night</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33905/low_1497303137.m3u8</low>
+    <high>https://vid.tasty.co/output/33905/mp4_720x1280/1497303137</high>
+  </video>
+  <steps>
+    <step num="0">On a cutting board, cut the chicken breasts in half, widthwise. </step>
+    <step num="1">Lay chicken flat and season both sides with salt and pepper. </step>
+    <step num="2">Gently coat the chicken pieces in the flour, shaking off any excess. </step>
+    <step num="3">Heat a skillet on medium-high heat and add the butter and oil, swirling together to coat the pan. </step>
+    <step num="4">Place the chicken breasts into the pan and cook for 3-5 minutes or until golden brown. </step>
+    <step num="5">Flip the chicken and cook the other side, another 3-5 minutes, or until chicken is cooked through. </step>
+    <step num="6">Remove the chicken from the skillet and set aside. </step>
+    <step num="7">Pour ¼ cup (60 ml) of the chicken stock in the pan and scrape up any bits that may have stuck to the bottom of the pan. </step>
+    <step num="8">Add the rest of the stock and the cream and stir. </step>
+    <step num="9">Season with salt and pepper, and add the lemon juice. </step>
+    <step num="10">Simmer for 5 minutes. Add the chicken back to the pan and top with sliced lemons. </step>
+    <step num="11">Spoon the sauce over the chicken. </step>
+    <step num="12">Remove from heat. Sauce will thicken as it cools. </step>
+    <step num="13">Serve with parsley and extra sauce. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">On a cutting board, cut the chicken breasts in half, widthwise. </steps_updated>
+    <steps_updated num="1">Lay chicken flat and season both sides with salt and pepper. </steps_updated>
+    <steps_updated num="2">Gently coat the chicken pieces in the flour, shaking off any excess. </steps_updated>
+    <steps_updated num="3">Heat a skillet on medium-high heat and add the butter and oil, swirling together to coat the pan. </steps_updated>
+    <steps_updated num="4">Place the chicken breasts into the pan and cook for 3-5 minutes or until golden brown. </steps_updated>
+    <steps_updated num="5">Flip the chicken and cook the other side, another 3-5 minutes, or until chicken is cooked through. </steps_updated>
+    <steps_updated num="6">Remove the chicken from the skillet and set aside. </steps_updated>
+    <steps_updated num="7">Pour ¼ cup (60 ml) of the chicken stock in the pan and scrape up any bits that may have stuck to the bottom of the pan. </steps_updated>
+    <steps_updated num="8">Add the rest of the stock and the cream and stir. </steps_updated>
+    <steps_updated num="9">Season with salt and pepper, and add the lemon juice. </steps_updated>
+    <steps_updated num="10">Simmer for 5 minutes. </steps_updated>
+    <steps_updated num="11">Add the chicken back to the pan and top with sliced lemons. </steps_updated>
+    <steps_updated num="12">Spoon the sauce over the chicken. </steps_updated>
+    <steps_updated num="13">Remove from heat. </steps_updated>
+    <steps_updated num="14">Sauce will thicken as it cools. </steps_updated>
+    <steps_updated num="15">Serve with parsley and extra sauce. </steps_updated>
+    <steps_updated num="16">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

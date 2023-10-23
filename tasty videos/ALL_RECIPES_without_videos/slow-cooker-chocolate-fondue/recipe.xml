@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Slow Cooker Chocolate Fondue Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/slow-cooker-chocolate-fondue</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/sweet-savory-fondues-for-a-party</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ¼ cups ; semi-sweet chocolate chips ; (220 g) </ingredient>
+    <ingredient num="1">1 cup ; dark chocolate chips ; (175 g) </ingredient>
+    <ingredient num="2">1 ½ cups ; heavy cream ; (360 mL) </ingredient>
+    <ingredient num="3">½ teaspoon ; salt </ingredient>
+    <ingredient num="4">assorted fruits </ingredient>
+    <ingredient num="5">cookies </ingredient>
+    <ingredient num="6">marshmallow </ingredient>
+    <ingredient num="7">chips </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Casual Party</category>
+    <category num="4">Indulgent Sweets</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107248/hls24_1535583170.m3u8</low>
+    <high>https://vid.tasty.co/output/107248/landscape_720/1535583170</high>
+  </video>
+  <duration>
+    <start_time>79.5</start_time>
+    <end_time>119.133</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the chocolate chips, heavy cream, and salt to a slow cooker. Cover and cook on high for 30-45 minutes, stirring every 10 minutes, or until fully melted. </step>
+    <step num="1">Turn the slow cooker to warm and serve the fondue with your favorite items for dipping. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the chocolate chips, heavy cream, and salt to a slow cooker. </steps_updated>
+    <steps_updated num="1">Cover and cook on high for 30-45 minutes, stirring every 10 minutes, or until fully melted. </steps_updated>
+    <steps_updated num="2">Turn the slow cooker to warm and serve the fondue with your favorite items for dipping. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

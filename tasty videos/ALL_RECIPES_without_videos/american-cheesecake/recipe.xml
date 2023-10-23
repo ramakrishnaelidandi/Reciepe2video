@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>American Cheesecake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/american-cheesecake</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/american-vs-japanese-cheesecake</comp_url>
+  <ingredients>
+    <ingredient num="0">12 ; graham crackers, crushed </ingredient>
+    <ingredient num="1">½ cup ; butter, melted ; (115 g) </ingredient>
+    <ingredient num="2">24 oz ; cream cheese, at room temperature ; (680 g) </ingredient>
+    <ingredient num="3">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="4">4 ; eggs, beaten </ingredient>
+    <ingredient num="5">1 tablespoon ; vanilla essense </ingredient>
+    <ingredient num="6">mixed berries, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Desserts</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Bakery Goods</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/77175/hls24_1518043081.m3u8</low>
+    <high>https://vid.tasty.co/output/77175/landscape_720/1518043081</high>
+  </video>
+  <duration>
+    <start_time>30.0</start_time>
+    <end_time>76.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350ºF (180ºC). </step>
+    <step num="1">In a bowl, add the crushed graham crackers and melted butter and stir to combine. </step>
+    <step num="2">Place the graham cracker mixture in a greased 8-inch (20-cm) springform pan, spreading them in an even layer. Bake for 20 minutes or until in turns slightly golden on the top. </step>
+    <step num="3">In a bowl, mix the cream cheese and sugar using a hand mixer until smooth. </step>
+    <step num="4">Add the eggs and vanilla, and continue beating until all ingredients are fully incorporated. </step>
+    <step num="5">Add the cream cheese mixture to the top of the graham cracker crust. </step>
+    <step num="6">Bake for 1 hour, or until it looks semi-jiggly in the center and set on the edges. </step>
+    <step num="7">Refrigerate for 12 hours, or overnight. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350ºF (180ºC). </steps_updated>
+    <steps_updated num="1">In a bowl, add the crushed graham crackers and melted butter and stir to combine. </steps_updated>
+    <steps_updated num="2">Place the graham cracker mixture in a greased 8-inch (20-cm) springform pan, spreading them in an even layer. </steps_updated>
+    <steps_updated num="3">Bake for 20 minutes or until in turns slightly golden on the top. </steps_updated>
+    <steps_updated num="4">In a bowl, mix the cream cheese and sugar using a hand mixer until smooth. </steps_updated>
+    <steps_updated num="5">Add the eggs and vanilla, and continue beating until all ingredients are fully incorporated. </steps_updated>
+    <steps_updated num="6">Add the cream cheese mixture to the top of the graham cracker crust. </steps_updated>
+    <steps_updated num="7">Bake for 1 hour, or until it looks semi-jiggly in the center and set on the edges. </steps_updated>
+    <steps_updated num="8">Refrigerate for 12 hours, or overnight. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00735</start_time>
+    <end_time>02306</end_time>
+  </duration_human>
+</recipe>

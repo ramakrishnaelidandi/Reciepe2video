@@ -1,0 +1,58 @@
+<recipe>
+  <title>American Burger &#8220;Juicy Lucy&#8221; Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/american-burger-juicy-lucy</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-burgers-around-the-world</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 715 13278 11088 20 5622 2449 13278 4563 5981 </ingredient>
+    <ingredient num="1">3917 8071 13278 82 </ingredient>
+    <ingredient num="2">1580 8071 13278 7845 </ingredient>
+    <ingredient num="3">3917 8071 13278 6334 11703 </ingredient>
+    <ingredient num="4">3917 14014 13278 5766 </ingredient>
+    <ingredient num="5">8580 643 13278 9784 13810 976 669 13086 10459 7306 13278 13412 5981 </ingredient>
+    <ingredient num="6">13086 13278 11795 9574 </ingredient>
+    <ingredient num="7">13086 9259 13278 7035 8421 976 210 2532 </ingredient>
+    <ingredient num="8">13086 8535 13278 9668 </ingredient>
+    <ingredient num="9">13086 13009 13278 9227 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">BBQ</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/10187/low_1473975104.m3u8</low>
+    <high>https://vid.tasty.co/output/10187/mp4_720x1280/1473975104</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>27.95</end_time>
+  </duration>
+  <steps>
+    <step num="0">9393 3626 11951 8050 11907 1681 3584 4309 </step>
+    <step num="1">9772 11951 1946 669 5994 7497 10869 415 3345 5994 9651 371 9784 6634 9844 11951 1946 2043 5412 11951 11450 745 5994 8050 1391 12313 6292 </step>
+    <step num="2">5362 1391 11951 374 1946 13817 4496 </step>
+    <step num="3">8889 5766 210 5994 5687 11770 13757 2082 </step>
+    <step num="4">264 11951 6396 7990 13086 8927 4255 11951 3859 7780 542 415 2550 7990 11061 3954 12689 </step>
+    <step num="5">11547 11951 6396 1391 11951 6281 7035 9491 13817 6087 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9393 3626 11951 8050 11907 1681 3584 4309 </steps_updated>
+    <steps_updated num="1">9772 11951 1946 669 5994 7497 10869 415 3345 5994 9651 371 9784 6634 9844 11951 1946 2043 5412 11951 11450 </steps_updated>
+    <steps_updated num="2">745 5994 8050 1391 12313 6292 </steps_updated>
+    <steps_updated num="3">5362 1391 11951 374 1946 13817 4496 </steps_updated>
+    <steps_updated num="4">8889 5766 210 5994 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="5">264 11951 6396 7990 13086 8927 4255 11951 3859 7780 542 415 2550 7990 11061 3954 12689 </steps_updated>
+    <steps_updated num="6">11547 11951 6396 1391 11951 6281 7035 9491 13817 6087 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00861</end_time>
+  </duration_human>
+</recipe>

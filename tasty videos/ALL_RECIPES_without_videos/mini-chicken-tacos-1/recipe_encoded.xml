@@ -1,0 +1,41 @@
+<recipe>
+  <title>Mini Chicken Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mini-chicken-tacos-1</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-rotisserie-chicken-lunches</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 2605 13278 3333 7983 13278 9377 5981 </ingredient>
+    <ingredient num="1">8580 13278 2192 890 5817 </ingredient>
+    <ingredient num="2">8580 9486 13278 4617 12384 11588 341 </ingredient>
+    <ingredient num="3">11061 13278 8602 7042 976 210 2532 </ingredient>
+    <ingredient num="4">1580 2605 13278 8601 11948 3745 13278 9473 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 13584 6143 13278 1420 5981 </ingredient>
+    <ingredient num="6">12791 2605 13278 3333 9227 13278 828 5981 </ingredient>
+    <ingredient num="7">12791 2605 13278 7495 1279 14538 13278 1936 5981 </ingredient>
+    <ingredient num="8">12791 2605 13278 5218 13278 9377 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/33514/low_1496795364.m3u8</low>
+    <high>https://vid.tasty.co/output/33514/mp4_720x1280/1496795364</high>
+  </video>
+  <duration>
+    <start_time>85.75</start_time>
+    <end_time>115.9</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 3333 7983 210 5994 6661 3801 13817 7475 890 5817 13817 3345 4255 10707 371 11951 9104 9179 7272 5149 3745 13085 11948 13584 13829 7334 13817 14538 10104 1963 2141 2096 560 10909 7857 5570 5218 210 5994 2192 6661 1854 </step>
+    <step num="1">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 3333 7983 210 5994 6661 3801 13817 7475 890 5817 13817 3345 4255 10707 371 11951 9104 </steps_updated>
+    <steps_updated num="1">9179 7272 5149 3745 13085 11948 13584 13829 7334 13817 14538 10104 1963 2141 2096 560 10909 7857 </steps_updated>
+    <steps_updated num="2">5570 5218 210 5994 2192 6661 1854 </steps_updated>
+    <steps_updated num="3">9092 </steps_updated>
+  </steps_updated>
+</recipe>

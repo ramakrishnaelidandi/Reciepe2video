@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Hummus Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-hummus</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/hummus-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">14 oz ; chickpeas, 1 can ; (395 g) </ingredient>
+    <ingredient num="1">2 cloves ; garlic </ingredient>
+    <ingredient num="2">¼ cup ; tahini sauce ; (60 g) </ingredient>
+    <ingredient num="3">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="4">1 teaspoon ; cumin </ingredient>
+    <ingredient num="5">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="6">½ teaspoon ; salt </ingredient>
+    <ingredient num="7">½ teaspoon ; black pepper </ingredient>
+    <ingredient num="8">2 tablespoons ; extra virgin olive oil </ingredient>
+    <ingredient num="9">2 tablespoons ; water </ingredient>
+    <ingredient num="10">fresh parsley, chopped, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Appetizers</category>
+    <category num="7">Snacks</category>
+    <category num="8">Casual Party</category>
+    <category num="9">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/46539/low_1502212838.m3u8</low>
+    <high>https://vid.tasty.co/output/46539/mp4_720x1280/1502212838</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>25.3</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add chickpeas, garlic, tahini, lemon juice, and seasonings to the bowl of a 2-quart food processor. Blend until smooth. </step>
+    <step num="1">While blending, slowly add in the olive oil and water until hummus is creamy and smooth. </step>
+    <step num="2">Garnish with additional red pepper flakes, chopped parsley, and a drizzle of olive oil. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add chickpeas, garlic, tahini, lemon juice, and seasonings to the bowl of a 2-quart food processor. </steps_updated>
+    <steps_updated num="1">Blend until smooth. </steps_updated>
+    <steps_updated num="2">While blending, slowly add in the olive oil and water until hummus is creamy and smooth. </steps_updated>
+    <steps_updated num="3">Garnish with additional red pepper flakes, chopped parsley, and a drizzle of olive oil. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00771</end_time>
+  </duration_human>
+</recipe>

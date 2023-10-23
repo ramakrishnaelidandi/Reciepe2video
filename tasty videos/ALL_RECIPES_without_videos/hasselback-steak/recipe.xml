@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hasselback Steak Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hasselback-steak</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 tablespoons ; oil </ingredient>
+    <ingredient num="1">1 ; shallot </ingredient>
+    <ingredient num="2">2 cloves ; garlic, chopped </ingredient>
+    <ingredient num="3">2 cups ; mushroom, quartered ; (150 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">¼ teaspoon ; pepper </ingredient>
+    <ingredient num="6">4 oz ; cream cheese, softened ; (115 g) </ingredient>
+    <ingredient num="7">2 ; egg yolks </ingredient>
+    <ingredient num="8">¼ cup ; fresh chives, chopped ; (10 g) </ingredient>
+    <ingredient num="9">1 ; sirloin steak </ingredient>
+    <ingredient num="10">2 teaspoons ; salt </ingredient>
+    <ingredient num="11">2 teaspoons ; pepper </ingredient>
+    <ingredient num="12">2 tablespoons ; canola oil </ingredient>
+    <ingredient num="13">¼ cup ; grated parmesan cheese ; (30 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">British</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Fusion</category>
+    <category num="6">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31971/low_1495125015.m3u8</low>
+    <high>https://vid.tasty.co/output/31971/mp4_720x1280/1495125015</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200°C). </step>
+    <step num="1">Heat oil in a pan over medium heat. Add shallots and garlic, cooking until translucent. Add mushrooms, salt, and pepper, cooking until mushrooms are golden brown. Remove from heat. </step>
+    <step num="2">In a medium bowl, combine mushrooms, cream cheese, egg yolks, and chives, stirring until evenly incorporated. Set aside. </step>
+    <step num="3">On a cutting board, season both sides of the steak with salt and pepper. </step>
+    <step num="4">Cut about ¾ of the way through the steak, making the incisions 1-inch (2 cm) part. </step>
+    <step num="5">Pack a spoonful of the mushrooms mixture into each cut in the steak. </step>
+    <step num="6">Heat the oil in a pan over high heat. Sear the steak for about 30 seconds, then bake for 10-15 minutes, depending on how you like your steak cooked. Slice and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200°C). </steps_updated>
+    <steps_updated num="1">Heat oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="2">Add shallots and garlic, cooking until translucent. </steps_updated>
+    <steps_updated num="3">Add mushrooms, salt, and pepper, cooking until mushrooms are golden brown. </steps_updated>
+    <steps_updated num="4">Remove from heat. </steps_updated>
+    <steps_updated num="5">In a medium bowl, combine mushrooms, cream cheese, egg yolks, and chives, stirring until evenly incorporated. </steps_updated>
+    <steps_updated num="6">Set aside. </steps_updated>
+    <steps_updated num="7">On a cutting board, season both sides of the steak with salt and pepper. </steps_updated>
+    <steps_updated num="8">Cut about ¾ of the way through the steak, making the incisions 1-inch (2 cm) part. </steps_updated>
+    <steps_updated num="9">Pack a spoonful of the mushrooms mixture into each cut in the steak. </steps_updated>
+    <steps_updated num="10">Heat the oil in a pan over high heat. </steps_updated>
+    <steps_updated num="11">Sear the steak for about 30 seconds, then bake for 10-15 minutes, depending on how you like your steak cooked. </steps_updated>
+    <steps_updated num="12">Slice and serve. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

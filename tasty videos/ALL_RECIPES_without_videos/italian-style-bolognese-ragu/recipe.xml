@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Italian-style Bolognese (Ragù) Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/italian-style-bolognese-ragu</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">¼ cup ; butter ; (50 g) </ingredient>
+    <ingredient num="2">1 ; medium onion, finely diced </ingredient>
+    <ingredient num="3">1 ; large carrot, finely diced </ingredient>
+    <ingredient num="4">1 stalk ; celery, finely diced </ingredient>
+    <ingredient num="5">4 oz ; pancetta, diced ; (100 g) </ingredient>
+    <ingredient num="6">7 oz ; lean beef, minced ; (200 g) </ingredient>
+    <ingredient num="7">5 ⅓ oz ; lean pork, minced ; (150 g) </ingredient>
+    <ingredient num="8">¾ cup ; red wine ; (200 mL) </ingredient>
+    <ingredient num="9">2 tablespoons ; double concentrated tomato puree </ingredient>
+    <ingredient num="10">2 cups ; chicken stock ; (500 mL) </ingredient>
+    <ingredient num="11">2 cups ; tagliatelle, cooked ; (400 g) </ingredient>
+    <ingredient num="12">parmesan cheese, grated </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26840/low_1489774048.m3u8</low>
+    <high>https://vid.tasty.co/output/26840/mp4_720x1280/1489774048</high>
+  </video>
+  <steps>
+    <step num="0">Heat olive oil and butter in a large pan over medium heat. Add onion, carrot, celery, and pancetta. Cook for around 10 minutes until the onions start to look translucent. </step>
+    <step num="1">Add the minced meats and brown all over, ensure the meat is fully broken up and no large chunks remain. </step>
+    <step num="2">Add salt and pepper to taste. Increase the heat, add the wine, and allow to evaporate for around 2-3 minutes. </step>
+    <step num="3">In a large jug, dilute the tomato puree into the chicken stock and add to the pan, stir well. </step>
+    <step num="4">Reduce to a low heat, then cover and simmer for 2 hours. Check from time to time to ensure the sauce is not drying out. If this occurs, add a small amount of stock. </step>
+    <step num="5">Cook desired pasta and toss in the bolognese. </step>
+    <step num="6">Top with parmesan cheese and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat olive oil and butter in a large pan over medium heat. </steps_updated>
+    <steps_updated num="1">Add onion, carrot, celery, and pancetta. </steps_updated>
+    <steps_updated num="2">Cook for around 10 minutes until the onions start to look translucent. </steps_updated>
+    <steps_updated num="3">Add the minced meats and brown all over, ensure the meat is fully broken up and no large chunks remain. </steps_updated>
+    <steps_updated num="4">Add salt and pepper to taste. </steps_updated>
+    <steps_updated num="5">Increase the heat, add the wine, and allow to evaporate for around 2-3 minutes. </steps_updated>
+    <steps_updated num="6">In a large jug, dilute the tomato puree into the chicken stock and add to the pan, stir well. </steps_updated>
+    <steps_updated num="7">Reduce to a low heat, then cover and simmer for 2 hours. </steps_updated>
+    <steps_updated num="8">Check from time to time to ensure the sauce is not drying out. </steps_updated>
+    <steps_updated num="9">If this occurs, add a small amount of stock. </steps_updated>
+    <steps_updated num="10">Cook desired pasta and toss in the bolognese. </steps_updated>
+    <steps_updated num="11">Top with parmesan cheese and serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,62 @@
+<recipe>
+  <title>Eggplant Parm Bites Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/eggplant-parm-bites</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 13757 2070 1088 976 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">6735 2526 13278 6209 749 3962 </ingredient>
+    <ingredient num="3">13133 643 13278 12426 13810 6124 13278 13345 5981 </ingredient>
+    <ingredient num="4">3917 2605 13278 3333 10865 14538 13278 11953 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 3333 109 14538 13278 2264 5981 </ingredient>
+    <ingredient num="6">4061 13278 14463 11933 3247 </ingredient>
+    <ingredient num="7">890 </ingredient>
+    <ingredient num="8">11239 4465 9031 </ingredient>
+    <ingredient num="9">7632 7990 5291 </ingredient>
+    <ingredient num="10">9122 7280 7990 7361 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Appetizers</category>
+    <category num="2">Snacks</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31966/low_1495124970.m3u8</low>
+    <high>https://vid.tasty.co/output/31966/mp4_720x1280/1495124970</high>
+  </video>
+  <steps>
+    <step num="0">3235 11951 1073 13817 7454 2696 4255 5994 12 1811 10926 10765 8800 </step>
+    <step num="1">13382 82 11951 1073 4255 6697 10860 13817 1752 560 1788 7990 238 8927 560 12418 13817 1473 2696 1198 4149 </step>
+    <step num="2">12677 3482 11951 12282 13817 1198 82 6781 11951 1073 1391 3274 12 3566 </step>
+    <step num="3">10950 5994 13757 3624 12377 740 11951 749 2254 8111 11493 13817 797 6216 6647 9393 6690 </step>
+    <step num="4">5939 4817 14311 6043 1073 4743 125 6285 5994 14014 371 11951 12426 2373 8830 11951 8535 13817 3345 4255 5994 3802 12 10926 10765 8141 </step>
+    <step num="5">13855 7990 238 8927 560 3917 5664 </step>
+    <step num="6">10950 2734 10909 9222 3345 11951 6467 4465 8092 13817 11951 374 13086 14463 6867 </step>
+    <step num="7">6054 1073 6781 11951 7668 13817 6798 10763 3859 210 6467 415 4036 415 4465 10745 309 1956 3954 210 6216 13817 5994 11757 1441 210 11951 4465 10745 5570 13352 210 11951 7668 3343 1762 10359 560 9467 </step>
+    <step num="8">10950 5994 2597 7110 7855 5766 560 9988 8999 8916 1073 210 3997 13086 7811 5994 7555 1681 9861 870 4255 8554 6701 </step>
+    <step num="9">6054 13817 3345 4255 5994 12 1811 10926 4157 560 3499 3482 7115 1198 14158 6252 1391 12051 12774 1391 9122 9286 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3235 11951 1073 13817 7454 2696 4255 5994 12 1811 10926 10765 8800 </steps_updated>
+    <steps_updated num="1">13382 82 11951 1073 4255 6697 10860 13817 1752 560 1788 7990 238 8927 560 12418 13817 1473 2696 1198 4149 </steps_updated>
+    <steps_updated num="2">12677 3482 11951 12282 13817 1198 82 6781 11951 1073 1391 3274 12 3566 </steps_updated>
+    <steps_updated num="3">10950 5994 13757 3624 12377 740 11951 749 2254 8111 11493 13817 797 6216 6647 </steps_updated>
+    <steps_updated num="4">9393 6690 </steps_updated>
+    <steps_updated num="5">5939 4817 14311 6043 1073 4743 125 6285 5994 14014 371 11951 12426 2373 8830 11951 8535 13817 3345 4255 5994 3802 12 10926 10765 8141 </steps_updated>
+    <steps_updated num="6">13855 7990 238 8927 560 3917 5664 </steps_updated>
+    <steps_updated num="7">10950 2734 10909 9222 3345 11951 6467 4465 8092 13817 11951 374 13086 14463 6867 </steps_updated>
+    <steps_updated num="8">6054 1073 6781 11951 7668 13817 6798 10763 3859 210 6467 415 4036 415 4465 10745 </steps_updated>
+    <steps_updated num="9">309 1956 3954 210 6216 13817 5994 11757 1441 210 11951 4465 10745 </steps_updated>
+    <steps_updated num="10">5570 13352 210 11951 7668 3343 1762 10359 560 9467 </steps_updated>
+    <steps_updated num="11">10950 5994 2597 7110 7855 5766 560 9988 8999 </steps_updated>
+    <steps_updated num="12">8916 1073 210 3997 13086 7811 5994 7555 1681 9861 870 4255 8554 6701 </steps_updated>
+    <steps_updated num="13">6054 13817 3345 4255 5994 12 1811 10926 4157 560 3499 3482 7115 1198 14158 </steps_updated>
+    <steps_updated num="14">6252 1391 12051 </steps_updated>
+    <steps_updated num="15">12774 1391 9122 9286 </steps_updated>
+    <steps_updated num="16">9092 </steps_updated>
+  </steps_updated>
+</recipe>

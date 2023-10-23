@@ -1,0 +1,57 @@
+<recipe>
+  <title>Grilled Cheese &#8220;Ravioli&#8221; Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/grilled-cheese-ravioli</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6735 8535 13278 125 4465 </ingredient>
+    <ingredient num="1">8580 8535 13278 9784 14538 </ingredient>
+    <ingredient num="2">8580 8535 13278 10847 14538 </ingredient>
+    <ingredient num="3">4061 8535 13278 12868 </ingredient>
+    <ingredient num="4">6216 10086 </ingredient>
+    <ingredient num="5">1580 2605 13278 9924 13278 6518 5981 </ingredient>
+    <ingredient num="6">9668 4723 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Kid-Friendly</category>
+    <category num="2">Lunch</category>
+    <category num="3">Game Day</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/66604/hls24_1512686331.m3u8</low>
+    <high>https://vid.tasty.co/output/66604/landscape_720/1512686331</high>
+  </video>
+  <steps>
+    <step num="0">12474 5994 4669 8667 7777 11951 2577 3482 371 11951 1208 8724 4465 7868 1391 13676 5895 5994 11526 11571 </step>
+    <step num="1">12946 797 12205 371 9784 14538 13817 7777 3557 669 4061 14311 13332 5362 1391 11951 12846 4496 </step>
+    <step num="2">14100 11951 8535 371 12868 669 5994 9346 </step>
+    <step num="3">5570 797 9152 371 10538 4465 4255 5994 9061 5570 8580 8581 371 9784 5833 6665 12573 1444 5570 11951 12868 4255 10707 371 11951 11450 5570 8580 8581 371 11951 12846 4255 10707 371 11951 12868 5833 11951 12573 1444 </step>
+    <step num="4">11881 11951 5832 371 11951 4465 1391 6216 7137 </step>
+    <step num="5">12946 11951 11649 10538 9152 371 4465 13817 3345 3557 4255 143 8724 573 11951 10663 5209 5994 1514 14484 14473 11951 5832 371 11951 13591 1681 11951 5832 12573 4757 </step>
+    <step num="6">10950 5994 5687 7855 3917 14014 371 9924 1681 5335 4255 13757 2082 5570 11951 13591 210 11951 10590 264 7990 6285 13086 8927 4255 10763 11801 1681 10963 13817 2111 6054 6781 2082 </step>
+    <step num="7">12774 6908 1391 6222 9668 7853 </step>
+    <step num="8">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12474 5994 4669 8667 7777 11951 2577 3482 371 11951 1208 </steps_updated>
+    <steps_updated num="1">8724 4465 7868 1391 13676 5895 5994 11526 11571 </steps_updated>
+    <steps_updated num="2">12946 797 12205 371 9784 14538 13817 7777 3557 669 4061 14311 13332 </steps_updated>
+    <steps_updated num="3">5362 1391 11951 12846 4496 </steps_updated>
+    <steps_updated num="4">14100 11951 8535 371 12868 669 5994 9346 </steps_updated>
+    <steps_updated num="5">5570 797 9152 371 10538 4465 4255 5994 9061 </steps_updated>
+    <steps_updated num="6">5570 8580 8581 371 9784 5833 6665 12573 1444 </steps_updated>
+    <steps_updated num="7">5570 11951 12868 4255 10707 371 11951 11450 </steps_updated>
+    <steps_updated num="8">5570 8580 8581 371 11951 12846 4255 10707 371 11951 12868 5833 11951 12573 1444 </steps_updated>
+    <steps_updated num="9">11881 11951 5832 371 11951 4465 1391 6216 7137 </steps_updated>
+    <steps_updated num="10">12946 11951 11649 10538 9152 371 4465 13817 3345 3557 4255 143 </steps_updated>
+    <steps_updated num="11">8724 573 11951 10663 </steps_updated>
+    <steps_updated num="12">5209 5994 1514 14484 14473 11951 5832 371 11951 13591 1681 11951 5832 12573 4757 </steps_updated>
+    <steps_updated num="13">10950 5994 5687 7855 3917 14014 371 9924 1681 5335 4255 13757 2082 </steps_updated>
+    <steps_updated num="14">5570 11951 13591 210 11951 10590 </steps_updated>
+    <steps_updated num="15">264 7990 6285 13086 8927 4255 10763 11801 1681 10963 13817 2111 </steps_updated>
+    <steps_updated num="16">6054 6781 2082 </steps_updated>
+    <steps_updated num="17">12774 6908 1391 6222 9668 7853 </steps_updated>
+    <steps_updated num="18">9092 </steps_updated>
+  </steps_updated>
+</recipe>

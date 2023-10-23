@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Smoked Salmon Fillet Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/smoked-salmon-fillet</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/unexpected-cooking-techniques</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; hickory wood chip ; (90 g) </ingredient>
+    <ingredient num="1">2 cups ; water ; (480 mL) </ingredient>
+    <ingredient num="2">8 oz ; salmon fillet ; (225 g) </ingredient>
+    <ingredient num="3">old bay seasoning, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Date Night</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/80534/hls24_1519324259.m3u8</low>
+    <high>https://vid.tasty.co/output/80534/landscape_720/1519324259</high>
+  </video>
+  <duration>
+    <start_time>69.0</start_time>
+    <end_time>93.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a medium bowl, soak the wood chips in the water for 2-3 hours. </step>
+    <step num="1">Drain the chips and transfer to a medium cast iron pan. </step>
+    <step num="2">Place a piece of parchment paper over the wood chips. </step>
+    <step num="3">Season the salmon with Old Bay Seasoning. </step>
+    <step num="4">Place the salmon on top of the parchment paper and cover the pan with aluminum foil. </step>
+    <step num="5">Cook over medium-high heat for 10-12 minutes, until an instant read thermometer inserted in the center of the fish reads 145˚F (63˚C). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a medium bowl, soak the wood chips in the water for 2-3 hours. </steps_updated>
+    <steps_updated num="1">Drain the chips and transfer to a medium cast iron pan. </steps_updated>
+    <steps_updated num="2">Place a piece of parchment paper over the wood chips. </steps_updated>
+    <steps_updated num="3">Season the salmon with Old Bay Seasoning. </steps_updated>
+    <steps_updated num="4">Place the salmon on top of the parchment paper and cover the pan with aluminum foil. </steps_updated>
+    <steps_updated num="5">Cook over medium-high heat for 10-12 minutes, until an instant read thermometer inserted in the center of the fish reads 145˚F (63˚C). </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01644</start_time>
+    <end_time>02655</end_time>
+  </duration_human>
+</recipe>

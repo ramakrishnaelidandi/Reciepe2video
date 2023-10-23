@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Spaghetti Squash Shrimp Scampi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/spaghetti-squash-shrimp-scampi</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ ; spaghetti squash, halved vertically and seeded </ingredient>
+    <ingredient num="1">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="4">4 oz ; shrimp, peeled, deveined ; (115 g) </ingredient>
+    <ingredient num="5">¾ teaspoon ; salt </ingredient>
+    <ingredient num="6">¼ teaspoon ; ground black pepper </ingredient>
+    <ingredient num="7">1 ; lemon, zested </ingredient>
+    <ingredient num="8">1 ; lemon, juiced </ingredient>
+    <ingredient num="9">2 tablespoons ; fresh parsley, chopped </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Seafood</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/72528/hls24_1515715313.m3u8</low>
+    <high>https://vid.tasty.co/output/72528/landscape_720/1515715313</high>
+  </video>
+  <steps>
+    <step num="0">Microwave squash on high until tender, about 10 minutes. Shred the flesh of the squash and discard the skin. </step>
+    <step num="1">Heat olive oil in a pan over medium heat. Once the oil begins to shimmer, add the garlic, red pepper flakes, and shrimp, and cook until shrimp are pink and start to curl, about 2 minutes. </step>
+    <step num="2">Add the lemon zest, salt, pepper, and lemon juice, and cook for 1 minute. </step>
+    <step num="3">Remove from heat, add parsley and shredded squash, and stir to combine. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Microwave squash on high until tender, about 10 minutes. </steps_updated>
+    <steps_updated num="1">Shred the flesh of the squash and discard the skin. </steps_updated>
+    <steps_updated num="2">Heat olive oil in a pan over medium heat. </steps_updated>
+    <steps_updated num="3">Once the oil begins to shimmer, add the garlic, red pepper flakes, and shrimp, and cook until shrimp are pink and start to curl, about 2 minutes. </steps_updated>
+    <steps_updated num="4">Add the lemon zest, salt, pepper, and lemon juice, and cook for 1 minute. </steps_updated>
+    <steps_updated num="5">Remove from heat, add parsley and shredded squash, and stir to combine. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

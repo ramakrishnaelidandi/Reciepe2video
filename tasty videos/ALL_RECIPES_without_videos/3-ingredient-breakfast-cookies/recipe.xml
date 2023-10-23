@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>3-ingredient Breakfast Cookies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/3-ingredient-breakfast-cookies</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 cup ; oats ; (100 g) </ingredient>
+    <ingredient num="1">2 ; bananas </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/51799/low_1505168514.m3u8</low>
+    <high>https://vid.tasty.co/output/51799/mp4_720x1280/1505168514</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">In a large mixing bowl combine the oats and banana and mash banana and mix until well incorporated. </step>
+    <step num="2">Add additional ingredients should you desire. </step>
+    <step num="3">Bake for 12 minutes. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">In a large mixing bowl combine the oats and banana and mash banana and mix until well incorporated. </steps_updated>
+    <steps_updated num="2">Add additional ingredients should you desire. </steps_updated>
+    <steps_updated num="3">Bake for 12 minutes. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

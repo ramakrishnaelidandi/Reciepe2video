@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Jalebi Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jalebi</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/street-treats-from-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; all-purpose flour ; (125 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="2">1 pinch ; baking soda </ingredient>
+    <ingredient num="3">3 tablespoons ; plain yogurt </ingredient>
+    <ingredient num="4">½ teaspoon ; ground cardamom, divided </ingredient>
+    <ingredient num="5">1 cup ; water, plus 1 tablespoon, divided ; (240 mL) </ingredient>
+    <ingredient num="6">¼ teaspoon ; turmeric powder, optional, or 2 drops of orange food coloring </ingredient>
+    <ingredient num="7">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="8">3 strands ; saffron </ingredient>
+    <ingredient num="9">½ teaspoon ; lemon juice </ingredient>
+    <ingredient num="10">oil, for frying </ingredient>
+    <ingredient num="11">rabri, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indian</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Indulgent Sweets</category>
+    <category num="3">Bakery Goods</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/96870/hls24_1527884128.m3u8</low>
+    <high>https://vid.tasty.co/output/96870/landscape_720/1527884128</high>
+  </video>
+  <duration>
+    <start_time>131.0</start_time>
+    <end_time>220.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, whisk together the flour, baking powder, and baking soda. </step>
+    <step num="1">Add the yogurt and ¼ teaspoon of cardamom. </step>
+    <step num="2">Add ½ cup (120 ml) of water and the orange food coloring. The batter should have the consistency of a thick pancake batter. Add more water if needed. </step>
+    <step num="3">Cover and let rest in a warm place for 10-12 hours to ferment, or until small bubbles develop on top of the batter. </step>
+    <step num="4">Once the batter has fermented, add the sugar and ½ cup (120 ml) of water to a small saucepan. Bring to a boil over medium heat. </step>
+    <step num="5">Add the remaining ¼ teaspoon of cardamom, the saffron strands, and lemon juice. </step>
+    <step num="6">Simmer until a sticky syrup develops, about 5 minutes. </step>
+    <step num="7">Whisk the batter and add a tablespoon of water if the batter looks too thick. Transfer to a squeeze bottle or piping bag. </step>
+    <step num="8">Heat oil in a large skillet over medium-low until it reaches 350°F (180°C). </step>
+    <step num="9">Squeeze the batter into the hot oil, making small circular spiral shapes. </step>
+    <step num="10">Increase the heat to medium-high. </step>
+    <step num="11">Fry the dough shapes until they are crispy on both sides, about 5 minutes. </step>
+    <step num="12">Remove and immediately dip in the syrup mixture. </step>
+    <step num="13">Serve with rabri, if desired. </step>
+    <step num="14">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, whisk together the flour, baking powder, and baking soda. </steps_updated>
+    <steps_updated num="1">Add the yogurt and ¼ teaspoon of cardamom. </steps_updated>
+    <steps_updated num="2">Add ½ cup (120 ml) of water and the orange food coloring. </steps_updated>
+    <steps_updated num="3">The batter should have the consistency of a thick pancake batter. </steps_updated>
+    <steps_updated num="4">Add more water if needed. </steps_updated>
+    <steps_updated num="5">Cover and let rest in a warm place for 10-12 hours to ferment, or until small bubbles develop on top of the batter. </steps_updated>
+    <steps_updated num="6">Once the batter has fermented, add the sugar and ½ cup (120 ml) of water to a small saucepan. </steps_updated>
+    <steps_updated num="7">Bring to a boil over medium heat. </steps_updated>
+    <steps_updated num="8">Add the remaining ¼ teaspoon of cardamom, the saffron strands, and lemon juice. </steps_updated>
+    <steps_updated num="9">Simmer until a sticky syrup develops, about 5 minutes. </steps_updated>
+    <steps_updated num="10">Whisk the batter and add a tablespoon of water if the batter looks too thick. </steps_updated>
+    <steps_updated num="11">Transfer to a squeeze bottle or piping bag. </steps_updated>
+    <steps_updated num="12">Heat oil in a large skillet over medium-low until it reaches 350°F (180°C). </steps_updated>
+    <steps_updated num="13">Squeeze the batter into the hot oil, making small circular spiral shapes. </steps_updated>
+    <steps_updated num="14">Increase the heat to medium-high. </steps_updated>
+    <steps_updated num="15">Fry the dough shapes until they are crispy on both sides, about 5 minutes. </steps_updated>
+    <steps_updated num="16">Remove and immediately dip in the syrup mixture. </steps_updated>
+    <steps_updated num="17">Serve with rabri, if desired. </steps_updated>
+    <steps_updated num="18">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

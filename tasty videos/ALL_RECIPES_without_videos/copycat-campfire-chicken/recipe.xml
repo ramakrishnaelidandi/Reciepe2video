@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Copycat Campfire Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/copycat-campfire-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; paprika </ingredient>
+    <ingredient num="1">2 teaspoons ; onion powder </ingredient>
+    <ingredient num="2">2 teaspoons ; salt </ingredient>
+    <ingredient num="3">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="4">1 teaspoon ; dried rosemary </ingredient>
+    <ingredient num="5">1 teaspoon ; black pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">1 ; whole chicken, quartered </ingredient>
+    <ingredient num="8">2 ; carrots, cut into thirds </ingredient>
+    <ingredient num="9">3 ; red skin potatoes, halved </ingredient>
+    <ingredient num="10">1 ear ; corn, quartered </ingredient>
+    <ingredient num="11">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="12">1 tablespoon ; butter </ingredient>
+    <ingredient num="13">5 sprigs ; fresh thyme </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Lunch</category>
+    <category num="5">Date Night</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47509/low_1502821451.m3u8</low>
+    <high>https://vid.tasty.co/output/47509/mp4_720x1280/1502821451</high>
+  </video>
+  <steps>
+    <step num="0">Combine paprika, onion powder, salt, garlic powder, rosemary, pepper, and oregano in a small bowl and mix well. Reserve 1 tablespoon of the spice mix and set aside. </step>
+    <step num="1">In a large ziplock bag, place the quartered chicken and spice mix. Marinate for 1 hour or overnight. </step>
+    <step num="2">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="3">Add the carrots, potatoes, and corn to a bowl and drizzle with oil and remaining 1 tablespoon of spice mix and toss until thoroughly coated. </step>
+    <step num="4">Heat a large pan with oil over high heat. Add the chicken pieces and cook until golden brown on both side. Set aside. </step>
+    <step num="5">Place the chicken and veggies on a sheet of aluminium foil. Top with butter and thyme. Fold the foil over the chicken and vegetables and cinch the edge so that no air can escape. </step>
+    <step num="6">Bake for 45 minutes, or chicken is completely cooked. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine paprika, onion powder, salt, garlic powder, rosemary, pepper, and oregano in a small bowl and mix well. </steps_updated>
+    <steps_updated num="1">Reserve 1 tablespoon of the spice mix and set aside. </steps_updated>
+    <steps_updated num="2">In a large ziplock bag, place the quartered chicken and spice mix. </steps_updated>
+    <steps_updated num="3">Marinate for 1 hour or overnight. </steps_updated>
+    <steps_updated num="4">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="5">Add the carrots, potatoes, and corn to a bowl and drizzle with oil and remaining 1 tablespoon of spice mix and toss until thoroughly coated. </steps_updated>
+    <steps_updated num="6">Heat a large pan with oil over high heat. </steps_updated>
+    <steps_updated num="7">Add the chicken pieces and cook until golden brown on both side. </steps_updated>
+    <steps_updated num="8">Set aside. </steps_updated>
+    <steps_updated num="9">Place the chicken and veggies on a sheet of aluminium foil. </steps_updated>
+    <steps_updated num="10">Top with butter and thyme. </steps_updated>
+    <steps_updated num="11">Fold the foil over the chicken and vegetables and cinch the edge so that no air can escape. </steps_updated>
+    <steps_updated num="12">Bake for 45 minutes, or chicken is completely cooked. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

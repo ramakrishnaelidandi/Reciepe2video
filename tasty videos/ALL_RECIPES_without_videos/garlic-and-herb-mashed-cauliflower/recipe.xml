@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Garlic and Herb Mashed Cauliflower Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-and-herb-mashed-cauliflower</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 heads ; cauliflower </ingredient>
+    <ingredient num="1">2 tablespoons ; olive oil </ingredient>
+    <ingredient num="2">3 cloves ; garlic, chopped </ingredient>
+    <ingredient num="3">½ cup ; sour cream ; (115 g) </ingredient>
+    <ingredient num="4">½ cup ; fresh chives, chopped ; (20 g) </ingredient>
+    <ingredient num="5">¼ cup ; fresh parsley ; (10 g) </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">1 teaspoon ; pepper </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Weeknight</category>
+    <category num="7">picnic</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/15099/low_1479489169.m3u8</low>
+    <high>https://vid.tasty.co/output/15099/mp4_720x1280/1479489169</high>
+  </video>
+  <steps>
+    <step num="0">Wrap cauliflower in a clean dish towel, then turn it upside down and bang it against the surface of your counter until you feel the cauliflower crack (be sure to rotate to break it up on all sides). </step>
+    <step num="1">Pull florets off of stem and break the bigger florets into smaller pieces. </step>
+    <step num="2">Bring a large pot of water to boil over high heat. </step>
+    <step num="3">Add the cauliflower pieces to the pot and boil, covered, for 15-18 minutes. </step>
+    <step num="4">Drain the cauliflower. </step>
+    <step num="5">Mash the cauliflower with a fork until smooth. </step>
+    <step num="6">Mix in remaining ingredients. Allow to cool for 5 minutes. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Wrap cauliflower in a clean dish towel, then turn it upside down and bang it against the surface of your counter until you feel the cauliflower crack (be sure to rotate to break it up on all sides). </steps_updated>
+    <steps_updated num="1">Pull florets off of stem and break the bigger florets into smaller pieces. </steps_updated>
+    <steps_updated num="2">Bring a large pot of water to boil over high heat. </steps_updated>
+    <steps_updated num="3">Add the cauliflower pieces to the pot and boil, covered, for 15-18 minutes. </steps_updated>
+    <steps_updated num="4">Drain the cauliflower. </steps_updated>
+    <steps_updated num="5">Mash the cauliflower with a fork until smooth. </steps_updated>
+    <steps_updated num="6">Mix in remaining ingredients. </steps_updated>
+    <steps_updated num="7">Allow to cool for 5 minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

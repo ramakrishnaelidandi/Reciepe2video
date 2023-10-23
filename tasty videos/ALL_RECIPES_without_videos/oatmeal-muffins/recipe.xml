@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Oatmeal Muffins Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/oatmeal-muffins</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-muffin-tin-breakfasts-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; banana </ingredient>
+    <ingredient num="1">1 ; egg </ingredient>
+    <ingredient num="2">1 teaspoon ; vanilla extract </ingredient>
+    <ingredient num="3">½ cup ; almond milk ; (120 mL) </ingredient>
+    <ingredient num="4">¼ cup ; maple syrup ; (55 g) </ingredient>
+    <ingredient num="5">½ cup ; greek yogurt ; (140 g) </ingredient>
+    <ingredient num="6">1 ½ cups ; rolled oats ; (150 g) </ingredient>
+    <ingredient num="7">1 teaspoon ; baking powder </ingredient>
+    <ingredient num="8">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="9">salt, to taste </ingredient>
+    <ingredient num="10">strawberry, sliced </ingredient>
+    <ingredient num="11">blueberry </ingredient>
+    <ingredient num="12">apple, sliced </ingredient>
+    <ingredient num="13">dark chocolate chip </ingredient>
+    <ingredient num="14">nut, chopped </ingredient>
+    <ingredient num="15">dried cranberry </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Breakfast</category>
+    <category num="4">Brunch</category>
+    <category num="5">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/28808/low_1491846108.m3u8</low>
+    <high>https://vid.tasty.co/output/28808/mp4_720x1280/1491846108</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>34.39</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 350˚F (180˚C). </step>
+    <step num="1">Mash banana in a large bowl until smooth and mix in all wet ingredients. Stir in dry ingredients until thoroughly mixed. </step>
+    <step num="2">Pour batter into greased muffin tin, filling each tin about ⅔ full. </step>
+    <step num="3">Top each muffin with toppings. </step>
+    <step num="4">Bake for about 30 minutes or until a toothpick comes out clean. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="1">Mash banana in a large bowl until smooth and mix in all wet ingredients. </steps_updated>
+    <steps_updated num="2">Stir in dry ingredients until thoroughly mixed. </steps_updated>
+    <steps_updated num="3">Pour batter into greased muffin tin, filling each tin about ⅔ full. </steps_updated>
+    <steps_updated num="4">Top each muffin with toppings. </steps_updated>
+    <steps_updated num="5">Bake for about 30 minutes or until a toothpick comes out clean. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

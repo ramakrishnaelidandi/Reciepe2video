@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Healthy Homemade Gazpacho Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/healthy-homemade-gazpacho</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; tomato, beefsteak or roma ; (900 g) </ingredient>
+    <ingredient num="1">1 ; red bell pepper, chopped </ingredient>
+    <ingredient num="2">½ ; onion, chopped </ingredient>
+    <ingredient num="3">⅓ ; cucumber, peeled and chopped </ingredient>
+    <ingredient num="4">1 slice ; bread, chopped, preferably stale </ingredient>
+    <ingredient num="5">3 cloves ; garlic cloves, minced </ingredient>
+    <ingredient num="6">⅓ cup ; oil ; (80 mL) </ingredient>
+    <ingredient num="7">1 tablespoon ; sherry vinegar, or red wine vinegar </ingredient>
+    <ingredient num="8">1 cup ; cold water ; (240 mL) </ingredient>
+    <ingredient num="9">1 pinch ; cumin, optional </ingredient>
+    <ingredient num="10">salt, to taste </ingredient>
+    <ingredient num="11">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Italian</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/44741/low_1500934871.m3u8</low>
+    <high>https://vid.tasty.co/output/44741/mp4_720x1280/1500934871</high>
+  </video>
+  <steps>
+    <step num="0">Combine all of the ingredients above in a blender and blitz until smooth. </step>
+    <step num="1">Refrigerate to make the soup as chilly as you like </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine all of the ingredients above in a blender and blitz until smooth. </steps_updated>
+    <steps_updated num="1">Refrigerate to make the soup as chilly as you like </steps_updated>
+    <steps_updated num="2">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

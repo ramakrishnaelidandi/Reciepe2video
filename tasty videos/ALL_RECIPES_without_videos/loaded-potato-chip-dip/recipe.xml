@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Potato Chip Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-potato-chip-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 oz ; sour cream ; (225 g) </ingredient>
+    <ingredient num="1">8 oz ; cream cheese ; (225 g) </ingredient>
+    <ingredient num="2">1 packet ; ranch seasoning </ingredient>
+    <ingredient num="3">1 cup ; shredded cheddar cheese, plus extra for topping ; (100 g) </ingredient>
+    <ingredient num="4">½ cup ; bacon, crumbled, plus extra for topping ; (115 g) </ingredient>
+    <ingredient num="5">¼ cup ; green onion, chopped, plus extra for topping ; (25 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">picnic</category>
+    <category num="5">party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31985/low_1495124960.m3u8</low>
+    <high>https://vid.tasty.co/output/31985/mp4_720x1280/1495124960</high>
+  </video>
+  <steps>
+    <step num="0">Combine the sour cream, cream cheese, and ranch seasoning in a large bowl and stir until smooth. </step>
+    <step num="1">Add in the cheddar cheese and stir until well-blended. </step>
+    <step num="2">Lastly, add in the crumbled bacon and the green onions and stir. </step>
+    <step num="3">Top off with extra green onions, bacon, and cheese and serve with potato chips, potato wedges, or fries! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the sour cream, cream cheese, and ranch seasoning in a large bowl and stir until smooth. </steps_updated>
+    <steps_updated num="1">Add in the cheddar cheese and stir until well-blended. </steps_updated>
+    <steps_updated num="2">Lastly, add in the crumbled bacon and the green onions and stir. </steps_updated>
+    <steps_updated num="3">Top off with extra green onions, bacon, and cheese and serve with potato chips, potato wedges, or fries! </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banoffee Cones Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banoffee-cones</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">18 oz ; puff pastry ; (500 g) </ingredient>
+    <ingredient num="1">2 ½ cups ; double cream ; (600 mL) </ingredient>
+    <ingredient num="2">1 cup ; toffee sauce ; (200 mL) </ingredient>
+    <ingredient num="3">1 ; banana </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Desserts</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Indulgent Sweets</category>
+    <category num="6">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32215/low_1495125489.m3u8</low>
+    <high>https://vid.tasty.co/output/32215/mp4_720x1280/1495125489</high>
+  </video>
+  <steps>
+    <step num="0">Fold a 45cm (17 ¾ inch) long rectangle of aluminum foil into triangles until you have a triangle with a longest side of 10-12 cm (4-4 ¾ inch). Form this triangle into a cone. Make as many aluminum cones as you want. </step>
+    <step num="1">Cut a sheet of puff pastry into 2.5cm (1 inch) strips. </step>
+    <step num="2">Wrap the pastry around an aluminum cone so that it overlaps by about 1 cm (⅓ inch). Press the tail of the pastry onto itself so that it sticks. </step>
+    <step num="3">Lay this seam face down on a baking sheet and brush with egg wash. Bake for 18-20 minutes at 180°C (350°F). </step>
+    <step num="4">Whip the double cream. Reserve 2-3 large scoops of whipped cream. </step>
+    <step num="5">Mix the remaining whipped cream with the toffee sauce. </step>
+    <step num="6">Scoop mixture into a plastic bag for piping. </step>
+    <step num="7">Peel and slice banana. </step>
+    <step num="8">Remove aluminum cone. </step>
+    <step num="9">Pipe cones by alternating 2cm (¾ inch) of toffee cream and 1 slice of banana. Top with a swirl of reserved cream and a vertical banana slice. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fold a 45cm (17 ¾ inch) long rectangle of aluminum foil into triangles until you have a triangle with a longest side of 10-12 cm (4-4 ¾ inch). </steps_updated>
+    <steps_updated num="1">Form this triangle into a cone. </steps_updated>
+    <steps_updated num="2">Make as many aluminum cones as you want. </steps_updated>
+    <steps_updated num="3">Cut a sheet of puff pastry into 2.5cm (1 inch) strips. </steps_updated>
+    <steps_updated num="4">Wrap the pastry around an aluminum cone so that it overlaps by about 1 cm (⅓ inch). </steps_updated>
+    <steps_updated num="5">Press the tail of the pastry onto itself so that it sticks. </steps_updated>
+    <steps_updated num="6">Lay this seam face down on a baking sheet and brush with egg wash. Bake for 18-20 minutes at 180°C (350°F). </steps_updated>
+    <steps_updated num="7">Whip the double cream. </steps_updated>
+    <steps_updated num="8">Reserve 2-3 large scoops of whipped cream. </steps_updated>
+    <steps_updated num="9">Mix the remaining whipped cream with the toffee sauce. </steps_updated>
+    <steps_updated num="10">Scoop mixture into a plastic bag for piping. </steps_updated>
+    <steps_updated num="11">Peel and slice banana. </steps_updated>
+    <steps_updated num="12">Remove aluminum cone. </steps_updated>
+    <steps_updated num="13">Pipe cones by alternating 2cm (¾ inch) of toffee cream and 1 slice of banana. </steps_updated>
+    <steps_updated num="14">Top with a swirl of reserved cream and a vertical banana slice. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Veggie Tomato Juice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/veggie-tomato-juice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/immunity-juices-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; tomatoes, diced </ingredient>
+    <ingredient num="1">1 ; carrot, sliced </ingredient>
+    <ingredient num="2">1 stalk ; celery, sliced </ingredient>
+    <ingredient num="3">1 ; red bell pepper, diced </ingredient>
+    <ingredient num="4">salt, to taste </ingredient>
+    <ingredient num="5">pepper, to taste </ingredient>
+    <ingredient num="6">1 tablespoon ; garlic </ingredient>
+    <ingredient num="7">½ cup ; water ; (120 mL) </ingredient>
+    <ingredient num="8">2 tablespoons ; fresh parsley, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegan</category>
+    <category num="5">Vegetarian</category>
+    <category num="6">Drinks</category>
+    <category num="7">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/58308/low_1508965604.m3u8</low>
+    <high>https://vid.tasty.co/output/58308/mp4_720x1280/1508965604</high>
+  </video>
+  <duration>
+    <start_time>97.98</start_time>
+    <end_time>117.399</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the tomatoes, carrot, celery, red bell pepper, salt, pepper, garlic, and water to a large pot and bring to a boil. </step>
+    <step num="1">Reduce heat, cover, and simmer for 20 minutes, or until vegetables are tender. </step>
+    <step num="2">Remove from heat, let cool for 10 minutes. </step>
+    <step num="3">Add mixture to a blender and add in the parsley. Blend until consistency is smooth. </step>
+    <step num="4">Serve chilled. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the tomatoes, carrot, celery, red bell pepper, salt, pepper, garlic, and water to a large pot and bring to a boil. </steps_updated>
+    <steps_updated num="1">Reduce heat, cover, and simmer for 20 minutes, or until vegetables are tender. </steps_updated>
+    <steps_updated num="2">Remove from heat, let cool for 10 minutes. </steps_updated>
+    <steps_updated num="3">Add mixture to a blender and add in the parsley. </steps_updated>
+    <steps_updated num="4">Blend until consistency is smooth. </steps_updated>
+    <steps_updated num="5">Serve chilled. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02223</start_time>
+    <end_time>03402</end_time>
+  </duration_human>
+</recipe>

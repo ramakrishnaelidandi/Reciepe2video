@@ -1,0 +1,48 @@
+<recipe>
+  <title>Lettuce Wrap Box Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/lettuce-wrap-box</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/6-easy-snack-boxes</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13009 13278 9227 </ingredient>
+    <ingredient num="1">1580 2605 13278 10986 976 13278 2264 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 5425 976 13278 13125 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 8692 13278 3433 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 280 3962 13278 1258 5981 </ingredient>
+    <ingredient num="5">3917 2605 13278 1379 4125 13278 6898 5981 </ingredient>
+    <ingredient num="6">3917 14014 13278 11114 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Snacks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/47990/low_1503010307.m3u8</low>
+    <high>https://vid.tasty.co/output/47990/mp4_720x1280/1503010307</high>
+  </video>
+  <duration>
+    <start_time>51.94</start_time>
+    <end_time>73.35</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 9227 669 14139 </step>
+    <step num="1">5570 976 5016 8445 6501 13817 11677 1864 6087 </step>
+    <step num="2">8940 524 13817 3345 1864 14139 </step>
+    <step num="3">1083 11114 669 14139 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 9227 669 14139 </steps_updated>
+    <steps_updated num="1">5570 976 5016 8445 6501 13817 11677 1864 6087 </steps_updated>
+    <steps_updated num="2">8940 524 13817 3345 1864 14139 </steps_updated>
+    <steps_updated num="3">1083 11114 669 14139 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01619</start_time>
+    <end_time>02210</end_time>
+  </duration_human>
+</recipe>

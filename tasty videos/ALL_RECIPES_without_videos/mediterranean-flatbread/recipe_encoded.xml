@@ -1,0 +1,59 @@
+<recipe>
+  <title>Mediterranean Flatbread Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/mediterranean-flatbread</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/vegan-meals-high-in-iron</comp_url>
+  <ingredients>
+    <ingredient num="0">8244 7632 560 11567 </ingredient>
+    <ingredient num="1">4061 9517 13278 8391 3962 13278 11048 5981 </ingredient>
+    <ingredient num="2">12610 560 11567 </ingredient>
+    <ingredient num="3">8580 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">8580 9486 13278 5607 9656 </ingredient>
+    <ingredient num="5">8083 7845 8635 560 11567 </ingredient>
+    <ingredient num="6">1813 2605 13278 9954 9668 13278 828 5981 </ingredient>
+    <ingredient num="7">8580 13278 1413 </ingredient>
+    <ingredient num="8">4061 9486 13278 840 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Dairy-Free</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegan</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Lunch</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/100664/hls24_1530551884.m3u8</low>
+    <high>https://vid.tasty.co/output/100664/landscape_720/1530551884</high>
+  </video>
+  <duration>
+    <start_time>0.5</start_time>
+    <end_time>55.099</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 6326 7855 5994 13630 371 8244 5766 11770 13757 2082 9956 11951 5766 10586 560 923 740 11951 28 13817 2550 7990 199 11004 1681 8744 10242 1391 5994 2157 371 12051 </step>
+    <step num="1">9179 5994 7463 371 12282 13817 4861 560 2550 7990 199 8927 1681 11951 28 9490 1954 1320 </step>
+    <step num="2">9179 6646 13630 371 8244 5766 13817 11951 4155 5607 9400 13817 8083 7845 10876 560 11951 10590 264 7990 6646 199 8927 1681 11951 11384 9490 13223 13817 11951 5607 9656 12573 244 </step>
+    <step num="3">9179 11951 9954 717 13817 2550 7990 6865 3954 8927 1681 11951 28 9490 2043 14667 13817 14371 12785 11951 28 2373 560 5994 12377 13817 817 5292 </step>
+    <step num="4">10950 11951 5540 11745 740 5994 13630 371 5766 6781 11951 7051 371 9954 8720 8889 11951 8233 3917 7811 5994 7555 7990 6865 8927 4255 10763 11801 1681 10963 2147 </step>
+    <step num="5">12785 11951 1413 560 5994 4669 4330 13817 11434 1391 11951 4724 6877 11951 28 2373 4255 10707 13817 7777 669 8000 </step>
+    <step num="6">6252 1391 3954 8083 7845 8635 5358 5968 13817 8956 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 6326 7855 5994 13630 371 8244 5766 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">9956 11951 5766 10586 560 923 740 11951 28 13817 2550 7990 199 11004 1681 8744 </steps_updated>
+    <steps_updated num="2">10242 1391 5994 2157 371 12051 </steps_updated>
+    <steps_updated num="3">9179 5994 7463 371 12282 13817 4861 560 2550 7990 199 8927 1681 11951 28 9490 1954 1320 </steps_updated>
+    <steps_updated num="4">9179 6646 13630 371 8244 5766 13817 11951 4155 5607 9400 13817 8083 7845 10876 560 11951 10590 </steps_updated>
+    <steps_updated num="5">264 7990 6646 199 8927 1681 11951 11384 9490 13223 13817 11951 5607 9656 12573 244 </steps_updated>
+    <steps_updated num="6">9179 11951 9954 717 13817 2550 7990 6865 3954 8927 1681 11951 28 9490 2043 14667 13817 14371 </steps_updated>
+    <steps_updated num="7">12785 11951 28 2373 560 5994 12377 13817 817 5292 </steps_updated>
+    <steps_updated num="8">10950 11951 5540 11745 740 5994 13630 371 5766 6781 11951 7051 371 9954 8720 </steps_updated>
+    <steps_updated num="9">8889 11951 8233 3917 7811 5994 7555 7990 6865 8927 4255 10763 11801 1681 10963 2147 </steps_updated>
+    <steps_updated num="10">12785 11951 1413 560 5994 4669 4330 13817 11434 1391 11951 4724 </steps_updated>
+    <steps_updated num="11">6877 11951 28 2373 4255 10707 13817 7777 669 8000 </steps_updated>
+    <steps_updated num="12">6252 1391 3954 8083 7845 8635 5358 5968 13817 8956 </steps_updated>
+    <steps_updated num="13">9092 </steps_updated>
+  </steps_updated>
+</recipe>

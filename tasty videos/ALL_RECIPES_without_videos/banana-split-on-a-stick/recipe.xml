@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banana Split On A Stick Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banana-split-on-a-stick</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">4 ; bananas </ingredient>
+    <ingredient num="1">1 cup ; chopped nut, we used pecans ; (125 g) </ingredient>
+    <ingredient num="2">1 cup ; chocolate, melted ; (230 g) </ingredient>
+    <ingredient num="3">whipped cream </ingredient>
+    <ingredient num="4">maraschino cherries, or toppings of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/43539/low_1499977757.m3u8</low>
+    <high>https://vid.tasty.co/output/43539/mp4_720x1280/1499977757</high>
+  </video>
+  <steps>
+    <step num="0">Slice a banana into thirds, and then cut each segment in half lengthwise. </step>
+    <step num="1">On a parchment paper-lined sheet tray, place a tablespoon of chopped nuts in a small circle shape. </step>
+    <step num="2">Pour a tablespoon of melted chocolate over the top of the nuts. Lay a popsicle stick on the chocolate, and top the stick with additional melted chocolate. </step>
+    <step num="3">Add two halves of sliced banana facing upwards in the melted chocolate. Repeat with all the other banana splits on a stick. </step>
+    <step num="4">Freeze for at least 2 hours. </step>
+    <step num="5">When frozen solid, add a dollop of whipped cream, and top with a cherry (or any other toppings of your choosing). </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice a banana into thirds, and then cut each segment in half lengthwise. </steps_updated>
+    <steps_updated num="1">On a parchment paper-lined sheet tray, place a tablespoon of chopped nuts in a small circle shape. </steps_updated>
+    <steps_updated num="2">Pour a tablespoon of melted chocolate over the top of the nuts. </steps_updated>
+    <steps_updated num="3">Lay a popsicle stick on the chocolate, and top the stick with additional melted chocolate. </steps_updated>
+    <steps_updated num="4">Add two halves of sliced banana facing upwards in the melted chocolate. </steps_updated>
+    <steps_updated num="5">Repeat with all the other banana splits on a stick. </steps_updated>
+    <steps_updated num="6">Freeze for at least 2 hours. </steps_updated>
+    <steps_updated num="7">When frozen solid, add a dollop of whipped cream, and top with a cherry (or any other toppings of your choosing). </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

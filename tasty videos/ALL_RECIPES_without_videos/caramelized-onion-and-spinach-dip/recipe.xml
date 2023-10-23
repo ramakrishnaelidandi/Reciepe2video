@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Caramelized Onion And Spinach Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/caramelized-onion-and-spinach-dip</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/fancy-3-course-holiday-party</comp_url>
+  <ingredients>
+    <ingredient num="0">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="1">2 sprigs ; fresh rosemary </ingredient>
+    <ingredient num="2">2 ; medium yellow onions, thinly sliced </ingredient>
+    <ingredient num="3">1 clove ; garlic, minced </ingredient>
+    <ingredient num="4">10 oz ; frozen spinach, 1 box, thawed and squeezed dry ; (285 g) </ingredient>
+    <ingredient num="5">4 oz ; cream cheese, room temperature ; (115 g) </ingredient>
+    <ingredient num="6">1 cup ; sour cream ; (230 g) </ingredient>
+    <ingredient num="7">½ cup ; mayonnaise ; (120 g) </ingredient>
+    <ingredient num="8">2 teaspoons ; lemon zest </ingredient>
+    <ingredient num="9">kosher salt, to taste </ingredient>
+    <ingredient num="10">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="11">2 tablespoons ; lemon juice </ingredient>
+    <ingredient num="12">pita chip, or toast, or crudités, for serving </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/113908/hls24_1541029130.m3u8</low>
+    <high>https://vid.tasty.co/output/113908/landscape_720/1541029130</high>
+  </video>
+  <duration>
+    <start_time>3.833</start_time>
+    <end_time>74.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Heat the olive oil in the 2.5-quart saucepan over medium-high heat. Add the rosemary sprigs and fry until fragrant and the leaves are crisp, 1 minute. Using tongs, remove the rosemary and transfer to paper towels to drain. If any leaves are left behind in the oil, remove with a slotted spoon and transfer to the paper towels as well. </step>
+    <step num="1">Return the pan with the oil to medium heat. Add the onions and cook, stirring occasionally, until soft and caramelized, 20-25 minutes. </step>
+    <step num="2">Add the garlic and cook for 1 minute, until fragrant. </step>
+    <step num="3">Stir in the spinach and cook for 2 minutes to evaporate any excess moisture. Add the cream cheese and cook, stirring, until completely melted and incorporated into the onions and spinach. </step>
+    <step num="4">Remove the pan from the heat and stir in the sour cream, mayonnaise, lemon zest, salt, pepper, and lemon juice. Let cool to room temperature or cover with plastic wrap and refrigerate for up to 2 days. </step>
+    <step num="5">Remove the rosemary leaves from the stems over a cutting board. Crush with your fingers or finely chop with a knife. </step>
+    <step num="6">Transfer the dip to a serving dish and smooth the top. Sprinkle with the fried rosemary and serve with pita chips, toasted bread, or crudités. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat the olive oil in the 2.5-quart saucepan over medium-high heat. </steps_updated>
+    <steps_updated num="1">Add the rosemary sprigs and fry until fragrant and the leaves are crisp, 1 minute. </steps_updated>
+    <steps_updated num="2">Using tongs, remove the rosemary and transfer to paper towels to drain. </steps_updated>
+    <steps_updated num="3">If any leaves are left behind in the oil, remove with a slotted spoon and transfer to the paper towels as well. </steps_updated>
+    <steps_updated num="4">Return the pan with the oil to medium heat. </steps_updated>
+    <steps_updated num="5">Add the onions and cook, stirring occasionally, until soft and caramelized, 20-25 minutes. </steps_updated>
+    <steps_updated num="6">Add the garlic and cook for 1 minute, until fragrant. </steps_updated>
+    <steps_updated num="7">Stir in the spinach and cook for 2 minutes to evaporate any excess moisture. </steps_updated>
+    <steps_updated num="8">Add the cream cheese and cook, stirring, until completely melted and incorporated into the onions and spinach. </steps_updated>
+    <steps_updated num="9">Remove the pan from the heat and stir in the sour cream, mayonnaise, lemon zest, salt, pepper, and lemon juice. </steps_updated>
+    <steps_updated num="10">Let cool to room temperature or cover with plastic wrap and refrigerate for up to 2 days. </steps_updated>
+    <steps_updated num="11">Remove the rosemary leaves from the stems over a cutting board. </steps_updated>
+    <steps_updated num="12">Crush with your fingers or finely chop with a knife. </steps_updated>
+    <steps_updated num="13">Transfer the dip to a serving dish and smooth the top. </steps_updated>
+    <steps_updated num="14">Sprinkle with the fried rosemary and serve with pita chips, toasted bread, or crudités. </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

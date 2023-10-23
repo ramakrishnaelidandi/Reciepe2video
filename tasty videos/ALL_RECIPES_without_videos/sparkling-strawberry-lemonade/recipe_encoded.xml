@@ -1,0 +1,47 @@
+<recipe>
+  <title>Sparkling Strawberry Lemonade Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sparkling-strawberry-lemonade</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/healthy-3-course-brunch</comp_url>
+  <ingredients>
+    <ingredient num="0">1580 715 13278 13098 10844 13278 9473 5981 </ingredient>
+    <ingredient num="1">4061 9517 13278 11276 12282 13278 3798 8007 </ingredient>
+    <ingredient num="2">3917 2605 13278 597 7654 6285 4061 5492 13278 12462 8007 </ingredient>
+    <ingredient num="3">1580 2605 13278 14240 5895 560 11567 13278 8118 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Drinks</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31259/low_1494377965.m3u8</low>
+    <high>https://vid.tasty.co/output/31259/mp4_720x1280/1494377965</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>13.57</end_time>
+  </duration>
+  <steps>
+    <step num="0">9179 7234 597 10522 13817 9586 560 5994 12095 3262 1681 12119 </step>
+    <step num="1">1083 11276 12282 13817 6114 5042 669 5994 11856 13817 12224 </step>
+    <step num="2">12774 11770 13710 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">9179 7234 597 10522 13817 9586 560 5994 12095 </steps_updated>
+    <steps_updated num="1">3262 1681 12119 </steps_updated>
+    <steps_updated num="2">1083 11276 12282 13817 6114 5042 669 5994 11856 13817 12224 </steps_updated>
+    <steps_updated num="3">12774 11770 13710 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00455</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,55 @@
+<recipe>
+  <title>Pizza Braid Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pizza-braid</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 8247 7969 </ingredient>
+    <ingredient num="1">4061 8535 13278 10865 14538 </ingredient>
+    <ingredient num="2">409 8535 13278 5243 </ingredient>
+    <ingredient num="3">8580 9486 13278 10907 5335 </ingredient>
+    <ingredient num="4">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="5">3917 14014 13278 6209 11911 3962 </ingredient>
+    <ingredient num="6">3917 14014 13278 109 14538 </ingredient>
+    <ingredient num="7">9122 7280 7990 7361 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/23966/low_1487113846.m3u8</low>
+    <high>https://vid.tasty.co/output/23966/mp4_720x1280/1487113846</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 8910 10797 </step>
+    <step num="1">4124 2696 8247 8763 5570 4061 8535 371 10865 13817 415 409 8535 371 5243 210 11951 937 371 11951 9453 </step>
+    <step num="2">14100 11038 14544 14473 11951 4709 13817 14462 11801 371 11951 14538 13817 5243 6285 5994 1318 8891 1580 1645 3017 </step>
+    <step num="3">6054 11951 2530 13637 </step>
+    <step num="4">8476 6781 11951 386 7475 573 11951 5621 415 12460 14462 13817 4709 1681 11951 13545 12595 11951 551 5621 3386 13817 13670 14174 8830 14462 13817 14287 </step>
+    <step num="5">5570 11951 11170 8247 7969 4255 5994 3550 12 10926 10765 8141 </step>
+    <step num="6">10950 5994 2192 14511 4120 10907 4155 11911 13817 109 4496 </step>
+    <step num="7">11881 8554 11770 1681 11951 10707 371 11951 493 9490 7568 229 </step>
+    <step num="8">7831 7990 5527 8861 2800 8927 5895 1681 10963 2147 </step>
+    <step num="9">3235 13817 8956 </step>
+    <step num="10">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 8910 10797 </steps_updated>
+    <steps_updated num="1">4124 2696 8247 8763 </steps_updated>
+    <steps_updated num="2">5570 4061 8535 371 10865 13817 415 409 8535 371 5243 210 11951 937 371 11951 9453 </steps_updated>
+    <steps_updated num="3">14100 11038 14544 14473 11951 4709 13817 14462 11801 371 11951 14538 13817 5243 6285 5994 1318 8891 1580 1645 3017 </steps_updated>
+    <steps_updated num="4">6054 11951 2530 13637 </steps_updated>
+    <steps_updated num="5">8476 6781 11951 386 7475 573 11951 5621 415 12460 14462 13817 4709 1681 11951 13545 </steps_updated>
+    <steps_updated num="6">12595 11951 551 5621 3386 13817 13670 14174 8830 14462 13817 14287 </steps_updated>
+    <steps_updated num="7">5570 11951 11170 8247 7969 4255 5994 3550 12 10926 10765 8141 </steps_updated>
+    <steps_updated num="8">10950 5994 2192 14511 4120 10907 4155 11911 13817 109 4496 </steps_updated>
+    <steps_updated num="9">11881 8554 11770 1681 11951 10707 371 11951 493 9490 7568 229 </steps_updated>
+    <steps_updated num="10">7831 7990 5527 8861 2800 8927 5895 1681 10963 2147 </steps_updated>
+    <steps_updated num="11">3235 13817 8956 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

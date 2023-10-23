@@ -1,0 +1,54 @@
+<recipe>
+  <title>Three-Cheese Chicken Roll-ups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/three-cheese-chicken-roll-ups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13667 13278 11384 </ingredient>
+    <ingredient num="1">8580 9517 13278 13220 13278 12158 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 12426 14538 13278 9373 5981 </ingredient>
+    <ingredient num="3">12791 2605 13278 109 14538 13278 1936 5981 </ingredient>
+    <ingredient num="4">4061 13278 7983 3967 1088 976 </ingredient>
+    <ingredient num="5">8580 13278 14463 9917 </ingredient>
+    <ingredient num="6">3917 2605 13278 13504 1230 13278 6518 5981 </ingredient>
+    <ingredient num="7">3917 2605 13278 9122 2260 13278 12751 5981 </ingredient>
+    <ingredient num="8">4061 8535 13278 10865 14538 </ingredient>
+    <ingredient num="9">6209 749 3962 </ingredient>
+    <ingredient num="10">12610 560 11567 </ingredient>
+    <ingredient num="11">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32145/low_1495125400.m3u8</low>
+    <high>https://vid.tasty.co/output/32145/mp4_720x1280/1495125400</high>
+  </video>
+  <steps>
+    <step num="0">3915 10439 560 4195 13239 </step>
+    <step num="1">13888 11951 11384 13817 13220 210 5766 1681 11951 13220 909 9179 11951 2254 11493 12610 13817 10986 13817 6142 1681 8814 </step>
+    <step num="2">5100 13817 7845 11951 7983 3967 740 11951 14538 2207 13817 4536 3060 8857 </step>
+    <step num="3">2668 10763 7983 376 9360 210 11951 4036 415 11951 11701 13817 3345 210 5994 7537 828 7449 5527 1645 5895 11730 121 7449 12849 1645 10765 3830 13305 11801 7584 </step>
+    <step num="4">7831 7990 2800 12689 </step>
+    <step num="5">6054 6781 10439 13817 10707 1391 9122 2260 13817 3193 7831 2237 3274 2933 12689 6054 6781 10439 13817 10707 1391 13952 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 4195 13239 </steps_updated>
+    <steps_updated num="1">13888 11951 11384 13817 13220 210 5766 1681 11951 13220 909 </steps_updated>
+    <steps_updated num="2">9179 11951 2254 11493 12610 13817 10986 13817 6142 1681 8814 </steps_updated>
+    <steps_updated num="3">5100 13817 7845 11951 7983 3967 740 11951 14538 2207 13817 4536 3060 8857 </steps_updated>
+    <steps_updated num="4">2668 10763 7983 376 9360 210 11951 4036 415 11951 11701 13817 3345 210 5994 7537 828 7449 5527 1645 5895 11730 121 7449 12849 1645 10765 3830 13305 11801 7584 </steps_updated>
+    <steps_updated num="5">7831 7990 2800 12689 </steps_updated>
+    <steps_updated num="6">6054 6781 10439 13817 10707 1391 9122 2260 13817 3193 </steps_updated>
+    <steps_updated num="7">7831 2237 3274 2933 12689 </steps_updated>
+    <steps_updated num="8">6054 6781 10439 13817 10707 1391 13952 </steps_updated>
+    <steps_updated num="9">9092 </steps_updated>
+  </steps_updated>
+</recipe>

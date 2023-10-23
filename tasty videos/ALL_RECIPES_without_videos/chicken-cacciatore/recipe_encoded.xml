@@ -1,0 +1,75 @@
+<recipe>
+  <title>Chicken Cacciatore Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-cacciatore</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 1580 715 13278 7983 8309 13278 5800 5981 </ingredient>
+    <ingredient num="1">13086 9486 13278 8244 5766 </ingredient>
+    <ingredient num="2">6735 643 13278 9325 976 13278 9473 5981 </ingredient>
+    <ingredient num="3">1580 13278 13757 12384 976 </ingredient>
+    <ingredient num="4">3917 13278 8083 1466 10986 976 </ingredient>
+    <ingredient num="5">8580 9486 13278 9668 30 </ingredient>
+    <ingredient num="6">4061 13667 13278 4155 10015 </ingredient>
+    <ingredient num="7">3917 8071 13278 796 5616 </ingredient>
+    <ingredient num="8">1580 8071 13278 5614 8083 7845 12768 </ingredient>
+    <ingredient num="9">1580 8071 13278 796 7516 </ingredient>
+    <ingredient num="10">1580 2605 13278 8083 13538 13278 2935 5981 </ingredient>
+    <ingredient num="11">8883 643 13278 5450 341 9668 13278 5348 5981 </ingredient>
+    <ingredient num="12">3917 2605 13278 7983 220 13278 7503 5981 </ingredient>
+    <ingredient num="13">12791 2605 13278 6209 2768 13278 12237 5981 </ingredient>
+    <ingredient num="14">12610 560 11567 </ingredient>
+    <ingredient num="15">10986 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Gluten-Free</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+    <category num="8">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26843/low_1489774401.m3u8</low>
+    <high>https://vid.tasty.co/output/26843/mp4_720x1280/1489774401</high>
+  </video>
+  <steps>
+    <step num="0">13619 12616 7983 8309 1391 82 13817 12375 </step>
+    <step num="1">10950 5994 9364 11270 2894 7855 3917 14014 371 8244 5766 11770 3996 2082 9179 7983 13817 2550 199 8927 5994 7780 1681 8574 506 12785 560 5994 9086 </step>
+    <step num="2">9179 6646 14014 371 8244 5766 560 11951 10060 432 14330 11951 13421 6985 12616 1391 82 13817 10986 13817 2550 1681 14094 13824 560 1240 6285 2933 12689 </step>
+    <step num="3">9956 7340 5103 14094 560 11951 5540 3830 1391 11951 8276 7983 2315 </step>
+    <step num="4">9179 11951 11757 14014 371 8244 5766 6960 5569 11951 976 6334 13817 12375 10242 1391 82 13817 10986 13817 2550 11770 13757 7855 1681 6665 13824 560 1240 6285 1106 12689 </step>
+    <step num="5">9426 5994 3145 210 11951 8365 371 11951 12966 2373 13817 740 11951 9668 14012 264 2696 11951 9668 30 7990 6285 3917 12110 432 3624 3557 3626 1391 11951 11453 13817 12963 </step>
+    <step num="6">9179 4155 11227 8083 7845 8635 13817 4777 9393 3755 669 11951 6334 13817 2986 432 14330 11951 8083 13493 8431 11951 1838 6781 11951 8083 13538 560 9176 3482 7115 11474 8577 6781 11951 551 371 11951 10590 </step>
+    <step num="7">1828 13538 2864 5569 2532 432 14330 11951 341 717 13817 7983 4864 4278 560 5994 5181 </step>
+    <step num="8">5570 7983 13817 14094 4255 10707 371 11951 693 7280 6770 11901 560 10455 740 7115 571 301 5312 5401 11628 4441 6252 1391 3962 13012 </step>
+    <step num="9">264 3343 8090 7990 409 8927 5895 1681 6537 1124 2281 13751 10198 4928 </step>
+    <step num="10">12774 7983 13817 2260 1391 5994 11801 371 950 5895 1208 </step>
+    <step num="11">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">13619 12616 7983 8309 1391 82 13817 12375 </steps_updated>
+    <steps_updated num="1">10950 5994 9364 11270 2894 7855 3917 14014 371 8244 5766 11770 3996 2082 </steps_updated>
+    <steps_updated num="2">9179 7983 13817 2550 199 8927 5994 7780 1681 8574 506 </steps_updated>
+    <steps_updated num="3">12785 560 5994 9086 </steps_updated>
+    <steps_updated num="4">9179 6646 14014 371 8244 5766 560 11951 10060 432 14330 11951 13421 </steps_updated>
+    <steps_updated num="5">6985 12616 1391 82 13817 10986 13817 2550 1681 14094 13824 560 1240 6285 2933 12689 </steps_updated>
+    <steps_updated num="6">9956 7340 5103 14094 560 11951 5540 3830 1391 11951 8276 7983 2315 </steps_updated>
+    <steps_updated num="7">9179 11951 11757 14014 371 8244 5766 6960 5569 11951 976 6334 13817 12375 </steps_updated>
+    <steps_updated num="8">10242 1391 82 13817 10986 13817 2550 11770 13757 7855 1681 6665 13824 560 1240 6285 1106 12689 </steps_updated>
+    <steps_updated num="9">9426 5994 3145 210 11951 8365 371 11951 12966 2373 13817 740 11951 9668 14012 </steps_updated>
+    <steps_updated num="10">264 2696 11951 9668 30 7990 6285 3917 12110 432 3624 3557 3626 1391 11951 11453 13817 12963 </steps_updated>
+    <steps_updated num="11">9179 4155 11227 8083 7845 8635 13817 4777 </steps_updated>
+    <steps_updated num="12">9393 3755 669 11951 6334 13817 2986 432 14330 11951 8083 13493 </steps_updated>
+    <steps_updated num="13">8431 11951 1838 6781 11951 8083 13538 560 9176 3482 7115 11474 8577 6781 11951 551 371 11951 10590 </steps_updated>
+    <steps_updated num="14">1828 13538 2864 5569 2532 432 14330 11951 341 717 13817 7983 4864 </steps_updated>
+    <steps_updated num="15">4278 560 5994 5181 </steps_updated>
+    <steps_updated num="16">5570 7983 13817 14094 4255 10707 371 11951 693 7280 6770 11901 560 10455 740 7115 571 301 5312 5401 11628 4441 </steps_updated>
+    <steps_updated num="17">6252 1391 3962 13012 </steps_updated>
+    <steps_updated num="18">264 3343 8090 7990 409 8927 5895 1681 6537 1124 2281 13751 10198 4928 </steps_updated>
+    <steps_updated num="19">12774 7983 13817 2260 1391 5994 11801 371 950 5895 1208 </steps_updated>
+    <steps_updated num="20">9092 </steps_updated>
+  </steps_updated>
+</recipe>

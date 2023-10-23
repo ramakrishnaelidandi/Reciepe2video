@@ -1,0 +1,45 @@
+<recipe>
+  <title>Bacon Cotija Guacamole Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/bacon-cotija-guacamole</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-grow-guacamole</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 10415 5216 13251 13817 341 </ingredient>
+    <ingredient num="1">13086 9259 13278 7035 3745 13817 3962 </ingredient>
+    <ingredient num="2">1580 13278 8083 12384 10015 </ingredient>
+    <ingredient num="3">3917 13278 13757 3665 9491 8695 13817 341 </ingredient>
+    <ingredient num="4">1580 13278 3579 8695 13817 10015 </ingredient>
+    <ingredient num="5">3917 13278 7695 3701 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">10986 560 11567 </ingredient>
+    <ingredient num="8">4951 13810 7990 4711 </ingredient>
+    <ingredient num="9">11237 10803 7990 7818 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Latin American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Healthy</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/101568/hls24_1531327232.m3u8</low>
+    <high>https://vid.tasty.co/output/101568/landscape_720/1531327232</high>
+  </video>
+  <duration>
+    <start_time>32.333</start_time>
+    <end_time>53.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 13757 14511 4120 11951 468 7035 8083 12384 9491 3579 9712 7654 12610 13817 12375 9393 3626 1681 7568 9456 6252 1391 11478 4496 </step>
+    <step num="1">12774 1391 11237 4668 </step>
+    <step num="2">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 13757 14511 4120 11951 468 7035 8083 12384 9491 3579 9712 7654 12610 13817 12375 </steps_updated>
+    <steps_updated num="1">9393 3626 1681 7568 9456 </steps_updated>
+    <steps_updated num="2">6252 1391 11478 4496 </steps_updated>
+    <steps_updated num="3">12774 1391 11237 4668 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

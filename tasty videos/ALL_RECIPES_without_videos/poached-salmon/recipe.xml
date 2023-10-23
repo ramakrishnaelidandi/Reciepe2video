@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Poached Salmon Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/poached-salmon</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-cook-salmon</comp_url>
+  <ingredients>
+    <ingredient num="0">6 oz ; skinless salmon fillet ; (170 g) </ingredient>
+    <ingredient num="1">salt, to taste </ingredient>
+    <ingredient num="2">pepper, to taste </ingredient>
+    <ingredient num="3">peppercorn, to taste </ingredient>
+    <ingredient num="4">1 ; lemon, sliced </ingredient>
+    <ingredient num="5">fresh thyme, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Seafood</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+    <category num="3">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24516/low_1487727857.m3u8</low>
+    <high>https://vid.tasty.co/output/24516/mp4_720x1280/1487727857</high>
+  </video>
+  <duration>
+    <start_time>0</start_time>
+    <end_time>21.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fill a pan with enough water to submerge a fillet. Bring the water to a simmer. </step>
+    <step num="1">Add salt, peppercorns, sliced lemon, and thyme to water. </step>
+    <step num="2">Add salmon, cover the pan, and cook for 20 minutes. </step>
+    <step num="3">Remove salmon from pan, and season with salt, pepper, and fresh lemon. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fill a pan with enough water to submerge a fillet. </steps_updated>
+    <steps_updated num="1">Bring the water to a simmer. </steps_updated>
+    <steps_updated num="2">Add salt, peppercorns, sliced lemon, and thyme to water. </steps_updated>
+    <steps_updated num="3">Add salmon, cover the pan, and cook for 20 minutes. </steps_updated>
+    <steps_updated num="4">Remove salmon from pan, and season with salt, pepper, and fresh lemon. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00001</start_time>
+    <end_time>00668</end_time>
+  </duration_human>
+</recipe>

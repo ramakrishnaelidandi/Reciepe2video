@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Classic Falafel And Tahini Sauce Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/classic-falafel-and-tahini-sauce</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/falafel-2-ways-classic-and-baked</comp_url>
+  <ingredients>
+    <ingredient num="0">2 ½ cups ; dried chickpea ; (500 g) </ingredient>
+    <ingredient num="1">8 cups ; water ; (2 L) </ingredient>
+    <ingredient num="2">½ bunch ; fresh parsley </ingredient>
+    <ingredient num="3">¼ bunch ; fresh cilantro </ingredient>
+    <ingredient num="4">¼ bunch ; fresh mint </ingredient>
+    <ingredient num="5">7 cloves ; garlic, halved, divided </ingredient>
+    <ingredient num="6">1 ; onion, roughly chopped </ingredient>
+    <ingredient num="7">1 teaspoon ; paprika </ingredient>
+    <ingredient num="8">2 ¼ teaspoons ; cumin, divided </ingredient>
+    <ingredient num="9">2 teaspoons ; ground coriander </ingredient>
+    <ingredient num="10">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="11">1 tablespoon ; sesame seed, toasted </ingredient>
+    <ingredient num="12">salt, to taste </ingredient>
+    <ingredient num="13">pepper, to taste </ingredient>
+    <ingredient num="14">oil, to fry </ingredient>
+    <ingredient num="15">5 tablespoons ; sesame seed </ingredient>
+    <ingredient num="16">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="17">1 ½ tablespoons ; olive oil </ingredient>
+    <ingredient num="18">1 teaspoon ; lemon juice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Snacks</category>
+    <category num="4">Date Night</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/83167/hls24_1520444232.m3u8</low>
+    <high>https://vid.tasty.co/output/83167/landscape_720/1520444232</high>
+  </video>
+  <duration>
+    <start_time>8.0</start_time>
+    <end_time>102.216</end_time>
+  </duration>
+  <steps>
+    <step num="0">Soak the chickpeas in the water for at least one night, ensuring that the chickpeas are fully submerged. </step>
+    <step num="1">Drain the chickpeas in a colander. Line a baking sheet with paper towels and add the chickpeas. Cover with more paper towels and let dry for at least 2 hours. </step>
+    <step num="2">Add the dried chickpeas, parsley, cilantro, coriander, mint, 5 cloves of garlic, onion, paprika, 2 teaspoons of cumin, ground coriander, baking soda, toasted sesame seeds, salt, and pepper, in a blender and blend until smooth. </step>
+    <step num="3">Use your hands to form falafel the size of a ping pong ball. </step>
+    <step num="4">Heat oil to 320°F (160°C) in a large pot. </step>
+    <step num="5">Add the falafel in batches, and fry until golden brown, about 2 minutes. </step>
+    <step num="6">To make tahini sauce, heat the sesame seeds in a frying pan over medium heat until the seeds brown slightly. </step>
+    <step num="7">Let cool for about 5 minutes and pour into a small blender or coffee grinder. </step>
+    <step num="8">Add the sesame oil and half of the olive oil and blend. Add the rest of the olive oil and blend again until you get a smooth mixture. </step>
+    <step num="9">Add ¼ teaspoon of cumin, 2 garlic cloves and lemon juice and blend. </step>
+    <step num="10">Serve the tahini sauce with falafel. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Soak the chickpeas in the water for at least one night, ensuring that the chickpeas are fully submerged. </steps_updated>
+    <steps_updated num="1">Drain the chickpeas in a colander. </steps_updated>
+    <steps_updated num="2">Line a baking sheet with paper towels and add the chickpeas. </steps_updated>
+    <steps_updated num="3">Cover with more paper towels and let dry for at least 2 hours. </steps_updated>
+    <steps_updated num="4">Add the dried chickpeas, parsley, cilantro, coriander, mint, 5 cloves of garlic, onion, paprika, 2 teaspoons of cumin, ground coriander, baking soda, toasted sesame seeds, salt, and pepper, in a blender and blend until smooth. </steps_updated>
+    <steps_updated num="5">Use your hands to form falafel the size of a ping pong ball. </steps_updated>
+    <steps_updated num="6">Heat oil to 320°F (160°C) in a large pot. </steps_updated>
+    <steps_updated num="7">Add the falafel in batches, and fry until golden brown, about 2 minutes. </steps_updated>
+    <steps_updated num="8">To make tahini sauce, heat the sesame seeds in a frying pan over medium heat until the seeds brown slightly. </steps_updated>
+    <steps_updated num="9">Let cool for about 5 minutes and pour into a small blender or coffee grinder. </steps_updated>
+    <steps_updated num="10">Add the sesame oil and half of the olive oil and blend. </steps_updated>
+    <steps_updated num="11">Add the rest of the olive oil and blend again until you get a smooth mixture. </steps_updated>
+    <steps_updated num="12">Add ¼ teaspoon of cumin, 2 garlic cloves and lemon juice and blend. </steps_updated>
+    <steps_updated num="13">Serve the tahini sauce with falafel. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00230</start_time>
+    <end_time>02456</end_time>
+  </duration_human>
+</recipe>

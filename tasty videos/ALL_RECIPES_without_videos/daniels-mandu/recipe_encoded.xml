@@ -1,0 +1,74 @@
+<recipe>
+  <title>Mandu</title>
+  <url>https://tasty.co/recipe/daniels-mandu</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/dumplings-around-asia</comp_url>
+  <ingredients>
+    <ingredient num="0">14058 643 13278 11366 13278 6898 5981 </ingredient>
+    <ingredient num="1">1580 715 13278 11088 5234 13278 9473 5981 </ingredient>
+    <ingredient num="2">1580 715 13278 11088 1946 13278 9473 5981 </ingredient>
+    <ingredient num="3">1580 2605 13278 6293 3962 13278 2264 5981 </ingredient>
+    <ingredient num="4">12791 2605 13278 4617 12384 3962 13278 4239 5981 </ingredient>
+    <ingredient num="5">1580 2605 13278 11000 7461 1159 13278 6518 5981 </ingredient>
+    <ingredient num="6">8580 13667 13278 4155 11588 3962 </ingredient>
+    <ingredient num="7">8580 2031 13278 14635 11588 3962 </ingredient>
+    <ingredient num="8">8580 9486 13278 9110 5766 </ingredient>
+    <ingredient num="9">8580 9486 13278 11691 2260 </ingredient>
+    <ingredient num="10">3917 8071 13278 82 </ingredient>
+    <ingredient num="11">3917 8071 13278 7845 </ingredient>
+    <ingredient num="12">3917 13278 6216 </ingredient>
+    <ingredient num="13">3917 14014 13278 12282 </ingredient>
+    <ingredient num="14">3095 13278 2192 9324 13438 </ingredient>
+    <ingredient num="15">7361 7280 2517 </ingredient>
+    <ingredient num="16">1813 2605 13278 11691 2260 13278 12158 8007 </ingredient>
+    <ingredient num="17">3917 8071 13278 9110 5766 </ingredient>
+    <ingredient num="18">3917 8071 13278 7706 13538 10769 </ingredient>
+    <ingredient num="19">12791 8071 13278 11060 8083 7845 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Korean</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Sides</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92132/hls24_1525222676.m3u8</low>
+    <high>https://vid.tasty.co/output/92132/landscape_720/1525222676</high>
+  </video>
+  <duration>
+    <start_time>7.333</start_time>
+    <end_time>85.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">5570 11951 11366 210 5994 2192 12377 10926 1391 12 3566 13494 1391 6646 12 1811 13817 5994 12377 7860 12282 7990 13768 1828 1788 7990 13133 8927 560 10937 8177 1838 6781 11951 3612 </step>
+    <step num="1">4957 11951 11366 669 2192 13009 210 5994 2597 7616 9179 11951 10720 20 10286 12384 11000 4155 14635 9110 7632 11691 7280 82 13817 12375 9393 3145 1391 12313 6292 </step>
+    <step num="2">10950 5994 2192 14511 4120 11951 6216 13817 2019 </step>
+    <step num="3">10838 4817 2031 371 11539 210 11951 8365 371 5994 9324 10568 5209 12313 9654 6118 2532 371 11951 2202 2567 371 11951 14021 1391 11951 6216 13817 12282 10665 </step>
+    <step num="4">12595 11951 14021 210 8467 5209 12313 4624 12207 772 5332 560 10697 11951 4185 5362 1391 11951 12886 371 11951 13438 13817 198 </step>
+    <step num="5">8785 5994 2597 10083 371 12282 560 1002 11770 8283 2082 9956 12859 740 8324 12173 7811 5994 13312 9956 11951 12173 12207 2822 4255 11951 6540 1002 7990 6646 6620 12689 6054 11951 12173 6781 11951 12282 1391 5994 446 5895 6436 1798 13817 6190 1391 11951 12886 371 11951 6420 </step>
+    <step num="6">12774 1391 7361 9286 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">5570 11951 11366 210 5994 2192 12377 10926 1391 12 3566 </steps_updated>
+    <steps_updated num="1">13494 1391 6646 12 1811 13817 5994 12377 7860 12282 7990 13768 </steps_updated>
+    <steps_updated num="2">1828 1788 7990 13133 8927 560 10937 8177 1838 6781 11951 3612 </steps_updated>
+    <steps_updated num="3">4957 11951 11366 669 2192 13009 210 5994 2597 7616 </steps_updated>
+    <steps_updated num="4">9179 11951 10720 20 10286 12384 11000 4155 14635 9110 7632 11691 7280 82 13817 12375 </steps_updated>
+    <steps_updated num="5">9393 3145 1391 12313 6292 </steps_updated>
+    <steps_updated num="6">10950 5994 2192 14511 4120 11951 6216 13817 2019 </steps_updated>
+    <steps_updated num="7">10838 4817 2031 371 11539 210 11951 8365 371 5994 9324 10568 </steps_updated>
+    <steps_updated num="8">5209 12313 9654 6118 2532 371 11951 2202 2567 371 11951 14021 1391 11951 6216 13817 12282 10665 </steps_updated>
+    <steps_updated num="9">12595 11951 14021 210 8467 </steps_updated>
+    <steps_updated num="10">5209 12313 4624 12207 772 5332 560 10697 11951 4185 </steps_updated>
+    <steps_updated num="11">5362 1391 11951 12886 371 11951 13438 13817 198 </steps_updated>
+    <steps_updated num="12">8785 5994 2597 10083 371 12282 560 1002 11770 8283 2082 </steps_updated>
+    <steps_updated num="13">9956 12859 740 8324 12173 7811 5994 13312 </steps_updated>
+    <steps_updated num="14">9956 11951 12173 12207 2822 4255 11951 6540 1002 7990 6646 6620 12689 </steps_updated>
+    <steps_updated num="15">6054 11951 12173 6781 11951 12282 1391 5994 446 5895 6436 1798 13817 6190 1391 11951 12886 371 11951 6420 </steps_updated>
+    <steps_updated num="16">12774 1391 7361 9286 </steps_updated>
+    <steps_updated num="17">9092 </steps_updated>
+  </steps_updated>
+</recipe>

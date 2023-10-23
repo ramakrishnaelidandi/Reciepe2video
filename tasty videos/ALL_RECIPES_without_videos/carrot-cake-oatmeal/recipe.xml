@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Carrot Cake Oatmeal Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/carrot-cake-oatmeal</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">½ cup ; carrot, from 1 small, peeled carrot ; (55 g) </ingredient>
+    <ingredient num="1">⅓ cup ; rolled oats ; (35 g) </ingredient>
+    <ingredient num="2">1 tablespoon ; raisin </ingredient>
+    <ingredient num="3">1 cup ; unsweetened almond milk, divided ; (240 mL) </ingredient>
+    <ingredient num="4">½ teaspoon ; vanilla extract </ingredient>
+    <ingredient num="5">¼ teaspoon ; ground cinnamon </ingredient>
+    <ingredient num="6">1 teaspoon ; honey </ingredient>
+    <ingredient num="7">10 ; raw almonds, chopped, men: 20 almonds </ingredient>
+    <ingredient num="8">½ cup ; 2% greek yogurt, plain, for garnish ; (140 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32045/low_1495124999.m3u8</low>
+    <high>https://vid.tasty.co/output/32045/mp4_720x1280/1495124999</high>
+  </video>
+  <steps>
+    <step num="0">Stir together rolled oats, grated carrot, raisins, and ½ of the almond milk. </step>
+    <step num="1">Store in an airtight container in the fridge overnight. (If you’re following the Clean Eating Challenge, you already did this!) </step>
+    <step num="2">Combine the carrot-oat mixture, the remaining ½ of the almond milk, honey, vanilla, and cinnamon in a small pot over medium heat. </step>
+    <step num="3">Bring the mixture to a simmer and cook, stirring occasionally, until the mixture is thick and the oats are cooked, 4 to 5 minutes. </step>
+    <step num="4">Serve immediately, with almonds and Greek yogurt on top. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Stir together rolled oats, grated carrot, raisins, and ½ of the almond milk. </steps_updated>
+    <steps_updated num="1">Store in an airtight container in the fridge overnight. </steps_updated>
+    <steps_updated num="2">(If you’re following the Clean Eating Challenge, you already did this!) </steps_updated>
+    <steps_updated num="3">Combine the carrot-oat mixture, the remaining ½ of the almond milk, honey, vanilla, and cinnamon in a small pot over medium heat. </steps_updated>
+    <steps_updated num="4">Bring the mixture to a simmer and cook, stirring occasionally, until the mixture is thick and the oats are cooked, 4 to 5 minutes. </steps_updated>
+    <steps_updated num="5">Serve immediately, with almonds and Greek yogurt on top. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

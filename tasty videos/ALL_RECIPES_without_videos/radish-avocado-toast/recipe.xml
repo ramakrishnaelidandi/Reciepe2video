@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Radish Avocado Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/radish-avocado-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-seasonal-recipes-to-try-in-may</comp_url>
+  <ingredients>
+    <ingredient num="0">4 slices ; bread, toasted, 1/2 inch (1 1/4 cm) thick </ingredient>
+    <ingredient num="1">1 ; avocado </ingredient>
+    <ingredient num="2">1 ; lime, juiced </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">8 ; radishes, thinly sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/30354/low_1493397144.m3u8</low>
+    <high>https://vid.tasty.co/output/30354/mp4_720x1280/1493397144</high>
+  </video>
+  <duration>
+    <start_time>16.0</start_time>
+    <end_time>51.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Thinly slice all the fresh radishes. Set aside. </step>
+    <step num="1">Cut the avocado in half, and use a knife to slice the inside, then scoop out the avocado into a bowl. </step>
+    <step num="2">Mash the avocado with lime, salt and pepper. </step>
+    <step num="3">Spread the mixture on some toasted bread. </step>
+    <step num="4">Top the avocado toast with the sliced radishes and any other garnishes you would like. </step>
+    <step num="5">Sprinkle with salt and cracked pepper. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Thinly slice all the fresh radishes. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Cut the avocado in half, and use a knife to slice the inside, then scoop out the avocado into a bowl. </steps_updated>
+    <steps_updated num="3">Mash the avocado with lime, salt and pepper. </steps_updated>
+    <steps_updated num="4">Spread the mixture on some toasted bread. </steps_updated>
+    <steps_updated num="5">Top the avocado toast with the sliced radishes and any other garnishes you would like. </steps_updated>
+    <steps_updated num="6">Sprinkle with salt and cracked pepper. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00220</start_time>
+    <end_time>01577</end_time>
+  </duration_human>
+</recipe>

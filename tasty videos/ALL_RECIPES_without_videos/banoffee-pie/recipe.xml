@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Banoffee Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/banoffee-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">30 oz ; sweetened condensed milk ; (850 g) </ingredient>
+    <ingredient num="1">14 ; graham crackers </ingredient>
+    <ingredient num="2">6 tablespoons ; unsalted butter, melted </ingredient>
+    <ingredient num="3">nonstick cooking spray </ingredient>
+    <ingredient num="4">1 ½ cups ; heavy cream ; (360 mL) </ingredient>
+    <ingredient num="5">1 tablespoon ; sugar </ingredient>
+    <ingredient num="6">3 ; bananas, sliced </ingredient>
+    <ingredient num="7">chocolate shaving, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Desserts</category>
+    <category num="2">Date Night</category>
+    <category num="3">Indulgent Sweets</category>
+    <category num="4">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/130195/hls24_1555522424.m3u8</low>
+    <high>https://vid.tasty.co/output/130195/landscape_720/1555522424</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 400˚F (200˚C). </step>
+    <step num="1">Pour the sweetened condensed milk into a baking dish. Cover with aluminum foil and set in a larger baking dish. Fill the larger dish with hot water until it reaches halfway up the sides of the smaller dish. </step>
+    <step num="2">Place in the oven and cook for 90 minutes. Check the water level occasionally, making sure that it reaches halfway and refilling as necessary. </step>
+    <step num="3">Carefully remove the baking dish from the hot water bath and let cool to room temperature. Whisk the mixture (now it’s dulce de leche!) until smooth. </step>
+    <step num="4">Reduce the oven temperature to 350˚F (180˚C). </step>
+    <step num="5">In the bowl of a food processor, combine the graham crackers and melted butter. Pulse until crackers are finely ground and the mixture resembles wet sand. </step>
+    <step num="6">Grease a 9-inch (22 cm) tart pan with nonstick spray. Add the graham cracker mixture to the tin and press evenly to cover pan completely. </step>
+    <step num="7">Bake crust for 5 minutes, until golden and fragrant. Transfer to a wire rack and let cool to room temperature. </step>
+    <step num="8">Spread the dulce de leche in the cooled tart crust, using a flexible spatula to smooth it into an even layer. Cover and refrigerate for at least 4 hours or up to overnight, until set. </step>
+    <step num="9">In a large bowl, beat the heavy cream until soft peaks are just beginning to form. Add the sugar and beat until soft peaks form. </step>
+    <step num="10">Remove the pie from the refrigerator. Scatter the banana slices over the dulce de leche. Top with the whipped cream, spreading evenly to cover bananas, and garnish with chocolate shavings. </step>
+    <step num="11">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="1">Pour the sweetened condensed milk into a baking dish. </steps_updated>
+    <steps_updated num="2">Cover with aluminum foil and set in a larger baking dish. </steps_updated>
+    <steps_updated num="3">Fill the larger dish with hot water until it reaches halfway up the sides of the smaller dish. </steps_updated>
+    <steps_updated num="4">Place in the oven and cook for 90 minutes. </steps_updated>
+    <steps_updated num="5">Check the water level occasionally, making sure that it reaches halfway and refilling as necessary. </steps_updated>
+    <steps_updated num="6">Carefully remove the baking dish from the hot water bath and let cool to room temperature. </steps_updated>
+    <steps_updated num="7">Whisk the mixture (now it’s dulce de leche!) until smooth. </steps_updated>
+    <steps_updated num="8">Reduce the oven temperature to 350˚F (180˚C). </steps_updated>
+    <steps_updated num="9">In the bowl of a food processor, combine the graham crackers and melted butter. </steps_updated>
+    <steps_updated num="10">Pulse until crackers are finely ground and the mixture resembles wet sand. </steps_updated>
+    <steps_updated num="11">Grease a 9-inch (22 cm) tart pan with nonstick spray. </steps_updated>
+    <steps_updated num="12">Add the graham cracker mixture to the tin and press evenly to cover pan completely. </steps_updated>
+    <steps_updated num="13">Bake crust for 5 minutes, until golden and fragrant. </steps_updated>
+    <steps_updated num="14">Transfer to a wire rack and let cool to room temperature. </steps_updated>
+    <steps_updated num="15">Spread the dulce de leche in the cooled tart crust, using a flexible spatula to smooth it into an even layer. </steps_updated>
+    <steps_updated num="16">Cover and refrigerate for at least 4 hours or up to overnight, until set. </steps_updated>
+    <steps_updated num="17">In a large bowl, beat the heavy cream until soft peaks are just beginning to form. </steps_updated>
+    <steps_updated num="18">Add the sugar and beat until soft peaks form. </steps_updated>
+    <steps_updated num="19">Remove the pie from the refrigerator. </steps_updated>
+    <steps_updated num="20">Scatter the banana slices over the dulce de leche. </steps_updated>
+    <steps_updated num="21">Top with the whipped cream, spreading evenly to cover bananas, and garnish with chocolate shavings. </steps_updated>
+    <steps_updated num="22">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

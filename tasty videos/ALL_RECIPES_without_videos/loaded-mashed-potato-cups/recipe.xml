@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Loaded Mashed Potato Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/loaded-mashed-potato-cups</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 cups ; mashed potato ; (500 g) </ingredient>
+    <ingredient num="1">¼ cup ; bacon, cooked and crumbled ; (55 g) </ingredient>
+    <ingredient num="2">¼ cup ; fresh chives ; (10 g) </ingredient>
+    <ingredient num="3">¼ cup ; shredded parmesan cheese ; (25 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">1 teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="7">1 cup ; shredded cheddar cheese ; (100 g) </ingredient>
+    <ingredient num="8">4 ; potatoes </ingredient>
+    <ingredient num="9">¾ cup ; milk ; (180 mL) </ingredient>
+    <ingredient num="10">4 tablespoons ; butter </ingredient>
+    <ingredient num="11">¼ cup ; sour cream ; (55 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Sides</category>
+    <category num="3">Game Day</category>
+    <category num="4">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32269/low_1495125484.m3u8</low>
+    <high>https://vid.tasty.co/output/32269/mp4_720x1280/1495125484</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl combine mashed potatoes, bacon, chives, parmesan cheese, garlic powder, salt, and pepper. </step>
+    <step num="1">Spray a 12-cup muffin pan with cooking spray. </step>
+    <step num="2">Divide the mashed potatoes evenly into each cup. Make a hole in the center of each mashed potato cup. </step>
+    <step num="3">Add shredded cheddar to the center of each cup. </step>
+    <step num="4">Bake mashed potato cups at 400ºF (200ºC) for 30-35 minutes or until outside is crispy and brown. </step>
+    <step num="5">Top with a dollop of sour cream, chives and bacon crumbs. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl combine mashed potatoes, bacon, chives, parmesan cheese, garlic powder, salt, and pepper. </steps_updated>
+    <steps_updated num="1">Spray a 12-cup muffin pan with cooking spray. </steps_updated>
+    <steps_updated num="2">Divide the mashed potatoes evenly into each cup. </steps_updated>
+    <steps_updated num="3">Make a hole in the center of each mashed potato cup. </steps_updated>
+    <steps_updated num="4">Add shredded cheddar to the center of each cup. </steps_updated>
+    <steps_updated num="5">Bake mashed potato cups at 400ºF (200ºC) for 30-35 minutes or until outside is crispy and brown. </steps_updated>
+    <steps_updated num="6">Top with a dollop of sour cream, chives and bacon crumbs. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cookies And Cream Mousse Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cookies-and-cream-mousse</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/three-ingredient-desserts</comp_url>
+  <ingredients>
+    <ingredient num="0">8 ; chocolate sandwich cookies, plus more for topping </ingredient>
+    <ingredient num="1">1 ½ cups ; heavy cream ; (360 mL) </ingredient>
+    <ingredient num="2">½ cup ; powdered sugar ; (80 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Desserts</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Date Night</category>
+    <category num="4">Indulgent Sweets</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/94702/hls24_1526596823.m3u8</low>
+    <high>https://vid.tasty.co/output/94702/landscape_720/1526596823</high>
+  </video>
+  <duration>
+    <start_time>66.0</start_time>
+    <end_time>137.333</end_time>
+  </duration>
+  <steps>
+    <step num="0">Separate the cream from the chocolate sandwich cookies. Place the cookies in a plastic bag and the cream in a small bowl. </step>
+    <step num="1">Using a rolling pin, crush the cookies until they are finely ground. </step>
+    <step num="2">Microwave the cream from the chocolate sandwich cookies for 2 minutes. </step>
+    <step num="3">In a chilled medium bowl, beat the heavy cream using a hand mixer until thick and frothy. </step>
+    <step num="4">Add the cream from the cookies and the powdered sugar. Beat until stiff peaks form. </step>
+    <step num="5">Fold in the chocolate sandwich cookie crumbs, saving some as topping for later. </step>
+    <step num="6">Spoon into a piping bag or plastic bag with a piping tip. Pipe into serving bowls or glasses. </step>
+    <step num="7">Top with remaining chocolate sandwich cookie crumbs and half of a chocolate sandwich cookie, if desired. </step>
+    <step num="8">Serve immediately or refrigerate until ready to serve. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Separate the cream from the chocolate sandwich cookies. </steps_updated>
+    <steps_updated num="1">Place the cookies in a plastic bag and the cream in a small bowl. </steps_updated>
+    <steps_updated num="2">Using a rolling pin, crush the cookies until they are finely ground. </steps_updated>
+    <steps_updated num="3">Microwave the cream from the chocolate sandwich cookies for 2 minutes. </steps_updated>
+    <steps_updated num="4">In a chilled medium bowl, beat the heavy cream using a hand mixer until thick and frothy. </steps_updated>
+    <steps_updated num="5">Add the cream from the cookies and the powdered sugar. </steps_updated>
+    <steps_updated num="6">Beat until stiff peaks form. </steps_updated>
+    <steps_updated num="7">Fold in the chocolate sandwich cookie crumbs, saving some as topping for later. </steps_updated>
+    <steps_updated num="8">Spoon into a piping bag or plastic bag with a piping tip. </steps_updated>
+    <steps_updated num="9">Pipe into serving bowls or glasses. </steps_updated>
+    <steps_updated num="10">Top with remaining chocolate sandwich cookie crumbs and half of a chocolate sandwich cookie, if desired. </steps_updated>
+    <steps_updated num="11">Serve immediately or refrigerate until ready to serve. </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

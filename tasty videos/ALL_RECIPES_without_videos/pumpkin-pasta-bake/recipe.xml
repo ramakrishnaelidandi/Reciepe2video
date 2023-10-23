@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Pumpkin Pasta Bake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/pumpkin-pasta-bake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">½ cup ; shallots, diced ; (50 g) </ingredient>
+    <ingredient num="2">2 tablespoons ; fresh sage, chopped </ingredient>
+    <ingredient num="3">1 tablespoon ; fresh thyme, chopped </ingredient>
+    <ingredient num="4">15 oz ; ricotta cheese ; (425 g) </ingredient>
+    <ingredient num="5">15 oz ; pumpkin puree ; (425 g) </ingredient>
+    <ingredient num="6">1 cup ; milk ; (235 mL) </ingredient>
+    <ingredient num="7">½ cup ; parmesan cheese ; (55 g) </ingredient>
+    <ingredient num="8">1 tablespoon ; brown sugar </ingredient>
+    <ingredient num="9">1 teaspoon ; cinnamon </ingredient>
+    <ingredient num="10">¼ teaspoon ; nutmeg </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">pepper, to taste </ingredient>
+    <ingredient num="13">1 lb ; fusilli pasta ; (455 g) </ingredient>
+    <ingredient num="14">½ cup ; mozzarella cheese ; (50 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Italian</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+    <category num="7">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31995/low_1495125053.m3u8</low>
+    <high>https://vid.tasty.co/output/31995/mp4_720x1280/1495125053</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220°C). Cook the pasta according to package instructions. In the meantime, prepare the sauce. </step>
+    <step num="1">Place saucepan on medium heat. Coat with olive oil, then pour in shallots and cook until they begin to soften (3-5 minutes). </step>
+    <step num="2">Add sage and thyme, stir, and cook until fragrant. </step>
+    <step num="3">Bring heat down to low and add the pumpkin and ricotta. Stir until well-combined. </step>
+    <step num="4">Add milk, stir, add parmesan, stir. </step>
+    <step num="5">Add brown sugar, cinnamon, nutmeg, salt, and pepper, stir well-blended. </step>
+    <step num="6">Combine the sauce with cooked pasta and stir until evenly distributed. </step>
+    <step num="7">Scoop the pasta into a baking dish or a pumpkin, like we did! Top off with mozzarella cheese. </step>
+    <step num="8">Bake covered for 15-20 minutes (until cheese has melted). </step>
+    <step num="9">Then broil for a quick 2-3 minutes if you want the cheese on top to brown and get toasty. Keep on eye on it while it’s broiling to make sure you don’t overdo it. Serve immediately, before it gets cold. </step>
+    <step num="10">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">Cook the pasta according to package instructions. </steps_updated>
+    <steps_updated num="2">In the meantime, prepare the sauce. </steps_updated>
+    <steps_updated num="3">Place saucepan on medium heat. </steps_updated>
+    <steps_updated num="4">Coat with olive oil, then pour in shallots and cook until they begin to soften (3-5 minutes). </steps_updated>
+    <steps_updated num="5">Add sage and thyme, stir, and cook until fragrant. </steps_updated>
+    <steps_updated num="6">Bring heat down to low and add the pumpkin and ricotta. </steps_updated>
+    <steps_updated num="7">Stir until well-combined. </steps_updated>
+    <steps_updated num="8">Add milk, stir, add parmesan, stir. </steps_updated>
+    <steps_updated num="9">Add brown sugar, cinnamon, nutmeg, salt, and pepper, stir well-blended. </steps_updated>
+    <steps_updated num="10">Combine the sauce with cooked pasta and stir until evenly distributed. </steps_updated>
+    <steps_updated num="11">Scoop the pasta into a baking dish or a pumpkin, like we did! </steps_updated>
+    <steps_updated num="12">Top off with mozzarella cheese. </steps_updated>
+    <steps_updated num="13">Bake covered for 15-20 minutes (until cheese has melted). </steps_updated>
+    <steps_updated num="14">Then broil for a quick 2-3 minutes if you want the cheese on top to brown and get toasty. </steps_updated>
+    <steps_updated num="15">Keep on eye on it while it’s broiling to make sure you don’t overdo it. </steps_updated>
+    <steps_updated num="16">Serve immediately, before it gets cold. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

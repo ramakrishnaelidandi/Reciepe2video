@@ -1,0 +1,46 @@
+<recipe>
+  <title>Blueberry Banana Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/blueberry-banana-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-healthier-banana-swap-outs</comp_url>
+  <ingredients>
+    <ingredient num="0">8580 13278 4850 </ingredient>
+    <ingredient num="1">4061 13278 12708 </ingredient>
+    <ingredient num="2">8455 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Breakfast</category>
+    <category num="5">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/14770/low_1479239773.m3u8</low>
+    <high>https://vid.tasty.co/output/14770/mp4_720x1280/1479239773</high>
+  </video>
+  <duration>
+    <start_time>31.4</start_time>
+    <end_time>60.72</end_time>
+  </duration>
+  <steps>
+    <step num="0">10950 5994 2597 14511 12833 11951 4850 1681 6665 3313 5994 881 1074 </step>
+    <step num="1">283 210 11951 8536 </step>
+    <step num="2">8889 9924 5895 5766 210 5994 2597 10060 11770 13757 2082 </step>
+    <step num="3">1083 4428 669 11951 10383 10060 560 9278 13688 1391 13218 13050 371 9149 136 6285 5994 12110 13817 5994 2532 9526 1681 6681 10954 560 13670 4905 </step>
+    <step num="4">12251 560 10694 7990 5994 6513 12774 10316 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10950 5994 2597 14511 12833 11951 4850 1681 6665 3313 5994 881 1074 </steps_updated>
+    <steps_updated num="1">283 210 11951 8536 </steps_updated>
+    <steps_updated num="2">8889 9924 5895 5766 210 5994 2597 10060 11770 13757 2082 </steps_updated>
+    <steps_updated num="3">1083 4428 669 11951 10383 10060 560 9278 </steps_updated>
+    <steps_updated num="4">13688 1391 13218 13050 371 9149 </steps_updated>
+    <steps_updated num="5">136 6285 5994 12110 13817 5994 2532 9526 1681 6681 10954 560 13670 4905 </steps_updated>
+    <steps_updated num="6">12251 560 10694 7990 5994 6513 </steps_updated>
+    <steps_updated num="7">12774 10316 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

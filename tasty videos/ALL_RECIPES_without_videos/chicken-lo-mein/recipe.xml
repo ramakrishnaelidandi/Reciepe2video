@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Lo Mein Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-lo-mein</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 lb ; chicken breast, sliced ; (450 g) </ingredient>
+    <ingredient num="1">1 teaspoon ; pepper </ingredient>
+    <ingredient num="2">1 teaspoon ; salt </ingredient>
+    <ingredient num="3">2 tablespoons ; sesame oil, divided </ingredient>
+    <ingredient num="4">¼ cup ; chicken broth ; (60 mL) </ingredient>
+    <ingredient num="5">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="6">1 tablespoon ; hoisin sauce </ingredient>
+    <ingredient num="7">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="8">1 tablespoon ; vegetable oil </ingredient>
+    <ingredient num="9">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="10">1 tablespoon ; minced fresh ginger </ingredient>
+    <ingredient num="11">½ cup ; shiitake mushroom, sliced </ingredient>
+    <ingredient num="12">½ cup ; onion, sliced </ingredient>
+    <ingredient num="13">½ cup ; carrot, sliced ; (61 g) </ingredient>
+    <ingredient num="14">½ cup ; sugar snap peas, halved ; (49 g) </ingredient>
+    <ingredient num="15">4 servings ; cooked egg noodles </ingredient>
+    <ingredient num="16">chopped scallions, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32118/low_1495125380.m3u8</low>
+    <high>https://vid.tasty.co/output/32118/mp4_720x1280/1495125380</high>
+  </video>
+  <steps>
+    <step num="0">Season chicken with pepper, salt and 1 tbsp sesame oil. Mix thoroughly and set aside. </step>
+    <step num="1">In a different bowl add, chicken broth, 1 tbsp sesame oil, soy sauce, hoisin sauce, and cornstarch. Mix thoroughly. </step>
+    <step num="2">Heat oil over medium-high heat. Add chicken, cook until no longer pink (3 to 4 minutes). </step>
+    <step num="3">Remove chicken and add ginger and garlic cloves, stir until fragrant. </step>
+    <step num="4">Add mushrooms, onions, carrots, and sugar snap peas. Stir fry until vegetables are tender. </step>
+    <step num="5">Add the cooked chicken and cooked egg noodles. </step>
+    <step num="6">Toss in sauce and cook for another three minutes. </step>
+    <step num="7">Garnish with scallions and call it a night in! </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Season chicken with pepper, salt and 1 tbsp sesame oil. </steps_updated>
+    <steps_updated num="1">Mix thoroughly and set aside. </steps_updated>
+    <steps_updated num="2">In a different bowl add, chicken broth, 1 tbsp sesame oil, soy sauce, hoisin sauce, and cornstarch. </steps_updated>
+    <steps_updated num="3">Mix thoroughly. </steps_updated>
+    <steps_updated num="4">Heat oil over medium-high heat. </steps_updated>
+    <steps_updated num="5">Add chicken, cook until no longer pink (3 to 4 minutes). </steps_updated>
+    <steps_updated num="6">Remove chicken and add ginger and garlic cloves, stir until fragrant. </steps_updated>
+    <steps_updated num="7">Add mushrooms, onions, carrots, and sugar snap peas. </steps_updated>
+    <steps_updated num="8">Stir fry until vegetables are tender. </steps_updated>
+    <steps_updated num="9">Add the cooked chicken and cooked egg noodles. </steps_updated>
+    <steps_updated num="10">Toss in sauce and cook for another three minutes. </steps_updated>
+    <steps_updated num="11">Garnish with scallions and call it a night in! </steps_updated>
+    <steps_updated num="12">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

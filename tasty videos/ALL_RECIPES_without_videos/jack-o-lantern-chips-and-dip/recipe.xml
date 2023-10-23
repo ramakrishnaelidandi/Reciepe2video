@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Jack O' Lantern Chips And Dip Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jack-o-lantern-chips-and-dip</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; avocados, halved and pitted </ingredient>
+    <ingredient num="1">1 ; lime, juiced </ingredient>
+    <ingredient num="2">2 ; roma tomatoes, diced </ingredient>
+    <ingredient num="3">¼ cup ; red onion, chopped ; (40 g) </ingredient>
+    <ingredient num="4">¼ cup ; fresh cilantro, chopped ; (10 g) </ingredient>
+    <ingredient num="5">1 clove ; garlic, minced </ingredient>
+    <ingredient num="6">1 teaspoon ; salt </ingredient>
+    <ingredient num="7">¼ teaspoon ; chili powder </ingredient>
+    <ingredient num="8">1 tablespoon ; butter </ingredient>
+    <ingredient num="9">1 clove ; scallion clove, chopped </ingredient>
+    <ingredient num="10">2 cups ; cheddar cheese ; (200 g) </ingredient>
+    <ingredient num="11">2 cups ; monterey jack cheese ; (200 g) </ingredient>
+    <ingredient num="12">½ cup ; milk ; (120 mL) </ingredient>
+    <ingredient num="13">1 tablespoon ; cornstarch </ingredient>
+    <ingredient num="14">4 oz ; mild green chillis, 1 can, with juice ; (130 g) </ingredient>
+    <ingredient num="15">1 ; pumpkin, whole </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Mexican</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/12847/low_1477348741.m3u8</low>
+    <high>https://vid.tasty.co/output/12847/mp4_720x1280/1477348741</high>
+  </video>
+  <steps>
+    <step num="0">For the guacamole: Mash avocados with the lime juice. Add the rest of the ingredients and mix thoroughly. </step>
+    <step num="1">For the queso: In a pot over medium heat, melt 1 Tbsp. butter and sauté scallions. Add cheese, milk and cornstarch, and mix until melted and smooth. Add green chiles and mix until combined. </step>
+    <step num="2">Serving: Draw eyes and carve a sad mouth on a small pumpkin. Hollow out the inside and insert a bowl. Pour queso in the bowl and top with chopped tomatoes. Spoon guacamole coming out of the pumpkin’s mouth. Serve with chips! </step>
+    <step num="3">Spoon guacamole coming out of the pumpkin’s mouth. Serve with chips! </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For the guacamole: Mash avocados with the lime juice. </steps_updated>
+    <steps_updated num="1">Add the rest of the ingredients and mix thoroughly. </steps_updated>
+    <steps_updated num="2">For the queso: In a pot over medium heat, melt 1 Tbsp. </steps_updated>
+    <steps_updated num="3">butter and sauté scallions. </steps_updated>
+    <steps_updated num="4">Add cheese, milk and cornstarch, and mix until melted and smooth. </steps_updated>
+    <steps_updated num="5">Add green chiles and mix until combined. </steps_updated>
+    <steps_updated num="6">Serving: Draw eyes and carve a sad mouth on a small pumpkin. </steps_updated>
+    <steps_updated num="7">Hollow out the inside and insert a bowl. </steps_updated>
+    <steps_updated num="8">Pour queso in the bowl and top with chopped tomatoes. </steps_updated>
+    <steps_updated num="9">Spoon guacamole coming out of the pumpkin’s mouth. </steps_updated>
+    <steps_updated num="10">Serve with chips! </steps_updated>
+    <steps_updated num="11">Spoon guacamole coming out of the pumpkin’s mouth. </steps_updated>
+    <steps_updated num="12">Serve with chips! </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

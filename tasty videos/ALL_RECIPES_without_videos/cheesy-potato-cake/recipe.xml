@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesy Potato Cake Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesy-potato-cake</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">5 ; russet potatoes, medium </ingredient>
+    <ingredient num="1">2 tablespoons ; all-purpose flour </ingredient>
+    <ingredient num="2">2 cloves ; garlic, minced </ingredient>
+    <ingredient num="3">¼ cup ; grated parmesan cheese ; (30 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; pepper </ingredient>
+    <ingredient num="6">1 cup ; heavy cream ; (240 mL) </ingredient>
+    <ingredient num="7">3 cups ; shredded cheddar cheese ; (300 g) </ingredient>
+    <ingredient num="8">3 cups ; gruyère cheese, shredded ; (300 g) </ingredient>
+    <ingredient num="9">9 slices ; ham </ingredient>
+    <ingredient num="10">fresh parsley, chopped, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">French</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Lunch</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Weeknight</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/89401/hls24_1523641061.m3u8</low>
+    <high>https://vid.tasty.co/output/89401/landscape_720/1523641061</high>
+  </video>
+  <steps>
+    <step num="0">Preheat the oven to 375˚F (190˚C). </step>
+    <step num="1">Using a mandolin or a sharp knife, thinly slice the potatoes lengthwise. </step>
+    <step num="2">In a 13-inch (33-cm) cast iron skillet, layer slices of potatoes around the outside of the pan. Add another layer of potatoes, keeping them centered in the pan and moving clockwise until the pan is covered. </step>
+    <step num="3">Top with a third of the cheddar cheese, a third of the Gruyère cheese, and half of the ham. </step>
+    <step num="4">Add another layer of potato slices around the outside of the pan, then a add layer of slices around the center of the pan. Top with another third of the cheddar and Gruyère and the remaining ham slices. </step>
+    <step num="5">Add a final layer of potato slices around the center of the pan </step>
+    <step num="6">Top with the remaining cheddar and Gruyère cheese. </step>
+    <step num="7">Cover with greased aluminum foil and bake for 40 minutes. </step>
+    <step num="8">Remove the pan from the oven and increase the oven temperature to 400˚F (200˚C). </step>
+    <step num="9">In a medium bowl, combine the flour, garlic, Parmesan, salt, pepper and mix well. </step>
+    <step num="10">Slowly add in the cream, whisking until fully incorporated. </step>
+    <step num="11">Uncover the skillet and pour the cream mixture over potatoes, spreading evenly. </step>
+    <step num="12">Bake for another 10-15 minutes uncovered, until the cheese is melted and golden brown. </step>
+    <step num="13">Cool for at least 30 minutes, then slice and serve. </step>
+    <step num="14">Garnish with fresh parsley. </step>
+    <step num="15">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 375˚F (190˚C). </steps_updated>
+    <steps_updated num="1">Using a mandolin or a sharp knife, thinly slice the potatoes lengthwise. </steps_updated>
+    <steps_updated num="2">In a 13-inch (33-cm) cast iron skillet, layer slices of potatoes around the outside of the pan. </steps_updated>
+    <steps_updated num="3">Add another layer of potatoes, keeping them centered in the pan and moving clockwise until the pan is covered. </steps_updated>
+    <steps_updated num="4">Top with a third of the cheddar cheese, a third of the Gruyère cheese, and half of the ham. </steps_updated>
+    <steps_updated num="5">Add another layer of potato slices around the outside of the pan, then a add layer of slices around the center of the pan. </steps_updated>
+    <steps_updated num="6">Top with another third of the cheddar and Gruyère and the remaining ham slices. </steps_updated>
+    <steps_updated num="7">Add a final layer of potato slices around the center of the pan </steps_updated>
+    <steps_updated num="8">Top with the remaining cheddar and Gruyère cheese. </steps_updated>
+    <steps_updated num="9">Cover with greased aluminum foil and bake for 40 minutes. </steps_updated>
+    <steps_updated num="10">Remove the pan from the oven and increase the oven temperature to 400˚F (200˚C). </steps_updated>
+    <steps_updated num="11">In a medium bowl, combine the flour, garlic, Parmesan, salt, pepper and mix well. </steps_updated>
+    <steps_updated num="12">Slowly add in the cream, whisking until fully incorporated. </steps_updated>
+    <steps_updated num="13">Uncover the skillet and pour the cream mixture over potatoes, spreading evenly. </steps_updated>
+    <steps_updated num="14">Bake for another 10-15 minutes uncovered, until the cheese is melted and golden brown. </steps_updated>
+    <steps_updated num="15">Cool for at least 30 minutes, then slice and serve. </steps_updated>
+    <steps_updated num="16">Garnish with fresh parsley. </steps_updated>
+    <steps_updated num="17">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Buffalo Chickpea Wraps Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/buffalo-chickpea-wraps</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/how-to-eat-vegan-on-a-budget</comp_url>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; olive oil </ingredient>
+    <ingredient num="1">15 oz ; chickpeas, 1 can ; (425 g) </ingredient>
+    <ingredient num="2">½ teaspoon ; garlic powder </ingredient>
+    <ingredient num="3">1 pinch ; salt </ingredient>
+    <ingredient num="4">¼ cup ; buffalo sauce ; (75 g) </ingredient>
+    <ingredient num="5">⅓ cup ; hummus ; (45 g) </ingredient>
+    <ingredient num="6">1 tablespoon ; lemon juice </ingredient>
+    <ingredient num="7">1 tablespoon ; water </ingredient>
+    <ingredient num="8">2 ; large tortillas </ingredient>
+    <ingredient num="9">romaine lettuce </ingredient>
+    <ingredient num="10">tomato, sliced </ingredient>
+    <ingredient num="11">red onion, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Lunch</category>
+    <category num="6">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/90034/hls24_1524075673.m3u8</low>
+    <high>https://vid.tasty.co/output/90034/landscape_720/1524075673</high>
+  </video>
+  <duration>
+    <start_time>0.16599999999999993</start_time>
+    <end_time>52.083</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large saucepan, heat the olive oil over medium heat. Once the oil begins to shimmer, add the chickpeas and cook until lightly browned, 2-3 minutes. </step>
+    <step num="1">Add the garlic powder, salt, and buffalo sauce and cook for 2 more minutes, until the sauce thickens and the chickpeas have browned. Set aside. </step>
+    <step num="2">In a small bowl or liquid measuring cup, combine the hummus, lemon juice, and water and whisk thoroughly. </step>
+    <step num="3">To assemble a wrap, top a tortilla with romaine, chickpeas, tomatoes, and red onion, then pour on the dressing. </step>
+    <step num="4">Fold in the sides of the wrap and roll up like a burrito. Cut in half. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large saucepan, heat the olive oil over medium heat. </steps_updated>
+    <steps_updated num="1">Once the oil begins to shimmer, add the chickpeas and cook until lightly browned, 2-3 minutes. </steps_updated>
+    <steps_updated num="2">Add the garlic powder, salt, and buffalo sauce and cook for 2 more minutes, until the sauce thickens and the chickpeas have browned. </steps_updated>
+    <steps_updated num="3">Set aside. </steps_updated>
+    <steps_updated num="4">In a small bowl or liquid measuring cup, combine the hummus, lemon juice, and water and whisk thoroughly. </steps_updated>
+    <steps_updated num="5">To assemble a wrap, top a tortilla with romaine, chickpeas, tomatoes, and red onion, then pour on the dressing. </steps_updated>
+    <steps_updated num="6">Fold in the sides of the wrap and roll up like a burrito. </steps_updated>
+    <steps_updated num="7">Cut in half. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

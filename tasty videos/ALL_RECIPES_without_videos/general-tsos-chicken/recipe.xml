@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>General Tso’s Chicken Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/general-tsos-chicken</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8 cups ; vegetable oil, for frying ; (2 L) </ingredient>
+    <ingredient num="1">1 cup ; rice wine ; (240 mL) </ingredient>
+    <ingredient num="2">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="3">1 lb ; boneless, skinless chicken thighs, cubed ; (455 g) </ingredient>
+    <ingredient num="4">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="5">1 tablespoon ; salt </ingredient>
+    <ingredient num="6">1 tablespoon ; vegetable oil </ingredient>
+    <ingredient num="7">2 cloves ; fresh garlic, minced </ingredient>
+    <ingredient num="8">1 teaspoon ; fresh ginger, grated </ingredient>
+    <ingredient num="9">½ cup ; dried chili pod ; (45 g) </ingredient>
+    <ingredient num="10">¼ cup ; rice wine ; (60 mL) </ingredient>
+    <ingredient num="11">¼ cup ; soy sauce ; (60 mL) </ingredient>
+    <ingredient num="12">¼ cup ; rice wine vinegar, may substitute with white wine vinegar ; (60 mL) </ingredient>
+    <ingredient num="13">¼ cup ; sugar ; (50 g) </ingredient>
+    <ingredient num="14">½ tablespoon ; cornstarch </ingredient>
+    <ingredient num="15">½ tablespoon ; water </ingredient>
+    <ingredient num="16">¼ cup ; green onion, chopped ; (35 g) </ingredient>
+    <ingredient num="17">white rice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Chinese</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dairy-Free</category>
+    <category num="3">Dinner</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/8743/low_1472764024.m3u8</low>
+    <high>https://vid.tasty.co/output/8743/mp4_720x1280/1472764024</high>
+  </video>
+  <steps>
+    <step num="0">In a large bowl, combine 1 cup rice wine (235 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour. </step>
+    <step num="1">In a separate large bowl, combine 1 cup of flour (140 g) and 1 tablespoon of salt. </step>
+    <step num="2">Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated. </step>
+    <step num="3">Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack. </step>
+    <step num="4">In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute. </step>
+    <step num="5">Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling. </step>
+    <step num="6">Add cornstarch slurry, stirring frequently. The sauce should begin to thicken in a minute or less. </step>
+    <step num="7">Add cooked chicken pieces, stirring them to coat with the sauce. </step>
+    <step num="8">Remove from heat and garnish with green onions and rice. </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine 1 cup rice wine (235 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. </steps_updated>
+    <steps_updated num="1">Stir and cover with plastic wrap. </steps_updated>
+    <steps_updated num="2">Refrigerate for at least 30 minutes or up to an hour. </steps_updated>
+    <steps_updated num="3">In a separate large bowl, combine 1 cup of flour (140 g) and 1 tablespoon of salt. </steps_updated>
+    <steps_updated num="4">Remove chicken from wine/soy marinade and place in flour mixture. </steps_updated>
+    <steps_updated num="5">Mix thoroughly, until all the chicken pieces are coated. </steps_updated>
+    <steps_updated num="6">Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. </steps_updated>
+    <steps_updated num="7">Heat oil to 365˚F (185˚C). </steps_updated>
+    <steps_updated num="8">Place chicken pieces in frying oil, stirring occasionally. </steps_updated>
+    <steps_updated num="9">Fry until they are golden brown, roughly 4-5 minutes. </steps_updated>
+    <steps_updated num="10">Remove chicken from oil and set aside to drain on paper towels or a wire rack. </steps_updated>
+    <steps_updated num="11">In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. </steps_updated>
+    <steps_updated num="12">Add garlic and ginger, stirring frequently for one minute. </steps_updated>
+    <steps_updated num="13">Add dried chili pods. </steps_updated>
+    <steps_updated num="14">Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. </steps_updated>
+    <steps_updated num="15">Stir occasionally until mixture is bubbling. </steps_updated>
+    <steps_updated num="16">Add cornstarch slurry, stirring frequently. </steps_updated>
+    <steps_updated num="17">The sauce should begin to thicken in a minute or less. </steps_updated>
+    <steps_updated num="18">Add cooked chicken pieces, stirring them to coat with the sauce. </steps_updated>
+    <steps_updated num="19">Remove from heat and garnish with green onions and rice. </steps_updated>
+    <steps_updated num="20">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

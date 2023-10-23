@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Apple Rosé Sangria Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/apple-rose-sangria</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-ways-to-enjoy-sangria-in-the-winter</comp_url>
+  <ingredients>
+    <ingredient num="0">1 ; green apple, cored and sliced </ingredient>
+    <ingredient num="1">1 ; red apple, cored and sliced </ingredient>
+    <ingredient num="2">1 ; lemon, sliced, plus more for garnish </ingredient>
+    <ingredient num="3">⅔ cup ; simple syrup ; (225 g) </ingredient>
+    <ingredient num="4">1 cup ; rye whiskey ; (240 mL) </ingredient>
+    <ingredient num="5">1 cup ; apple cider ; (240 mL) </ingredient>
+    <ingredient num="6">1 bottle ; rosé wine </ingredient>
+    <ingredient num="7">1 ½ cups ; apple cider, sparkling ; (360 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/123310/hls24_1548200970.m3u8</low>
+    <high>https://vid.tasty.co/output/123310/landscape_720/1548200970</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large pitcher, combine the green apple, red apple, lemon, simple syrup, whiskey, apple cider, and rosé. Stir well, then chill until ready to serve, up to 2 days. </step>
+    <step num="1">Immediately before serving, add the sparkling apple cider and stir to incorporate. </step>
+    <step num="2">Pour into glasses and garnish with lemon wedges. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large pitcher, combine the green apple, red apple, lemon, simple syrup, whiskey, apple cider, and rosé. </steps_updated>
+    <steps_updated num="1">Stir well, then chill until ready to serve, up to 2 days. </steps_updated>
+    <steps_updated num="2">Immediately before serving, add the sparkling apple cider and stir to incorporate. </steps_updated>
+    <steps_updated num="3">Pour into glasses and garnish with lemon wedges. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01128</start_time>
+    <end_time>02067</end_time>
+  </duration_human>
+</recipe>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Japanese Tacos Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/japanese-tacos</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-unique-recipes-for-taco-night</comp_url>
+  <ingredients>
+    <ingredient num="0">½ ; cucumber, diced </ingredient>
+    <ingredient num="1">½ ; eggplant, diced </ingredient>
+    <ingredient num="2">2 ; okras, chopped </ingredient>
+    <ingredient num="3">1 ; japanese ginger, chopped </ingredient>
+    <ingredient num="4">2 ; shiso leaves, chopped </ingredient>
+    <ingredient num="5">2 tablespoons ; soy sauce </ingredient>
+    <ingredient num="6">2 teaspoons ; mirin </ingredient>
+    <ingredient num="7">1 tablespoon ; vinegar </ingredient>
+    <ingredient num="8">¼ teaspoon ; sugar </ingredient>
+    <ingredient num="9">4 oz ; ground chicken ; (115 g) </ingredient>
+    <ingredient num="10">2 tablespoons ; sake </ingredient>
+    <ingredient num="11">salt, to taste </ingredient>
+    <ingredient num="12">black pepper, to taste </ingredient>
+    <ingredient num="13">1 teaspoon ; green onion, thinly sliced </ingredient>
+    <ingredient num="14">4 ; tortillas </ingredient>
+    <ingredient num="15">lettuce, to serve </ingredient>
+    <ingredient num="16">4 ; cherry tomatoes, quartered </ingredient>
+    <ingredient num="17">shredded mozzarella cheese, to serve </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Japanese</category>
+    <category num="1">Healthy</category>
+    <category num="2">Dinner</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/108354/hls24_1536355321.m3u8</low>
+    <high>https://vid.tasty.co/output/108354/landscape_720/1536355321</high>
+  </video>
+  <duration>
+    <start_time>52.333</start_time>
+    <end_time>85.916</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the cucumber, eggplant, okra, Japanese ginger, shiso, soy sauce, mirin, vinegar, and sugar to a bowl and gently mix. </step>
+    <step num="1">Heat a pan over medium heat and add the chicken and sake. Cook until no longer pink and cooked through. </step>
+    <step num="2">Add salt, black pepper and green onion. Lightly fry, then set aside. </step>
+    <step num="3">Place lettuce on one side of the tortilla, then top with chicken, 1 tomato, and cheese. Top with the cucumber and eggplant mixture and fold over. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the cucumber, eggplant, okra, Japanese ginger, shiso, soy sauce, mirin, vinegar, and sugar to a bowl and gently mix. </steps_updated>
+    <steps_updated num="1">Heat a pan over medium heat and add the chicken and sake. </steps_updated>
+    <steps_updated num="2">Cook until no longer pink and cooked through. </steps_updated>
+    <steps_updated num="3">Add salt, black pepper and green onion. </steps_updated>
+    <steps_updated num="4">Lightly fry, then set aside. </steps_updated>
+    <steps_updated num="5">Place lettuce on one side of the tortilla, then top with chicken, 1 tomato, and cheese. </steps_updated>
+    <steps_updated num="6">Top with the cucumber and eggplant mixture and fold over. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<recipe>
+  <title>Garlic Lemon Shrimp Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/garlic-lemon-shrimp</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/surf-turf-dinner-for-two</comp_url>
+  <ingredients>
+    <ingredient num="0">13086 9486 13278 9924 </ingredient>
+    <ingredient num="1">3917 715 13278 3876 12692 1391 13713 3716 13278 4563 5981 </ingredient>
+    <ingredient num="2">3917 8071 13278 82 </ingredient>
+    <ingredient num="3">1580 8071 13278 7845 </ingredient>
+    <ingredient num="4">13086 13667 13278 4155 10015 </ingredient>
+    <ingredient num="5">1580 8071 13278 8083 13389 10876 </ingredient>
+    <ingredient num="6">3917 14014 13278 6209 11911 3962 </ingredient>
+    <ingredient num="7">13086 9486 13278 597 10522 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Seafood</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Dinner</category>
+    <category num="6">Date Night</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/20419/low_1484159039.m3u8</low>
+    <high>https://vid.tasty.co/output/20419/mp4_720x1280/1484159039</high>
+  </video>
+  <duration>
+    <start_time>32.7</start_time>
+    <end_time>57.966</end_time>
+  </duration>
+  <steps>
+    <step num="0">12305 9924 210 5994 5687 11770 13757 2082 </step>
+    <step num="1">2988 11951 11084 5412 210 11951 5687 210 5994 3622 10869 8104 11951 82 13817 7845 4255 386 415 2550 1681 11951 9924 9490 11695 560 837 5994 5475 2147 11423 11951 3876 740 11951 11384 13817 13389 8635 13817 2550 7990 6285 5052 773 </step>
+    <step num="2">9179 11951 2768 13817 597 7654 11921 11951 597 10522 573 560 5994 7280 415 5103 6781 2082 </step>
+    <step num="3">12774 13817 8497 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">12305 9924 210 5994 5687 11770 13757 2082 </steps_updated>
+    <steps_updated num="1">2988 11951 11084 5412 210 11951 5687 210 5994 3622 10869 8104 11951 82 13817 7845 4255 386 415 2550 1681 11951 9924 9490 11695 560 837 5994 5475 2147 </steps_updated>
+    <steps_updated num="2">11423 11951 3876 740 11951 11384 13817 13389 8635 13817 2550 7990 6285 5052 773 </steps_updated>
+    <steps_updated num="3">9179 11951 2768 13817 597 7654 11921 11951 597 10522 573 560 5994 7280 415 5103 6781 2082 </steps_updated>
+    <steps_updated num="4">12774 13817 8497 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01038</start_time>
+    <end_time>01743</end_time>
+  </duration_human>
+</recipe>

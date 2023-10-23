@@ -1,0 +1,39 @@
+<recipe>
+  <title>Strawberry Banana Frozen Yogurt Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-banana-frozen-yogurt</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">13086 9517 13278 13098 11579 13278 14577 5981 </ingredient>
+    <ingredient num="1">13086 13278 1938 11579 </ingredient>
+    <ingredient num="2">3591 2605 13278 12347 9767 3713 13278 9494 5981 </ingredient>
+    <ingredient num="3">6209 6114 1584 1404 2517 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Desserts</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24738/low_1487877512.m3u8</low>
+    <high>https://vid.tasty.co/output/24738/mp4_720x1280/1487877512</high>
+  </video>
+  <steps>
+    <step num="0">10895 11579 6504 13817 3713 210 5994 8016 41 </step>
+    <step num="1">3262 1681 12119 </step>
+    <step num="2">2988 2373 1802 2237 9239 828 7449 5661 13426 10765 5435 13817 1678 4255 6209 1927 </step>
+    <step num="3">4660 13817 13351 7990 8580 14329 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10895 11579 6504 13817 3713 210 5994 8016 41 </steps_updated>
+    <steps_updated num="1">3262 1681 12119 </steps_updated>
+    <steps_updated num="2">2988 2373 1802 2237 9239 828 7449 5661 13426 10765 5435 13817 1678 4255 6209 1927 </steps_updated>
+    <steps_updated num="3">4660 13817 13351 7990 8580 14329 </steps_updated>
+    <steps_updated num="4">9092 </steps_updated>
+  </steps_updated>
+</recipe>

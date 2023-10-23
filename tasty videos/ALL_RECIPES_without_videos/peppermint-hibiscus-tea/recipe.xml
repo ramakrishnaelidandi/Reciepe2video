@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Peppermint Hibiscus Tea Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/peppermint-hibiscus-tea</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/seasonal-teas</comp_url>
+  <ingredients>
+    <ingredient num="0">1 cup ; peppermint leaves, dried ; (25 g) </ingredient>
+    <ingredient num="1">½ cup ; hibiscus flower, dried ; (20 g) </ingredient>
+    <ingredient num="2">½ cup ; rosehip, dried ; (65 g) </ingredient>
+    <ingredient num="3">hot water, for steeping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Drinks</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/123273/hls24_1548194427.m3u8</low>
+    <high>https://vid.tasty.co/output/123273/landscape_720/1548194427</high>
+  </video>
+  <duration>
+    <start_time>4.0</start_time>
+    <end_time>51.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">Combine the peppermint leaves, rosehips, and hibiscus flowers. Store in an airtight container for up to 1 month. </step>
+    <step num="1">To brew, steep 1-2 teaspoons of the tea blend in 8 ounces (240 ml) of hot water for 5 minutes. Serve warm or over ice. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine the peppermint leaves, rosehips, and hibiscus flowers. </steps_updated>
+    <steps_updated num="1">Store in an airtight container for up to 1 month. </steps_updated>
+    <steps_updated num="2">To brew, steep 1-2 teaspoons of the tea blend in 8 ounces (240 ml) of hot water for 5 minutes. </steps_updated>
+    <steps_updated num="3">Serve warm or over ice. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

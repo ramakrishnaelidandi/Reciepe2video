@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Multipurpose Cleaner Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/multipurpose-cleaner</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/8-surprising-ways-to-use-veggie-and-fruit-peels</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; orange peels </ingredient>
+    <ingredient num="1">2 cups ; distilled white vinegar ; (480 mL) </ingredient>
+    <ingredient num="2">1 cup ; water ; (240 mL) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">nan</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/88000/hls24_1522867978.m3u8</low>
+    <high>https://vid.tasty.co/output/88000/landscape_720/1522867978</high>
+  </video>
+  <duration>
+    <start_time>167.0</start_time>
+    <end_time>195.833</end_time>
+  </duration>
+  <steps>
+    <step num="0">Fill a quart-sized wide-mouth jar with orange peels. </step>
+    <step num="1">Completely cover the orange peels with the vinegar. </step>
+    <step num="2">Cover and let sit for 1-2 days. </step>
+    <step num="3">Strain out the peels and compost them. </step>
+    <step num="4">Fill spray bottle halfway with the orange-infused vinegar and fill the other half with water. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Fill a quart-sized wide-mouth jar with orange peels. </steps_updated>
+    <steps_updated num="1">Completely cover the orange peels with the vinegar. </steps_updated>
+    <steps_updated num="2">Cover and let sit for 1-2 days. </steps_updated>
+    <steps_updated num="3">Strain out the peels and compost them. </steps_updated>
+    <steps_updated num="4">Fill spray bottle halfway with the orange-infused vinegar and fill the other half with water. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

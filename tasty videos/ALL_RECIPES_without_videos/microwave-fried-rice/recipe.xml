@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Microwave “Fried” Rice Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/microwave-fried-rice</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/7-dorm-friendly-microwave-meals</comp_url>
+  <ingredients>
+    <ingredient num="0">½ cup ; rice ; (100 g) </ingredient>
+    <ingredient num="1">1 cup ; water ; (235 mL) </ingredient>
+    <ingredient num="2">1 tablespoon ; soy sauce </ingredient>
+    <ingredient num="3">1 teaspoon ; sesame oil </ingredient>
+    <ingredient num="4">2 strips ; bacon, chopped </ingredient>
+    <ingredient num="5">½ cup ; frozen pea and carrot ; (65 g) </ingredient>
+    <ingredient num="6">2 ; eggs </ingredient>
+    <ingredient num="7">salt, to taste </ingredient>
+    <ingredient num="8">fresh scallion, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Chinese</category>
+    <category num="2">Kid-Friendly</category>
+    <category num="3">Lunch</category>
+    <category num="4">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/52822/low_1505933071.m3u8</low>
+    <high>https://vid.tasty.co/output/52822/mp4_720x1280/1505933071</high>
+  </video>
+  <duration>
+    <start_time>-1</start_time>
+    <end_time>-1</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a bowl, combine the rice, water, soy sauce, sesame oil, and bacon. Stir, then microwave, covered, for about 6-8 minutes until the rice is fully cooked. </step>
+    <step num="1">Mix the frozen peas and carrots into the rice. </step>
+    <step num="2">In a microwaveable mug, beat the eggs with the salt. </step>
+    <step num="3">Microwave the eggs and the rice again for about 1-2 minutes, until the eggs are fully cooked. </step>
+    <step num="4">Break up the egg into small bits, then mix it in with the rice. </step>
+    <step num="5">Garnish with scallions, then serve! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a bowl, combine the rice, water, soy sauce, sesame oil, and bacon. </steps_updated>
+    <steps_updated num="1">Stir, then microwave, covered, for about 6-8 minutes until the rice is fully cooked. </steps_updated>
+    <steps_updated num="2">Mix the frozen peas and carrots into the rice. </steps_updated>
+    <steps_updated num="3">In a microwaveable mug, beat the eggs with the salt. </steps_updated>
+    <steps_updated num="4">Microwave the eggs and the rice again for about 1-2 minutes, until the eggs are fully cooked. </steps_updated>
+    <steps_updated num="5">Break up the egg into small bits, then mix it in with the rice. </steps_updated>
+    <steps_updated num="6">Garnish with scallions, then serve! </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>05708</start_time>
+    <end_time>07172</end_time>
+  </duration_human>
+</recipe>

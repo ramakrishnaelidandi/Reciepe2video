@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Jalapeño Poppers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/jalapeno-poppers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-ingredient-appetizers</comp_url>
+  <ingredients>
+    <ingredient num="0">4 ; jalapeñoes </ingredient>
+    <ingredient num="1">8 slices ; bacon </ingredient>
+    <ingredient num="2">8 oz ; cream cheese, softened ; (225 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Game Day</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/7967/low_1472163621.m3u8</low>
+    <high>https://vid.tasty.co/output/7967/mp4_720x1280/1472163621</high>
+  </video>
+  <duration>
+    <start_time>25.29</start_time>
+    <end_time>47.54</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat oven to 400°F (200˚C). </step>
+    <step num="1">Slice the jalapeños in half, then remove the seeds by scraping out the insides. </step>
+    <step num="2">Spread the cream cheese evenly among the jalapeño shells. </step>
+    <step num="3">Wrap each jalapeño in bacon. </step>
+    <step num="4">Place the bacon-wrapped jalapeños on a baking sheet lined with parchment paper. Bake for 20 minutes, until bacon is browned and peppers are tender. </step>
+    <step num="5">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 400°F (200˚C). </steps_updated>
+    <steps_updated num="1">Slice the jalapeños in half, then remove the seeds by scraping out the insides. </steps_updated>
+    <steps_updated num="2">Spread the cream cheese evenly among the jalapeño shells. </steps_updated>
+    <steps_updated num="3">Wrap each jalapeño in bacon. </steps_updated>
+    <steps_updated num="4">Place the bacon-wrapped jalapeños on a baking sheet lined with parchment paper. </steps_updated>
+    <steps_updated num="5">Bake for 20 minutes, until bacon is browned and peppers are tender. </steps_updated>
+    <steps_updated num="6">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00678</start_time>
+    <end_time>01447</end_time>
+  </duration_human>
+</recipe>

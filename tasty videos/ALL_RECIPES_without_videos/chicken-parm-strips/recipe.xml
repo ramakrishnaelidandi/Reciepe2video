@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Parm Strips Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-parm-strips</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 ; boneless, skinless chicken breasts </ingredient>
+    <ingredient num="1">½ cup ; bread crumbs ; (60 g) </ingredient>
+    <ingredient num="2">½ cup ; grated parmesan cheese ; (50 g) </ingredient>
+    <ingredient num="3">1 teaspoon ; salt </ingredient>
+    <ingredient num="4">½ teaspoon ; pepper </ingredient>
+    <ingredient num="5">2 ; eggs </ingredient>
+    <ingredient num="6">½ cup ; mozzarella, shredded ; (50 g) </ingredient>
+    <ingredient num="7">marinara sauce, for dipping </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Dinner</category>
+    <category num="3">Kid-Friendly</category>
+    <category num="4">Casual Party</category>
+    <category num="5">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/24673/low_1487806977.m3u8</low>
+    <high>https://vid.tasty.co/output/24673/mp4_720x1280/1487806977</high>
+  </video>
+  <steps>
+    <step num="0">Preheat oven to 325°F (190°C). </step>
+    <step num="1">Cut the chicken into strips. </step>
+    <step num="2">In one medium-sized bowl, mix the bread crumbs, parmesan, salt, and pepper. </step>
+    <step num="3">In another bowl, crack the eggs and whisk until scrambled. </step>
+    <step num="4">Coat the chicken in the egg, then in the bread crumbs, then repeat. </step>
+    <step num="5">Place the chicken tenders on a baking tray and bake for 20 minutes, flipping halfway through. </step>
+    <step num="6">Sprinkle each tender with mozzarella and bake again for 5 more minutes, or until cheese is melted. </step>
+    <step num="7">Serve with marinara. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat oven to 325°F (190°C). </steps_updated>
+    <steps_updated num="1">Cut the chicken into strips. </steps_updated>
+    <steps_updated num="2">In one medium-sized bowl, mix the bread crumbs, parmesan, salt, and pepper. </steps_updated>
+    <steps_updated num="3">In another bowl, crack the eggs and whisk until scrambled. </steps_updated>
+    <steps_updated num="4">Coat the chicken in the egg, then in the bread crumbs, then repeat. </steps_updated>
+    <steps_updated num="5">Place the chicken tenders on a baking tray and bake for 20 minutes, flipping halfway through. </steps_updated>
+    <steps_updated num="6">Sprinkle each tender with mozzarella and bake again for 5 more minutes, or until cheese is melted. </steps_updated>
+    <steps_updated num="7">Serve with marinara. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

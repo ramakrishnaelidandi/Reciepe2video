@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Easy Chicken Miso Ramen Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/easy-chicken-miso-ramen</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 tablespoon ; butter </ingredient>
+    <ingredient num="1">1 cup ; corn ; (175 g) </ingredient>
+    <ingredient num="2">2 ; eggs, soft-boiled </ingredient>
+    <ingredient num="3">2 cups ; fresh spinach ; (80 g) </ingredient>
+    <ingredient num="4">4 cups ; chicken stock ; (960 mL) </ingredient>
+    <ingredient num="5">2 cloves ; garlic, smashed </ingredient>
+    <ingredient num="6">thumb of ginger, 3 in (8 cm) piece, sliced </ingredient>
+    <ingredient num="7">3 pieces ; scallions, chopped </ingredient>
+    <ingredient num="8">2 ; chicken breasts, shredded </ingredient>
+    <ingredient num="9">2 tablespoons ; miso paste </ingredient>
+    <ingredient num="10">2 servings ; ramen noodle, cooked </ingredient>
+    <ingredient num="11">scallion, chopped for garnish </ingredient>
+    <ingredient num="12">nori, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Japanese</category>
+    <category num="2">Comfort Food</category>
+    <category num="3">Dinner</category>
+    <category num="4">Date Night</category>
+    <category num="5">Weeknight</category>
+    <category num="6">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32073/low_1495125296.m3u8</low>
+    <high>https://vid.tasty.co/output/32073/mp4_720x1280/1495125296</high>
+  </video>
+  <steps>
+    <step num="0">Heat butter in a saucepan, fry corn until warm. Set aside. </step>
+    <step num="1">Soft-boil 2 eggs and set aside. Blanch the spinach and set aside. </step>
+    <step num="2">Bring chicken stock, garlic, ginger and scallions to a boil. Boil for 30 minutes. </step>
+    <step num="3">Add the chicken, simmer for 20 minutes. Remove, and set aside. </step>
+    <step num="4">Dissolve the miso paste in the chicken broth. </step>
+    <step num="5">Shred the chicken. </step>
+    <step num="6">Put everything together. Divide noodles between two bowls. Pour over chicken broth. Add the spinach, corn, shredded chicken, chopped scallions, soft-boiled egg and nori. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Heat butter in a saucepan, fry corn until warm. </steps_updated>
+    <steps_updated num="1">Set aside. </steps_updated>
+    <steps_updated num="2">Soft-boil 2 eggs and set aside. </steps_updated>
+    <steps_updated num="3">Blanch the spinach and set aside. </steps_updated>
+    <steps_updated num="4">Bring chicken stock, garlic, ginger and scallions to a boil. </steps_updated>
+    <steps_updated num="5">Boil for 30 minutes. </steps_updated>
+    <steps_updated num="6">Add the chicken, simmer for 20 minutes. </steps_updated>
+    <steps_updated num="7">Remove, and set aside. </steps_updated>
+    <steps_updated num="8">Dissolve the miso paste in the chicken broth. </steps_updated>
+    <steps_updated num="9">Shred the chicken. </steps_updated>
+    <steps_updated num="10">Put everything together. </steps_updated>
+    <steps_updated num="11">Divide noodles between two bowls. </steps_updated>
+    <steps_updated num="12">Pour over chicken broth. </steps_updated>
+    <steps_updated num="13">Add the spinach, corn, shredded chicken, chopped scallions, soft-boiled egg and nori. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

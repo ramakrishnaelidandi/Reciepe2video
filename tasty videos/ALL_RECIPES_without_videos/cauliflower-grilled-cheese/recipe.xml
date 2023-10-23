@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cauliflower Grilled Cheese Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cauliflower-grilled-cheese</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 head ; cauliflower </ingredient>
+    <ingredient num="1">1 pinch ; salt </ingredient>
+    <ingredient num="2">2 ; eggs </ingredient>
+    <ingredient num="3">½ cup ; vegetarian parmesan cheese, grated ; (55 g) </ingredient>
+    <ingredient num="4">¼ cup ; fresh basil, chopped ; (10 g) </ingredient>
+    <ingredient num="5">1 teaspoon ; garlic powder </ingredient>
+    <ingredient num="6">1 teaspoon ; dried oregano </ingredient>
+    <ingredient num="7">½ teaspoon ; red pepper flakes </ingredient>
+    <ingredient num="8">cheese, of your choice </ingredient>
+    <ingredient num="9">additional topping, of your choice </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Dinner</category>
+    <category num="5">Lunch</category>
+    <category num="6">Snacks</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31143/low_1494263214.m3u8</low>
+    <high>https://vid.tasty.co/output/31143/mp4_720x1280/1494263214</high>
+  </video>
+  <steps>
+    <step num="0">Grate a cauliflower over a large bowl. </step>
+    <step num="1">Sprinkle a pinch of salt over the grated cauliflower and mix evenly. Leave to sit for 20 minutes. </step>
+    <step num="2">Pour the cauliflower into a clean kitchen towel and wring the water out. </step>
+    <step num="3">In a large bowl, combine the cauliflower, and remaining ingredients, (except your cheese and toppings) stir until well mixed. </step>
+    <step num="4">Using a spoon transfer two hearty scoops of mixture to form each “bread slice” onto a skillet on medium-low heat for about 10 minutes, each side. </step>
+    <step num="5">Add your cheese and any other toppings, allow a couple minutes for cheese to melt. </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Grate a cauliflower over a large bowl. </steps_updated>
+    <steps_updated num="1">Sprinkle a pinch of salt over the grated cauliflower and mix evenly. </steps_updated>
+    <steps_updated num="2">Leave to sit for 20 minutes. </steps_updated>
+    <steps_updated num="3">Pour the cauliflower into a clean kitchen towel and wring the water out. </steps_updated>
+    <steps_updated num="4">In a large bowl, combine the cauliflower, and remaining ingredients, (except your cheese and toppings) stir until well mixed. </steps_updated>
+    <steps_updated num="5">Using a spoon transfer two hearty scoops of mixture to form each “bread slice” onto a skillet on medium-low heat for about 10 minutes, each side. </steps_updated>
+    <steps_updated num="6">Add your cheese and any other toppings, allow a couple minutes for cheese to melt. </steps_updated>
+    <steps_updated num="7">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

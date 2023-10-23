@@ -1,0 +1,42 @@
+<recipe>
+  <title>Boozy Rainbow Sherbet Punch Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/boozy-rainbow-sherbet-punch</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 2952 13278 1226 11397 13278 3798 8007 </ingredient>
+    <ingredient num="1">3917 2605 13278 13098 10844 13278 757 5981 </ingredient>
+    <ingredient num="2">1580 2605 13278 1421 13278 2264 5981 </ingredient>
+    <ingredient num="3">3917 13278 5516 976 </ingredient>
+    <ingredient num="4">1580 2605 13278 356 13278 13125 5981 </ingredient>
+    <ingredient num="5">12791 13278 13696 976 </ingredient>
+    <ingredient num="6">13086 9517 13278 2230 3294 13278 3465 8007 </ingredient>
+    <ingredient num="7">13086 9517 13278 2297 5895 5788 5895 1943 11276 12282 13278 3465 8007 </ingredient>
+    <ingredient num="8">11061 9517 13278 10866 8758 13278 4316 1767 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegetarian</category>
+    <category num="1">Drinks</category>
+    <category num="2">Happy Hour</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/105935/hls24_1534792563.m3u8</low>
+    <high>https://vid.tasty.co/output/105935/landscape_720/1534792563</high>
+  </video>
+  <steps>
+    <step num="0">6695 6735 10548 371 11397 4255 5994 3550 8797 10765 8800 13855 7990 238 12689 </step>
+    <step num="1">10950 5994 2597 4446 14511 4120 11951 7234 4406 5516 6289 13817 7861 </step>
+    <step num="2">9179 11951 597 9712 2101 2297 13817 10866 11018 12473 560 1011 </step>
+    <step num="3">6054 11951 11397 10548 6781 11951 7668 13817 11003 5994 1798 560 3345 210 11951 4446 7616 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">6695 6735 10548 371 11397 4255 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="1">13855 7990 238 12689 </steps_updated>
+    <steps_updated num="2">10950 5994 2597 4446 14511 4120 11951 7234 4406 5516 6289 13817 7861 </steps_updated>
+    <steps_updated num="3">9179 11951 597 9712 2101 2297 13817 10866 11018 </steps_updated>
+    <steps_updated num="4">12473 560 1011 </steps_updated>
+    <steps_updated num="5">6054 11951 11397 10548 6781 11951 7668 13817 11003 5994 1798 560 3345 210 11951 4446 7616 </steps_updated>
+    <steps_updated num="6">9092 </steps_updated>
+  </steps_updated>
+</recipe>

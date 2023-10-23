@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Egg in a Hole 4 Ways Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-egg-toast</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 slice ; bread </ingredient>
+    <ingredient num="1">¼ ; tomato, diced </ingredient>
+    <ingredient num="2">1 slice ; ham, diced </ingredient>
+    <ingredient num="3">1 ; green onion, sliced </ingredient>
+    <ingredient num="4">1 ; egg, beaten </ingredient>
+    <ingredient num="5">salt, to taste </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+    <ingredient num="7">shredded mozzarella cheese, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+    <category num="4">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/65981/hls24_1512506070.m3u8</low>
+    <high>https://vid.tasty.co/output/65981/landscape_720/1512506070</high>
+  </video>
+  <steps>
+    <step num="0">Cut the middle of the bread from the slice leaving a ½-inch (1 cm) border of crust. </step>
+    <step num="1">In a pan, place the tomato, ham, and green onion. </step>
+    <step num="2">Cook over medium heat, stirring for about two minutes. </step>
+    <step num="3">With a spatula or spoon arrange the toppings into the shape of the inside of the bread. </step>
+    <step num="4">Place the crust over the toppings. </step>
+    <step num="5">Carefully pour the egg into the hole on top of the toppings to make sure the egg does not spill over. </step>
+    <step num="6">Season with salt and pepper and a sprinkle of mozzarella cheese. </step>
+    <step num="7">Place the inside of the bread back on top and once the eggs are cooked and cheese is melted flip over, about two more minutes. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Cut the middle of the bread from the slice leaving a ½-inch (1 cm) border of crust. </steps_updated>
+    <steps_updated num="1">In a pan, place the tomato, ham, and green onion. </steps_updated>
+    <steps_updated num="2">Cook over medium heat, stirring for about two minutes. </steps_updated>
+    <steps_updated num="3">With a spatula or spoon arrange the toppings into the shape of the inside of the bread. </steps_updated>
+    <steps_updated num="4">Place the crust over the toppings. </steps_updated>
+    <steps_updated num="5">Carefully pour the egg into the hole on top of the toppings to make sure the egg does not spill over. </steps_updated>
+    <steps_updated num="6">Season with salt and pepper and a sprinkle of mozzarella cheese. </steps_updated>
+    <steps_updated num="7">Place the inside of the bread back on top and once the eggs are cooked and cheese is melted flip over, about two more minutes. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Double Chocolate 'Box' Brownies Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/double-chocolate-box-brownies</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-dessert-hacks-using-box-cake-mix</comp_url>
+  <ingredients>
+    <ingredient num="0">15 ¼ oz ; chocolate cake mix, 1 box ; (430 g) </ingredient>
+    <ingredient num="1">⅓ cup ; whole milk ; (80 mL) </ingredient>
+    <ingredient num="2">¼ cup ; canola oil ; (80 mL) </ingredient>
+    <ingredient num="3">1 ; large egg </ingredient>
+    <ingredient num="4">12 oz ; dark chocolate, chopped, divided ; (340 g) </ingredient>
+    <ingredient num="5">4 oz ; white chocolate, chopped ; (115 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Desserts</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Casual Party</category>
+    <category num="6">Indulgent Sweets</category>
+    <category num="7">Bakery Goods</category>
+    <category num="8">Special Occasion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/87859/hls24_1522789999.m3u8</low>
+    <high>https://vid.tasty.co/output/87859/landscape_720/1522789999</high>
+  </video>
+  <duration>
+    <start_time>157.833</start_time>
+    <end_time>200.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 350°F (180°C). Line a 9-inch (23 cm) square pan with parchment paper. </step>
+    <step num="1">In a large bowl, combine the cake mix, milk, oil, and egg. </step>
+    <step num="2">Add ½ cup (115 g) chopped dark chocolate and the chopped white chocolate and mix until combined. </step>
+    <step num="3">Spread the brownie batter in the prepared pan. </step>
+    <step num="4">Sprinkle the remaining chopped dark chocolate on top. </step>
+    <step num="5">Bake for 30 minutes until toothpick comes out clean when inserted in the middle. </step>
+    <step num="6">Let cool before slicing and serve. </step>
+    <step num="7">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 350°F (180°C). </steps_updated>
+    <steps_updated num="1">Line a 9-inch (23 cm) square pan with parchment paper. </steps_updated>
+    <steps_updated num="2">In a large bowl, combine the cake mix, milk, oil, and egg. </steps_updated>
+    <steps_updated num="3">Add ½ cup (115 g) chopped dark chocolate and the chopped white chocolate and mix until combined. </steps_updated>
+    <steps_updated num="4">Spread the brownie batter in the prepared pan. </steps_updated>
+    <steps_updated num="5">Sprinkle the remaining chopped dark chocolate on top. </steps_updated>
+    <steps_updated num="6">Bake for 30 minutes until toothpick comes out clean when inserted in the middle. </steps_updated>
+    <steps_updated num="7">Let cool before slicing and serve. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

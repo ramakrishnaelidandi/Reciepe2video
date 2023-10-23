@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Taco Pie Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/taco-pie</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">¼ cup ; butter, chopped ; (55 g) </ingredient>
+    <ingredient num="1">3 slices ; american cheese </ingredient>
+    <ingredient num="2">1 cup ; flour ; (140 g) </ingredient>
+    <ingredient num="3">¼ teaspoon ; salt </ingredient>
+    <ingredient num="4">2 tablespoons ; water </ingredient>
+    <ingredient num="5">1 lb ; ground beef ; (455 g) </ingredient>
+    <ingredient num="6">½ cup ; onion, chopped ; (75 g) </ingredient>
+    <ingredient num="7">½ cup ; salsa ; (130 g) </ingredient>
+    <ingredient num="8">1 ; refried beans </ingredient>
+    <ingredient num="9">1 ; taco seasoning </ingredient>
+    <ingredient num="10">6 slices ; american cheese </ingredient>
+    <ingredient num="11">1 cup ; shredded lettuce ; (75 g) </ingredient>
+    <ingredient num="12">1 ; tomato, chopped </ingredient>
+    <ingredient num="13">sour cream </ingredient>
+    <ingredient num="14">shredded cheese </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Latin American</category>
+    <category num="2">Mexican</category>
+    <category num="3">Comfort Food</category>
+    <category num="4">Lunch</category>
+    <category num="5">Game Day</category>
+    <category num="6">Casual Party</category>
+    <category num="7">Fusion</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32245/low_1495125488.m3u8</low>
+    <high>https://vid.tasty.co/output/32245/mp4_720x1280/1495125488</high>
+  </video>
+  <steps>
+    <step num="0">Combine crust ingredients except water in food processor bowl. </step>
+    <step num="1">Pulse until the mixture creates coarse crumbles. Add water, one tablespoon at a time, until the dough forms a ball. </step>
+    <step num="2">Roll out dough on a lightly floured surface. Place into 9-inch (22cm) pie plate, and trim the sides. </step>
+    <step num="3">Bake at 400°F/204°C for 10-15 minutes or until crust is golden brown. </step>
+    <step num="4">Cook onions and beef in a medium skillet until beef is browned and cooked through. Drain if watery. </step>
+    <step num="5">Return beef to skillet, add salsa, and taco seasoning. Cook until bubbly. </step>
+    <step num="6">Pour into baked crust. Top with refried beans, and cheese. </step>
+    <step num="7">Bake 3 minutes or until cheese is melted. </step>
+    <step num="8">Let cool. Top with lettuce, tomatoes, sour cream and more cheese! </step>
+    <step num="9">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine crust ingredients except water in food processor bowl. </steps_updated>
+    <steps_updated num="1">Pulse until the mixture creates coarse crumbles. </steps_updated>
+    <steps_updated num="2">Add water, one tablespoon at a time, until the dough forms a ball. </steps_updated>
+    <steps_updated num="3">Roll out dough on a lightly floured surface. </steps_updated>
+    <steps_updated num="4">Place into 9-inch (22cm) pie plate, and trim the sides. </steps_updated>
+    <steps_updated num="5">Bake at 400°F/204°C for 10-15 minutes or until crust is golden brown. </steps_updated>
+    <steps_updated num="6">Cook onions and beef in a medium skillet until beef is browned and cooked through. </steps_updated>
+    <steps_updated num="7">Drain if watery. </steps_updated>
+    <steps_updated num="8">Return beef to skillet, add salsa, and taco seasoning. </steps_updated>
+    <steps_updated num="9">Cook until bubbly. </steps_updated>
+    <steps_updated num="10">Pour into baked crust. </steps_updated>
+    <steps_updated num="11">Top with refried beans, and cheese. </steps_updated>
+    <steps_updated num="12">Bake 3 minutes or until cheese is melted. </steps_updated>
+    <steps_updated num="13">Let cool. </steps_updated>
+    <steps_updated num="14">Top with lettuce, tomatoes, sour cream and more cheese! </steps_updated>
+    <steps_updated num="15">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

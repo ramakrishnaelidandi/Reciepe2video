@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheesesteak Burger Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheesesteak-burger</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-stuffed-burger-upgrades</comp_url>
+  <ingredients>
+    <ingredient num="0">¾ lb ; ground beef ; (340 g) </ingredient>
+    <ingredient num="1">½ tablespoon ; salt </ingredient>
+    <ingredient num="2">½ tablespoon ; pepper </ingredient>
+    <ingredient num="3">2 tablespoons ; white onion, diced, divided </ingredient>
+    <ingredient num="4">1 slice ; provolone cheese, quartered </ingredient>
+    <ingredient num="5">1 ; sesame bun, butter-toasted </ingredient>
+    <ingredient num="6">1 ; green leaf lettuce </ingredient>
+    <ingredient num="7">1 tablespoon ; white onion, diced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dinner</category>
+    <category num="2">Game Day</category>
+    <category num="3">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/107006/hls24_1535480746.m3u8</low>
+    <high>https://vid.tasty.co/output/107006/landscape_720/1535480746</high>
+  </video>
+  <duration>
+    <start_time>120.666</start_time>
+    <end_time>150.266</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a large bowl, combine the ground beef, salt, and pepper. </step>
+    <step num="1">In a ramekin, spread two-thirds of the beef patty evenly along the bottom and the sides. </step>
+    <step num="2">Place half the diced onion and provolone in the well. </step>
+    <step num="3">Preheat the oven to 425°F (220°C). </step>
+    <step num="4">Place the rest of beef patty on top and pat to flatten. </step>
+    <step num="5">Place the ramekin on a baking sheet along with a sesame bun, face down. </step>
+    <step num="6">Bake for 25 minutes. </step>
+    <step num="7">Assemble the burger with the sesame bun, lettuce, and the rest of the onion. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a large bowl, combine the ground beef, salt, and pepper. </steps_updated>
+    <steps_updated num="1">In a ramekin, spread two-thirds of the beef patty evenly along the bottom and the sides. </steps_updated>
+    <steps_updated num="2">Place half the diced onion and provolone in the well. </steps_updated>
+    <steps_updated num="3">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="4">Place the rest of beef patty on top and pat to flatten. </steps_updated>
+    <steps_updated num="5">Place the ramekin on a baking sheet along with a sesame bun, face down. </steps_updated>
+    <steps_updated num="6">Bake for 25 minutes. </steps_updated>
+    <steps_updated num="7">Assemble the burger with the sesame bun, lettuce, and the rest of the onion. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

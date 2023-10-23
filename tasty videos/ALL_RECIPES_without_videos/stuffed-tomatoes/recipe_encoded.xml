@@ -1,0 +1,38 @@
+<recipe>
+  <title>Stuffed Tomatoes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/stuffed-tomatoes</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3917 13278 9668 </ingredient>
+    <ingredient num="1">8580 9486 13278 4437 3745 </ingredient>
+    <ingredient num="2">3917 13278 6216 </ingredient>
+    <ingredient num="3">3333 13810 560 11567 </ingredient>
+    <ingredient num="4">8244 7632 560 11567 </ingredient>
+    <ingredient num="5">13584 10986 560 11567 </ingredient>
+    <ingredient num="6">6209 749 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Low-Carb</category>
+    <category num="2">Appetizers</category>
+    <category num="3">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32030/low_1495125049.m3u8</low>
+    <high>https://vid.tasty.co/output/32030/mp4_720x1280/1495125049</high>
+  </video>
+  <steps>
+    <step num="0">14100 3482 11951 10707 371 11951 9668 13817 5103 11951 3887 1349 1391 3745 4437 13968 210 2237 6216 13817 8677 3333 4496 </step>
+    <step num="1">1594 8177 8244 5766 11770 11951 143 7831 210 10439 7811 8910 7647 7990 13133 8861 5527 11004 10013 4255 1751 3145 1559 1762 665 12313 13784 </step>
+    <step num="2">10242 1391 8177 7845 13817 4711 1391 13952 </step>
+    <step num="3">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">14100 3482 11951 10707 371 11951 9668 13817 5103 11951 3887 </steps_updated>
+    <steps_updated num="1">1349 1391 3745 4437 13968 210 2237 6216 13817 8677 3333 4496 </steps_updated>
+    <steps_updated num="2">1594 8177 8244 5766 11770 11951 143 </steps_updated>
+    <steps_updated num="3">7831 210 10439 7811 8910 7647 7990 13133 8861 5527 11004 10013 4255 1751 3145 1559 1762 665 12313 13784 </steps_updated>
+    <steps_updated num="4">10242 1391 8177 7845 13817 4711 1391 13952 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+</recipe>

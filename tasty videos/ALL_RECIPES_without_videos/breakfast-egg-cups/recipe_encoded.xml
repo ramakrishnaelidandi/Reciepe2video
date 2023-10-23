@@ -1,0 +1,56 @@
+<recipe>
+  <title>Breakfast Egg Cups Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/breakfast-egg-cups</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/breakfast-meal-prep-for-kids</comp_url>
+  <ingredients>
+    <ingredient num="0">409 13278 14463 9917 </ingredient>
+    <ingredient num="1">12610 560 11567 </ingredient>
+    <ingredient num="2">10986 560 11567 </ingredient>
+    <ingredient num="3">12791 2605 13278 6209 2602 3962 13278 12237 5981 </ingredient>
+    <ingredient num="4">1580 2605 13278 9491 341 13278 11953 5981 </ingredient>
+    <ingredient num="5">12791 2605 13278 3333 10865 13810 5895 560 11567 13278 1936 5981 </ingredient>
+    <ingredient num="6">1813 2605 13278 8741 3962 13278 2264 5981 </ingredient>
+    <ingredient num="7">12791 2605 13278 3333 9784 13810 5895 560 11567 13278 1936 5981 </ingredient>
+    <ingredient num="8">1580 2605 13278 13355 7035 3962 13278 8327 5981 </ingredient>
+    <ingredient num="9">1580 13278 8083 1466 10986 341 </ingredient>
+    <ingredient num="10">12791 13278 1358 7983 834 341 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Breakfast</category>
+    <category num="2">Brunch</category>
+    <category num="3">Kid-Friendly</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/57232/low_1508449017.m3u8</low>
+    <high>https://vid.tasty.co/output/57232/mp4_720x1280/1508449017</high>
+  </video>
+  <duration>
+    <start_time>162.41</start_time>
+    <end_time>196.71</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 10439 560 12738 12838 </step>
+    <step num="1">8315 12708 13817 12616 1391 82 13817 10986 560 8686 </step>
+    <step num="2">9179 12708 14166 669 10763 2141 371 5994 2362 12841 5304 </step>
+    <step num="3">9179 13218 7857 </step>
+    <step num="4">7831 7990 5527 12689 </step>
+    <step num="5">9938 11007 5895 2505 210 2759 3801 210 11951 2907 8889 10570 12550 560 10215 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 10439 560 12738 12838 </steps_updated>
+    <steps_updated num="1">8315 12708 13817 12616 1391 82 13817 10986 560 8686 </steps_updated>
+    <steps_updated num="2">9179 12708 14166 669 10763 2141 371 5994 2362 12841 5304 </steps_updated>
+    <steps_updated num="3">9179 13218 7857 </steps_updated>
+    <steps_updated num="4">7831 7990 5527 12689 </steps_updated>
+    <steps_updated num="5">9938 11007 5895 2505 210 2759 3801 210 11951 2907 </steps_updated>
+    <steps_updated num="6">8889 10570 12550 560 10215 </steps_updated>
+    <steps_updated num="7">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>04922</start_time>
+    <end_time>05912</end_time>
+  </duration_human>
+</recipe>

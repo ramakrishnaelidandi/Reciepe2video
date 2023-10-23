@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">3 ; avocados, slightly firm </ingredient>
+    <ingredient num="1">3 ; eggs </ingredient>
+    <ingredient num="2">1 cup ; flour ; (125 g) </ingredient>
+    <ingredient num="3">1 cup ; panko breadcrumbs ; (50 g) </ingredient>
+    <ingredient num="4">1 teaspoon ; salt </ingredient>
+    <ingredient num="5">½ teaspoon ; cayenne pepper, adjust to taste, or substitute with garlic powder </ingredient>
+    <ingredient num="6">pepper, to taste </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Low-Carb</category>
+    <category num="3">Vegetarian</category>
+    <category num="4">Appetizers</category>
+    <category num="5">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32007/low_1495125002.m3u8</low>
+    <high>https://vid.tasty.co/output/32007/mp4_720x1280/1495125002</high>
+  </video>
+  <steps>
+    <step num="0">Slice the avocados in half, and then slice lengthwise into wedges. </step>
+    <step num="1">Mix the bread crumbs with the cayenne pepper and salt. </step>
+    <step num="2">Roll the slices in flour, then in the whisked eggs, then in the breadcrumbs. </step>
+    <step num="3">Place the slices on wax paper on a baking sheet. Spray well with cooking spray. Add a sprinkle of black pepper if desired. </step>
+    <step num="4">Bake for approximately 12 minutes at 400˚F (205˚C). Flip all the way through and re-spray. </step>
+    <step num="5">Serve with your favorite dipping sauce! </step>
+    <step num="6">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Slice the avocados in half, and then slice lengthwise into wedges. </steps_updated>
+    <steps_updated num="1">Mix the bread crumbs with the cayenne pepper and salt. </steps_updated>
+    <steps_updated num="2">Roll the slices in flour, then in the whisked eggs, then in the breadcrumbs. </steps_updated>
+    <steps_updated num="3">Place the slices on wax paper on a baking sheet. </steps_updated>
+    <steps_updated num="4">Spray well with cooking spray. </steps_updated>
+    <steps_updated num="5">Add a sprinkle of black pepper if desired. </steps_updated>
+    <steps_updated num="6">Bake for approximately 12 minutes at 400˚F (205˚C). </steps_updated>
+    <steps_updated num="7">Flip all the way through and re-spray. </steps_updated>
+    <steps_updated num="8">Serve with your favorite dipping sauce! </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Hearty Potato Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/hearty-potato-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">1 ½ lb ; small red potato, cleaned and unpeeled ; (680 g) </ingredient>
+    <ingredient num="1">fine sea salt, to taste </ingredient>
+    <ingredient num="2">½ cup ; mayonnaise ; (120 g) </ingredient>
+    <ingredient num="3">½ ; lemon, juiced </ingredient>
+    <ingredient num="4">2 teaspoons ; dijon mustard </ingredient>
+    <ingredient num="5">¼ cup ; red onion, finely chopped ; (75 g) </ingredient>
+    <ingredient num="6">2 ; hard-boiled eggs, coarsely chopped </ingredient>
+    <ingredient num="7">¼ teaspoon ; smoked paprika </ingredient>
+    <ingredient num="8">freshly ground black pepper, to taste </ingredient>
+    <ingredient num="9">⅓ cup ; dill pickle, coarsely chopped ; (50 g) </ingredient>
+    <ingredient num="10">2 tablespoons ; chives, finely chopped, plus more for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Comfort Food</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Lunch</category>
+    <category num="4">Sides</category>
+    <category num="5">Casual Party</category>
+    <category num="6">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92767/hls24_1525475654.m3u8</low>
+    <high>https://vid.tasty.co/output/92767/landscape_720/1525475654</high>
+  </video>
+  <steps>
+    <step num="0">Place the potatoes in a large pot with enough water to cover them by 2 inches (5 cm), cover, and bring to a boil over high heat. </step>
+    <step num="1">Once boiling, season with salt, reduce the heat to medium, and cook until the potatoes are tender, 25-30 minutes. Drain and set aside to cool. </step>
+    <step num="2">In a large bowl, whisk together the mayonnaise, lemon juice, Dijon mustard, and paprika. Season with ½ teaspoon of salt and ½ teaspoon of pepper. </step>
+    <step num="3">Dice the potatoes and transfer to a separate large bowl, along with the onion, eggs, pickles, and chives. Season with salt and pepper to taste. Pour the sauce over the potatoes and toss to coat evenly. Sprinkle with chopped chives, for garnish. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Place the potatoes in a large pot with enough water to cover them by 2 inches (5 cm), cover, and bring to a boil over high heat. </steps_updated>
+    <steps_updated num="1">Once boiling, season with salt, reduce the heat to medium, and cook until the potatoes are tender, 25-30 minutes. </steps_updated>
+    <steps_updated num="2">Drain and set aside to cool. </steps_updated>
+    <steps_updated num="3">In a large bowl, whisk together the mayonnaise, lemon juice, Dijon mustard, and paprika. </steps_updated>
+    <steps_updated num="4">Season with ½ teaspoon of salt and ½ teaspoon of pepper. </steps_updated>
+    <steps_updated num="5">Dice the potatoes and transfer to a separate large bowl, along with the onion, eggs, pickles, and chives. </steps_updated>
+    <steps_updated num="6">Season with salt and pepper to taste. </steps_updated>
+    <steps_updated num="7">Pour the sauce over the potatoes and toss to coat evenly. </steps_updated>
+    <steps_updated num="8">Sprinkle with chopped chives, for garnish. </steps_updated>
+    <steps_updated num="9">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

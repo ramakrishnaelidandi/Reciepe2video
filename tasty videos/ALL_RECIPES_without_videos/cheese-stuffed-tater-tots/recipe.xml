@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cheese-Stuffed Tater Tots Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cheese-stuffed-tater-tots</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">2 lb ; frozen hash brown, thawed ; (910 g) </ingredient>
+    <ingredient num="1">2 tablespoons ; all-purpose flour </ingredient>
+    <ingredient num="2">1 ½ tablespoons ; salt, or more to taste </ingredient>
+    <ingredient num="3">1 tablespoon ; ground black pepper </ingredient>
+    <ingredient num="4">3 ; eggs </ingredient>
+    <ingredient num="5">1 block ; cheddar cheese, cut into small, rectangular cubes </ingredient>
+    <ingredient num="6">vegetable oil, for frying </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">British</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Snacks</category>
+    <category num="3">Game Day</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31976/low_1495124960.m3u8</low>
+    <high>https://vid.tasty.co/output/31976/mp4_720x1280/1495124960</high>
+  </video>
+  <steps>
+    <step num="0">Combine thawed hash browns, flour, salt, pepper, and eggs in a bowl. </step>
+    <step num="1">Take a piece of cheese and wrap a palmful of the mixture around it, shaping it into a tot (you may have to squeeze out some excess moisture to make it nice and tight). </step>
+    <step num="2">Fill a large, deep skillet halfway with oil and heat over medium. When the oil is hot, drop in some tots, turning them along the way until they're crispy and golden brown. Let cool a bit. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Combine thawed hash browns, flour, salt, pepper, and eggs in a bowl. </steps_updated>
+    <steps_updated num="1">Take a piece of cheese and wrap a palmful of the mixture around it, shaping it into a tot (you may have to squeeze out some excess moisture to make it nice and tight). </steps_updated>
+    <steps_updated num="2">Fill a large, deep skillet halfway with oil and heat over medium. </steps_updated>
+    <steps_updated num="3">When the oil is hot, drop in some tots, turning them along the way until they're crispy and golden brown. </steps_updated>
+    <steps_updated num="4">Let cool a bit. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

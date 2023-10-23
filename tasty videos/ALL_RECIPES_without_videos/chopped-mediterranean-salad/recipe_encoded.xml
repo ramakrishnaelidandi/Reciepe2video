@@ -1,0 +1,49 @@
+<recipe>
+  <title>Chopped Mediterranean Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chopped-mediterranean-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 13278 1387 </ingredient>
+    <ingredient num="1">4061 13278 717 </ingredient>
+    <ingredient num="2">3917 13278 8083 6334 </ingredient>
+    <ingredient num="3">1580 2605 13278 11039 14538 13278 3433 5981 </ingredient>
+    <ingredient num="4">8580 9486 13278 8244 5766 </ingredient>
+    <ingredient num="5">8580 9486 13278 8083 13538 10769 </ingredient>
+    <ingredient num="6">12610 560 11567 </ingredient>
+    <ingredient num="7">13584 10986 560 11567 </ingredient>
+    <ingredient num="8">3917 14014 13278 597 10522 </ingredient>
+    <ingredient num="9">3917 2605 13278 2208 8244 13278 6898 5981 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Middle Eastern</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Sides</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/26490/low_1489523999.m3u8</low>
+    <high>https://vid.tasty.co/output/26490/mp4_720x1280/1489523999</high>
+  </video>
+  <steps>
+    <step num="0">8940 11951 5993 14100 669 5692 13817 415 10147 11951 7180 5570 210 5994 2597 11812 7616 </step>
+    <step num="1">14100 717 669 10161 12957 13817 415 9991 13817 7777 669 2597 10506 9179 560 11951 11812 7616 </step>
+    <step num="2">14100 11951 8083 6334 210 1991 484 11951 14247 4133 13817 13545 4540 12205 13817 740 560 11951 7616 </step>
+    <step num="3">9179 11951 11039 13810 8244 7632 8083 13538 4450 12610 10986 597 7654 13817 2304 560 11951 11812 12377 13817 1686 13092 </step>
+    <step num="4">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8940 11951 5993 </steps_updated>
+    <steps_updated num="1">14100 669 5692 13817 415 10147 11951 7180 </steps_updated>
+    <steps_updated num="2">5570 210 5994 2597 11812 7616 </steps_updated>
+    <steps_updated num="3">14100 717 669 10161 12957 13817 415 9991 13817 7777 669 2597 10506 </steps_updated>
+    <steps_updated num="4">9179 560 11951 11812 7616 </steps_updated>
+    <steps_updated num="5">14100 11951 8083 6334 210 1991 484 11951 14247 4133 13817 13545 </steps_updated>
+    <steps_updated num="6">4540 12205 13817 740 560 11951 7616 </steps_updated>
+    <steps_updated num="7">9179 11951 11039 13810 8244 7632 8083 13538 4450 12610 10986 597 7654 13817 2304 560 11951 11812 12377 13817 1686 13092 </steps_updated>
+    <steps_updated num="8">9092 </steps_updated>
+  </steps_updated>
+</recipe>

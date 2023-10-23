@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chili-lime Pineapple Cucumber Sticks Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chili-lime-pineapple-cucumber-sticks</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/no-added-sugar-snacks-4-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">5 spears ; jicama </ingredient>
+    <ingredient num="1">5 spears ; pineapple </ingredient>
+    <ingredient num="2">5 spears ; cucumber </ingredient>
+    <ingredient num="3">1 teaspoon ; chili lime seasoning </ingredient>
+    <ingredient num="4">2 ; lime wedges </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Gluten-Free</category>
+    <category num="3">Healthy</category>
+    <category num="4">Low-Carb</category>
+    <category num="5">Vegan</category>
+    <category num="6">Vegetarian</category>
+    <category num="7">Appetizers</category>
+    <category num="8">Kid-Friendly</category>
+    <category num="9">Snacks</category>
+    <category num="10">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/34251/low_1497564050.m3u8</low>
+    <high>https://vid.tasty.co/output/34251/mp4_720x1280/1497564050</high>
+  </video>
+  <duration>
+    <start_time>62.650000000000006</start_time>
+    <end_time>84.34</end_time>
+  </duration>
+  <steps>
+    <step num="0">Add the cut jicama, pineapple, cucumber, chili lime seasoning, and juice from the lime wedge in a resealable bag. </step>
+    <step num="1">Toss to coat. Serve with a lime wedge. </step>
+    <step num="2">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Add the cut jicama, pineapple, cucumber, chili lime seasoning, and juice from the lime wedge in a resealable bag. </steps_updated>
+    <steps_updated num="1">Toss to coat. </steps_updated>
+    <steps_updated num="2">Serve with a lime wedge. </steps_updated>
+    <steps_updated num="3">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01934</start_time>
+    <end_time>02551</end_time>
+  </duration_human>
+</recipe>

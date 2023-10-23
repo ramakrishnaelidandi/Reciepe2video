@@ -1,0 +1,60 @@
+<recipe>
+  <title>Sausage, Spinach, Tomato Rigatoni Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sausage-spinach-tomato-rigatoni</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/3-creative-one-pot-recipes</comp_url>
+  <ingredients>
+    <ingredient num="0">3917 14014 13278 8244 5766 </ingredient>
+    <ingredient num="1">2933 11753 13278 6222 11239 13280 </ingredient>
+    <ingredient num="2">3917 13278 2597 11091 12384 3962 </ingredient>
+    <ingredient num="3">2933 13667 13278 4155 10015 </ingredient>
+    <ingredient num="4">12610 560 11567 </ingredient>
+    <ingredient num="5">10986 560 11567 </ingredient>
+    <ingredient num="6">3917 14014 13278 796 5616 </ingredient>
+    <ingredient num="7">3917 14014 13278 796 6250 </ingredient>
+    <ingredient num="8">3917 14014 13278 796 2768 </ingredient>
+    <ingredient num="9">409 643 13278 9668 30 13278 4606 5981 </ingredient>
+    <ingredient num="10">13133 643 13278 341 9668 13278 13345 5981 </ingredient>
+    <ingredient num="11">8580 9517 13278 2431 109 13810 3247 13278 6952 5981 </ingredient>
+    <ingredient num="12">8580 9517 13278 13220 13278 12158 5981 </ingredient>
+    <ingredient num="13">3917 715 13278 3857 3745 13278 4563 5981 </ingredient>
+    <ingredient num="14">3917 2605 13278 12426 14538 13278 3153 5981 </ingredient>
+    <ingredient num="15">6209 749 560 4711 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dinner</category>
+    <category num="2">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/92227/hls24_1525286591.m3u8</low>
+    <high>https://vid.tasty.co/output/92227/landscape_720/1525286591</high>
+  </video>
+  <duration>
+    <start_time>6.0</start_time>
+    <end_time>73.166</end_time>
+  </duration>
+  <steps>
+    <step num="0">10450 5994 2597 801 10439 4255 13757 14307 740 11951 8244 5766 13817 7855 3557 1681 3557 5809 </step>
+    <step num="1">9179 11951 6222 6302 4437 2550 1681 11951 11951 3859 11801 11777 5845 10954 13817 2550 4255 11951 11649 11801 1681 11951 13280 9490 7568 8421 13133 12689 6054 11951 4658 6781 11951 5687 13817 12205 10570 6665 10694 7584 </step>
+    <step num="2">10450 11951 4529 5687 10545 740 11951 3962 11091 12384 10015 4155 12610 10986 796 749 796 11227 13817 796 13012 264 1681 11951 11453 12573 6743 13817 2021 11059 13767 12689 </step>
+    <step num="3">9179 11951 9668 30 13817 2550 1681 11951 9668 30 4691 12624 </step>
+    <step num="4">9179 210 11951 341 717 13817 11951 13280 8535 669 11951 11745 6991 13817 3945 11951 2260 4603 560 5994 5181 </step>
+    <step num="5">9179 210 2532 11951 2431 11493 2602 11951 3745 5444 13817 6142 560 1011 </step>
+    <step num="6">6877 210 6209 5398 371 11951 12426 13810 4711 1391 6209 749 3954 2431 11493 13817 7329 </step>
+    <step num="7">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">10450 5994 2597 801 10439 4255 13757 14307 740 11951 8244 5766 13817 7855 3557 1681 3557 5809 </steps_updated>
+    <steps_updated num="1">9179 11951 6222 6302 4437 2550 1681 11951 11951 3859 11801 11777 5845 10954 13817 2550 4255 11951 11649 11801 1681 11951 13280 9490 7568 8421 13133 12689 </steps_updated>
+    <steps_updated num="2">6054 11951 4658 6781 11951 5687 13817 12205 10570 6665 10694 7584 </steps_updated>
+    <steps_updated num="3">10450 11951 4529 5687 10545 740 11951 3962 11091 12384 10015 4155 12610 10986 796 749 796 11227 13817 796 13012 </steps_updated>
+    <steps_updated num="4">264 1681 11951 11453 12573 6743 13817 2021 </steps_updated>
+    <steps_updated num="5">11059 13767 12689 </steps_updated>
+    <steps_updated num="6">9179 11951 9668 30 13817 2550 1681 11951 9668 30 4691 12624 </steps_updated>
+    <steps_updated num="7">9179 210 11951 341 717 13817 11951 13280 8535 669 11951 11745 6991 13817 3945 11951 2260 4603 560 5994 5181 </steps_updated>
+    <steps_updated num="8">9179 210 2532 11951 2431 11493 2602 11951 3745 5444 13817 6142 560 1011 </steps_updated>
+    <steps_updated num="9">6877 210 6209 5398 371 11951 12426 13810 4711 1391 6209 749 3954 2431 11493 13817 7329 </steps_updated>
+    <steps_updated num="10">9092 </steps_updated>
+  </steps_updated>
+</recipe>

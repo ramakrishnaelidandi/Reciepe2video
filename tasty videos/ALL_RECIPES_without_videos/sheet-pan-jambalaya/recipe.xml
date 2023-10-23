@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Sheet-Pan Jambalaya Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/sheet-pan-jambalaya</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/low-stress-dinners</comp_url>
+  <ingredients>
+    <ingredient num="0">1 medium ; medium yellow onion, sliced </ingredient>
+    <ingredient num="1">1 ; red bell pepper, sliced </ingredient>
+    <ingredient num="2">1 ; yellow bell pepper, sliced </ingredient>
+    <ingredient num="3">1 ; green bell pepper, sliced </ingredient>
+    <ingredient num="4">2 cups ; chicken sausage, sliced into coins ; (275 g) </ingredient>
+    <ingredient num="5">olive oil, to taste </ingredient>
+    <ingredient num="6">1 ¼ tablespoons ; creole seasoning, divided </ingredient>
+    <ingredient num="7">1 lb ; raw shrimp, peeled and deveined ; (455 g) </ingredient>
+    <ingredient num="8">½ teaspoon ; paprika </ingredient>
+    <ingredient num="9">1 ½ cups ; tomato, diced ; (300 g) </ingredient>
+    <ingredient num="10">4 cups ; rice, cooked, we used brown rice ; (920 g) </ingredient>
+    <ingredient num="11">scallion, sliced, for garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Comfort Food</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Dinner</category>
+    <category num="4">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/85393/hls24_1521485033.m3u8</low>
+    <high>https://vid.tasty.co/output/85393/landscape_720/1521485033</high>
+  </video>
+  <duration>
+    <start_time>111.166</start_time>
+    <end_time>171.0</end_time>
+  </duration>
+  <steps>
+    <step num="0">Preheat the oven to 425°F (220°C). </step>
+    <step num="1">On a large baking sheet, arrange the onion, bell peppers, and chicken sausage. Drizzle with olive oil and season with 1 tablespoon Creole seasoning, or to taste. Using your hands, mix everything together well. </step>
+    <step num="2">Bake for 8 minutes, or until chicken sausage begins to brown. </step>
+    <step num="3">While the vegetables and chicken sausage are cooking, place the shrimp in a small bowl. Season with 1 teaspoon Creole seasoning and ½ teaspoon paprika. Stir to coat. </step>
+    <step num="4">Remove the vegetables and sausage from the oven, and add the seasoned shrimp and diced tomatoes. Mix everything together. </step>
+    <step num="5">Return everything to the oven for 6 minutes, or until the shrimp is just done. </step>
+    <step num="6">Remove from the oven and add the cooked rice, mixing everything together well. </step>
+    <step num="7">Garnish with sliced scallions and serve immediately. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Preheat the oven to 425°F (220°C). </steps_updated>
+    <steps_updated num="1">On a large baking sheet, arrange the onion, bell peppers, and chicken sausage. </steps_updated>
+    <steps_updated num="2">Drizzle with olive oil and season with 1 tablespoon Creole seasoning, or to taste. </steps_updated>
+    <steps_updated num="3">Using your hands, mix everything together well. </steps_updated>
+    <steps_updated num="4">Bake for 8 minutes, or until chicken sausage begins to brown. </steps_updated>
+    <steps_updated num="5">While the vegetables and chicken sausage are cooking, place the shrimp in a small bowl. </steps_updated>
+    <steps_updated num="6">Season with 1 teaspoon Creole seasoning and ½ teaspoon paprika. </steps_updated>
+    <steps_updated num="7">Stir to coat. </steps_updated>
+    <steps_updated num="8">Remove the vegetables and sausage from the oven, and add the seasoned shrimp and diced tomatoes. </steps_updated>
+    <steps_updated num="9">Mix everything together. </steps_updated>
+    <steps_updated num="10">Return everything to the oven for 6 minutes, or until the shrimp is just done. </steps_updated>
+    <steps_updated num="11">Remove from the oven and add the cooked rice, mixing everything together well. </steps_updated>
+    <steps_updated num="12">Garnish with sliced scallions and serve immediately. </steps_updated>
+    <steps_updated num="13">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>02713</start_time>
+    <end_time>04059</end_time>
+  </duration_human>
+</recipe>

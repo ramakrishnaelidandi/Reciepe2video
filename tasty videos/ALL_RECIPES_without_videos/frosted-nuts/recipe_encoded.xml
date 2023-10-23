@@ -1,0 +1,44 @@
+<recipe>
+  <title>Frosted Nuts Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/frosted-nuts</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-tasty-gift-ideas-for-holiday-seasons</comp_url>
+  <ingredients>
+    <ingredient num="0">4061 9517 13278 13271 13278 5348 5981 </ingredient>
+    <ingredient num="1">8580 13278 6216 4072 </ingredient>
+    <ingredient num="2">1580 2605 13278 4834 13278 11953 5981 </ingredient>
+    <ingredient num="3">11216 8071 13278 82 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Indulgent Sweets</category>
+    <category num="1">Bakery Goods</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/67159/hls24_1513018969.m3u8</low>
+    <high>https://vid.tasty.co/output/67159/landscape_720/1513018969</high>
+  </video>
+  <duration>
+    <start_time>60.67</start_time>
+    <end_time>80.259</end_time>
+  </duration>
+  <steps>
+    <step num="0">3915 11951 10439 560 8037 11920 </step>
+    <step num="1">10950 5994 2597 14511 4120 11951 5432 6216 2152 6145 13817 82 13817 10968 1391 5994 10258 7700 1681 11951 13271 12573 10681 </step>
+    <step num="2">2988 11951 399 2373 3584 4255 5994 3550 8797 10765 8800 </step>
+    <step num="3">7831 7990 11877 11004 13328 5452 13767 11004 1681 11951 13271 12573 8562 </step>
+    <step num="4">13434 3936 </step>
+    <step num="5">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">3915 11951 10439 560 8037 11920 </steps_updated>
+    <steps_updated num="1">10950 5994 2597 14511 4120 11951 5432 6216 2152 6145 13817 82 13817 10968 1391 5994 10258 7700 1681 11951 13271 12573 10681 </steps_updated>
+    <steps_updated num="2">2988 11951 399 2373 3584 4255 5994 3550 8797 10765 8800 </steps_updated>
+    <steps_updated num="3">7831 7990 11877 11004 13328 5452 13767 11004 1681 11951 13271 12573 8562 </steps_updated>
+    <steps_updated num="4">13434 3936 </steps_updated>
+    <steps_updated num="5">9092 </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>01503</start_time>
+    <end_time>02282</end_time>
+  </duration_human>
+</recipe>

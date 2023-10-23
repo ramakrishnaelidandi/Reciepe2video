@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Star-Spangled Fruit Skewers Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/star-spangled-fruit-skewers</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/4-healthy-last-minute-ideas-for-july-4th</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; strawberry, halved ; (300 g) </ingredient>
+    <ingredient num="1">5 ; bananas, sliced into 1-inch pieces </ingredient>
+    <ingredient num="2">½ cup ; blueberry ; (50 g) </ingredient>
+    <ingredient num="3">8 ; wooden skewers </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Gluten-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Kid-Friendly</category>
+    <category num="6">Snacks</category>
+    <category num="7">BBQ</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/41876/low_1498848980.m3u8</low>
+    <high>https://vid.tasty.co/output/41876/mp4_720x1280/1498848980</high>
+  </video>
+  <duration>
+    <start_time>7.33</start_time>
+    <end_time>20.7</end_time>
+  </duration>
+  <steps>
+    <step num="0">For 3 of the skewers add one strawberry and one banana, alternating colors until you have about 2 inches left on the end of skewer. To represent the flag, start with a strawberry and end with a strawberry. Then add 5 blueberries to the end. Set on the left side of a platter or tray. </step>
+    <step num="1">For the rest of the skewers, add alternating strawberries and bananas until you run out of room on your skewer, again starting and ending with strawberries. Set to the right of the other skewers. </step>
+    <step num="2">Bring to your party, serve, and enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">For 3 of the skewers add one strawberry and one banana, alternating colors until you have about 2 inches left on the end of skewer. </steps_updated>
+    <steps_updated num="1">To represent the flag, start with a strawberry and end with a strawberry. </steps_updated>
+    <steps_updated num="2">Then add 5 blueberries to the end. </steps_updated>
+    <steps_updated num="3">Set on the left side of a platter or tray. </steps_updated>
+    <steps_updated num="4">For the rest of the skewers, add alternating strawberries and bananas until you run out of room on your skewer, again starting and ending with strawberries. </steps_updated>
+    <steps_updated num="5">Set to the right of the other skewers. </steps_updated>
+    <steps_updated num="6">Bring to your party, serve, and enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00273</start_time>
+    <end_time>00641</end_time>
+  </duration_human>
+</recipe>

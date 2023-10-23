@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Avocado Rose Avocado Toast Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/avocado-rose-avocado-toast</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/avocado-toast-9-ways</comp_url>
+  <ingredients>
+    <ingredient num="0">bread, toasted </ingredient>
+    <ingredient num="1">½ ; avocado, sliced </ingredient>
+    <ingredient num="2">1 ; strawberry, sliced </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Vegan</category>
+    <category num="4">Vegetarian</category>
+    <category num="5">Breakfast</category>
+    <category num="6">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31699/low_1494972610.m3u8</low>
+    <high>https://vid.tasty.co/output/31699/mp4_720x1280/1494972610</high>
+  </video>
+  <duration>
+    <start_time>99.0</start_time>
+    <end_time>117.72</end_time>
+  </duration>
+  <steps>
+    <step num="0">Thinly slice half of an avocado. Keep slices together and start molding them into a line. </step>
+    <step num="1">Start folding one end inside and wrapping other end around in a circle. </step>
+    <step num="2">Place rose-shaped avocado on toast and add sliced strawberries at each corner of the toast. </step>
+    <step num="3">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Thinly slice half of an avocado. </steps_updated>
+    <steps_updated num="1">Keep slices together and start molding them into a line. </steps_updated>
+    <steps_updated num="2">Start folding one end inside and wrapping other end around in a circle. </steps_updated>
+    <steps_updated num="3">Place rose-shaped avocado on toast and add sliced strawberries at each corner of the toast. </steps_updated>
+    <steps_updated num="4">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>03022</start_time>
+    <end_time>03485</end_time>
+  </duration_human>
+</recipe>

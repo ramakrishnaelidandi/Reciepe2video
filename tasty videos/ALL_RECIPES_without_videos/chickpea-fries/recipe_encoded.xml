@@ -1,0 +1,52 @@
+<recipe>
+  <title>Chickpea Fries Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chickpea-fries</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">8580 9517 13278 10795 890 13278 6898 5981 </ingredient>
+    <ingredient num="1">4061 9517 13278 12282 13278 5564 8007 </ingredient>
+    <ingredient num="2">1580 2605 13278 9767 3713 13278 4337 5981 </ingredient>
+    <ingredient num="3">3917 14014 13278 6209 11911 11588 3962 </ingredient>
+    <ingredient num="4">3917 14014 13278 6209 4564 11588 3962 </ingredient>
+    <ingredient num="5">3917 2414 13278 4155 10015 </ingredient>
+    <ingredient num="6">3917 8071 13278 597 10522 </ingredient>
+    <ingredient num="7">12610 560 11567 </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Healthy</category>
+    <category num="2">Vegetarian</category>
+    <category num="3">Appetizers</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Sides</category>
+    <category num="6">Casual Party</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32069/low_1495125301.m3u8</low>
+    <high>https://vid.tasty.co/output/32069/mp4_720x1280/1495125301</high>
+  </video>
+  <steps>
+    <step num="0">8785 4061 9517 371 12282 560 5994 11714 12633 8341 210 8580 9517 371 10795 13290 8697 560 8341 1681 11951 2373 9490 6352 560 11951 7968 371 7711 7252 </step>
+    <step num="1">7029 10231 560 5994 4854 10765 6325 2289 612 2237 394 11011 9969 9801 5994 13747 797 217 644 6722 60 2930 986 11951 3830 4255 12313 9316 12605 5994 8631 7287 560 8159 5312 11951 2373 12208 3584 13817 560 11136 7115 5910 2761 </step>
+    <step num="2">8724 8438 7558 11770 11951 2373 560 8159 5994 7868 12605 13817 173 7990 8580 12721 1681 3557 7312 817 10319 </step>
+    <step num="3">10343 7611 10950 5994 13757 14511 4120 9767 2694 5994 2157 371 12610 11588 3962 11911 11588 3962 4564 2414 11384 4625 13817 597 8587 </step>
+    <step num="4">14259 11951 10765 3830 4255 5994 4669 4330 10566 5401 11628 560 14467 7811 11951 5832 560 11136 11951 1931 7990 3557 560 1183 2696 12201 3235 669 10901 7256 10552 </step>
+    <step num="5">13057 7256 210 5766 1681 10763 11801 9490 10963 13817 2111 5100 6908 9994 5649 2696 371 14158 </step>
+    <step num="6">9092 </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">8785 4061 9517 371 12282 560 5994 11714 </steps_updated>
+    <steps_updated num="1">12633 8341 210 8580 9517 371 10795 13290 </steps_updated>
+    <steps_updated num="2">8697 560 8341 1681 11951 2373 9490 6352 560 11951 7968 371 7711 7252 </steps_updated>
+    <steps_updated num="3">7029 10231 560 5994 4854 10765 6325 </steps_updated>
+    <steps_updated num="4">2289 612 2237 394 11011 9969 9801 5994 13747 797 217 644 6722 60 2930 </steps_updated>
+    <steps_updated num="5">986 11951 3830 4255 12313 9316 12605 5994 8631 7287 560 8159 5312 11951 2373 12208 3584 13817 560 11136 7115 5910 2761 </steps_updated>
+    <steps_updated num="6">8724 8438 7558 11770 11951 2373 560 8159 5994 7868 12605 13817 173 7990 8580 12721 1681 3557 7312 817 10319 </steps_updated>
+    <steps_updated num="7">10343 7611 10950 5994 13757 14511 4120 9767 2694 5994 2157 371 12610 11588 3962 11911 11588 3962 4564 2414 11384 4625 13817 597 8587 </steps_updated>
+    <steps_updated num="8">14259 11951 10765 3830 4255 5994 4669 4330 10566 5401 11628 560 14467 7811 11951 5832 560 11136 11951 1931 7990 3557 560 1183 2696 12201 </steps_updated>
+    <steps_updated num="9">3235 669 10901 7256 10552 </steps_updated>
+    <steps_updated num="10">13057 7256 210 5766 1681 10763 11801 9490 10963 13817 2111 </steps_updated>
+    <steps_updated num="11">5100 6908 9994 5649 2696 371 14158 </steps_updated>
+    <steps_updated num="12">9092 </steps_updated>
+  </steps_updated>
+</recipe>

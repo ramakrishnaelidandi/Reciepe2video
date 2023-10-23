@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Strawberry Shortcake Pancakes Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/strawberry-shortcake-pancakes</url>
+  <type>compilation</type>
+  <comp_url>https://tasty.co/compilation/strawberry-shortcake-pancake-breakfast-in-bed</comp_url>
+  <ingredients>
+    <ingredient num="0">2 cups ; strawberry, quartered ; (300 g) </ingredient>
+    <ingredient num="1">1 cup ; water ; (240 mL) </ingredient>
+    <ingredient num="2">1 cup ; sugar ; (200 g) </ingredient>
+    <ingredient num="3">1 tablespoon ; cornstarch, optional </ingredient>
+    <ingredient num="4">1 tablespoon ; water, optional </ingredient>
+    <ingredient num="5">1 ; egg </ingredient>
+    <ingredient num="6">3 tablespoons ; butter, melted </ingredient>
+    <ingredient num="7">1 ½ cups ; buttermilk ; (360 mL) </ingredient>
+    <ingredient num="8">1 ½ cups ; all-purpose flour ; (185 g) </ingredient>
+    <ingredient num="9">2 tablespoons ; sugar </ingredient>
+    <ingredient num="10">1 tablespoon ; baking powder </ingredient>
+    <ingredient num="11">1 teaspoon ; baking soda </ingredient>
+    <ingredient num="12">⅛ teaspoon ; salt </ingredient>
+    <ingredient num="13">butter </ingredient>
+    <ingredient num="14">whipped cream, optional </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Breakfast</category>
+    <category num="3">Brunch</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31174/low_1494276313.m3u8</low>
+    <high>https://vid.tasty.co/output/31174/mp4_720x1280/1494276313</high>
+  </video>
+  <duration>
+    <start_time>20.0</start_time>
+    <end_time>80.5</end_time>
+  </duration>
+  <steps>
+    <step num="0">In a saucepan over medium heat, add the quartered strawberries, water, and sugar. Stir until combined and bring to a boil. </step>
+    <step num="1">Turn down the heat and simmer for 10 minutes. If the syrup is too thin, mix together the cornstarch and water and add it to the strawberries. Stir again and cook until thickened about 5 minutes. Set aside. </step>
+    <step num="2">In a medium bowl, mix together the wet ingredients. </step>
+    <step num="3">In a large bowl, mix together the dry ingredients. </step>
+    <step num="4">Slowly add the wet ingredients to the dry and gently mix until just incorporated. Do not over-mix! </step>
+    <step num="5">Heat 1 tablespoon of butter on a skillet over medium heat. </step>
+    <step num="6">Add ½ cup (145 g) of batter to the skillet and cook until bubbles form on the surface of the pancake. Flip and set aside. </step>
+    <step num="7">Stack the pancakes and top with strawberry syrup and a dollop of whipped cream. </step>
+    <step num="8">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a saucepan over medium heat, add the quartered strawberries, water, and sugar. </steps_updated>
+    <steps_updated num="1">Stir until combined and bring to a boil. </steps_updated>
+    <steps_updated num="2">Turn down the heat and simmer for 10 minutes. </steps_updated>
+    <steps_updated num="3">If the syrup is too thin, mix together the cornstarch and water and add it to the strawberries. </steps_updated>
+    <steps_updated num="4">Stir again and cook until thickened about 5 minutes. </steps_updated>
+    <steps_updated num="5">Set aside. </steps_updated>
+    <steps_updated num="6">In a medium bowl, mix together the wet ingredients. </steps_updated>
+    <steps_updated num="7">In a large bowl, mix together the dry ingredients. </steps_updated>
+    <steps_updated num="8">Slowly add the wet ingredients to the dry and gently mix until just incorporated. </steps_updated>
+    <steps_updated num="9">Do not over-mix! </steps_updated>
+    <steps_updated num="10">Heat 1 tablespoon of butter on a skillet over medium heat. </steps_updated>
+    <steps_updated num="11">Add ½ cup (145 g) of batter to the skillet and cook until bubbles form on the surface of the pancake. </steps_updated>
+    <steps_updated num="12">Flip and set aside. </steps_updated>
+    <steps_updated num="13">Stack the pancakes and top with strawberry syrup and a dollop of whipped cream. </steps_updated>
+    <steps_updated num="14">Enjoy! </steps_updated>
+  </steps_updated>
+  <duration_human>
+    <start_time>00662</start_time>
+    <end_time>02432</end_time>
+  </duration_human>
+</recipe>

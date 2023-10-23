@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Cherry Moscow Mule Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/cherry-moscow-mule</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">6 ; maraschino cherries </ingredient>
+    <ingredient num="1">2 tablespoons ; lime juice </ingredient>
+    <ingredient num="2">6 tablespoons ; vodka </ingredient>
+    <ingredient num="3">¾ cup ; ginger beer ; (180 mL) </ingredient>
+    <ingredient num="4">edible flower, to garnish </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">Vegan</category>
+    <category num="1">Vegetarian</category>
+    <category num="2">Drinks</category>
+    <category num="3">Happy Hour</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/31833/low_1495124735.m3u8</low>
+    <high>https://vid.tasty.co/output/31833/mp4_720x1280/1495124735</high>
+  </video>
+  <steps>
+    <step num="0">In a glass, muddle maraschino cherries and lime juice. </step>
+    <step num="1">Add vodka and stir. </step>
+    <step num="2">In a copper mug, pour cherry mixture over ice and top it off with ginger beer. </step>
+    <step num="3">Add edible flowers for garnish. Serve. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">In a glass, muddle maraschino cherries and lime juice. </steps_updated>
+    <steps_updated num="1">Add vodka and stir. </steps_updated>
+    <steps_updated num="2">In a copper mug, pour cherry mixture over ice and top it off with ginger beer. </steps_updated>
+    <steps_updated num="3">Add edible flowers for garnish. </steps_updated>
+    <steps_updated num="4">Serve. </steps_updated>
+    <steps_updated num="5">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>

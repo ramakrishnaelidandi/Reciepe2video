@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe>
+  <title>Chicken Caesar Pasta Salad Recipe by Tasty</title>
+  <url>https://tasty.co/recipe/chicken-caesar-pasta-salad</url>
+  <type>single</type>
+  <ingredients>
+    <ingredient num="0">10 oz ; farfalle pasta, "bow-tie" pasta ; (285 g) </ingredient>
+    <ingredient num="1">3 breasts ; chicken </ingredient>
+    <ingredient num="2">3 tablespoons ; olive oil </ingredient>
+    <ingredient num="3">salt, to taste </ingredient>
+    <ingredient num="4">pepper, to taste </ingredient>
+    <ingredient num="5">2 heads ; romaine lettuce, cut into 1-2 inch (3cm - 5cm) pieces </ingredient>
+    <ingredient num="6">1 cup ; grape tomatoes, cut in half ; (200 g) </ingredient>
+    <ingredient num="7">1 cup ; crouton ; (30 g) </ingredient>
+    <ingredient num="8">parmesan cheese, to taste </ingredient>
+    <ingredient num="9">¾ cup ; caesar dressing ; (190 g) </ingredient>
+  </ingredients>
+  <categories>
+    <category num="0">American</category>
+    <category num="1">Dairy-Free</category>
+    <category num="2">Healthy</category>
+    <category num="3">Low-Carb</category>
+    <category num="4">Kid-Friendly</category>
+    <category num="5">Lunch</category>
+    <category num="6">BBQ</category>
+    <category num="7">Weeknight</category>
+  </categories>
+  <video>
+    <low>https://vid.tasty.co/output/32172/low_1495125420.m3u8</low>
+    <high>https://vid.tasty.co/output/32172/mp4_720x1280/1495125420</high>
+  </video>
+  <steps>
+    <step num="0">Boil water, add the pasta, and cook according to package instructions. Drain water, and let the pasta chill. </step>
+    <step num="1">Meanwhile, season each of the chicken breasts with 1 Tbsp. olive oil, salt, and pepper. </step>
+    <step num="2">Grill for six to eight minutes on each side. Cut the chicken into bite-size pieces. </step>
+    <step num="3">In a large bowl combine pasta, romaine lettuce, tomatoes, chicken, croutons, parmesan, and Caesar dressing. Toss gently. </step>
+    <step num="4">Enjoy! </step>
+  </steps>
+  <steps_updated>
+    <steps_updated num="0">Boil water, add the pasta, and cook according to package instructions. </steps_updated>
+    <steps_updated num="1">Drain water, and let the pasta chill. </steps_updated>
+    <steps_updated num="2">Meanwhile, season each of the chicken breasts with 1 Tbsp. </steps_updated>
+    <steps_updated num="3">olive oil, salt, and pepper. </steps_updated>
+    <steps_updated num="4">Grill for six to eight minutes on each side. </steps_updated>
+    <steps_updated num="5">Cut the chicken into bite-size pieces. </steps_updated>
+    <steps_updated num="6">In a large bowl combine pasta, romaine lettuce, tomatoes, chicken, croutons, parmesan, and Caesar dressing. </steps_updated>
+    <steps_updated num="7">Toss gently. </steps_updated>
+    <steps_updated num="8">Enjoy! </steps_updated>
+  </steps_updated>
+</recipe>
