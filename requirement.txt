@@ -1,0 +1,7 @@
+pip install pandas
+pip install imageio[ffmpeg] ffmpeg-python
+pip install -U sentence_transformers
+pip install git+https://github.com/openai/CLIP.git
+pip install diffusers
+pip install mediapipe
+pip install yt-dlp
