@@ -1,16 +1,16 @@
 # import pandas as pd
-import torch
+# import torch
 import pickle
 # import cv2
 import os
 import yt_dlp
 import youtube_dl
 
-# from utlis import NER_classification, similarity_mapping, trim_and_concat_videos
-# from stable_diffusion import generate_and_add_text_slide
+from utlis import NER_classification, similarity_mapping, trim_and_concat_videos
+from stable_diffusion import generate_and_add_text_slide
 
 ##load the datase
-file_path = '/DATA/elidandi_2211ai08/Reciepe2video/data/dataset.pkl'
+file_path = 'data/dataset.pkl'
 
 try:
     with open(file_path, 'rb') as file:
@@ -23,7 +23,7 @@ except EOFError:
 except Exception as e:
     print(f"An error occurred: {str(e)}")
 
-# print(type(df.iloc[0]['url']))
+# print(df.columns)
 
 # def trim_and_concat_videos(ind, video_id, instruction, df):
 #     ydl_opts = {
@@ -36,22 +36,22 @@ except Exception as e:
 #     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 #         ydl.download([df.iloc[video_id]['url']])
 
-def download_youtube_video(url, output_path='/DATA/elidandi_2211ai08/Reciepe2video/data'):
-    try:
-        ydl_opts = {
-            'format': 'bestvideo+bestaudio/best',
-            'outtmpl': f'{output_path}/%(title)s.%(ext)s',
-        }
+# def download_youtube_video(url, output_path='/DATA/elidandi_2211ai08/Reciepe2video/data'):
+#     try:
+#         ydl_opts = {
+#             'format': 'bestvideo+bestaudio/best',
+#             'outtmpl': f'{output_path}/%(title)s.%(ext)s',
+#         }
 
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info_dict = ydl.extract_info(url, download=True)
-            print(f"Video '{info_dict['title']}' downloaded successfully.")
-    except Exception as e:
-        print(f"Error: {e}")
+#         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+#             info_dict = ydl.extract_info(url, download=True)
+#             print(f"Video '{info_dict['title']}' downloaded successfully.")
+#     except Exception as e:
+#         print(f"Error: {e}")
 
-# Example usage
-youtube_url = df.iloc[0]['url']
-download_youtube_video(youtube_url)
+# # Example usage
+# youtube_url = df.iloc[0]['url']
+# download_youtube_video(youtube_url)
 
 
 # print(NER_classification("spread butter on two slices of white bread"))
@@ -73,13 +73,20 @@ recipe = ["Crack the eggs into a bowl and whisk until well combined",
 ]
 
 
-# def recipe2vid(recipe):
-#     for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
+def recipe2vid(recipe):
+    # extract_frames_folder = 'collected/extracted_frames'
+    for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
 
-#         if asset[1] >= 0.80:
-#             trim_and_concat_videos(ind,asset[0],recipe[ind],df)
-#         else:
-#             generate_and_add_text_slide(recipe[ind],ind)
-#     print('Your recipe video has been generated successfully')
+        if asset[1] >= 0.80:
+            trim_and_concat_videos(ind,asset[0],recipe[ind],df)
+        else:
+            generate_and_add_text_slide(recipe[ind],ind)
+    print('Your recipe video has been generated successfully')
 
-# recipe2vid(recipe)
+recipe2vid(recipe)
+# captions = []
+# for ind,asset in enumerate(similarity_mapping(["Stir in the milk, salt, and pepper into the boil which contain crackked eggs in a bowl"],df)[0]):
+#     captions.append([df.iloc[asset[0]]['sentence'], df.iloc[asset[0]]['url']])
+#     print(df.iloc[asset[0]]['url'])
+# print(captions)
+# print(similarity_mapping(["Stir in the milk, salt, and pepper into the boil which contain crackked eggs in a bowl"],df))

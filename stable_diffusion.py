@@ -37,13 +37,13 @@ def generate_and_add_text_slide(prompts, ind, duration_text=2, duration_image=3)
     if not os.path.exists(img_path):
         raise FileNotFoundError(f"Image file '{img_path}' not found.")
     
-    output_video_path = f'/DATA/elidandi_2211ai08/Reciepe2video/collected/generated/video_{ind}.mp4'
+    output_video_path = f'collected/generated/video_{ind}.mp4'
     # Create a temporary text video with the input text
-    temp_text_video_path = '/DATA/elidandi_2211ai08/Reciepe2video/collected/temp_text_video.mp4'
+    temp_text_video_path = 'collected/temp_text_video.mp4'
     subprocess.run(['ffmpeg', '-f', 'lavfi', '-i', f'anullsrc=channel_layout=stereo:sample_rate=44100 -t {duration_text}', '-vf', f"drawtext=text='{prompts}':fontcolor=white:fontsize=24:x=(w-text_w)/2:y=(h-text_h)/2", temp_text_video_path])
 
     # Create a temporary video file with the image
-    temp_image_video_path = '/DATA/elidandi_2211ai08/Reciepe2video/collected/temp_image_video.mp4'
+    temp_image_video_path = 'collected/temp_image_video.mp4'
     subprocess.run(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-c:v', 'libx264', '-t', f'{duration_image}', '-pix_fmt', 'yuv420p', temp_image_video_path])
 
     # Concatenate the text video and the image video
@@ -53,7 +53,7 @@ def generate_and_add_text_slide(prompts, ind, duration_text=2, duration_image=3)
     os.remove(temp_text_video_path)
     os.remove(temp_image_video_path)
 
-    output_folder = '/DATA/elidandi_2211ai08/Reciepe2video/collected/trimmed/'
+    output_folder = 'collected/trimmed/'
     trimmed_output_file = f'{output_folder}Recipe_video.mp4'
 
     existing_video = None
