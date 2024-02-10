@@ -84,17 +84,18 @@ def trim_and_concat_videos(ind, video_id, instruction, df):
     end_time = df.iloc[video_id]['segment'][1]
 
     # Define output folder
-    output_folder = 'collected/trimmed/'
+    output_folder = 'collected/concat/'
 
     # Define output file path for trimmed video
-    trimmed_output_file = f'{output_folder}Recipe_video.mp4'
+    trimmed_output_file = f'{output_folder}clip_{ind}.mp4'
+    subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
 
     # Check if there's an existing video in the output folder
-    existing_video = None
-    for file in os.listdir(output_folder):
-        if file.endswith(".mp4"):
-            existing_video = os.path.join(output_folder, file)
-            break
+    # existing_video = None
+    # for file in os.listdir(output_folder):
+    #     if file.endswith(".mp4"):
+    #         existing_video = os.path.join(output_folder, file)
+    #         break
 
     # if existing_video:
     #     # Concatenate the existing video and the current processed video using FFmpeg
@@ -102,12 +103,12 @@ def trim_and_concat_videos(ind, video_id, instruction, df):
     # else:
     #     # Save the current processed video as is
     #     ffmpeg.input(video_file, ss=start_time, to=end_time).output(trimmed_output_file).run(overwrite_output=True)
-    if existing_video:
-        # Concatenate the existing video and the current processed video using FFmpeg
-        subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', existing_video, '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
-    else:
-        # Save the current processed video as is
-        subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
+    # if existing_video:
+    #     # Concatenate the existing video and the current processed video using FFmpeg
+    #     subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', existing_video, '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
+    # else:
+    #     # Save the current processed video as is
+    #     subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
 
 
 ## key frame extraction from video
