@@ -4,7 +4,7 @@ import pickle
 # import cv2
 import os
 import yt_dlp
-import youtube_dl
+# import youtube_dl
 
 from utlis import NER_classification, similarity_mapping, trim_and_concat_videos
 from stable_diffusion import generate_and_add_text_slide

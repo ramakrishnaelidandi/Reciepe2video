@@ -30,8 +30,8 @@ def generate_and_add_text_slide(prompts, ind, duration_text=2, duration_image=3)
 
     generator = [torch.Generator("cuda").manual_seed(6669) for _ in range(len([prompts]))]
     image = pipeline(prompt=[prompts], generator=generator, num_inference_steps=30).images
-    image[0].save('/DATA/elidandi_2211ai08/Reciepe2video/collected/generated/img_'+str(ind)+'.jpg', 'JPEG')
-    img_path = f'/DATA/elidandi_2211ai08/Reciepe2video/collected/img_{ind}.jpg'
+    image[0].save('collected/generated/img_'+str(ind)+'.jpg', 'JPEG')
+    img_path = f'collected/generated/img_{ind}.jpg'
 
     # Check if the input image file exists
     if not os.path.exists(img_path):
