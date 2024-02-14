@@ -1,15 +1,9 @@
-# import pandas as pd
-import torch
 import pickle
-import clip
-# import cv2
 import os
-import yt_dlp
+import subprocess
 from PIL import Image
-# import youtube_dl
-
 from utlis import NER_classification, similarity_mapping, trim_and_concat_videos, extract_frames
-# from stable_diffusion import generate_and_add_text_slide
+from stable_diffusion import generate_and_add_text_slide
 
 ##load the datase
 file_path = 'data/dataset.pkl'
@@ -74,21 +68,55 @@ recipe = ["Crack the eggs into a bowl and whisk until well combined",
           "Using a spatula, fold the omelet in half and cook for another minute or two, or until the eggs are cooked through."
 ]
 
-print(similarity_mapping([recipe[2]],df))
+# print(similarity_mapping([recipe[2]],df))
 
 ######################################################################## generate a recipe video #########################################################################
 
-# def recipe2vid(recipe):
-#     # extract_frames_folder = 'collected/extracted_frames'
-#     for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
+def create_video_list_file(file_paths, output_file='videos.txt'):
+    # Filter out files with '.ipynb' extension and '.ipynb_checkpoints' directory
+    file_paths = [path for path in file_paths if not (path.endswith('.ipynb') or os.path.basename(path) == '.ipynb_checkpoints')]
 
-#         if asset[1] >= 0.80:
-#             trim_and_concat_videos(ind,asset[0],recipe[ind],df)
-#         else:
-#             generate_and_add_text_slide(recipe[ind],ind)
-#     print('Your recipe video has been generated successfully')
+    # Sort the file paths
+    file_paths.sort()
 
-# recipe2vid(recipe)
+    with open(output_file, 'w') as file:
+        file.write('\n'.join([f"file '{path}'" for path in file_paths]))
+
+
+def recipe2vid(recipe):
+    # extract_frames_folder = 'collected/extracted_frames'
+    for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
+        if asset[1] >= 0.80:
+            trim_and_concat_videos(ind,asset[0],recipe[ind],df)
+        else:
+            generate_and_add_text_slide(recipe[ind],ind)
+
+    directory_path = '/content/collected/concat'
+    video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
+    create_video_list_file(video_files)
+    subprocess.run("ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
+    print('Your recipe video has been generated successfully')
+
+recipe2vid(recipe)
+
+### for deleting the files
+
+def delete_all_files_in_directory(directory_path):
+    for filename in os.listdir(directory_path):
+        file_path = os.path.join(directory_path, filename)
+        try:
+            if os.path.isfile(file_path):
+                os.remove(file_path)
+                print(f"Deleted file: {filename}")
+        except Exception as e:
+            print(f"Error deleting file {filename}: {e}")
+
+# delete_all_files_in_directory('collected/concat')
+# delete_all_files_in_directory('/content/collected/generated')
+# delete_all_files_in_directory('collected')
+
+
+
 
 
 ######################################################################## extract frames from a video #########################################################################
