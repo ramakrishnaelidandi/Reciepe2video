@@ -1,13 +1,15 @@
 # import pandas as pd
-# import torch
+import torch
 import pickle
+import clip
 # import cv2
 import os
 import yt_dlp
+from PIL import Image
 # import youtube_dl
 
-from utlis import NER_classification, similarity_mapping, trim_and_concat_videos
-from stable_diffusion import generate_and_add_text_slide
+from utlis import NER_classification, similarity_mapping, trim_and_concat_videos, extract_frames
+# from stable_diffusion import generate_and_add_text_slide
 
 ##load the datase
 file_path = 'data/dataset.pkl'
@@ -72,18 +74,40 @@ recipe = ["Crack the eggs into a bowl and whisk until well combined",
           "Using a spatula, fold the omelet in half and cook for another minute or two, or until the eggs are cooked through."
 ]
 
+print(similarity_mapping([recipe[2]],df))
 
-def recipe2vid(recipe):
-    # extract_frames_folder = 'collected/extracted_frames'
-    for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
+######################################################################## generate a recipe video #########################################################################
 
-        if asset[1] >= 0.80:
-            trim_and_concat_videos(ind,asset[0],recipe[ind],df)
-        else:
-            generate_and_add_text_slide(recipe[ind],ind)
-    print('Your recipe video has been generated successfully')
+# def recipe2vid(recipe):
+#     # extract_frames_folder = 'collected/extracted_frames'
+#     for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
 
-recipe2vid(recipe)
+#         if asset[1] >= 0.80:
+#             trim_and_concat_videos(ind,asset[0],recipe[ind],df)
+#         else:
+#             generate_and_add_text_slide(recipe[ind],ind)
+#     print('Your recipe video has been generated successfully')
+
+# recipe2vid(recipe)
+
+
+######################################################################## extract frames from a video #########################################################################
+
+# for folder in os.listdir('collected/trimmed'):
+#     for ind, file in enumerate(os.listdir(os.path.join('collected/trimmed',folder))):
+#         os.makedirs(os.path.join(os.path.join('collected/extracted_frames',folder), str(ind)))
+#         extract_frames(os.path.join(os.path.join('collected/trimmed',folder),file), os.path.join(os.path.join('collected/extracted_frames',folder), str(ind)))
+
+# image = Image.open('collected/extracted_frames/frame179.jpg').convert('RGB')
+
+# print(image)
+
+
+
+## KL divergence 
+
+
+######################################################################## to check for similarity of captions################################################
 # captions = []
 # for ind,asset in enumerate(similarity_mapping(["Stir in the milk, salt, and pepper into the boil which contain crackked eggs in a bowl"],df)[0]):
 #     captions.append([df.iloc[asset[0]]['sentence'], df.iloc[asset[0]]['url']])

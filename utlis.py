@@ -1,18 +1,21 @@
 import torch
 import cv2
-import ffmpeg
 import os
+import time
+import yt_dlp
+import ffmpeg
+import clip
+import subprocess
 import numpy as np
 import pandas as pd
+from PIL import Image
 from scipy.sparse import csc_matrix
-from scipy.sparse.linalg import svds, eigs
-import time
-import matplotlib.pyplot as plt
-import yt_dlp
+from scipy.sparse.linalg import svds
+from scipy.stats import entropy
 from sentence_transformers import SentenceTransformer,util
-from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
-import subprocess
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -47,24 +50,22 @@ def NER_classification(query):
 
 ## Text Similarity
 model_name = "paraphrase-MiniLM-L6-v2"
-model = SentenceTransformer(model_name)
-model.to(device)
+sentence_model = SentenceTransformer(model_name)
+sentence_model.to(device)
 
 def similarity_mapping(reciepe, df):
   collection = []
   for text in reciepe:
     with torch.no_grad():
-      input_emb = model.encode(NER_classification(str(text)), convert_to_tensor=True).to(device)
+      input_emb = sentence_model.encode(NER_classification(str(text)), convert_to_tensor=True).to(device)
 
   # Calculate cosine similarities
     similarity_score = util.pytorch_cos_sim(input_emb, torch.stack(df.embeding.tolist()).to(device)).view([-1]).tolist()
     sorted_indices = sorted(range(len(similarity_score)), key = lambda i: similarity_score[i], reverse = True)
-    collection.append([[i,similarity_score[i],df.sentence[i]] for i in sorted_indices[:5]])
+    collection.append([[i,similarity_score[i],df.sentence[i]] for i in sorted_indices[:10] if similarity_score[i] >= 0.8])
   return collection
 
-
 ## video processing
-
 def trim_and_concat_videos(ind, video_id, instruction, df):
     ydl_opts = {
         'format': 'best',
@@ -73,22 +74,26 @@ def trim_and_concat_videos(ind, video_id, instruction, df):
     }
     print('---------------------------------------------------------------------------------------------------------------------------------------')
     print(f'recipe step: {instruction}')
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        ydl.download([df.iloc[video_id]['url']])
-    # print(f'recipe step: {instruction}')
+    try:
+      with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+          ydl.download([df.iloc[video_id]['url']])
+      # print(f'recipe step: {instruction}')
 
-    video_file = f'collected/video_{ind}.mp4'
+      video_file = f'collected/video_{ind}.mp4'
 
-    # Define the start and end times in seconds
-    start_time = df.iloc[video_id]['segment'][0]
-    end_time = df.iloc[video_id]['segment'][1]
+      # Define the start and end times in seconds
+      start_time = df.iloc[video_id]['segment'][0]
+      end_time = df.iloc[video_id]['segment'][1]
 
-    # Define output folder
-    output_folder = 'collected/concat/'
+      # Define output folder
+      output_folder = 'collected/concat/'
 
-    # Define output file path for trimmed video
-    trimmed_output_file = f'{output_folder}clip_{ind}.mp4'
-    subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
+      # Define output file path for trimmed video
+      trimmed_output_file = f'{output_folder}clip_{ind}.mp4'
+      subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-t', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
+
+    except yt_dlp.DownloadError as e:
+       print(f'Error downloading video {video_id}: {e}')
 
     # Check if there's an existing video in the output folder
     # existing_video = None
@@ -232,7 +237,7 @@ def extract_frames(video_file, output_folder):
   for i in range(1, 65):
       col_name = "v" + str(i)
       colnames+= [col_name]
-  print(colnames)
+  # print(colnames)
 
   df = pd.DataFrame(F, columns= colnames)
   df['v64']= df['v64'].astype(int)
@@ -245,64 +250,47 @@ def extract_frames(video_file, output_folder):
       file_name = 'frame'+ frame_num_chr +'.jpg'
       output_file_path = os.path.join(output_folder, file_name)
       cv2.imwrite(output_file_path, frame_rgb1)
-    
-# def display_output(ind, video_id,recipe,df):
-#     ydl_opts = {
-#                 'format': 'best',
-#                 'outtmpl': '/DATA/elidandi_2211ai08/Reciepe2video/collected/video_'+str(ind)+'.mp4',  # Set the output file path and name
-#                 'quiet': True
-#                 }
 
-#     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-#         ydl.download([df.iloc[video_id]['url']])
-#     print(f'recipe step: {recipe[ind]}')
+## ranking the assets CLIP and KL divergence
+      
+model, preprocess = clip.load("ViT-B/32", device=device)
 
-#     video_file ='/DATA/elidandi_2211ai08/Reciepe2video/collected/video_'+str(ind)+'.mp4'  # Replace with the path to your video file
+def rank_assets(asset,key_phrases):
+  tensor_list = []
+  for folder in sorted([int(i) for  i in os.listdir(os.path.join('collected/extracted_frames',asset))]):
+    frames = []
+    folder = str(folder)
+    image = torch.stack([preprocess(Image.open(os.path.join(os.path.join(os.path.join('collected/extracted_frames',asset),folder), file)).resize((596, 437))) for file in os.listdir(os.path.join(os.path.join('collected/extracted_frames',asset),folder))]).to(device)
+    tensor_list.append(image)
+  text = clip.tokenize(key_phrases).to(device)
+  
+  prob_list = []
+  with torch.no_grad():
+    for ind in range(len(tensor_list)):
+      logits_per_image, logits_per_text = model(tensor_list[ind],text)
+      probs = logits_per_image.softmax(dim = -1).cpu().numpy()
+      prob_list.append(probs)
 
-# # Define the start and end times in seconds
-#     start_time = df.iloc[video_id]['segment'][0]
-#     end_time = df.iloc[video_id]['segment'][1]    
-#     num_frames_to_display = 5  # Adjust as needed
+  mean_dist = []
+  for j in range(len(key_phrases)):
+    mean_probability = np.mean(prob_list[j], axis=0)
+    # print("Mean Probability:", mean_probability)
+    mean_dist.append(mean_probability)
 
-#     # Open the video file for reading
-#     cap = cv2.VideoCapture(video_file)
+  def generate_uniform_probability_distribution(k):
+    alpha = np.ones(k)
+    dirichlet_sample = np.random.dirichlet(alpha)
+    return dirichlet_sample
+  
+  def compare_distributions(distributions, target_distribution):
+    similarities = []
+    for distribution in distributions:
+        kl_divergence = entropy(target_distribution, distribution)
+        similarities.append(kl_divergence)
 
-#     # Get the frames per second (fps) of the video
-#     fps = int(cap.get(cv2.CAP_PROP_FPS))
-
-#     # Calculate the start and end frames based on time range
-#     start_frame = int(start_time * fps)
-#     end_frame = int(end_time * fps)
-
-#     cap.set(cv2.CAP_PROP_POS_FRAMES, start_frame)
-
-#     # Function to display frames evenly spaced between start and end times
-#     def display_evenly_spaced_frames(video_capture, end_frame, num_frames_to_display):
-#         frames = []
-
-#         frame_interval = (end_frame - start_frame) // (num_frames_to_display - 1)
-#         current_frame = start_frame
-
-#         while video_capture.isOpened() and current_frame <= end_frame:
-#             video_capture.set(cv2.CAP_PROP_POS_FRAMES, current_frame)
-#             ret, frame = video_capture.read()
-
-#             if not ret:
-#                 break
-
-#             frames.append(frame)
-#             current_frame += frame_interval
-
-#         for i, frame in enumerate(frames, start=1):
-#             plt.figure(figsize=(8, 6))
-#             plt.imshow(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
-#             plt.axis('off')
-#             plt.title(f'Frame {i}')
-#             plt.show()
-
-#     # Call the function to display evenly spaced frames
-#     display_evenly_spaced_frames(cap, end_frame, num_frames_to_display)
-
-#     # Release the video capture object
-#     cap.release()
+    # most_similar_index = similarities.index(min(similarities))
+    # return f"Distribution {most_similar_index + 1} is most similar to the target distribution."
+    return str(similarities.index(min(similarities)))
+  
+  return compare_distributions(mean_dist,  generate_uniform_probability_distribution(len(key_phrases)))
 
