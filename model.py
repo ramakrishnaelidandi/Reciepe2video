@@ -1,5 +1,6 @@
 import pickle
 import os
+import shutil
 import subprocess
 from PIL import Image
 from utlis import NER_classification, similarity_mapping, trim_and_concat_videos, extract_frames
@@ -7,12 +8,18 @@ from stable_diffusion import generate_and_add_text_slide
 
 
 ## create necessary directories
-os.mkdir('collected/concat')
-os.mkdir('collected/generated')
-os.mkdir('collected/extracted_frames')
-os.mkdir('collected/trimmed')
-os.mkdir('collected/download')
+directories_to_delete = [
+    'collected/concat',
+    'collected/generated',
+    'collected/extracted_frames',
+    'collected/trimmed',
+    'collected/download'
+]
 
+# Delete directories if they exist and create fresh directories
+for directory in directories_to_delete:
+    shutil.rmtree(directory, ignore_errors=True)
+    os.makedirs(directory)
 
 ##load the datase
 file_path = 'data/dataset.pkl'

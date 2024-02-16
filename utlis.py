@@ -72,14 +72,14 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
 
   score_txt_file = os.path.join('collected/extracted_frames',str(recp_ind) +'/'+'score.txt')
 
-  for vid_ind, video_id, score in enumerate(asset):
+  for vid_ind, [video_id, score] in enumerate(asset):
 
   # Define the start and end times in seconds
     start_time = df.iloc[video_id]['segment'][0]
     end_time = df.iloc[video_id]['segment'][1]
 
   # skipping vides that are less than 3 seconds
-    if (end_time - start_time) <= 3 :
+    if (end_time - start_time) <= 5 :
         continue
     
     ydl_opts = {
@@ -98,7 +98,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
       subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
     
       # extract video frames
-      extract_out_folder = os.makedirs(os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind)))
+      os.makedirs(os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind)))
+      extract_out_folder = os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind))
       extract_frames(trimmed_output_file, extract_out_folder)
 
       # note the scores in the score_text file of each clip to be trimmed
@@ -119,7 +120,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     # ranking the trimmed clips
 
     # Source file path
-    source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ str(0)+'.mp4')
+   
+    source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[0])
 
     # Destination directory path
     destination_directory ='collected/concat'
