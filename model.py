@@ -5,6 +5,15 @@ from PIL import Image
 from utlis import NER_classification, similarity_mapping, trim_and_concat_videos, extract_frames
 from stable_diffusion import generate_and_add_text_slide
 
+
+## create necessary directories
+os.mkdir('collected/concat')
+os.mkdir('collected/generated')
+os.mkdir('collected/extracted_frames')
+os.mkdir('collected/trimmed')
+os.mkdir('collected/download')
+
+
 ##load the datase
 file_path = 'data/dataset.pkl'
 
@@ -82,22 +91,36 @@ def create_video_list_file(file_paths, output_file='videos.txt'):
     with open(output_file, 'w') as file:
         file.write('\n'.join([f"file '{path}'" for path in file_paths]))
 
-
-def recipe2vid(recipe):
-    # extract_frames_folder = 'collected/extracted_frames'
-    for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
-        if asset[1] >= 0.80:
-            trim_and_concat_videos(ind,asset[0],recipe[ind],df)
+def Rcp2vid(recipe):
+    ind = 0
+    for recp_ind,asset in enumerate(similarity_mapping(recipe,df)):
+        if len(asset) > 0:
+            trim_and_concat_videos(recp_ind, recipe, df, asset)
         else:
-            generate_and_add_text_slide(recipe[ind],ind)
+            generate_and_add_text_slide(recipe[recp_ind], recp_ind)
 
-    directory_path = '/content/collected/concat'
-    video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
-    create_video_list_file(video_files)
-    subprocess.run("ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
-    print('Your recipe video has been generated successfully')
+Rcp2vid(recipe)
 
-recipe2vid(recipe)
+# def recipe2vid(recipe):
+#     # extract_frames_folder = 'collected/extracted_frames'
+
+#     for ind,asset in enumerate([j[0] for j in similarity_mapping(recipe,df)]):
+#         if asset[1] >= 0.80:
+#             trim_and_concat_videos(ind,asset[0],recipe[ind],df)
+#         else:
+#             generate_and_add_text_slide(recipe[ind],ind)
+
+    # directory_path = 'collected/concat'
+    # video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
+    # create_video_list_file(video_files)
+    # subprocess.run("ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
+    # print('Your recipe video has been generated successfully')
+
+# recipe2vid(recipe)
+
+
+            
+
 
 ### for deleting the files
 

@@ -20,7 +20,8 @@ pipeline.enable_attention_slicing()
 #     img = cv2.imread('/DATA/elidandi_2211ai08/Reciepe2video/collected/img_'+str(ind)+'.jpg')
     
 
-def generate_and_add_text_slide(prompts, ind, duration_text=2, duration_image=3):
+def generate_and_add_text_slide(prompts, ind, duration_text = 5, duration_image = 5):
+
     """
     Generates a video with the input prompts and adds the input text to the video.
     :param prompts: The input prompts.
@@ -29,10 +30,10 @@ def generate_and_add_text_slide(prompts, ind, duration_text=2, duration_image=3)
     """
 
     generator = [torch.Generator("cuda").manual_seed(6669) for _ in range(len([prompts]))]
-    image = pipeline(prompt=[prompts], generator=generator, num_inference_steps=30).images
-    image[0].save('collected/generated/img_'+str(ind)+'.jpg', 'JPEG')
-    img_path = f'collected/generated/img_{ind}.jpg'
-
+    image = pipeline(prompt=[prompts], generator=generator, num_inference_steps=45).images
+    img_path = f'collected/generated/{str(ind)}.jpg'
+    image[0].save(img_path, 'JPEG')
+    
     # Check if the input image file exists
     if not os.path.exists(img_path):
         raise FileNotFoundError(f"Image file '{img_path}' not found.")
@@ -43,7 +44,7 @@ def generate_and_add_text_slide(prompts, ind, duration_text=2, duration_image=3)
     # subprocess.run(['ffmpeg', '-f', 'lavfi', '-i', f'anullsrc=channel_layout=stereo:sample_rate=44100 -t {duration_text}', '-vf', f"drawtext=text='{prompts}':fontcolor=white:fontsize=24:x=(w-text_w)/2:y=(h-text_h)/2", temp_text_video_path])
 
     # Create a temporary video file with the image
-    temp_image_video_path = f'collected/concat/clip_{ind}.mp4'
+    temp_image_video_path = f'collected/concat/{str(ind)}9.mp4'
     subprocess.run(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-c:v', 'libx264', '-t', f'{duration_image}', '-pix_fmt', 'yuv420p', temp_image_video_path])
 
     # Concatenate the text video and the image video
