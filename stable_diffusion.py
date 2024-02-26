@@ -48,8 +48,9 @@ def generate_and_add_text_slide(prompt, ind, duration_text = 5, duration_image =
     temp_image_video_path = f'collected/concat/{str(ind)}.mp4'
     print(temp_image_video_path)
     print(img_path)
-    print(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-t', f'{duration_image}', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', temp_image_video_path])
-    subprocess.run(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-t', f'{duration_image}', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', temp_image_video_path])
+    # print(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-t', f'{duration_image}', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', temp_image_video_path])
+    subprocess.run(f'ffmpeg -loop 1 -i {img_path} -t {duration_image} -c:v libx264 -pix_fmt yuv420p {temp_image_video_path}',shell = True)
+    # subprocess.run(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-t', f'{duration_image}', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', temp_image_video_path])
 
     # Concatenate the text video and the image video
     # subprocess.run(['ffmpeg', '-i', f'{temp_text_video_path}', '-i', f'{temp_image_video_path}', '-filter_complex', '[0:v][1:v]concat=n=2:v=1:a=0[outv]', '-map', '[outv]', '-c:v', 'libx264', '-crf', '23', '-preset', 'veryfast', '-c:a', 'aac', '-b:a', '192k', '-shortest', output_video_path])

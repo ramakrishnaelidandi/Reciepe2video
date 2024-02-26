@@ -121,7 +121,7 @@ Rcp2vid(recipe)
 directory_path = 'collected/concat'
 video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
 create_video_list_file(video_files)
-subprocess.run("ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
+subprocess.run("ffmpeg -hide_banner -loglevel error -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
 print('Your recipe video has been generated successfully')
 
 # recipe2vid(recipe)
