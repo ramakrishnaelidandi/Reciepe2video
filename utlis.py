@@ -79,8 +79,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     end_time = df.iloc[video_id]['segment'][1]
 
   # skipping vides that are less than 3 seconds
-    if (end_time - start_time) <= 5 :
-        continue
+    # if (end_time - start_time) <= 5 :
+    #     continue
     
     ydl_opts = {
         'format': 'best',
@@ -120,11 +120,10 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     # ranking the trimmed clips
 
     # Source file path
-   
     source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[0])
 
     # Destination directory path
-    destination_directory ='collected/concat'
+    destination_directory = 'collected/concat'
 
     # Extract file name from source path
     file_name = os.path.basename(source_file_path)
@@ -167,7 +166,7 @@ clip_model, preprocess = clip.load("ViT-B/32", device=device)
 
 def rank_assets(asset,key_phrases):
   tensor_list = []
-  for folder in sorted([int(i) for  i in os.listdir(os.path.join('collected/extracted_frames',asset))]):
+  for folder in sorted([int(i) for i in os.listdir(os.path.join('collected/extracted_frames',asset))]):
     frames = []
     folder = str(folder)
     image = torch.stack([preprocess(Image.open(os.path.join(os.path.join(os.path.join('collected/extracted_frames',asset),folder), file)).resize((596, 437))) for file in os.listdir(os.path.join(os.path.join('collected/extracted_frames',asset),folder))]).to(device)
@@ -187,10 +186,14 @@ def rank_assets(asset,key_phrases):
     # print("Mean Probability:", mean_probability)
     mean_dist.append(mean_probability)
 
-  def generate_uniform_probability_distribution(k):
-    alpha = np.ones(k)
-    dirichlet_sample = np.random.dirichlet(alpha)
-    return dirichlet_sample
+  # def generate_uniform_probability_distribution(k):
+  #   alpha = np.ones(k)
+  #   dirichlet_sample = np.random.dirichlet(alpha)
+  #   return dirichlet_sample
+    
+  ## generate_uniform_probability_distribution
+  uniform_probability_distribution = np.random.dirichlet(np.ones(len(key_phrases)))
+  # uniform_probability_distribution = np.ones(len(key_phrases)) * (1 / len(key_phrases))
   
   def compare_distributions(distributions, target_distribution):
     similarities = []
@@ -202,5 +205,5 @@ def rank_assets(asset,key_phrases):
     # return f"Distribution {most_similar_index + 1} is most similar to the target distribution."
     return str(similarities.index(min(similarities)))
   
-  return compare_distributions(mean_dist,  generate_uniform_probability_distribution(len(key_phrases)))
+  return compare_distributions(mean_dist, uniform_probability_distribution)
 

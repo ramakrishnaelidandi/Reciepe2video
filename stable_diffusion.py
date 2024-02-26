@@ -20,7 +20,7 @@ pipeline.enable_attention_slicing()
 #     img = cv2.imread('/DATA/elidandi_2211ai08/Reciepe2video/collected/img_'+str(ind)+'.jpg')
     
 
-def generate_and_add_text_slide(prompts, ind, duration_text = 5, duration_image = 5):
+def generate_and_add_text_slide(prompt, ind, duration_text = 5, duration_image = 10):
 
     """
     Generates a video with the input prompts and adds the input text to the video.
@@ -29,23 +29,27 @@ def generate_and_add_text_slide(prompts, ind, duration_text = 5, duration_image 
     :param duration_text: The duration of the input text.
     """
 
-    generator = [torch.Generator("cuda").manual_seed(6669) for _ in range(len([prompts]))]
-    image = pipeline(prompt=[prompts], generator=generator, num_inference_steps=45).images
-    img_path = f'collected/generated/{str(ind)}.jpg'
-    image[0].save(img_path, 'JPEG')
+    prompts = f"""a realistic single image of this recipe instruction "{prompt}", 8k, extremely detailed, all recipe"""
+    generator = [torch.Generator("cuda").manual_seed(6565)]
+    image = pipeline(prompt=[prompts], generator=generator, num_inference_steps=30).images
+    img_path = f'collected/generated/{str(ind)}.png'
+    image[0].save(img_path, 'PNG')
     
     # Check if the input image file exists
     if not os.path.exists(img_path):
         raise FileNotFoundError(f"Image file '{img_path}' not found.")
     
-    output_video_path = f'collected/generated/video_{ind}.mp4'
+    # output_video_path = f'collected/generated/video_{ind}.mp4'    
     # Create a temporary text video with the input text
     # temp_text_video_path = 'collected/temp_text_video.mp4'
     # subprocess.run(['ffmpeg', '-f', 'lavfi', '-i', f'anullsrc=channel_layout=stereo:sample_rate=44100 -t {duration_text}', '-vf', f"drawtext=text='{prompts}':fontcolor=white:fontsize=24:x=(w-text_w)/2:y=(h-text_h)/2", temp_text_video_path])
 
     # Create a temporary video file with the image
-    temp_image_video_path = f'collected/concat/{str(ind)}9.mp4'
-    subprocess.run(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-c:v', 'libx264', '-t', f'{duration_image}', '-pix_fmt', 'yuv420p', temp_image_video_path])
+    temp_image_video_path = f'collected/concat/{str(ind)}.mp4'
+    print(temp_image_video_path)
+    print(img_path)
+    print(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-t', f'{duration_image}', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', temp_image_video_path])
+    subprocess.run(['ffmpeg', '-loop', '1', '-i', f'{img_path}', '-t', f'{duration_image}', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', temp_image_video_path])
 
     # Concatenate the text video and the image video
     # subprocess.run(['ffmpeg', '-i', f'{temp_text_video_path}', '-i', f'{temp_image_video_path}', '-filter_complex', '[0:v][1:v]concat=n=2:v=1:a=0[outv]', '-map', '[outv]', '-c:v', 'libx264', '-crf', '23', '-preset', 'veryfast', '-c:a', 'aac', '-b:a', '192k', '-shortest', output_video_path])

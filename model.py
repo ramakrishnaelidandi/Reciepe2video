@@ -81,7 +81,6 @@ recipe = ["Crack the eggs into a bowl and whisk until well combined",
           "Heat a non-stick skillet over medium heat and add the butter or oil",
           "Pour the egg mixture into the skillet and tilt the pan to spread it evenly.",
           "Sprinkle the desired fillings over one half of the omelet.",
-          "Using a spatula, fold the omelet in half and cook for another minute or two, or until the eggs are cooked through."
 ]
 
 # print(similarity_mapping([recipe[2]],df))
@@ -99,12 +98,14 @@ def create_video_list_file(file_paths, output_file='videos.txt'):
         file.write('\n'.join([f"file '{path}'" for path in file_paths]))
 
 def Rcp2vid(recipe):
-    ind = 0
     for recp_ind,asset in enumerate(similarity_mapping(recipe,df)):
         if len(asset) > 0:
             trim_and_concat_videos(recp_ind, recipe, df, asset)
         else:
             generate_and_add_text_slide(recipe[recp_ind], recp_ind)
+    
+    ## concat all the clips together
+    
 
 Rcp2vid(recipe)
 
@@ -117,11 +118,11 @@ Rcp2vid(recipe)
 #         else:
 #             generate_and_add_text_slide(recipe[ind],ind)
 
-    # directory_path = 'collected/concat'
-    # video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
-    # create_video_list_file(video_files)
-    # subprocess.run("ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
-    # print('Your recipe video has been generated successfully')
+directory_path = 'collected/concat'
+video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
+create_video_list_file(video_files)
+subprocess.run("ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
+print('Your recipe video has been generated successfully')
 
 # recipe2vid(recipe)
 
