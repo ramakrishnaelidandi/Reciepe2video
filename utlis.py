@@ -79,8 +79,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     end_time = df.iloc[video_id]['segment'][1]
 
   # skipping vides that are less than 3 seconds
-    # if (end_time - start_time) <= 5 :
-    #     continue
+    if (end_time - start_time) <= 5 :
+        continue
     
     ydl_opts = {
         'format': 'best',
@@ -95,8 +95,19 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
 
       # Define output file path for trimmed video
       trimmed_output_file = os.path.join('collected/trimmed',str(recp_ind) +'/'+ str(vid_ind)+'.mp4')
-      subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
-    
+      # subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
+      subprocess.run([
+    'ffmpeg',
+    '-hide_banner',
+    '-loglevel', 'error',
+    '-i', video_file,
+    '-ss', start_time,
+    '-to', end_time,
+    '-an',  # Exclude audio
+    '-c:v', 'libx264',  # video codec for re-encoding
+    trimmed_output_file,
+    '-y'
+      ])
       # extract video frames
       os.makedirs(os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind)))
       extract_out_folder = os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind))
