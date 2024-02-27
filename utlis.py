@@ -153,7 +153,7 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     # ranking the trimmed clips
     os.remove(score_txt_file)
 
-    key_phrases = generate_keyphrases(recipe[recp_ind])
+    key_phrases = generate_keyphrases(recipe[recp_ind], recp_ind)
 
     selected_ind = rank_assets(str(recp_ind), key_phrases)
 
@@ -161,32 +161,6 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[int(selected_ind)])
 
     move_video_clips(source_file_path, recp_ind)
-    
-
-
-
-
-    # Check if there's an existing video in the output folder
-    # existing_video = None
-    # for file in os.listdir(output_folder):
-    #     if file.endswith(".mp4"):
-    #         existing_video = os.path.join(output_folder, file)
-    #         break
-
-    # if existing_video:
-    #     # Concatenate the existing video and the current processed video using FFmpeg
-    #     ffmpeg.input(existing_video).input(video_file, ss=start_time, to=end_time).output(trimmed_output_file).run(overwrite_output=True)
-    # else:
-    #     # Save the current processed video as is
-    #     ffmpeg.input(video_file, ss=start_time, to=end_time).output(trimmed_output_file).run(overwrite_output=True)
-    # if existing_video:
-    #     # Concatenate the existing video and the current processed video using FFmpeg
-    #     subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', existing_video, '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
-    # else:
-    #     # Save the current processed video as is
-    #     subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
-
-
 
 ## ranking the assets CLIP and KL divergence
 ## load the model    
