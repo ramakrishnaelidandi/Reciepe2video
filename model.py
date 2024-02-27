@@ -13,7 +13,8 @@ directories_to_delete = [
     'collected/generated',
     'collected/extracted_frames',
     'collected/trimmed',
-    'collected/download'
+    'collected/download',
+    'collected/configured'
 ]
 
 # Delete directories if they exist and create fresh directories

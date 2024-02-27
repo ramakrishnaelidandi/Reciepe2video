@@ -12,6 +12,7 @@ from sentence_transformers import SentenceTransformer,util
 from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from stable_diffusion import generate_and_add_text_slide
+from LLM import generate_keyphrases
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -61,6 +62,23 @@ def similarity_mapping(reciepe, df):
     collection.append([[i,similarity_score[i]] for i in sorted_indices[:5] if similarity_score[i] >= 0.8])
   return collection
 
+## moving video_clips
+def move_video_clips(source_file_path, recp_ind):
+
+  # source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[int(selected_ind)])
+
+  # Destination directory path
+  destination_directory = 'collected/concat'
+
+  # Extract file name from source path
+  file_name = os.path.basename(source_file_path)
+
+  # Construct the destination file path
+  destination_file_path = os.path.join(destination_directory, str(recp_ind) + file_name)
+
+  # Move the file
+  os.rename(source_file_path, destination_file_path)
+
 ## video processing
 def trim_and_concat_videos(recp_ind, recipe, df, asset):
   
@@ -79,7 +97,7 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     end_time = df.iloc[video_id]['segment'][1]
 
   # skipping vides that are less than 3 seconds
-    if (end_time - start_time) <= 5 :
+    if score < 0.9 and (end_time - start_time) <= 5:
         continue
     
     ydl_opts = {
@@ -87,6 +105,7 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
         'outtmpl': os.path.join('collected/download',str(recp_ind) +'/'+ str(vid_ind)+'.mp4'),
         'quiet': True
         }
+    
     try:
       with yt_dlp.YoutubeDL(ydl_opts) as ydl:
           ydl.download([df.iloc[video_id]['url']])
@@ -101,11 +120,20 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
       # extract video frames
       os.makedirs(os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind)))
       extract_out_folder = os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind))
-      extract_frames(trimmed_output_file, extract_out_folder)
 
       # note the scores in the score_text file of each clip to be trimmed
-      with open(score_txt_file, 'w') as file:
+      with open(score_txt_file, 'a') as file:
          file.write(str(score)+'\n')
+
+      if score >= 0.9 and (end_time - start_time) >= 2:
+        move_video_clips(trimmed_output_file, recp_ind)
+        break
+
+      else:
+        extract_frames(trimmed_output_file, extract_out_folder)
+
+      # note the scores in the score_text file of each clip to be trimmed
+      
 
     except yt_dlp.DownloadError as e:
       print(f'Error downloading video {recp_ind}/{vid_ind}: {e}')
@@ -120,20 +148,14 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
   else:
     # ranking the trimmed clips
 
+    key_phrases = generate_keyphrases(recipe[recp_ind])
+
+    selected_ind = rank_assets(recp_ind, key_phrases)
+
     # Source file path
-    source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[0])
+    source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[int(selected_ind)])
 
-    # Destination directory path
-    destination_directory = 'collected/concat'
-
-    # Extract file name from source path
-    file_name = os.path.basename(source_file_path)
-
-    # Construct the destination file path
-    destination_file_path = os.path.join(destination_directory, str(recp_ind) + file_name)
-
-    # Move the file
-    os.rename(source_file_path, destination_file_path)
+    move_video_clips(source_file_path, recp_ind)
     
 
 
@@ -204,7 +226,7 @@ def rank_assets(asset,key_phrases):
 
     # most_similar_index = similarities.index(min(similarities))
     # return f"Distribution {most_similar_index + 1} is most similar to the target distribution."
-    return str(similarities.index(min(similarities)))
+    return int(similarities.index(min(similarities)))
   
   return compare_distributions(mean_dist, uniform_probability_distribution)
 
