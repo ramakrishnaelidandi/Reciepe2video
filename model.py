@@ -87,7 +87,29 @@ recipe = ["Crack the eggs into a bowl and whisk until well combined",
 
 ######################################################################## generate a recipe video #########################################################################
 
-def create_video_list_file(file_paths, output_file='videos.txt'):
+# def create_video_list_file(file_paths, output_file='videos.txt'):
+#     # Filter out files with '.ipynb' extension and '.ipynb_checkpoints' directory
+#     file_paths = [path for path in file_paths if not (path.endswith('.ipynb') or os.path.basename(path) == '.ipynb_checkpoints')]
+
+#     # Sort the file paths
+#     file_paths.sort()
+
+#     with open(output_file, 'w') as file:
+#         file.write('\n'.join([f"file '{path}'" for path in file_paths]))
+def conert_codec_fps_concat_clips(directory_path, output_file = 'videos.txt'):
+
+    video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
+
+    # Use list comprehension to create a list of destination paths
+    destinations = [os.path.join('collected/configured', os.path.basename(curr)) for curr in video_files]
+
+    # Use list comprehension to run the ffmpeg command for each pair of input and output
+    [subprocess.run(f'ffmpeg -y -i {curr} -vf "setpts=1.25*PTS" -r 15 -c:v libx264 {dest}', shell=True) for curr, dest in zip(video_files, destinations)]
+
+    directory_path = 'collected/configured'
+
+    file_paths = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
+
     # Filter out files with '.ipynb' extension and '.ipynb_checkpoints' directory
     file_paths = [path for path in file_paths if not (path.endswith('.ipynb') or os.path.basename(path) == '.ipynb_checkpoints')]
 
@@ -95,7 +117,11 @@ def create_video_list_file(file_paths, output_file='videos.txt'):
     file_paths.sort()
 
     with open(output_file, 'w') as file:
-        file.write('\n'.join([f"file '{path}'" for path in file_paths]))
+        file.write('\n'.join([f"file '{path}'" for path in file_paths]))   
+
+    # concat the clips
+    subprocess.run("ffmpeg -hide_banner -loglevel error -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True) 
+    print('Your recipe video has been generated successfully')
 
 def Rcp2vid(recipe):
     for recp_ind,asset in enumerate(similarity_mapping(recipe,df)):
@@ -104,10 +130,14 @@ def Rcp2vid(recipe):
         else:
             generate_and_add_text_slide(recipe[recp_ind], recp_ind)
     
-    ## concat all the clips together
-    
+    ## concat all the clips together by setting codec and fps 
+    conert_codec_fps_concat_clips('collected/concat')
 
-Rcp2vid(recipe)
+if __name__ == '__main__':
+    Rcp2vid(recipe)
+
+
+
 
 # def recipe2vid(recipe):
 #     # extract_frames_folder = 'collected/extracted_frames'
@@ -118,11 +148,8 @@ Rcp2vid(recipe)
 #         else:
 #             generate_and_add_text_slide(recipe[ind],ind)
 
-directory_path = 'collected/concat'
-video_files = [os.path.join(directory_path, filename) for filename in os.listdir(directory_path)]
-create_video_list_file(video_files)
-subprocess.run("ffmpeg -hide_banner -loglevel error -f concat -safe 0 -i videos.txt -c copy output.mp4", shell=True)
-print('Your recipe video has been generated successfully')
+
+
 
 # recipe2vid(recipe)
 

@@ -96,7 +96,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
       # Define output file path for trimmed video
       trimmed_output_file = os.path.join('collected/trimmed',str(recp_ind) +'/'+ str(vid_ind)+'.mp4')
       # subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-i', video_file, '-ss', str(start_time), '-to', str(end_time), '-c', 'copy', trimmed_output_file, '-y'])
-      subprocess.run(f'ffmpeg -hide_banner -loglevel error -i {video_file} -ss {str(start_time)} -to {str(end_time)} -an -c:v libx264 {trimmed_output_file} -y', shell = True)
+      # subprocess.run(f'ffmpeg -hide_banner -loglevel error -i {video_file} -ss {str(start_time)} -to {str(end_time)} -an -c:v libx264 {trimmed_output_file} -y', shell = True)
+      subprocess.run(f'ffmpeg -hide_banner -loglevel error -i {video_file} -ss {str(start_time)} -to {str(end_time)} -an -c copy {trimmed_output_file} -y', shell = True)
       # extract video frames
       os.makedirs(os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind)))
       extract_out_folder = os.path.join('collected/extracted_frames',str(recp_ind) +'/'+ str(vid_ind))
