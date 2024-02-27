@@ -55,13 +55,7 @@ def generate_keyphrases(prompt):
 
     recipe_prompt = f"[INST] System prompt : {SYSTEM_PROMPT}  \n\n Recipe instruction : {prompt}  \n\n ASSISTANCE : [/INST]"
     response = llm(recipe_prompt)
-    index = response[0]['generated_text'].find('[/INST]')
-    multiline_string = response[0]['generated_text'][index+7:]
-    list_of_strings = multiline_string.splitlines()
-
-    # Remove numbering from each line
-    cleaned_list = [line.split('. ', 1)[1] if '. ' in line else line for line in list_of_strings]
-
-    return cleaned_list
+    input_string = response[0]['generated_text']
+    return eval(input_string[input_string.find('[/INST]')+7:].strip())
 
 

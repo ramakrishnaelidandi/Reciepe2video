@@ -90,6 +90,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
 
   score_txt_file = os.path.join('collected/extracted_frames',str(recp_ind) +'/'+'score.txt')
 
+  ranking_need = True
+
   for vid_ind, [video_id, score] in enumerate(asset):
 
   # Define the start and end times in seconds
@@ -127,6 +129,8 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
 
       if score >= 0.9 and (end_time - start_time) >= 2:
         move_video_clips(trimmed_output_file, recp_ind)
+        ranking_need = False
+
         break
 
       else:
@@ -145,12 +149,13 @@ def trim_and_concat_videos(recp_ind, recipe, df, asset):
     # no video is downloaded successfully
     generate_and_add_text_slide(recipe[recp_ind], recp_ind)
 
-  else:
+  elif ranking_need :
     # ranking the trimmed clips
+    os.remove(score_txt_file)
 
     key_phrases = generate_keyphrases(recipe[recp_ind])
 
-    selected_ind = rank_assets(recp_ind, key_phrases)
+    selected_ind = rank_assets(str(recp_ind), key_phrases)
 
     # Source file path
     source_file_path = os.path.join('collected/trimmed',str(recp_ind) +'/'+ sorted(os.listdir(os.path.join('collected/trimmed',str(recp_ind))))[int(selected_ind)])
